@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:13:23.163890+00:00",
+  "generatedAt": "2026-10-23T19:14:36.665048+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -9,7 +9,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "clubic",
@@ -19,7 +19,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "numerama",
@@ -29,7 +29,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "next",
@@ -39,7 +39,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "jdg",
@@ -49,7 +49,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "01net",
@@ -59,7 +59,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "presse",
@@ -69,7 +69,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "iphon",
@@ -79,7 +79,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "macg",
@@ -89,7 +89,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "mac4ever",
@@ -99,7 +99,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "frandroid",
@@ -109,7 +109,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "korben",
@@ -119,7 +119,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "basketusa",
@@ -129,7 +129,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "tda",
@@ -139,7 +139,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "bebasket-elite",
@@ -147,8 +147,8 @@
       "url": "https://www.bebasket.fr/ligue/betclic-elite",
       "group": "Sport",
       "icon": "icons/bebasket-elite.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden",
       "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
     },
     {
@@ -157,8 +157,8 @@
       "url": "https://www.bebasket.fr/ligue/pro-b",
       "group": "Sport",
       "icon": "icons/bebasket-prob.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden",
       "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
     },
     {
@@ -169,7 +169,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "nba",
@@ -179,7 +179,7 @@
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "boulet",
@@ -189,7 +189,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     },
     {
       "id": "maliki",
@@ -199,7 +199,7 @@
       "icon": "icons/maliki.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:13:23.163890+00:00"
+      "lastSuccessAt": "2026-10-23T19:14:36.665048+00:00"
     }
   ],
   "articles": [
@@ -1104,12 +1104,6 @@
       "publishedAt": "2026-10-23T11:26:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Sixers très attentifs au temps de jeu de Joel Embiid et LeBron James",
-      "url": "https://www.basketusa.com/news/950963/les-sixers-tres-attentifs-au-temps-de-jeu-de-joel-embiid-et-lebron-james/",
-      "publishedAt": "2026-10-23T11:22:20+00:00"
-    },
-    {
       "source": "01net",
       "title": "Le Poco X8 Pro se vend par camions : Xiaomi fait -48% sur la version 512 Go 🚛",
       "url": "https://www.01net.com/bons-plans/le-poco-x8-pro-se-vend-par-camions-xiaomi-fait-48-sur-la-version-512-go.html",
@@ -1342,6 +1336,12 @@
       "title": "Notre sélection des meilleurs chargeurs en promo pour vos nouveaux iPhone !",
       "url": "https://www.mac4ever.com/iphone/198701-notre-selection-des-meilleurs-chargeurs-en-promo-pour-vos-nouveaux-iphone",
       "publishedAt": "2026-10-23T09:23:41+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Sixers très attentifs au temps de jeu de Joel Embiid et LeBron James",
+      "url": "https://www.basketusa.com/news/950963/les-sixers-tres-attentifs-au-temps-de-jeu-de-joel-embiid-et-lebron-james/",
+      "publishedAt": "2026-10-23T09:22:20+00:00"
     },
     {
       "source": "clubic",
@@ -2170,6 +2170,12 @@
       "title": "Les prochaines générations de bandes magnétiques LTO pourraient stocker jusqu'à 365 To",
       "url": "https://www.macg.co/materiel/2026/10/les-prochaines-generations-de-bandes-magnetiques-lto-pourraient-stocker-jusqua-365-311817",
       "publishedAt": "2026-10-22T15:20:00+00:00"
+    },
+    {
+      "source": "nfl",
+      "title": "Roundup: Rams WR exits practice with calf injury; Bears TE's injury doesn't look 'good'",
+      "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
+      "publishedAt": "2026-10-22T15:17:56.330000+00:00"
     },
     {
       "source": "nfl",
