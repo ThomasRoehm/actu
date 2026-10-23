@@ -3,7 +3,7 @@ import json
 import unittest
 from unittest.mock import patch
 
-from scripts.collect import article, collect_bebasket, merge_articles, page_objects, parse_date, parse_feed, parse_page
+from scripts.collect import article, collect_bebasket, collect_blog, merge_articles, page_objects, parse_date, parse_feed, parse_page
 
 
 class CollectionTests(unittest.TestCase):
@@ -56,6 +56,16 @@ class CollectionTests(unittest.TestCase):
         pages = [json.dumps({"items": [post(recent)]}).encode(), json.dumps({"items": [post("2020-01-01T00:00:00Z")]}).encode()]
         with patch('scripts.collect.fetch', side_effect=pages) as fetch_mock:
             self.assertEqual(len(collect_bebasket({"id": "bebasket-prob"})), 2)
+            self.assertEqual(fetch_mock.call_count, 2)
+
+    def test_blog_uses_article_date_and_ignores_external_links(self):
+        listing = b'<a href="./blog/test">Post</a><a href="./blog/test">Duplicate</a><a href="https://other.com/blog/test">External</a>'
+        post = b'<meta property="og:title" content="A &amp; B"><!-- Published Oct 23, 2026 --><time datetime="2026-10-14T14:43:00.000Z">Date</time>'
+        with patch('scripts.collect.fetch', side_effect=[listing, post]) as fetch_mock:
+            items = collect_blog({"id": "digitalminimalist", "url": "https://www.digitalminimalist.com/blog"})
+            self.assertEqual(len(items), 1)
+            self.assertEqual(items[0]['title'], 'A & B')
+            self.assertEqual(items[0]['publishedAt'], '2026-10-14T14:43:00+00:00')
             self.assertEqual(fetch_mock.call_count, 2)
 
 

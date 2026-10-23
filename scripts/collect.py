@@ -2,6 +2,7 @@ import concurrent.futures
 import datetime
 import email.utils
 import html
+from html.parser import HTMLParser
 import json
 import pathlib
 import re
@@ -167,8 +168,50 @@ def parse_page(content, source):
     return result
 
 
+class BlogPage(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.links = []
+        self.title = None
+        self.published = None
+
+    def handle_starttag(self, tag, attributes):
+        attrs = dict(attributes)
+        if tag == "a" and attrs.get("href"):
+            self.links.append(attrs["href"])
+        if tag == "meta" and attrs.get("property") == "og:title":
+            self.title = attrs.get("content")
+        if tag == "time" and attrs.get("datetime") and self.published is None:
+            self.published = attrs["datetime"]
+
+
+def collect_blog(source):
+    listing = BlogPage()
+    listing.feed(fetch(source["url"]).decode("utf-8", "replace"))
+    urls = []
+    for link in listing.links:
+        url = urllib.parse.urljoin(source["url"], link)
+        parsed = urllib.parse.urlsplit(url)
+        if parsed.hostname == "www.digitalminimalist.com" and parsed.path.startswith("/blog/") and url not in urls:
+            urls.append(url)
+    if not urls:
+        raise ValueError("Aucun lien d’article reconnu")
+    result = []
+    for url in urls[:12]:
+        page = BlogPage()
+        page.feed(fetch(url).decode("utf-8", "replace"))
+        item = article(source, page.title, url, page.published)
+        if item:
+            result.append(item)
+    if not result:
+        raise ValueError("Aucune date de publication reconnue")
+    return result
+
+
 def collect_source(source):
     try:
+        if source.get("mode") == "blog":
+            return source, collect_blog(source), None
         if source["id"].startswith("bebasket-"):
             return source, collect_bebasket(source), None
         content = fetch(source.get("feed") or source["url"])

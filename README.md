@@ -18,7 +18,7 @@ Un fil personnel, compact et sans publicité ajoutée : tech, sport et BD des de
 
 GitHub Actions exécute `scripts/collect.py` aux minutes 07, 22, 37 et 52 de chaque heure, ainsi qu’après un push sur `main` ou un lancement manuel. Les horaires peuvent être retardés par GitHub.
 
-Les 18 sources configurées utilisent leurs flux RSS/Atom lorsqu’ils existent. NBA et NFL utilisent les métadonnées publiques intégrées à leurs pages. Aucun article complet n’est copié, aucun accès payant n’est contourné.
+Les 22 sources configurées utilisent leurs flux RSS/Atom lorsqu’ils existent. NBA et NFL utilisent les métadonnées publiques intégrées à leurs pages. Digital Minimalist utilise les titres et dates de publication des 12 premiers articles liés depuis son blog. Aucun article complet n’est copié, aucun accès payant n’est contourné.
 
 Les articles sont fusionnés avec `data/articles.json`, dédoublonnés par URL et conservés pendant 48 heures selon leur date de publication. Les dates absentes ou ambiguës sont ignorées. En cas d’échec d’une source, ses articles déjà collectés sont conservés jusqu’à expiration. Une panne de toutes les sources bloque la publication.
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:27:50.515715+00:00",
+  "generatedAt": "2026-10-23T19:36:41.015245+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -9,7 +9,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "clubic",
@@ -19,7 +19,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "numerama",
@@ -29,7 +29,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "next",
@@ -39,7 +39,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "jdg",
@@ -49,7 +49,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "01net",
@@ -59,7 +59,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "presse",
@@ -69,7 +69,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "iphon",
@@ -79,7 +79,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "macg",
@@ -89,7 +89,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "mac4ever",
@@ -99,7 +99,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "frandroid",
@@ -109,7 +109,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "korben",
@@ -119,7 +119,47 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
+    },
+    {
+      "id": "macworld",
+      "name": "Macworld",
+      "url": "https://www.macworld.com",
+      "group": "Tech",
+      "icon": "icons/macworld.png",
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
+    },
+    {
+      "id": "theverge",
+      "name": "The Verge",
+      "url": "https://www.theverge.com",
+      "group": "Tech",
+      "icon": "icons/theverge.png",
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com",
+      "group": "Tech",
+      "icon": "icons/techcrunch.jpg",
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
+    },
+    {
+      "id": "digitalminimalist",
+      "name": "Digital Minimalist",
+      "url": "https://www.digitalminimalist.com/blog",
+      "group": "Tech",
+      "icon": "icons/digitalminimalist.png",
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "basketusa",
@@ -129,7 +169,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "tda",
@@ -139,7 +179,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "nfl",
@@ -149,7 +189,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "nba",
@@ -159,7 +199,7 @@
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "boulet",
@@ -169,7 +209,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     },
     {
       "id": "maliki",
@@ -179,10 +219,34 @@
       "icon": "icons/maliki.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:27:50.515715+00:00"
+      "lastSuccessAt": "2026-10-23T19:36:41.015245+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "theverge",
+      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+      "publishedAt": "2026-10-23T19:35:15+00:00"
+    },
+    {
+      "source": "theverge",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "publishedAt": "2026-10-23T19:32:39+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "publishedAt": "2026-10-23T19:25:13+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "publishedAt": "2026-10-23T19:06:23+00:00"
+    },
     {
       "source": "gnt",
       "title": "Arkane Lyon menacé de fermeture par Microsoft, 217 emplois en jeu",
@@ -194,6 +258,12 @@
       "title": "Baker Mayfield retrouve les Buccaneers, mais pas tous ses titulaires",
       "url": "https://touchdownactu.com/360354/baker-mayfield-retrouve-les-buccaneers-mais-pas-tous-ses-titulaires/",
       "publishedAt": "2026-10-23T18:45:34+00:00"
+    },
+    {
+      "source": "theverge",
+      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+      "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+      "publishedAt": "2026-10-23T18:43:30+00:00"
     },
     {
       "source": "jdg",
@@ -238,6 +308,12 @@
       "publishedAt": "2026-10-23T17:57:49.682000+00:00"
     },
     {
+      "source": "theverge",
+      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
+      "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
+      "publishedAt": "2026-10-23T17:55:03+00:00"
+    },
+    {
       "source": "macg",
       "title": "25 ans de l'iPod : comment un simple baladeur a inventé l'électronique du XXIe siècle",
       "url": "https://www.macg.co/aapl/2026/10/25-ans-de-lipod-comment-un-simple-baladeur-invente-lelectronique-du-xxie-siecle-311837",
@@ -248,6 +324,12 @@
       "title": "Une attaque par IA a ciblé des milliers d'environnements Microsoft 365",
       "url": "https://www.generation-nt.com/actualites/cyberattaque-ia-microsoft-storm-0940-connectwise-artex-2083366",
       "publishedAt": "2026-10-23T17:40:01+00:00"
+    },
+    {
+      "source": "theverge",
+      "title": "Elon Musk’s dangerous grip on outer space",
+      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+      "publishedAt": "2026-10-23T17:35:15+00:00"
     },
     {
       "source": "clubic",
@@ -280,6 +362,12 @@
       "publishedAt": "2026-10-23T17:16:05+00:00"
     },
     {
+      "source": "macworld",
+      "title": "Apple TV this week: Season 2 of ‘Where’s Wanda?’ is now streaming",
+      "url": "https://www.macworld.com/article/230863/apple-tv-originals-shows-series-movies-release-dates-news-actors-directors.html",
+      "publishedAt": "2026-10-23T17:15:01+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Ils vivent sans Microsoft depuis 20 ans, eux : le choix payant de la gendarmerie et du fisc",
       "url": "https://www.clubic.com/actualite-635755-ils-vivent-sans-microsoft-depuis-20-ans-le-choix-payant-de-la-gendarmerie-et-du-fisc.html",
@@ -310,6 +398,12 @@
       "publishedAt": "2026-10-23T17:02:18+00:00"
     },
     {
+      "source": "theverge",
+      "title": "The iPhone Duo should have been an iPad",
+      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "publishedAt": "2026-10-23T17:00:18+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Un développeur de Valve mentionne accidentellement le nom de code HLX lié à Half-Life 3",
       "url": "https://www.generation-nt.com/actualites/valve-developpeur-nom-code-hlx-2083331",
@@ -326,6 +420,12 @@
       "title": "Danny Stutsman (Saints) : « Montrer que le football américain est un sport génial »",
       "url": "https://touchdownactu.com/360341/danny-stutsman-saints-montrer-que-le-football-americain-est-un-sport-genial/",
       "publishedAt": "2026-10-23T16:57:56+00:00"
+    },
+    {
+      "source": "theverge",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "publishedAt": "2026-10-23T16:52:55+00:00"
     },
     {
       "source": "basketusa",
@@ -346,6 +446,12 @@
       "publishedAt": "2026-10-23T16:46:54.079000+00:00"
     },
     {
+      "source": "macworld",
+      "title": "Apple’s M5 MacBook Air is $150 off ahead of Black Friday",
+      "url": "https://www.macworld.com/article/3268167/apples-m5-macbook-air-is-150-off-ahead-of-black-friday.html",
+      "publishedAt": "2026-10-23T16:46:08+00:00"
+    },
+    {
       "source": "basketusa",
       "title": "Pronostics NBA du 23 octobre 2026 : nos paris pour les matchs de la soirée",
       "url": "https://www.basketusa.com/news/951010/pronostics-nba-du-23-octobre-2026-nos-paris-pour-les-matchs-de-la-soiree/",
@@ -356,6 +462,24 @@
       "title": "Des GPU Nvidia B300 illégaux découverts au cœur du réseau de China Telecom !",
       "url": "https://www.generation-nt.com/actualites/nvidia-gpu-b300-reseau-china-telecom-exportation-restriction-2083368",
       "publishedAt": "2026-10-23T16:45:01+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "When is Apple’s next event? October 2026 date, time and",
+      "url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
+      "publishedAt": "2026-10-23T16:42:01+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "Celebrate the iPod’s anniversary with this amazing Apple Music Easter egg",
+      "url": "https://www.macworld.com/article/3268226/celebrate-the-ipods-anniversary-with-this-amazing-apple-music-easter-egg.html",
+      "publishedAt": "2026-10-23T16:37:44+00:00"
+    },
+    {
+      "source": "theverge",
+      "title": "The first broken iPhone Duos are here",
+      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+      "publishedAt": "2026-10-23T16:37:03+00:00"
     },
     {
       "source": "nfl",
@@ -382,6 +506,12 @@
       "publishedAt": "2026-10-23T16:28:22+00:00"
     },
     {
+      "source": "techcrunch",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "publishedAt": "2026-10-23T16:26:29+00:00"
+    },
+    {
       "source": "basketusa",
       "title": "Ausar Thompson veut être le bras droit de Cade Cunningham",
       "url": "https://www.basketusa.com/news/951080/ausar-thompson-veut-devenir-le-bras-droit-de-cade-cunningham/",
@@ -392,6 +522,12 @@
       "title": "Ce chargeur Ugreen 100 W peut recharger 4 appareils en même temps et coûte 25 % de moins",
       "url": "https://www.frandroid.com/bons-plans/3186965_ce-chargeur-ugreen-100-w-peut-recharger-4-appareils-en-meme-temps-et-coute-25-de-moins",
       "publishedAt": "2026-10-23T16:21:30+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "publishedAt": "2026-10-23T16:20:28+00:00"
     },
     {
       "source": "jdg",
@@ -448,6 +584,12 @@
       "publishedAt": "2026-10-23T16:03:53+00:00"
     },
     {
+      "source": "techcrunch",
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "publishedAt": "2026-10-23T16:02:43+00:00"
+    },
+    {
       "source": "iphon",
       "title": "iPhone Duo : déjà sous le feu des critiques à cause de ce problème avec MagSafe",
       "url": "https://www.iphon.fr/post/iphone-duo-deja-sous-le-feu-des-critiques-a-cause-de-ce-probleme-avec-magsafe",
@@ -482,6 +624,12 @@
       "title": "☕️ Le jeu vidéo français dans le rouge : Arkane et Don’t Nod en péril",
       "url": "https://next.ink/brief-article/le-jeu-video-francais-dans-le-rouge-arkane-et-dont-nod-en-peril/",
       "publishedAt": "2026-10-23T15:32:05+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "Meet the ESR Lineup Designed Specifically for Apple’s Foldable iPhone",
+      "url": "https://www.macworld.com/article/3265044/meet-the-esr-lineup-designed-specifically-for-apples-foldable-iphone.html",
+      "publishedAt": "2026-10-23T15:31:01+00:00"
     },
     {
       "source": "presse",
@@ -532,6 +680,12 @@
       "publishedAt": "2026-10-23T15:25:01+00:00"
     },
     {
+      "source": "theverge",
+      "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+      "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+      "publishedAt": "2026-10-23T15:24:45+00:00"
+    },
+    {
       "source": "frandroid",
       "title": "Parfait pour affronter le froid, cet étonnant appareil 3-en-1 signé Honor perd 130 €",
       "url": "https://www.frandroid.com/bons-plans/3197605_parfait-pour-affronter-le-froid-cet-etonnant-appareil-3-en-1-signe-honor-perd-130",
@@ -550,6 +704,12 @@
       "publishedAt": "2026-10-23T15:17:00+00:00"
     },
     {
+      "source": "theverge",
+      "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+      "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
+      "publishedAt": "2026-10-23T15:16:24+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Paradoxe à la Paris Games Week : des joueurs en fête, des studios au bord du gouffre",
       "url": "https://www.generation-nt.com/actualites/jeu-video-france-crise-studios-paris-games-week-2083357",
@@ -560,12 +720,6 @@
       "title": "Un téraoctet de plus pour vos jeux et vos fichiers, ça vous dit ? Le prix du SSD Corsair MP600 Core XT baisse de 59 € chez Amazon",
       "url": "https://www.clubic.com/bons-plans-635752-un-teraoctet-de-plus-pour-vos-jeux-et-vos-fichiers-ca-vous-dit-le-prix-du-ssd-corsair-mp600-core-xt-baisse-de-59-chez-amazon.html",
       "publishedAt": "2026-10-23T15:14:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Cleveland Cavaliers – Brooklyn Nets : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/951053/cleveland-cavaliers-brooklyn-nets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-10-23T15:12:47+00:00"
     },
     {
       "source": "frandroid",
@@ -595,6 +749,12 @@
       "source": "tda",
       "title": "[Podcast] Fantasy S7 : Puka Nakua, l’homme providentiel",
       "url": "https://touchdownactu.com/360306/podcast-fantasy-s7-puka-nakua-lhomme-providentiel/",
+      "publishedAt": "2026-10-23T15:00:09+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
       "publishedAt": "2026-10-23T15:00:09+00:00"
     },
     {
@@ -874,6 +1034,12 @@
       "publishedAt": "2026-10-23T13:20:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Cleveland Cavaliers – Brooklyn Nets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/951053/cleveland-cavaliers-brooklyn-nets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-10-23T13:12:47+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Le marché des PC s’effondre de 21 %, mais le MacBook Neo sauve les meubles chez Apple !",
       "url": "https://www.mac4ever.com/mac/198692-le-marche-des-pc-s-effondre-de-21-mais-le-macbook-neo-sauve-les-meubles-chez-apple",
@@ -914,6 +1080,12 @@
       "title": "Xbox serre la vis sur le télétravail pour masquer ses suppressions de postes",
       "url": "https://www.generation-nt.com/actualites/xbox-serre-vis-teletravail-licenciements-2083299",
       "publishedAt": "2026-10-23T13:00:01+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "The iPhone Duo arrives exactly 25 years after the iPod. How do they compare?",
+      "url": "https://www.macworld.com/article/3268030/the-iphone-duo-arrives-exactly-25-years-after-the-ipod-how-do-they-compare.html",
+      "publishedAt": "2026-10-23T12:59:06+00:00"
     },
     {
       "source": "clubic",
@@ -1000,6 +1172,12 @@
       "publishedAt": "2026-10-23T12:15:00+00:00"
     },
     {
+      "source": "macworld",
+      "title": "The new iPad mini is coming to put the Air out of its misery",
+      "url": "https://www.macworld.com/article/3264006/the-new-ipad-mini-is-coming-to-put-the-air-out-of-its-misery.html",
+      "publishedAt": "2026-10-23T12:05:33+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Sony commence à enterrer le Blu-ray, il ne reste plus que la PS5",
       "url": "https://www.journaldugeek.com/2026/10/23/sony-commence-a-enterrer-le-blu-ray-il-ne-reste-plus-que-la-ps5/",
@@ -1036,6 +1214,12 @@
       "publishedAt": "2026-10-23T11:40:00+00:00"
     },
     {
+      "source": "macworld",
+      "title": "Apple accidentally reveals Google Workspace AI competitor",
+      "url": "https://www.macworld.com/article/3267434/apple-accidentally-reveals-google-workspace-ai-competitor.html",
+      "publishedAt": "2026-10-23T11:34:58+00:00"
+    },
+    {
       "source": "presse",
       "title": "Effrayant : cette IA peut trouver votre adresse à l’aide d’une photo prise de l’intérieur",
       "url": "https://www.presse-citron.net/effrayant-cette-ia-peut-trouver-votre-adresse-a-laide-dune-photo-prise-de-linterieur/",
@@ -1058,6 +1242,18 @@
       "title": "Pour la première fois, des avions de chasse britanniques ont participé à un raid nucléaire simulé de la France",
       "url": "https://www.clubic.com/actualite-635692-pour-la-premiere-fois-des-avions-de-chasse-britanniques-ont-participe-a-un-raid-nucleaire-simule-de-la-france.html",
       "publishedAt": "2026-10-23T11:26:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Sixers très attentifs au temps de jeu de Joel Embiid et LeBron James",
+      "url": "https://www.basketusa.com/news/950963/les-sixers-tres-attentifs-au-temps-de-jeu-de-joel-embiid-et-lebron-james/",
+      "publishedAt": "2026-10-23T11:22:20+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "AirPods 5 review: More for less",
+      "url": "https://www.macworld.com/article/3265031/airpods-5-review.html",
+      "publishedAt": "2026-10-23T11:15:00+00:00"
     },
     {
       "source": "01net",
@@ -1210,6 +1406,12 @@
       "publishedAt": "2026-10-23T10:00:28+00:00"
     },
     {
+      "source": "macworld",
+      "title": "iPhone Duo: 6 highs and lows that defined my first 12 hours",
+      "url": "https://www.macworld.com/article/3267488/6-iphone-duo-highs-and-lows-that-defined-my-day-one-experience.html",
+      "publishedAt": "2026-10-23T10:00:00+00:00"
+    },
+    {
       "source": "presse",
       "title": "La banque Barclays met à la porte 5 000 personnes malgré des bénéfices en hausse : l’IA en cause",
       "url": "https://www.presse-citron.net/la-banque-barclays-met-a-la-porte-5-000-personnes-malgre-des-benefices-en-hausse-lia-en-cause/",
@@ -1246,6 +1448,12 @@
       "publishedAt": "2026-10-23T09:45:15+00:00"
     },
     {
+      "source": "macworld",
+      "title": "iPhone Duo guide: Release date, price, specs and first reviews",
+      "url": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html",
+      "publishedAt": "2026-10-23T09:43:36+00:00"
+    },
+    {
       "source": "iphon",
       "title": "Économisez jusqu’à 221 € sur l’iPhone 17 Pro Max",
       "url": "https://www.iphon.fr/post/economisez-221-euros-iphone-17-pro-max",
@@ -1280,12 +1488,6 @@
       "title": "Notre sélection des meilleurs chargeurs en promo pour vos nouveaux iPhone !",
       "url": "https://www.mac4ever.com/iphone/198701-notre-selection-des-meilleurs-chargeurs-en-promo-pour-vos-nouveaux-iphone",
       "publishedAt": "2026-10-23T09:23:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Sixers très attentifs au temps de jeu de Joel Embiid et LeBron James",
-      "url": "https://www.basketusa.com/news/950963/les-sixers-tres-attentifs-au-temps-de-jeu-de-joel-embiid-et-lebron-james/",
-      "publishedAt": "2026-10-23T09:22:20+00:00"
     },
     {
       "source": "clubic",
@@ -1516,6 +1718,18 @@
       "publishedAt": "2026-10-23T08:00:40+00:00"
     },
     {
+      "source": "macworld",
+      "title": "Stop hunting for a scanner and use your iPhone instead for $24.97",
+      "url": "https://www.macworld.com/article/3266412/stop-hunting-for-a-scanner-and-use-your-iphone-instead-for-24-97.html",
+      "publishedAt": "2026-10-23T08:00:00+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "Swap doomscrolling for 10-minute lessons with Nibble, now $69.99 for life",
+      "url": "https://www.macworld.com/article/3266405/swap-doomscrolling-for-10-minute-lessons-with-nibble-now-69-99-for-life.html",
+      "publishedAt": "2026-10-23T08:00:00+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Insta360 Mic : 60 euros de moins que le Mic Pro, et plus d'autonomie",
       "url": "https://www.mac4ever.com/audio/198695-insta360-mic-60-euros-de-moins-que-le-mic-pro-et-plus-d-autonomie",
@@ -1634,6 +1848,12 @@
       "title": "Les Bears battent les Patriots : les 8 infos NFL du vendredi",
       "url": "https://touchdownactu.com/360293/les-bears-battent-les-patriots-les-8-infos-nfl-du-vendredi/",
       "publishedAt": "2026-10-23T06:47:58+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Bolt et Stellantis préparent des véhicules autonomes dans le Grand Paris pour 2028",
+      "url": "https://www.clubic.com/actualite-635776-bolt-et-stellantis-preparent-des-vehicules-autonomes-dans-le-grand-paris-pour-2028.html",
+      "publishedAt": "2026-10-23T06:45:00+00:00"
     },
     {
       "source": "clubic",
@@ -1840,6 +2060,18 @@
       "publishedAt": "2026-10-23T04:50:00+00:00"
     },
     {
+      "source": "techcrunch",
+      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
+      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "publishedAt": "2026-10-23T04:22:57+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "publishedAt": "2026-10-23T04:00:00+00:00"
+    },
+    {
       "source": "nba",
       "title": "4 takeaways: SGA's 20-point streak ends while the Thunder drop another contender",
       "url": "https://www.nba.com/news/takeaways-nuggets-thunder-2026-27",
@@ -1864,10 +2096,34 @@
       "publishedAt": "2026-10-23T01:00:01+00:00"
     },
     {
+      "source": "techcrunch",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "publishedAt": "2026-10-23T00:45:37+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "publishedAt": "2026-10-22T23:50:41+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "publishedAt": "2026-10-22T23:15:00+00:00"
+    },
+    {
       "source": "nfl",
       "title": "Week 7 Thursday night inactives: New England Patriots at Chicago Bears",
       "url": "https://www.nfl.com/news/week-7-thursday-night-inactives-new-england-patriots-at-chicago-bears",
       "publishedAt": "2026-10-22T22:48:23.219000+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "publishedAt": "2026-10-22T22:34:54+00:00"
     },
     {
       "source": "nba",
@@ -1876,10 +2132,22 @@
       "publishedAt": "2026-10-22T22:16:48+00:00"
     },
     {
+      "source": "techcrunch",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "publishedAt": "2026-10-22T22:08:24+00:00"
+    },
+    {
       "source": "nba",
       "title": "Jamal Crawford shares 6 things he saw Opening Night at The Garden",
       "url": "https://www.nba.com/news/jamal-crawford-opening-night-sixers-knicks",
       "publishedAt": "2026-10-22T21:52:52+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "publishedAt": "2026-10-22T21:05:05+00:00"
     },
     {
       "source": "nba",
@@ -1906,6 +2174,18 @@
       "publishedAt": "2026-10-22T20:30:00+00:00"
     },
     {
+      "source": "techcrunch",
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "publishedAt": "2026-10-22T20:01:51+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "publishedAt": "2026-10-22T20:00:00+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "iPhone Duo, prise en main et réaction à chaud⎜ORLM-602",
       "url": "https://www.mac4ever.com/iphone/198686-iphone-duo-prise-en-main-et-reaction-a-chaud-orlm-602",
@@ -1924,10 +2204,40 @@
       "publishedAt": "2026-10-22T19:19:18.855000+00:00"
     },
     {
+      "source": "techcrunch",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "publishedAt": "2026-10-22T19:07:09+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "publishedAt": "2026-10-22T19:00:00+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "publishedAt": "2026-10-22T19:00:00+00:00"
+    },
+    {
       "source": "clubic",
       "title": "C’est officiel, Arc Browser a une date de fin et elle approche",
       "url": "https://www.clubic.com/actualite-635575-c-est-officiel-arc-browser-a-une-date-de-fin-et-elle-approche.html",
       "publishedAt": "2026-10-22T18:54:00+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "publishedAt": "2026-10-22T18:43:53+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "Trying to snag an iPhone Duo? These stock-checking sites might help",
+      "url": "https://www.macworld.com/article/3267323/trying-to-snag-an-iphone-duo-these-stock-checking-sites-might-help.html",
+      "publishedAt": "2026-10-22T18:19:45+00:00"
     },
     {
       "source": "nba",
@@ -1964,6 +2274,12 @@
       "title": "Économisez 10% sur le dernier iPad par rapport à l'Apple Store !",
       "url": "https://www.mac4ever.com/ipad/198685-economisez-10-sur-le-dernier-ipad-par-rapport-a-l-apple-store",
       "publishedAt": "2026-10-22T17:35:20+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "Apple to iPhone Duo buyers: We promise your favorite apps will look great (eventually)",
+      "url": "https://www.macworld.com/article/3267241/apple-to-iphone-duo-buyers-we-promise-your-favorite-apps-will-look-great-eventually.html",
+      "publishedAt": "2026-10-22T17:28:43+00:00"
     },
     {
       "source": "clubic",
@@ -2018,6 +2334,12 @@
       "title": "Saints GM asks for patience with team: 'I like the direction we're going'",
       "url": "https://www.nfl.com/news/saints-gm-mickey-loomis-asks-for-patience-with-team-i-like-the-direction-we-re-going",
       "publishedAt": "2026-10-22T16:28:19.839000+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "Grab Ugreen’s ultra-compact 25W magnetic wireless charger for half off today",
+      "url": "https://www.macworld.com/article/3267243/grab-ugreens-ultra-compact-25w-magnetic-wireless-charger-for-half-off-today.html",
+      "publishedAt": "2026-10-22T16:27:58+00:00"
     },
     {
       "source": "clubic",
@@ -2176,6 +2498,12 @@
       "publishedAt": "2026-10-22T13:36:00+00:00"
     },
     {
+      "source": "macworld",
+      "title": "The iPhone Duo 2 might fix one of its biggest flaws",
+      "url": "https://www.macworld.com/article/3267058/the-iphone-duo-2-might-fix-one-of-its-biggest-flaws.html",
+      "publishedAt": "2026-10-22T13:35:57+00:00"
+    },
+    {
       "source": "01net",
       "title": "Après Muse de Meta et ChatGPT Dot, Anthropic s’aligne et dévoile Claude Duet",
       "url": "https://www.01net.com/actualites/apres-muse-dot-anthropic-saligne-devoile-agent-proactif-duet-aucun-disponible-chez-nous.html",
@@ -2218,6 +2546,12 @@
       "publishedAt": "2026-10-22T12:19:40.978000+00:00"
     },
     {
+      "source": "macworld",
+      "title": "Best time to buy an iPhone in 2026: Buy now or wait for Black Friday?",
+      "url": "https://www.macworld.com/article/672505/when-is-the-best-time-to-buy-an-iphone.html",
+      "publishedAt": "2026-10-22T12:09:54+00:00"
+    },
+    {
       "source": "iphon",
       "title": "Les Ray-Ban Meta enregistrent des conversations sans le consentement de l’utilisateur",
       "url": "https://www.iphon.fr/post/ray-ban-meta-enregistrent-conversations-sans-consentement-utilisateur",
@@ -2240,6 +2574,12 @@
       "title": "Ce n'est pas la semaine d'Orange : l'opérateur a coupé des services à cause de la faille de PHP",
       "url": "https://www.macg.co/services/2026/10/ce-nest-pas-la-semaine-dorange-loperateur-coupe-des-services-cause-de-la-faille-de-php-311811",
       "publishedAt": "2026-10-22T10:50:00+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "5 features I want in the new MacBook Pro (other than a touchscreen)",
+      "url": "https://www.macworld.com/article/3264152/5-features-i-want-in-the-new-macbook-pro-other-than-a-touchscreen.html",
+      "publishedAt": "2026-10-22T10:30:00+00:00"
     },
     {
       "source": "iphon",
@@ -2282,6 +2622,12 @@
       "title": "21 octobre 2026 : retour en détail sur cette journée noire pour la cybersécurité",
       "url": "https://next.ink/263123/21-octobre-2026-retour-en-detail-sur-cette-journee-noire-pour-la-cybersecurite/",
       "publishedAt": "2026-10-22T09:12:39+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "Best iPhone 2026: Every iPhone compared",
+      "url": "https://www.macworld.com/article/228816/best-iphone-pro-max-duo-ranked.html",
+      "publishedAt": "2026-10-22T08:48:44+00:00"
     },
     {
       "source": "next",
@@ -2384,18 +2730,6 @@
       "title": "Cambridge Analytica : Meta condamnée à 25 milliards de dollars, et elle s'en sort plutôt bien",
       "url": "https://www.macg.co/ailleurs/2026/10/cambridge-analytica-meta-condamnee-25-milliards-de-dollars-et-elle-sen-sort-plutot-bien-311793",
       "publishedAt": "2026-10-21T20:40:00+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Saleh: Elliott released by Titans after pulling out gun in parking lot",
-      "url": "https://www.nfl.com/news/jordan-elliott-released-by-titans-after-pulling-out-gun-in-parking-lot-robert-saleh-says",
-      "publishedAt": "2026-10-21T19:33:52.065000+00:00"
-    },
-    {
-      "source": "next",
-      "title": "☕️ [MàJ] Fin d’incident sur le réseau mobile Orange, qui invoque la défaillance d’un équipement",
-      "url": "https://next.ink/brief-article/orange-confirme-un-incident-en-cours-sur-son-reseau-mobile/",
-      "publishedAt": "2026-10-21T19:30:00+00:00"
     }
   ]
 }
