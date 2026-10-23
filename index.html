@@ -17,18 +17,13 @@
 <body>
   <a class="skip" href="#feed">Aller aux actualités</a>
   <div class="shell">
-    <header>
-      <div class="brand"><span class="brand-icon" aria-hidden="true">a<span>.</span></span><span>actu<span class="brand-dot">.</span></span></div>
-      <div class="header-actions"><span class="window-label">LES DERNIÈRES 48 H</span><button id="refresh" class="icon-button" aria-label="Actualiser les actualités" title="Actualiser"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5M6.1 7a7 7 0 0 1 11.5-2L20 8M4 16l2.4 3A7 7 0 0 0 17.9 17"/></svg></button></div>
-    </header>
     <main>
-      <section class="intro" aria-labelledby="page-title"><p class="eyebrow" id="today">VOTRE REVUE DU JOUR</p><h1 id="page-title">L’essentiel, au fil du temps.</h1><p class="subtitle">Vos sources préférées. Un seul fil. Rien de plus.</p></section>
-      <div class="toolbar"><nav class="tabs" aria-label="Filtrer les actualités"><button class="tab active" data-group="all" aria-pressed="true">Tout <span id="total-count">—</span></button><button class="tab" data-group="Tech" aria-pressed="false">Tech</button><button class="tab" data-group="Sport" aria-pressed="false">Sport</button><button class="tab" data-group="BD" aria-pressed="false">BD</button></nav><button class="sources-button" id="show-sources">Les sources <span id="source-count">20</span></button></div>
-      <div class="search-row"><label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><input id="search" type="search" placeholder="Rechercher un titre ou un site…" aria-label="Rechercher un titre ou un site" autocomplete="off"></label><span class="sort-label">Plus récents d’abord</span></div>
+      <div class="toolbar"><nav class="tabs" aria-label="Filtrer les actualités"><button class="tab active" data-group="all" aria-pressed="true">Tout <span id="total-count">—</span></button><button class="tab" data-group="Tech" aria-pressed="false">Tech</button><button class="tab" data-group="Sport" aria-pressed="false">Sport</button><button class="tab" data-group="BD" aria-pressed="false">BD</button></nav><button class="sources-button" id="show-sources">Les sources <span id="source-count">18</span></button></div>
+      <div class="search-row"><label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><input id="search" type="search" placeholder="Rechercher un titre ou un site…" aria-label="Rechercher un titre ou un site" autocomplete="off"></label><span class="sort-label">Plus récents d’abord</span><button id="refresh" class="icon-button" aria-label="Actualiser les actualités" title="Actualiser"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5M6.1 7a7 7 0 0 1 11.5-2L20 8M4 16l2.4 3A7 7 0 0 0 17.9 17"/></svg></button></div>
       <div class="feed-meta"><span id="result-count" role="status">Chargement du fil…</span><span id="updated"><span class="status-dot"></span>Connexion…</span></div>
       <p id="notice" class="notice" role="status" hidden></p>
       <div id="feed" tabindex="-1" aria-label="Articles des dernières 48 heures" aria-busy="true"><div class="empty">Récupération de vos actualités…</div></div>
-      <footer><span>Un peu moins de bruit, un peu plus d’essentiel.</span><span>48 heures · <span id="footer-sources">20 sources</span></span></footer>
+      <footer><span>48 heures · <span id="footer-sources">18 sources</span></span></footer>
     </main>
   </div>
   <dialog id="sources-dialog" aria-labelledby="sources-title"><div class="dialog-heading"><div><p class="eyebrow">VOTRE SÉLECTION</p><h2 id="sources-title">Toutes vos sources</h2></div><button class="icon-button" id="close-sources" aria-label="Fermer">✕</button></div><p class="dialog-copy">Collecte prévue toutes les 15 minutes. Une source sans nouveauté reste suivie.</p><div id="sources-list"></div><p class="dialog-copy">Les articles s’ouvrent sur leur site d’origine. Certains peuvent nécessiter un abonnement. Thème adapté automatiquement à votre appareil.</p></dialog>

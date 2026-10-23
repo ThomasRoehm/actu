@@ -66,7 +66,6 @@ function render() {
     const source = sources.get(article.source);
     return (state.group === 'all' || source.group === state.group) && normalize(`${article.title} ${source.name}`).includes(state.search);
   });
-  byId('today').textContent = dateFormat.format(new Date()).toUpperCase();
   byId('total-count').textContent = articles.length;
   byId('result-count').textContent = `${filtered.length} article${filtered.length > 1 ? 's' : ''} sur 48 heures`;
   byId('source-count').textContent = sources.size;
