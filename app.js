@@ -74,7 +74,7 @@ function render() {
   const dot = document.createElement('span');
   dot.className = 'status-dot';
   byId('updated').append(dot, `Collecte ${relativeTime(generated)}`);
-  byId('updated').title = `Dernière collecte : ${generated.toLocaleString('fr-FR')}. Actualisation planifiée environ toutes les 15 minutes.`;
+  byId('updated').title = `Dernière collecte : ${generated.toLocaleString('fr-FR')}. Collecte programmée toutes les 5 minutes, sous réserve des délais de GitHub.`;
   const failed = state.data.sources.filter((source) => !source.ok).length;
   const stale = now - generated.getTime() > 3600000;
   byId('notice').hidden = !failed && !stale;
