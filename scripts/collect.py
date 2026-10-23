@@ -243,6 +243,7 @@ def main():
         for source, items, error in pool.map(collect_source, sources):
             incoming.extend(items)
             status = {key: source[key] for key in ("id", "name", "url", "group")}
+            status["language"] = source.get("language", "fr")
             extension = "jpg" if (ROOT / "icons" / (source["id"] + ".jpg")).exists() else "png"
             status["icon"] = "icons/" + source["id"] + "." + extension
             status.update(ok=error is None, error=error, lastSuccessAt=now.isoformat() if error is None else previous_status.get(source["id"], {}).get("lastSuccessAt"))

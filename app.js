@@ -1,8 +1,7 @@
-const state = { data: null, group: 'all', search: '', loading: false };
+const state = { data: null, group: 'all', language: 'fr', loading: false };
 const byId = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
 const clockFormat = new Intl.DateTimeFormat('fr-FR', { hour: '2-digit', minute: '2-digit' });
-const normalize = (value) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 const safeUrl = (value) => { try { const url = new URL(value); return ['https:', 'http:'].includes(url.protocol) ? url.href : null; } catch { return null; } };
 
 function icon(source) {
@@ -40,7 +39,7 @@ function renderSources(sources, articles) {
     description.className = 'source-description';
     description.textContent = source.name;
     const group = document.createElement('small');
-    group.textContent = source.group;
+    group.textContent = `${source.group} · ${source.language === 'en' ? 'Anglais' : 'Français'}`;
     description.append(group);
     row.append(description);
     const status = document.createElement('span');
@@ -64,9 +63,9 @@ function render() {
   }).sort((first, second) => Date.parse(second.publishedAt) - Date.parse(first.publishedAt));
   const filtered = articles.filter((article) => {
     const source = sources.get(article.source);
-    return (state.group === 'all' || source.group === state.group) && normalize(`${article.title} ${source.name}`).includes(state.search);
+    return (state.group === 'all' || source.group === state.group) && (source.language || 'fr') === state.language;
   });
-  byId('total-count').textContent = articles.length;
+  byId('total-count').textContent = articles.filter((article) => (sources.get(article.source).language || 'fr') === state.language).length;
   byId('result-count').textContent = `${filtered.length} article${filtered.length > 1 ? 's' : ''} sur 48 heures`;
   byId('source-count').textContent = sources.size;
   byId('footer-sources').textContent = `${sources.size} sources`;
@@ -141,7 +140,7 @@ function render() {
   if (!filtered.length) {
     const empty = document.createElement('div');
     empty.className = 'empty';
-    empty.textContent = state.search ? 'Aucun article ne correspond à votre recherche.' : 'Aucune nouveauté dans les dernières 48 heures. Revenez un peu plus tard.';
+    empty.textContent = 'Aucune nouveauté dans cette langue et cette catégorie sur les dernières 48 heures.';
     feed.append(empty);
   }
   renderSources(state.data.sources, articles);
@@ -175,7 +174,11 @@ document.querySelectorAll('[data-group]').forEach((button) => button.addEventLis
   document.querySelectorAll('[data-group]').forEach((tab) => { const active = tab === button; tab.classList.toggle('active', active); tab.setAttribute('aria-pressed', String(active)); });
   render();
 }));
-byId('search').addEventListener('input', (event) => { state.search = normalize(event.target.value.trim()); render(); });
+document.querySelectorAll('[data-language]').forEach((button) => button.addEventListener('click', () => {
+  state.language = button.dataset.language;
+  document.querySelectorAll('[data-language]').forEach((tab) => { const active = tab === button; tab.classList.toggle('active', active); tab.setAttribute('aria-pressed', String(active)); });
+  render();
+}));
 byId('refresh').addEventListener('click', load);
 byId('show-sources').addEventListener('click', () => byId('sources-dialog').showModal());
 byId('close-sources').addEventListener('click', () => byId('sources-dialog').close());

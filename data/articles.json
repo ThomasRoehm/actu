@@ -1,225 +1,247 @@
 {
-  "generatedAt": "2026-10-23T19:41:54.188291+00:00",
+  "generatedAt": "2026-10-23T19:45:51.281649+00:00",
   "sources": [
     {
       "id": "gnt",
       "name": "Génération NT",
       "url": "https://www.generation-nt.com/actualites",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "clubic",
       "name": "Clubic",
       "url": "https://www.clubic.com",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "numerama",
       "name": "Numerama",
       "url": "https://www.numerama.com",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "next",
       "name": "Next",
       "url": "https://next.ink",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "jdg",
       "name": "Journal du Geek",
       "url": "https://www.journaldugeek.com",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "01net",
       "name": "01net",
       "url": "https://www.01net.com",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "presse",
       "name": "Presse-citron",
       "url": "https://www.presse-citron.net",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "iphon",
       "name": "iPhon.fr",
       "url": "https://www.iphon.fr",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "macg",
       "name": "MacGeneration",
       "url": "https://www.macg.co",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "mac4ever",
       "name": "Mac4Ever",
       "url": "https://www.mac4ever.com",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "frandroid",
       "name": "Frandroid",
       "url": "https://www.frandroid.com",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "korben",
       "name": "Korben",
       "url": "https://korben.info",
       "group": "Tech",
+      "language": "fr",
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "macworld",
       "name": "Macworld",
       "url": "https://www.macworld.com",
       "group": "Tech",
+      "language": "en",
       "icon": "icons/macworld.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "url": "https://www.theverge.com",
       "group": "Tech",
+      "language": "en",
       "icon": "icons/theverge.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "techcrunch",
       "name": "TechCrunch",
       "url": "https://techcrunch.com",
       "group": "Tech",
+      "language": "en",
       "icon": "icons/techcrunch.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "digitalminimalist",
       "name": "Digital Minimalist",
       "url": "https://www.digitalminimalist.com/blog",
       "group": "Tech",
+      "language": "en",
       "icon": "icons/digitalminimalist.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "basketusa",
       "name": "Basket USA",
       "url": "https://www.basketusa.com/category/news/",
       "group": "Sport",
+      "language": "fr",
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "tda",
       "name": "Touchdown Actu",
       "url": "https://touchdownactu.com/category/actu/",
       "group": "Sport",
+      "language": "fr",
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "nfl",
       "name": "NFL",
       "url": "https://www.nfl.com/news",
       "group": "Sport",
+      "language": "en",
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "nba",
       "name": "NBA",
       "url": "https://www.nba.com/news",
       "group": "Sport",
+      "language": "en",
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "boulet",
       "name": "Bouletcorp",
       "url": "https://www.bouletcorp.com",
       "group": "BD",
+      "language": "fr",
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     },
     {
       "id": "maliki",
       "name": "Maliki",
       "url": "https://maliki.com/actualites/",
       "group": "BD",
+      "language": "fr",
       "icon": "icons/maliki.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-23T19:41:54.188291+00:00"
+      "lastSuccessAt": "2026-10-23T19:45:51.281649+00:00"
     }
   ],
   "articles": [
@@ -1250,6 +1272,12 @@
       "publishedAt": "2026-10-23T11:26:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Sixers très attentifs au temps de jeu de Joel Embiid et LeBron James",
+      "url": "https://www.basketusa.com/news/950963/les-sixers-tres-attentifs-au-temps-de-jeu-de-joel-embiid-et-lebron-james/",
+      "publishedAt": "2026-10-23T11:22:20+00:00"
+    },
+    {
       "source": "macworld",
       "title": "AirPods 5 review: More for less",
       "url": "https://www.macworld.com/article/3265031/airpods-5-review.html",
@@ -1488,12 +1516,6 @@
       "title": "Notre sélection des meilleurs chargeurs en promo pour vos nouveaux iPhone !",
       "url": "https://www.mac4ever.com/iphone/198701-notre-selection-des-meilleurs-chargeurs-en-promo-pour-vos-nouveaux-iphone",
       "publishedAt": "2026-10-23T09:23:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Sixers très attentifs au temps de jeu de Joel Embiid et LeBron James",
-      "url": "https://www.basketusa.com/news/950963/les-sixers-tres-attentifs-au-temps-de-jeu-de-joel-embiid-et-lebron-james/",
-      "publishedAt": "2026-10-23T09:22:20+00:00"
     },
     {
       "source": "clubic",

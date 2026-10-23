@@ -10,7 +10,7 @@ Un fil personnel, compact et sans publicité ajoutée : tech, sport et BD des de
 - Sur Mac : ouvrir le même lien et l’ajouter aux favoris.
 - Le thème clair/sombre suit automatiquement le système.
 - Chaque ligne ouvre l’article original dans un nouvel onglet. Les liens visités sont atténués par le navigateur.
-- Les filtres et la recherche sont facultatifs : le fil initial mélange toutes les sources, du plus récent au plus ancien.
+- Le fil s’ouvre sur les sources françaises. Les boutons Français / Anglais séparent les langues et se combinent avec Tout / Tech / Sport / BD. Le tri reste du plus récent au plus ancien. La recherche a été supprimée.
 - « Les sources » affiche le résultat de la dernière collecte. Une source sans publication récente n’est pas une erreur.
 - Le bouton d’actualisation recharge les données publiées ; il ne déclenche pas une collecte serveur.
 
