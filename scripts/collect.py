@@ -118,6 +118,37 @@ def page_objects(content):
             pass
 
 
+def bebasket_article(obj, source):
+    league = "betclic-elite" if source["id"] == "bebasket-elite" else "pro-b"
+    matching = any(tag.get("league", {}).get("slug") == league for tag in obj.get("tags", []) if isinstance(tag, dict) and isinstance(tag.get("league"), dict))
+    if matching and obj.get("slug") and isinstance(obj.get("createdAt"), dict):
+        return article(source, obj.get("title"), "https://www.bebasket.fr/" + obj["slug"], obj["createdAt"].get("atom"))
+    return None
+
+
+def collect_bebasket(source):
+    result = []
+    cutoff = datetime.datetime.now(UTC) - datetime.timedelta(hours=48)
+    for page in range(1, 13):
+        payload = json.loads(fetch(f"https://admin.bebasket.fr/api/v1/fr/blog/post?page={page}"))
+        items = payload.get("items")
+        if not isinstance(items, list):
+            raise ValueError("Liste d’articles BeBasket non reconnue")
+        if not items:
+            break
+        dates = []
+        for obj in items:
+            item = bebasket_article(obj, source)
+            if item:
+                result.append(item)
+            date = parse_date(obj.get("createdAt", {}).get("atom"))
+            if date:
+                dates.append(date)
+        if dates and max(dates) < cutoff:
+            break
+    return result
+
+
 def parse_page(content, source):
     result = []
     for obj in page_objects(content):
@@ -126,9 +157,7 @@ def parse_page(content, source):
         elif source["id"] == "nfl" and obj.get("type") == "article":
             item = article(source, obj.get("title"), obj.get("webLink") or obj.get("href"), obj.get("publishDate"))
         elif source["id"].startswith("bebasket-") and isinstance(obj.get("createdAt"), dict) and obj.get("slug"):
-            league = "betclic-elite" if source["id"] == "bebasket-elite" else "pro-b"
-            matching = any(tag.get("league", {}).get("slug") == league for tag in obj.get("tags", []) if isinstance(tag, dict) and isinstance(tag.get("league"), dict))
-            item = article(source, obj.get("title"), "https://www.bebasket.fr/" + obj["slug"], obj["createdAt"].get("atom")) if matching else None
+            item = bebasket_article(obj, source)
         else:
             item = None
         if item:
@@ -140,6 +169,8 @@ def parse_page(content, source):
 
 def collect_source(source):
     try:
+        if source["id"].startswith("bebasket-"):
+            return source, collect_bebasket(source), None
         content = fetch(source.get("feed") or source["url"])
         items = parse_feed(content, source) if source.get("feed") else parse_page(content, source)
         return source, items, None

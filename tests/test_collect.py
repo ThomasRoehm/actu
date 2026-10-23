@@ -1,8 +1,9 @@
 import datetime
 import json
 import unittest
+from unittest.mock import patch
 
-from scripts.collect import article, merge_articles, page_objects, parse_date, parse_feed, parse_page
+from scripts.collect import article, collect_bebasket, merge_articles, page_objects, parse_date, parse_feed, parse_page
 
 
 class CollectionTests(unittest.TestCase):
@@ -47,6 +48,15 @@ class CollectionTests(unittest.TestCase):
         content = ('<script type="application/json">' + json.dumps(posts) + '</script>').encode()
         items = parse_page(content, {"id": "bebasket-prob"})
         self.assertEqual([item["title"] for item in items], ["Pro B"])
+
+    def test_bebasket_pagination_stops_at_old_page(self):
+        recent = datetime.datetime.now(datetime.timezone.utc).isoformat()
+        def post(date):
+            return {"title": "News", "slug": "news", "createdAt": {"atom": date}, "tags": [{"league": {"slug": "pro-b"}}]}
+        pages = [json.dumps({"items": [post(recent)]}).encode(), json.dumps({"items": [post("2020-01-01T00:00:00Z")]}).encode()]
+        with patch('scripts.collect.fetch', side_effect=pages) as fetch_mock:
+            self.assertEqual(len(collect_bebasket({"id": "bebasket-prob"})), 2)
+            self.assertEqual(fetch_mock.call_count, 2)
 
 
 if __name__ == "__main__":
