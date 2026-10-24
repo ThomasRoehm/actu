@@ -211,10 +211,36 @@ def collect_blog(source):
     return result
 
 
+def collect_local(source):
+    listing = BlogPage()
+    listing.feed(fetch(source["url"]).decode("utf-8", "replace"))
+    prefix = source["url"].rstrip("/") + "/"
+    urls = []
+    for link in listing.links:
+        url = canonical_url(urllib.parse.urljoin(source["url"], link))
+        if url and url.startswith(prefix) and urllib.parse.urlsplit(url).path.endswith(".html") and url not in urls:
+            urls.append(url)
+    if not urls:
+        raise ValueError("Aucun article communal reconnu")
+    result = []
+    for url in urls[:12]:
+        for obj in page_objects(fetch(url)):
+            if obj.get("headline") and obj.get("datePublished"):
+                item = article(source, obj["headline"], url, obj["datePublished"])
+                if item:
+                    result.append(item)
+                    break
+    if not result:
+        raise ValueError("Aucune publication communale datée reconnue")
+    return result
+
+
 def collect_source(source):
     try:
         if source.get("mode") == "blog":
             return source, collect_blog(source), None
+        if source.get("mode") == "local":
+            return source, collect_local(source), None
         if source["id"].startswith("bebasket-"):
             return source, collect_bebasket(source), None
         content = fetch(source.get("feed") or source["url"], source.get("userAgent"))
