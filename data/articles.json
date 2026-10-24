@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:14:05.139880+00:00",
+  "generatedAt": "2026-10-24T07:42:03.929577+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "next",
@@ -43,7 +43,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +54,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +65,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +76,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +87,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +98,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +109,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +120,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +131,29 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
+    },
+    {
+      "id": "apple-newsroom",
+      "name": "Apple Newsroom",
+      "url": "https://www.apple.com/fr/newsroom/",
+      "group": "Tech",
+      "language": "fr",
+      "icon": "icons/apple-newsroom.png",
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft Blog",
+      "url": "https://blogs.microsoft.com",
+      "group": "Tech",
+      "language": "en",
+      "icon": "icons/microsoft.png",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden",
+      "lastSuccessAt": null
     },
     {
       "id": "macworld",
@@ -142,18 +164,7 @@
       "icon": "icons/macworld.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
-    },
-    {
-      "id": "theverge",
-      "name": "The Verge",
-      "url": "https://www.theverge.com",
-      "group": "Tech",
-      "language": "en",
-      "icon": "icons/theverge.png",
-      "ok": true,
-      "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "techcrunch",
@@ -164,7 +175,7 @@
       "icon": "icons/techcrunch.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "digitalminimalist",
@@ -175,7 +186,7 @@
       "icon": "icons/digitalminimalist.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "basketusa",
@@ -186,7 +197,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "tda",
@@ -197,7 +208,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "nfl",
@@ -208,7 +219,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "nba",
@@ -219,7 +230,7 @@
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "boulet",
@@ -230,7 +241,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     },
     {
       "id": "maliki",
@@ -241,10 +252,34 @@
       "icon": "icons/maliki.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T07:14:05.139880+00:00"
+      "lastSuccessAt": "2026-10-24T07:42:03.929577+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Train à grande vitesse : le Parlement européen en veut partout et réclame des billets moins chers",
+      "url": "https://www.clubic.com/actualite-635770-train-a-grande-vitesse-le-parlement-europeen-en-veut-partout-et-reclame-des-billets-moins-chers.html",
+      "publishedAt": "2026-10-24T07:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Toujours pas de victoire pour Giannis Antetokounmpo avec le Heat",
+      "url": "https://www.basketusa.com/news/951265/toujours-pas-de-victoire-pour-giannis-antetokounmpo-avec-le-heat/",
+      "publishedAt": "2026-10-24T07:30:33+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Netflix : les meilleures séries d’horreur pour flipper un max pour Halloween 2026",
+      "url": "https://www.numerama.com/pop-culture/2360021-netflix-les-meilleures-series-dhorreur-pour-flipper-un-max-pour-halloween-2026.html",
+      "publishedAt": "2026-10-24T07:30:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Votre humeur est directement liée aux hormones de votre chat",
+      "url": "https://www.generation-nt.com/actualites/chat-proprietaire-lien-hormonal-ocytocine-cortisol-2083048",
+      "publishedAt": "2026-10-24T07:10:02+00:00"
+    },
     {
       "source": "tda",
       "title": "Roger Goodell : « La NFL reviendra en France »",
@@ -280,12 +315,6 @@
       "title": "iPhone Duo : des écrans pliables endommagés à la charnière dès les premières livraisons",
       "url": "https://www.frandroid.com/marques/apple/3298189_iphone-duo-des-ecrans-pliables-endommages-a-la-charniere-des-les-premieres-livraisons",
       "publishedAt": "2026-10-24T07:00:08+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Walker Kessler, déjà indispensable aux Lakers ?",
-      "url": "https://www.basketusa.com/news/951252/walker-kessler-deja-indispensable-aux-lakers/",
-      "publishedAt": "2026-10-24T06:46:31+00:00"
     },
     {
       "source": "clubic",
@@ -438,6 +467,18 @@
       "publishedAt": "2026-10-24T05:05:03+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Victor Wembanyama aurait préféré dunker sur Amen Thompson…",
+      "url": "https://www.basketusa.com/news/951269/victor-wembanyama-aurait-prefere-dunker-sur-amen-thompson/",
+      "publishedAt": "2026-10-24T05:03:42+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Walker Kessler, déjà indispensable aux Lakers ?",
+      "url": "https://www.basketusa.com/news/951252/walker-kessler-deja-indispensable-aux-lakers/",
+      "publishedAt": "2026-10-24T04:46:31+00:00"
+    },
+    {
       "source": "01net",
       "title": "« Un échec » cuisant pour la cybersécurité : pourquoi les failles PHP ont plongé une partie d’Internet dans le noir",
       "url": "https://www.01net.com/actualites/echec-structurel-pourquoi-les-failles-php-ont-plonge-une-partie-dinternet-dans-le-noir.html",
@@ -480,6 +521,12 @@
       "publishedAt": "2026-10-24T00:18:10+00:00"
     },
     {
+      "source": "nba",
+      "title": "4 Takeaways: Amen Thompson block seals Rockets' win over Spurs in Austin",
+      "url": "https://www.nba.com/news/rockets-spurs-takeaways-oct-2026",
+      "publishedAt": "2026-10-24T00:09:35+00:00"
+    },
+    {
       "source": "techcrunch",
       "title": "Startups don’t need to go viral to win customers",
       "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
@@ -504,12 +551,6 @@
       "publishedAt": "2026-10-23T21:59:19+00:00"
     },
     {
-      "source": "theverge",
-      "title": "Xbox’s first chief operating officer is out after just a few months",
-      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "publishedAt": "2026-10-23T21:39:26+00:00"
-    },
-    {
       "source": "nfl",
       "title": "Lions TE Sam LaPorta walks back contract comments: 'I want to play for this team'",
       "url": "https://www.nfl.com/news/lions-te-sam-laporta-walks-back-contract-comments-i-want-to-play-for-this-team",
@@ -520,12 +561,6 @@
       "title": "[podcast] La coloc’ à Paris ! Dans le vent, l’influence… et les Yeux d’Émilie !",
       "url": "https://touchdownactu.com/360359/podcast-la-coloc-a-paris-dans-le-vent-linfluence-et-les-yeux-demilie/",
       "publishedAt": "2026-10-23T21:32:37+00:00"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "publishedAt": "2026-10-23T21:11:07+00:00"
     },
     {
       "source": "techcrunch",
@@ -552,18 +587,6 @@
       "publishedAt": "2026-10-23T19:38:42.478000+00:00"
     },
     {
-      "source": "theverge",
-      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-      "publishedAt": "2026-10-23T19:35:15+00:00"
-    },
-    {
-      "source": "theverge",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "publishedAt": "2026-10-23T19:32:39+00:00"
-    },
-    {
       "source": "techcrunch",
       "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
       "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
@@ -576,6 +599,12 @@
       "publishedAt": "2026-10-23T19:06:23+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Les Knicks retrouvent Boston, Victor Wembanyama défie Kevin Durant",
+      "url": "https://www.basketusa.com/news/951151/programme-du-soir-les-knicks-retrouvent-boston-victor-wembanyama-defie-kevin-durant/",
+      "publishedAt": "2026-10-23T18:50:05+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Arkane Lyon menacé de fermeture par Microsoft, 217 emplois en jeu",
       "url": "https://www.generation-nt.com/actualites/arkane-lyon-fermeture-microsoft-xbox-marvels-blade-2083375",
@@ -586,12 +615,6 @@
       "title": "Baker Mayfield retrouve les Buccaneers, mais pas tous ses titulaires",
       "url": "https://touchdownactu.com/360354/baker-mayfield-retrouve-les-buccaneers-mais-pas-tous-ses-titulaires/",
       "publishedAt": "2026-10-23T18:45:34+00:00"
-    },
-    {
-      "source": "theverge",
-      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-      "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-      "publishedAt": "2026-10-23T18:43:30+00:00"
     },
     {
       "source": "jdg",
@@ -636,12 +659,6 @@
       "publishedAt": "2026-10-23T17:57:49.682000+00:00"
     },
     {
-      "source": "theverge",
-      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-      "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-      "publishedAt": "2026-10-23T17:55:03+00:00"
-    },
-    {
       "source": "macg",
       "title": "25 ans de l'iPod : comment un simple baladeur a inventé l'électronique du XXIe siècle",
       "url": "https://www.macg.co/aapl/2026/10/25-ans-de-lipod-comment-un-simple-baladeur-invente-lelectronique-du-xxie-siecle-311837",
@@ -652,12 +669,6 @@
       "title": "Une attaque par IA a ciblé des milliers d'environnements Microsoft 365",
       "url": "https://www.generation-nt.com/actualites/cyberattaque-ia-microsoft-storm-0940-connectwise-artex-2083366",
       "publishedAt": "2026-10-23T17:40:01+00:00"
-    },
-    {
-      "source": "theverge",
-      "title": "Elon Musk’s dangerous grip on outer space",
-      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-      "publishedAt": "2026-10-23T17:35:15+00:00"
     },
     {
       "source": "clubic",
@@ -726,12 +737,6 @@
       "publishedAt": "2026-10-23T17:02:18+00:00"
     },
     {
-      "source": "theverge",
-      "title": "The iPhone Duo should have been an iPad",
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "publishedAt": "2026-10-23T17:00:18+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Un développeur de Valve mentionne accidentellement le nom de code HLX lié à Half-Life 3",
       "url": "https://www.generation-nt.com/actualites/valve-developpeur-nom-code-hlx-2083331",
@@ -748,18 +753,6 @@
       "title": "Danny Stutsman (Saints) : « Montrer que le football américain est un sport génial »",
       "url": "https://touchdownactu.com/360341/danny-stutsman-saints-montrer-que-le-football-americain-est-un-sport-genial/",
       "publishedAt": "2026-10-23T16:57:56+00:00"
-    },
-    {
-      "source": "theverge",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "publishedAt": "2026-10-23T16:52:55+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Les Knicks retrouvent Boston, Victor Wembanyama défie Kevin Durant",
-      "url": "https://www.basketusa.com/news/951151/programme-du-soir-les-knicks-retrouvent-boston-victor-wembanyama-defie-kevin-durant/",
-      "publishedAt": "2026-10-23T16:50:05+00:00"
     },
     {
       "source": "clubic",
@@ -802,12 +795,6 @@
       "title": "Celebrate the iPod’s anniversary with this amazing Apple Music Easter egg",
       "url": "https://www.macworld.com/article/3268226/celebrate-the-ipods-anniversary-with-this-amazing-apple-music-easter-egg.html",
       "publishedAt": "2026-10-23T16:37:44+00:00"
-    },
-    {
-      "source": "theverge",
-      "title": "The first broken iPhone Duos are here",
-      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-      "publishedAt": "2026-10-23T16:37:03+00:00"
     },
     {
       "source": "nfl",
@@ -1008,12 +995,6 @@
       "publishedAt": "2026-10-23T15:25:01+00:00"
     },
     {
-      "source": "theverge",
-      "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
-      "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
-      "publishedAt": "2026-10-23T15:24:45+00:00"
-    },
-    {
       "source": "frandroid",
       "title": "Parfait pour affronter le froid, cet étonnant appareil 3-en-1 signé Honor perd 130 €",
       "url": "https://www.frandroid.com/bons-plans/3197605_parfait-pour-affronter-le-froid-cet-etonnant-appareil-3-en-1-signe-honor-perd-130",
@@ -1032,12 +1013,6 @@
       "publishedAt": "2026-10-23T15:17:00+00:00"
     },
     {
-      "source": "theverge",
-      "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
-      "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
-      "publishedAt": "2026-10-23T15:16:24+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Paradoxe à la Paris Games Week : des joueurs en fête, des studios au bord du gouffre",
       "url": "https://www.generation-nt.com/actualites/jeu-video-france-crise-studios-paris-games-week-2083357",
@@ -1048,12 +1023,6 @@
       "title": "Un téraoctet de plus pour vos jeux et vos fichiers, ça vous dit ? Le prix du SSD Corsair MP600 Core XT baisse de 59 € chez Amazon",
       "url": "https://www.clubic.com/bons-plans-635752-un-teraoctet-de-plus-pour-vos-jeux-et-vos-fichiers-ca-vous-dit-le-prix-du-ssd-corsair-mp600-core-xt-baisse-de-59-chez-amazon.html",
       "publishedAt": "2026-10-23T15:14:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Cleveland Cavaliers – Brooklyn Nets : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/951053/cleveland-cavaliers-brooklyn-nets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-10-23T15:12:47+00:00"
     },
     {
       "source": "frandroid",
@@ -1128,12 +1097,6 @@
       "publishedAt": "2026-10-23T14:48:00+00:00"
     },
     {
-      "source": "theverge",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "publishedAt": "2026-10-23T14:47:41+00:00"
-    },
-    {
       "source": "iphon",
       "title": "iOS 27.2 : la liste des nouveautés est connue",
       "url": "https://www.iphon.fr/post/ios-27-2-apple-version-beta-rc",
@@ -1150,12 +1113,6 @@
       "title": "C'est la débandade chez Plex : des développeurs licenciés, leur ancien chef conseille d'aller voir ailleurs",
       "url": "https://www.clubic.com/actualite-635749-c-est-la-debandade-chez-plex-des-developpeurs-licencies-l-un-d-eux-conseille-de-partir.html",
       "publishedAt": "2026-10-23T14:43:00+00:00"
-    },
-    {
-      "source": "theverge",
-      "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
-      "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
-      "publishedAt": "2026-10-23T14:42:46+00:00"
     },
     {
       "source": "frandroid",
@@ -1264,12 +1221,6 @@
       "title": "Le Grinch débarque chez Lush pour Noël, et l’odeur est à tomber",
       "url": "https://www.journaldugeek.com/2026/10/23/le-grinch-debarque-chez-lush-pour-noel-et-lodeur-est-a-tomber/",
       "publishedAt": "2026-10-23T14:00:34+00:00"
-    },
-    {
-      "source": "theverge",
-      "title": "Our best tips for using the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
-      "publishedAt": "2026-10-23T14:00:00+00:00"
     },
     {
       "source": "frandroid",
@@ -1384,6 +1335,12 @@
       "title": "Donald Trump prétend avoir réparé Starlink pour l'Ukraine, qui répond : \"Ah bon ?\"",
       "url": "https://www.generation-nt.com/actualites/starlink-controle-donald-trump-elon-musk-starshield-ukraine-2083355",
       "publishedAt": "2026-10-23T13:20:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Cleveland Cavaliers – Brooklyn Nets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/951053/cleveland-cavaliers-brooklyn-nets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-10-23T13:12:47+00:00"
     },
     {
       "source": "mac4ever",
@@ -2992,18 +2949,6 @@
       "title": "Les ventes de l’iPhone 16 Pro redécollent avec cette grosse remise",
       "url": "https://www.iphon.fr/post/ventes-iphone-16-pro-redecollent-grosse-remise",
       "publishedAt": "2026-10-22T08:02:02+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Apple, Google et Mozilla révoquent en urgence des certificats HTTPS dont les clés étaient faciles à deviner",
-      "url": "https://www.macg.co/ailleurs/2026/10/apple-google-et-mozilla-revoquent-en-urgence-des-certificats-https-dont-les-cles-etaient-faciles-deviner-311805",
-      "publishedAt": "2026-10-22T07:39:26+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Votre VPN est-il prêt pour les menaces futures ? #sponso",
-      "url": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures.html",
-      "publishedAt": "2026-10-22T07:15:54+00:00"
     }
   ]
 }
