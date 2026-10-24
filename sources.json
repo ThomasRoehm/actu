@@ -21,5 +21,6 @@
   {"id":"nfl","name":"NFL","group":"Sport","language":"en","url":"https://www.nfl.com/news","mode":"html"},
   {"id":"nba","name":"NBA","group":"Sport","language":"en","url":"https://www.nba.com/news","mode":"html"},
   {"id":"actu-bourgtheroulde","name":"Actu.fr · Grand Bourgtheroulde","group":"Local","language":"fr","url":"https://actu.fr/normandie/grand-bourgtheroulde_27105","mode":"local"},
+  {"id":"lemonde","name":"Le Monde · En continu","group":"Local","language":"fr","url":"https://www.lemonde.fr/actualite-en-continu/","feed":"https://www.lemonde.fr/rss/en_continu.xml"},
   {"id":"boulet","name":"Bouletcorp","group":"BD","url":"https://www.bouletcorp.com","feed":"https://bouletcorp.com/feed/rss.xml"}
 ]

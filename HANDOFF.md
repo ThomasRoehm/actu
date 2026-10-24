@@ -12,12 +12,12 @@
 
 ## État fonctionnel
 
-- 23 sources d’actualités configurées dans `sources.json` et 29 séries dans `mangas.json`.
+- 24 sources d’actualités configurées dans `sources.json` et 29 séries dans `mangas.json`.
 - Catégories Tout / Tech / Sport / Local / BD, puis `/` et Fr / Us.
 - Tech, Sport et Local : articles des dernières 48 heures.
 - Bouletcorp : dernière publication conservée quelle que soit sa date.
 - MangaKatana : dernier chapitre disponible de chaque série, avec date si connue ; les mangas restent visibles dans BD avec Fr comme Us.
-- Local suit uniquement Actu.fr Grand Bourgtheroulde. Une catégorie vide est normale lorsqu’aucun article ne date des dernières 48 heures.
+- Local suit Actu.fr Grand Bourgtheroulde et, sur demande de l’utilisateur, Le Monde · En continu via son flux RSS officiel, tous deux en français avec une rétention de 48 heures. Une catégorie vide est normale lorsqu’aucun article ne date des dernières 48 heures.
 - Apple Newsroom est en Tech / Fr ; Microsoft Blog, Macworld, TechCrunch et Digital Minimalist sont en Tech / Us. NFL et NBA sont en Sport / Us.
 - BeBasket, The Verge et Maliki ont été retirés sur demande : ne pas les réintroduire. Du code et des icônes historiques peuvent subsister sans être utilisés.
 
