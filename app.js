@@ -1,4 +1,4 @@
-const state = { data: null, group: 'all', language: 'fr', loading: false };
+const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'all', language: 'fr', loading: false };
 const byId = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
 const clockFormat = new Intl.DateTimeFormat('fr-FR', { hour: '2-digit', minute: '2-digit' });
@@ -52,21 +52,93 @@ function renderSources(sources, articles) {
   }
 }
 
+function renderMangas() {
+  const section = byId('manga-feed');
+  section.hidden = state.group !== 'BD';
+  if (section.hidden) return;
+  section.replaceChildren();
+  const heading = document.createElement('h2');
+  heading.className = 'day-heading';
+  heading.textContent = 'Mangas · derniers chapitres';
+  section.append(heading);
+  const info = document.createElement('p');
+  info.className = 'manga-info';
+  info.textContent = 'Sans limite de date · MangaKatana en anglais · indépendant de Fr / Us';
+  section.append(info);
+  if (!state.mangas) {
+    info.textContent = state.mangaError ? 'Impossible de charger les mangas. Réessayez en rechargeant la page.' : 'Chargement des derniers chapitres…';
+    return;
+  }
+  if (state.mangaError || state.mangas.some((manga) => !manga.ok)) {
+    const notice = document.createElement('p');
+    notice.className = 'notice';
+    notice.textContent = 'Certaines vérifications sont indisponibles. Les derniers chapitres connus restent affichés.';
+    section.append(notice);
+  }
+  const list = document.createElement('div');
+  list.className = 'article-list';
+  const mangas = [...state.mangas].sort((first, second) => (second.publishedDate || '').localeCompare(first.publishedDate || '') || first.title.localeCompare(second.title));
+  for (const manga of mangas) {
+    const link = document.createElement('a');
+    link.className = 'article manga-article';
+    link.href = safeUrl(manga.url) || safeUrl(manga.pageUrl) || '#';
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.title = manga.lastSuccessAt ? `Dernière vérification réussie : ${new Date(manga.lastSuccessAt).toLocaleString('fr-FR')}` : 'Chapitre non vérifié';
+    link.append(icon({ id: 'mangakatana', name: 'MangaKatana' }));
+    const content = document.createElement('div');
+    content.className = 'article-content';
+    const title = document.createElement('span');
+    title.className = 'article-title';
+    title.textContent = `${manga.title} — ${manga.chapter || 'Chapitre indisponible'}`;
+    const source = document.createElement('span');
+    source.className = 'article-source';
+    source.textContent = manga.ok ? 'MangaKatana' : 'MangaKatana · à vérifier';
+    content.append(title, source);
+    const date = document.createElement('span');
+    date.className = 'article-time';
+    date.textContent = manga.publishedDate ? new Date(`${manga.publishedDate}T12:00:00`).toLocaleDateString('fr-FR') : 'Date inconnue';
+    link.append(content, date);
+    list.append(link);
+  }
+  section.append(list);
+}
+
+async function loadMangas() {
+  if (state.mangaLoading) return;
+  state.mangaLoading = true;
+  try {
+    const response = await fetch(`data/mangas.json?t=${Date.now()}`, { cache: 'no-store', signal: AbortSignal.timeout(20000) });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    if (!Array.isArray(data.mangas)) throw new Error('Données invalides');
+    state.mangas = data.mangas;
+    state.mangaError = false;
+  } catch {
+    state.mangaError = true;
+  } finally {
+    state.mangaLoading = false;
+    render();
+  }
+}
+
 function render() {
+  renderMangas();
   if (!state.data) return;
   const now = Date.now();
   const cutoff = now - 48 * 3600000;
   const sources = new Map(state.data.sources.map((source) => [source.id, source]));
   const articles = state.data.articles.filter((article) => {
     const timestamp = Date.parse(article.publishedAt);
-    return sources.has(article.source) && safeUrl(article.url) && timestamp >= cutoff && timestamp <= now;
+    return sources.has(article.source) && safeUrl(article.url) && (timestamp >= cutoff || sources.get(article.source).group === 'BD') && timestamp <= now;
   }).sort((first, second) => Date.parse(second.publishedAt) - Date.parse(first.publishedAt));
   const filtered = articles.filter((article) => {
     const source = sources.get(article.source);
     return (state.group === 'all' || source.group === state.group) && (source.language || 'fr') === state.language;
   });
   byId('total-count').textContent = articles.filter((article) => (sources.get(article.source).language || 'fr') === state.language).length;
-  byId('result-count').textContent = `${filtered.length} article${filtered.length > 1 ? 's' : ''} sur 48 heures`;
+  const period = state.group === 'BD' ? ' · dernières publications BD' : state.group === 'all' ? ' · 48 h, hors BD' : ' sur 48 heures';
+  byId('result-count').textContent = state.group === 'BD' && state.mangas ? `${filtered.length} BD · ${state.mangas.length} mangas` : `${filtered.length} article${filtered.length > 1 ? 's' : ''}${period}`;
   byId('source-count').textContent = sources.size;
   byId('footer-sources').textContent = `${sources.size} sources`;
   const generated = new Date(state.data.generatedAt);
@@ -78,7 +150,7 @@ function render() {
   const failed = state.data.sources.filter((source) => !source.ok).length;
   const stale = now - generated.getTime() > 3600000;
   byId('notice').hidden = !failed && !stale;
-  byId('notice').textContent = [stale ? 'La collecte a du retard. Les articles de plus de 48 heures sont automatiquement masqués.' : '', failed ? `${failed} source${failed > 1 ? 's' : ''} temporairement indisponible${failed > 1 ? 's' : ''}. Détails dans « Les sources » ; les articles déjà collectés sont conservés pendant 48 heures.` : ''].filter(Boolean).join(' ');
+  byId('notice').textContent = [stale ? 'La collecte a du retard. Les actualités de plus de 48 heures sont masquées, sauf les dernières publications BD.' : '', failed ? `${failed} source${failed > 1 ? 's' : ''} temporairement indisponible${failed > 1 ? 's' : ''}. Détails dans « Sources » ; les articles sont conservés pendant 48 heures, sans expiration pour la dernière publication BD.` : ''].filter(Boolean).join(' ');
   const feed = byId('feed');
   feed.replaceChildren();
   const days = new Map();
@@ -140,7 +212,7 @@ function render() {
   if (!filtered.length) {
     const empty = document.createElement('div');
     empty.className = 'empty';
-    empty.textContent = 'Aucune nouveauté dans cette langue et cette catégorie sur les dernières 48 heures.';
+    empty.textContent = state.group === 'BD' ? 'Aucune publication BD dans cette langue. Les mangas sont affichés séparément ci-dessus.' : 'Aucune nouveauté dans cette langue et cette catégorie sur les dernières 48 heures.';
     feed.append(empty);
   }
   renderSources(state.data.sources, articles);
@@ -180,7 +252,8 @@ document.querySelectorAll('[data-language]').forEach((button) => button.addEvent
 byId('show-sources').addEventListener('click', () => byId('sources-dialog').showModal());
 byId('close-sources').addEventListener('click', () => byId('sources-dialog').close());
 byId('sources-dialog').addEventListener('click', (event) => { if (event.target === byId('sources-dialog')) { const bounds = event.target.getBoundingClientRect(); if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) event.target.close(); } });
-document.addEventListener('visibilitychange', () => { if (!document.hidden) load(); });
+document.addEventListener('visibilitychange', () => { if (!document.hidden) { load(); loadMangas(); } });
 setInterval(render, 60000);
-setInterval(() => { if (!document.hidden) load(); }, 300000);
+setInterval(() => { if (!document.hidden) { load(); loadMangas(); } }, 300000);
 load();
+loadMangas();

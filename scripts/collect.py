@@ -224,15 +224,23 @@ def collect_source(source):
         return source, [], str(error)[:180]
 
 
-def merge_articles(previous, incoming, source_ids, now):
+def merge_articles(previous, incoming, source_ids, now, latest_source_ids=()):
     cutoff = now - datetime.timedelta(hours=48)
     merged = {}
     for item in previous + incoming:
         date = parse_date(item.get("publishedAt"))
         url = canonical_url(item.get("url"))
-        if date and cutoff <= date <= now and url and item.get("source") in source_ids:
+        if date and date <= now and (date >= cutoff or item.get("source") in latest_source_ids) and url and item.get("source") in source_ids:
             merged[url] = dict(item, url=url)
-    return sorted(merged.values(), key=lambda item: parse_date(item["publishedAt"]), reverse=True)
+    result = []
+    seen = set()
+    for item in sorted(merged.values(), key=lambda item: parse_date(item["publishedAt"]), reverse=True):
+        if item["source"] in latest_source_ids:
+            if item["source"] in seen:
+                continue
+            seen.add(item["source"])
+        result.append(item)
+    return result
 
 
 def main():
@@ -254,12 +262,12 @@ def main():
             print(f'{source["name"]}: {error or str(len(items)) + " articles lus"}', flush=True)
     if not any(source["ok"] for source in statuses):
         raise RuntimeError("Toutes les collectes ont échoué ; publication annulée")
-    articles = merge_articles(previous.get("articles", []), incoming, {source["id"] for source in sources}, now)
+    articles = merge_articles(previous.get("articles", []), incoming, {source["id"] for source in sources}, now, {source["id"] for source in sources if source["group"] == "BD"})
     target.parent.mkdir(exist_ok=True)
     temporary = target.with_suffix(".tmp")
     temporary.write_text(json.dumps({"generatedAt": now.isoformat(), "sources": statuses, "articles": articles}, ensure_ascii=False, indent=2) + "\n")
     temporary.replace(target)
-    print(f"{len(articles)} articles conservés sur les dernières 48 heures.")
+    print(f"{len(articles)} articles conservés : 48 heures hors BD, dernière publication par source BD.")
 
 
 if __name__ == "__main__":

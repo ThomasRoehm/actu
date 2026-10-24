@@ -1,6 +1,6 @@
 # Actu
 
-Un fil personnel, compact et sans publicité ajoutée : tech, sport et BD des dernières 48 heures.
+Un fil personnel, compact et sans publicité ajoutée : tech et sport des dernières 48 heures, dernières publications BD et derniers chapitres des mangas suivis sans limite de date.
 
 **Application : https://thomasroehm.github.io/actu/**
 
@@ -20,7 +20,9 @@ GitHub Actions programme `scripts/collect.py` toutes les 5 minutes, aux minutes 
 
 Les 23 sources configurées utilisent leurs flux RSS/Atom lorsqu’ils existent, notamment Apple Newsroom en français et Microsoft Blog en anglais. NBA et NFL utilisent les métadonnées publiques intégrées à leurs pages. Digital Minimalist utilise les titres et dates de publication des 12 premiers articles liés depuis son blog. Aucun article complet n’est copié, aucun accès payant n’est contourné.
 
-Les articles sont fusionnés avec `data/articles.json`, dédoublonnés par URL et conservés pendant 48 heures selon leur date de publication. Les dates absentes ou ambiguës sont ignorées. En cas d’échec d’une source, ses articles déjà collectés sont conservés jusqu’à expiration. Une panne de toutes les sources bloque la publication.
+Les articles sont fusionnés avec `data/articles.json`, dédoublonnés par URL et conservés pendant 48 heures selon leur date de publication. Pour les sources BD, seule la dernière publication est conservée, sans expiration. Les dates absentes ou ambiguës sont ignorées. En cas d’échec d’une source, ses articles déjà collectés sont conservés selon ces règles. Une panne de toutes les sources bloque la publication.
+
+Les 29 mangas de `mangas.json` sont affichés dans une section dédiée de BD, indépendamment du filtre Fr / Us. `python3 -m scripts.mangas` récupère uniquement le premier chapitre de la table publique de chaque série sur MangaKatana, jamais les pages du chapitre. La vérification est espacée d’au moins 30 minutes par série, avec une seconde entre requêtes. `data/mangas.json` conserve le dernier résultat sans expiration ; les erreurs sont signalées et ne suppriment pas les chapitres connus. Les dates inconnues ne sont pas inventées. La sélection est publique, mais la progression de lecture fournie par l’utilisateur n’est pas enregistrée.
 
 Au premier lancement, la couverture historique dépend du nombre d’articles exposés par chaque flux/page. Elle se complète au fil des collectes ; un flux limité ou une interruption prolongée peut laisser des articles manquants. Les adaptateurs de pages peuvent nécessiter une mise à jour si les sites changent.
 
