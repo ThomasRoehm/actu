@@ -137,15 +137,11 @@ function render() {
     return (state.group === 'all' || source.group === state.group) && (source.language || 'fr') === state.language;
   });
   byId('total-count').textContent = articles.filter((article) => (sources.get(article.source).language || 'fr') === state.language).length;
-  const period = state.group === 'BD' ? ' · dernières publications BD' : state.group === 'all' ? ' · 48 h, hors BD' : ' sur 48 heures';
-  byId('result-count').textContent = state.group === 'BD' && state.mangas ? `${filtered.length} BD · ${state.mangas.length} mangas` : `${filtered.length} article${filtered.length > 1 ? 's' : ''}${period}`;
   byId('source-count').textContent = sources.size;
   byId('footer-sources').textContent = `${sources.size} sources`;
   const generated = new Date(state.data.generatedAt);
-  byId('updated').replaceChildren();
-  const dot = document.createElement('span');
-  dot.className = 'status-dot';
-  byId('updated').append(dot, `Collecte ${relativeTime(generated)}`);
+  byId('updated-time').textContent = relativeTime(generated);
+  byId('updated').setAttribute('aria-label', `Dernière collecte : ${relativeTime(generated)}`);
   byId('updated').title = `Dernière collecte : ${generated.toLocaleString('fr-FR')}. Collecte programmée toutes les 5 minutes, sous réserve des délais de GitHub.`;
   const failed = state.data.sources.filter((source) => !source.ok).length;
   const stale = now - generated.getTime() > 3600000;
@@ -232,7 +228,7 @@ async function load() {
   } catch {
     byId('notice').hidden = false;
     byId('notice').textContent = 'Impossible de charger les actualités. Vérifiez votre connexion puis rechargez la page.';
-    if (!state.data) { byId('feed').textContent = ''; byId('result-count').textContent = 'Fil indisponible'; byId('updated').textContent = 'Connexion interrompue'; }
+    if (!state.data) { byId('feed').textContent = ''; byId('updated-time').textContent = '—'; byId('updated').setAttribute('aria-label', 'Connexion interrompue'); }
   } finally {
     state.loading = false;
     byId('feed').setAttribute('aria-busy', 'false');
