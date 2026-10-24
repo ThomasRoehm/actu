@@ -10,7 +10,7 @@ Un fil personnel, compact et sans publicité ajoutée : tech et sport des derni�
 - Sur Mac : ouvrir le même lien et l’ajouter aux favoris.
 - Le thème clair/sombre suit automatiquement le système.
 - Chaque ligne ouvre l’article original dans un nouvel onglet. Les liens visités sont atténués par le navigateur.
-- Le fil s’ouvre sur les sources françaises. Les boutons Français / Anglais séparent les langues et se combinent avec Tout / Tech / Sport / BD. Le tri reste du plus récent au plus ancien. La recherche a été supprimée.
+- Le fil s’ouvre sur les sources françaises. Les boutons Fr / Us séparent les langues et se combinent avec Tout / Tech / Sport / Local / BD. Le tri reste du plus récent au plus ancien. La recherche a été supprimée.
 - « Les sources » affiche le résultat de la dernière collecte. Une source sans publication récente n’est pas une erreur.
 - Les données publiées se rechargent automatiquement toutes les 5 minutes lorsque la page est visible, ainsi qu’au retour sur l’onglet. Cela ne déclenche pas de collecte serveur.
 
@@ -31,6 +31,8 @@ Chaque collecte enregistre les données dans Git pour les préserver entre exéc
 GitHub Pages doit utiliser **GitHub Actions** comme source de publication. Le site et les données sont publics. Le dossier `dist/` est créé pendant le workflow et ne contient que les fichiers nécessaires au site.
 
 ## Développement
+
+Pour reprendre le projet dans Codex Cloud, lire `AGENTS.md` (consignes de travail) et `HANDOFF.md` (état fonctionnel et configuration de l’environnement).
 
 Python 3.9+ et un navigateur récent suffisent, sans dépendance Python ou JavaScript.
 
