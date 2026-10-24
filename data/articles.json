@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:35:10.422096+00:00",
+  "generatedAt": "2026-10-24T16:05:22.200398+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -8,8 +8,8 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/gnt.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
       "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
     },
     {
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "next",
@@ -43,7 +43,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +54,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +65,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +76,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +87,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +98,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +109,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +120,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +131,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -142,7 +142,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "microsoft",
@@ -153,7 +153,7 @@
       "icon": "icons/microsoft.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "macworld",
@@ -164,7 +164,7 @@
       "icon": "icons/macworld.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "techcrunch",
@@ -175,7 +175,7 @@
       "icon": "icons/techcrunch.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "digitalminimalist",
@@ -186,7 +186,7 @@
       "icon": "icons/digitalminimalist.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "basketusa",
@@ -197,7 +197,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "tda",
@@ -208,7 +208,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "nfl",
@@ -219,7 +219,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "nba",
@@ -230,7 +230,7 @@
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "actu-bourgtheroulde",
@@ -241,7 +241,7 @@
       "icon": "icons/actu-bourgtheroulde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "lemonde",
@@ -252,7 +252,7 @@
       "icon": "icons/lemonde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     },
     {
       "id": "boulet",
@@ -263,10 +263,46 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Nostalgie, quand tu nous tiens… Sony dit adieu à son dernier lecteur Blu-ray 4K",
+      "url": "https://www.presse-citron.net/nostalgie-quand-tu-nous-tiens-sony-dit-adieu-a-son-dernier-lecteur-blu-ray-4k/",
+      "publishedAt": "2026-10-24T16:00:58+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "publishedAt": "2026-10-24T16:00:00+00:00"
+    },
+    {
+      "source": "lemonde",
+      "title": "Attentat raciste de Trappes : plusieurs centaines de personnes rassemblées en hommage à Pengo Bossio Wangi",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/24/attentat-raciste-de-trappes-plusieurs-centaines-de-personnes-rassemblees-en-hommage-a-pengo-bossio-wangi_6799717_3224.html",
+      "publishedAt": "2026-10-24T15:56:47+00:00"
+    },
+    {
+      "source": "01net",
+      "title": "iPhone Duo : les 4 bizarreries du premier smartphone pliant d’Apple",
+      "url": "https://www.01net.com/actualites/iphone-duo-les-4-bizarreries-du-premier-smartphone-pliant-dapple.html",
+      "publishedAt": "2026-10-24T15:55:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le sang-froid de Darryn Peterson",
+      "url": "https://www.basketusa.com/news/951390/le-sang-froid-de-darryn-peterson/",
+      "publishedAt": "2026-10-24T15:47:01+00:00"
+    },
+    {
+      "source": "lemonde",
+      "title": "Mondiaux de gymnastique : Kaylia Nemour en or aux barres asymétriques ; Elena Colas 4ᵉ",
+      "url": "https://www.lemonde.fr/sport/article/2026/10/24/mondiaux-de-gymnastique-kaylia-nemour-en-or-aux-barres-asymetriques-elena-colas-4_6799716_3242.html",
+      "publishedAt": "2026-10-24T15:38:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "iPhone Duo : Safari rencontre des problèmes d’affichage, Apple cherche une solution",
@@ -278,6 +314,12 @@
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
       "publishedAt": "2026-10-24T15:30:00+00:00"
+    },
+    {
+      "source": "nfl",
+      "title": "CeeDee Lamb believes 2-4 Cowboys can still win NFC East: 'Why not us?'",
+      "url": "https://www.nfl.com/news/ceedee-lamb-believes-2-4-cowboys-can-still-win-nfc-east-why-not-us",
+      "publishedAt": "2026-10-24T15:28:26.892000+00:00"
     },
     {
       "source": "frandroid",
@@ -358,6 +400,12 @@
       "publishedAt": "2026-10-24T15:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kevin Durant n’oubliera jamais son année à Texas",
+      "url": "https://www.basketusa.com/news/951153/kevin-durant-noubliera-jamais-son-annee-a-texas/",
+      "publishedAt": "2026-10-24T14:56:41+00:00"
+    },
+    {
       "source": "presse",
       "title": "Changement d’heure d’hiver : cette nuit, on avance ou on recule d’une heure ?",
       "url": "https://www.presse-citron.net/changement-dheure-dhiver-cette-nuit-on-avance-ou-on-recule-dune-heure/",
@@ -422,12 +470,6 @@
       "title": "Jordan Bardella, seul candidat à sa succession, est réélu président du RN avec 98,98 % des voix",
       "url": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html",
       "publishedAt": "2026-10-24T14:06:13+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La nouvelle ère des Hornets débute sous les huées",
-      "url": "https://www.basketusa.com/news/951322/la-nouvelle-ere-des-hornets-debute-sous-les-huees/",
-      "publishedAt": "2026-10-24T14:05:24+00:00"
     },
     {
       "source": "jdg",
@@ -508,12 +550,6 @@
       "publishedAt": "2026-10-24T13:02:21+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Kevin Durant n’oubliera jamais son année à Texas",
-      "url": "https://www.basketusa.com/news/951153/kevin-durant-noubliera-jamais-son-annee-a-texas/",
-      "publishedAt": "2026-10-24T12:56:41+00:00"
-    },
-    {
       "source": "macworld",
       "title": "A week with iPhone Duo: Folding refined, if not perfected",
       "url": "https://www.macworld.com/article/3268522/a-week-with-iphone-duo-folding-refined-if-not-perfected.html",
@@ -590,6 +626,12 @@
       "title": "Des chercheurs transforment du sang ancien en neurones juvéniles",
       "url": "https://www.generation-nt.com/actualites/sang-ancien-neurones-juveniles-2083083",
       "publishedAt": "2026-10-24T12:10:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La nouvelle ère des Hornets débute sous les huées",
+      "url": "https://www.basketusa.com/news/951322/la-nouvelle-ere-des-hornets-debute-sous-les-huees/",
+      "publishedAt": "2026-10-24T12:05:24+00:00"
     },
     {
       "source": "mac4ever",
@@ -3728,36 +3770,6 @@
       "title": "24 h avec l’iPhone Duo : deux bonnes grosses baffes",
       "url": "https://www.01net.com/actualites/iphone-duo-prise-en-main.html",
       "publishedAt": "2026-10-22T16:05:59+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Next Woman Up: Saints dietitian says Paris game prep like 'piecing puzzle together'",
-      "url": "https://www.nfl.com/news/next-woman-up-jamie-meeks-director-of-sports-nutrition-for-the-new-orleans-saints",
-      "publishedAt": "2026-10-22T16:02:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Apple pourrait corriger le plus gros défaut de l’iPhone Duo dès l’an prochain",
-      "url": "https://www.01net.com/actualites/attendez-avant-dacheter-liphone-duo-apple-pourrait-corriger-son-plus-gros-defaut-des-lan-prochain.html",
-      "publishedAt": "2026-10-22T16:00:24+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Bitchat, la messagerie hors ligne anti-censure, cartonne sur iOS et Android",
-      "url": "https://www.01net.com/actualites/bitchat-la-messagerie-hors-ligne-anti-censure-cartonne-sur-ios-et-android.html",
-      "publishedAt": "2026-10-22T15:55:52+00:00"
-    },
-    {
-      "source": "nba",
-      "title": "Numbers to know from a memorable night of season openers",
-      "url": "https://www.nba.com/news/numbers-to-know-season-openers-2026-27",
-      "publishedAt": "2026-10-22T15:42:32+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L'IA génère 9 miniséries chinoises sur 10, et plus personne ne gagne d'argent",
-      "url": "https://www.mac4ever.com/ia/198681-l-ia-genere-9-miniseries-chinoises-sur-10-et-plus-personne-ne-gagne-d-argent",
-      "publishedAt": "2026-10-22T15:38:00+00:00"
     },
     {
       "source": "boulet",
