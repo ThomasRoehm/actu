@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:04:36.925793+00:00",
+  "generatedAt": "2026-10-24T14:34:59.665728+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -8,9 +8,9 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/gnt.png",
-      "ok": false,
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "next",
@@ -43,7 +43,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +54,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +65,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +76,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +87,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +98,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +109,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +120,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +131,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -142,7 +142,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "microsoft",
@@ -153,7 +153,7 @@
       "icon": "icons/microsoft.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "macworld",
@@ -164,7 +164,7 @@
       "icon": "icons/macworld.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "techcrunch",
@@ -175,7 +175,7 @@
       "icon": "icons/techcrunch.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "digitalminimalist",
@@ -186,7 +186,7 @@
       "icon": "icons/digitalminimalist.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "basketusa",
@@ -197,7 +197,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "tda",
@@ -208,7 +208,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "nfl",
@@ -219,7 +219,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "nba",
@@ -230,7 +230,7 @@
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "actu-bourgtheroulde",
@@ -241,7 +241,7 @@
       "icon": "icons/actu-bourgtheroulde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "lemonde",
@@ -252,7 +252,7 @@
       "icon": "icons/lemonde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     },
     {
       "id": "boulet",
@@ -263,10 +263,64 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
+      "lastSuccessAt": "2026-10-24T14:34:59.665728+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Screengate : l’iPhone Duo déjà en crise après plusieurs témoignages d’écran cassé dès la première utilisation ?",
+      "url": "https://www.iphon.fr/post/screengate-craquement-ecran-iphone-duo",
+      "publishedAt": "2026-10-24T14:29:25+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Coques iPhone Duo : les 8 meilleures protections, de 12 à 60 €",
+      "url": "https://www.iphon.fr/post/meilleures-coques-iphone-duo",
+      "publishedAt": "2026-10-24T14:21:54+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+      "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+      "publishedAt": "2026-10-24T14:15:00+00:00"
+    },
+    {
+      "source": "lemonde",
+      "title": "La gymnaste brésilienne Rebeca Andrade sacrée championne du monde du saut de cheval",
+      "url": "https://www.lemonde.fr/sport/article/2026/10/24/la-gymnaste-bresilienne-rebeca-andrade-sacree-championne-du-monde-du-saut-de-cheval_6799709_3242.html",
+      "publishedAt": "2026-10-24T14:11:14+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "J’ai confié mes petites corvées à l’IA pour gagner du temps : jusqu’où lui faire confiance ?",
+      "url": "https://www.clubic.com/dossier-635533-j-ai-confie-mes-petites-corvees-a-l-ia-pour-gagner-du-temps-jusqu-ou-lui-faire-confiance.html",
+      "publishedAt": "2026-10-24T14:11:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Cette vipère utilise une fausse araignée sur sa queue pour chasser les oiseaux",
+      "url": "https://www.generation-nt.com/actualites/vipere-queue-araignee-serpent-leurre-chasse-2083128",
+      "publishedAt": "2026-10-24T14:10:01+00:00"
+    },
+    {
+      "source": "lemonde",
+      "title": "Jordan Bardella, seul candidat à sa succession, est réélu président du RN avec 98,98 % des voix",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html",
+      "publishedAt": "2026-10-24T14:06:15+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La nouvelle ère des Hornets débute sous les huées",
+      "url": "https://www.basketusa.com/news/951322/la-nouvelle-ere-des-hornets-debute-sous-les-huees/",
+      "publishedAt": "2026-10-24T14:05:24+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Les lunettes Ray-Ban Meta un peu trop à l’écoute",
+      "url": "https://www.journaldugeek.com/2026/10/24/les-lunettes-ray-ban-meta-un-peu-trop-a-lecoute/",
+      "publishedAt": "2026-10-24T14:02:10+00:00"
+    },
     {
       "source": "clubic",
       "title": "Désinformation en santé : l’État lance un observatoire pour mieux protéger les Français",
@@ -329,7 +383,7 @@
     },
     {
       "source": "lemonde",
-      "title": "EN DIRECT, manifestations du 24 octobre : premiers tirs de lacrymogène à Lille ; des dizaines de milliers de personnes dans les rues à Marseille",
+      "title": "EN DIRECT, manifestations du 24 octobre : premiers tirs de lacrymogène à Lille ou Limoges ; des dizaines de milliers de personnes à Marseille et Paris",
       "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-bien-sur-qu-on-a-peur-mais-si-on-ne-vient-pas-ils-ont-gagne-suivez-la-mobilisation-avec-nos-correspondants-a-marseille-paris-ou-lyon_6799445_3224.html",
       "publishedAt": "2026-10-24T13:03:20+00:00"
     },
@@ -392,12 +446,6 @@
       "title": "Espagne : à Madrid, 25 000 manifestants pour défendre les retraites, à un mois des élections législatives",
       "url": "https://www.lemonde.fr/international/article/2026/10/24/espagne-a-madrid-25-000-manifestants-pour-defendre-les-retraites-a-un-mois-des-elections-legislatives_6799702_3210.html",
       "publishedAt": "2026-10-24T12:23:32+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Coques iPhone Duo : les 8 meilleures protections, de 12 à 60 €",
-      "url": "https://www.iphon.fr/post/meilleures-coques-iphone-duo",
-      "publishedAt": "2026-10-24T12:13:01+00:00"
     },
     {
       "source": "basketusa",
@@ -500,12 +548,6 @@
       "title": "Amazon fait passer le Dell 32 Plus, écran 4K de 32 pouces en 120 Hz, à seulement 356 €",
       "url": "https://www.frandroid.com/bons-plans/3296989_amazon-fait-passer-le-dell-32-plus-ecran-4k-de-32-pouces-en-120-hz-a-seulement-356-e",
       "publishedAt": "2026-10-24T11:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Darius Acuff Jr. reçoit les compliments de son idole Damian Lillard",
-      "url": "https://www.basketusa.com/news/951315/darius-acuff-jr-recoit-les-compliments-de-son-idole-damian-lillard/",
-      "publishedAt": "2026-10-24T11:26:05+00:00"
     },
     {
       "source": "clubic",
@@ -658,6 +700,12 @@
       "publishedAt": "2026-10-24T09:28:14+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Darius Acuff Jr. reçoit les compliments de son idole Damian Lillard",
+      "url": "https://www.basketusa.com/news/951315/darius-acuff-jr-recoit-les-compliments-de-son-idole-damian-lillard/",
+      "publishedAt": "2026-10-24T09:26:05+00:00"
+    },
+    {
       "source": "lemonde",
       "title": "Prix des carburants : un décret en vue de la libération de stocks stratégiques de gazole publié au « Journal officiel »",
       "url": "https://www.lemonde.fr/economie/article/2026/10/24/prix-des-carburants-un-decret-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-publie-au-journal-officiel_6799684_3234.html",
@@ -722,12 +770,6 @@
       "title": "Avengers : Doomsday dévoile des images inédites (avec deux Captain America)",
       "url": "https://www.numerama.com/pop-culture/2360345-avengers-doomsday-devoile-des-images-inedites-avec-deux-captain-america.html",
       "publishedAt": "2026-10-24T08:47:17+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jayson Tatum veut crever l’abcès avec Jaylen Brown",
-      "url": "https://www.basketusa.com/news/951320/jayson-tatum-veut-crever-labces-avec-jaylen-brown/",
-      "publishedAt": "2026-10-24T08:45:20+00:00"
     },
     {
       "source": "clubic",
@@ -905,9 +947,9 @@
     },
     {
       "source": "basketusa",
-      "title": "Walker Kessler, déjà indispensable aux Lakers ?",
-      "url": "https://www.basketusa.com/news/951252/walker-kessler-deja-indispensable-aux-lakers/",
-      "publishedAt": "2026-10-24T06:46:31+00:00"
+      "title": "Jayson Tatum veut crever l’abcès avec Jaylen Brown",
+      "url": "https://www.basketusa.com/news/951320/jayson-tatum-veut-crever-labces-avec-jaylen-brown/",
+      "publishedAt": "2026-10-24T06:45:20+00:00"
     },
     {
       "source": "clubic",
@@ -1082,6 +1124,12 @@
       "title": "A Trappes, la colère et le fatalisme face au racisme ambiant : « On savait qu’un jour ou l’autre, une telle attaque allait arriver »",
       "url": "https://www.lemonde.fr/societe/article/2026/10/24/a-trappes-apres-les-tirs-meurtriers-la-colere-et-le-fatalisme-face-au-racisme-ambiant-on-savait-qu-un-jour-ou-l-autre-une-telle-attaque-allait-arriver_6799654_3224.html",
       "publishedAt": "2026-10-24T04:50:11+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Walker Kessler, déjà indispensable aux Lakers ?",
+      "url": "https://www.basketusa.com/news/951252/walker-kessler-deja-indispensable-aux-lakers/",
+      "publishedAt": "2026-10-24T04:46:31+00:00"
     },
     {
       "source": "01net",
@@ -3644,24 +3692,6 @@
       "title": "Colts Pro Bowl guard Nelson not focused on trade rumors after Ballard firing",
       "url": "https://www.nfl.com/news/colts-quenton-nelson-not-focused-trade-rumors-gm-firing",
       "publishedAt": "2026-10-22T14:37:28.709000+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Deux ChatGPT ont pris des initiatives inquiétantes, et OpenAI ne comprend pas pourquoi",
-      "url": "https://www.01net.com/actualites/deux-chatgpt-ont-pris-des-initiatives-inquietantes-et-openai-ne-comprend-pas-pourquoi.html",
-      "publishedAt": "2026-10-22T14:30:35+00:00"
-    },
-    {
-      "source": "nba",
-      "title": "Starting 5: Season openers deliver standout performances",
-      "url": "https://www.nba.com/news/starting-5-october-22-2026",
-      "publishedAt": "2026-10-22T14:20:17+00:00"
-    },
-    {
-      "source": "next",
-      "title": "☕️ Une majorité d’Américains pensent que l’IA est une mauvaise chose pour la société",
-      "url": "https://next.ink/brief-article/une-majorite-damericains-pensent-que-lia-est-une-mauvaise-chose-pour-la-societe/",
-      "publishedAt": "2026-10-22T14:18:00+00:00"
     },
     {
       "source": "boulet",
