@@ -30,6 +30,7 @@
 - À côté de Sources, une icône d’actualisation suivie de l’âge de la collecte, purement informative.
 - Sur petit écran, le bloc Sources / indicateur peut passer à la ligne pour conserver la lisibilité des filtres.
 - Chaque article s’ouvre sur son site d’origine ; aucun contenu complet n’est stocké.
+- Liste sur mobile et ordinateur : icône, nom du site et heure sur la première ligne ; titre en dessous sur toute la largeur, limité à deux lignes. La même disposition s’applique aux mangas avec leur date.
 
 ## Automatisation actuelle
 

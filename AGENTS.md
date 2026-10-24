@@ -23,7 +23,7 @@
 - Menu : Tout, Tech, Sport, Local, BD, séparateur `/`, Fr, Us. Catégorie et langue se combinent ; français par défaut.
 - L’indicateur près de Sources affiche une icône d’actualisation et le temps depuis la collecte. Ce n’est pas un bouton et il ne lance aucune collecte.
 - Articles triés du plus récent au plus ancien ; toute la ligne ouvre l’original dans un nouvel onglet avec `noopener noreferrer`.
-- Sur mobile, nom de la source et heure sont sur la même ligne sous le titre.
+- Sur mobile et ordinateur, icône, nom de la source et heure sont alignés sur une première ligne ; le titre vient en dessous sur toute la largeur et est limité à deux lignes.
 - Tech, Sport et Local : fenêtre glissante de 48 heures, côté collecteur ET interface.
 - BD : dernière publication par source, sans expiration. Bouletcorp est actuellement la seule source BD classique.
 - Mangas : dernier chapitre de chaque série, sans expiration, dans une section dédiée de BD indépendante de Fr / Us. Ne pas enregistrer de progression de lecture sans demande.
