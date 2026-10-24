@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:45:57.192242+00:00",
+  "generatedAt": "2026-10-24T14:04:36.925793+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -8,8 +8,8 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/gnt.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
       "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
     },
     {
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "next",
@@ -43,7 +43,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +54,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +65,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +76,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +87,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +98,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +109,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +120,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +131,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -142,7 +142,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "microsoft",
@@ -153,7 +153,7 @@
       "icon": "icons/microsoft.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "macworld",
@@ -164,7 +164,7 @@
       "icon": "icons/macworld.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "techcrunch",
@@ -175,7 +175,7 @@
       "icon": "icons/techcrunch.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "digitalminimalist",
@@ -186,7 +186,7 @@
       "icon": "icons/digitalminimalist.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "basketusa",
@@ -197,7 +197,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "tda",
@@ -208,7 +208,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "nfl",
@@ -219,7 +219,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "nba",
@@ -230,7 +230,7 @@
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "actu-bourgtheroulde",
@@ -241,7 +241,7 @@
       "icon": "icons/actu-bourgtheroulde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "lemonde",
@@ -252,7 +252,7 @@
       "icon": "icons/lemonde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     },
     {
       "id": "boulet",
@@ -263,10 +263,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T13:45:57.192242+00:00"
+      "lastSuccessAt": "2026-10-24T14:04:36.925793+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Désinformation en santé : l’État lance un observatoire pour mieux protéger les Français",
+      "url": "https://www.clubic.com/actualite-635824-desinformation-en-sante-l-etat-lance-un-observatoire-pour-mieux-proteger-les-francais.html",
+      "publishedAt": "2026-10-24T14:00:00+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-24T14:00:00+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "« Je ne crois plus à la publicité » : comment Oppo veut vendre un smartphone à 1800 euros",
+      "url": "https://www.frandroid.com/marques/3297135_je-ne-crois-plus-a-la-publicite-comment-oppo-veut-vendre-un-smartphone-a-1800-euros",
+      "publishedAt": "2026-10-24T13:57:12+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "310 millions de visites par mois : ces 3 géants du streaming illégal ont fermé leurs portes",
+      "url": "https://www.presse-citron.net/310-millions-de-visites-par-mois-ces-3-geants-du-streaming-illegal-ont-ferme-leurs-portes/",
+      "publishedAt": "2026-10-24T13:45:39+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Yaxel Lendeborg assume son « trashtalking » face à Luka Doncic",
@@ -305,7 +329,7 @@
     },
     {
       "source": "lemonde",
-      "title": "EN DIRECT, manifestations du 24 octobre : à Bordeaux, le tribunal administratif confirme l’interdiction des manifestations dans l’hypercentre",
+      "title": "EN DIRECT, manifestations du 24 octobre : premiers tirs de lacrymogène à Lille ; des dizaines de milliers de personnes dans les rues à Marseille",
       "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-bien-sur-qu-on-a-peur-mais-si-on-ne-vient-pas-ils-ont-gagne-suivez-la-mobilisation-avec-nos-correspondants-a-marseille-paris-ou-lyon_6799445_3224.html",
       "publishedAt": "2026-10-24T13:03:20+00:00"
     },
@@ -1048,6 +1072,12 @@
       "publishedAt": "2026-10-24T05:05:03+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Victor Wembanyama aurait préféré dunker sur Amen Thompson",
+      "url": "https://www.basketusa.com/news/951269/victor-wembanyama-aurait-prefere-dunker-sur-amen-thompson/",
+      "publishedAt": "2026-10-24T05:03:42+00:00"
+    },
+    {
       "source": "lemonde",
       "title": "A Trappes, la colère et le fatalisme face au racisme ambiant : « On savait qu’un jour ou l’autre, une telle attaque allait arriver »",
       "url": "https://www.lemonde.fr/societe/article/2026/10/24/a-trappes-apres-les-tirs-meurtriers-la-colere-et-le-fatalisme-face-au-racisme-ambiant-on-savait-qu-un-jour-ou-l-autre-une-telle-attaque-allait-arriver_6799654_3224.html",
@@ -1094,12 +1124,6 @@
       "title": "Mavericks' Cooper Flagg forced to exit game after shoulder injury in 1st half",
       "url": "https://www.nba.com/news/cooper-flagg-shoulder-injury",
       "publishedAt": "2026-10-24T03:16:20+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama aurait préféré dunker sur Amen Thompson",
-      "url": "https://www.basketusa.com/news/951269/victor-wembanyama-aurait-prefere-dunker-sur-amen-thompson/",
-      "publishedAt": "2026-10-24T03:03:42+00:00"
     },
     {
       "source": "basketusa",
@@ -3638,18 +3662,6 @@
       "title": "☕️ Une majorité d’Américains pensent que l’IA est une mauvaise chose pour la société",
       "url": "https://next.ink/brief-article/une-majorite-damericains-pensent-que-lia-est-une-mauvaise-chose-pour-la-societe/",
       "publishedAt": "2026-10-22T14:18:00+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Podcast] On refait la draft 2022 : et il y a beaucoup de changements !",
-      "url": "https://touchdownactu.com/360147/podcast-on-refait-la-draft-2022-et-ya-beaucoup-de-changements/",
-      "publishedAt": "2026-10-22T14:00:50+00:00"
-    },
-    {
-      "source": "next",
-      "title": "Apple contraint d’ouvrir iOS aux boutiques et aux paiements concurrents en Australie",
-      "url": "https://next.ink/263361/apple-contraint-douvrir-ios-aux-boutiques-et-aux-paiements-concurrents-en-australie/",
-      "publishedAt": "2026-10-22T13:54:58+00:00"
     },
     {
       "source": "boulet",
