@@ -12,7 +12,7 @@ Un fil personnel, compact et sans publicité ajoutée : tech, sport et BD des de
 - Chaque ligne ouvre l’article original dans un nouvel onglet. Les liens visités sont atténués par le navigateur.
 - Le fil s’ouvre sur les sources françaises. Les boutons Français / Anglais séparent les langues et se combinent avec Tout / Tech / Sport / BD. Le tri reste du plus récent au plus ancien. La recherche a été supprimée.
 - « Les sources » affiche le résultat de la dernière collecte. Une source sans publication récente n’est pas une erreur.
-- Le bouton d’actualisation recharge les données publiées ; il ne déclenche pas une collecte serveur.
+- Les données publiées se rechargent automatiquement toutes les 5 minutes lorsque la page est visible, ainsi qu’au retour sur l’onglet. Cela ne déclenche pas de collecte serveur.
 
 ## Collecte et publication
 

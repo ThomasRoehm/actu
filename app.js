@@ -149,7 +149,6 @@ function render() {
 async function load() {
   if (state.loading) return;
   state.loading = true;
-  byId('refresh').disabled = true;
   byId('feed').setAttribute('aria-busy', 'true');
   try {
     const response = await fetch(`data/articles.json?t=${Date.now()}`, { cache: 'no-store', signal: AbortSignal.timeout(20000) });
@@ -160,11 +159,10 @@ async function load() {
     render();
   } catch {
     byId('notice').hidden = false;
-    byId('notice').textContent = 'Impossible de charger les actualités. Vérifiez votre connexion et réessayez avec le bouton d’actualisation.';
+    byId('notice').textContent = 'Impossible de charger les actualités. Vérifiez votre connexion puis rechargez la page.';
     if (!state.data) { byId('feed').textContent = ''; byId('result-count').textContent = 'Fil indisponible'; byId('updated').textContent = 'Connexion interrompue'; }
   } finally {
     state.loading = false;
-    byId('refresh').disabled = false;
     byId('feed').setAttribute('aria-busy', 'false');
   }
 }
@@ -179,7 +177,6 @@ document.querySelectorAll('[data-language]').forEach((button) => button.addEvent
   document.querySelectorAll('[data-language]').forEach((tab) => { const active = tab === button; tab.classList.toggle('active', active); tab.setAttribute('aria-pressed', String(active)); });
   render();
 }));
-byId('refresh').addEventListener('click', load);
 byId('show-sources').addEventListener('click', () => byId('sources-dialog').showModal());
 byId('close-sources').addEventListener('click', () => byId('sources-dialog').close());
 byId('sources-dialog').addEventListener('click', (event) => { if (event.target === byId('sources-dialog')) { const bounds = event.target.getBoundingClientRect(); if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) event.target.close(); } });
