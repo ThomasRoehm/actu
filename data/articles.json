@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:05:22.200398+00:00",
+  "generatedAt": "2026-10-24T16:36:53.041085+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -8,9 +8,9 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/gnt.png",
-      "ok": false,
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
-      "lastSuccessAt": "2026-10-24T15:35:10.422096+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "next",
@@ -43,7 +43,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +54,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +65,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +76,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +87,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +98,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +109,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +120,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +131,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -142,7 +142,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "microsoft",
@@ -153,7 +153,7 @@
       "icon": "icons/microsoft.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "macworld",
@@ -164,7 +164,7 @@
       "icon": "icons/macworld.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "techcrunch",
@@ -175,7 +175,7 @@
       "icon": "icons/techcrunch.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "digitalminimalist",
@@ -186,7 +186,7 @@
       "icon": "icons/digitalminimalist.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "basketusa",
@@ -197,7 +197,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "tda",
@@ -208,7 +208,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "nfl",
@@ -219,7 +219,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "nba",
@@ -230,7 +230,7 @@
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "actu-bourgtheroulde",
@@ -241,7 +241,7 @@
       "icon": "icons/actu-bourgtheroulde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "lemonde",
@@ -252,7 +252,7 @@
       "icon": "icons/lemonde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     },
     {
       "id": "boulet",
@@ -263,10 +263,58 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T16:05:22.200398+00:00"
+      "lastSuccessAt": "2026-10-24T16:36:53.041085+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Lara Croft a failli être un homme : comment la peur d’un procès face à Indiana Jones a créé l’icône de Tomb Raider",
+      "url": "https://www.numerama.com/pop-culture/2356217-lara-croft-a-failli-etre-un-homme-comment-la-peur-dun-proces-face-a-indiana-jones-a-cree-licone-de-tomb-raider.html",
+      "publishedAt": "2026-10-24T16:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Grand ménage à Indiana : le Fever perd sa présidente et sa GM",
+      "url": "https://www.basketusa.com/news/951416/grand-menage-a-indiana-le-fever-perd-sa-presidente-et-sa-gm/",
+      "publishedAt": "2026-10-24T16:30:36+00:00"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "publishedAt": "2026-10-24T16:30:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Test du Lankeleisi Golf X : que vaut ce magnifique vélo électrique pliant chinois ?",
+      "url": "https://www.mac4ever.com/mobilite/198617-test-du-lankeleisi-golf-x-que-vaut-ce-magnifique-velo-electrique-pliant-chinois",
+      "publishedAt": "2026-10-24T16:29:51+00:00"
+    },
+    {
+      "source": "nfl",
+      "title": "2026 NFL Madrid pregame entertainment announced",
+      "url": "https://www.nfl.com/news/programa-previo-al-2026-nfl-madrid-game",
+      "publishedAt": "2026-10-24T16:24:59.292000+00:00"
+    },
+    {
+      "source": "lemonde",
+      "title": "Près de 410 000 personnes mobilisées en France, selon le ministère de l’intérieur, plus de 800 000, selon la CGT",
+      "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html",
+      "publishedAt": "2026-10-24T16:20:51+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "La banquise arctique pourrait reculer plus que prévu, même en hiver",
+      "url": "https://www.journaldugeek.com/2026/10/24/la-banquise-arctique-pourrait-reculer-plus-que-prevu-meme-en-hiver/",
+      "publishedAt": "2026-10-24T16:05:05+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le Thunder offre un « two-way contract » à Micah Peavy",
+      "url": "https://www.basketusa.com/news/951158/le-thunder-offre-un-two-way-contract-a-micah-peavy/",
+      "publishedAt": "2026-10-24T16:02:51+00:00"
+    },
     {
       "source": "presse",
       "title": "Nostalgie, quand tu nous tiens… Sony dit adieu à son dernier lecteur Blu-ray 4K",
@@ -283,7 +331,7 @@
       "source": "lemonde",
       "title": "Attentat raciste de Trappes : plusieurs centaines de personnes rassemblées en hommage à Pengo Bossio Wangi",
       "url": "https://www.lemonde.fr/societe/article/2026/10/24/attentat-raciste-de-trappes-plusieurs-centaines-de-personnes-rassemblees-en-hommage-a-pengo-bossio-wangi_6799717_3224.html",
-      "publishedAt": "2026-10-24T15:56:47+00:00"
+      "publishedAt": "2026-10-24T15:56:43+00:00"
     },
     {
       "source": "01net",
@@ -308,6 +356,12 @@
       "title": "iPhone Duo : Safari rencontre des problèmes d’affichage, Apple cherche une solution",
       "url": "https://www.clubic.com/actualite-635821-iphone-duo-safari-rencontre-des-problemes-d-affichage-apple-cherche-une-solution.html",
       "publishedAt": "2026-10-24T15:31:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Incroyable : le drone Apex Recordhunter flirte avec les 800 km/h !",
+      "url": "https://www.generation-nt.com/actualites/quantum-systems-drone-apex-recordhunter-record-vitesse-2083210",
+      "publishedAt": "2026-10-24T15:30:01+00:00"
     },
     {
       "source": "techcrunch",
@@ -359,7 +413,7 @@
     },
     {
       "source": "nfl",
-      "title": "Roundup: Steelers activate safety from IR; Saints elevate two for Paris game",
+      "title": "Roundup: Steelers activate safety from IR; Colts punter removed from injury report",
       "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-24",
       "publishedAt": "2026-10-24T15:13:06.021000+00:00"
     },
@@ -398,12 +452,6 @@
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
       "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "publishedAt": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kevin Durant n’oubliera jamais son année à Texas",
-      "url": "https://www.basketusa.com/news/951153/kevin-durant-noubliera-jamais-son-annee-a-texas/",
-      "publishedAt": "2026-10-24T14:56:41+00:00"
     },
     {
       "source": "presse",
@@ -470,6 +518,12 @@
       "title": "Jordan Bardella, seul candidat à sa succession, est réélu président du RN avec 98,98 % des voix",
       "url": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html",
       "publishedAt": "2026-10-24T14:06:13+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La nouvelle ère des Hornets débute sous les huées",
+      "url": "https://www.basketusa.com/news/951322/la-nouvelle-ere-des-hornets-debute-sous-les-huees/",
+      "publishedAt": "2026-10-24T14:05:24+00:00"
     },
     {
       "source": "jdg",
@@ -550,6 +604,12 @@
       "publishedAt": "2026-10-24T13:02:21+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kevin Durant n’oubliera jamais son année à Texas",
+      "url": "https://www.basketusa.com/news/951153/kevin-durant-noubliera-jamais-son-annee-a-texas/",
+      "publishedAt": "2026-10-24T12:56:41+00:00"
+    },
+    {
       "source": "macworld",
       "title": "A week with iPhone Duo: Folding refined, if not perfected",
       "url": "https://www.macworld.com/article/3268522/a-week-with-iphone-duo-folding-refined-if-not-perfected.html",
@@ -626,12 +686,6 @@
       "title": "Des chercheurs transforment du sang ancien en neurones juvéniles",
       "url": "https://www.generation-nt.com/actualites/sang-ancien-neurones-juveniles-2083083",
       "publishedAt": "2026-10-24T12:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La nouvelle ère des Hornets débute sous les huées",
-      "url": "https://www.basketusa.com/news/951322/la-nouvelle-ere-des-hornets-debute-sous-les-huees/",
-      "publishedAt": "2026-10-24T12:05:24+00:00"
     },
     {
       "source": "mac4ever",
@@ -716,12 +770,6 @@
       "title": "Amazon fait passer le Dell 32 Plus, écran 4K de 32 pouces en 120 Hz, à seulement 356 €",
       "url": "https://www.frandroid.com/bons-plans/3296989_amazon-fait-passer-le-dell-32-plus-ecran-4k-de-32-pouces-en-120-hz-a-seulement-356-e",
       "publishedAt": "2026-10-24T11:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Darius Acuff Jr. reçoit les compliments de son idole Damian Lillard",
-      "url": "https://www.basketusa.com/news/951315/darius-acuff-jr-recoit-les-compliments-de-son-idole-damian-lillard/",
-      "publishedAt": "2026-10-24T11:26:05+00:00"
     },
     {
       "source": "clubic",
@@ -872,6 +920,12 @@
       "title": "La Chine vient de dépasser ChatGPT : cette startup provoque un séisme dans l’IA en présentant Kimi K3.1 Pro",
       "url": "https://www.journaldugeek.com/2026/10/24/chine-depasser-chatgpt-startup-kimi-k3-1-pro/",
       "publishedAt": "2026-10-24T09:28:14+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Darius Acuff Jr. reçoit les compliments de son idole Damian Lillard",
+      "url": "https://www.basketusa.com/news/951315/darius-acuff-jr-recoit-les-compliments-de-son-idole-damian-lillard/",
+      "publishedAt": "2026-10-24T09:26:05+00:00"
     },
     {
       "source": "lemonde",
@@ -1120,12 +1174,6 @@
       "publishedAt": "2026-10-24T07:00:08+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Walker Kessler, déjà indispensable aux Lakers ?",
-      "url": "https://www.basketusa.com/news/951252/walker-kessler-deja-indispensable-aux-lakers/",
-      "publishedAt": "2026-10-24T06:46:31+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Bolt et Stellantis préparent des véhicules autonomes dans le Grand Paris pour 2028",
       "url": "https://www.clubic.com/actualite-635776-bolt-et-stellantis-preparent-des-vehicules-autonomes-dans-le-grand-paris-pour-2028.html",
@@ -1298,6 +1346,12 @@
       "title": "A Trappes, la colère et le fatalisme face au racisme ambiant : « On savait qu’un jour ou l’autre, une telle attaque allait arriver »",
       "url": "https://www.lemonde.fr/societe/article/2026/10/24/a-trappes-apres-les-tirs-meurtriers-la-colere-et-le-fatalisme-face-au-racisme-ambiant-on-savait-qu-un-jour-ou-l-autre-une-telle-attaque-allait-arriver_6799654_3224.html",
       "publishedAt": "2026-10-24T04:50:11+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Walker Kessler, déjà indispensable aux Lakers ?",
+      "url": "https://www.basketusa.com/news/951252/walker-kessler-deja-indispensable-aux-lakers/",
+      "publishedAt": "2026-10-24T04:46:31+00:00"
     },
     {
       "source": "01net",
@@ -3722,54 +3776,6 @@
       "title": "IA dans un roman du Goncourt : l'éditeur Boréal lâche Thélyson Orélien",
       "url": "https://www.mac4ever.com/ia/198684-ia-dans-un-roman-du-goncourt-l-editeur-boreal-lache-thelyson-orelien",
       "publishedAt": "2026-10-22T16:52:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Fusion SpaceX-Tesla : des problèmes politiques à prévoir, aux USA... et en Chine ?",
-      "url": "https://www.clubic.com/actualite-635560-fusion-spacex-tesla-des-problemes-politiques-a-prevoir-aux-usa-et-en-chine.html",
-      "publishedAt": "2026-10-22T16:32:00+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Saints GM asks for patience with team: 'I like the direction we're going'",
-      "url": "https://www.nfl.com/news/saints-gm-mickey-loomis-asks-for-patience-with-team-i-like-the-direction-we-re-going",
-      "publishedAt": "2026-10-22T16:28:19.839000+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "Grab Ugreen’s ultra-compact 25W magnetic wireless charger for half off today",
-      "url": "https://www.macworld.com/article/3267243/grab-ugreens-ultra-compact-25w-magnetic-wireless-charger-for-half-off-today.html",
-      "publishedAt": "2026-10-22T16:27:58+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Banni des États-Unis, DeepSeek s'offre 15 milliards de dollars pour écraser ChatGPT",
-      "url": "https://www.clubic.com/actualite-635563-banni-des-etats-unis-deepseek-s-offre-15-milliards-de-dollars-pour-ecraser-chatgpt.html",
-      "publishedAt": "2026-10-22T16:26:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "IPTV pirate : beIN Sports obtient le premier feu vert judiciaire pour le blocage automatisé",
-      "url": "https://www.clubic.com/actualite-635566-iptv-pirate-bein-sports-obtient-le-premier-feu-vert-judiciaire-pour-le-blocage-automatise.html",
-      "publishedAt": "2026-10-22T16:20:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Airbnb : fini la vaisselle et les poubelles avant de rendre les clés",
-      "url": "https://www.mac4ever.com/divers/198683-airbnb-fini-la-vaisselle-et-les-poubelles-avant-de-rendre-les-cles",
-      "publishedAt": "2026-10-22T16:14:00+00:00"
-    },
-    {
-      "source": "nba",
-      "title": "NBA Fantasy: 5 takeaways from Wednesday's slate",
-      "url": "https://www.nba.com/news/nba-fantasy-5-takeaways-from-wednesdays-slate",
-      "publishedAt": "2026-10-22T16:09:51+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "24 h avec l’iPhone Duo : deux bonnes grosses baffes",
-      "url": "https://www.01net.com/actualites/iphone-duo-prise-en-main.html",
-      "publishedAt": "2026-10-22T16:05:59+00:00"
     },
     {
       "source": "boulet",
