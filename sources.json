@@ -12,7 +12,7 @@
   {"id":"frandroid","name":"Frandroid","group":"Tech","url":"https://www.frandroid.com","feed":"https://www.frandroid.com/feed"},
   {"id":"korben","name":"Korben","group":"Tech","url":"https://korben.info","feed":"https://korben.info/feed"},
   {"id":"apple-newsroom","name":"Apple Newsroom","group":"Tech","language":"fr","url":"https://www.apple.com/fr/newsroom/","feed":"https://www.apple.com/fr/newsroom/rss-feed.rss"},
-  {"id":"microsoft","name":"Microsoft Blog","group":"Tech","language":"en","url":"https://blogs.microsoft.com","feed":"https://blogs.microsoft.com/feed/"},
+  {"id":"microsoft","name":"Microsoft Blog","group":"Tech","language":"en","url":"https://blogs.microsoft.com","feed":"https://blogs.microsoft.com/feed/","userAgent":"Actu/1.0 (+https://thomasroehm.github.io/actu/)"},
   {"id":"macworld","name":"Macworld","group":"Tech","language":"en","url":"https://www.macworld.com","feed":"https://www.macworld.com/feed"},
   {"id":"techcrunch","name":"TechCrunch","group":"Tech","language":"en","url":"https://techcrunch.com","feed":"https://techcrunch.com/feed/"},
   {"id":"digitalminimalist","name":"Digital Minimalist","group":"Tech","language":"en","url":"https://www.digitalminimalist.com/blog","mode":"blog"},

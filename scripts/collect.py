@@ -16,8 +16,11 @@ UTC = datetime.timezone.utc
 HEADERS = {"User-Agent": "Mozilla/5.0", "Accept": "application/rss+xml, application/atom+xml, text/html, */*"}
 
 
-def fetch(url):
-    request = urllib.request.Request(url, headers=HEADERS)
+def fetch(url, user_agent=None):
+    headers = dict(HEADERS)
+    if user_agent:
+        headers["User-Agent"] = user_agent
+    request = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(request, timeout=35) as response:
         content = response.read(8_000_001)
         if len(content) > 8_000_000:
@@ -214,7 +217,7 @@ def collect_source(source):
             return source, collect_blog(source), None
         if source["id"].startswith("bebasket-"):
             return source, collect_bebasket(source), None
-        content = fetch(source.get("feed") or source["url"])
+        content = fetch(source.get("feed") or source["url"], source.get("userAgent"))
         items = parse_feed(content, source) if source.get("feed") else parse_page(content, source)
         return source, items, None
     except Exception as error:
