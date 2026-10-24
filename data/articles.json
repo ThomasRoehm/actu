@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:35:37.979048+00:00",
+  "generatedAt": "2026-10-24T19:08:59.592840+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -8,9 +8,9 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/gnt.png",
-      "ok": false,
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
-      "lastSuccessAt": "2026-10-24T18:03:23.828234+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "next",
@@ -43,7 +43,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +54,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +65,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +76,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +87,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +98,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +109,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +120,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +131,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -142,7 +142,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "microsoft",
@@ -153,7 +153,7 @@
       "icon": "icons/microsoft.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "macworld",
@@ -164,7 +164,7 @@
       "icon": "icons/macworld.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "techcrunch",
@@ -175,7 +175,7 @@
       "icon": "icons/techcrunch.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "digitalminimalist",
@@ -186,7 +186,7 @@
       "icon": "icons/digitalminimalist.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "basketusa",
@@ -197,7 +197,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "tda",
@@ -208,7 +208,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "nfl",
@@ -219,7 +219,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "nba",
@@ -230,7 +230,7 @@
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "actu-bourgtheroulde",
@@ -241,7 +241,7 @@
       "icon": "icons/actu-bourgtheroulde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "lemonde",
@@ -252,7 +252,7 @@
       "icon": "icons/lemonde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     },
     {
       "id": "boulet",
@@ -263,10 +263,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T18:35:37.979048+00:00"
+      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "techcrunch",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-10-24T19:00:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "iPhone Duo et chargeur de voiture : ça coince ? Premier test en Tesla, Zeekr...",
@@ -302,6 +308,12 @@
       "title": "Pronostics NBA du 24 octobre 2026 : nos paris pour les matchs de la soirée",
       "url": "https://www.basketusa.com/news/951379/pronostics-nba-du-24-octobre-2026-nos-paris-pour-les-matchs-de-la-soiree/",
       "publishedAt": "2026-10-24T17:48:36+00:00"
+    },
+    {
+      "source": "lemonde",
+      "title": "Entre Giorgia Meloni et la France, une obsession devenue réciproque",
+      "url": "https://www.lemonde.fr/international/article/2026/10/24/entre-giorgia-meloni-et-la-france-une-obsession-devenue-reciproque_6799724_3210.html",
+      "publishedAt": "2026-10-24T17:30:11+00:00"
     },
     {
       "source": "gnt",
@@ -3752,36 +3764,6 @@
       "title": "Mayfield: Thumb 'strong enough to be able to play' vs. Panthers on Sunday",
       "url": "https://www.nfl.com/news/baker-mayfield-thumb-strong-enough-play-buccaneers-panthers",
       "publishedAt": "2026-10-22T19:19:18.855000+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "publishedAt": "2026-10-22T19:07:09+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "publishedAt": "2026-10-22T19:00:00+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "publishedAt": "2026-10-22T19:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "C’est officiel, Arc Browser a une date de fin et elle approche",
-      "url": "https://www.clubic.com/actualite-635575-c-est-officiel-arc-browser-a-une-date-de-fin-et-elle-approche.html",
-      "publishedAt": "2026-10-22T18:54:00+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "publishedAt": "2026-10-22T18:43:53+00:00"
     },
     {
       "source": "boulet",
