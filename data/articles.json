@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:12:44.019301+00:00",
+  "generatedAt": "2026-10-24T19:37:20.138530+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -8,9 +8,9 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/gnt.png",
-      "ok": false,
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
-      "lastSuccessAt": "2026-10-24T19:08:59.592840+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "next",
@@ -43,7 +43,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +54,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +65,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +76,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +87,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +98,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +109,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +120,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +131,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -142,7 +142,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "microsoft",
@@ -153,7 +153,7 @@
       "icon": "icons/microsoft.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "macworld",
@@ -164,7 +164,7 @@
       "icon": "icons/macworld.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "techcrunch",
@@ -175,7 +175,7 @@
       "icon": "icons/techcrunch.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "digitalminimalist",
@@ -186,7 +186,7 @@
       "icon": "icons/digitalminimalist.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "basketusa",
@@ -197,7 +197,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "tda",
@@ -208,7 +208,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "nfl",
@@ -219,7 +219,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "nba",
@@ -230,7 +230,7 @@
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "actu-bourgtheroulde",
@@ -241,7 +241,7 @@
       "icon": "icons/actu-bourgtheroulde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "lemonde",
@@ -252,7 +252,7 @@
       "icon": "icons/lemonde.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     },
     {
       "id": "boulet",
@@ -263,7 +263,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T19:12:44.019301+00:00"
+      "lastSuccessAt": "2026-10-24T19:37:20.138530+00:00"
     }
   ],
   "articles": [
@@ -521,7 +521,7 @@
     },
     {
       "source": "nfl",
-      "title": "Roundup: Steelers activate safety from IR; Browns safety clears concussion protocol",
+      "title": "Roundup: Lions plan to activate safety off PUP list; Vikes RB expected to come off IR",
       "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-24",
       "publishedAt": "2026-10-24T15:13:06.021000+00:00"
     },
@@ -560,12 +560,6 @@
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
       "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "publishedAt": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kevin Durant n’oubliera jamais son année à Texas",
-      "url": "https://www.basketusa.com/news/951153/kevin-durant-noubliera-jamais-son-annee-a-texas/",
-      "publishedAt": "2026-10-24T14:56:41+00:00"
     },
     {
       "source": "presse",
@@ -724,6 +718,12 @@
       "publishedAt": "2026-10-24T13:02:21+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kevin Durant n’oubliera jamais son année à Texas",
+      "url": "https://www.basketusa.com/news/951153/kevin-durant-noubliera-jamais-son-annee-a-texas/",
+      "publishedAt": "2026-10-24T12:56:41+00:00"
+    },
+    {
       "source": "macworld",
       "title": "A week with iPhone Duo: Folding refined, if not perfected",
       "url": "https://www.macworld.com/article/3268522/a-week-with-iphone-duo-folding-refined-if-not-perfected.html",
@@ -733,7 +733,7 @@
       "source": "macg",
       "title": "Que faire si Microsoft bloque Office 2021 sur votre Mac ?",
       "url": "https://www.macg.co/logiciels/2026/10/que-faire-si-microsoft-bloque-office-2021-sur-votre-mac-311855",
-      "publishedAt": "2026-10-24T12:55:10+00:00"
+      "publishedAt": "2026-10-24T12:55:00+00:00"
     },
     {
       "source": "numerama",
@@ -3752,18 +3752,6 @@
       "title": "iPhone Duo, prise en main et réaction à chaud⎜ORLM-602",
       "url": "https://www.mac4ever.com/iphone/198686-iphone-duo-prise-en-main-et-reaction-a-chaud-orlm-602",
       "publishedAt": "2026-10-22T19:43:41+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Pages, Keynote, Numbers : l’IA travaille, mais veut son chèque de fin de mois",
-      "url": "https://www.macg.co/logiciels/2026/10/pages-keynote-numbers-lia-travaille-mais-veut-son-cheque-de-fin-de-mois-311819",
-      "publishedAt": "2026-10-22T19:30:00+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Mayfield: Thumb 'strong enough to be able to play' vs. Panthers on Sunday",
-      "url": "https://www.nfl.com/news/baker-mayfield-thumb-strong-enough-play-buccaneers-panthers",
-      "publishedAt": "2026-10-22T19:19:18.855000+00:00"
     },
     {
       "source": "boulet",
