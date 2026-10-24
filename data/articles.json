@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:07:44.032534+00:00",
+  "generatedAt": "2026-10-24T08:15:59.706547+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -8,8 +8,8 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/gnt.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
       "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
     },
     {
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "next",
@@ -43,7 +43,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +54,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +65,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +76,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +87,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +98,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +109,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +120,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +131,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -142,7 +142,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "microsoft",
@@ -153,7 +153,7 @@
       "icon": "icons/microsoft.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "macworld",
@@ -164,7 +164,7 @@
       "icon": "icons/macworld.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "techcrunch",
@@ -175,7 +175,7 @@
       "icon": "icons/techcrunch.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "digitalminimalist",
@@ -186,7 +186,7 @@
       "icon": "icons/digitalminimalist.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "basketusa",
@@ -197,7 +197,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "tda",
@@ -208,7 +208,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "nfl",
@@ -219,7 +219,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "nba",
@@ -230,7 +230,7 @@
       "icon": "icons/nba.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "boulet",
@@ -241,7 +241,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     },
     {
       "id": "maliki",
@@ -252,7 +252,7 @@
       "icon": "icons/maliki.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-24T08:07:44.032534+00:00"
+      "lastSuccessAt": "2026-10-24T08:15:59.706547+00:00"
     }
   ],
   "articles": [
@@ -267,6 +267,12 @@
       "title": "GTA 6 : faut-il s’attendre à une vague de licenciements après la sortie du jeu ?",
       "url": "https://www.journaldugeek.com/2026/10/24/gta-6-faut-il-sattendre-a-une-vague-de-licenciements-apres-la-sortie-du-jeu/",
       "publishedAt": "2026-10-24T08:04:30+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Vous ne savez pas quoi faire ce week-end ? Cette appli française réunit toutes les activités près de vous, que vous soyez en ville ou dans un tout petit village",
+      "url": "https://www.presse-citron.net/vous-ne-savez-pas-quoi-faire-ce-week-end-cette-appli-francaise-reunit-toutes-les-activites-pres-de-vous-que-vous-soyez-en-ville-ou-dans-un-tout-petit-village/",
+      "publishedAt": "2026-10-24T08:00:36+00:00"
     },
     {
       "source": "01net",
@@ -303,12 +309,6 @@
       "title": "Journée de mobilisation : plusieurs Apple Store fermés en France ce samedi",
       "url": "https://www.iphon.fr/post/apple-store-fermes-manifestations-france-24-octobre",
       "publishedAt": "2026-10-24T07:59:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Encore touché à l’épaule, Cooper Flagg inquiète Dallas",
-      "url": "https://www.basketusa.com/news/951268/encore-touche-a-lepaule-cooper-flagg-inquiete-dallas/",
-      "publishedAt": "2026-10-24T07:57:36+00:00"
     },
     {
       "source": "presse",
@@ -383,6 +383,12 @@
       "publishedAt": "2026-10-24T07:00:08+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Walker Kessler, déjà indispensable aux Lakers ?",
+      "url": "https://www.basketusa.com/news/951252/walker-kessler-deja-indispensable-aux-lakers/",
+      "publishedAt": "2026-10-24T06:46:31+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Bolt et Stellantis préparent des véhicules autonomes dans le Grand Paris pour 2028",
       "url": "https://www.clubic.com/actualite-635776-bolt-et-stellantis-preparent-des-vehicules-autonomes-dans-le-grand-paris-pour-2028.html",
@@ -453,6 +459,12 @@
       "title": "Stats & Highlights | Les Hawks, les Raptors et les Wolves enchaînent",
       "url": "https://www.basketusa.com/news/951210/stats-highlights-les-hawks-les-raptors-et-les-wolves-enchainent/",
       "publishedAt": "2026-10-24T05:58:58+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Encore touché à l’épaule, Cooper Flagg inquiète Dallas",
+      "url": "https://www.basketusa.com/news/951268/encore-touche-a-lepaule-cooper-flagg-inquiete-dallas/",
+      "publishedAt": "2026-10-24T05:57:36+00:00"
     },
     {
       "source": "clubic",
@@ -537,12 +549,6 @@
       "title": "Victor Wembanyama aurait préféré dunker sur Amen Thompson…",
       "url": "https://www.basketusa.com/news/951269/victor-wembanyama-aurait-prefere-dunker-sur-amen-thompson/",
       "publishedAt": "2026-10-24T05:03:42+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Walker Kessler, déjà indispensable aux Lakers ?",
-      "url": "https://www.basketusa.com/news/951252/walker-kessler-deja-indispensable-aux-lakers/",
-      "publishedAt": "2026-10-24T04:46:31+00:00"
     },
     {
       "source": "01net",
@@ -663,6 +669,12 @@
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
       "publishedAt": "2026-10-23T19:06:23+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Les Knicks retrouvent Boston, Victor Wembanyama défie Kevin Durant",
+      "url": "https://www.basketusa.com/news/951151/programme-du-soir-les-knicks-retrouvent-boston-victor-wembanyama-defie-kevin-durant/",
+      "publishedAt": "2026-10-23T18:50:05+00:00"
     },
     {
       "source": "gnt",
@@ -813,12 +825,6 @@
       "title": "Danny Stutsman (Saints) : « Montrer que le football américain est un sport génial »",
       "url": "https://touchdownactu.com/360341/danny-stutsman-saints-montrer-que-le-football-americain-est-un-sport-genial/",
       "publishedAt": "2026-10-23T16:57:56+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Les Knicks retrouvent Boston, Victor Wembanyama défie Kevin Durant",
-      "url": "https://www.basketusa.com/news/951151/programme-du-soir-les-knicks-retrouvent-boston-victor-wembanyama-defie-kevin-durant/",
-      "publishedAt": "2026-10-23T16:50:05+00:00"
     },
     {
       "source": "clubic",
