@@ -1,6 +1,6 @@
 # Reprise dans Codex Cloud
 
-État de référence : 24 octobre 2026. Les fichiers de configuration et les dernières demandes de l’utilisateur font autorité si ce document devient ancien.
+État de référence : 25 octobre 2026. Les fichiers de configuration et les dernières demandes de l’utilisateur font autorité si ce document devient ancien.
 
 ## Projet
 
@@ -12,14 +12,13 @@
 
 ## État fonctionnel
 
-- 24 sources d’actualités configurées dans `sources.json` et 29 séries dans `mangas.json`.
-- Catégories Tout / Tech / Sport / Local / BD, puis `/` et Fr / Us.
-- Tech, Sport et Local : articles des dernières 48 heures.
+- 21 sources d’actualités configurées dans `sources.json` et 29 séries dans `mangas.json`.
+- Catégories BD / Sport / Tech, dans cet ordre, puis `/` et Fr / Us. Sport / Fr est sélectionné par défaut ; les onglets Tout et Local ont été supprimés.
+- Tech et Sport : articles des dernières 48 heures.
 - Bouletcorp : dernière publication conservée quelle que soit sa date.
 - MangaKatana : dernier chapitre disponible de chaque série, avec date si connue ; les mangas restent visibles dans BD avec Fr comme Us.
-- Local suit Actu.fr Grand Bourgtheroulde et, sur demande de l’utilisateur, Le Monde · En continu via son flux RSS officiel, tous deux en français avec une rétention de 48 heures. Une catégorie vide est normale lorsqu’aucun article ne date des dernières 48 heures.
-- Apple Newsroom est en Tech / Fr ; Microsoft Blog, Macworld, TechCrunch et Digital Minimalist sont en Tech / Us. NFL et NBA sont en Sport / Us.
-- BeBasket, The Verge et Maliki ont été retirés sur demande : ne pas les réintroduire. Du code et des icônes historiques peuvent subsister sans être utilisés.
+- Apple Newsroom est en Tech / Fr ; Microsoft Blog, Macworld, TechCrunch et Digital Minimalist sont en Tech / Us. NFL est en Sport / Us.
+- BeBasket, The Verge, Maliki, NBA, Actu.fr Grand Bourgtheroulde et Le Monde ont été retirés sur demande : ne pas les réintroduire. Du code et des icônes historiques peuvent subsister sans être utilisés.
 
 ## Dernières décisions d’interface
 

@@ -1,4 +1,4 @@
-const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'all', language: 'fr', loading: false };
+const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'Sport', language: 'fr', loading: false };
 const byId = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
 const clockFormat = new Intl.DateTimeFormat('fr-FR', { hour: '2-digit', minute: '2-digit' });
@@ -133,9 +133,8 @@ function render() {
   }).sort((first, second) => Date.parse(second.publishedAt) - Date.parse(first.publishedAt));
   const filtered = articles.filter((article) => {
     const source = sources.get(article.source);
-    return (state.group === 'all' || source.group === state.group) && (source.language || 'fr') === state.language;
+    return source.group === state.group && (source.language || 'fr') === state.language;
   });
-  byId('total-count').textContent = articles.filter((article) => (sources.get(article.source).language || 'fr') === state.language).length;
   byId('source-count').textContent = sources.size;
   byId('footer-sources').textContent = `${sources.size} sources`;
   const generated = new Date(state.data.generatedAt);
