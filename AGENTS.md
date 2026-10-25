@@ -20,11 +20,11 @@
 
 - Interface compacte, lisible sur iPhone et Mac, mode clair/sombre selon le système.
 - Pas de titre introductif, de recherche, de compteur « X articles / 48 h », ni de bouton d’actualisation manuelle.
-- Menu : Tout, Tech, Sport, Local, BD, séparateur `/`, Fr, Us. Catégorie et langue se combinent ; français par défaut.
+- Menu : BD, Sport, Tech, séparateur `/`, Fr, Us. Catégorie et langue se combinent ; Sport et français par défaut. Aucun onglet Tout ou Local.
 - L’indicateur près de Sources affiche une icône d’actualisation et le temps depuis la collecte. Ce n’est pas un bouton et il ne lance aucune collecte.
 - Articles triés du plus récent au plus ancien ; toute la ligne ouvre l’original dans un nouvel onglet avec `noopener noreferrer`.
 - Sur mobile et ordinateur, icône, nom de la source et heure sont alignés sur une première ligne ; le titre vient en dessous sur toute la largeur et est limité à deux lignes.
-- Tech, Sport et Local : fenêtre glissante de 48 heures, côté collecteur ET interface.
+- Tech et Sport : fenêtre glissante de 48 heures, côté collecteur ET interface.
 - BD : dernière publication par source, sans expiration. Bouletcorp est actuellement la seule source BD classique.
 - Mangas : dernier chapitre de chaque série, sans expiration, dans une section dédiée de BD indépendante de Fr / Us. Ne pas enregistrer de progression de lecture sans demande.
 - Les données du navigateur se rechargent toutes les 5 minutes lorsque la page est visible et au retour sur l’onglet ; cela ne déclenche pas la collecte serveur.
