@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:14:35.459327+00:00",
+  "generatedAt": "2026-10-26T10:59:41.062108+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "next",
@@ -43,7 +43,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +54,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +65,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +76,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +87,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +98,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +109,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +120,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +131,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -142,7 +142,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "microsoft",
@@ -153,7 +153,7 @@
       "icon": "icons/microsoft.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "macworld",
@@ -164,7 +164,7 @@
       "icon": "icons/macworld.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "techcrunch",
@@ -175,7 +175,7 @@
       "icon": "icons/techcrunch.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "digitalminimalist",
@@ -184,8 +184,8 @@
       "group": "Tech",
       "language": "en",
       "icon": "icons/digitalminimalist.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "<urlopen error [Errno -2] Name or service not known>",
       "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
     },
     {
@@ -197,7 +197,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "tda",
@@ -208,7 +208,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "nfl",
@@ -219,7 +219,7 @@
       "icon": "icons/nfl.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     },
     {
       "id": "boulet",
@@ -230,15 +230,219 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-26T10:14:35.459327+00:00"
+      "lastSuccessAt": "2026-10-26T10:59:41.062108+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "next",
+      "title": "Google ouvre la voie aux pubs ciblées via Gmail et Photos au nom de l’IA personnalisée",
+      "url": "https://next.ink/263704/google-ouvre-la-voie-aux-pubs-ciblees-via-gmail-et-photos-au-nom-de-lia-personnalisee/",
+      "publishedAt": "2026-10-26T10:58:07+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "J’ai déjà vu le petit SUV électrique chinois de Chery conçu à Paris : prix cassé, boutons physiques et 450 km d’autonomie pour défier Renault et Stellantis",
+      "url": "https://www.frandroid.com/marques/chery/3298833_jai-deja-vu-le-petit-suv-electrique-chinois-de-chery-concu-a-paris-prix-casse-boutons-physiques-et-450-km-dautonomie-pour-defier-renault-et-stellantis",
+      "publishedAt": "2026-10-26T10:56:08+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Fausse amende avec votre vraie plaque : alerte après la fuite de 850 000 immatriculations",
+      "url": "https://www.clubic.com/actualite-635938-un-pirate-affirme-detenir-les-donnees-de-pres-de-850-000-plaques-francaises-gare-aux-fausses-amendes.html",
+      "publishedAt": "2026-10-26T10:56:00+00:00"
+    },
+    {
+      "source": "01net",
+      "title": "Euro-Office : le client desktop de la suite bureautique européenne est officiellement disponible",
+      "url": "https://www.01net.com/actualites/euro-office-client-desktop-suite-bureautique-europeenne.html",
+      "publishedAt": "2026-10-26T10:55:40+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "La Chine veut freiner les licenciements liés à l'IA : et en France, que prévoit-on pour les salariés ?",
+      "url": "https://www.clubic.com/actualite-635923-la-chine-veut-freiner-les-licenciements-lies-a-l-ia-et-en-france-que-prevoit-on-pour-les-salaries.html",
+      "publishedAt": "2026-10-26T10:55:00+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Vos mails et photos ciblés par la pub : le réglage Google à vérifier d’urgence",
+      "url": "https://www.frandroid.com/marques/google/3298661_google-change-ses-regles-de-confidentialite-et-ouvre-la-porte-a-une-utilisation-de-vos-photos-et-de-vos-mails-pour-la-pub",
+      "publishedAt": "2026-10-26T10:53:40+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Les psychologues sont formels : les personnes qui baissent les yeux pendant une conversation ne sont pas timides, elles essaient plutôt de formuler une réponse adaptée",
+      "url": "https://www.presse-citron.net/les-psychologues-sont-formels-les-personnes-qui-baissent-les-yeux-pendant-une-conversation-ne-sont-pas-timides-elles-essaient-plutot-de-formuler-une-reponse-adaptee/",
+      "publishedAt": "2026-10-26T10:52:06+00:00"
+    },
+    {
+      "source": "nfl",
+      "title": "Seahawks 'put on a clinic' shutting down Walker, Mahomes in blowout win over Chiefs",
+      "url": "https://www.nfl.com/news/seahawks-put-on-a-clinic-shutting-down-kenneth-walker-iii-patrick-mahomes-in-blowout-win-over-chiefs",
+      "publishedAt": "2026-10-26T10:49:22.927000+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Le DLSS 5 s’invite discrètement sur un FPS culte et personne ne l’avait vu venir",
+      "url": "https://www.frandroid.com/marques/nvidia/3299015_le-dlss-5-sinvite-discretement-sur-un-fps-culte-et-personne-ne-lavait-vu-venir",
+      "publishedAt": "2026-10-26T10:48:12+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Apple va corriger le problème des certificats de eMudhra et propose une solution temporaire pour les développeurs",
+      "url": "https://www.macg.co/macos/2026/10/apple-va-corriger-le-probleme-des-certificats-de-emudhra-dont-la-cle-privee-etait-4-et-propose-une-solution-temporaire-pour-les-developpeurs-311879",
+      "publishedAt": "2026-10-26T10:40:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Le porte-avions Charles de Gaulle a accueilli un laser anti-drone pour la première fois",
+      "url": "https://www.numerama.com/tech/2360661-le-porte-avions-charles-de-gaulle-a-accueilli-un-laser-anti-drone-pour-la-premiere-fois.html",
+      "publishedAt": "2026-10-26T10:38:19+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Comment changer ses DNS ? Le guide complet pour ne plus confier sa navigation à son opérateur",
+      "url": "https://www.frandroid.com/comment-faire/499707_dns-comment-avoir-acces-a-un-web-sans-censure-et-plus-rapide-sur-android",
+      "publishedAt": "2026-10-26T10:30:26+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Les futurs DLC Pokopia commencent à fuiter, découvrez la liste des 24 nouveaux Pokémon bientôt disponibles !",
+      "url": "https://www.journaldugeek.com/2026/10/26/les-futurs-dlc-pokopia-commencent-a-fuiter-decouvrez-la-liste-des-24-nouveaux-pokemon-bientot-disponibles/",
+      "publishedAt": "2026-10-26T10:30:10+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "For the third time this fall, Apple prepares to launch a very cool thing nobody needs",
+      "url": "https://www.macworld.com/article/3263574/for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs.html",
+      "publishedAt": "2026-10-26T10:30:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "C'est de l'IA : la chanson 100% IA qui affole X et fait applaudir Elon Musk",
+      "url": "https://www.mac4ever.com/ia/198722-c-est-de-l-ia-la-chanson-100-ia-qui-affole-x-et-fait-applaudir-elon-musk",
+      "publishedAt": "2026-10-26T10:29:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Tyrese Haliburton et les Pacers visent à nouveau le titre",
+      "url": "https://www.basketusa.com/news/951851/tyrese-haliburton-et-les-pacers-visent-a-nouveau-le-titre/",
+      "publishedAt": "2026-10-26T10:28:51+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "NFL Paris Game : 709 000 téléspectateurs sur France 2",
+      "url": "https://touchdownactu.com/360480/nfl-paris-game-700-000-telespectateurs-sur-france-2/",
+      "publishedAt": "2026-10-26T10:28:46+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "IA : pourquoi les chatbots nous donnent-ils raison même quand nous avons tort ? Cette équipe de scientifiques montre comment limiter ce comportement insupportable",
+      "url": "https://www.clubic.com/actualite-635785-ia-pourquoi-les-chatbots-nous-donnent-ils-raison-meme-quand-nous-avons-tort-cette-equipe-de-scientifiques-montre-comment-limiter-ce-comportement-insupportable.html",
+      "publishedAt": "2026-10-26T10:26:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Nagomi installe un bassin de carpes koï sur le bureau de votre Mac",
+      "url": "https://www.macg.co/logiciels/2026/10/nagomi-installe-un-bassin-de-carpes-koi-sur-le-bureau-de-votre-mac-311877",
+      "publishedAt": "2026-10-26T10:24:13+00:00"
+    },
+    {
+      "source": "macworld",
+      "title": "iPhone Duo hinge issue: What’s wrong with Apple’s folding phone and how to fix it",
+      "url": "https://www.macworld.com/article/3269038/iphone-duo-hinge-issue-whats-wrong-with-apples-folding-phone-and-how-to-fix-it.html",
+      "publishedAt": "2026-10-26T10:23:54+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "MacBook Pro OLED et tactile : le prix va vraiment atteindre des sommets",
+      "url": "https://www.iphon.fr/post/macbook-pro-oled-tactile-prix-va-vraiment-atteindre-sommets",
+      "publishedAt": "2026-10-26T10:23:27+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Adapté au télétravail, aux études et aux séries, ce PC portable Lenovo passe à 849,99€ chez Amazon",
+      "url": "https://www.clubic.com/bons-plans-635929-adapte-au-teletravail-aux-etudes-et-aux-series-cet-ordinateur-portable-lenovo-ideapad-slim-3-passe-a-849-99-chez-amazon.html",
+      "publishedAt": "2026-10-26T10:23:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Octobre Noir : l'IA met le feu à la cybersécurité mondiale !",
+      "url": "https://www.generation-nt.com/actualites/octobre-noir-cybersecurite-faille-vulnerabilite-intelligence-artificielle-2083413",
+      "publishedAt": "2026-10-26T10:20:01+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "LG CineBeam HU925V : le constructeur revient sur l’ultra-courte focale 4K triple laser, avec un modèle Dolby Atmos Flex Connect",
+      "url": "https://www.frandroid.com/marques/lg/3298741_lg-cinebeam-ai-hu925v-le-constructeur-revient-sur-lultra-courte-focale-4k-triple-laser-avec-un-modele-dolby-atmos-flex-connect",
+      "publishedAt": "2026-10-26T10:19:03+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "La prochaine Alpine A110 pourrait ne pas être électrique… en Europe",
+      "url": "https://www.numerama.com/vroom/2360581-la-prochaine-alpine-a110-pourrait-ne-pas-etre-electrique-en-europe.html",
+      "publishedAt": "2026-10-26T10:17:37+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Stylé et puissant : ASUS dévoile un nouveau ROG NUC 16 sous Intel Arrow Lake et RTX 5080 mobile",
+      "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/mini-pc/3298733_style-et-puissant-asus-devoile-un-nouveau-rog-nuc-16-sous-intel-arrow-lake-et-rtx-5080-mobile",
+      "publishedAt": "2026-10-26T10:17:00+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Des centaines de RTX 5090 neuves désossées en usine pour l’IA ? Le business secret qui priverait les joueurs de GPU",
+      "url": "https://www.frandroid.com/marques/nvidia/3298927_des-centaines-de-rtx-5090-neuves-desossees-en-usine-pour-lai-le-business-secret-qui-priverait-les-joueurs-de-gpu",
+      "publishedAt": "2026-10-26T10:16:07+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Combien ça coûte de casser son iPhone Duo ? On a regardé les tarifs d’Apple (tenez-le bien)",
+      "url": "https://www.numerama.com/tech/2360563-combien-ca-coute-de-casser-son-iphone-duo-on-a-regarde-les-tarifs-dapple-tenez-le-bien.html",
+      "publishedAt": "2026-10-26T10:16:06+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "iPhone Duo : son écran révolutionnaire se brise après quelques heures, Apple est dans la panade",
+      "url": "https://www.journaldugeek.com/2026/10/26/iphone-duo-son-ecran-revolutionnaire-se-brise-apres-quelques-heures-apple-est-dans-la-panade/",
+      "publishedAt": "2026-10-26T10:15:55+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Le gouvernement peut-il vraiment couper TikTok, Instagram et les autres réseaux sociaux en cas de violences en France ?",
+      "url": "https://www.numerama.com/tech/2360573-le-gouvernement-peut-il-vraiment-couper-tiktok-instagram-et-les-autres-reseaux-sociaux-en-cas-de-violences-en-france.html",
+      "publishedAt": "2026-10-26T10:15:29+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "La règle sacrée a désormais une exception : Google peut cibler ses publicités grâce à vos mails et vos photos, si vous les confiez à son IA",
+      "url": "https://www.numerama.com/cyberguerre/2360679-la-regle-sacree-a-desormais-une-exception-google-peut-cibler-ses-publicites-grace-a-vos-mails-et-vos-photos-si-vous-les-confiez-a-son-ia.html",
+      "publishedAt": "2026-10-26T10:15:23+00:00"
+    },
+    {
+      "source": "01net",
+      "title": "« Un énorme problème d’écran » sur l’iPhone Duo : iFixit découvre une défaillance sur le smartphone pliant d’Apple",
+      "url": "https://www.01net.com/actualites/un-enorme-probleme-decran-sur-liphone-duo-ifixit-decouvre-une-defaillance-sur-le-smartphone-pliant-dapple.html",
+      "publishedAt": "2026-10-26T10:14:28+00:00"
+    },
     {
       "source": "01net",
       "title": "Temu, AliExpress, Shein : pourquoi vos petits colis vont vous coûter plus cher dès le 1er novembre",
       "url": "https://www.01net.com/actualites/temu-aliexpress-shein-pourquoi-vos-petits-colis-vont-vous-couter-plus-cher-des-1er-novembre.html",
       "publishedAt": "2026-10-26T10:12:28+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Comment protéger son appareil photo et ses objectifs contre le vol, les chutes et l’eau",
+      "url": "https://www.generation-nt.com/actualites/comment-proteger-appareil-photo-objectifs-contre-vol-chutes-eau-2083183",
+      "publishedAt": "2026-10-26T10:11:04+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iOS 27.2 : une 2e bêta RC est disponible, à quand la version finale ?",
+      "url": "https://www.iphon.fr/post/ios-27-2-quelles-nouveautes",
+      "publishedAt": "2026-10-26T10:10:42+00:00"
     },
     {
       "source": "numerama",
@@ -257,6 +461,12 @@
       "title": "Après les manifestations, le gouvernement se prépare à la coupure de TikTok, Instagram et Snapchat",
       "url": "https://www.journaldugeek.com/2026/10/26/apres-les-manifestations-le-gouvernement-se-prepare-a-la-coupure-de-tiktok-instagram-et-snapchat/",
       "publishedAt": "2026-10-26T10:00:55+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "Des séduisants Browns, Aaron Glenn à la dérive … les 8 leçons de la semaine 7",
+      "url": "https://touchdownactu.com/360468/des-seduisants-browns-aaron-glenn-a-la-derive-les-8-lecons-de-la-semaine-7/",
+      "publishedAt": "2026-10-26T10:00:49+00:00"
     },
     {
       "source": "clubic",
@@ -371,6 +581,12 @@
       "title": "iPhone Duo : ce test de résistance extrême livre un résultat surprenant",
       "url": "https://www.iphon.fr/post/iphone-duo-test-resistance-extreme-livre-resultat-surprenant",
       "publishedAt": "2026-10-26T09:33:47+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Lancé à un tarif astronomique, l’impressionnant Oppo Find X10 Pro Max et ses trois capteurs de 200 Mpx baissent enfin de prix",
+      "url": "https://www.frandroid.com/bons-plans/3298775_lance-a-un-tarif-astronomique-limpressionnant-oppo-find-x10-pro-max-et-ses-trois-capteurs-de-200-mpx-baissent-enfin-de-prix",
+      "publishedAt": "2026-10-26T09:33:00+00:00"
     },
     {
       "source": "gnt",
@@ -559,14 +775,8 @@
       "publishedAt": "2026-10-26T08:16:01+00:00"
     },
     {
-      "source": "iphon",
-      "title": "iOS 27.2 : une 2e bêta RC est disponible, à quand la version finale ?",
-      "url": "https://www.iphon.fr/post/ios-27-2-quelles-nouveautes",
-      "publishedAt": "2026-10-26T08:05:00+00:00"
-    },
-    {
       "source": "01net",
-      "title": "Windows 11 aura bientôt une option pour booster les performances de votre PC… mais vous ne pourrez jamais l’utiliser",
+      "title": "Windows 11 : une nouvelle option pour booster les performances de votre PC arrive… mais vous ne pourrez jamais l’utiliser",
       "url": "https://www.01net.com/actualites/windows-11-prepare-une-option-pour-booster-les-performances-de-votre-pc-mais-vous-ne-pourrez-jamais-lutiliser.html",
       "publishedAt": "2026-10-26T08:03:25+00:00"
     },
@@ -629,12 +839,6 @@
       "title": "Star Wars Galactic Racer était déjà excellent et ses développeurs viennent de le rendre encore meilleur avec ce premier patch",
       "url": "https://www.journaldugeek.com/2026/10/26/star-wars-galactic-racer-etait-deja-excellent-et-ses-developpeurs-viennent-de-le-rendre-encore-meilleur-avec-ce-premier-patch/",
       "publishedAt": "2026-10-26T07:51:58+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "Google change ses règles de confidentialité et ouvre la porte à une utilisation de vos photos et de vos mails pour la pub",
-      "url": "https://www.frandroid.com/marques/google/3298661_google-change-ses-regles-de-confidentialite-et-ouvre-la-porte-a-une-utilisation-de-vos-photos-et-de-vos-mails-pour-la-pub",
-      "publishedAt": "2026-10-26T07:51:32+00:00"
     },
     {
       "source": "clubic",
@@ -761,12 +965,6 @@
       "title": "Blocage des réseaux sociaux en France : la lettre confidentielle qui montre que l’État s’en est donné les moyens",
       "url": "https://www.frandroid.com/culture-tech/politique/3298603_blocage-des-reseaux-sociaux-en-france-la-lettre-confidentielle-qui-montre-que-letat-sen-est-donne-les-moyens",
       "publishedAt": "2026-10-26T06:49:40+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le Thunder sous le choc après la terrible blessure de Jalen Williams",
-      "url": "https://www.basketusa.com/news/951824/le-thunder-tres-affecte-par-la-grave-blessure-de-jalen-williams/",
-      "publishedAt": "2026-10-26T06:49:34+00:00"
     },
     {
       "source": "presse",
@@ -917,6 +1115,12 @@
       "title": "OKC vient à bout des Clippers… mais perd Jalen Williams",
       "url": "https://www.basketusa.com/news/951763/le-thunder-vient-a-bout-des-clippers-mais-perd-jalen-williams/",
       "publishedAt": "2026-10-26T05:49:41+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le Thunder sous le choc après la terrible blessure de Jalen Williams",
+      "url": "https://www.basketusa.com/news/951824/le-thunder-tres-affecte-par-la-grave-blessure-de-jalen-williams/",
+      "publishedAt": "2026-10-26T05:49:34+00:00"
     },
     {
       "source": "frandroid",
@@ -2585,24 +2789,6 @@
       "title": "Vous aimez les saucisses et les trickshots ? Ce jeu va vous rendre fous",
       "url": "https://www.journaldugeek.com/test/vous-aimez-les-saucisses-et-les-trickshots-ce-jeu-va-vous-rendre-fous/",
       "publishedAt": "2026-10-24T11:00:19+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Pour les Raptors, la taille ne compte pas en défense",
-      "url": "https://www.basketusa.com/news/951250/pour-les-raptors-la-taille-ne-compte-pas-en-defense/",
-      "publishedAt": "2026-10-24T10:57:29+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Des années que ce n'était plus arrivé : ASUS relance des cartes graphiques estampillées Intel",
-      "url": "https://www.clubic.com/actualite-635797-des-annees-que-ce-n-etait-plus-arrive-asus-relance-des-cartes-graphiques-estampillees-intel.html",
-      "publishedAt": "2026-10-24T10:33:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Changement d’heure : pensez à reculer votre montre d’une heure cette nuit !",
-      "url": "https://www.journaldugeek.com/2026/10/24/cest-ce-week-end-quon-passe-a-lheure-dhiver/",
-      "publishedAt": "2026-10-24T10:21:31+00:00"
     },
     {
       "source": "boulet",
