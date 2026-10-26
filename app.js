@@ -1,4 +1,4 @@
-const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'Sport', language: 'fr', loading: false };
+const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'Tech', language: 'fr', loading: false };
 const byId = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
 const clockFormat = new Intl.DateTimeFormat('fr-FR', { hour: '2-digit', minute: '2-digit' });
@@ -131,6 +131,23 @@ function render() {
     const timestamp = Date.parse(article.publishedAt);
     return sources.has(article.source) && safeUrl(article.url) && (timestamp >= cutoff || sources.get(article.source).group === 'BD') && timestamp <= now;
   }).sort((first, second) => Date.parse(second.publishedAt) - Date.parse(first.publishedAt));
+  const today = new Date(now).toLocaleDateString('fr-FR');
+  const counts = { BD: 0, Sport: 0, Tech: 0 };
+  for (const article of articles) {
+    const source = sources.get(article.source);
+    if ((source.language || 'fr') === state.language && new Date(article.publishedAt).toLocaleDateString('fr-FR') === today && Object.hasOwn(counts, source.group)) {
+      counts[source.group] += 1;
+    }
+  }
+  // Les mangas restent visibles dans BD quelle que soit la langue sélectionnée.
+  for (const manga of state.mangas || []) {
+    if (manga.publishedDate && new Date(`${manga.publishedDate}T12:00:00`).toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD += 1;
+  }
+  document.querySelectorAll('[data-group]').forEach((button) => {
+    const group = button.dataset.group;
+    button.querySelector('.tab-count').textContent = counts[group];
+    button.setAttribute('aria-label', `${group} : ${counts[group]} publication${counts[group] === 1 ? '' : 's'} aujourd’hui`);
+  });
   const filtered = articles.filter((article) => {
     const source = sources.get(article.source);
     return source.group === state.group && (source.language || 'fr') === state.language;
@@ -154,7 +171,6 @@ function render() {
     if (!days.has(day)) days.set(day, { date, articles: [] });
     days.get(day).articles.push(article);
   }
-  const today = new Date().toLocaleDateString('fr-FR');
   const yesterdayDate = new Date();
   yesterdayDate.setDate(yesterdayDate.getDate() - 1);
   const yesterday = yesterdayDate.toLocaleDateString('fr-FR');

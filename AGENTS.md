@@ -18,9 +18,11 @@
 
 ## Comportements à préserver
 
+- Titre du navigateur et nom de l’application : Actualités.
+- Les compteurs des onglets indiquent les publications du jour selon la date locale et la langue sélectionnée ; BD inclut les chapitres du jour, indépendamment de Fr / Us.
 - Interface compacte, lisible sur iPhone et Mac, mode clair/sombre selon le système.
 - Pas de titre introductif, de recherche, de compteur « X articles / 48 h », ni de bouton d’actualisation manuelle.
-- Menu : BD, Sport, Tech, séparateur `/`, Fr, Us. Catégorie et langue se combinent ; Sport et français par défaut. Aucun onglet Tout ou Local.
+- Menu : BD, Sport, Tech, séparateur `/`, Fr, Us. Catégorie et langue se combinent ; Tech et français par défaut. Aucun onglet Tout ou Local.
 - L’indicateur près de Sources affiche une icône d’actualisation et le temps depuis la collecte. Ce n’est pas un bouton et il ne lance aucune collecte.
 - Articles triés du plus récent au plus ancien ; toute la ligne ouvre l’original dans un nouvel onglet avec `noopener noreferrer`.
 - Sur mobile et ordinateur, icône, nom de la source et heure sont alignés sur une première ligne ; le titre vient en dessous sur toute la largeur et est limité à deux lignes.

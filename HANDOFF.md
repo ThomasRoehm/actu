@@ -1,6 +1,6 @@
 # Reprise dans Codex Cloud
 
-État de référence : 25 octobre 2026. Les fichiers de configuration et les dernières demandes de l’utilisateur font autorité si ce document devient ancien.
+État de référence : 26 octobre 2026. Les fichiers de configuration et les dernières demandes de l’utilisateur font autorité si ce document devient ancien.
 
 ## Projet
 
@@ -13,7 +13,7 @@
 ## État fonctionnel
 
 - 21 sources d’actualités configurées dans `sources.json` et 29 séries dans `mangas.json`.
-- Catégories BD / Sport / Tech, dans cet ordre, puis `/` et Fr / Us. Sport / Fr est sélectionné par défaut ; les onglets Tout et Local ont été supprimés.
+- Catégories BD / Sport / Tech, dans cet ordre, puis `/` et Fr / Us. Tech / Fr est sélectionné par défaut ; les onglets Tout et Local ont été supprimés.
 - Tech et Sport : articles des dernières 48 heures.
 - Bouletcorp : dernière publication conservée quelle que soit sa date.
 - MangaKatana : dernier chapitre disponible de chaque série, avec date si connue ; les mangas restent visibles dans BD avec Fr comme Us.
@@ -22,7 +22,9 @@
 
 ## Dernières décisions d’interface
 
-- Page sans titre introductif ni champ de recherche.
+- Page sans titre introductif ni champ de recherche. Le titre du navigateur et le nom de l’application sont « Actualités ».
+- Lignes compactes : espacement vertical réduit, titres toujours limités à deux lignes.
+- Chaque onglet affiche le nombre de publications du jour (date locale, langue sélectionnée). BD ajoute les chapitres dont la date connue est aujourd’hui, quelle que soit la langue ; les dates inconnues et publications anciennes ne sont pas comptées.
 - Logo : trois lignes blanches arrondies et un point bleu sur fond sombre, dans `icon.svg`.
 - Aucun bouton pour rafraîchir ou synchroniser : l’ancien bouton créait une confusion avec le déclenchement d’une collecte.
 - Aucun compteur de résultats sous le menu.
