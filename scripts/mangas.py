@@ -33,12 +33,17 @@ def latest_chapter(content, manga):
 
 def collect_manga(manga, previous, now):
     item = {"slug": manga["slug"], "title": manga["title"], "pageUrl": BASE + manga["slug"]}
+    previous = dict(previous)
+    # Migration : dernière observation réussie du chapitre déjà enregistré.
+    if previous.get("url") and not previous.get("firstSeenAt") and parse_date(previous.get("lastSuccessAt")):
+        previous["firstSeenAt"] = previous["lastSuccessAt"]
     checked = parse_date(previous.get("checkedAt"))
     if checked and datetime.timedelta(0) <= now - checked < datetime.timedelta(minutes=30):
         return dict(previous, **item)
     try:
         chapter = latest_chapter(fetch(item["pageUrl"]), manga)
-        return dict(item, **chapter, ok=True, checkedAt=now.isoformat(), lastSuccessAt=now.isoformat())
+        first_seen = previous.get("firstSeenAt") if previous.get("url") == chapter["url"] else None
+        return dict(item, **chapter, firstSeenAt=first_seen or now.isoformat(), ok=True, checkedAt=now.isoformat(), lastSuccessAt=now.isoformat())
     except Exception as error:
         return dict(previous, **item, ok=False, checkedAt=now.isoformat(), error=str(error)[:180])
 

@@ -16,6 +16,7 @@
 - Catégories BD / Sport / Tech, dans cet ordre, puis `/` et Fr / Us. Tech / Fr est sélectionné par défaut ; les onglets Tout et Local ont été supprimés.
 - Tech et Sport : articles des dernières 48 heures.
 - Bouletcorp : dernière publication conservée quelle que soit sa date.
+- Dates MangaKatana : si la date source devance la première observation du chapitre (`firstSeenAt`), afficher « Repéré le » avec le jour local de cette observation et utiliser ce même jour pour le tri et le compteur BD. La date source reste conservée ; une date inconnue reste inconnue. Pour les anciennes données, la dernière observation réussie sert de repli avant migration.
 - MangaKatana : dernier chapitre disponible de chaque série, avec date si connue ; les mangas restent visibles dans BD avec Fr comme Us.
 - Apple Newsroom est en Tech / Fr ; Microsoft Blog, Macworld, TechCrunch et Digital Minimalist sont en Tech / Us. NFL est en Sport / Us.
 - BeBasket, The Verge, Maliki, NBA, Actu.fr Grand Bourgtheroulde et Le Monde ont été retirés sur demande : ne pas les réintroduire. Du code et des icônes historiques peuvent subsister sans être utilisés.

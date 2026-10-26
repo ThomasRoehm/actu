@@ -4,6 +4,22 @@ const dateFormat = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'num
 const clockFormat = new Intl.DateTimeFormat('fr-FR', { hour: '2-digit', minute: '2-digit' });
 const safeUrl = (value) => { try { const url = new URL(value); return ['https:', 'http:'].includes(url.protocol) ? url.href : null; } catch { return null; } };
 
+function mangaDate(manga) {
+  const value = manga.publishedDate;
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(value || '')) return null;
+  const date = new Date(`${value}T12:00:00`);
+  if (!Number.isFinite(date.getTime()) || date.getFullYear() !== Number(value.slice(0, 4)) || date.getMonth() + 1 !== Number(value.slice(5, 7)) || date.getDate() !== Number(value.slice(8, 10))) return null;
+  const observed = new Date(manga.firstSeenAt || manga.lastSuccessAt);
+  // Une date sans fuseau fournie par la source peut devancer un chapitre déjà disponible.
+  if (Number.isFinite(observed.getTime()) && observed.getTime() <= Date.now()) {
+    const observedDay = new Date(observed.getFullYear(), observed.getMonth(), observed.getDate(), 12);
+    if (date > observedDay) return { date: observedDay, observed: true };
+  }
+  const today = new Date();
+  today.setHours(12, 0, 0, 0);
+  return date <= today ? { date, observed: false } : null;
+}
+
 function icon(source) {
   const wrapper = document.createElement('span');
   wrapper.className = 'site-icon';
@@ -77,7 +93,7 @@ function renderMangas() {
   }
   const list = document.createElement('div');
   list.className = 'article-list';
-  const mangas = [...state.mangas].sort((first, second) => (second.publishedDate || '').localeCompare(first.publishedDate || '') || first.title.localeCompare(second.title));
+  const mangas = [...state.mangas].sort((first, second) => (mangaDate(second)?.date.getTime() || 0) - (mangaDate(first)?.date.getTime() || 0) || first.title.localeCompare(second.title));
   for (const manga of mangas) {
     const link = document.createElement('a');
     link.className = 'article manga-article';
@@ -95,7 +111,9 @@ function renderMangas() {
     source.textContent = manga.ok ? 'MangaKatana' : 'MangaKatana · à vérifier';
     const date = document.createElement('span');
     date.className = 'article-time';
-    date.textContent = manga.publishedDate ? new Date(`${manga.publishedDate}T12:00:00`).toLocaleDateString('fr-FR') : 'Date inconnue';
+    const displayedDate = mangaDate(manga);
+    date.textContent = displayedDate ? `${displayedDate.observed ? 'Repéré le ' : ''}${displayedDate.date.toLocaleDateString('fr-FR')}` : 'Date inconnue';
+    if (displayedDate?.observed) date.title = `Date annoncée par MangaKatana : ${manga.publishedDate}. Chapitre déjà disponible lors de la collecte.`;
     metadata.append(icon({ id: 'mangakatana', name: 'MangaKatana' }), source, date);
     link.append(metadata, title);
     list.append(link);
@@ -141,7 +159,7 @@ function render() {
   }
   // Les mangas restent visibles dans BD quelle que soit la langue sélectionnée.
   for (const manga of state.mangas || []) {
-    if (manga.publishedDate && new Date(`${manga.publishedDate}T12:00:00`).toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD += 1;
+    if (mangaDate(manga)?.date.toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD += 1;
   }
   document.querySelectorAll('[data-group]').forEach((button) => {
     const group = button.dataset.group;

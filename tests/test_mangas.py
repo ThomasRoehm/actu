@@ -34,6 +34,29 @@ class MangaTests(unittest.TestCase):
         request.assert_not_called()
         self.assertEqual(result["chapter"], "Chapter 12")
 
+    def test_first_observation_is_stable_for_same_chapter(self):
+        previous = {"url": "https://mangakatana.com/manga/example.123/c12", "firstSeenAt": "2026-10-23T20:00:00+00:00"}
+        chapter = {"url": previous["url"], "chapter": "Chapter 12", "publishedDate": "2026-10-24"}
+        with patch("scripts.mangas.fetch", return_value=b""), patch("scripts.mangas.latest_chapter", return_value=chapter):
+            result = collect_manga(self.manga, previous, self.now)
+        self.assertEqual(result["firstSeenAt"], previous["firstSeenAt"])
+        self.assertEqual(result["publishedDate"], "2026-10-24")
+
+    def test_new_chapter_has_new_observation(self):
+        previous = {"url": "https://mangakatana.com/manga/example.123/c11", "firstSeenAt": "2026-10-20T20:00:00+00:00"}
+        chapter = {"url": "https://mangakatana.com/manga/example.123/c12", "chapter": "Chapter 12", "publishedDate": "2026-10-25"}
+        with patch("scripts.mangas.fetch", return_value=b""), patch("scripts.mangas.latest_chapter", return_value=chapter):
+            result = collect_manga(self.manga, previous, self.now)
+        self.assertEqual(result["firstSeenAt"], self.now.isoformat())
+        self.assertEqual(result["publishedDate"], "2026-10-25")
+
+    def test_migration_even_when_check_is_throttled(self):
+        previous = {"url": "https://mangakatana.com/manga/example.123/c12", "checkedAt": self.now.isoformat(), "lastSuccessAt": "2026-10-23T23:55:00+00:00"}
+        with patch("scripts.mangas.fetch") as request:
+            result = collect_manga(self.manga, previous, self.now)
+        request.assert_not_called()
+        self.assertEqual(result["firstSeenAt"], previous["lastSuccessAt"])
+
     def test_bd_keeps_only_latest_without_48_hour_limit(self):
         older = {"source": "bd", "title": "Old", "url": "https://example.com/old", "publishedAt": "2025-01-01T00:00:00+00:00"}
         latest = dict(older, url="https://example.com/latest", publishedAt="2026-01-01T00:00:00+00:00")
