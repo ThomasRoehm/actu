@@ -77,12 +77,11 @@ function renderMangas() {
   heading.className = 'day-heading';
   heading.textContent = 'Mangas · derniers chapitres';
   section.append(heading);
-  const info = document.createElement('p');
-  info.className = 'manga-info';
-  info.textContent = 'Sans limite de date · MangaKatana en anglais';
-  section.append(info);
   if (!state.mangas) {
+    const info = document.createElement('p');
+    info.className = 'manga-info';
     info.textContent = state.mangaError ? 'Impossible de charger les mangas. Réessayez en rechargeant la page.' : 'Chargement des derniers chapitres…';
+    section.append(info);
     return;
   }
   if (state.mangaError || state.mangas.some((manga) => !manga.ok)) {
@@ -171,7 +170,6 @@ function render() {
     return source.group === state.group;
   });
   byId('source-count').textContent = sources.size;
-  byId('footer-sources').textContent = `${sources.size} sources`;
   const generated = new Date(state.data.generatedAt);
   byId('updated-time').textContent = relativeTime(generated);
   byId('updated').setAttribute('aria-label', `Dernière collecte : ${relativeTime(generated)}`);
