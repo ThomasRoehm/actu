@@ -12,15 +12,17 @@
 
 ## État fonctionnel
 
-- 16 sources d’actualités configurées dans `sources.json` et 27 séries dans `mangas.json`.
+- 15 sources d’actualités configurées dans `sources.json` et 27 séries dans `mangas.json`.
 - Catégories BD / Sport / Tech, dans cet ordre. Tech est sélectionné par défaut ; les onglets Tout et Local et le sélecteur Fr / Us ont été supprimés.
 - Tech et Sport : articles des dernières 48 heures.
 - Bouletcorp : dernière publication conservée quelle que soit sa date.
 - Dates MangaKatana : si la date source devance la première observation du chapitre (`firstSeenAt`), afficher « Repéré le » avec le jour local de cette observation et utiliser ce même jour pour le tri et le compteur BD. La date source reste conservée ; une date inconnue reste inconnue. Pour les anciennes données, la dernière observation réussie sert de repli avant migration.
 - MangaKatana : dernier chapitre disponible de chaque série, avec date si connue ; les mangas restent visibles dans BD.
-- Microsoft Blog, Macworld, TechCrunch, Digital Minimalist et NFL ont été retirés sur demande. Les sources d’actualités restantes sont françaises.
+- Next, Microsoft Blog, Macworld, TechCrunch, Digital Minimalist et NFL ont été retirés sur demande. Les sources d’actualités restantes sont françaises.
 - Mangas retirés : Amano Megumi wa Suki Darake! et The Monstrous New Life of the Fallen Empire's Recruit.
 - BeBasket, The Verge, Maliki, NBA, Actu.fr Grand Bourgtheroulde et Le Monde ont été retirés sur demande : ne pas les réintroduire. Du code et des icônes historiques peuvent subsister sans être utilisés.
+
+Korben utilise le flux officiel `https://korben.info/feed.xml`, indiqué par le site ; l’ancienne adresse `/feed` ne remontait plus de publications récentes.
 
 ## Dernières décisions d’interface
 
