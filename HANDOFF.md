@@ -22,7 +22,7 @@
 - Mangas retirés : Amano Megumi wa Suki Darake! et The Monstrous New Life of the Fallen Empire's Recruit.
 - BeBasket, The Verge, Maliki, NBA, Actu.fr Grand Bourgtheroulde et Le Monde ont été retirés sur demande : ne pas les réintroduire. Du code et des icônes historiques peuvent subsister sans être utilisés.
 
-Korben utilise le flux officiel `https://korben.info/feed.xml`, indiqué par le site ; l’ancienne adresse `/feed` ne remontait plus de publications récentes.
+Korben utilise le flux complet officiel `https://korben.info/feedfull`, recommandé sur sa page `/flux-rss/`. Le flux `/feed` (également accessible via `/feed.xml`) est limité aux articles « Techos » et omet les publications grand public récentes. La fenêtre de conservation reste de 48 heures.
 
 ## Dernières décisions d’interface
 
