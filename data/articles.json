@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T18:49:25.706484+00:00",
+  "generatedAt": "2026-10-27T19:32:09.793856+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "numerama",
@@ -32,18 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
-    },
-    {
-      "id": "next",
-      "name": "Next",
-      "url": "https://next.ink",
-      "group": "Tech",
-      "language": "fr",
-      "icon": "icons/next.png",
-      "ok": true,
-      "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +54,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +65,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +76,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +87,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +98,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +109,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +120,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -142,7 +131,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "basketusa",
@@ -153,7 +142,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "tda",
@@ -164,7 +153,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     },
     {
       "id": "boulet",
@@ -175,15 +164,51 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T18:49:25.706484+00:00"
+      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Foundation et Keystone piratés : l'épidémie de hacks de portefeuilles crypto continue",
+      "url": "https://www.generation-nt.com/actualites/keystone-foundation-piratage-crypto-portefeuille-securite-2083528",
+      "publishedAt": "2026-10-27T19:10:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "C’est bientôt Halloween : voici 5 jeux vidéos indépendants incontournables pour passer une soirée effrayante",
+      "url": "https://www.presse-citron.net/cest-bientot-halloween-5-jeux-videos-independants-incontournables-passer-soiree-effrayante/",
+      "publishedAt": "2026-10-27T19:02:52+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Samsung W27 : les images du smartphone pliable de luxe en fuite",
+      "url": "https://www.clubic.com/actualite-636262-samsung-w27-les-images-du-smartphone-pliable-de-luxe-en-fuite.html",
+      "publishedAt": "2026-10-27T19:01:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Nvidia injecte 3 milliards de dollars dans Muse de Meta",
+      "url": "https://www.generation-nt.com/actualites/meta-muse-nvidia-investissement-partenariat-2083526",
+      "publishedAt": "2026-10-27T18:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "David Robinson met les Spurs au défi de faire comme en 2014",
+      "url": "https://www.basketusa.com/news/952176/david-robinson-met-les-spurs-au-defi-de-faire-comme-en-2014/",
+      "publishedAt": "2026-10-27T18:46:37+00:00"
+    },
     {
       "source": "jdg",
       "title": "On a classé les jeux GTA du meilleur au pire",
       "url": "https://www.journaldugeek.com/dossier/on-a-classe-les-jeux-gta-du-meilleur-au-pire/",
       "publishedAt": "2026-10-27T18:32:11+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des jeux indépendants pour la Switch 2 : le nouveau Nintendo Indie World arrive demain",
+      "url": "https://www.generation-nt.com/actualites/nintendo-indie-world-showcase-switch-2-jeux-independants-2083525",
+      "publishedAt": "2026-10-27T18:30:01+00:00"
     },
     {
       "source": "macg",
@@ -372,12 +397,6 @@
       "publishedAt": "2026-10-27T16:50:01+00:00"
     },
     {
-      "source": "next",
-      "title": "Le nᵒ 2 du Pentagone crée une nouvelle unité de sabotage, au risque de conflits d’intérêts",
-      "url": "https://next.ink/263544/le-n%e1%b5%92-2-du-pentagone-cree-une-nouvelle-unite-de-sabotage-au-risque-de-conflits-dinterets/",
-      "publishedAt": "2026-10-27T16:43:35+00:00"
-    },
-    {
       "source": "frandroid",
       "title": "L’onglet Collections de Google Photos se transforme (et devient enfin personnalisable)",
       "url": "https://www.frandroid.com/marques/google/3300581_longlet-collections-de-google-photos-se-transforme-et-devient-enfin-personnalisable",
@@ -474,12 +493,6 @@
       "publishedAt": "2026-10-27T16:21:26+00:00"
     },
     {
-      "source": "next",
-      "title": "☕️ OpenAI lance GPT-6.1 Terra à l’assaut du rapport performances/prix",
-      "url": "https://next.ink/brief-article/openai-lance-gpt-6-1-terra-a-lassaut-du-rapport-performances-prix/",
-      "publishedAt": "2026-10-27T16:15:46+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Dune 3 prend de grosses libertés et ça risque de faire débat",
       "url": "https://www.journaldugeek.com/2026/10/27/dune-3-si-vous-naviez-pas-compris-maintenant-cest-clair/",
@@ -496,12 +509,6 @@
       "title": "Kawhi Leonard déjà à l’arrêt",
       "url": "https://www.basketusa.com/news/952493/kawhi-leonard-deja-a-larret/",
       "publishedAt": "2026-10-27T16:06:44+00:00"
-    },
-    {
-      "source": "next",
-      "title": "Travail du clic : Scale AI poursuivie en justice dans quatre pays européens",
-      "url": "https://next.ink/264263/travail-du-clic-scale-ai-poursuivie-en-justice-dans-quatre-pays-europeens/",
-      "publishedAt": "2026-10-27T16:06:19+00:00"
     },
     {
       "source": "frandroid",
@@ -726,12 +733,6 @@
       "publishedAt": "2026-10-27T14:35:17+00:00"
     },
     {
-      "source": "next",
-      "title": "IA : la Linux Foundation constate l’épuisement croissant des contributeurs",
-      "url": "https://next.ink/264168/ia-et-logiciel-libre-la-linux-foundation-fait-le-point/",
-      "publishedAt": "2026-10-27T14:32:03+00:00"
-    },
-    {
       "source": "tda",
       "title": "[podcast] Débrief S7 : les Vikings, mauvais gagnants ?",
       "url": "https://touchdownactu.com/360547/podcast-debrief-s7-les-vikings-mauvais-gagnants/",
@@ -772,12 +773,6 @@
       "title": "RecompLauncher : le site qui veut réunir vos jeux PlayStation, Nintendo et Xbox sur PC sans émulateur",
       "url": "https://www.frandroid.com/services/jeux-video/3300497_recomplauncher-le-site-qui-veut-reunir-vos-jeux-playstation-nintendo-et-xbox-sur-pc-sans-emulateur",
       "publishedAt": "2026-10-27T14:10:45+00:00"
-    },
-    {
-      "source": "next",
-      "title": "☕️ Apple met du M6 dans l’iMac et le MacBook Pro",
-      "url": "https://next.ink/brief-article/apple-met-du-m6-dans-limac-et-le-macbook-pro/",
-      "publishedAt": "2026-10-27T14:06:27+00:00"
     },
     {
       "source": "01net",
@@ -1008,12 +1003,6 @@
       "publishedAt": "2026-10-27T13:03:23+00:00"
     },
     {
-      "source": "next",
-      "title": "Un pirate affirme avoir récupéré des données de trois partis politiques",
-      "url": "https://next.ink/264085/un-pirate-affirme-avoir-recupere-des-donnees-de-trois-partis-politiques/",
-      "publishedAt": "2026-10-27T13:01:00+00:00"
-    },
-    {
       "source": "frandroid",
       "title": "Déclarée « conforme » par Citroën, sa ë-C3 Aircross cache pourtant une batterie amputée de 6 kWh",
       "url": "https://www.frandroid.com/marques/citroen/3300371_declaree-conforme-par-citroen-sa-e-c3-aircross-cache-pourtant-une-batterie-amputee-de-6-kwh",
@@ -1218,12 +1207,6 @@
       "publishedAt": "2026-10-27T11:30:01+00:00"
     },
     {
-      "source": "next",
-      "title": "Le gouvernement annonce remplacer Parcoursup et un outil d’orientation enrichi par l’IA",
-      "url": "https://next.ink/264015/le-gouvernement-annonce-remplacer-parcoursup-et-un-outil-dorientation-enrichi-par-lia/",
-      "publishedAt": "2026-10-27T11:30:00+00:00"
-    },
-    {
       "source": "frandroid",
       "title": "iPhone 18e : Apple serait toujours radin sur son écran et à près de 900 euros, ça commence à agacer",
       "url": "https://www.frandroid.com/marques/3300421_iphone-18e-apple-serait-toujours-radin-sur-son-ecran-et-a-pres-de-900-euros-ca-commence-a-agacer",
@@ -1378,12 +1361,6 @@
       "title": "La ScreenBar Max de BenQ veut régler le problème d’éclairage des bureaux à deux écrans [Sponso]",
       "url": "https://www.frandroid.com/marques/benq/3292865_la-screenbar-max-de-benq-veut-regler-le-probleme-declairage-des-bureaux-a-deux-ecrans",
       "publishedAt": "2026-10-27T10:40:00+00:00"
-    },
-    {
-      "source": "next",
-      "title": "En route pour la bourse, Anthropic liste 800 milliards de dollars de dépenses",
-      "url": "https://next.ink/263960/en-route-pour-la-bourse-anthropic-liste-800-milliards-de-dollars-de-depenses/",
-      "publishedAt": "2026-10-27T10:36:21+00:00"
     },
     {
       "source": "01net",
@@ -1614,12 +1591,6 @@
       "publishedAt": "2026-10-27T09:29:14+00:00"
     },
     {
-      "source": "next",
-      "title": "Résultats d’Orange, rachat de SFR, fibre jusqu’à 50 Gbit/s, Fast pass 5G+ à 5 euros…",
-      "url": "https://next.ink/264011/resultats-dorange-rachat-de-sfr-fibre-jusqua-50-gbit-s-fast-pass-5g-a-5-euros/",
-      "publishedAt": "2026-10-27T09:29:09+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "AV2 : YouTube diminue la bande passante nécessaire de 30%, mais votre vieux Mac va souffler",
       "url": "https://www.mac4ever.com/tv/198738-av2-youtube-divise-la-bande-passante-par-trois-mais-votre-vieux-mac-va-souffler",
@@ -1788,12 +1759,6 @@
       "publishedAt": "2026-10-27T08:40:01+00:00"
     },
     {
-      "source": "next",
-      "title": "☕️ OBS Studio 33 revoit complètement sa gestion des plugins",
-      "url": "https://next.ink/brief-article/obs-studio-33-revoit-completement-sa-gestion-des-plugins/",
-      "publishedAt": "2026-10-27T08:32:00+00:00"
-    },
-    {
       "source": "presse",
       "title": "Revolut présente Revolut Ventures : ses clients pourront investir dans des startups non cotées dès 2027",
       "url": "https://www.presse-citron.net/revolut-presente-revolut-ventures-ses-clients-pourront-investir-dans-des-startups-non-cotees-des-2027/",
@@ -1852,12 +1817,6 @@
       "title": "« Hors de notre contrôle » : le pari d’Anthropic sur le gaz naturel pour alimenter ses data centers",
       "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3299957_hors-de-notre-controle-le-pari-danthropic-sur-le-gaz-naturel-pour-alimenter-ses-data-centers",
       "publishedAt": "2026-10-27T08:15:21+00:00"
-    },
-    {
-      "source": "next",
-      "title": "Mobilisations : Matignon voulait couper les réseaux, le Gouvernement veut élargir Pharos",
-      "url": "https://next.ink/263962/mobilisations-matignon-voulait-couper-les-reseaux-le-gouvernement-veut-elargir-pharos/",
-      "publishedAt": "2026-10-27T08:08:00+00:00"
     },
     {
       "source": "jdg",
@@ -1930,12 +1889,6 @@
       "title": "iPhone Duo : après des casses spectaculaires de l’écran, Apple répond officiellement",
       "url": "https://www.journaldugeek.com/2026/10/27/iphone-duo-son-ecran-revolutionnaire-se-brise-apres-quelques-heures-apple-est-dans-la-panade/",
       "publishedAt": "2026-10-27T07:51:55+00:00"
-    },
-    {
-      "source": "next",
-      "title": "☕️ « Crackgate » : Apple reconnaît un problème avec l’écran interne de l’iPhone Duo",
-      "url": "https://next.ink/brief-article/crackgate-apple-reconnait-un-probleme-avec-lecran-interne-de-liphone-duo/",
-      "publishedAt": "2026-10-27T07:47:00+00:00"
     },
     {
       "source": "frandroid",
@@ -2014,12 +1967,6 @@
       "title": "Inde Navarette, la star d’Obsession, veut jouer dans le film Call of Duty",
       "url": "https://www.journaldugeek.com/2026/10/27/inde-navarette-la-star-dobsession-veut-jouer-dans-le-film-call-of-duty/",
       "publishedAt": "2026-10-27T07:17:58+00:00"
-    },
-    {
-      "source": "next",
-      "title": "L’humain, goulot d’étranglement des gains de productivité par l’IA",
-      "url": "https://next.ink/263933/lhumain-goulot-detranglement-des-gains-de-productivite-par-lia/",
-      "publishedAt": "2026-10-27T07:17:00+00:00"
     },
     {
       "source": "frandroid",
@@ -2124,12 +2071,6 @@
       "publishedAt": "2026-10-27T06:40:54+00:00"
     },
     {
-      "source": "next",
-      "title": "☕️ Loot box : la nouvelle classification PEGI s’étend aux jeux déjà disponibles",
-      "url": "https://next.ink/brief-article/loot-box-la-nouvelle-classification-pegi-setend-aux-jeux-deja-disponibles/",
-      "publishedAt": "2026-10-27T06:35:00+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Apple corrige 329 failles de sécurité d’un coup : votre iPhone est-il concerné ?",
       "url": "https://www.mac4ever.com/securite/198735-apple-corrige-329-failles-de-securite-d-un-coup-votre-iphone-est-il-concerne",
@@ -2194,12 +2135,6 @@
       "title": "Le Danemark abandonne en silence son test d’un Office open source, sans même en tirer le bilan",
       "url": "https://www.01net.com/actualites/le-danemark-abandonne-en-silence-son-test-dun-office-open-source-sans-meme-en-tirer-le-bilan.html",
       "publishedAt": "2026-10-27T06:03:17+00:00"
-    },
-    {
-      "source": "next",
-      "title": "☕️ Microsoft ouvre un plan de départs volontaires à 60 000 salariés",
-      "url": "https://next.ink/brief-article/microsoft-ouvre-un-plan-de-departs-volontaires-a-60-000-salaries/",
-      "publishedAt": "2026-10-27T06:02:00+00:00"
     },
     {
       "source": "basketusa",
@@ -2580,12 +2515,6 @@
       "publishedAt": "2026-10-26T16:50:01+00:00"
     },
     {
-      "source": "next",
-      "title": "GPU Unlock : on « débride » une GeForce RTX 3070 Ti… et ça marche",
-      "url": "https://next.ink/263829/gpu-unlock-on-debride-une-geforce-rtx-3070-ti-et-ca-marche/",
-      "publishedAt": "2026-10-26T16:49:36+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Intéressant pour sa batterie et son grand écran, le smartphone Redmi Note 17 passe sous les 200€ chez Amazon",
       "url": "https://www.clubic.com/bons-plans-635974-interessant-pour-sa-batterie-et-son-grand-ecran-le-smartphone-redmi-note-17-passe-sous-les-200-chez-amazon.html",
@@ -2718,12 +2647,6 @@
       "publishedAt": "2026-10-26T16:03:43+00:00"
     },
     {
-      "source": "next",
-      "title": "Insultée sur LinkedIn, Tara Heuzé-Sarmini obtient gain de cause en appel",
-      "url": "https://next.ink/263881/insultee-sur-linkedin-tara-heuze-sarmini-obtient-gain-de-cause-en-appel/",
-      "publishedAt": "2026-10-26T16:03:14+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Galaxy S26 : Samsung déploie une seconde mise à jour d’octobre, mais garde la surprise sur son contenu",
       "url": "https://www.clubic.com/actualite-636007-galaxy-s26-samsung-deploie-une-seconde-mise-a-jour-d-octobre-mais-garde-la-surprise-sur-son-contenu.html",
@@ -2806,12 +2729,6 @@
       "title": "Microsoft Office 2021 en lecture seule sur Mac : comment débloquer les logiciels ?",
       "url": "https://www.frandroid.com/marques/microsoft/3299255_microsoft-office-2021-en-lecture-seule-sur-mac-comment-debloquer-les-logiciels",
       "publishedAt": "2026-10-26T15:31:59+00:00"
-    },
-    {
-      "source": "next",
-      "title": "Meta se donne trois semaines pour faire avaler ses nouvelles conditions commerciales",
-      "url": "https://next.ink/263876/meta-se-donne-trois-semaines-pour-faire-avaler-ses-nouvelles-conditions-commerciales/",
-      "publishedAt": "2026-10-26T15:30:43+00:00"
     },
     {
       "source": "jdg",
@@ -3078,12 +2995,6 @@
       "publishedAt": "2026-10-26T14:01:16+00:00"
     },
     {
-      "source": "next",
-      "title": "L’iPad mini passe à l’OLED et se serre la ceinture, mais augmente ses prix",
-      "url": "https://next.ink/263839/lipad-mini-passe-a-loled-et-se-serre-la-ceinture-mais-augmente-ses-prix/",
-      "publishedAt": "2026-10-26T14:00:19+00:00"
-    },
-    {
       "source": "presse",
       "title": "Déchets nucléaires : la Finlande va ouvrir le premier site d’enfouissement définitif de la planète, à 400 mètres sous terre",
       "url": "https://www.presse-citron.net/dechets-nucleaires-la-finlande-va-ouvrir-le-premier-site-denfouissement-definitif-de-la-planete-a-400-metres-sous-terre/",
@@ -3130,12 +3041,6 @@
       "title": "Apple a annoncé le nouvel iPad mini à l’instant : processeur ultra-puissant, écran OLED et hausse de prix inévitable",
       "url": "https://www.presse-citron.net/apple-annonce-ipad-mini-processeur-oled/",
       "publishedAt": "2026-10-26T13:41:54+00:00"
-    },
-    {
-      "source": "next",
-      "title": "La mémoire des chatbots IA crée des autoportraits algorithmiques des utilisateurs",
-      "url": "https://next.ink/263702/la-memoire-des-chatbots-ia-cree-des-auto-portraits-algorithmiques-des-utilisateurs/",
-      "publishedAt": "2026-10-26T13:39:01+00:00"
     },
     {
       "source": "clubic",
@@ -3214,12 +3119,6 @@
       "title": "La souveraineté attendra : le Danemark contraint de travailler avec Microsoft Office, faute de solution alternative solide",
       "url": "https://www.clubic.com/actualite-635968-la-souverainete-attendra-le-danemark-contraint-de-travailler-avec-microoft-office-faute-de-solution-alternative-solide.html",
       "publishedAt": "2026-10-26T13:10:00+00:00"
-    },
-    {
-      "source": "next",
-      "title": "Notre comparatif maison de 50 VPS, à moins de 10 euros par mois",
-      "url": "https://next.ink/261825/notre-comparatif-maison-de-50-vps-a-10-euros-maximum-par-mois/",
-      "publishedAt": "2026-10-26T13:08:56+00:00"
     },
     {
       "source": "numerama",
@@ -3472,12 +3371,6 @@
       "title": "10 millions de panneaux solaires en France : le paradoxe des brevets chinois d’HoloSolis",
       "url": "https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3295655_10-millions-de-panneaux-en-france-le-paradoxe-des-brevets-chinois-dholosolis",
       "publishedAt": "2026-10-26T11:02:53+00:00"
-    },
-    {
-      "source": "next",
-      "title": "Google ouvre la voie aux pubs ciblées via Gmail et Photos au nom de l’IA personnalisée",
-      "url": "https://next.ink/263704/google-ouvre-la-voie-aux-pubs-ciblees-via-gmail-et-photos-au-nom-de-lia-personnalisee/",
-      "publishedAt": "2026-10-26T10:58:07+00:00"
     },
     {
       "source": "frandroid",
@@ -3918,12 +3811,6 @@
       "publishedAt": "2026-10-26T09:00:01+00:00"
     },
     {
-      "source": "next",
-      "title": "Windows 11 supporte désormais les instructions APX, dont personne ne peut profiter",
-      "url": "https://next.ink/263710/windows-11-supporte-desormais-les-instructions-apx-dont-personne-ne-peut-profiter/",
-      "publishedAt": "2026-10-26T08:59:54+00:00"
-    },
-    {
       "source": "frandroid",
       "title": "Moins de bips, un SUV de 1 113 ch et une voiture sur mesure : le plan du chinois Geely pour séduire les Européens",
       "url": "https://www.frandroid.com/marques/geely/3298631_moins-de-bips-un-suv-de-1-113-ch-et-une-voiture-sur-mesure-le-plan-du-chinois-geely-pour-seduire-les-europeens",
@@ -3966,12 +3853,6 @@
       "publishedAt": "2026-10-26T08:40:00+00:00"
     },
     {
-      "source": "next",
-      "title": "Les agents IA donnent des sueurs froides aux banques américaines",
-      "url": "https://next.ink/263681/les-agents-ia-donnent-des-sueurs-froides-aux-banques-americaines/",
-      "publishedAt": "2026-10-26T08:32:00+00:00"
-    },
-    {
       "source": "iphon",
       "title": "3 produits attendus cette semaine chez Apple (MacBook Pro, iMac et une grosse surprise ?)",
       "url": "https://www.iphon.fr/post/3-produits-attente-apple-macbook-pro-imac",
@@ -4012,12 +3893,6 @@
       "title": "Temu, Shein, AliExpress : une nouvelle taxe sur vos petits colis s’applique dans quelques jours. Voici pourquoi ça change",
       "url": "https://www.presse-citron.net/temu-shein-aliexpress-nouvelle-taxe-petits-colis/",
       "publishedAt": "2026-10-26T08:02:50+00:00"
-    },
-    {
-      "source": "next",
-      "title": "☕️ La Fédération française de tir victime d’un nouveau vol de données",
-      "url": "https://next.ink/brief-article/la-federation-francaise-de-tir-victime-dun-nouveau-vol-de-donnees/",
-      "publishedAt": "2026-10-26T08:01:00+00:00"
     },
     {
       "source": "01net",
@@ -4098,12 +3973,6 @@
       "publishedAt": "2026-10-26T07:29:00+00:00"
     },
     {
-      "source": "next",
-      "title": "Spotify serre la vis sur le partage de l’abonnement Famille",
-      "url": "https://next.ink/263683/spotify-serre-la-vis-sur-le-partage-de-labonnement-famille/",
-      "publishedAt": "2026-10-26T07:28:00+00:00"
-    },
-    {
       "source": "iphon",
       "title": "Les 16 meilleures applications de recettes de cuisine sur iPhone en 2026",
       "url": "https://www.iphon.fr/post/top-meilleures-applications-recettes-cuisine-iphone",
@@ -4168,12 +4037,6 @@
       "title": "MacBook tactile : ce qu’Apple peut apprendre des erreurs et des réussites de Windows",
       "url": "https://www.macg.co/mac/2026/10/macbook-tactile-ce-quapple-peut-apprendre-des-erreurs-et-des-reussites-de-windows-311863",
       "publishedAt": "2026-10-26T07:00:00+00:00"
-    },
-    {
-      "source": "next",
-      "title": "☕️ Après 17 ans, Microsoft ferme son Garage",
-      "url": "https://next.ink/brief-article/apres-17-ans-microsoft-ferme-son-garage/",
-      "publishedAt": "2026-10-26T06:57:00+00:00"
     },
     {
       "source": "presse",
@@ -4450,30 +4313,6 @@
       "title": "Avec le MacBook Pro tactile, Apple met le doigt sur vingt ans de contradictions : la semaine Apple",
       "url": "https://www.macg.co/aapl/2026/10/avec-le-macbook-pro-tactile-apple-met-le-doigt-sur-vingt-ans-de-contradictions-la-semaine-apple-311865",
       "publishedAt": "2026-10-25T19:50:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Les Lakers à Utah, les Pistons défient les Sixers",
-      "url": "https://www.basketusa.com/news/951739/programme-du-soir-les-lakers-a-utah-les-pistons-defient-les-sixers/",
-      "publishedAt": "2026-10-25T19:30:39+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Orange : un pirate revendique le vol de plus de 6 Go de documents internes",
-      "url": "https://www.macg.co/ailleurs/2026/10/orange-un-pirate-revendique-le-vol-de-plus-de-6-go-de-documents-internes-311867",
-      "publishedAt": "2026-10-25T19:23:48+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Lupin Partie 4: le casse de trop ? Nos tops et flops",
-      "url": "https://www.journaldugeek.com/dossier/lupin-partie-4-le-casse-de-trop-nos-tops-et-flops/",
-      "publishedAt": "2026-10-25T19:04:21+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Pronostics NBA du 25 octobre 2026 : nos paris pour les matchs de la soirée",
-      "url": "https://www.basketusa.com/news/951682/pronostics-nba-du-25-octobre-2026-nos-paris-pour-les-matchs-de-la-soiree/",
-      "publishedAt": "2026-10-25T18:49:31+00:00"
     },
     {
       "source": "boulet",
