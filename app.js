@@ -1,4 +1,4 @@
-const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'Tech', language: 'fr', loading: false };
+const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'Tech', loading: false };
 const byId = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
 const clockFormat = new Intl.DateTimeFormat('fr-FR', { hour: '2-digit', minute: '2-digit' });
@@ -79,7 +79,7 @@ function renderMangas() {
   section.append(heading);
   const info = document.createElement('p');
   info.className = 'manga-info';
-  info.textContent = 'Sans limite de date · MangaKatana en anglais · indépendant de Fr / Us';
+  info.textContent = 'Sans limite de date · MangaKatana en anglais';
   section.append(info);
   if (!state.mangas) {
     info.textContent = state.mangaError ? 'Impossible de charger les mangas. Réessayez en rechargeant la page.' : 'Chargement des derniers chapitres…';
@@ -153,11 +153,11 @@ function render() {
   const counts = { BD: 0, Sport: 0, Tech: 0 };
   for (const article of articles) {
     const source = sources.get(article.source);
-    if ((source.language || 'fr') === state.language && new Date(article.publishedAt).toLocaleDateString('fr-FR') === today && Object.hasOwn(counts, source.group)) {
+    if (new Date(article.publishedAt).toLocaleDateString('fr-FR') === today && Object.hasOwn(counts, source.group)) {
       counts[source.group] += 1;
     }
   }
-  // Les mangas restent visibles dans BD quelle que soit la langue sélectionnée.
+  // Les chapitres du jour contribuent au compteur BD.
   for (const manga of state.mangas || []) {
     if (mangaDate(manga)?.date.toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD += 1;
   }
@@ -168,7 +168,7 @@ function render() {
   });
   const filtered = articles.filter((article) => {
     const source = sources.get(article.source);
-    return source.group === state.group && (source.language || 'fr') === state.language;
+    return source.group === state.group;
   });
   byId('source-count').textContent = sources.size;
   byId('footer-sources').textContent = `${sources.size} sources`;
@@ -235,7 +235,7 @@ function render() {
   if (!filtered.length) {
     const empty = document.createElement('div');
     empty.className = 'empty';
-    empty.textContent = state.group === 'BD' ? 'Aucune publication BD dans cette langue. Les mangas sont affichés séparément ci-dessus.' : 'Aucune nouveauté dans cette langue et cette catégorie sur les dernières 48 heures.';
+    empty.textContent = state.group === 'BD' ? 'Aucune publication BD. Les mangas sont affichés séparément ci-dessus.' : 'Aucune nouveauté dans cette catégorie sur les dernières 48 heures.';
     feed.append(empty);
   }
   renderSources(state.data.sources, articles);
@@ -265,11 +265,6 @@ async function load() {
 document.querySelectorAll('[data-group]').forEach((button) => button.addEventListener('click', () => {
   state.group = button.dataset.group;
   document.querySelectorAll('[data-group]').forEach((tab) => { const active = tab === button; tab.classList.toggle('active', active); tab.setAttribute('aria-pressed', String(active)); });
-  render();
-}));
-document.querySelectorAll('[data-language]').forEach((button) => button.addEventListener('click', () => {
-  state.language = button.dataset.language;
-  document.querySelectorAll('[data-language]').forEach((tab) => { const active = tab === button; tab.classList.toggle('active', active); tab.setAttribute('aria-pressed', String(active)); });
   render();
 }));
 byId('show-sources').addEventListener('click', () => byId('sources-dialog').showModal());

@@ -19,16 +19,16 @@
 ## Comportements à préserver
 
 - Titre du navigateur et nom de l’application : Actualités.
-- Les compteurs des onglets indiquent les publications du jour selon la date locale et la langue sélectionnée ; BD inclut les chapitres du jour, indépendamment de Fr / Us.
+- Les compteurs des onglets indiquent les publications du jour selon la date locale ; BD inclut les chapitres du jour.
 - Interface compacte, lisible sur iPhone et Mac, mode clair/sombre selon le système.
 - Pas de titre introductif, de recherche, de compteur « X articles / 48 h », ni de bouton d’actualisation manuelle.
-- Menu : BD, Sport, Tech, séparateur `/`, Fr, Us. Catégorie et langue se combinent ; Tech et français par défaut. Aucun onglet Tout ou Local.
+- Menu : BD, Sport, Tech ; Tech par défaut. Aucun onglet Tout ou Local, ni sélecteur Fr / Us.
 - L’indicateur près de Sources affiche une icône d’actualisation et le temps depuis la collecte. Ce n’est pas un bouton et il ne lance aucune collecte.
 - Articles triés du plus récent au plus ancien ; toute la ligne ouvre l’original dans un nouvel onglet avec `noopener noreferrer`.
 - Sur mobile et ordinateur, icône, nom de la source et heure sont alignés sur une première ligne ; le titre vient en dessous sur toute la largeur et est limité à deux lignes.
 - Tech et Sport : fenêtre glissante de 48 heures, côté collecteur ET interface.
 - BD : dernière publication par source, sans expiration. Bouletcorp est actuellement la seule source BD classique.
-- Mangas : dernier chapitre de chaque série, sans expiration, dans une section dédiée de BD indépendante de Fr / Us. Ne pas enregistrer de progression de lecture sans demande.
+- Mangas : dernier chapitre de chaque série, sans expiration, dans une section dédiée de BD. Ne pas enregistrer de progression de lecture sans demande.
 - Les données du navigateur se rechargent toutes les 5 minutes lorsque la page est visible et au retour sur l’onglet ; cela ne déclenche pas la collecte serveur.
 
 ## Collecte et sécurité
@@ -37,7 +37,6 @@
 - Ne jamais inventer un titre, chapitre ou horodatage pour masquer un échec.
 - Conserver les derniers résultats connus en cas d’échec suivant les règles de rétention, et signaler l’indisponibilité.
 - MangaKatana : au moins 30 minutes entre vérifications d’une série, une seconde entre requêtes effectuées ; préserver ce ralentissement.
-- Microsoft utilise un User-Agent explicite dans `sources.json`, nécessaire pour éviter certains refus HTTP.
 - Les exécutions GitHub planifiées toutes les 5 minutes peuvent être retardées ou sautées. Ne pas promettre de délai garanti.
 - Tout fichier du dépôt public peut être lu par un tiers. Ne jamais y ajouter de secrets, jetons ou identifiants personnels supplémentaires.
 - Garder les favicons locaux et utiliser `textContent` pour les titres externes ainsi que la validation des URL HTTP(S).
