@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T14:11:03.351923+00:00",
+  "generatedAt": "2026-10-27T14:19:33.273826+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "next",
@@ -43,7 +43,7 @@
       "icon": "icons/next.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "jdg",
@@ -54,7 +54,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "01net",
@@ -65,7 +65,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "presse",
@@ -76,7 +76,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "iphon",
@@ -87,7 +87,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "macg",
@@ -98,7 +98,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "mac4ever",
@@ -109,7 +109,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "frandroid",
@@ -120,7 +120,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "korben",
@@ -131,7 +131,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -142,51 +142,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft Blog",
-      "url": "https://blogs.microsoft.com",
-      "group": "Tech",
-      "language": "en",
-      "icon": "icons/microsoft.png",
-      "ok": true,
-      "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
-    },
-    {
-      "id": "macworld",
-      "name": "Macworld",
-      "url": "https://www.macworld.com",
-      "group": "Tech",
-      "language": "en",
-      "icon": "icons/macworld.png",
-      "ok": true,
-      "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
-    },
-    {
-      "id": "techcrunch",
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com",
-      "group": "Tech",
-      "language": "en",
-      "icon": "icons/techcrunch.jpg",
-      "ok": true,
-      "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
-    },
-    {
-      "id": "digitalminimalist",
-      "name": "Digital Minimalist",
-      "url": "https://www.digitalminimalist.com/blog",
-      "group": "Tech",
-      "language": "en",
-      "icon": "icons/digitalminimalist.png",
-      "ok": true,
-      "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "basketusa",
@@ -197,7 +153,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "tda",
@@ -208,18 +164,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
-    },
-    {
-      "id": "nfl",
-      "name": "NFL",
-      "url": "https://www.nfl.com/news",
-      "group": "Sport",
-      "language": "en",
-      "icon": "icons/nfl.png",
-      "ok": true,
-      "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     },
     {
       "id": "boulet",
@@ -230,7 +175,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T14:11:03.351923+00:00"
+      "lastSuccessAt": "2026-10-27T14:19:33.273826+00:00"
     }
   ],
   "articles": [
@@ -259,16 +204,16 @@
       "publishedAt": "2026-10-27T14:03:32+00:00"
     },
     {
+      "source": "jdg",
+      "title": "GTA 6 : véhicules, map, date de sortie, précommande, tout savoir sur le prochain jeu Rockstar Games",
+      "url": "https://www.journaldugeek.com/dossier/gta-6-vehicules-map-date-de-sortie-precommande-tout-savoir-sur-le-prochain-jeu-rockstar-games/",
+      "publishedAt": "2026-10-27T14:02:02+00:00"
+    },
+    {
       "source": "macg",
       "title": "L’iMac passe à la puce M6, mais reste à un prix de départ fixé à 1 799 €",
       "url": "https://www.macg.co/mac/2026/10/limac-passe-la-puce-m6-mais-reste-un-prix-de-depart-fixe-1-799-eu-311909",
       "publishedAt": "2026-10-27T14:01:00+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "iMac gains M6 chip and performance boost, but little else changes",
-      "url": "https://www.macworld.com/article/3270546/imac-gains-m6-chip-and-performance-boost-but-little-else-changes.html",
-      "publishedAt": "2026-10-27T14:00:36+00:00"
     },
     {
       "source": "gnt",
@@ -289,12 +234,6 @@
       "publishedAt": "2026-10-27T13:55:13.551000+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "publishedAt": "2026-10-27T13:54:51+00:00"
-    },
-    {
       "source": "basketusa",
       "title": "Tidjane Salaün s’affirme par la défense à Charlotte",
       "url": "https://www.basketusa.com/news/952325/tidjane-salaun-saffirme-par-la-defense-a-charlotte/",
@@ -307,22 +246,10 @@
       "publishedAt": "2026-10-27T13:42:49+00:00"
     },
     {
-      "source": "macworld",
-      "title": "iMac M6: Everything we know about Apple’s new Mac",
-      "url": "https://www.macworld.com/article/3218834/new-imac-release-date-launch-specs-price-color.html",
-      "publishedAt": "2026-10-27T13:39:59+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Galileo, le GPS européen, va recevoir deux satellites Airbus blindés contre le brouillage",
       "url": "https://www.clubic.com/actualite-636151-galileo-le-gps-europeen-va-recevoir-deux-satellites-airbus-blindes-contre-le-brouillage.html",
       "publishedAt": "2026-10-27T13:38:00+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "Pro and Tell event live blog: Apple’s ‘exciting’ week of new products continues today",
-      "url": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
-      "publishedAt": "2026-10-27T13:37:55+00:00"
     },
     {
       "source": "numerama",
@@ -347,12 +274,6 @@
       "title": "Apple sort iOS 27.2 : voici la liste de toutes les nouveautés",
       "url": "https://www.iphon.fr/post/ios-27-2-quelles-nouveautes",
       "publishedAt": "2026-10-27T13:33:04+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "publishedAt": "2026-10-27T13:32:57+00:00"
     },
     {
       "source": "jdg",
@@ -395,18 +316,6 @@
       "title": "Apple dévoile l’iMac M6 : plus de puissance, mais pas de révolution au menu",
       "url": "https://www.01net.com/actualites/apple-devoile-limac-m6-des-gains-de-performances-mais-pas-de-revolution.html",
       "publishedAt": "2026-10-27T13:28:21+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Saquon Barkley says hamstring 'came out great' in return from injury",
-      "url": "https://www.nfl.com/news/eagles-rb-saquon-barkley-says-hamstring-came-out-great-in-return-from-injury",
-      "publishedAt": "2026-10-27T13:27:00+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "M6 MacBook Pro: Everything we know about Apple’s new laptop",
-      "url": "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html",
-      "publishedAt": "2026-10-27T13:21:51+00:00"
     },
     {
       "source": "clubic",
@@ -509,30 +418,6 @@
       "title": "Un pirate affirme avoir récupéré des données de trois partis politiques",
       "url": "https://next.ink/264085/un-pirate-affirme-avoir-recupere-des-donnees-de-trois-partis-politiques/",
       "publishedAt": "2026-10-27T13:01:00+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-      "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-      "publishedAt": "2026-10-27T13:01:00+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-      "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-      "publishedAt": "2026-10-27T13:00:00+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "publishedAt": "2026-10-27T13:00:00+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "publishedAt": "2026-10-27T13:00:00+00:00"
     },
     {
       "source": "frandroid",
@@ -733,12 +618,6 @@
       "publishedAt": "2026-10-27T11:30:47+00:00"
     },
     {
-      "source": "nfl",
-      "title": "Javonte Williams powers Cowboys' blowout win over Eagles",
-      "url": "https://www.nfl.com/news/javonte-williams-powers-cowboys-blowout-win-over-eagles",
-      "publishedAt": "2026-10-27T11:30:39.283000+00:00"
-    },
-    {
       "source": "gnt",
       "title": "L'Exynos 2700 de Samsung surpasse le Snapdragon 8 Elite Extreme Gen 6 !",
       "url": "https://www.generation-nt.com/actualites/exynos-2700-surpasse-snapdragon-8-2083437",
@@ -827,12 +706,6 @@
       "title": "Fitbit Edge : AMOLED, ECG, GPS et 5 jours d'autonomie",
       "url": "https://www.mac4ever.com/watch/198742-fitbit-edge-amoled-ecg-gps-et-5-jours-d-autonomie",
       "publishedAt": "2026-10-27T11:02:00+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "publishedAt": "2026-10-27T11:00:00+00:00"
     },
     {
       "source": "frandroid",
@@ -947,12 +820,6 @@
       "title": "Reflect Orbital teste l'éclairage nocturne de la Terre grâce à ses miroirs spatiaux",
       "url": "https://www.generation-nt.com/actualites/reflect-orbital-eclairage-miroirs-spatiaux-2083440",
       "publishedAt": "2026-10-27T10:30:01+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "These iOS 27.2 features will make you want to download the latest updates right away",
-      "url": "https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html",
-      "publishedAt": "2026-10-27T10:30:00+00:00"
     },
     {
       "source": "clubic",
@@ -1139,12 +1006,6 @@
       "title": "Siri AI est disponible en français grâce à iOS 27.2",
       "url": "https://www.iphon.fr/post/siri-ai-disponible-francais-grace-ios-27-2",
       "publishedAt": "2026-10-27T09:32:21+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La LeBron Witness X « Halloween » prend la lumière",
-      "url": "https://www.basketusa.com/news/952333/la-lebron-witness-x-halloween-prend-la-lumiere/",
-      "publishedAt": "2026-10-27T09:30:08+00:00"
     },
     {
       "source": "numerama",
@@ -1345,6 +1206,12 @@
       "publishedAt": "2026-10-27T08:30:17+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "La LeBron Witness X « Halloween » prend la lumière",
+      "url": "https://www.basketusa.com/news/952333/la-lebron-witness-x-halloween-prend-la-lumiere/",
+      "publishedAt": "2026-10-27T08:30:08+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Test JBL Cove P1 : JBL veut bousculer Sonos et ses arguments ne manquent pas",
       "url": "https://www.clubic.com/test-produit-634762-test-jbl-cove-p1-jbl-veut-bousculer-sonos-et-ses-arguments-ne-manquent-pas.html",
@@ -1439,12 +1306,6 @@
       "title": "Écouter de la musique sans écouteurs dans les transports peut désormais vous coûter très cher",
       "url": "https://www.generation-nt.com/actualites/musique-sans-ecouteurs-transports-amende-2083447",
       "publishedAt": "2026-10-27T08:00:01+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "Uh what?! — New Gold Star Members can get a $45 Digital Costco Shop Card with a $65 Costco membership*",
-      "url": "https://www.macworld.com/article/3269940/uh-what-new-gold-star-members-can-get-a-45-digital-costco-shop-card-with-a-65-costco-membership.html",
-      "publishedAt": "2026-10-27T08:00:00+00:00"
     },
     {
       "source": "jdg",
@@ -1681,12 +1542,6 @@
       "publishedAt": "2026-10-27T06:35:00+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-      "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-      "publishedAt": "2026-10-27T06:34:44+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Apple corrige 329 failles de sécurité d’un coup : votre iPhone est-il concerné ?",
       "url": "https://www.mac4ever.com/securite/198735-apple-corrige-329-failles-de-securite-d-un-coup-votre-iphone-est-il-concerne",
@@ -1831,46 +1686,10 @@
       "publishedAt": "2026-10-27T03:39:55+00:00"
     },
     {
-      "source": "nfl",
-      "title": "2027 draft order, team needs: Eagles holding top-five pick after fifth straight loss",
-      "url": "https://www.nfl.com/news/2027-nfl-draft-order-biggest-needs-for-every-team",
-      "publishedAt": "2026-10-27T03:29:00+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "What We Learned from Cowboys' Monday night win over rival Eagles",
-      "url": "https://www.nfl.com/news/cowboys-eagles-on-monday-night-football-what-we-learned-from-dallas-38-21-win",
-      "publishedAt": "2026-10-27T03:18:37.180000+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "The new AirTag has never been this cheap",
-      "url": "https://www.macworld.com/article/3269763/the-new-airtag-has-never-been-this-cheap.html",
-      "publishedAt": "2026-10-27T02:55:32+00:00"
-    },
-    {
       "source": "tda",
       "title": "Jay-Z à la mi-temps du Super Bowl !",
       "url": "https://touchdownactu.com/360533/jay-z-a-la-mi-temps-du-super-bowl/",
       "publishedAt": "2026-10-27T02:21:00+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "publishedAt": "2026-10-27T02:00:00+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Jay-Z to headline Super Bowl LXI Halftime Show at SoFi Stadium in Inglewood",
-      "url": "https://www.nfl.com/news/jay-z-to-headline-super-bowl-lxi-at-sofi-stadium-in-inglewood",
-      "publishedAt": "2026-10-27T01:52:48.290000+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "publishedAt": "2026-10-27T01:12:21+00:00"
     },
     {
       "source": "apple-newsroom",
@@ -1885,46 +1704,10 @@
       "publishedAt": "2026-10-26T22:59:00+00:00"
     },
     {
-      "source": "nfl",
-      "title": "Week 7 Monday night inactives: Dallas Cowboys at Philadelphia Eagles",
-      "url": "https://www.nfl.com/news/week-7-monday-night-inactives-dallas-cowboys-at-philadelphia-eagles",
-      "publishedAt": "2026-10-26T22:48:32.630000+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Barkley is back! Saquon (hamstring) officially active for Monday night tilt vs. DAL",
-      "url": "https://www.nfl.com/news/eagles-rb-saquon-barkley-hamstring-active-for-monday-night-game-vs-cowboys",
-      "publishedAt": "2026-10-26T22:45:54.646000+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "publishedAt": "2026-10-26T22:00:00+00:00"
-    },
-    {
       "source": "macg",
       "title": "Un début de Hackintosh sur un PC à base de Snapdragon X2… mais à quoi bon ?",
       "url": "https://www.macg.co/materiel/2026/10/un-debut-de-hackintosh-sur-un-pc-base-de-snapdragon-x2-mais-quoi-bon-311899",
       "publishedAt": "2026-10-26T21:42:16+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-      "publishedAt": "2026-10-26T21:05:11+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Kubiak sticking with Cousins as starting QB for Wk 8 game vs. Jets: 'No controversy'",
-      "url": "https://www.nfl.com/news/raiders-klint-kubiak-sticking-with-kirk-cousins-as-starting-qb-for-week-8-game-vs-jets",
-      "publishedAt": "2026-10-26T20:18:18.996000+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
-      "url": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
-      "publishedAt": "2026-10-26T20:04:16+00:00"
     },
     {
       "source": "numerama",
@@ -1957,12 +1740,6 @@
       "publishedAt": "2026-10-26T19:30:01+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-      "publishedAt": "2026-10-26T19:22:40+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Les lycéens ont gagné : Parcoursup vit ses derniers mois, le gouvernement annonce son remplacement",
       "url": "https://www.clubic.com/actualite-636040-les-lyceens-ont-gagne-parcoursup-vit-ses-derniers-mois-le-gouvernement-annonce-son-remplacement.html",
@@ -1993,28 +1770,10 @@
       "publishedAt": "2026-10-26T19:02:30+00:00"
     },
     {
-      "source": "macworld",
-      "title": "iOS 27.2 is out now with surprise Siri AI enhancements",
-      "url": "https://www.macworld.com/article/3237296/ios-27-2-beta-is-out-now-skipping-over-ios-27-1.html",
-      "publishedAt": "2026-10-26T19:01:33+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-      "publishedAt": "2026-10-26T18:59:52+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Samsung met un coup de frein sur ses Galaxy A pour sauver ses marges",
       "url": "https://www.generation-nt.com/actualites/samsung-galaxy-production-reduction-composants-smartphone-2083457",
       "publishedAt": "2026-10-26T18:50:01+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "macOS 27 Golden Gate: What’s new, what’s in the beta & what’s next",
-      "url": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
-      "publishedAt": "2026-10-26T18:47:45+00:00"
     },
     {
       "source": "basketusa",
@@ -2119,12 +1878,6 @@
       "publishedAt": "2026-10-26T17:45:01+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "publishedAt": "2026-10-26T17:45:00+00:00"
-    },
-    {
       "source": "clubic",
       "title": "À Londres, les nouveaux VTC seront bientôt obligatoirement électriques. Un exemple à suivre ?",
       "url": "https://www.clubic.com/actualite-636010-a-londres-les-nouveaux-vtc-seront-bientot-obligatoirement-electriques-un-exemple-a-suivre.html",
@@ -2141,12 +1894,6 @@
       "title": "iPhone Duo : Apple reconnaît des problèmes d’écran !",
       "url": "https://www.mac4ever.com/iphone/198732-iphone-duo-apple-reconnait-des-problemes-d-ecran",
       "publishedAt": "2026-10-26T17:35:44+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "iPhone Duo hinge issue: What’s wrong with Apple’s folding phone and how to fix it",
-      "url": "https://www.macworld.com/article/3269038/iphone-duo-hinge-issue-whats-wrong-with-apples-folding-phone-and-how-to-fix-it.html",
-      "publishedAt": "2026-10-26T17:32:58+00:00"
     },
     {
       "source": "presse",
@@ -2189,12 +1936,6 @@
       "title": "Apple Watch Ultra 4 : la nouvelle reine de l’autonomie chez Apple est déjà en promotion",
       "url": "https://www.frandroid.com/bons-plans/3299573_apple-watch-ultra-4-la-nouvelle-reine-de-lautonomie-chez-apple-est-deja-en-promotion",
       "publishedAt": "2026-10-26T17:09:00+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Sunday aftermath: Minnesota now lone unbeaten; Burrow heating up for AFC push",
-      "url": "https://www.nfl.com/news/nfl-week-7-sunday-aftermath-vikings-unbeaten-joe-burrow-heating-up",
-      "publishedAt": "2026-10-26T17:07:15.680000+00:00"
     },
     {
       "source": "jdg",
@@ -2251,12 +1992,6 @@
       "publishedAt": "2026-10-26T16:50:01+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "publishedAt": "2026-10-26T16:49:42+00:00"
-    },
-    {
       "source": "next",
       "title": "GPU Unlock : on « débride » une GeForce RTX 3070 Ti… et ça marche",
       "url": "https://next.ink/263829/gpu-unlock-on-debride-une-geforce-rtx-3070-ti-et-ca-marche/",
@@ -2267,12 +2002,6 @@
       "title": "Intéressant pour sa batterie et son grand écran, le smartphone Redmi Note 17 passe sous les 200€ chez Amazon",
       "url": "https://www.clubic.com/bons-plans-635974-interessant-pour-sa-batterie-et-son-grand-ecran-le-smartphone-redmi-note-17-passe-sous-les-200-chez-amazon.html",
       "publishedAt": "2026-10-26T16:49:00+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "publishedAt": "2026-10-26T16:46:36+00:00"
     },
     {
       "source": "frandroid",
@@ -2431,22 +2160,10 @@
       "publishedAt": "2026-10-26T16:00:51+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "Microsoft offers buyouts to around 60,000 employees",
-      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-      "publishedAt": "2026-10-26T15:58:25+00:00"
-    },
-    {
       "source": "presse",
       "title": "OpenAI a créé sa propre version hors-ligne d’internet pour éviter la prochaine catastrophe",
       "url": "https://www.presse-citron.net/openai-a-cree-sa-propre-version-hors-ligne-dinternet-pour-eviter-la-prochaine-catastrophe/",
       "publishedAt": "2026-10-26T15:56:16+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Fantasy waiver wire: Top 15 targets for Week 8 include FIVE rookie receivers",
-      "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-8-rookie-wr-kc-concepcion-headlines-top-15-targets",
-      "publishedAt": "2026-10-26T15:51:57.744000+00:00"
     },
     {
       "source": "gnt",
@@ -2491,22 +2208,10 @@
       "publishedAt": "2026-10-26T15:39:00+00:00"
     },
     {
-      "source": "nfl",
-      "title": "Miranda Lambert to perform at halftime of Eagles-Cowboys game on Thanksgiving",
-      "url": "https://www.nfl.com/news/miranda-lambert-halftime-eagles-cowboys-thanksgiving-day-game-salvation-army",
-      "publishedAt": "2026-10-26T15:37:52.641000+00:00"
-    },
-    {
       "source": "macg",
       "title": "Proton VPN va abandonner macOS Big Sur, Monterey et Ventura en janvier 2027",
       "url": "https://www.macg.co/services/2026/10/proton-vpn-va-abandonner-macos-big-sur-monterey-et-ventura-en-janvier-2027-311895",
       "publishedAt": "2026-10-26T15:35:53+00:00"
-    },
-    {
-      "source": "microsoft",
-      "title": "Introducing a Voluntary Exit Offer",
-      "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
-      "publishedAt": "2026-10-26T15:33:56+00:00"
     },
     {
       "source": "frandroid",
@@ -2575,12 +2280,6 @@
       "publishedAt": "2026-10-26T15:15:35+00:00"
     },
     {
-      "source": "macworld",
-      "title": "iPad mini (A20 Pro): Apple’s smallest tablet is suddenly its biggest upgrade",
-      "url": "https://www.macworld.com/article/3060022/2026-ipad-mini-design-display-features-specs-release-date.html",
-      "publishedAt": "2026-10-26T15:10:32+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Apple dévoile son nouvel iPad mini : écran OLED, puce A20 Pro et prix en hausse",
       "url": "https://www.generation-nt.com/actualites/apple-ipad-mini-oled-a20-pro-etanche-prix-2083429",
@@ -2597,12 +2296,6 @@
       "title": "Votre appareil Apple est en panne ? Réparez-le chez Cyber-Jay pour une fraction du prix du neuf !",
       "url": "https://www.mac4ever.com/mac/198620-votre-appareil-apple-est-en-panne-reparez-le-chez-cyber-jay-pour-une-fraction-du-prix-du-neuf",
       "publishedAt": "2026-10-26T15:03:00+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Roundup: Niners RB has hamstring strain; Saquon (hamstring/back) was on pitch count",
-      "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-monday-oct-26",
-      "publishedAt": "2026-10-26T15:02:24.588000+00:00"
     },
     {
       "source": "01net",
@@ -2683,12 +2376,6 @@
       "publishedAt": "2026-10-26T14:35:25+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "Anthropic officially files for its public debut",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "publishedAt": "2026-10-26T14:35:22+00:00"
-    },
-    {
       "source": "basketusa",
       "title": "Après les bookmakers, la NBA s’allie aux marchés prédictifs",
       "url": "https://www.basketusa.com/news/952102/apres-les-bookmakers-la-nba-sallie-aux-marches-predictifs/",
@@ -2737,12 +2424,6 @@
       "publishedAt": "2026-10-26T14:26:09+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-      "publishedAt": "2026-10-26T14:25:43+00:00"
-    },
-    {
       "source": "01net",
       "title": "YouTube prépare une petite révolution en passant au codec AV2 : voici ce que ça change",
       "url": "https://www.01net.com/actualites/youtube-prepare-petite-revolution-passant-codec-av2.html",
@@ -2785,12 +2466,6 @@
       "publishedAt": "2026-10-26T14:10:01+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-      "publishedAt": "2026-10-26T14:08:04+00:00"
-    },
-    {
       "source": "frandroid",
       "title": "Ce nouveau purificateur d’air de Dreo, avec ses 3 filtres, aide à respirer un air plus sain sans se ruiner",
       "url": "https://www.frandroid.com/bons-plans/3299043_ce-nouveau-purificateur-dair-de-dreo-avec-ses-3-filtres-vous-aide-a-respirer-un-air-plus-sain-sans-vous-ruiner",
@@ -2801,12 +2476,6 @@
       "title": "La saison 4 de Lupin est-elle celle de trop ?",
       "url": "https://www.numerama.com/pop-culture/2360561-la-saison-4-de-lupin-est-elle-celle-de-trop.html",
       "publishedAt": "2026-10-26T14:05:11+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "The iPad mini just got thinner, lighter, and surprisingly powerful",
-      "url": "https://www.macworld.com/article/3269533/the-ipad-mini-just-got-thinner-lighter-and-surprisingly-powerful.html",
-      "publishedAt": "2026-10-26T14:04:39+00:00"
     },
     {
       "source": "basketusa",
@@ -2989,12 +2658,6 @@
       "publishedAt": "2026-10-26T13:00:07+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
-      "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
-      "publishedAt": "2026-10-26T12:58:40+00:00"
-    },
-    {
       "source": "presse",
       "title": "Trottinettes : c’est fait, le casque devient obligatoire dès maintenant",
       "url": "https://www.presse-citron.net/trottinettes-cest-fait-le-casque-devient-obligatoire-des-maintenant/",
@@ -3023,12 +2686,6 @@
       "title": "Steam lance officiellement son calendrier personnalisé de recommandations de jeux",
       "url": "https://www.generation-nt.com/actualites/steam-lance-calendrier-recommandations-jeux-2083392",
       "publishedAt": "2026-10-26T12:45:01+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "Touchscreen MacBook Pro: OLED, design and release date rumors",
-      "url": "https://www.macworld.com/article/2931833/touchscreen-macbook-pro-design-processor-specs-release.html",
-      "publishedAt": "2026-10-26T12:42:00+00:00"
     },
     {
       "source": "01net",
@@ -3145,12 +2802,6 @@
       "publishedAt": "2026-10-26T11:44:00+00:00"
     },
     {
-      "source": "nfl",
-      "title": "Will Raiders bench Cousins for Mendoza? Kubiak 'thinking about everything'",
-      "url": "https://www.nfl.com/news/raiders-klint-kubiak-on-fernando-mendoza-potentially-replacing-kirk-cousins-we-re-thinking-about-everything",
-      "publishedAt": "2026-10-26T11:43:17.303000+00:00"
-    },
-    {
       "source": "basketusa",
       "title": "Les jeunes Grizzlies affichent une étonnante maturité",
       "url": "https://www.basketusa.com/news/951827/les-jeunes-grizzlies-affichent-une-etonnante-maturite/",
@@ -3235,12 +2886,6 @@
       "publishedAt": "2026-10-26T11:02:53+00:00"
     },
     {
-      "source": "macworld",
-      "title": "Claude saves an overheating Mac from a cryptominer it might have put there",
-      "url": "https://www.macworld.com/article/3268614/claude-saves-an-overheating-mac-from-a-cryptominer-it-might-have-put-there.html",
-      "publishedAt": "2026-10-26T11:00:00+00:00"
-    },
-    {
       "source": "next",
       "title": "Google ouvre la voie aux pubs ciblées via Gmail et Photos au nom de l’IA personnalisée",
       "url": "https://next.ink/263704/google-ouvre-la-voie-aux-pubs-ciblees-via-gmail-et-photos-au-nom-de-lia-personnalisee/",
@@ -3295,12 +2940,6 @@
       "publishedAt": "2026-10-26T10:50:01+00:00"
     },
     {
-      "source": "nfl",
-      "title": "Seahawks 'put on a clinic' shutting down Walker, Mahomes in blowout win over Chiefs",
-      "url": "https://www.nfl.com/news/seahawks-put-on-a-clinic-shutting-down-kenneth-walker-iii-patrick-mahomes-in-blowout-win-over-chiefs",
-      "publishedAt": "2026-10-26T10:49:22.927000+00:00"
-    },
-    {
       "source": "frandroid",
       "title": "Le DLSS 5 s’invite discrètement sur un FPS culte et personne ne l’avait vu venir",
       "url": "https://www.frandroid.com/marques/nvidia/3299015_le-dlss-5-sinvite-discretement-sur-un-fps-culte-et-personne-ne-lavait-vu-venir",
@@ -3335,12 +2974,6 @@
       "title": "YouTube va diffuser en AV2 sur le web dès le début 2027 !",
       "url": "https://www.generation-nt.com/actualites/youtube-diffuser-av2-web-2027-2083388",
       "publishedAt": "2026-10-26T10:30:01+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "For the third time this fall, Apple prepares to launch a very cool thing nobody needs",
-      "url": "https://www.macworld.com/article/3263574/for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs.html",
-      "publishedAt": "2026-10-26T10:30:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -3467,12 +3100,6 @@
       "title": "Un cocktail explosif pour la Nike A’Two « Potion No. 22 Halloween »",
       "url": "https://www.basketusa.com/news/951876/un-cocktail-explosif-pour-la-nike-atwo-potion-no-22-halloween/",
       "publishedAt": "2026-10-26T10:03:20+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Cowboys at Eagles: 5 questions Dallas needs to answer Monday night",
-      "url": "https://www.nfl.com/news/cowboys-at-eagles-5-questions-dallas-needs-to-answer-monday-night",
-      "publishedAt": "2026-10-26T10:01:04+00:00"
     },
     {
       "source": "jdg",
@@ -3809,12 +3436,6 @@
       "title": "Apple a trouvé la solution contre les clients qui rendent des boites d’iPhone vides",
       "url": "https://www.01net.com/actualites/apple-trouve-solution-contre-ceux-qui-rendent-boite-iphone-vide.html",
       "publishedAt": "2026-10-26T08:00:10+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "AI stock picks and 150+ money lessons are $69.99 for life",
-      "url": "https://www.macworld.com/article/3268900/ai-stock-picks-and-150-money-lessons-are-69-99-for-life.html",
-      "publishedAt": "2026-10-26T08:00:00+00:00"
     },
     {
       "source": "gnt",
@@ -4183,12 +3804,6 @@
       "publishedAt": "2026-10-26T04:00:26+00:00"
     },
     {
-      "source": "techcrunch",
-      "title": "The best apps for tracking your reading and discovering new books",
-      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-      "publishedAt": "2026-10-26T01:10:00+00:00"
-    },
-    {
       "source": "tda",
       "title": "Lions – Packers (20-17) : Green Bay gâche, Détroit sur le fil",
       "url": "https://touchdownactu.com/360454/lions-packers-20-17-green-bay-gache-detroit-sur-le-fil/",
@@ -4207,22 +3822,10 @@
       "publishedAt": "2026-10-25T21:55:00+00:00"
     },
     {
-      "source": "nfl",
-      "title": "NFL experts' Week 7 takeaways: Are Vikings and Giants serious contenders?",
-      "url": "https://www.nfl.com/news/nfl-experts-week-7-takeaways-are-the-vikings-and-giants-serious-contenders",
-      "publishedAt": "2026-10-25T21:46:07+00:00"
-    },
-    {
       "source": "macg",
       "title": "PHP fait tourner 70 % du web avec un seul salarié à temps plein",
       "url": "https://www.macg.co/intelligence-artificielle/2026/10/php-fait-tourner-70-du-web-avec-un-seul-salarie-temps-plein-311861",
       "publishedAt": "2026-10-25T21:44:00+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "publishedAt": "2026-10-25T21:31:16+00:00"
     },
     {
       "source": "tda",
@@ -4247,12 +3850,6 @@
       "title": "Les développeurs créent d'incroyables expériences d'apps pour l’iPhone Duo",
       "url": "https://www.apple.com/fr/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
       "publishedAt": "2026-10-25T20:26:35.632000+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-      "publishedAt": "2026-10-25T20:20:08+00:00"
     },
     {
       "source": "tda",
@@ -4283,12 +3880,6 @@
       "title": "Lupin Partie 4: le casse de trop ? Nos tops et flops",
       "url": "https://www.journaldugeek.com/dossier/lupin-partie-4-le-casse-de-trop-nos-tops-et-flops/",
       "publishedAt": "2026-10-25T19:04:21+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "Puka to play: Rams WR Nacua (calf) active for Sunday's game vs. Raiders",
-      "url": "https://www.nfl.com/news/rams-wr-puka-nacua-calf-active-sunday-game-vs-raiders",
-      "publishedAt": "2026-10-25T18:59:08.286000+00:00"
     },
     {
       "source": "basketusa",
@@ -4351,12 +3942,6 @@
       "publishedAt": "2026-10-25T17:55:00+00:00"
     },
     {
-      "source": "nfl",
-      "title": "Notable news, injuries: Giants' Tracy exits early; Panthers OT fractures fibula",
-      "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-7-games-2026",
-      "publishedAt": "2026-10-25T17:51:53.720000+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Après PHP, une autre brique essentielle du web doit être mise à jour d’urgence, des millions de sites impactés",
       "url": "https://www.journaldugeek.com/2026/10/25/apres-php-une-autre-brique-essentielle-du-web-doit-etre-mise-a-jour-durgence-des-millions-de-sites-impactes/",
@@ -4381,12 +3966,6 @@
       "publishedAt": "2026-10-25T17:26:00+00:00"
     },
     {
-      "source": "nfl",
-      "title": "What We Learned: Top 36 takeaways from Sunday's Week 7 NFL games",
-      "url": "https://www.nfl.com/news/2026-nfl-season-week-7-what-we-learned-from-sunday-s-games",
-      "publishedAt": "2026-10-25T17:25:47.707000+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Inédit : le premier patient traité avec un virus entièrement désigné par une IA !",
       "url": "https://www.generation-nt.com/actualites/intelligence-artificielle-creation-virus-traitement-patient-2083365",
@@ -4403,12 +3982,6 @@
       "title": "Diesel à 1,88 €/L, essence à 1,78 €/L : ces Français ont trouvé la technique parfaite pour économiser sur le carburant",
       "url": "https://www.presse-citron.net/diesel-a-188-e-l-essence-a-178-e-l-ces-francais-ont-trouve-la-technique-parfaite-pour-economiser-sur-le-carburant/",
       "publishedAt": "2026-10-25T17:05:36+00:00"
-    },
-    {
-      "source": "macworld",
-      "title": "iPhone Duo guide: Price, specs, availability, problems and reviews",
-      "url": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-guide-problems-price-specs.html",
-      "publishedAt": "2026-10-25T17:03:37+00:00"
     },
     {
       "source": "presse",
@@ -4433,12 +4006,6 @@
       "title": "L’iPhone Duo a-t-il le meilleur écran pliant du marché ? Les mesures du 01lab",
       "url": "https://www.01net.com/actualites/liphone-duo-est-il-le-meilleur-ecran-pliant-du-marche-les-mesures-du-01lab.html",
       "publishedAt": "2026-10-25T16:58:32+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "publishedAt": "2026-10-25T16:57:32+00:00"
     },
     {
       "source": "frandroid",
@@ -4475,12 +4042,6 @@
       "title": "C'est le manchot de Schrödinger : une espèce, mais deux destins opposés",
       "url": "https://www.generation-nt.com/actualites/gorfou-huppe-manchot-nouvelle-zelande-2083369",
       "publishedAt": "2026-10-25T16:10:01+00:00"
-    },
-    {
-      "source": "techcrunch",
-      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-      "publishedAt": "2026-10-25T16:05:00+00:00"
     },
     {
       "source": "01net",
@@ -4571,30 +4132,6 @@
       "title": "Un cadre de Microsoft assume l'usage des IA et quitte les réseaux sociaux",
       "url": "https://www.generation-nt.com/actualites/cadre-microsoft-assume-algorithmes-2083107",
       "publishedAt": "2026-10-25T14:30:01+00:00"
-    },
-    {
-      "source": "nfl",
-      "title": "NFL, players' union working together to review handling of Hurts' blood clot diagnosis",
-      "url": "https://www.nfl.com/news/nfl-players-union-working-together-review-handling-jalen-hurts-blood-clot-diagnosis",
-      "publishedAt": "2026-10-25T14:23:36.831000+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Cavaliers aiment jouer à se faire peur",
-      "url": "https://www.basketusa.com/news/951645/les-cavaliers-aiment-jouer-a-se-faire-peur/",
-      "publishedAt": "2026-10-25T14:13:44+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Google refuse de rebaptiser l’océan Atlantique comme le voulait Donald Trump",
-      "url": "https://www.clubic.com/actualite-635857-google-refuse-de-rebaptiser-l-ocean-atlantique-comme-le-voulait-donald-trump.html",
-      "publishedAt": "2026-10-25T14:13:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "CrackGate : l'iPhone Duo a-t-il vraiment un problème de charnière qui détruit l'écran ?",
-      "url": "https://www.mac4ever.com/iphone/198714-crackgate-l-iphone-duo-a-t-il-vraiment-un-probleme-de-charniere-qui-detruit-l-ecran",
-      "publishedAt": "2026-10-25T14:12:16+00:00"
     },
     {
       "source": "boulet",
