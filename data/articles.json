@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T19:32:09.793856+00:00",
+  "generatedAt": "2026-10-27T19:34:25.023483+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "01net",
@@ -54,7 +54,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "presse",
@@ -65,7 +65,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "iphon",
@@ -76,7 +76,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "macg",
@@ -87,7 +87,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "mac4ever",
@@ -98,7 +98,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "frandroid",
@@ -109,7 +109,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "korben",
@@ -120,7 +120,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -131,7 +131,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "basketusa",
@@ -142,7 +142,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "tda",
@@ -153,7 +153,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     },
     {
       "id": "boulet",
@@ -164,10 +164,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-27T19:32:09.793856+00:00"
+      "lastSuccessAt": "2026-10-27T19:34:25.023483+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "À Charlotte, Muggsy Bogues va prendre de la hauteur !",
+      "url": "https://www.basketusa.com/news/952507/a-charlotte-muggsy-bogues-va-prendre-de-la-hauteur/",
+      "publishedAt": "2026-10-27T19:21:39+00:00"
+    },
     {
       "source": "gnt",
       "title": "Foundation et Keystone piratés : l'épidémie de hacks de portefeuilles crypto continue",
@@ -493,6 +499,12 @@
       "publishedAt": "2026-10-27T16:21:26+00:00"
     },
     {
+      "source": "korben",
+      "title": "Test de la trottinette électrique NAVEE UT3 Max",
+      "url": "https://korben.info/test-de-la-trottinette-electrique-navee-ut3-max.html",
+      "publishedAt": "2026-10-27T16:20:30+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Dune 3 prend de grosses libertés et ça risque de faire débat",
       "url": "https://www.journaldugeek.com/2026/10/27/dune-3-si-vous-naviez-pas-compris-maintenant-cest-clair/",
@@ -611,6 +623,12 @@
       "title": "Jamais le Google Pixel 10 a eu un prix aussi bas que celui proposé dans cette offre",
       "url": "https://www.clubic.com/bons-plans-636157-jamais-le-google-pixel-10-a-eu-un-prix-aussi-bas-que-celui-propose-dans-cette-offre.html",
       "publishedAt": "2026-10-27T15:29:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "GPT-6.1 Terra, l'IA d'OpenAI qui pilote votre PC pour deux fois moins cher",
+      "url": "https://korben.info/gpt-6-1-terra-lia-dopenai-qui-pilote-votre-pc-pour-deux-fois-moins-cher.html",
+      "publishedAt": "2026-10-27T15:26:51+00:00"
     },
     {
       "source": "macg",
@@ -1327,6 +1345,12 @@
       "publishedAt": "2026-10-27T10:49:45+00:00"
     },
     {
+      "source": "korben",
+      "title": "Apple reconnaît les fissures de l'iPhone Duo et remplace l'écran gratuitement",
+      "url": "https://korben.info/apple-reconnait-les-fissures-de-liphone-duo-et-remplace-lecran-gratuitement.html",
+      "publishedAt": "2026-10-27T10:49:33+00:00"
+    },
+    {
       "source": "basketusa",
       "title": "Payton Pritchard, l’atout caméléon des Celtics",
       "url": "https://www.basketusa.com/news/952295/payton-pritchard-latout-cameleon-des-celtics/",
@@ -1661,6 +1685,12 @@
       "title": "Meleek Thomas fait des étincelles pour ses débuts avec les Cavaliers",
       "url": "https://www.basketusa.com/news/952297/meleek-thomas-fait-des-etincelles-pour-ses-debuts-avec-les-cavaliers/",
       "publishedAt": "2026-10-27T09:05:41+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Anthropic entre en bourse et promet de révolutionner l'humanité",
+      "url": "https://korben.info/anthropic-entre-en-bourse-et-promet-de-revolutionner-lhumanite.html",
+      "publishedAt": "2026-10-27T09:02:46+00:00"
     },
     {
       "source": "clubic",
@@ -2725,6 +2755,12 @@
       "publishedAt": "2026-10-26T15:35:53+00:00"
     },
     {
+      "source": "korben",
+      "title": "La France a préparé en secret la coupure de TikTok, Snapchat et Instagram pendant les manifs",
+      "url": "https://korben.info/la-france-a-prepare-en-secret-la-coupure-de-tiktok-snapchat-et-instagram-pendant-les-manifs.html",
+      "publishedAt": "2026-10-26T15:34:05+00:00"
+    },
+    {
       "source": "frandroid",
       "title": "Microsoft Office 2021 en lecture seule sur Mac : comment débloquer les logiciels ?",
       "url": "https://www.frandroid.com/marques/microsoft/3299255_microsoft-office-2021-en-lecture-seule-sur-mac-comment-debloquer-les-logiciels",
@@ -2929,6 +2965,12 @@
       "publishedAt": "2026-10-26T14:26:09+00:00"
     },
     {
+      "source": "korben",
+      "title": "Apple traque les faux retours d'iPhone en scannant la boîte fermée",
+      "url": "https://korben.info/apple-traque-les-faux-retours-diphone-en-scannant-la-boite-fermee.html",
+      "publishedAt": "2026-10-26T14:24:20+00:00"
+    },
+    {
       "source": "01net",
       "title": "YouTube prépare une petite révolution en passant au codec AV2 : voici ce que ça change",
       "url": "https://www.01net.com/actualites/youtube-prepare-petite-revolution-passant-codec-av2.html",
@@ -3035,6 +3077,12 @@
       "title": "Elvis contre l’IA : les ayants droit du King réclament 41 millions de dollars à Anthropic",
       "url": "https://www.frandroid.com/culture-tech/3298919_elvis-contre-lia-les-ayants-droit-du-king-reclament-41-millions-de-dollars-a-anthropic",
       "publishedAt": "2026-10-26T13:44:33+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Windows 11 prépare l'option APX, un boost que votre PC ne pourra pas activer",
+      "url": "https://korben.info/windows-11-prepare-loption-apx-un-boost-que-votre-pc-ne-pourra-pas-activer.html",
+      "publishedAt": "2026-10-26T13:43:46+00:00"
     },
     {
       "source": "presse",
@@ -3215,6 +3263,12 @@
       "title": "YouTube vient de confirmer une mise à jour majeure : elle transforme la qualité des vidéos et améliore le temps de chargement",
       "url": "https://www.presse-citron.net/youtube-mise-a-jour-majeure-qualite-videos/",
       "publishedAt": "2026-10-26T12:26:35+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Google rouvre Gmail et Photos à la pub ciblée",
+      "url": "https://korben.info/google-rouvre-gmail-et-photos-a-la-pub-ciblee.html",
+      "publishedAt": "2026-10-26T12:25:35+00:00"
     },
     {
       "source": "gnt",
