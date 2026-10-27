@@ -73,10 +73,6 @@ function renderMangas() {
   section.hidden = state.group !== 'BD';
   if (section.hidden) return;
   section.replaceChildren();
-  const heading = document.createElement('h2');
-  heading.className = 'day-heading';
-  heading.textContent = 'Mangas · derniers chapitres';
-  section.append(heading);
   if (!state.mangas) {
     const info = document.createElement('p');
     info.className = 'manga-info';

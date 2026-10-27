@@ -30,7 +30,7 @@
 - Logo : trois lignes blanches arrondies et un point bleu sur fond sombre, dans `icon.svg`.
 - Aucun bouton pour rafraîchir ou synchroniser : l’ancien bouton créait une confusion avec le déclenchement d’une collecte.
 - Aucun compteur de résultats sous le menu.
-- Aucun texte explicatif « Sans limite de date… » dans BD, ni ligne de texte en pied de page. Les messages de chargement et d’erreur restent affichés si nécessaire.
+- Aucun titre « Mangas · derniers chapitres » ni texte explicatif « Sans limite de date… » dans BD, ni ligne de texte en pied de page. Les messages de chargement et d’erreur restent affichés si nécessaire.
 - À côté de Sources, une icône d’actualisation suivie de l’âge de la collecte, purement informative.
 - Sur petit écran, le bloc Sources / indicateur peut passer à la ligne pour conserver la lisibilité des filtres.
 - Chaque article s’ouvre sur son site d’origine ; aucun contenu complet n’est stocké.
