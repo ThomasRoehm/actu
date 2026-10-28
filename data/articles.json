@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T04:33:28.433638+00:00",
+  "generatedAt": "2026-10-28T05:18:23.275442+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "01net",
@@ -54,7 +54,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "presse",
@@ -65,7 +65,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "iphon",
@@ -76,7 +76,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "macg",
@@ -87,7 +87,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "mac4ever",
@@ -98,7 +98,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "frandroid",
@@ -109,7 +109,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "korben",
@@ -120,7 +120,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -131,7 +131,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "basketusa",
@@ -142,7 +142,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "tda",
@@ -153,7 +153,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     },
     {
       "id": "boulet",
@@ -164,10 +164,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T04:33:28.433638+00:00"
+      "lastSuccessAt": "2026-10-28T05:18:23.275442+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama plane au-dessus des Kings",
+      "url": "https://www.basketusa.com/news/952540/victor-wembanyama-plane-aussi-des-kings/",
+      "publishedAt": "2026-10-28T02:46:12+00:00"
+    },
     {
       "source": "tda",
       "title": "Les 49ers récupèrent DeForest Buckner (DT) !",
@@ -4343,18 +4349,6 @@
       "title": "Première réussie pour les Wolves à domicile face aux Raptors",
       "url": "https://www.basketusa.com/news/951751/premiere-reussie-pour-les-wolves-a-domicile-face-aux-raptors/",
       "publishedAt": "2026-10-26T05:19:53+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Drop test : l'iPhone Duo encaisse les chocs, mais plie sur la charnière",
-      "url": "https://www.macg.co/video/2026/10/drop-test-liphone-duo-encaisse-les-chocs-mais-plie-sur-la-charniere-311871",
-      "publishedAt": "2026-10-26T05:15:27+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Avec 52 points de Luka Doncic, les Lakers éteignent le Jazz",
-      "url": "https://www.basketusa.com/news/951732/avec-52-points-de-luka-doncic-les-lakers-eteignent-le-jazz/",
-      "publishedAt": "2026-10-26T05:11:19+00:00"
     },
     {
       "source": "boulet",
