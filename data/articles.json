@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T09:28:32.863378+00:00",
+  "generatedAt": "2026-10-28T10:20:24.111390+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "01net",
@@ -54,7 +54,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "presse",
@@ -65,7 +65,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "iphon",
@@ -76,7 +76,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "macg",
@@ -87,7 +87,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "mac4ever",
@@ -98,7 +98,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "frandroid",
@@ -109,7 +109,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "korben",
@@ -120,7 +120,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -131,7 +131,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "basketusa",
@@ -140,8 +140,8 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/basketusa.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "The read operation timed out",
       "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
     },
     {
@@ -153,7 +153,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     },
     {
       "id": "boulet",
@@ -164,10 +164,220 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-10-28T09:28:32.863378+00:00"
+      "lastSuccessAt": "2026-10-28T10:20:24.111390+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "À mi chemin entre le VTC et le longtail, le vélo électrique Nakamura Crosscity+ perd 500 €",
+      "url": "https://www.numerama.com/vroom/2362225-a-mi-chemin-entre-le-vtc-et-le-longtail-le-velo-electrique-nakamura-crosscity-perd-500-e.html",
+      "publishedAt": "2026-10-28T10:19:47+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Des scientifiques chinois transforment l’air de Mars en carburant liquide grâce à un puissant catalyseur",
+      "url": "https://www.clubic.com/actualite-636292-des-scientifiques-chinois-transforment-l-air-de-mars-en-carburant-liquide-grace-a-un-puissant-catalyseur.html",
+      "publishedAt": "2026-10-28T10:19:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Le Magic Keyboard d'Apple est en promo à son prix le plus bas (-32%) : un indispensable pour Mac !",
+      "url": "https://www.mac4ever.com/mac/198759-le-magic-keyboard-d-apple-est-en-promo-a-son-prix-le-plus-bas-32-un-indispensable-pour-mac",
+      "publishedAt": "2026-10-28T10:18:12+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "PS5 : comment augmenter le stockage interne pour installer GTA 6",
+      "url": "https://www.numerama.com/tech/743550-ps5-ssd-comment-augmenter-le-stockage-interne-pour-installer-gta-6.html",
+      "publishedAt": "2026-10-28T10:15:41+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "🔴 Collision entre deux trains en Espagne : au moins 10 morts sont à déplorer",
+      "url": "https://www.presse-citron.net/%f0%9f%94%b4-collision-entre-deux-trains-en-espagne-au-moins-10-morts-sont-a-deplorer/",
+      "publishedAt": "2026-10-28T10:14:12+00:00"
+    },
+    {
+      "source": "01net",
+      "title": "Absentez-vous en toute sérénité, Reolink lance sa nouvelle caméra de surveillance sans fil",
+      "url": "https://www.01net.com/bons-plans/absentez-vous-en-toute-serenite-reolink-lance-sa-nouvelle-camera-de-surveillance-sans-fil.html",
+      "publishedAt": "2026-10-28T10:09:25+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Une erreur cryptographique vieille de 18 mois contraint Microsoft à bannir des certificats de Windows",
+      "url": "https://www.clubic.com/actualite-636334-une-erreur-cryptographique-vieille-de-18-mois-contraint-microsoft-a-bannir-des-certificats-de-windows.html",
+      "publishedAt": "2026-10-28T10:06:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Test Phantom Blade Zero : le prétendant surprise au titre de jeu de l’année ?",
+      "url": "https://www.journaldugeek.com/test/test-phantom-blade-zero-le-pretendant-surprise-au-titre-de-jeu-de-lannee/",
+      "publishedAt": "2026-10-28T10:04:56+00:00"
+    },
+    {
+      "source": "01net",
+      "title": "DJI Power Auro 2000 Elite : une station électrique de 2 kWh qui se recharge au soleil comme en voiture",
+      "url": "https://www.01net.com/actualites/dji-power-auro-2000-elite-une-station-electrique-de-2-kwh-qui-se-recharge-au-soleil-comme-en-voiture.html",
+      "publishedAt": "2026-10-28T10:00:49+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Une nouvelle planète (naine) a été repérée par des astronomes, elle était sous notre nez depuis des lustres",
+      "url": "https://www.presse-citron.net/une-nouvelle-planete-naine-a-ete-reperee-par-des-astronomes-elle-etait-sous-notre-nez-depuis-des-lustres/",
+      "publishedAt": "2026-10-28T10:00:43+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[Le journal des Rookies] S7 : Kendal Daniels, de la civière au sauvetage",
+      "url": "https://touchdownactu.com/360579/le-journal-des-rookies-s7-kendal-daniels-de-la-civiere-au-sauvetage/",
+      "publishedAt": "2026-10-28T10:00:14+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "DJI Power Auro 2000 Elite : 2 kWh dans le coffre",
+      "url": "https://www.mac4ever.com/ecotech/198755-dji-power-auro-2000-elite-2-kwh-dans-le-coffre",
+      "publishedAt": "2026-10-28T10:00:00+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Batterie solaire nomade : DJI attaque EcoFlow et Bluetti avec un gabarit record pour sa Power Auro 2000 Elite",
+      "url": "https://www.frandroid.com/marques/dji/3256639_batterie-solaire-nomade-dji-attaque-ecoflow-et-bluetti-avec-un-gabarit-record-pour-sa-power-auro-2000-elite",
+      "publishedAt": "2026-10-28T10:00:00+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Fini la course aux nouveaux modèles : le virage radical de Renault sur l’électrique",
+      "url": "https://www.frandroid.com/marques/renault/3301279_fini-la-course-aux-nouveaux-modeles-le-virage-radical-de-renault-sur-lelectrique",
+      "publishedAt": "2026-10-28T09:59:35+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "ChatGPT et Claude bannis dans ses ministères : la décision radicale de ce pays d'Europe",
+      "url": "https://www.clubic.com/actualite-636328-chatgpt-et-claude-bannis-dans-ses-ministeres-la-decision-radicale-de-ce-pays-d-europe.html",
+      "publishedAt": "2026-10-28T09:58:00+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Comment suivre en direct la conférence Apple du premier Mac tactile ?",
+      "url": "https://www.frandroid.com/marques/3301339_comment-suivre-en-direct-la-conference-apple-du-premier-mac-tactile",
+      "publishedAt": "2026-10-28T09:57:29+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Apple ajoute un chatbot à Keynote, Pages et Numbers et les ouvre aux IA tierces",
+      "url": "https://www.clubic.com/actualite-636256-a-son-tour-la-suite-bureautique-d-apple-accueille-un-chatbot.html",
+      "publishedAt": "2026-10-28T09:54:00+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Microsoft retouche mieux les images qu’OpenAI avec MAI-Image-2.7",
+      "url": "https://www.frandroid.com/marques/microsoft/3301175_microsoft-retouche-mieux-les-images-quopenai-avec-mai-image-2-7",
+      "publishedAt": "2026-10-28T09:53:34+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Ghost Rider : le prochain film Marvel fait un choix qui n’a pas été fait depuis 15 ans",
+      "url": "https://www.numerama.com/pop-culture/2362147-ghost-rider-le-prochain-film-marvel-fait-un-choix-qui-na-pas-ete-fait-depuis-15-ans.html",
+      "publishedAt": "2026-10-28T09:50:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Palmer Luckey dévoile BlueChip, un PC militaire 100 % américain, mais qui dépend encore de composants chinois",
+      "url": "https://www.numerama.com/tech/2362125-palmer-luckey-devoile-bluechip-un-pc-militaire-100-americain-mais-qui-depend-encore-de-composants-chinois.html",
+      "publishedAt": "2026-10-28T09:47:08+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "La Chronique des Bridgerton : date de sortie, casting… La saison 5 annonce une grosse étape",
+      "url": "https://www.numerama.com/pop-culture/2229187-la-chronique-des-bridgerton-date-de-sortie-casting-tout-savoir-sur-la-saison-5-centree-sur-francesca-et-michaela.html",
+      "publishedAt": "2026-10-28T09:45:00+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Bientôt des TV OLED jusqu’à 111 pouces",
+      "url": "https://www.frandroid.com/marques/lg/3301363_lg-display-prepare-a-canton-une-ligne-de-modules-tv-oled-jusqua-111-pouces",
+      "publishedAt": "2026-10-28T09:42:29+00:00"
+    },
+    {
+      "source": "frandroid",
+      "title": "Manche de vol et trilogie originale : la borne d’arcade Star Wars d’Arcade1Up perd 41 % de son prix",
+      "url": "https://www.frandroid.com/bons-plans/3301367_manche-de-vol-et-trilogie-originale-la-borne-darcade-star-wars-darcade1up-perd-41-de-son-prix",
+      "publishedAt": "2026-10-28T09:40:46+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Charge bidirectionnelle : le tacle de Ford à l’écosystème coûteux de Tesla",
+      "url": "https://www.numerama.com/vroom/2362181-charge-bidirectionnelle-le-tacle-de-ford-a-lecosysteme-couteux-de-tesla.html",
+      "publishedAt": "2026-10-28T09:40:37+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Ce moteur invisible de l'IPTV pirate alimentait des dizaines de sites : il ferme sans explication",
+      "url": "https://www.clubic.com/actualite-636310-ce-moteur-invisible-de-l-iptv-pirate-alimentait-des-dizaines-de-sites-il-ferme-sans-explication.html",
+      "publishedAt": "2026-10-28T09:40:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Voici la liste des magasins GiFi qui vont devenir des Grand Frais ou fermer leurs portes",
+      "url": "https://www.presse-citron.net/voici-la-liste-des-magasins-gifi-qui-vont-devenir-des-grand-frais-ou-fermer-leurs-portes/",
+      "publishedAt": "2026-10-28T09:37:31+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Keynote prépare un format ouvert en JSON pour faciliter le travail des IA",
+      "url": "https://www.macg.co/logiciels/2026/10/keynote-prepare-un-format-ouvert-en-json-pour-faciliter-le-travail-des-ia-311931",
+      "publishedAt": "2026-10-28T09:36:23+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Parcoursup supprimé en 2028 et remplacé par une plateforme à l'IA",
+      "url": "https://www.mac4ever.com/ia/198757-parcoursup-supprime-en-2028-et-remplace-par-une-plateforme-a-l-ia",
+      "publishedAt": "2026-10-28T09:36:08+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Le studio Arkane Lyon joue sa survie avec Xbox : un mois de sursis pour éviter la fermeture",
+      "url": "https://www.clubic.com/actualite-636079-le-studio-arkane-lyon-joue-sa-survie-avec-xbox-un-mois-de-sursis-pour-eviter-la-fermeture.html",
+      "publishedAt": "2026-10-28T09:36:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "L’iPad mini pourrait avoir un écran 120 Hz : Apple l’a-t-il bridé à 60 Hz ?",
+      "url": "https://www.numerama.com/tech/2362115-lipad-mini-pourrait-avoir-un-ecran-120-hz-apple-la-t-il-bride-a-60-hz.html",
+      "publishedAt": "2026-10-28T09:33:22+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "ChatGPT est capable de lire vos mails et organiser votre calendrier Apple",
+      "url": "https://www.iphon.fr/post/chatgpt-lire-mails-calendrier-apple-icloud",
+      "publishedAt": "2026-10-28T09:31:23+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "ChatGPT peut désormais fouiller dans vos mails iCloud, et nous avons essayé",
+      "url": "https://www.clubic.com/actualite-636307-chatgpt-peut-desormais-fouiller-dans-vos-mails-icloud-et-nous-avons-essaye.html",
+      "publishedAt": "2026-10-28T09:31:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Anthropic va entrer en bourse avec 80 milliards de pertes … et c’est (presque) normal",
+      "url": "https://www.journaldugeek.com/2026/10/28/anthropic-va-entrer-en-bourse-avec-80-milliards-de-pertes-et-cest-presque-normal/",
+      "publishedAt": "2026-10-28T09:30:44+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Avion spatial secret chinois : le Pentagone dévoile la première image nette de l’engin",
+      "url": "https://www.numerama.com/tech/2362127-avion-spatial-secret-chinois-le-pentagone-devoile-la-premiere-image-nette-de-lengin.html",
+      "publishedAt": "2026-10-28T09:30:05+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Modèle du monde : Google veut en mettre plein la vue avec Genie 4",
+      "url": "https://www.generation-nt.com/actualites/genie-4-google-deepmind-modele-monde-simulation-2083550",
+      "publishedAt": "2026-10-28T09:30:01+00:00"
+    },
     {
       "source": "frandroid",
       "title": "Taxes de l’Europe : comment le chinois GWM va contourner le système en Bulgarie",
@@ -223,6 +433,12 @@
       "publishedAt": "2026-10-28T09:11:21+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Guerre sémantique : Trump décrète la mort de l'Intelligence Artificielle",
+      "url": "https://www.generation-nt.com/actualites/donald-trump-intelligence-artificielle-denomination-super-intelligence-2083557",
+      "publishedAt": "2026-10-28T09:10:01+00:00"
+    },
+    {
       "source": "numerama",
       "title": "La saga Resident Evil pourrait se terminer d’ici 10 ans",
       "url": "https://www.numerama.com/pop-culture/2362117-la-saga-resident-evil-pourrait-se-terminer-dici-10-ans.html",
@@ -251,6 +467,12 @@
       "title": "Comment voir Les Anneaux de pouvoir gratuitement et sans abonnement Prime Video",
       "url": "https://www.journaldugeek.com/2026/10/28/comment-voir-les-anneaux-de-pouvoir-gratuitement-et-sans-abonnement-prime-video/",
       "publishedAt": "2026-10-28T09:00:17+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Oubliez la recharge rapide, CATL change les batteries de camions en 5 minutes !",
+      "url": "https://www.generation-nt.com/actualites/catl-stations-echange-batterie-camions-2083522",
+      "publishedAt": "2026-10-28T09:00:01+00:00"
     },
     {
       "source": "01net",
@@ -431,6 +653,12 @@
       "title": "GTA 6 pèse lourd, il va falloir faire de la place sur votre PS5 dès maintenant",
       "url": "https://www.journaldugeek.com/2026/10/28/gta-6-pese-lourd-il-va-falloir-faire-de-la-place-sur-votre-ps5-des-maintenant/",
       "publishedAt": "2026-10-28T08:01:33+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Pourquoi un écran externe est le meilleur cadeau à faire à votre MacBook (et à vous)",
+      "url": "https://www.macg.co/services/2026/10/ecran-externe-pour-macbook-la-gamme-benq-ma-du-4k-500-eu-jusqua-la-5k-311797",
+      "publishedAt": "2026-10-28T08:00:00+00:00"
     },
     {
       "source": "presse",
@@ -2533,12 +2761,6 @@
       "publishedAt": "2026-10-27T08:01:56+00:00"
     },
     {
-      "source": "macg",
-      "title": "Pourquoi un écran externe est le meilleur cadeau à faire à votre MacBook (et à vous)",
-      "url": "https://www.macg.co/services/2026/10/ecran-externe-pour-macbook-la-gamme-benq-ma-du-4k-500-eu-jusqua-la-5k-311797",
-      "publishedAt": "2026-10-27T08:00:55+00:00"
-    },
-    {
       "source": "01net",
       "title": "Installez-vite iOS 27.2 sur votre iPhone, Apple corrige plus de 160 failles de sécurité",
       "url": "https://www.01net.com/actualites/installez-vite-ios-27-2-iphone-apple-corrige-plus-160-failles-securite.html",
@@ -4217,228 +4439,6 @@
       "title": "Adapté au télétravail, aux études et aux séries, ce PC portable Lenovo passe à 849,99€ chez Amazon",
       "url": "https://www.clubic.com/bons-plans-635929-adapte-au-teletravail-aux-etudes-et-aux-series-cet-ordinateur-portable-lenovo-ideapad-slim-3-passe-a-849-99-chez-amazon.html",
       "publishedAt": "2026-10-26T10:23:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Octobre Noir : l'IA met le feu à la cybersécurité mondiale !",
-      "url": "https://www.generation-nt.com/actualites/octobre-noir-cybersecurite-faille-vulnerabilite-intelligence-artificielle-2083413",
-      "publishedAt": "2026-10-26T10:20:01+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "LG CineBeam HU925V : le constructeur revient sur l’ultra-courte focale 4K triple laser, avec un modèle Dolby Atmos Flex Connect",
-      "url": "https://www.frandroid.com/marques/lg/3298741_lg-cinebeam-ai-hu925v-le-constructeur-revient-sur-lultra-courte-focale-4k-triple-laser-avec-un-modele-dolby-atmos-flex-connect",
-      "publishedAt": "2026-10-26T10:19:03+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La prochaine Alpine A110 pourrait ne pas être électrique… en Europe",
-      "url": "https://www.numerama.com/vroom/2360581-la-prochaine-alpine-a110-pourrait-ne-pas-etre-electrique-en-europe.html",
-      "publishedAt": "2026-10-26T10:17:37+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "Stylé et puissant : ASUS dévoile un nouveau ROG NUC 16 sous Intel Arrow Lake et RTX 5080 mobile",
-      "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/mini-pc/3298733_style-et-puissant-asus-devoile-un-nouveau-rog-nuc-16-sous-intel-arrow-lake-et-rtx-5080-mobile",
-      "publishedAt": "2026-10-26T10:17:00+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "Des centaines de RTX 5090 neuves désossées en usine pour l’IA ? Le business secret qui priverait les joueurs de GPU",
-      "url": "https://www.frandroid.com/marques/nvidia/3298927_des-centaines-de-rtx-5090-neuves-desossees-en-usine-pour-lai-le-business-secret-qui-priverait-les-joueurs-de-gpu",
-      "publishedAt": "2026-10-26T10:16:07+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Combien ça coûte de casser son iPhone Duo ? On a regardé les tarifs d’Apple (tenez-le bien)",
-      "url": "https://www.numerama.com/tech/2360563-combien-ca-coute-de-casser-son-iphone-duo-on-a-regarde-les-tarifs-dapple-tenez-le-bien.html",
-      "publishedAt": "2026-10-26T10:16:06+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "iPhone Duo : son écran révolutionnaire se brise après quelques heures, Apple est dans la panade",
-      "url": "https://www.journaldugeek.com/2026/10/26/iphone-duo-son-ecran-revolutionnaire-se-brise-apres-quelques-heures-apple-est-dans-la-panade/",
-      "publishedAt": "2026-10-26T10:15:55+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le gouvernement avait préparé une coupure des réseaux sociaux : peut-il vraiment bloquer TikTok, Snapchat et Instagram ?",
-      "url": "https://www.numerama.com/tech/2360573-le-gouvernement-peut-il-vraiment-couper-tiktok-instagram-et-les-autres-reseaux-sociaux-en-cas-de-violences-en-france.html",
-      "publishedAt": "2026-10-26T10:15:29+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La règle sacrée a désormais une exception : Google peut cibler ses publicités grâce à vos mails et vos photos, si vous les confiez à son IA",
-      "url": "https://www.numerama.com/cyberguerre/2360679-la-regle-sacree-a-desormais-une-exception-google-peut-cibler-ses-publicites-grace-a-vos-mails-et-vos-photos-si-vous-les-confiez-a-son-ia.html",
-      "publishedAt": "2026-10-26T10:15:23+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "« Un énorme problème d’écran » sur l’iPhone Duo : iFixit découvre une défaillance sur le smartphone pliant d’Apple",
-      "url": "https://www.01net.com/actualites/un-enorme-probleme-decran-sur-liphone-duo-ifixit-decouvre-une-defaillance-sur-le-smartphone-pliant-dapple.html",
-      "publishedAt": "2026-10-26T10:14:28+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Temu, AliExpress, Shein : pourquoi vos petits colis vont vous coûter plus cher dès le 1er novembre",
-      "url": "https://www.01net.com/actualites/temu-aliexpress-shein-pourquoi-vos-petits-colis-vont-vous-couter-plus-cher-des-1er-novembre.html",
-      "publishedAt": "2026-10-26T10:12:28+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Comment protéger son appareil photo et ses objectifs contre le vol, les chutes et l’eau",
-      "url": "https://www.generation-nt.com/actualites/comment-proteger-appareil-photo-objectifs-contre-vol-chutes-eau-2083183",
-      "publishedAt": "2026-10-26T10:11:04+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Douze ans qu’on attendait le retour de Castlevania, et il est déjà en promo pour Halloween",
-      "url": "https://www.numerama.com/pop-culture/2360621-douze-ans-quon-attendait-le-retour-de-castlevania-et-il-est-deja-en-promo-pour-halloween.html",
-      "publishedAt": "2026-10-26T10:05:31+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Un cocktail explosif pour la Nike A’Two « Potion No. 22 Halloween »",
-      "url": "https://www.basketusa.com/news/951876/un-cocktail-explosif-pour-la-nike-atwo-potion-no-22-halloween/",
-      "publishedAt": "2026-10-26T10:03:20+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Après les manifestations, le gouvernement se prépare à la coupure de TikTok, Instagram et Snapchat",
-      "url": "https://www.journaldugeek.com/2026/10/26/apres-les-manifestations-le-gouvernement-se-prepare-a-la-coupure-de-tiktok-instagram-et-snapchat/",
-      "publishedAt": "2026-10-26T10:00:55+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Des séduisants Browns, Aaron Glenn à la dérive … les 8 leçons de la semaine 7",
-      "url": "https://touchdownactu.com/360468/des-seduisants-browns-aaron-glenn-a-la-derive-les-8-lecons-de-la-semaine-7/",
-      "publishedAt": "2026-10-26T10:00:49+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "App Club iGen : déjà prête pour l’iPhone Duo, elle continue de s’améliorer grâce à vos retours",
-      "url": "https://www.macg.co/macgeneration/2026/10/app-club-igen-deja-prete-pour-liphone-duo-elle-continue-de-sameliorer-grace-vos-retours-311845",
-      "publishedAt": "2026-10-26T10:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Sony prépare-t-il un coup de maître ? Sa future PlayStation portable pourrait écraser la concurrence",
-      "url": "https://www.clubic.com/actualite-635926-sony-prepare-t-il-un-coup-de-maitre-sa-future-playstation-portable-pourrait-ecraser-la-concurrence.html",
-      "publishedAt": "2026-10-26T09:59:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Cette IA apprend à parler sans savoir lire, mais la promesse de Jack Dorsey a ses limites",
-      "url": "https://www.clubic.com/actualite-635914-cette-ia-apprend-a-parler-sans-savoir-lire-mais-la-promesse-de-jack-dorsey-a-ses-limites.html",
-      "publishedAt": "2026-10-26T09:59:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Ce lot de 4 AirTags bénéficie d’une belle remise sur Amazon",
-      "url": "https://www.iphon.fr/post/lot-4-airtags-belle-remise-amazon",
-      "publishedAt": "2026-10-26T09:53:09+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Auto : à quoi correspond la plaque d’immatriculation rose que l’on voit sur les voitures ?",
-      "url": "https://www.presse-citron.net/auto-a-quoi-correspond-la-plaque-dimmatriculation-rose-que-lon-voit-sur-les-voitures/",
-      "publishedAt": "2026-10-26T09:53:07+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Elon Musk lâche le premier épisode de sa vision de l’Odyssée pour « humilier Nolan »",
-      "url": "https://www.numerama.com/pop-culture/2360601-elon-musk-lache-le-premier-episode-de-sa-vision-de-lodyssee-pour-humilier-nolan.html",
-      "publishedAt": "2026-10-26T09:50:07+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le mode auto de Claude devient le réglage par défaut",
-      "url": "https://www.generation-nt.com/actualites/claude-anthropic-mode-auto-defaut-applications-2083402",
-      "publishedAt": "2026-10-26T09:50:01+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "Visages figés, plans saccadés : l’Odyssée par IA d’Elon Musk est loin de rivaliser avec le cinéma",
-      "url": "https://www.frandroid.com/marques/3298801_visages-figes-plans-saccades-lodyssee-par-ia-delon-musk-est-loin-de-rivaliser-avec-le-cinema",
-      "publishedAt": "2026-10-26T09:49:30+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "Strava va simplifier la vie des marcheurs avec de nouvelles fonctions pour la randonnée",
-      "url": "https://www.frandroid.com/android/3298845_strava-va-simplifier-la-vie-des-marcheurs-avec-de-nouvelles-fonctions-pour-la-randonnee",
-      "publishedAt": "2026-10-26T09:48:14+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "Comment Apple va démasquer les faux retours d’iPhone sans même ouvrir la boîte",
-      "url": "https://www.frandroid.com/marques/apple/3298695_comment-apple-va-demasquer-les-faux-retours-diphone-sans-meme-ouvrir-la-boite",
-      "publishedAt": "2026-10-26T09:47:50+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Cupra Raval et VW ID. Polo : l’usine s’arrête, mais pas pour ce que l’on pense",
-      "url": "https://www.numerama.com/vroom/2360631-cupra-raval-et-vw-id-polo-lusine-sarrete-mais-pas-pour-ce-que-lon-pense.html",
-      "publishedAt": "2026-10-26T09:45:41+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "YouTube va bientôt passer au codec AV2 : pourquoi vos vidéos vont être bien plus belles",
-      "url": "https://www.frandroid.com/marques/google/3298639_youtube-va-bientot-passer-au-codec-av2-pourquoi-vos-videos-vont-etre-bien-plus-belles",
-      "publishedAt": "2026-10-26T09:44:56+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "Windows 11 prépare un boost de performances, mais votre PC actuel n’en verra pas la couleur",
-      "url": "https://www.frandroid.com/os/windows/3298793_windows-11-prepare-un-boost-de-performances-mais-votre-pc-actuel-nen-verra-pas-la-couleur",
-      "publishedAt": "2026-10-26T09:42:57+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "Couper les réseaux sociaux ? Orange, Bouygues Telecom, SFR étaient loin d’être convaincus",
-      "url": "https://www.frandroid.com/telecom/3298703_couper-les-reseaux-sociaux-orange-bouygues-telecom-sfr-etaient-loin-detre-convaincus",
-      "publishedAt": "2026-10-26T09:41:52+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Google change discrètement ses règles : vos données Gmail et Photos pourraient servir à personnaliser les publicités",
-      "url": "https://www.clubic.com/actualite-635920-google-change-discretement-ses-regles-vos-donnees-gmail-et-photos-pourraient-servir-a-personnaliser-les-publicites.html",
-      "publishedAt": "2026-10-26T09:41:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "MacBook Pro : M6, OLED et écran tactile, voici ce qui nous attend mercredi !",
-      "url": "https://www.mac4ever.com/mac/198717-macbook-pro-m6-oled-et-ecran-tactile-voici-ce-qui-nous-attend-mercredi",
-      "publishedAt": "2026-10-26T09:41:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le MacBook Air M5 en promo : comment éviter l'augmentation des tarifs Apple ?",
-      "url": "https://www.mac4ever.com/mac/198721-le-macbook-air-m5-en-promo-comment-eviter-l-augmentation-des-tarifs-apple",
-      "publishedAt": "2026-10-26T09:39:45+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "En Europe, NVIDIA veut recycler d'anciennes centrales nucléaires en data centers IA",
-      "url": "https://www.clubic.com/actualite-635917-en-europe-nvidia-veut-recycler-d-anciennes-centrales-nucleaires-en-data-centers-ia.html",
-      "publishedAt": "2026-10-26T09:36:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone Duo : ce test de résistance extrême livre un résultat surprenant",
-      "url": "https://www.iphon.fr/post/iphone-duo-test-resistance-extreme-livre-resultat-surprenant",
-      "publishedAt": "2026-10-26T09:33:47+00:00"
-    },
-    {
-      "source": "frandroid",
-      "title": "Lancé à un tarif astronomique, l’impressionnant Oppo Find X10 Pro Max et ses trois capteurs de 200 Mpx baissent enfin de prix",
-      "url": "https://www.frandroid.com/bons-plans/3298775_lance-a-un-tarif-astronomique-limpressionnant-oppo-find-x10-pro-max-et-ses-trois-capteurs-de-200-mpx-baissent-enfin-de-prix",
-      "publishedAt": "2026-10-26T09:33:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Apple prépare macOS au MacBook Pro tactile",
-      "url": "https://www.generation-nt.com/actualites/apple-macbook-pro-tactile-oled-macos-golden-gate-2083400",
-      "publishedAt": "2026-10-26T09:30:01+00:00"
     },
     {
       "source": "boulet",
