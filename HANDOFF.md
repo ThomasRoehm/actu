@@ -26,6 +26,8 @@ Korben utilise le flux complet officiel `https://korben.info/feedfull`, recomman
 
 ## Dernières décisions d’interface
 
+- Police : DejaVu Sans Mono, versions normale et grasse hébergées dans `fonts/` avec leur licence, sans service externe.
+
 - Page sans titre introductif ni champ de recherche. Le titre du navigateur et le nom de l’application sont « Actualités ».
 - Lignes compactes : espacement vertical réduit, titres toujours limités à deux lignes.
 - Chaque onglet affiche le nombre de publications du jour (date locale). BD ajoute les chapitres dont la date connue est aujourd’hui ; les dates inconnues et publications anciennes ne sont pas comptées.

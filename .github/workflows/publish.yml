@@ -48,7 +48,7 @@ jobs:
         run: |
           mkdir -p dist
           cp index.html style.css app.js icon.svg manifest.webmanifest dist/
-          cp -R icons data dist/
+          cp -R icons data fonts dist/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
