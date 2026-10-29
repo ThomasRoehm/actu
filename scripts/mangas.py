@@ -3,6 +3,8 @@ import html
 import json
 import re
 import time
+from decimal import Decimal
+from urllib.parse import urljoin, urlsplit
 
 from scripts.collect import ROOT, UTC, clean_title, fetch, parse_date
 
@@ -10,7 +12,27 @@ from scripts.collect import ROOT, UTC, clean_title, fetch, parse_date
 BASE = "https://mangakatana.com/manga/"
 
 
+def latest_otl_chapter(content, manga):
+    series = urlsplit(manga["pageUrl"]).path.strip("/").split("/")[-1]
+    candidates = []
+    for attributes, label in re.findall(r"<a\b([^>]*)>(.*?)</a>", content.decode("utf-8", "replace"), re.S | re.I):
+        href = re.search(r'\bhref=[\'\"]([^\'\"]+)[\'\"]', attributes)
+        classes = re.search(r'\bclass=[\'\"]([^\'\"]+)[\'\"]', attributes)
+        if not href or not classes or "chapter-title" not in classes[1].split():
+            continue
+        url = urljoin(manga["pageUrl"], html.unescape(href[1]))
+        number = re.fullmatch(r"https://otl\.moe/read/" + re.escape(series) + r"/(\d+(?:\.\d+)?)/?", url)
+        chapter = clean_title(label)
+        if number and chapter:
+            candidates.append((Decimal(number[1]), {"chapter": chapter, "url": url, "publishedDate": None}))
+    if not candidates:
+        raise ValueError("Aucun lien de chapitre OTL reconnu")
+    return max(candidates, key=lambda candidate: candidate[0])[1]
+
+
 def latest_chapter(content, manga):
+    if manga.get("source") == "otl":
+        return latest_otl_chapter(content, manga)
     page_url = BASE + manga["slug"]
     for row in re.findall(r"<tr\b[^>]*>(.*?)</tr>", content.decode("utf-8", "replace"), re.S | re.I):
         for href, label in re.findall(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', row, re.S | re.I):
@@ -32,8 +54,10 @@ def latest_chapter(content, manga):
 
 
 def collect_manga(manga, previous, now):
-    item = {"slug": manga["slug"], "title": manga["title"], "pageUrl": BASE + manga["slug"]}
+    item = {"slug": manga["slug"], "title": manga["title"], "pageUrl": manga.get("pageUrl", BASE + manga["slug"]), "source": manga.get("source", "mangakatana")}
     previous = dict(previous)
+    if previous.get("pageUrl") and previous["pageUrl"] != item["pageUrl"]:
+        previous = {}
     # Migration : dernière observation réussie du chapitre déjà enregistré.
     if previous.get("url") and not previous.get("firstSeenAt") and parse_date(previous.get("lastSuccessAt")):
         previous["firstSeenAt"] = previous["lastSuccessAt"]

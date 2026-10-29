@@ -103,13 +103,14 @@ function renderMangas() {
     title.textContent = `${manga.title} — ${manga.chapter || 'Chapitre indisponible'}`;
     const source = document.createElement('span');
     source.className = 'article-source';
-    source.textContent = manga.ok ? 'MangaKatana' : 'MangaKatana · à vérifier';
+    const sourceName = manga.source === 'otl' ? 'OTL' : 'MangaKatana';
+    source.textContent = manga.ok ? sourceName : `${sourceName} · à vérifier`;
     const date = document.createElement('span');
     date.className = 'article-time';
     const displayedDate = mangaDate(manga);
     date.textContent = displayedDate ? `${displayedDate.observed ? 'Repéré le ' : ''}${displayedDate.date.toLocaleDateString('fr-FR')}` : 'Date inconnue';
-    if (displayedDate?.observed) date.title = `Date annoncée par MangaKatana : ${manga.publishedDate}. Chapitre déjà disponible lors de la collecte.`;
-    metadata.append(icon({ id: 'mangakatana', name: 'MangaKatana' }), source, date);
+    if (displayedDate?.observed) date.title = `Date annoncée par ${sourceName} : ${manga.publishedDate}. Chapitre déjà disponible lors de la collecte.`;
+    metadata.append(icon({ id: manga.source === 'otl' ? 'otl' : 'mangakatana', name: sourceName }), source, date);
     link.append(metadata, title);
     list.append(link);
   }

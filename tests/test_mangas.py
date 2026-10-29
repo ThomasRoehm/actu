@@ -20,6 +20,29 @@ class MangaTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             latest_chapter(b'<tr><a href="https://evil.example/c99">Chapter 99</a></tr>', self.manga)
 
+    def test_otl_selects_highest_chapter_in_either_order(self):
+        manga = dict(self.manga, source="otl", pageUrl="https://otl.moe/series/example/")
+        links = [b'<a class="chapter-title" href="/read/example/9">Chapter 9</a>', b'<a href="/read/example/10.5" class="chapter-title">Chapter 10.5 &amp; more</a>']
+        for content in (b''.join(links), b''.join(reversed(links))):
+            result = latest_chapter(content, manga)
+            self.assertEqual(result, {"chapter": "Chapter 10.5 & more", "url": "https://otl.moe/read/example/10.5", "publishedDate": None})
+
+    def test_otl_rejects_external_other_series_and_reading_button(self):
+        manga = dict(self.manga, source="otl", pageUrl="https://otl.moe/series/example/")
+        for href, classes in (("https://evil.example/read/example/99", "chapter-title"), ("/read/other/99", "chapter-title"), ("/read/example/1", "button")):
+            with self.subTest(href=href, classes=classes), self.assertRaises(ValueError):
+                latest_chapter(f'<a class="{classes}" href="{href}">Chapter 99</a>'.encode(), manga)
+
+    def test_source_change_fetches_immediately_and_drops_old_link_on_failure(self):
+        manga = dict(self.manga, source="otl", pageUrl="https://otl.moe/series/example/")
+        previous = {"pageUrl": "https://mangakatana.com/manga/example.123", "url": "https://mangakatana.com/manga/example.123/c12", "checkedAt": self.now.isoformat(), "ok": True}
+        with patch("scripts.mangas.fetch", side_effect=ValueError("Indisponible")) as request:
+            result = collect_manga(manga, previous, self.now)
+        request.assert_called_once_with(manga["pageUrl"])
+        self.assertFalse(result["ok"])
+        self.assertNotIn("url", result)
+        self.assertEqual(result["source"], "otl")
+
     def test_failed_collection_preserves_last_known_chapter(self):
         previous = {"chapter": "Chapter 12", "url": "https://mangakatana.com/manga/example.123/c12"}
         with patch("scripts.mangas.fetch", side_effect=ValueError("Indisponible")):
