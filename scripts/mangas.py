@@ -12,6 +12,18 @@ from scripts.collect import ROOT, UTC, clean_title, fetch, parse_date
 BASE = "https://mangakatana.com/manga/"
 
 
+def otl_publication_dates(content):
+    dates = {}
+    # Une carte de mises à jour associe sa date au dernier chapitre lié.
+    for block in re.split(r'<div\b[^>]*\bdata-latest-item\b[^>]*>', content.decode("utf-8", "replace"))[1:]:
+        date_match = re.search(r'<time\b[^>]*datetime=[\'\"]([^\'\"]+)', block)
+        chapter_match = re.search(r'href=[\'\"](/read/[^/\'\"]+/\d+(?:\.\d+)?)/?[\'\"]', block)
+        date = parse_date(date_match[1]) if date_match else None
+        if date and chapter_match:
+            dates["https://otl.moe" + chapter_match[1]] = date.date().isoformat()
+    return dates
+
+
 def latest_otl_chapter(content, manga):
     series = urlsplit(manga["pageUrl"]).path.strip("/").split("/")[-1]
     candidates = []
@@ -53,7 +65,7 @@ def latest_chapter(content, manga):
     raise ValueError("Aucun lien de chapitre reconnu")
 
 
-def collect_manga(manga, previous, now):
+def collect_manga(manga, previous, now, otl_dates=None):
     item = {"slug": manga["slug"], "title": manga["title"], "pageUrl": manga.get("pageUrl", BASE + manga["slug"]), "source": manga.get("source", "mangakatana")}
     previous = dict(previous)
     if previous.get("pageUrl") and previous["pageUrl"] != item["pageUrl"]:
@@ -66,6 +78,10 @@ def collect_manga(manga, previous, now):
         return dict(previous, **item)
     try:
         chapter = latest_chapter(fetch(item["pageUrl"]), manga)
+        if item["source"] == "otl":
+            chapter["publishedDate"] = (otl_dates or {}).get(chapter["url"])
+            if not chapter["publishedDate"] and previous.get("url") == chapter["url"]:
+                chapter["publishedDate"] = previous.get("publishedDate")
         first_seen = previous.get("firstSeenAt") if previous.get("url") == chapter["url"] else None
         return dict(item, **chapter, firstSeenAt=first_seen or now.isoformat(), ok=True, checkedAt=now.isoformat(), lastSuccessAt=now.isoformat())
     except Exception as error:
@@ -78,8 +94,16 @@ def main():
     saved = {item["slug"]: item for item in previous["mangas"]}
     now = datetime.datetime.now(UTC)
     items = []
-    for manga in json.loads((ROOT / "mangas.json").read_text()):
-        item = collect_manga(manga, saved.get(manga["slug"], {}), now)
+    selection = json.loads((ROOT / "mangas.json").read_text())
+    otl_dates = {}
+    if any(manga.get("source") == "otl" for manga in selection):
+        try:
+            otl_dates = otl_publication_dates(fetch("https://otl.moe/"))
+        except Exception:
+            print("Dates OTL indisponibles ; conservation des dates déjà connues.", flush=True)
+        time.sleep(1)
+    for manga in selection:
+        item = collect_manga(manga, saved.get(manga["slug"], {}), now, otl_dates)
         items.append(item)
         print(manga["title"] + ": " + (item.get("chapter", "Sans chapitre") if item["ok"] else item["error"]), flush=True)
         if item["checkedAt"] == now.isoformat():

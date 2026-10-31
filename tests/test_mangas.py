@@ -3,7 +3,7 @@ import unittest
 from unittest.mock import patch
 
 from scripts.collect import merge_articles
-from scripts.mangas import collect_manga, latest_chapter
+from scripts.mangas import collect_manga, latest_chapter, otl_publication_dates
 
 
 class MangaTests(unittest.TestCase):
@@ -26,6 +26,21 @@ class MangaTests(unittest.TestCase):
         for content in (b''.join(links), b''.join(reversed(links))):
             result = latest_chapter(content, manga)
             self.assertEqual(result, {"chapter": "Chapter 10.5 & more", "url": "https://otl.moe/read/example/10.5", "publishedDate": None})
+
+    def test_otl_dates_are_bound_to_latest_chapter_in_each_card(self):
+        content = b'<div data-latest-item><time datetime="2026-10-30T08:13:00Z"></time><a href="/read/example/17">17</a><a href="/read/example/16">16</a></div><div data-latest-item><time datetime="invalid"></time><a href="/read/other/1">1</a></div>'
+        self.assertEqual(otl_publication_dates(content), {"https://otl.moe/read/example/17": "2026-10-30"})
+
+    def test_otl_date_is_kept_when_chapter_leaves_homepage(self):
+        manga = dict(self.manga, source="otl", pageUrl="https://otl.moe/series/example/")
+        previous = {"url": "https://otl.moe/read/example/17", "publishedDate": "2026-10-20"}
+        with patch("scripts.mangas.fetch", return_value=b'<a class="chapter-title" href="/read/example/17">17</a>'):
+            result = collect_manga(manga, previous, self.now, {})
+            self.assertEqual(result["publishedDate"], "2026-10-20")
+            result = collect_manga(manga, previous, self.now, {previous["url"]: "2026-10-21"})
+            self.assertEqual(result["publishedDate"], "2026-10-21")
+        with patch("scripts.mangas.fetch", return_value=b'<a class="chapter-title" href="/read/example/18">18</a>'):
+            self.assertIsNone(collect_manga(manga, previous, self.now, {})["publishedDate"])
 
     def test_otl_rejects_external_other_series_and_reading_button(self):
         manga = dict(self.manga, source="otl", pageUrl="https://otl.moe/series/example/")
