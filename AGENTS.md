@@ -28,7 +28,7 @@
 - Sur mobile et ordinateur, icône, nom de la source et heure sont alignés sur une première ligne ; le titre vient en dessous sur toute la largeur et est limité à deux lignes.
 - Tech et Sport : fenêtre glissante de 48 heures, côté collecteur ET interface.
 - BD : dernière publication par source, sans expiration. Bouletcorp est actuellement la seule source BD classique.
-- Mangas : dernier chapitre de chaque série, sans expiration, dans une section dédiée de BD. Ne pas enregistrer de progression de lecture sans demande.
+- Mangas : dernier chapitre de chaque série, sans expiration, dans la liste BD, triés par date avec les autres sources (dates inconnues en dernier). Ne pas enregistrer de progression de lecture sans demande.
 - Les données du navigateur se rechargent toutes les 5 minutes lorsque la page est visible et au retour sur l’onglet ; cela ne déclenche pas la collecte serveur.
 
 ## Collecte et sécurité

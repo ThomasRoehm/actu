@@ -92,7 +92,10 @@ function renderMangas() {
   section.hidden = state.group !== 'BD';
   if (section.hidden) return;
   const key = JSON.stringify([state.mangas, state.mangaError, new Date().toLocaleDateString('fr-FR')]);
-  if (renderCache.mangas === key) return;
+  if (renderCache.mangas === key) {
+    section.hidden = !section.childElementCount;
+    return;
+  }
   renderCache.mangas = key;
   section.replaceChildren();
   if (!state.mangas) {
@@ -108,35 +111,41 @@ function renderMangas() {
     notice.textContent = 'Certaines vérifications sont indisponibles. Les derniers chapitres connus restent affichés.';
     section.append(notice);
   }
-  const list = document.createElement('div');
-  list.className = 'article-list';
-  const mangas = [...state.mangas].sort((first, second) => (mangaDate(second)?.date.getTime() || 0) - (mangaDate(first)?.date.getTime() || 0) || first.title.localeCompare(second.title));
-  for (const manga of mangas) {
-    const link = document.createElement('a');
-    link.className = 'article manga-article';
-    link.href = safeUrl(manga.url) || safeUrl(manga.pageUrl) || '#';
-    link.target = '_blank';
-    link.rel = 'noopener noreferrer';
-    link.title = manga.lastSuccessAt ? `Dernière vérification réussie : ${new Date(manga.lastSuccessAt).toLocaleString('fr-FR')}` : 'Chapitre non vérifié';
-    const metadata = document.createElement('div');
-    metadata.className = 'article-metadata';
-    const title = document.createElement('span');
-    title.className = 'article-title';
-    title.textContent = `${manga.title} — ${manga.chapter || 'Chapitre indisponible'}`;
-    const source = document.createElement('span');
-    source.className = 'article-source';
-    const sourceName = manga.source === 'otl' ? 'OTL' : 'MangaKatana';
-    source.textContent = manga.ok ? sourceName : `${sourceName} · à vérifier`;
-    const date = document.createElement('span');
-    date.className = 'article-time';
-    const displayedDate = mangaDate(manga);
-    date.textContent = displayedDate ? `${displayedDate.observed ? 'Repéré le ' : ''}${displayedDate.date.toLocaleDateString('fr-FR')}` : 'Date inconnue';
-    if (displayedDate?.observed) date.title = `Date annoncée par ${sourceName} : ${manga.publishedDate}. Chapitre déjà disponible lors de la collecte.`;
-    metadata.append(icon({ id: manga.source === 'otl' ? 'otl' : 'mangakatana', name: sourceName }), source, date);
-    link.append(metadata, title);
-    list.append(link);
-  }
-  section.append(list);
+  section.hidden = !section.childElementCount;
+}
+
+function mangaLink(manga) {
+  const link = document.createElement('a');
+  link.className = 'article manga-article';
+  link.href = safeUrl(manga.url) || safeUrl(manga.pageUrl) || '#';
+  link.target = '_blank';
+  link.rel = 'noopener noreferrer';
+  link.title = manga.lastSuccessAt ? `Dernière vérification réussie : ${new Date(manga.lastSuccessAt).toLocaleString('fr-FR')}` : 'Chapitre non vérifié';
+  const metadata = document.createElement('div');
+  metadata.className = 'article-metadata';
+  const title = document.createElement('span');
+  title.className = 'article-title';
+  title.textContent = `${manga.title} — ${manga.chapter || 'Chapitre indisponible'}`;
+  const source = document.createElement('span');
+  source.className = 'article-source';
+  const sourceName = manga.source === 'otl' ? 'OTL' : 'MangaKatana';
+  source.textContent = manga.ok ? sourceName : `${sourceName} · à vérifier`;
+  const date = document.createElement('span');
+  date.className = 'article-time';
+  const displayedDate = mangaDate(manga);
+  date.textContent = displayedDate ? `${displayedDate.observed ? 'Repéré le ' : ''}${displayedDate.date.toLocaleDateString('fr-FR')}` : 'Date inconnue';
+  if (displayedDate?.observed) date.title = `Date annoncée par ${sourceName} : ${manga.publishedDate}. Chapitre déjà disponible lors de la collecte.`;
+  metadata.append(icon({ id: manga.source === 'otl' ? 'otl' : 'mangakatana', name: sourceName }), source, date);
+  link.append(metadata, title);
+  return link;
+}
+
+// Les dates de mangas ne comportent pas d’heure : elles restent au jour local.
+function feedEntries(articles, mangas) {
+  return [
+    ...articles.map((article) => ({ article, date: new Date(article.publishedAt) })),
+    ...mangas.map((manga) => ({ manga, date: mangaDate(manga)?.date || null })),
+  ].sort((first, second) => (second.date?.getTime() ?? -Infinity) - (first.date?.getTime() ?? -Infinity));
 }
 
 async function loadMangas() {
@@ -199,17 +208,19 @@ function render() {
   byId('notice').hidden = !failed && !stale;
   byId('notice').textContent = [stale ? 'La collecte a du retard. Les actualités de plus de 48 heures sont masquées, sauf les dernières publications BD.' : '', failed ? `${failed} source${failed > 1 ? 's' : ''} temporairement indisponible${failed > 1 ? 's' : ''}. Détails dans « Sources » ; les articles sont conservés pendant 48 heures, sans expiration pour la dernière publication BD.` : ''].filter(Boolean).join(' ');
   renderSources(state.data.sources, articles);
-  const feedKey = JSON.stringify([state.group, today, filtered, state.data.sources]);
+  const mangas = state.group === 'BD' ? state.mangas || [] : [];
+  const entries = feedEntries(filtered, mangas);
+  const feedKey = JSON.stringify([state.group, today, filtered, mangas, state.data.sources]);
   if (renderCache.feed === feedKey) return;
   renderCache.feed = feedKey;
   const feed = byId('feed');
   const fragment = document.createDocumentFragment();
   const days = new Map();
-  for (const article of filtered) {
-    const date = new Date(article.publishedAt);
-    const day = date.toLocaleDateString('fr-FR');
+  for (const entry of entries) {
+    const date = entry.date;
+    const day = date ? date.toLocaleDateString('fr-FR') : 'Date inconnue';
     if (!days.has(day)) days.set(day, { date, articles: [] });
-    days.get(day).articles.push(article);
+    days.get(day).articles.push(entry);
   }
   const yesterdayDate = new Date();
   yesterdayDate.setDate(yesterdayDate.getDate() - 1);
@@ -219,14 +230,19 @@ function render() {
     section.className = 'day-section';
     const heading = document.createElement('h2');
     heading.className = 'day-heading';
-    heading.textContent = day === today ? 'Aujourd’hui' : day === yesterday ? 'Hier' : dateFormat.format(collection.date);
+    heading.textContent = !collection.date ? 'Date inconnue' : day === today ? 'Aujourd’hui' : day === yesterday ? 'Hier' : dateFormat.format(collection.date);
     const count = document.createElement('span');
     count.textContent = ` / ${collection.articles.length}`;
     heading.append(count);
     section.append(heading);
     const list = document.createElement('div');
     list.className = 'article-list';
-    for (const article of collection.articles) {
+    for (const entry of collection.articles) {
+      if (entry.manga) {
+        list.append(mangaLink(entry.manga));
+        continue;
+      }
+      const article = entry.article;
       const source = sources.get(article.source);
       const date = new Date(article.publishedAt);
       const link = document.createElement('a');
@@ -254,10 +270,10 @@ function render() {
     section.append(list);
     fragment.append(section);
   }
-  if (!filtered.length) {
+  if (!entries.length) {
     const empty = document.createElement('div');
     empty.className = 'empty';
-    empty.textContent = state.group === 'BD' ? 'Aucune publication BD. Les mangas sont affichés séparément ci-dessus.' : 'Aucune nouveauté dans cette catégorie sur les dernières 48 heures.';
+    empty.textContent = state.group === 'BD' ? 'Aucune publication BD ni chapitre disponible.' : 'Aucune nouveauté dans cette catégorie sur les dernières 48 heures.';
     fragment.append(empty);
   }
   feed.replaceChildren(fragment);
