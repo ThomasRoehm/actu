@@ -25,3 +25,8 @@ test('observation respects local day around midnight',()=>{
  assert.equal(get({publishedDate:'2026-10-26',firstSeenAt:'2026-10-25T23:30:00Z'}).observed,false);
  assert.equal(get({publishedDate:'2026-10-26',firstSeenAt:'2026-10-25T22:30:00Z'}).date.toLocaleDateString('fr-FR'),'25/10/2026');
 });
+
+test('external links reject scripts and embedded credentials',()=>{
+ for(const url of ['javascript:alert(1)','data:text/html,test','https://user:password@example.com/']) assert.equal(vm.runInContext(`safeUrl(${JSON.stringify(url)})`,context),null);
+ assert.equal(vm.runInContext('safeUrl("https://example.com/a")',context),'https://example.com/a');
+});

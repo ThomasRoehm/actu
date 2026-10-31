@@ -1,8 +1,19 @@
 const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'Tech', loading: false };
+const renderCache = { sources: null, mangas: null, feed: null };
 const byId = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
 const clockFormat = new Intl.DateTimeFormat('fr-FR', { hour: '2-digit', minute: '2-digit' });
-const safeUrl = (value) => { try { const url = new URL(value); return ['https:', 'http:'].includes(url.protocol) ? url.href : null; } catch { return null; } };
+const safeUrl = (value) => { try { const url = new URL(value); return typeof value === 'string' && ['https:', 'http:'].includes(url.protocol) && !url.username && !url.password ? url.href : null; } catch { return null; } };
+
+function validSource(source) {
+  return source && typeof source.id === 'string' && typeof source.name === 'string' && ['BD', 'Sport', 'Tech'].includes(source.group) && !!safeUrl(source.url);
+}
+function validArticle(article) {
+  return article && typeof article.source === 'string' && typeof article.title === 'string' && !!safeUrl(article.url) && Number.isFinite(Date.parse(article.publishedAt));
+}
+function validManga(manga) {
+  return manga && typeof manga.title === 'string' && !!(safeUrl(manga.url) || safeUrl(manga.pageUrl));
+}
 
 function mangaDate(manga) {
   const value = manga.publishedDate;
@@ -26,7 +37,10 @@ function icon(source) {
   wrapper.setAttribute('aria-hidden', 'true');
   wrapper.textContent = source.name.charAt(0);
   const image = document.createElement('img');
-  image.src = source.icon || `icons/${source.id}.png`;
+  const path = source.icon || `icons/${source.id}.png`;
+  if (!/^icons\/[a-z0-9-]+\.(png|jpg)$/.test(path)) return wrapper;
+  image.src = path;
+  image.decoding = 'async';
   image.alt = '';
   image.loading = 'lazy';
   image.addEventListener('error', () => image.remove(), { once: true });
@@ -42,6 +56,11 @@ function relativeTime(date) {
 }
 
 function renderSources(sources, articles) {
+  const key = JSON.stringify([sources, articles.map((article) => article.source)]);
+  if (renderCache.sources === key) return;
+  renderCache.sources = key;
+  const counts = new Map();
+  for (const article of articles) counts.set(article.source, (counts.get(article.source) || 0) + 1);
   const list = byId('sources-list');
   list.replaceChildren();
   for (const source of sources) {
@@ -60,7 +79,7 @@ function renderSources(sources, articles) {
     row.append(description);
     const status = document.createElement('span');
     status.className = `source-status${source.ok ? '' : ' failed'}`;
-    const count = articles.filter((article) => article.source === source.id).length;
+    const count = counts.get(source.id) || 0;
     status.textContent = source.ok ? (count ? `${count} article${count > 1 ? 's' : ''}` : 'Aucune nouveauté') : 'Collecte indisponible';
     if (!source.ok) status.title = source.error || 'Réessai à la prochaine collecte';
     row.append(status);
@@ -72,6 +91,9 @@ function renderMangas() {
   const section = byId('manga-feed');
   section.hidden = state.group !== 'BD';
   if (section.hidden) return;
+  const key = JSON.stringify([state.mangas, state.mangaError, new Date().toLocaleDateString('fr-FR')]);
+  if (renderCache.mangas === key) return;
+  renderCache.mangas = key;
   section.replaceChildren();
   if (!state.mangas) {
     const info = document.createElement('p');
@@ -125,6 +147,7 @@ async function loadMangas() {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
     if (!Array.isArray(data.mangas)) throw new Error('Données invalides');
+    if (!data.mangas.every(validManga)) throw new Error('Données invalides');
     state.mangas = data.mangas;
     state.mangaError = false;
   } catch {
@@ -175,8 +198,12 @@ function render() {
   const stale = now - generated.getTime() > 3600000;
   byId('notice').hidden = !failed && !stale;
   byId('notice').textContent = [stale ? 'La collecte a du retard. Les actualités de plus de 48 heures sont masquées, sauf les dernières publications BD.' : '', failed ? `${failed} source${failed > 1 ? 's' : ''} temporairement indisponible${failed > 1 ? 's' : ''}. Détails dans « Sources » ; les articles sont conservés pendant 48 heures, sans expiration pour la dernière publication BD.` : ''].filter(Boolean).join(' ');
+  renderSources(state.data.sources, articles);
+  const feedKey = JSON.stringify([state.group, today, filtered, state.data.sources]);
+  if (renderCache.feed === feedKey) return;
+  renderCache.feed = feedKey;
   const feed = byId('feed');
-  feed.replaceChildren();
+  const fragment = document.createDocumentFragment();
   const days = new Map();
   for (const article of filtered) {
     const date = new Date(article.publishedAt);
@@ -225,15 +252,15 @@ function render() {
       list.append(link);
     }
     section.append(list);
-    feed.append(section);
+    fragment.append(section);
   }
   if (!filtered.length) {
     const empty = document.createElement('div');
     empty.className = 'empty';
     empty.textContent = state.group === 'BD' ? 'Aucune publication BD. Les mangas sont affichés séparément ci-dessus.' : 'Aucune nouveauté dans cette catégorie sur les dernières 48 heures.';
-    feed.append(empty);
+    fragment.append(empty);
   }
-  renderSources(state.data.sources, articles);
+  feed.replaceChildren(fragment);
 }
 
 async function load() {
@@ -245,6 +272,7 @@ async function load() {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
     if (!Array.isArray(data.articles) || !Array.isArray(data.sources) || !Number.isFinite(Date.parse(data.generatedAt))) throw new Error('Données invalides');
+    if (!data.sources.every(validSource) || !data.articles.every(validArticle)) throw new Error('Données invalides');
     state.data = data;
     render();
   } catch {
@@ -266,7 +294,7 @@ byId('show-sources').addEventListener('click', () => byId('sources-dialog').show
 byId('close-sources').addEventListener('click', () => byId('sources-dialog').close());
 byId('sources-dialog').addEventListener('click', (event) => { if (event.target === byId('sources-dialog')) { const bounds = event.target.getBoundingClientRect(); if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) event.target.close(); } });
 document.addEventListener('visibilitychange', () => { if (!document.hidden) { load(); loadMangas(); } });
-setInterval(render, 60000);
+setInterval(() => { if (!document.hidden) render(); }, 60000);
 setInterval(() => { if (!document.hidden) { load(); loadMangas(); } }, 300000);
 load();
 loadMangas();

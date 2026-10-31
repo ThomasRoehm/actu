@@ -3,7 +3,7 @@ import json
 import unittest
 from unittest.mock import patch
 
-from scripts.collect import article, collect_bebasket, collect_blog, merge_articles, page_objects, parse_date, parse_feed, parse_page
+from scripts.collect import article, canonical_url, collect_bebasket, collect_blog, merge_articles, page_objects, parse_date, parse_feed, parse_page
 
 
 class CollectionTests(unittest.TestCase):
@@ -26,6 +26,12 @@ class CollectionTests(unittest.TestCase):
         self.assertIsNone(parse_date("not a date"))
         self.assertIsNone(parse_date("2026-10-23"))
         self.assertIsNone(article(self.source, "Title", "javascript:alert(1)", "2026-10-23T12:00:00Z"))
+
+    def test_malformed_and_credential_urls_do_not_break_feed(self):
+        for url in ["https://[broken/path", "https://example.com:wrong/a", "https://user:password@example.com/a", "file:///tmp/a"]:
+            self.assertIsNone(canonical_url(url))
+        content = b'<rss><channel><item><title>Broken</title><link>https://[broken</link><pubDate>Fri, 23 Oct 2026 18:00:00 +0200</pubDate></item><item><title>Valid</title><link>https://example.com/a</link><pubDate>Fri, 23 Oct 2026 18:00:00 +0200</pubDate></item></channel></rss>'
+        self.assertEqual([item["title"] for item in parse_feed(content, self.source)], ["Valid"])
 
     def test_rolling_window_deduplication_and_retention(self):
         now = datetime.datetime(2026, 10, 23, 12, tzinfo=datetime.timezone.utc)

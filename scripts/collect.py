@@ -50,8 +50,12 @@ def clean_title(value):
 def canonical_url(value):
     if not isinstance(value, str):
         return None
-    parsed = urllib.parse.urlsplit(html.unescape(value))
-    if parsed.scheme not in ("https", "http") or not parsed.hostname:
+    try:
+        parsed = urllib.parse.urlsplit(html.unescape(value))
+        if parsed.scheme not in ("https", "http") or not parsed.hostname or parsed.username or parsed.password:
+            return None
+        parsed.port  # Vérifier aussi les ports malformés sans interrompre tout le flux.
+    except ValueError:
         return None
     query = urllib.parse.parse_qsl(parsed.query, keep_blank_values=True)
     query = [(key, item) for key, item in query if not key.startswith("utm_") and key not in ("fbclid", "gclid")]
