@@ -43,7 +43,7 @@ Korben utilise le flux complet officiel `https://korben.info/feedfull`, recomman
 
 ## Automatisation actuelle
 
-- GitHub Actions : déclenchement prévu toutes les 5 minutes, plus chaque push sur `main` et déclenchement manuel via GitHub.
+- GitHub Actions : déclenchement prévu toutes les 15 minutes, plus chaque push sur `main` et déclenchement manuel via GitHub.
 - Les retards du planificateur GitHub sont connus ; une cadence garantie n’a pas été mise en place.
 - Les scripts testent les données, collectent, fusionnent les résultats persistants, puis publient le site.
 - Les mangas sont revérifiés au plus une fois toutes les 30 minutes par série, même si le workflow est lancé plus souvent.

@@ -37,7 +37,7 @@
 - Ne jamais inventer un titre, chapitre ou horodatage pour masquer un échec.
 - Conserver les derniers résultats connus en cas d’échec suivant les règles de rétention, et signaler l’indisponibilité.
 - MangaKatana : au moins 30 minutes entre vérifications d’une série, une seconde entre requêtes effectuées ; préserver ce ralentissement.
-- Les exécutions GitHub planifiées toutes les 5 minutes peuvent être retardées ou sautées. Ne pas promettre de délai garanti.
+- Les exécutions GitHub planifiées toutes les 15 minutes peuvent être retardées ou sautées. Ne pas promettre de délai garanti.
 - Tout fichier du dépôt public peut être lu par un tiers. Ne jamais y ajouter de secrets, jetons ou identifiants personnels supplémentaires.
 - Garder les favicons locaux et utiliser `textContent` pour les titres externes ainsi que la validation des URL HTTP(S).
 
