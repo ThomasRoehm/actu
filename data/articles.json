@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T21:19:13.072989+00:00",
+  "generatedAt": "2026-11-05T22:20:34.980744+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "01net",
@@ -54,7 +54,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "presse",
@@ -65,7 +65,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "iphon",
@@ -76,7 +76,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "macg",
@@ -87,7 +87,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "mac4ever",
@@ -98,7 +98,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "frandroid",
@@ -109,7 +109,7 @@
       "icon": "icons/frandroid.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "korben",
@@ -120,7 +120,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -131,7 +131,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "basketusa",
@@ -142,7 +142,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "tda",
@@ -153,7 +153,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     },
     {
       "id": "boulet",
@@ -164,10 +164,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-05T21:19:13.072989+00:00"
+      "lastSuccessAt": "2026-11-05T22:20:34.980744+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Apple Creator Studio : Logic Pro ouvre le bal des mises à jour, mais l’IA a un prix",
+      "url": "https://www.macg.co/logiciels/2026/11/apple-creator-studio-logic-pro-ouvre-le-bal-des-mises-jour-mais-lia-un-prix-312205",
+      "publishedAt": "2026-11-05T21:20:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "OpenAI lance GPT-6 Cyber pour traquer les failles et tester leur exploitation",
@@ -691,6 +697,12 @@
       "publishedAt": "2026-11-05T15:32:48+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Jeremy Sochan fait confiance aux « Dieux du basket » pour retrouver la NBA",
+      "url": "https://www.basketusa.com/news/954975/jeremy-sochan-fait-confiance-aux-dieux-du-basket-pour-retrouver-la-nba/",
+      "publishedAt": "2026-11-05T15:26:21+00:00"
+    },
+    {
       "source": "frandroid",
       "title": "Black Friday PC portables : une config sous RTX 5070 à -800€, un ultraportable premium sous 1 000 €… Le top 12 des meilleures offres",
       "url": "https://www.frandroid.com/bons-plans/3302851_black-friday-pc-portables-une-config-sous-rtx-5070-a-800-un-ultraportable-premium-sous-1-000-le-top-12-des-meilleures-offres",
@@ -859,12 +871,6 @@
       "publishedAt": "2026-11-05T14:27:55+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Jeremy Sochan fait confiance aux « Dieux du basket » pour retrouver la NBA",
-      "url": "https://www.basketusa.com/news/954975/jeremy-sochan-fait-confiance-aux-dieux-du-basket-pour-retrouver-la-nba/",
-      "publishedAt": "2026-11-05T14:26:21+00:00"
-    },
-    {
       "source": "macg",
       "title": "Le MacBook Neo 2 est attendu en 2027, et Apple anticipe un carton",
       "url": "https://www.macg.co/mac/2026/11/le-macbook-neo-2-est-attendu-en-2027-et-apple-anticipe-un-carton-312191",
@@ -935,6 +941,12 @@
       "title": "Cdiscount casse les prix pour le Black Friday : voici les 10 meilleures promos tech à saisir",
       "url": "https://www.frandroid.com/bons-plans/3305125_black-friday-cdiscount-les-meilleures-offres-tech-qui-valent-vraiment-le-coup",
       "publishedAt": "2026-11-05T14:07:53+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Memphis Grizzlies – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/954941/memphis-grizzlies-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-05T14:05:47+00:00"
     },
     {
       "source": "presse",
@@ -1015,12 +1027,6 @@
       "publishedAt": "2026-11-05T13:32:08+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Victor Wembanyama sur les terres de Wilt Chamberlain",
-      "url": "https://www.basketusa.com/news/954955/victor-wembanyama-saventure-sur-les-terres-de-wilt-chamberlain/",
-      "publishedAt": "2026-11-05T13:32:08+00:00"
-    },
-    {
       "source": "01net",
       "title": "Honor a lancé Black Friday, le Magic 8 Lite coûte le prix d’un vrai low-cost (-51%) 😱",
       "url": "https://www.01net.com/bons-plans/honor-a-lance-black-friday-le-magic-8-lite-coute-le-prix-dun-vrai-low-cost-51.html",
@@ -1055,12 +1061,6 @@
       "title": "Les géants de l'IA s'accordent sur un standard pour bloquer l'aspiration des contenus",
       "url": "https://www.generation-nt.com/actualites/opt-out-scraping-modele-ia-contenu-web-2084004",
       "publishedAt": "2026-11-05T13:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Memphis Grizzlies – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/954941/memphis-grizzlies-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-05T13:05:47+00:00"
     },
     {
       "source": "frandroid",
@@ -1175,6 +1175,12 @@
       "title": "Kia n’avait visiblement pas assez de SUV électriques et préparerait un EV7",
       "url": "https://www.numerama.com/vroom/2368409-kia-navait-visiblement-pas-assez-de-suv-electriques-et-preparerait-un-ev7.html",
       "publishedAt": "2026-11-05T12:35:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama sur les terres de Wilt Chamberlain",
+      "url": "https://www.basketusa.com/news/954955/victor-wembanyama-saventure-sur-les-terres-de-wilt-chamberlain/",
+      "publishedAt": "2026-11-05T12:32:08+00:00"
     },
     {
       "source": "01net",
@@ -4781,12 +4787,6 @@
       "title": "DiscImageStudio - Un dessin gravé dans les données du disque",
       "url": "https://korben.info/discimagestudio-graver-image-cd-dvd-blu-ray.html",
       "publishedAt": "2026-11-04T04:25:15+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Gestionnaires de mots de passe : un outil indispensable pour renforcer sa cybersécurité",
-      "url": "https://www.generation-nt.com/actualites/gestionnaire-mots-passe-outil-indispensable-renforcer-cybersecurite-2083381",
-      "publishedAt": "2026-11-03T22:08:42+00:00"
     },
     {
       "source": "boulet",
