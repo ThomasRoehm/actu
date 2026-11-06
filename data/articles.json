@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T20:22:19.383683+00:00",
+  "generatedAt": "2026-11-06T20:31:27.707311+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "01net",
@@ -54,7 +54,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "presse",
@@ -65,7 +65,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "iphon",
@@ -76,7 +76,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "macg",
@@ -87,7 +87,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "mac4ever",
@@ -98,7 +98,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "korben",
@@ -109,7 +109,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -120,7 +120,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "basketusa",
@@ -131,7 +131,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "tda",
@@ -142,7 +142,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     },
     {
       "id": "boulet",
@@ -153,10 +153,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T20:22:19.383683+00:00"
+      "lastSuccessAt": "2026-11-06T20:31:27.707311+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "La mise à jour One UI 9 de Samsung provoque de sérieux bugs de connectivité",
+      "url": "https://www.generation-nt.com/actualites/samsung-galaxy-one-ui-9-bug-connectivite-wifi-sim-2084131",
+      "publishedAt": "2026-11-06T20:10:01+00:00"
+    },
     {
       "source": "jdg",
       "title": "Ce site recense plus de 600 films gratuits et légaux, de La Ligne verte à Dernier train pour Busan",
@@ -3858,12 +3864,6 @@
       "title": "Ubisoft serait sur les rangs pour reprendre Arkane Lyon après le sursis accordé par Xbox",
       "url": "https://www.clubic.com/actualite-637714-ubisoft-serait-sur-les-rangs-pour-reprendre-arkane-lyon-apres-le-sursis-accorde-par-xbox.html",
       "publishedAt": "2026-11-04T20:40:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Le Xiaomi Mix Flip chute à -68% : qui a dit que les smartphones pliants coûtaient une blinde ?",
-      "url": "https://www.01net.com/bons-plans/le-xiaomi-mix-flip-chute-a-68-qui-a-dit-que-les-smartphones-pliants-coutaient-une-blinde.html",
-      "publishedAt": "2026-11-04T20:23:50+00:00"
     },
     {
       "source": "boulet",
