@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T21:14:14.213228+00:00",
+  "generatedAt": "2026-11-06T21:57:43.008245+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "01net",
@@ -54,7 +54,7 @@
       "icon": "icons/01net.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "presse",
@@ -65,7 +65,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "iphon",
@@ -76,7 +76,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "macg",
@@ -87,7 +87,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "mac4ever",
@@ -98,7 +98,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "korben",
@@ -109,7 +109,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "apple-newsroom",
@@ -120,7 +120,7 @@
       "icon": "icons/apple-newsroom.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "basketusa",
@@ -131,7 +131,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "tda",
@@ -142,7 +142,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     },
     {
       "id": "boulet",
@@ -153,7 +153,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-06T21:14:14.213228+00:00"
+      "lastSuccessAt": "2026-11-06T21:57:43.008245+00:00"
     }
   ],
   "articles": [
@@ -740,6 +740,12 @@
       "publishedAt": "2026-11-06T14:15:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Josh Hart séduit par les grandes ambitions de Naples",
+      "url": "https://www.basketusa.com/news/955045/josh-hart-seduit-par-les-grandes-ambitions-de-naples/",
+      "publishedAt": "2026-11-06T14:13:12+00:00"
+    },
+    {
       "source": "01net",
       "title": "GoPro et DJI en sueur, la Insta360 X5 (8K, 360+, 185 min) est à quasi zéro marge",
       "url": "https://www.01net.com/bons-plans/gopro-et-dji-en-sueur-la-insta360-x5-8k-360-185-min-est-a-quasi-zero-marge.html",
@@ -864,12 +870,6 @@
       "title": "Le pillage des câbles de recharge aux bornes menace la transition électrique en France",
       "url": "https://www.generation-nt.com/actualites/borne-recharge-electrique-pillage-vol-cable-cuivre-2084113",
       "publishedAt": "2026-11-06T13:20:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Josh Hart séduit par les grandes ambitions de Naples",
-      "url": "https://www.basketusa.com/news/955045/josh-hart-seduit-par-les-grandes-ambitions-de-naples/",
-      "publishedAt": "2026-11-06T13:13:12+00:00"
     },
     {
       "source": "gnt",
@@ -1208,6 +1208,12 @@
       "publishedAt": "2026-11-06T10:48:41+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le nouveau costume de remplaçant de DeMar DeRozan",
+      "url": "https://www.basketusa.com/news/955149/le-nouveau-costume-de-remplacant-de-demar-derozan/",
+      "publishedAt": "2026-11-06T10:47:00+00:00"
+    },
+    {
       "source": "01net",
       "title": "Intel Core i9, SSD 2 To, RAM 16 Go : au prix fou de 230 €, ce PC portable se vend par camions 🚛",
       "url": "https://www.01net.com/bons-plans/intel-core-i9-ssd-2-to-ram-16-go-au-prix-fou-de-230-e-ce-pc-portable-se-vend-par-camions.html",
@@ -1370,12 +1376,6 @@
       "publishedAt": "2026-11-06T09:48:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le nouveau costume de remplaçant de DeMar DeRozan",
-      "url": "https://www.basketusa.com/news/955149/le-nouveau-costume-de-remplacant-de-demar-derozan/",
-      "publishedAt": "2026-11-06T09:47:00+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Discord abandonne enfin Electron pour reconstruire son application en Rust et réduire la RAM à 290 Mo",
       "url": "https://www.generation-nt.com/actualites/discord-abandonne-electron-rust-ram-2084038",
@@ -1496,12 +1496,6 @@
       "publishedAt": "2026-11-06T09:06:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Bronny James et Cameron Carr envoyés en G-League",
-      "url": "https://www.basketusa.com/news/955043/bronny-james-et-cameron-carr-envoyes-en-g-league/",
-      "publishedAt": "2026-11-06T09:05:32+00:00"
-    },
-    {
       "source": "gnt",
       "title": "948 failles Linux découvertes en 30 heures par le nouveau modèle d'OpenAI !",
       "url": "https://www.generation-nt.com/actualites/failles-linux-decouvertes-modele-openai-2084044",
@@ -1536,6 +1530,12 @@
       "title": "Apple TV bientôt diffuseur de la Ligue 1 ? Tout comprendre sur le nouvel appel d’offres",
       "url": "https://www.iphon.fr/post/apple-tv-bientot-diffuseur-de-la-ligue-1-tout-comprendre-sur-le-nouvel-appel-doffres",
       "publishedAt": "2026-11-06T09:00:30+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "C’est quoi ces « rabbit holes » dans lesquels TikTok enferme ses utilisateurs selon Bruxelles ?",
+      "url": "https://www.clubic.com/actualite-638170-cest-quoi-ces-rabbit-holes-dans-lesquels-tiktok-enferme-ses-utilisateurs-selon-bruxelles.html",
+      "publishedAt": "2026-11-06T09:00:00+00:00"
     },
     {
       "source": "presse",
@@ -1638,6 +1638,12 @@
       "title": "Instagram propose désormais un logiciel de montage vidéo gratuit sur Mac",
       "url": "https://www.mac4ever.com/mac/198893-instagram-propose-desormais-un-logiciel-de-montage-video-gratuit-sur-mac",
       "publishedAt": "2026-11-06T08:10:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Bronny James et Cameron Carr envoyés en G-League",
+      "url": "https://www.basketusa.com/news/955043/bronny-james-et-cameron-carr-envoyes-en-g-league/",
+      "publishedAt": "2026-11-06T08:05:32+00:00"
     },
     {
       "source": "presse",
@@ -3840,12 +3846,6 @@
       "title": "Les Sixers marquent leur territoire dans le choc face aux Pistons",
       "url": "https://www.basketusa.com/news/954782/les-sixers-marquent-leur-territoire-dans-le-choc-face-aux-pistons/",
       "publishedAt": "2026-11-05T05:17:05+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Siri AI : Apple supprime la liste d’attente… sauf quand il y a du monde",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/siri-ai-apple-supprime-la-liste-dattente-sauf-quand-il-y-du-monde-312173",
-      "publishedAt": "2026-11-04T21:40:00+00:00"
     },
     {
       "source": "boulet",
