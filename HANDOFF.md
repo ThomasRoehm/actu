@@ -26,7 +26,7 @@ Korben utilise le flux complet officiel `https://korben.info/feedfull`, recomman
 
 ## Dernières décisions d’interface
 
-- Police : DejaVu Sans Mono, versions normale et grasse hébergées dans `fonts/` avec leur licence, sans service externe.
+- Police : SF Mono Terminal / SF Mono si installée sur l’appareil ; DejaVu Sans Mono en secours, versions normale et grasse hébergées dans `fonts/` avec leur licence, sans service externe. Aucun fichier SF Mono n’est distribué avec le site.
 
 - Page sans titre introductif ni champ de recherche. Le titre du navigateur et le nom de l’application sont « Actualités ».
 - Titres des articles à 12 px sur mobile et ordinateur.
