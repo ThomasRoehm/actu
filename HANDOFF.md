@@ -12,7 +12,7 @@
 
 ## État fonctionnel
 
-- 14 sources d’actualités configurées dans `sources.json` et 27 séries dans `mangas.json`.
+- 12 sources d’actualités configurées dans `sources.json` et 27 séries dans `mangas.json`.
 - Catégories BD / Sport / Tech, dans cet ordre. Tech est sélectionné par défaut ; les onglets Tout et Local et le sélecteur Fr / Us ont été supprimés.
 - Tech et Sport : articles des dernières 48 heures.
 - Bouletcorp : dernière publication conservée quelle que soit sa date.
@@ -20,11 +20,13 @@
 - MangaKatana : dernier chapitre disponible de chaque série, avec date si connue ; les mangas restent visibles dans BD, mélangés aux autres publications et triés par date, avec regroupement par jour. Les dates inconnues sont affichées en dernier.
 - Next, Microsoft Blog, Macworld, TechCrunch, Digital Minimalist et NFL ont été retirés sur demande. Windows Experience Blog a également été retiré sur demande après des refus d’accès HTTP 403 depuis GitHub Actions. Les sources d’actualités restantes sont françaises.
 - Mangas retirés : Amano Megumi wa Suki Darake! et The Monstrous New Life of the Fallen Empire's Recruit.
-- Frandroid, BeBasket, The Verge, Maliki, NBA, Actu.fr Grand Bourgtheroulde et Le Monde ont été retirés sur demande : ne pas les réintroduire. Du code et des icônes historiques peuvent subsister sans être utilisés.
+- 01net, Apple Newsroom, Frandroid, BeBasket, The Verge, Maliki, NBA, Actu.fr Grand Bourgtheroulde et Le Monde ont été retirés sur demande : ne pas les réintroduire. Du code et des icônes historiques peuvent subsister sans être utilisés.
 
 Korben utilise le flux complet officiel `https://korben.info/feedfull`, recommandé sur sa page `/flux-rss/`. Le flux `/feed` (également accessible via `/feed.xml`) est limité aux articles « Techos » et omet les publications grand public récentes. La fenêtre de conservation reste de 48 heures.
 
 ## Dernières décisions d’interface
+
+- Menu Sources : aucun paragraphe explicatif au-dessus ou en dessous de la liste.
 
 - Police : SF Mono Terminal / SF Mono si installée sur l’appareil ; DejaVu Sans Mono en secours, versions normale et grasse hébergées dans `fonts/` avec leur licence, sans service externe. Aucun fichier SF Mono n’est distribué avec le site.
 
