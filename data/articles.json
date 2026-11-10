@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T21:16:39.842420+00:00",
+  "generatedAt": "2026-11-10T21:43:53.090259+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "jdg",
@@ -43,18 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
-    },
-    {
-      "id": "01net",
-      "name": "01net",
-      "url": "https://www.01net.com",
-      "group": "Tech",
-      "language": "fr",
-      "icon": "icons/01net.png",
-      "ok": true,
-      "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "presse",
@@ -65,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "iphon",
@@ -76,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "macg",
@@ -87,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "mac4ever",
@@ -98,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "korben",
@@ -109,18 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
-    },
-    {
-      "id": "apple-newsroom",
-      "name": "Apple Newsroom",
-      "url": "https://www.apple.com/fr/newsroom/",
-      "group": "Tech",
-      "language": "fr",
-      "icon": "icons/apple-newsroom.png",
-      "ok": true,
-      "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "basketusa",
@@ -131,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "tda",
@@ -142,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     },
     {
       "id": "boulet",
@@ -153,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-10T21:16:39.842420+00:00"
+      "lastSuccessAt": "2026-11-10T21:43:53.090259+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Scrooge : on a vu le film qui signe le retour de Johnny Depp au cinéma (avis sans spoiler)",
+      "url": "https://www.numerama.com/pop-culture/2370931-scrooge-on-a-vu-le-film-qui-signe-le-retour-de-johnny-depp-au-cinema-reussite-ou-grosse-cata.html",
+      "publishedAt": "2026-11-10T21:30:00+00:00"
+    },
     {
       "source": "tda",
       "title": "Josh Downs envoyé aux Chiefs",
@@ -174,12 +158,6 @@
       "title": "Disney et Skydance envisagent une offre pour les droits TV de la Ligue 1",
       "url": "https://www.clubic.com/actualite-638731-disney-et-skydance-envisagent-une-offre-pour-les-droits-tv-de-la-ligue-1.html",
       "publishedAt": "2026-11-10T20:15:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Le Xiaomi Mix Flip est à -70 % : il vient narguer l’iPhone Duo qui coûte un rein 😝",
-      "url": "https://www.01net.com/bons-plans/le-xiaomi-mix-flip-est-a-67-il-fait-un-enorme-barrage-aux-iphone-duo.html",
-      "publishedAt": "2026-11-10T20:12:57+00:00"
     },
     {
       "source": "jdg",
@@ -206,12 +184,6 @@
       "publishedAt": "2026-11-10T19:32:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Nintendo marave Sony : à prix éclaté, la Switch 2 met KO la PS5 trop chère 🥊",
-      "url": "https://www.01net.com/bons-plans/nintendo-marave-sony-a-prix-eclate-la-switch-2-met-ko-la-ps5-trop-chere.html",
-      "publishedAt": "2026-11-10T19:22:36+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Un mystérieux monolithe noir espionne les passants au cœur de Madrid",
       "url": "https://www.generation-nt.com/actualites/triangle-noir-surveillance-madrid-2084216",
@@ -228,12 +200,6 @@
       "title": "Keenan Allen transféré aux 49ers",
       "url": "https://touchdownactu.com/361213/keenan-allen-transfere-aux-49ers/",
       "publishedAt": "2026-11-10T18:56:36+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "“Ceci n’est pas un iPhone” : le Honor 600 Po à -45% fait un carnage 😱",
-      "url": "https://www.01net.com/bons-plans/ceci-nest-pas-un-iphone-le-honor-600-po-a-45-fait-un-carnage.html",
-      "publishedAt": "2026-11-10T18:56:12+00:00"
     },
     {
       "source": "basketusa",
@@ -296,12 +262,6 @@
       "publishedAt": "2026-11-10T17:59:59+00:00"
     },
     {
-      "source": "01net",
-      "title": "Garmin Forerunner 265 : même en rêve on ne l’a pas vue à un prix aussi bas (-51%) 😱",
-      "url": "https://www.01net.com/bons-plans/garmin-forerunner-265-meme-en-reve-on-ne-la-pas-vue-a-un-prix-aussi-bas-51.html",
-      "publishedAt": "2026-11-10T17:56:08+00:00"
-    },
-    {
       "source": "clubic",
       "title": "GTA 6 : incroyable, déjà près de 10 millions de précommandes pour le jeu !",
       "url": "https://www.clubic.com/actualite-638719-gta-6-incroyable-deja-pres-de-10-millions-de-precommandes-pour-le-jeu.html",
@@ -312,12 +272,6 @@
       "title": "Gemini 4 Carbon : Google lève les contraintes de disponibilité",
       "url": "https://www.generation-nt.com/actualites/gemini-4-carbon-modele-disponibilite-google-2084298",
       "publishedAt": "2026-11-10T17:50:01+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Xiaomi n’a pas froid aux yeux : le Xiaomi 17T est à -55% pour doper les ventes 🧨",
-      "url": "https://www.01net.com/bons-plans/xiaomi-na-pas-froid-aux-yeux-le-xiaomi-17t-est-a-55-pour-doper-les-ventes.html",
-      "publishedAt": "2026-11-10T17:45:21+00:00"
     },
     {
       "source": "basketusa",
@@ -350,18 +304,6 @@
       "publishedAt": "2026-11-10T17:19:22+00:00"
     },
     {
-      "source": "01net",
-      "title": "Garmin Edge 540 : mettez le réveil, à minuit le compteur vélo GPS passe à 58% ⏰",
-      "url": "https://www.01net.com/bons-plans/garmin-edge-540-mettez-le-reveil-a-minuit-le-compteur-velo-gps-passe-a-58.html",
-      "publishedAt": "2026-11-10T17:17:36+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "“Désolé si vous l’avez déjà acheté” : le Shokz OpenRun Pro 2 est à -51% 💥",
-      "url": "https://www.01net.com/bons-plans/desole-si-vous-lavez-deja-achete-le-shokz-openrun-pro-2-est-a-51.html",
-      "publishedAt": "2026-11-10T17:17:11+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Black Friday 2026 : les meilleures offres disponibles chez Amazon, Fnac, Boulanger ce mardi",
       "url": "https://www.numerama.com/tech/2363357-black-friday-2026-plus-de-50-offres-17-jours-avant-le-jour-j-notre-live-tourne-a-plein-regime-ce-mardi.html",
@@ -372,12 +314,6 @@
       "title": "Un nouvel Éditeur du Registre pour Windows 11 ?",
       "url": "https://www.generation-nt.com/actualites/windows-11-editeur-registre-microsoft-regedit-2084251",
       "publishedAt": "2026-11-10T17:10:01+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Ceux qui l’ont déjà acheté sont fâchés : le Honor 400 à -42% fait fureur 😱",
-      "url": "https://www.01net.com/bons-plans/le-honor-400-en-512-go-est-moins-cher-que-le-256-go-desole-si-vous-lavez-deja-achete.html",
-      "publishedAt": "2026-11-10T17:09:49+00:00"
     },
     {
       "source": "numerama",
@@ -404,12 +340,6 @@
       "publishedAt": "2026-11-10T17:01:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Mercedes cède son réseau de recharge rapide à un géant français pour près de 100 millions d’euros",
-      "url": "https://www.01net.com/actualites/mercedes-cede-reseau-recharge-rapide-geant-francais-100-millions-euros.html",
-      "publishedAt": "2026-11-10T17:00:58+00:00"
-    },
-    {
       "source": "presse",
       "title": "Face à la menace grandissante, la France commande 2 redoutables satellites espions : tout savoir sur IRIS",
       "url": "https://www.presse-citron.net/face-a-la-menace-grandissante-la-france-commande-2-redoutables-satellites-espions-tout-savoir-sur-iris/",
@@ -420,12 +350,6 @@
       "title": "Singles Day 2026 : AliExpress et Joybuy multiplient les bons plans, voici notre sélection",
       "url": "https://www.numerama.com/tech/2365399-singles-day-2026-aliexpress-et-joybuy-multiplient-les-bons-plans-voici-notre-selection.html",
       "publishedAt": "2026-11-10T16:55:58+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Huawei Watch GT 6 Pro : à ce prix, c’est la rupture imminente qui l’attend (-51%)",
-      "url": "https://www.01net.com/bons-plans/watch-gt-6-pro-rupture-imminente-pour-cette-montre-huawei-a-54-pour-la-premiere-fois.html",
-      "publishedAt": "2026-11-10T16:55:16+00:00"
     },
     {
       "source": "clubic",
@@ -488,12 +412,6 @@
       "publishedAt": "2026-11-10T16:29:25+00:00"
     },
     {
-      "source": "01net",
-      "title": "Google dévoile Gemini 4 Carbon, l’IA qui veut repousser les limites de l’IA",
-      "url": "https://www.01net.com/actualites/google-devoile-gemini-4-carbon-lia-qui-veut-repousser-les-limites-de-lia.html",
-      "publishedAt": "2026-11-10T16:26:06+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Les cyclistes avec Garmin sont maintenant visibles sur Waze",
       "url": "https://www.generation-nt.com/actualites/waze-garmin-securite-cycliste-livetrack-alerte-2084292",
@@ -524,22 +442,10 @@
       "publishedAt": "2026-11-10T16:10:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Dernier né de la gamme, le Tineco Floor One S9 Master se retrouve déjà à -48%",
-      "url": "https://www.01net.com/bons-plans/dernier-ne-de-la-gamme-le-tineco-floor-one-s9-master-se-retrouve-deja-a-quasi-40.html",
-      "publishedAt": "2026-11-10T16:05:17+00:00"
-    },
-    {
       "source": "basketusa",
       "title": "Mike Brown, l’alchimiste des Knicks",
       "url": "https://www.basketusa.com/news/956404/mike-brown-lalchimiste-des-knicks/",
       "publishedAt": "2026-11-10T16:04:13+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Scandale chez Nvidia : Trump défend Jensen Huang, Pékin dément et le FBI s’en mêle… les dernières infos",
-      "url": "https://www.01net.com/actualites/scandale-chez-nvidia-trump-defend-jensen-huang-pekin-dement-et-le-fbi-sen-mele-les-dernieres-infos.html",
-      "publishedAt": "2026-11-10T16:01:52+00:00"
     },
     {
       "source": "gnt",
@@ -590,12 +496,6 @@
       "publishedAt": "2026-11-10T15:41:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Folie absolue : la Garmin Forerunner 255 à prix “peanuts”, moins cher que l’occasion 🥜",
-      "url": "https://www.01net.com/bons-plans/folie-absolue-la-garmin-forerunner-255-a-prix-peanuts-moins-cher-que-loccasion.html",
-      "publishedAt": "2026-11-10T15:40:27+00:00"
-    },
-    {
       "source": "macg",
       "title": "GTA VI sera accessible en streaming mais pas sur Mac, PC ou iPhone",
       "url": "https://www.macg.co/ailleurs/2026/11/gta-vi-sera-accessible-en-streaming-mais-pas-sur-mac-pc-ou-iphone-312305",
@@ -614,12 +514,6 @@
       "publishedAt": "2026-11-10T15:35:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Erreur de prix ou folie : la Xiaomi Pad 7 s’écroule à un prix ridicule sans l’ombre d’une explication",
-      "url": "https://www.01net.com/bons-plans/erreur-de-prix-ou-folie-la-xiaomi-pad-7-secroule-a-un-prix-ridicule-sans-lombre-dune-explication.html",
-      "publishedAt": "2026-11-10T15:30:08+00:00"
-    },
-    {
       "source": "basketusa",
       "title": "Les Celtics découvrent enfin l’effet Mitchell Robinson",
       "url": "https://www.basketusa.com/news/956163/les-celtics-decouvrent-enfin-leffet-mitchell-robinson/",
@@ -630,12 +524,6 @@
       "title": "Le futur fondeur Rapidus accuse un retard critique sur la gravure 2 nm, c'est mal parti pour concurrencer TSMC",
       "url": "https://www.generation-nt.com/actualites/rapidus-fondeur-gravure-2-nm-retard-production-2084271",
       "publishedAt": "2026-11-10T15:25:01+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "DJI fait -40% sur l’Osmo Action 6, mais il y a une petite astuce à connaitre 🎥",
-      "url": "https://www.01net.com/bons-plans/dji-fait-40-sur-losmo-action-6-mais-il-y-a-une-petite-astuce-a-connaitre.html",
-      "publishedAt": "2026-11-10T15:25:00+00:00"
     },
     {
       "source": "numerama",
@@ -690,12 +578,6 @@
       "title": "[Podcast] Debrief S9 : Myles Garrett, sauveur des Rams",
       "url": "https://touchdownactu.com/361179/podcast-debrief-s9-myles-garrett-sauveur-des-rams/",
       "publishedAt": "2026-11-10T15:00:31+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Louer votre PC à l’IA quand vous n’y jouez pas : Microsoft a de la suite dans les idées",
-      "url": "https://www.01net.com/actualites/louer-votre-pc-a-lia-quand-vous-ny-jouez-pas-microsoft-a-de-la-suite-dans-les-idees.html",
-      "publishedAt": "2026-11-10T15:00:08+00:00"
     },
     {
       "source": "clubic",
@@ -860,12 +742,6 @@
       "publishedAt": "2026-11-10T14:00:04+00:00"
     },
     {
-      "source": "01net",
-      "title": "Volkswagen déploie une mise à jour qui accélère la recharge des voitures électriques… mais restreint l’autonomie",
-      "url": "https://www.01net.com/actualites/volkswagen-deploie-modeles-electriques-mise-a-jour-accelere-recharge-mais-restreint-autonomie.html",
-      "publishedAt": "2026-11-10T14:00:02+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Adobe ouvre enfin Photoshop et Premiere à ChatGPT et Claude, et ça change tout",
       "url": "https://www.clubic.com/actualite-638503-adobe-ouvre-enfin-photoshop-et-premiere-a-chatgpt-et-claude-et-ca-change-tout.html",
@@ -906,12 +782,6 @@
       "title": "Uber lance Uber Parking et pense déjà à garer ses robotaxis",
       "url": "https://www.mac4ever.com/auto/198956-uber-lance-uber-parking-et-pense-deja-a-garer-ses-robotaxis",
       "publishedAt": "2026-11-10T13:40:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Avec leurs trois arrières, les Spurs libèrent Victor Wembanyama",
-      "url": "https://www.basketusa.com/news/956358/avec-leurs-trois-arrieres-les-spurs-liberent-victor-wembanyama/",
-      "publishedAt": "2026-11-10T13:35:38+00:00"
     },
     {
       "source": "korben",
@@ -962,12 +832,6 @@
       "publishedAt": "2026-11-10T13:01:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Le nouveau Claude a un gros problème : l’IA d’Anthropic est beaucoup plus facile à piéger",
-      "url": "https://www.01net.com/actualites/le-nouveau-claude-a-un-gros-probleme-lia-danthropic-est-beaucoup-plus-facile-a-pieger.html",
-      "publishedAt": "2026-11-10T13:00:16+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Diamond Foundry dévoile un wafer de diamant de 200 mm pour refroidir les puces IA",
       "url": "https://www.generation-nt.com/actualites/wafer-diamant-200mm-refroidissement-ia-2084214",
@@ -1016,10 +880,10 @@
       "publishedAt": "2026-11-10T12:36:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Sony ressort son mythique casque Walkman, avec une nouveauté",
-      "url": "https://www.01net.com/actualites/sony-ressort-son-mythique-casque-walkman-avec-une-nouveaute.html",
-      "publishedAt": "2026-11-10T12:34:25+00:00"
+      "source": "basketusa",
+      "title": "Avec leurs trois arrières, les Spurs libèrent Victor Wembanyama",
+      "url": "https://www.basketusa.com/news/956358/avec-leurs-trois-arrieres-les-spurs-liberent-victor-wembanyama/",
+      "publishedAt": "2026-11-10T12:35:38+00:00"
     },
     {
       "source": "clubic",
@@ -1136,22 +1000,10 @@
       "publishedAt": "2026-11-10T11:29:58+00:00"
     },
     {
-      "source": "01net",
-      "title": "VPN gratuit : 3 idées reçues que le VPN d’Avast fait voler en éclats",
-      "url": "https://www.01net.com/bons-plans/vpn-gratuit-3-idees-recues-que-le-vpn-davast-fait-voler-en-eclats.html",
-      "publishedAt": "2026-11-10T11:29:25+00:00"
-    },
-    {
       "source": "presse",
       "title": "Après les réseaux sociaux, c’est l’IA : Emmanuel Macron prêt à interdire l’intelligence artificielle chez les enfants quand il y a un risque",
       "url": "https://www.presse-citron.net/apres-les-reseaux-sociaux-cest-lia-emmanuel-macron-pret-a-interdire-lintelligence-artificielle-chez-les-enfants-quand-il-y-a-un-risque/",
       "publishedAt": "2026-11-10T11:29:10+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Orange annonce une app gratuite tout-en-un qui permet de discuter avec ChatGPT, Claude ou Gemini",
-      "url": "https://www.01net.com/actualites/orange-annonce-une-app-gratuite-tout-en-un-qui-permet-de-discuter-avec-chatgpt-claude-ou-gemini.html",
-      "publishedAt": "2026-11-10T11:28:16+00:00"
     },
     {
       "source": "clubic",
@@ -1214,22 +1066,10 @@
       "publishedAt": "2026-11-10T11:03:30+00:00"
     },
     {
-      "source": "01net",
-      "title": "L’iPhone 18 et l’iPhone 18e auraient plus de points communs que prévu : pourquoi c’est une (très) bonne nouvelle",
-      "url": "https://www.01net.com/actualites/liphone-18-et-liphone-18e-auraient-plus-de-points-communs-que-prevu-pourquoi-cest-une-tres-bonne-nouvelle.html",
-      "publishedAt": "2026-11-10T11:01:01+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Cette mairie déclare la guerre aux affiches générées par IA",
       "url": "https://www.journaldugeek.com/2026/11/10/cette-mairie-declare-la-guerre-aux-affiches-generees-par-ia/",
       "publishedAt": "2026-11-10T11:00:29+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Microsoft publie une mise à jour surprise pour Outlook classique",
-      "url": "https://www.01net.com/actualites/microsoft-publie-une-mise-a-jour-surprise-pour-outlook-classique.html",
-      "publishedAt": "2026-11-10T10:58:44+00:00"
     },
     {
       "source": "basketusa",
@@ -1292,22 +1132,10 @@
       "publishedAt": "2026-11-10T10:42:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "L’iPhone Air 2 changerait de design : voici à quoi il pourrait ressembler",
-      "url": "https://www.01net.com/actualites/iphone-air-2-changerait-design-voici-quoi-il-pourrait-ressembler.html",
-      "publishedAt": "2026-11-10T10:39:50+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Pennylane en panne ? Le numéro 1 de la facturation électronique rencontre des problèmes aujourd'hui",
       "url": "https://www.clubic.com/actualite-638593-pennylane-en-panne-le-numero-1-de-la-facturation-electronique-rencontre-des-problemes-ce-mardi-matin.html",
       "publishedAt": "2026-11-10T10:38:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "164 395 dollars par an et une base sur la Lune : la NASA recrute ses futurs astronautes, mais pas n’importe qui",
-      "url": "https://www.01net.com/actualites/164-395-dollars-par-an-et-une-base-sur-la-lune-la-nasa-recrute-ses-futurs-astronautes-mais-pas-nimporte-qui.html",
-      "publishedAt": "2026-11-10T10:32:41+00:00"
     },
     {
       "source": "basketusa",
@@ -1364,12 +1192,6 @@
       "publishedAt": "2026-11-10T10:17:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "01net Awards 2026 : votez pour élire les meilleurs produits tech de l’année !",
-      "url": "https://www.01net.com/actualites/01net-awards-2026-votez-pour-elire-les-meilleurs-produits-tech-de-lannee.html",
-      "publishedAt": "2026-11-10T10:14:30+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "La batterie Anker bradée pour le Black Friday : le meilleur modèle 2026 au meilleur prix ! !",
       "url": "https://www.mac4ever.com/iphone/198950-la-batterie-anker-bradee-pour-le-black-friday-le-meilleur-modele-2026-au-meilleur-prix",
@@ -1392,12 +1214,6 @@
       "title": "Pré-Black Friday Amazon : 5 mini PC en promotion jusqu’à -32%, dès 197,16€",
       "url": "https://www.clubic.com/bons-plans-638575-pre-black-friday-amazon-5-mini-pc-en-promotion-jusqu-a--32-des-197-16.html",
       "publishedAt": "2026-11-10T10:01:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Emmanuel Macron fait signer un engagement international aux rois de l’IA",
-      "url": "https://www.01net.com/actualites/emmanuel-macron-fait-signer-un-engagement-international-aux-rois-de-lia.html",
-      "publishedAt": "2026-11-10T10:00:20+00:00"
     },
     {
       "source": "jdg",
@@ -1496,12 +1312,6 @@
       "publishedAt": "2026-11-10T09:34:14+00:00"
     },
     {
-      "source": "01net",
-      "title": "Robot aspirateur ou aspirateur laveur : lequel choisir pour garder un logement toujours propre ?",
-      "url": "https://www.01net.com/actualites/robot-aspirateur-ou-aspirateur-laveur-lequel-choisir-pour-garder-un-logement-toujours-propre.html",
-      "publishedAt": "2026-11-10T09:33:37+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Cette IA a créé un tout nouveau système d’exploitation en 8 jours : Anthropic lance Claude Fable et Mythos 5.2 pour mieux dominer l’intelligence artificielle",
       "url": "https://www.journaldugeek.com/2026/11/10/ia-nouveau-systeme-exploitation-anthropic-claude-fable-mythos/",
@@ -1568,22 +1378,10 @@
       "publishedAt": "2026-11-10T09:06:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Samsung Galaxy S27, S27+, S27 Pro et S27 Ultra : les configurations photo fuitent et déçoivent déjà",
-      "url": "https://www.01net.com/actualites/samsung-galaxy-s27-plus-pro-ultra-configurations-photo-fuitent-decoivent-deja.html",
-      "publishedAt": "2026-11-10T09:03:04+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Après le piratage des supermarchés, votre frigo peut-il être pris pour cible ?",
       "url": "https://www.journaldugeek.com/2026/11/10/apres-le-piratage-des-supermarches-votre-frigo-peut-il-etre-pris-pour-cible/",
       "publishedAt": "2026-11-10T09:00:39+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Installez vite iOS 27.2.1 : Apple colmate des failles dans iMessage et le Bluetooth de votre iPhone",
-      "url": "https://www.01net.com/actualites/installez-vite-ios-27-2-1-apple-colmate-des-failles-dans-imessage-bluetooth-iphone.html",
-      "publishedAt": "2026-11-10T09:00:25+00:00"
     },
     {
       "source": "presse",
@@ -1602,12 +1400,6 @@
       "title": "Free Mobile, c'est bientôt fini ! La fusion avec Free se fera le 1er décembre, l'opérateur s'explique",
       "url": "https://www.clubic.com/actualite-638542-free-mobile-c-est-bientot-fini-la-fusion-avec-free-se-fera-le-1er-decembre-l-operateur-s-explique.html",
       "publishedAt": "2026-11-10T08:55:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Facebook, Instagram, Threads : Meta déploie la vérification d’âge par IA dans le monde entier",
-      "url": "https://www.01net.com/actualites/facebook-instagram-threads-meta-deploie-la-verification-dage-par-ia-dans-le-monde-entier.html",
-      "publishedAt": "2026-11-10T08:52:49+00:00"
     },
     {
       "source": "clubic",
@@ -1706,12 +1498,6 @@
       "publishedAt": "2026-11-10T08:00:24+00:00"
     },
     {
-      "source": "01net",
-      "title": "Un design de soucoupe volante et intérieur mécatronique : Polestar dévoile son spectaculaire concept Formula 2030",
-      "url": "https://www.01net.com/actualites/style-soucoupe-volante-interieur-mecatronique-polestar-devoile-spectaculaire-concept-formula-2030.html",
-      "publishedAt": "2026-11-10T08:00:13+00:00"
-    },
-    {
       "source": "presse",
       "title": "Les feux de cheminée interdits en France : ces zones très peuplées se sont lancées",
       "url": "https://www.presse-citron.net/les-feux-de-cheminee-interdits-en-france-ces-zones-tres-peuplees-se-sont-lancees/",
@@ -1808,18 +1594,6 @@
       "publishedAt": "2026-11-10T07:10:21+00:00"
     },
     {
-      "source": "01net",
-      "title": "iPhone Duo : Apple aurait trouvé pourquoi certains écrans se fissurent",
-      "url": "https://www.01net.com/actualites/iphone-duo-apple-aurait-trouve-pourquoi-certains-ecrans-se-fissurent.html",
-      "publishedAt": "2026-11-10T07:09:40+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Samsung gaffe et vend le Galaxy S25 FE 256 Go moins cher qu’un Galaxy A37 en 128 Go 😱",
-      "url": "https://www.01net.com/bons-plans/samsung-gaffe-et-vend-le-galaxy-s25-fe-256-go-moins-cher-quun-galaxy-a37-en-128-go.html",
-      "publishedAt": "2026-11-10T07:07:45+00:00"
-    },
-    {
       "source": "presse",
       "title": "Les scientifiques sont formels : l’Espagne et le Portugal sont en train de tourner sur eux-mêmes",
       "url": "https://www.presse-citron.net/les-scientifiques-sont-formels-lespagne-et-le-portugal-sont-en-train-de-tourner-sur-eux-memes/",
@@ -1836,12 +1610,6 @@
       "title": "Puka Nacua vers la liste des blessés ! Les 11 infos NFL du mardi",
       "url": "https://touchdownactu.com/361140/puka-nacua-vers-la-liste-des-blesses-les-11-infos-nfl-du-mardi/",
       "publishedAt": "2026-11-10T07:03:49+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Test du Xiaomi Redmi Note 17 5G : c’est la grande dépression",
-      "url": "https://www.01net.com/tests/test-xiaomi-redmi-note-17-5g-avis.html",
-      "publishedAt": "2026-11-10T07:03:40+00:00"
     },
     {
       "source": "jdg",
@@ -1890,12 +1658,6 @@
       "title": "Platypus - L'ornithorynque qui vous fait cligner des yeux",
       "url": "https://korben.info/platypus-cligner-des-yeux-ecran.html",
       "publishedAt": "2026-11-10T06:49:52+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "L’Europe s’attaque à l’algorithme de TikTok : votre fil « Pour toi » pourrait changer radicalement",
-      "url": "https://www.01net.com/actualites/leurope-sattaque-a-lalgorithme-de-tiktok-votre-fil-pour-toi-pourrait-changer-radicalement.html",
-      "publishedAt": "2026-11-10T06:36:59+00:00"
     },
     {
       "source": "presse",
@@ -1988,12 +1750,6 @@
       "publishedAt": "2026-11-10T06:00:51+00:00"
     },
     {
-      "source": "01net",
-      "title": "BYD lance un SUV électrique tellement lourd qu’il nécessiterait le permis poids-lourd en Europe",
-      "url": "https://www.01net.com/actualites/byd-lance-suv-electrique-tellement-lourd-necessiterait-permis-poids-lourd-europe.html",
-      "publishedAt": "2026-11-10T06:00:10+00:00"
-    },
-    {
       "source": "tda",
       "title": "Vikings – Bills (6-23) : Josh Allen et son attaque se sortent du piège défensif",
       "url": "https://touchdownactu.com/361182/vikings-bills-6-23-josh-allen-et-son-attaque-se-sortent-du-piege-defensif/",
@@ -2040,12 +1796,6 @@
       "title": "Starlink V4 veut remplacer les câbles Internet sous-marins avec 100 000 satellites",
       "url": "https://www.generation-nt.com/actualites/starlink-remplacer-cables-sous-marins-2084191",
       "publishedAt": "2026-11-10T05:30:01+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "31 ans d’agacement : Windows 11 teste une option pour faire taire les touches rémanentes",
-      "url": "https://www.01net.com/actualites/31-ans-dagacement-windows-11-teste-une-option-pour-faire-taire-les-touches-remanentes.html",
-      "publishedAt": "2026-11-10T05:28:26+00:00"
     },
     {
       "source": "basketusa",
@@ -2138,12 +1888,6 @@
       "publishedAt": "2026-11-09T20:34:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Batterie 10 001 mAh, charge 80W, écran AMOLED 144 Hz… ce realme est une FOLIE (et son prix aussi)",
-      "url": "https://www.01net.com/bons-plans/batterie-10-001-mah-charge-80w-ecran-amoled-144-hz-ce-realme-est-une-folie-et-son-prix-aussi.html",
-      "publishedAt": "2026-11-09T20:30:51+00:00"
-    },
-    {
       "source": "presse",
       "title": "“Sabotage sur le territoire national” : la France révèle l’auteur de la cyberattaque qui a touché 700 supermarchés en octobre",
       "url": "https://www.presse-citron.net/sabotage-france-auteur-cyberattaque-supermarches/",
@@ -2208,12 +1952,6 @@
       "title": "Quand arrive la saison 3 de Loups Garous sur Canal+ ?",
       "url": "https://www.journaldugeek.com/2026/11/09/quand-arrive-la-saison-3-de-loups-garous-sur-canal/",
       "publishedAt": "2026-11-09T18:45:35+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "“Adieu la marge” : Xiaomi vend le Mix Flip pour une fraction de son prix : -69% quand même !",
-      "url": "https://www.01net.com/bons-plans/adieu-la-marge-xiaomi-vend-le-mix-flip-pour-une-fraction-de-son-prix-67-quand-meme.html",
-      "publishedAt": "2026-11-09T18:44:53+00:00"
     },
     {
       "source": "gnt",
@@ -2312,12 +2050,6 @@
       "publishedAt": "2026-11-09T17:40:01+00:00"
     },
     {
-      "source": "01net",
-      "title": "Anthropic utiliserait du gaz naturel pour alimenter Claude…et ça risque de faire débat",
-      "url": "https://www.01net.com/actualites/anthropic-utiliserait-du-gaz-naturel-pour-alimenter-claude-et-ca-risque-de-faire-debat.html",
-      "publishedAt": "2026-11-09T17:32:49+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Mass Effect 5 peut être sauvé, mais il faudra y mettre le prix (et ce n’est pas donné)",
       "url": "https://www.journaldugeek.com/2026/11/09/mass-effect-5-budget-sauver/",
@@ -2370,12 +2102,6 @@
       "title": "Après les entrepôts, Amazon vise votre salon : l’entreprise relance discrètement ses projets de robots domestiques",
       "url": "https://www.presse-citron.net/apres-les-entrepots-amazon-vise-votre-salon-lentreprise-relance-discretement-ses-projets-de-robots-domestiques/",
       "publishedAt": "2026-11-09T17:02:31+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Cyberattaques contre les supermarchés : la France pense avoir démasqué les coupables",
-      "url": "https://www.01net.com/actualites/cyberattaques-contre-supermarches-france-demasque-coupables.html",
-      "publishedAt": "2026-11-09T17:01:35+00:00"
     },
     {
       "source": "clubic",
@@ -2444,12 +2170,6 @@
       "publishedAt": "2026-11-09T16:30:59+00:00"
     },
     {
-      "source": "01net",
-      "title": "Binance ferme les comptes français : retirez vos cryptos pour éviter des frais",
-      "url": "https://www.01net.com/actualites/binance-ferme-comptes-francais-retirez-cryptos-eviter-frais.html",
-      "publishedAt": "2026-11-09T16:30:13+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Hisense UR9S et UR8S : avec le RGB Mini-LED, la TV grimpe à 5 000 nits et défie l’OLED",
       "url": "https://www.clubic.com/actualite-635602-hisense-ur9s-et-ur8s-avec-le-rgb-mini-led-la-tv-grimpe-a-5-000-nits-et-defie-l-oled.html",
@@ -2496,12 +2216,6 @@
       "title": "Black Friday Amazon : voici le top 30 des meilleures offres pré-Black Friday de la semaine",
       "url": "https://www.clubic.com/bons-plans-638020-black-friday-amazon-voici-le-top-20-des-offres-pre-black-friday-du-week-end.html",
       "publishedAt": "2026-11-09T16:06:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "GTA 6 : une fuite dévoile le nombre de trophées, dix jours avant la sortie",
-      "url": "https://www.01net.com/actualites/gta-6-une-fuite-devoile-le-nombre-de-trophees-dix-jours-avant-la-sortie.html",
-      "publishedAt": "2026-11-09T16:05:12+00:00"
     },
     {
       "source": "jdg",
@@ -2574,12 +2288,6 @@
       "title": "Cette carte graphique GeForce RTX 3060 Ti voit son prix fondre de 60€ durant le 11.11 d’AliExpress",
       "url": "https://www.clubic.com/bons-plans-638458-cette-carte-graphique-geforce-rtx-3060-ti-voit-son-prix-fondre-de-60-durant-le-11-11-d-aliexpress.html",
       "publishedAt": "2026-11-09T15:46:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Une faille VPN exploitée fait sauter la double authentification : votre VPN perso n’est pas visé",
-      "url": "https://www.01net.com/bons-plans/une-faille-vpn-exploitee-fait-sauter-la-double-authentification-votre-vpn-perso-nest-pas-vise.html",
-      "publishedAt": "2026-11-09T15:44:48+00:00"
     },
     {
       "source": "korben",
@@ -2738,12 +2446,6 @@
       "publishedAt": "2026-11-09T15:02:39+00:00"
     },
     {
-      "source": "01net",
-      "title": "Siri AI devrait changer en 2027 : chez Apple, l’IA divise déjà la direction",
-      "url": "https://www.01net.com/actualites/chez-apple-ia-divise-deja-direction-siri-ai-beaucoup-changer-2027.html",
-      "publishedAt": "2026-11-09T15:00:15+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Spécial Black Friday : Darty lance un pack exclusif Xiaomi 17T (avec écouteurs et tracker) à 599 €",
       "url": "https://www.generation-nt.com/actualites/smartphone-xiaomi-17t-tag-tracker-bluetooth-ecouteurs-redmi-buds-8-lite-pas-cher-darty-black-friday-2084201",
@@ -2864,12 +2566,6 @@
       "publishedAt": "2026-11-09T14:06:51+00:00"
     },
     {
-      "source": "01net",
-      "title": "Cinq ans après l’AirTag, Google ajoute enfin l’alerte qui vous évite d’oublier vos affaires",
-      "url": "https://www.01net.com/actualites/cinq-ans-apres-lairtag-google-ajoute-enfin-lalerte-qui-vous-evite-doublier-vos-affaires.html",
-      "publishedAt": "2026-11-09T14:04:49+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Il fait tourner une IA avec 2 800 milliards de paramètres sans GPU, mais sa RAM surchauffe",
       "url": "https://www.clubic.com/actualite-638395-il-fait-tourner-une-ia-avec-2-800-milliards-de-parametres-sans-gpu-mais-sa-ram-surchauffe.html",
@@ -2922,12 +2618,6 @@
       "title": "Voici les 5 meilleures séries de tous les temps : ce classement met tout le monde d’accord",
       "url": "https://www.presse-citron.net/voici-les-5-meilleures-series-de-tous-les-temps-ce-classement-met-tout-le-monde-daccord/",
       "publishedAt": "2026-11-09T13:45:09+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Mieux qu’un deal Black Friday : le Ryzen 7 7800X3D cédé à un prix complètement fou (-53%)",
-      "url": "https://www.01net.com/bons-plans/mieux-quun-deal-black-friday-le-ryzen-7-7800x3d-cede-a-un-prix-completement-fou-53.html",
-      "publishedAt": "2026-11-09T13:44:24+00:00"
     },
     {
       "source": "basketusa",
@@ -3026,12 +2716,6 @@
       "publishedAt": "2026-11-09T13:01:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Bornes d’arcade paralysées au Japon : une cyberattaque contre Sega prive les joueurs de plusieurs jeux",
-      "url": "https://www.01net.com/actualites/bornes-arcade-paralysees-japon-cyberattaque-contre-sega-prive-joueurs-mario-kart.html",
-      "publishedAt": "2026-11-09T13:00:52+00:00"
-    },
-    {
       "source": "basketusa",
       "title": "Nolan Traoré doit encore gagner sa place dans le money-time",
       "url": "https://www.basketusa.com/news/955766/nolan-traore-doit-encore-gagner-sa-place-dans-le-money-time/",
@@ -3042,12 +2726,6 @@
       "title": "Pourquoi Jensen Huang a avoué son adultère en pleine affaire d'espionnage chez NVIDIA, selon un expert",
       "url": "https://www.clubic.com/actualite-638377-pourquoi-jensen-huang-a-avoue-son-adultere-en-pleine-affaire-d-espionnage-chez-nvidia-selon-un-expert.html",
       "publishedAt": "2026-11-09T12:51:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Test Huawei Watch D3 : la montre connectée qui prend votre tension artérielle au sérieux",
-      "url": "https://www.01net.com/tests/test-huawei-watch-d3-avis.html",
-      "publishedAt": "2026-11-09T12:50:28+00:00"
     },
     {
       "source": "iphon",
@@ -3074,12 +2752,6 @@
       "publishedAt": "2026-11-09T12:42:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Redmi Note 15 Pro+ 512 Go : le best-seller de Xiaomi en prend pour son grade ce lundi (-48%)",
-      "url": "https://www.01net.com/bons-plans/redmi-note-15-pro-512-go-le-best-seller-de-xiaomi-en-prend-pour-son-grade-ce-lundi-48.html",
-      "publishedAt": "2026-11-09T12:41:32+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Un homelabber fait tourner un modèle IA de 2 800 milliards de paramètres sur de la mémoire Optane",
       "url": "https://www.generation-nt.com/actualites/optane-ia-modele-geant-2084154",
@@ -3090,12 +2762,6 @@
       "title": "Le gouvernement annonce la deuxième plus forte hausse du SMIC en 20 ans",
       "url": "https://www.presse-citron.net/le-gouvernement-annonce-la-deuxieme-plus-forte-hausse-du-smic-en-20-ans/",
       "publishedAt": "2026-11-09T12:38:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Sony dévoile un nouveau PlayStation Portal, avec plus de mémoire",
-      "url": "https://www.01net.com/actualites/sony-devoile-un-nouveau-playstation-portal-avec-plus-de-memoire.html",
-      "publishedAt": "2026-11-09T12:33:47+00:00"
     },
     {
       "source": "numerama",
@@ -3140,12 +2806,6 @@
       "publishedAt": "2026-11-09T12:15:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "HONOR Magic V5 : il passe à -52% et devient 2,5 fois moins cher qu’un Galaxy Z Fold8 Ultra 😱",
-      "url": "https://www.01net.com/bons-plans/honor-magic-v5-il-passe-a-52-et-devient-25-fois-moins-cher-quun-galaxy-z-fold8-ultra.html",
-      "publishedAt": "2026-11-09T12:14:57+00:00"
-    },
-    {
       "source": "korben",
       "title": "iKnow - Ce que votre Mac sait de votre famille",
       "url": "https://korben.info/graphe-connaissances-apple-iknow.html",
@@ -3174,12 +2834,6 @@
       "title": "Mass Effect : les fans se mobilisent, mais sauver la saga coûterait une véritable fortune",
       "url": "https://www.numerama.com/pop-culture/2370403-sauver-mass-effect-necessiterait-une-fortune.html",
       "publishedAt": "2026-11-09T12:01:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Sur la Route du Rhum, ces 4 IA se sont affrontées : l’une d’entre elles s’est échouée en Bretagne",
-      "url": "https://www.01net.com/actualites/sur-la-route-du-rhum-ces-4-ia-se-sont-affrontees-lune-dentre-elles-sest-echouee-en-bretagne.html",
-      "publishedAt": "2026-11-09T12:00:54+00:00"
     },
     {
       "source": "presse",
@@ -3248,12 +2902,6 @@
       "publishedAt": "2026-11-09T11:30:24+00:00"
     },
     {
-      "source": "01net",
-      "title": "Bouygues lance une offre « moins chère » pour les célibataires",
-      "url": "https://www.01net.com/actualites/bouygues-lance-une-offre-moins-chere-pour-les-celibataires.html",
-      "publishedAt": "2026-11-09T11:29:40+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Le jeton officiel de Donald Trump plonge à son plus bas historique après les midterms",
       "url": "https://www.generation-nt.com/actualites/donald-trump-jeton-plonge-midterms-2084158",
@@ -3264,12 +2912,6 @@
       "title": "Vacances d’hiver, ponts et début d’été : la grande vente TGV de la SNCF commence ce jeudi",
       "url": "https://www.numerama.com/vroom/2370431-jusqua-46-e-de-plus-si-vous-attendez-la-sncf-met-en-vente-les-billets-de-train-pour-2027-ce-jeudi.html",
       "publishedAt": "2026-11-09T11:20:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Quatre fois moins cher qu’un iPhone, le Redmi Note 17 Pro à 50% pulvérise les ventes de Xiaomi 😱",
-      "url": "https://www.01net.com/bons-plans/quatre-fois-moins-cher-quun-iphone-le-redmi-note-17-pro-a-50-pulverise-les-ventes-de-xiaomi.html",
-      "publishedAt": "2026-11-09T11:17:43+00:00"
     },
     {
       "source": "numerama",
@@ -3344,12 +2986,6 @@
       "publishedAt": "2026-11-09T11:00:49+00:00"
     },
     {
-      "source": "01net",
-      "title": "WhatsApp, Signal, Messenger… : la France renonce à forcer l’accès aux conversations chiffrées",
-      "url": "https://www.01net.com/actualites/whatsapp-signal-messenger-la-france-renonce-a-forcer-lacces-aux-conversations-chiffrees.html",
-      "publishedAt": "2026-11-09T11:00:21+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Le prochain film de Steven Spielberg sera-t-il son dernier ? Cette annonce qui sème le doute",
       "url": "https://www.journaldugeek.com/2026/11/09/le-prochain-film-de-steven-spielberg-sera-t-il-son-dernier-cette-annonce-qui-seme-le-doute/",
@@ -3360,12 +2996,6 @@
       "title": "Les Français privés de certaines IA ? La loi Darcos sur l'intelligence artificielle et le droit d'auteur pourrait tout changer",
       "url": "https://www.clubic.com/actualite-638302-les-francais-prives-de-certaines-ia-la-loi-darcos-sur-l-intelligence-artificielle-et-le-droit-d-auteur-pourrait-tout-changer.html",
       "publishedAt": "2026-11-09T10:53:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Smartphones Galaxy : Samsung teste un abonnement payant pour ses outils IA",
-      "url": "https://www.01net.com/actualites/galaxy-ai-premium-samsung-teste-abonnement-payant-pour-ses-outils-ia.html",
-      "publishedAt": "2026-11-09T10:50:10+00:00"
     },
     {
       "source": "numerama",
@@ -3428,12 +3058,6 @@
       "publishedAt": "2026-11-09T10:36:30+00:00"
     },
     {
-      "source": "01net",
-      "title": "A la croisée entre un iPhone et un Galaxy, ce Poco X8 Pro Max se vend au quart de leur prix (-45%)",
-      "url": "https://www.01net.com/bons-plans/a-la-croisee-entre-un-iphone-et-un-galaxy-ce-poco-x8-pro-max-se-vend-au-quart-de-leur-prix-45.html",
-      "publishedAt": "2026-11-09T10:33:58+00:00"
-    },
-    {
       "source": "presse",
       "title": "🔴 C’est officiel : il est désormais impossible de refuser le compteur Linky en France, ou vous allez payer très cher",
       "url": "https://www.presse-citron.net/%f0%9f%94%b4-cest-officiel-il-est-desormais-impossible-de-refuser-le-compteur-linky-en-france-ou-vous-allez-payer-tres-cher/",
@@ -3446,12 +3070,6 @@
       "publishedAt": "2026-11-09T10:30:01+00:00"
     },
     {
-      "source": "01net",
-      "title": "Oubliez le Mac mini à 1 000 €, ce mini PC (Ryzen 7, 25 Go DDR5, 512 Go SSD, 4K) se vend pour 3x rien ⚡️",
-      "url": "https://www.01net.com/bons-plans/oubliez-lapple-mini-a-1000e-ce-mini-pc-ryzen-7-25-go-ddr5-512-go-ssd-4k-se-vend-pour-3x-rien.html",
-      "publishedAt": "2026-11-09T10:26:35+00:00"
-    },
-    {
       "source": "basketusa",
       "title": "Le Heat se met à l’heure de GTA VI",
       "url": "https://www.basketusa.com/news/955883/le-heat-se-met-a-lheure-de-gta-vi/",
@@ -3462,12 +3080,6 @@
       "title": "« Des doigts en trop » dans la pub Dior : son réalisateur répond aux accusations d’IA",
       "url": "https://www.clubic.com/actualite-638314-des-doigts-en-trop-dans-la-pub-dior-son-realisateur-repond-aux-accusations-d-ia.html",
       "publishedAt": "2026-11-09T10:25:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Galaxy A57 (256 Go) : le top milieu de gamme 2026 de Samsung passe à -46% et sa vend à balle",
-      "url": "https://www.01net.com/bons-plans/galaxy-a57-256-go-le-top-milieu-de-gamme-2026-de-samsung-passe-a-46-et-sa-vend-a-balle.html",
-      "publishedAt": "2026-11-09T10:24:16+00:00"
     },
     {
       "source": "iphon",
@@ -3518,12 +3130,6 @@
       "publishedAt": "2026-11-09T10:10:01+00:00"
     },
     {
-      "source": "01net",
-      "title": "Le Ryzen 7 5700X était déjà pas cher, et AMD porte le coup fatal à son prix 😱",
-      "url": "https://www.01net.com/bons-plans/le-ryzen-7-5700x-etait-deja-pas-cher-et-amd-porte-le-coup-fatal-a-son-prix.html",
-      "publishedAt": "2026-11-09T10:07:52+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Black Friday : Amazon retire 200€ au Google Pixel 11 dans sa version 512 Go",
       "url": "https://www.clubic.com/bons-plans-638320-black-friday-amazon-retire-200-au-google-pixel-11-dans-sa-version-512-go.html",
@@ -3534,12 +3140,6 @@
       "title": "Parc Dragon Ball de Cergy : un « caprice de gosse » présidentiel qui pose déjà de sérieux problèmes",
       "url": "https://www.journaldugeek.com/2026/11/09/parc-dragon-ball-de-cergy-un-caprice-de-gosse-presidentiel-qui-pose-deja-de-serieux-problemes/",
       "publishedAt": "2026-11-09T10:03:30+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Frigos piratés : le FBI alerte sur des « systèmes ciblés dans le monde entier »",
-      "url": "https://www.01net.com/actualites/frigos-pirates-le-fbi-alerte-sur-des-systemes-cibles-dans-le-monde-entier.html",
-      "publishedAt": "2026-11-09T10:00:38+00:00"
     },
     {
       "source": "gnt",
@@ -3680,22 +3280,10 @@
       "publishedAt": "2026-11-09T09:02:21+00:00"
     },
     {
-      "source": "01net",
-      "title": "Test Ultramarine P1 : que vaut le premier robot piscine d’Ecovacs vendu à 549 euros ?",
-      "url": "https://www.01net.com/tests/test-ultramarine-p1-que-vaut-le-premier-robot-piscine-decovacs-vendu-a-549-euros.html",
-      "publishedAt": "2026-11-09T09:01:12+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Jouets IA : passé l’effet waouh, faut-il offrir un chatbot dans une peluche à votre enfant pour Noël ?",
       "url": "https://www.journaldugeek.com/dossier/jouets-ia-passe-leffet-waouh-faut-il-offrir-un-chatbot-dans-une-peluche-a-votre-enfant-pour-noel/",
       "publishedAt": "2026-11-09T09:00:49+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "C’est officiel, Android Auto abandonne le support de millions de smartphones",
-      "url": "https://www.01net.com/actualites/cest-officiel-android-auto-abandonne-support-millions-smartphones.html",
-      "publishedAt": "2026-11-09T08:57:58+00:00"
     },
     {
       "source": "mac4ever",
@@ -3764,12 +3352,6 @@
       "publishedAt": "2026-11-09T08:30:01+00:00"
     },
     {
-      "source": "01net",
-      "title": "Nvidia ouvre une enquête : le patron du géant de la tech aurait eu une liaison avec une espionne chinoise",
-      "url": "https://www.01net.com/actualites/nvidia-ouvre-une-enquete-le-patron-du-geant-de-la-tech-aurait-eu-une-liaison-avec-une-espionne-chinoise.html",
-      "publishedAt": "2026-11-09T08:30:01+00:00"
-    },
-    {
       "source": "presse",
       "title": "Mistral fait une nouvelle acquisition pour mieux concurrencer ChatGPT et Claude dans le domaine du codage",
       "url": "https://www.presse-citron.net/mistral-acquisition-concurrencer-chatgpt-claude-codage/",
@@ -3798,12 +3380,6 @@
       "title": "Comment l'ISS a regagné 30 % d'énergie solaire en orbite",
       "url": "https://www.generation-nt.com/actualites/iss-station-spatiale-orbitale-panneaux-solaires-sortie-extravehiculaire-2084140",
       "publishedAt": "2026-11-09T08:20:01+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Adieu l’iPhone : le Xiaomi 17T Pro est à prix FOU dans toutes ses versions (256 Go, 512 Go et 1 To)",
-      "url": "https://www.01net.com/bons-plans/adieu-liphone-le-xiaomi-17t-pro-est-a-prix-fou-dans-toutes-ses-versions-256-go-512-go-et-1-to.html",
-      "publishedAt": "2026-11-09T08:10:17+00:00"
     },
     {
       "source": "mac4ever",
@@ -3842,22 +3418,10 @@
       "publishedAt": "2026-11-09T07:54:42+00:00"
     },
     {
-      "source": "01net",
-      "title": "« Une partie » de l’argent récupérée : le Crédit Mutuel Arkéa limite la casse après la cyberattaque",
-      "url": "https://www.01net.com/actualites/une-partie-de-largent-recuperee-le-credit-mutuel-arkea-limite-la-casse-apres-la-cyberattaque.html",
-      "publishedAt": "2026-11-09T07:52:17+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Outlook.com : si vous ne recevez plus d'email c'est normal, c'est un bug",
       "url": "https://www.clubic.com/actualite-638236-outlook-com-si-vous-ne-recevez-plus-d-email-c-est-normal-c-est-un-bug.html",
       "publishedAt": "2026-11-09T07:47:00+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Windows 11 : l’authentification Windows Hello va s’améliorer",
-      "url": "https://www.01net.com/actualites/windows-11-la-connexion-via-windows-hello-va-sameliorer.html",
-      "publishedAt": "2026-11-09T07:44:26+00:00"
     },
     {
       "source": "gnt",
@@ -3876,12 +3440,6 @@
       "title": "Après une nuit galère à Mexico, les Nuggets placent leurs titulaires sur la liste des blessés",
       "url": "https://www.basketusa.com/news/955840/apres-une-nuit-galere-a-mexico-les-nuggets-placent-leurs-titulaires-sur-la-liste-des-blesses/",
       "publishedAt": "2026-11-09T07:30:24+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "503 km/h en hypercar électrique : BYD humilie Bugatti et pulvérise le record du monde de vitesse",
-      "url": "https://www.01net.com/actualites/503-km-h-hypercar-electrique-byd-humilie-bugatti-pulverise-record-du-monde-vitesse.html",
-      "publishedAt": "2026-11-09T07:29:13+00:00"
     },
     {
       "source": "gnt",
@@ -3962,12 +3520,6 @@
       "publishedAt": "2026-11-09T06:45:00+00:00"
     },
     {
-      "source": "01net",
-      "title": "Plus besoin d’applications : ce smartphone IA veut tout faire à votre place",
-      "url": "https://www.01net.com/actualites/plus-besoin-dapplications-ce-smartphone-ia-veut-tout-faire-a-votre-place.html",
-      "publishedAt": "2026-11-09T06:34:40+00:00"
-    },
-    {
       "source": "presse",
       "title": "Le « poulet de l’enfer » : une équipe de scientifiques découvre un étrange dinosaure qui ne mangeait que des fruits, une première mondiale",
       "url": "https://www.presse-citron.net/poulet-lenfer-equipe-scientifiques-decouvre-etrange-dinosaure-mangeait-que-des-fruits-premiere-mondiale/",
@@ -4034,12 +3586,6 @@
       "publishedAt": "2026-11-09T06:00:25+00:00"
     },
     {
-      "source": "01net",
-      "title": "Plafonné depuis 2016, le Bluetooth va presque quadrupler ses débits en 2027",
-      "url": "https://www.01net.com/actualites/plafonne-depuis-2016-le-bluetooth-va-presque-quadrupler-ses-debits-en-2027.html",
-      "publishedAt": "2026-11-09T06:00:23+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Black Friday : ieGeek ZY-G4, la caméra de surveillance autonome en 4G LTE et panneau solaire à tarif réduit",
       "url": "https://www.generation-nt.com/actualites/iegeek-zy-g4-camera-surveillance-4g-lte-panneau-solaire-black-friday-2083815",
@@ -4062,12 +3608,6 @@
       "title": "Backglow : un utilitaire pour piloter la pomme lumineuse des nouveaux MacBook Pro",
       "url": "https://www.macg.co/logiciels/2026/11/backglow-un-utilitaire-pour-piloter-la-pomme-lumineuse-des-nouveaux-macbook-pro-312267",
       "publishedAt": "2026-11-09T05:45:33+00:00"
-    },
-    {
-      "source": "01net",
-      "title": "Cette marque américaine cherche à séduire l’Europe : son système de conduite autonome peut-il l’aider ?",
-      "url": "https://www.01net.com/actualites/cette-marque-americaine-cherche-a-seduire-leurope-son-systeme-de-conduite-autonome-peut-il-laider.html",
-      "publishedAt": "2026-11-09T05:33:09+00:00"
     },
     {
       "source": "gnt",
