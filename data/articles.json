@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T21:07:11.705485+00:00",
+  "generatedAt": "2026-11-11T21:52:25.851536+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T21:07:11.705485+00:00"
+      "lastSuccessAt": "2026-11-11T21:52:25.851536+00:00"
     }
   ],
   "articles": [
@@ -142,16 +142,16 @@
       "publishedAt": "2026-11-11T20:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Kevin Durant et Stephen Curry se défient pour la 41e fois",
-      "url": "https://www.basketusa.com/news/956711/programme-du-soir-kevin-durant-et-stephen-curry-se-defient-pour-la-41e-fois/",
-      "publishedAt": "2026-11-11T19:50:21+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Take-Two confirme la fin du développement de GTA VI et rehausse ses prévisions",
       "url": "https://www.generation-nt.com/actualites/take-two-developpement-gta-vi-termine-2084285",
       "publishedAt": "2026-11-11T19:05:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Kevin Durant et Stephen Curry se défient pour la 41e fois",
+      "url": "https://www.basketusa.com/news/956711/programme-du-soir-kevin-durant-et-stephen-curry-se-defient-pour-la-41e-fois/",
+      "publishedAt": "2026-11-11T18:50:21+00:00"
     },
     {
       "source": "clubic",
@@ -340,12 +340,6 @@
       "publishedAt": "2026-11-11T15:34:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "LeBron James et Kevin Durant veulent révolutionner le basket chez les jeunes",
-      "url": "https://www.basketusa.com/news/956641/lebron-james-et-kevin-durant-veulent-revolutionner-le-basket-chez-les-jeunes/",
-      "publishedAt": "2026-11-11T15:32:14+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Tiangong : un froid record de 9,7 picokelvins a été mesuré dans l'espace",
       "url": "https://www.generation-nt.com/actualites/tiangong-station-spatiale-microgravite-zero-absolu-experimentation-2084193",
@@ -424,6 +418,12 @@
       "publishedAt": "2026-11-11T14:40:57+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "LeBron James et Kevin Durant veulent révolutionner le basket chez les jeunes",
+      "url": "https://www.basketusa.com/news/956641/lebron-james-et-kevin-durant-veulent-revolutionner-le-basket-chez-les-jeunes/",
+      "publishedAt": "2026-11-11T14:32:14+00:00"
+    },
+    {
       "source": "tda",
       "title": "[Podcast] Preview S10 : Joe Burrow chasse un titre de MVP",
       "url": "https://touchdownactu.com/361248/podcast-preview-s10-joe-burrow-chasse-un-titre-de-mvp/",
@@ -446,12 +446,6 @@
       "title": "Audi A2 e-tron, Lancia Gamma, Leapmotor B10… les voitures électriques que vous allez payer moins cher grâce à l’éco-score",
       "url": "https://www.numerama.com/vroom/2372241-audi-a2-e-tron-lancia-gamma-leapmotor-b10-les-voitures-electriques-que-vous-allez-payer-moins-cher-grace-a-leco-score.html",
       "publishedAt": "2026-11-11T14:15:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le jour où Michael Redd a marqué 57 points et dépassé Kareem Abdul-Jabbar",
-      "url": "https://www.basketusa.com/news/514896/11-novembre-2006-michael-redd-depasse-kareem-abdul-jabbar/",
-      "publishedAt": "2026-11-11T14:13:54+00:00"
     },
     {
       "source": "jdg",
@@ -518,6 +512,12 @@
       "title": "Les ventes du DJI Mini 5 Pro s’envolent au Singles Day après une chute de prix massive",
       "url": "https://www.iphon.fr/post/ventes-dji-mini-5-pro-singles-day-chute-prix-massive",
       "publishedAt": "2026-11-11T13:15:29+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le jour où Michael Redd a marqué 57 points et dépassé Kareem Abdul-Jabbar",
+      "url": "https://www.basketusa.com/news/514896/11-novembre-2006-michael-redd-depasse-kareem-abdul-jabbar/",
+      "publishedAt": "2026-11-11T13:13:54+00:00"
     },
     {
       "source": "gnt",
@@ -2918,24 +2918,6 @@
       "title": "Cardinals : Michael Wilson rejoint l’infirmerie, sa saison s’arrête là",
       "url": "https://touchdownactu.com/361168/cardinals-michael-wilson-rejoint-linfirmerie-sa-saison-sarrete-la/",
       "publishedAt": "2026-11-09T21:57:49+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Réparation Mac à Paris : chez Cyber-Jay, votre ordinateur a désormais son carnet d'entretien",
-      "url": "https://www.macg.co/services/2026/11/reparation-mac-paris-chez-cyber-jay-votre-ordinateur-desormais-son-carnet-dentretien-312213",
-      "publishedAt": "2026-11-09T21:52:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Apple a corrigé le problème des certificats de eMudhra avec macOS 27.2.1 et propose une solution manuelle pour les anciens systèmes",
-      "url": "https://www.macg.co/macos/2026/10/apple-va-corriger-le-probleme-des-certificats-de-emudhra-dont-la-cle-privee-etait-4-et-propose-une-solution-temporaire-pour-les-developpeurs-311879",
-      "publishedAt": "2026-11-09T21:45:03+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Jacksonville échange à nouveau et s’offre Davon Godchaux des Saints",
-      "url": "https://touchdownactu.com/361164/jacksonville-echange-a-nouveau-et-soffre-davon-godchaux-des-saints/",
-      "publishedAt": "2026-11-09T21:28:17+00:00"
     },
     {
       "source": "boulet",
