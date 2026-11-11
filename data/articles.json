@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:00:25.049908+00:00",
+  "generatedAt": "2026-11-11T14:17:19.543424+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,106 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T13:00:25.049908+00:00"
+      "lastSuccessAt": "2026-11-11T14:17:19.543424+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Audi A2 e-tron, Lancia Gamma, Leapmotor B10… les voitures électriques que vous allez payer moins cher grâce à l’éco-score",
+      "url": "https://www.numerama.com/vroom/2372241-audi-a2-e-tron-lancia-gamma-leapmotor-b10-les-voitures-electriques-que-vous-allez-payer-moins-cher-grace-a-leco-score.html",
+      "publishedAt": "2026-11-11T14:15:38+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Voici le système de chauffage le plus efficace et le moins cher, selon les experts",
+      "url": "https://www.journaldugeek.com/2026/11/11/voici-le-systeme-de-chauffage-le-plus-efficace-et-le-moins-cher-selon-les-experts/",
+      "publishedAt": "2026-11-11T14:05:27+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Œuf pourri, chou ou égout : pourquoi nos pets sont-ils parfois aussi immondes ? Cette scientifique nous explique tout",
+      "url": "https://www.presse-citron.net/oeuf-pourri-chou-egout-pourquoi-pets-sont-immondes-cette-scientifique-explique-tout/",
+      "publishedAt": "2026-11-11T14:02:48+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "IPO d'Anthropic : chaque fondateur va toucher plusieurs centaines de millions de dollars !",
+      "url": "https://www.clubic.com/actualite-638806-ipo-d-anthropic-chaque-fondateur-va-toucher-plusieurs-centaines-de-millions-d-euros.html",
+      "publishedAt": "2026-11-11T14:02:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Un robot construit seul une structure dans l’espace pour la toute première fois : le champ des possibles s’ouvre",
+      "url": "https://www.clubic.com/actualite-638797-un-robot-construit-seul-une-structure-dans-l-espace-pour-la-toute-premiere-fois-le-champ-des-possibles-s-ouvre.html",
+      "publishedAt": "2026-11-11T13:44:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Arrêter les dégâts « dans les 35 secondes » : OpenAI dévoile le kill switch censé stopper ses IA quand elles dérapent",
+      "url": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html",
+      "publishedAt": "2026-11-11T13:35:38+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "« Qui va payer 500 euros ? Sûrement pas moi » : déterminée à pirater des Meta Ray-Ban, elle emprunte celles de son beau-frère et réussit son pari",
+      "url": "https://www.numerama.com/cyberguerre/2372185-qui-va-payer-500-euros-surement-pas-moi-determinee-a-pirater-des-meta-ray-ban-elle-emprunte-celles-de-son-beau-frere-et-reussit-son-pari.html",
+      "publishedAt": "2026-11-11T13:33:25+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "AJ Dybantsa ne veut pas seulement briller en attaque",
+      "url": "https://www.basketusa.com/news/956479/aj-dybantsa-ne-veut-pas-seulement-briller-en-attaque/",
+      "publishedAt": "2026-11-11T13:28:45+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "AMD Zen 6 : jusqu’à 32 cœurs par CCD et un IPC qui bondit de 27 % par rapport à Zen 5",
+      "url": "https://www.clubic.com/actualite-638785-amd-zen-6-jusqu-a-32-c-urs-par-ccd-et-un-ipc-qui-bondit-de-27-par-rapport-a-zen-5.html",
+      "publishedAt": "2026-11-11T13:27:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Ce chargeur 65W est bradé à moitié prix pour le Black Friday : 19€ pour charger tous vos appareils !",
+      "url": "https://www.mac4ever.com/iphone/198976-ce-chargeur-65w-est-brade-a-moitie-prix-pour-le-black-friday-19-pour-charger-tous-vos-appareils",
+      "publishedAt": "2026-11-11T13:24:40+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Les ventes du DJI Mini 5 Pro s’envolent au Singles Day après une chute de prix massive",
+      "url": "https://www.iphon.fr/post/ventes-dji-mini-5-pro-singles-day-chute-prix-massive",
+      "publishedAt": "2026-11-11T13:15:29+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Hera livre sa première vue de l'astéroïde Didymos après l'impact historique",
+      "url": "https://www.generation-nt.com/actualites/hera-dart-asteroide-didymos-esa-defense-planetaire-2084229",
+      "publishedAt": "2026-11-11T13:10:02+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Des couleurs pétantes mais une fiche technique vieillotte : ce que cache ce concurrent chinois du MacBook Neo",
+      "url": "https://www.clubic.com/actualite-638776-des-couleurs-petantes-mais-une-fiche-technique-vieillotte-ce-que-cache-ce-concurrent-chinois-du-macbook-neo.html",
+      "publishedAt": "2026-11-11T13:09:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ce phénomène avait une chance sur 10 milliards de se produire : des scientifiques du CERN viennent enfin de le détecter",
+      "url": "https://www.presse-citron.net/phenomene-une-chance-10-milliards-produire-scientifiques-cern-viennent-enfin-detecter/",
+      "publishedAt": "2026-11-11T13:02:58+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "L’iPhone victime d’une faille critique qui expose votre argent au vol",
+      "url": "https://www.iphon.fr/post/ios-26-ios-27-victimes-faille-securite-expose-argent-vol",
+      "publishedAt": "2026-11-11T13:00:42+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 tournera à 30 fps sur toutes les consoles, et même sur la PS5 Pro à 900 €",
+      "url": "https://www.journaldugeek.com/2026/11/11/gta-6-tournera-a-30-fps-sur-toutes-les-consoles-et-meme-sur-la-ps5-pro-a-900-e/",
+      "publishedAt": "2026-11-11T13:00:06+00:00"
+    },
     {
       "source": "clubic",
       "title": "Zelda : Ocarina of Time défie GTA 6 et signe un démarrage spectaculaire sur Switch 2",
@@ -143,7 +239,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Draymond Green ne s’oppose pas à un retour de Jordan Poole aux Warriors…",
+      "title": "Draymond Green ne s’oppose pas à un retour de Jordan Poole…",
       "url": "https://www.basketusa.com/news/956478/draymond-green-ne-soppose-pas-a-un-retour-de-jordan-poole-aux-warriors/",
       "publishedAt": "2026-11-11T12:54:17+00:00"
     },
@@ -274,16 +370,16 @@
       "publishedAt": "2026-11-11T11:06:37+00:00"
     },
     {
-      "source": "macg",
-      "title": "Apple va définitivement fermer ses forums d’assistance : des années de discussions bientôt effacées ?",
-      "url": "https://www.macg.co/aapl/2026/11/apple-va-definitivement-fermer-ses-forums-dassistance-des-annees-de-discussions-bientot-effacees-312321",
-      "publishedAt": "2026-11-11T11:03:49+00:00"
-    },
-    {
       "source": "presse",
       "title": "Adieu Microsoft Excel : voici la nouvelle alternative intégrée à Claude",
       "url": "https://www.presse-citron.net/adieu-microsoft-excel-voici-la-nouvelle-alternative-integree-a-claude/",
       "publishedAt": "2026-11-11T11:03:30+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Apple va définitivement fermer ses forums d’assistance : des années de discussions bientôt effacées ?",
+      "url": "https://www.macg.co/aapl/2026/11/apple-va-definitivement-fermer-ses-forums-dassistance-des-annees-de-discussions-bientot-effacees-312321",
+      "publishedAt": "2026-11-11T11:03:00+00:00"
     },
     {
       "source": "jdg",
@@ -320,6 +416,12 @@
       "title": "Démarchage téléphonique : trois mois après l’interdiction, pourquoi votre téléphone sonne toujours",
       "url": "https://www.clubic.com/actualite-638764-demarchage-telephonique-trois-mois-apres-l-interdiction-pourquoi-votre-telephone-sonne-toujours.html",
       "publishedAt": "2026-11-11T10:39:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Un coup de Collier finalement inutile",
+      "url": "https://www.basketusa.com/news/956502/un-coup-de-collier-inutile/",
+      "publishedAt": "2026-11-11T10:32:57+00:00"
     },
     {
       "source": "clubic",
@@ -410,12 +512,6 @@
       "title": "Pourquoi les mythiques Nazgûl changent de nom dans Les Anneaux de pouvoir ?",
       "url": "https://www.journaldugeek.com/2026/11/11/pourquoi-les-nazgul-ne-portent-pas-le-meme-nom-dans-la-serie-les-anneaux-de-pouvoir/",
       "publishedAt": "2026-11-11T09:33:14+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Un coup de Collier finalement inutile",
-      "url": "https://www.basketusa.com/news/956502/un-coup-de-collier-inutile/",
-      "publishedAt": "2026-11-11T09:32:57+00:00"
     },
     {
       "source": "clubic",
@@ -641,7 +737,7 @@
     },
     {
       "source": "clubic",
-      "title": "C’est le jour J du 11.11 : AliExpress lance 33 offres tech pour le Single Day avec jusqu’à 80€ de réduction avec nos codes",
+      "title": "AliExpress : Top 33 des meilleures offres tech pour le Single Day et jusqu’à 80€ de réduction avec nos codes",
       "url": "https://www.clubic.com/bons-plans-638680-c-est-le-jour-j-du-11-11-aliexpress-lance-33-offres-tech-jusqu-a-80-moins-cheres-avec-nos-codes.html",
       "publishedAt": "2026-11-11T07:31:00+00:00"
     },
@@ -3218,180 +3314,6 @@
       "title": "Starship Flight 15 : SpaceX s'apprête à tout changer avec sa double capture",
       "url": "https://www.generation-nt.com/actualites/starship-flight-15-spacex-recuperation-deux-etages-2084187",
       "publishedAt": "2026-11-09T14:20:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone 18e : les 3 nouveautés attendues pour le printemps 2027",
-      "url": "https://www.iphon.fr/post/iphone-18e-nouveautes-attendues-printemps-2027",
-      "publishedAt": "2026-11-09T14:16:27+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le burn-in n’est pas le seul problème des TV OLED, avec le « edge rot » certains écrans s’abîment aussi sur les bords",
-      "url": "https://www.clubic.com/actualite-638389-le-burn-in-n-est-pas-le-seul-probleme-des-tv-oled-avec-le-edge-rot-certains-ecrans-s-abiment-aussi-sur-les-bords.html",
-      "publishedAt": "2026-11-09T14:10:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Cyclon : ce téléphone laisse l'IA lire vos messages et passer vos appels",
-      "url": "https://www.mac4ever.com/ia/198932-cyclon-ce-telephone-laisse-l-ia-lire-vos-messages-et-passer-vos-appels",
-      "publishedAt": "2026-11-09T14:08:00+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Les Jaguars exfiltrent Jessie Bates III (S) d’Atlanta",
-      "url": "https://touchdownactu.com/361127/les-jaguars-exfiltrent-jessie-bates-iii-s-datlanta/",
-      "publishedAt": "2026-11-09T14:06:51+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Il fait tourner une IA avec 2 800 milliards de paramètres sans GPU, mais sa RAM surchauffe",
-      "url": "https://www.clubic.com/actualite-638395-il-fait-tourner-une-ia-avec-2-800-milliards-de-parametres-sans-gpu-mais-sa-ram-surchauffe.html",
-      "publishedAt": "2026-11-09T14:04:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Deliveroo ne livre plus seulement vos repas : voici « Deliveroo Shopping »",
-      "url": "https://www.presse-citron.net/deliveroo-ne-livre-plus-seulement-vos-repas-voici-deliveroo-shopping/",
-      "publishedAt": "2026-11-09T14:00:28+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "PROMISE : la NASA recycle ses rovers martiens pour explorer le pôle Sud lunaire",
-      "url": "https://www.generation-nt.com/actualites/nasa-recycle-rovers-pole-lunaire-2084155",
-      "publishedAt": "2026-11-09T14:00:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Compatible Xbox, PC, iOS et Android, la manette sans fil Xbox passe à 50 € sur Amazon",
-      "url": "https://www.numerama.com/pop-culture/2370599-compatible-xbox-pc-ios-et-android-la-manette-sans-fil-xbox-passe-a-50-e-sur-amazon.html",
-      "publishedAt": "2026-11-09T14:00:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "LEGO prépare le set que tous les fans de Nintendo attendaient",
-      "url": "https://www.journaldugeek.com/2026/11/09/lego-prepare-le-set-que-tous-les-fans-de-nintendo-attendaient/",
-      "publishedAt": "2026-11-09T13:56:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Le lot de 4 AirTags est de retour à prix fou (22,50 € l’unité au lieu de 35 €)",
-      "url": "https://www.iphon.fr/post/lot-4airtags-retour-prix-fou",
-      "publishedAt": "2026-11-09T13:46:54+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "279 000 euros, jade incrusté et portes antagonistes : BYD déclare la guerre à Rolls-Royce",
-      "url": "https://www.numerama.com/vroom/2370487-279-000-euros-jade-incruste-et-portes-antagonistes-byd-declare-la-guerre-a-rolls-royce.html",
-      "publishedAt": "2026-11-09T13:46:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Clippers retrouvent la victoire en simplifiant leur jeu",
-      "url": "https://www.basketusa.com/news/955902/les-clippers-retrouvent-la-victoire-en-simplifiant-leur-jeu/",
-      "publishedAt": "2026-11-09T13:45:19+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Voici les 5 meilleures séries de tous les temps : ce classement met tout le monde d’accord",
-      "url": "https://www.presse-citron.net/voici-les-5-meilleures-series-de-tous-les-temps-ce-classement-met-tout-le-monde-daccord/",
-      "publishedAt": "2026-11-09T13:45:09+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Atlanta Hawks – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/955989/atlanta-hawks-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-09T13:40:57+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iPhone 20 : la photo de prototype qui circule vient d'un faux Majin Bu",
-      "url": "https://www.mac4ever.com/iphone/198931-iphone-20-la-photo-de-prototype-qui-circule-vient-d-un-faux-majin-bu",
-      "publishedAt": "2026-11-09T13:35:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Portes dérobées sur vos messageries chiffrées - l'État recule sans vraiment lâcher l'affaire",
-      "url": "https://korben.info/portes-derobees-sur-vos-messageries-chiffrees-letat-recule-sans-vraiment-lacher-laffaire.html",
-      "publishedAt": "2026-11-09T13:34:47+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Critique Bass x Machina : la nouvelle pépite de l’animation sur Netflix ?",
-      "url": "https://www.journaldugeek.com/critique/critique-bass-x-machina-la-nouvelle-pepite-de-lanimation-sur-netflix/",
-      "publishedAt": "2026-11-09T13:34:07+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Nvidia : l'affaire d'espionnage chinois peut-elle faire sauter l'indéboulonnable Jensen Huang ?",
-      "url": "https://www.generation-nt.com/actualites/nvidia-espionnage-chine-enquete-jensen-huang-ceo-2084185",
-      "publishedAt": "2026-11-09T13:30:02+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Les chargeurs Ugreen en promo jusqu'à -40% : chargez vos Mac, iPad et iPhone avec un seul chargeur !",
-      "url": "https://www.mac4ever.com/mac/198934-les-chargeurs-ugreen-en-promo-jusqu-a-40-chargez-vos-mac-ipad-et-iphone-avec-un-seul-chargeur",
-      "publishedAt": "2026-11-09T13:27:35+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Un virement de 442 € : des millions de Français reçoivent cette aide de l’État dans quelques jours, êtes-vous concerné ?",
-      "url": "https://www.presse-citron.net/un-virement-de-442-e-des-millions-de-francais-recoivent-cette-aide-de-letat-dans-quelques-jours-etes-vous-concerne/",
-      "publishedAt": "2026-11-09T13:26:15+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Tyler Kolek fait son mea culpa auprès de Taylor Swift…",
-      "url": "https://www.basketusa.com/news/955768/tyler-kolek-fait-son-mea-culpa-aupres-de-taylor-swift/",
-      "publishedAt": "2026-11-09T13:23:50+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Des chercheurs franchissent un cap théorique vers des panneaux solaires à 43 % de rendement",
-      "url": "https://www.generation-nt.com/actualites/cap-theorique-panneaux-solaires-2084153",
-      "publishedAt": "2026-11-09T13:20:01+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "NomadNet - Votre site et vos fichiers sur Reticulum",
-      "url": "https://korben.info/reticulum-nomadnet-site-fichiers.html",
-      "publishedAt": "2026-11-09T13:18:03+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Chicago95 - Votre Xubuntu déguisé en Windows 95",
-      "url": "https://korben.info/chicago95-xfce-windows-95.html",
-      "publishedAt": "2026-11-09T13:16:31+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Intel entend lancer Razor Lake-S courant 2028 et conserverait le socket LGA-1954",
-      "url": "https://www.clubic.com/actualite-638374-intel-entend-lancer-razor-lake-s-courant-2028-et-conserverait-le-socket-lga-1954.html",
-      "publishedAt": "2026-11-09T13:13:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Musique et IA : Suno face à des plaintes pour Elvis Presley et Eminem",
-      "url": "https://www.generation-nt.com/actualites/suno-musique-ia-plaintes-elvis-presley-eminem-droits-auteur-2084171",
-      "publishedAt": "2026-11-09T13:10:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Électricité : voici à quelle heure il faut lancer sa machine à laver pour faire de grosses économies en novembre 2026",
-      "url": "https://www.presse-citron.net/electricite-voici-a-quelle-heure-il-faut-lancer-sa-machine-a-laver-pour-faire-de-grosses-economies-en-novembre-2026/",
-      "publishedAt": "2026-11-09T13:06:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Waze pourrait bientôt afficher les cyclistes équipés de ce produit, et c’est une révolution",
-      "url": "https://www.journaldugeek.com/2026/11/09/waze-pourrait-bientot-afficher-les-cyclistes-equipes-de-ce-produit-et-cest-une-revolution/",
-      "publishedAt": "2026-11-09T13:02:20+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L'iPhone Duo a-t-il aussi tué l'iPhone Air ?",
-      "url": "https://www.mac4ever.com/iphone/198926-l-iphone-duo-a-t-il-aussi-tue-l-iphone-air",
-      "publishedAt": "2026-11-09T13:01:00+00:00"
     },
     {
       "source": "boulet",
