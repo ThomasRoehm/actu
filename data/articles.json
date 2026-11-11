@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:29:30.473712+00:00",
+  "generatedAt": "2026-11-11T05:30:07.442383+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T04:29:30.473712+00:00"
+      "lastSuccessAt": "2026-11-11T05:30:07.442383+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Le Black Friday Revopoint est arrivé : jusqu'à 50 % de réduction sur les scanners 3D !",
+      "url": "https://www.generation-nt.com/actualites/revopoint-scanner-3d-black-friday-pop-metroy-ultra-pro-miraco-range-3-pro-inspire-mini-metrox-trackit-metrohub-2084181",
+      "publishedAt": "2026-11-11T05:00:01+00:00"
+    },
     {
       "source": "numerama",
       "title": "Scrooge : on a vu le film qui signe le retour de Johnny Depp au cinéma (avis sans spoiler)",
@@ -784,6 +790,12 @@
       "publishedAt": "2026-11-10T13:40:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Avec leurs trois arrières, les Spurs libèrent Victor Wembanyama",
+      "url": "https://www.basketusa.com/news/956358/avec-leurs-trois-arrieres-les-spurs-liberent-victor-wembanyama/",
+      "publishedAt": "2026-11-10T13:35:38+00:00"
+    },
+    {
       "source": "korben",
       "title": "Claude Fable 5.2 code un OS en huit jours avec 1 000 agents",
       "url": "https://korben.info/claude-fable-5-2-code-un-os-en-huit-jours-avec-1-000-agents.html",
@@ -878,12 +890,6 @@
       "title": "Gare à ce phishing Microsoft 365 qui vous fait vous connecter sur le vrai site… pour le compte des pirates",
       "url": "https://www.clubic.com/actualite-638557-gare-a-ce-phishing-microsoft-365-qui-vous-fait-vous-connecter-sur-le-vrai-site-pour-le-compte-des-pirates.html",
       "publishedAt": "2026-11-10T12:36:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Avec leurs trois arrières, les Spurs libèrent Victor Wembanyama",
-      "url": "https://www.basketusa.com/news/956358/avec-leurs-trois-arrieres-les-spurs-liberent-victor-wembanyama/",
-      "publishedAt": "2026-11-10T12:35:38+00:00"
     },
     {
       "source": "clubic",
@@ -1072,12 +1078,6 @@
       "publishedAt": "2026-11-10T11:00:29+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Un coup de pouce de Kevin Durant au rebond",
-      "url": "https://www.basketusa.com/news/956274/un-coup-de-pouce-de-kevin-durant-au-rebond/",
-      "publishedAt": "2026-11-10T10:58:42+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Claude Code a transmis les adresses mail de ses utilisateurs à des sites web sans leur accord, Anthropic présente ses excuses",
       "url": "https://www.clubic.com/actualite-638602-claude-code-a-transmis-les-adresses-mail-de-ses-utilisateurs-a-des-sites-web-sans-leur-accord-anthropic-presente-ses-excuses.html",
@@ -1234,6 +1234,12 @@
       "publishedAt": "2026-11-10T10:00:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Un coup de pouce de Kevin Durant au rebond",
+      "url": "https://www.basketusa.com/news/956274/un-coup-de-pouce-de-kevin-durant-au-rebond/",
+      "publishedAt": "2026-11-10T09:58:42+00:00"
+    },
+    {
       "source": "presse",
       "title": "Les psychologues sont unanimes : les personnes qui baissent les yeux lors d’une conversation ne sont pas timides, elles essaient plutôt de formuler une réponse adaptée",
       "url": "https://www.presse-citron.net/les-psychologues-sont-unanimes-les-personnes-qui-baissent-les-yeux-lors-dune-conversation-ne-sont-pas-timides-elles-essaient-plutot-de-formuler-une-reponse-adaptee/",
@@ -1268,6 +1274,12 @@
       "title": "La version physique d’Hollow Knight: Silksong mentionne plusieurs contenus gratuits à venir",
       "url": "https://www.numerama.com/pop-culture/2371193-la-version-physique-dhollow-knight-silksong-mentionne-plusieurs-contenus-gratuits-a-venir.html",
       "publishedAt": "2026-11-10T09:45:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Luka Doncic a pensé au premier souvenir NBA de Cameron Carr",
+      "url": "https://www.basketusa.com/news/956281/luka-doncic-a-pense-au-premier-souvenir-nba-de-cameron-carr/",
+      "publishedAt": "2026-11-10T09:43:57+00:00"
     },
     {
       "source": "clubic",
@@ -1418,12 +1430,6 @@
       "title": "iOS 27.2.1 est disponible : elle évite de gros problèmes à votre iPhone",
       "url": "https://www.iphon.fr/post/ios-27-2-1-disponible-evite-gros-problemes-iphone",
       "publishedAt": "2026-11-10T08:44:11+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Luka Doncic a pensé au premier souvenir NBA de Cameron Carr",
-      "url": "https://www.basketusa.com/news/956281/luka-doncic-a-pense-au-premier-souvenir-nba-de-cameron-carr/",
-      "publishedAt": "2026-11-10T08:43:57+00:00"
     },
     {
       "source": "macg",
@@ -3608,30 +3614,6 @@
       "title": "Backglow : un utilitaire pour piloter la pomme lumineuse des nouveaux MacBook Pro",
       "url": "https://www.macg.co/logiciels/2026/11/backglow-un-utilitaire-pour-piloter-la-pomme-lumineuse-des-nouveaux-macbook-pro-312267",
       "publishedAt": "2026-11-09T05:45:33+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Une faille critique dans OpenSSH permet d'entrer sans mot de passe sur Linux",
-      "url": "https://www.generation-nt.com/actualites/faille-openssh-connexion-linux-2084152",
-      "publishedAt": "2026-11-09T05:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Cooper Flagg s’amuse avec les Nets",
-      "url": "https://www.basketusa.com/news/955813/cooper-flagg-samuse-avec-les-nets/",
-      "publishedAt": "2026-11-09T05:23:35+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "À Detroit, Austin Reaves enfile le costume de Luka Doncic !",
-      "url": "https://www.basketusa.com/news/955761/a-detroit-austin-reaves-enfile-le-costume-de-luka-doncic/",
-      "publishedAt": "2026-11-09T05:18:08+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "NFL semaine 9 : les Bears survivent à une soirée galère !",
-      "url": "https://touchdownactu.com/361078/nfl-semaine-9-les-lions-sans-briller/",
-      "publishedAt": "2026-11-09T04:40:49+00:00"
     },
     {
       "source": "boulet",
