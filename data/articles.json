@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T09:55:47.914823+00:00",
+  "generatedAt": "2026-11-11T10:56:43.601827+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,94 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T09:55:47.914823+00:00"
+      "lastSuccessAt": "2026-11-11T10:56:43.601827+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "30 heures de panne d’électricité : il branche sa maison sur son Renault Scénic et ne perd que 8 % de batterie",
+      "url": "https://www.numerama.com/vroom/2372157-30-heures-de-panne-delectricite-il-branche-sa-maison-sur-son-renault-scenic-et-ne-perd-que-8-de-batterie.html",
+      "publishedAt": "2026-11-11T10:53:24+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Tim Cook aurait craqué pour un tapis à 15 000 euros au Grand Bazar d'Istanbul",
+      "url": "https://www.mac4ever.com/divers/198973-tim-cook-aurait-craque-pour-un-tapis-a-15-000-euros-au-grand-bazar-d-istanbul",
+      "publishedAt": "2026-11-11T10:49:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Démarchage téléphonique : trois mois après l’interdiction, pourquoi votre téléphone sonne toujours",
+      "url": "https://www.clubic.com/actualite-638764-demarchage-telephonique-trois-mois-apres-l-interdiction-pourquoi-votre-telephone-sonne-toujours.html",
+      "publishedAt": "2026-11-11T10:39:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Un coup de Collier finalement inutile",
+      "url": "https://www.basketusa.com/news/956502/un-coup-de-collier-inutile/",
+      "publishedAt": "2026-11-11T10:32:57+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Avant GTA VI et le Black Friday, Amazon casse le prix des écrans gaming OLED de Lenovo, MSI et ASUS",
+      "url": "https://www.clubic.com/bons-plans-638671-avant-gta-vi-et-le-black-friday-amazon-casse-le-prix-des-ecrans-gaming-oled-de-lenovo-msi-et-asus.html",
+      "publishedAt": "2026-11-11T10:25:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Shokz OpenRun Pro 2 : à prix cassé pour le Singles Day, les sportifs vont se l’arracher",
+      "url": "https://www.iphon.fr/post/shokz-openrun-pro-2-prix-casse-singles-day",
+      "publishedAt": "2026-11-11T10:15:07+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Une platine Blu-ray 4K à 2 000 € offre-t-elle vraiment une meilleure image qu'un modèle à 200 € ?",
+      "url": "https://www.clubic.com/dossier-638677-une-platine-blu-ray-4k-a-2-000-offre-t-elle-vraiment-une-meilleure-image-qu-un-modele-a-200.html",
+      "publishedAt": "2026-11-11T10:11:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Pourquoi la Terre a-t-elle temporairement adopté une nouvelle lune ?",
+      "url": "https://www.generation-nt.com/actualites/terre-adopte-temporairement-mini-lune-2084206",
+      "publishedAt": "2026-11-11T10:10:01+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Les tickets de métro, c’est fini : vous n’avez plus que quelques jours pour les échanger",
+      "url": "https://www.journaldugeek.com/2026/11/11/les-tickets-de-metro-cest-fini-vous-navez-plus-que-quelques-jours-pour-les-echanger/",
+      "publishedAt": "2026-11-11T10:08:51+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Single Day AliExpress : les 9 accessoires pour personnaliser sa Tesla Model 3 ou Model Y, à poser sans outil",
+      "url": "https://www.numerama.com/vroom/2372141-single-day-aliexpress-les-9-accessoires-pour-personnaliser-sa-tesla-model-3-ou-model-y-a-poser-sans-outil.html",
+      "publishedAt": "2026-11-11T10:05:52+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Attention, cycliste devant : Waze et Garmin annoncent une collaboration qui va améliorer la sécurité routière",
+      "url": "https://www.presse-citron.net/cycliste-waze-garmin-securite-routiere/",
+      "publishedAt": "2026-11-11T10:02:17+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Apple annonce le Swift Student Challenge 2027 avec une nouveauté de taille",
+      "url": "https://www.iphon.fr/post/apple-annonce-swift-student-challenge-2027-nouveaute",
+      "publishedAt": "2026-11-11T10:01:55+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Pourquoi le Brésil inflige 1,2 million d’euros d’amende à Meta après le duel Lula-Bolsonaro",
+      "url": "https://www.clubic.com/actualite-638752-pourquoi-le-bresil-inflige-1-2-million-d-euros-d-amende-a-meta-apres-le-duel-lula-bolsonaro.html",
+      "publishedAt": "2026-11-11T10:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jordan Goodwin, un retour en fanfare face aux Clippers",
+      "url": "https://www.basketusa.com/news/956580/jordan-goodwin-un-retour-en-fanfare-face-aux-clippers/",
+      "publishedAt": "2026-11-11T09:57:55+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : Amazon baisse déjà le prix de ses robots aspirateurs à prix FOU, nos 12 offres préférées jusqu’à -55%",
@@ -176,6 +260,12 @@
       "title": "[Le journal des Rookies – S9] Caleb Downs fait taire son grand frère",
       "url": "https://touchdownactu.com/361193/le-journal-des-rookies-s9-caleb-downs-fait-taire-son-grand-frere/",
       "publishedAt": "2026-11-11T09:30:53+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "AliExpress 11.11 : c'est le jour J ! Jusqu'à -120 € de remise avec des codes flash 48h",
+      "url": "https://www.generation-nt.com/actualites/aliexpress-promos-pas-cher-singles-day-manette-8bitdo-ultimate-2-aspirateur-robot-xiaomi-x20-max-imprimante-3d-creality-ender-3-2084294",
+      "publishedAt": "2026-11-11T09:30:01+00:00"
     },
     {
       "source": "basketusa",
@@ -526,12 +616,6 @@
       "publishedAt": "2026-11-11T05:40:19+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Giannis Antetokounmpo repousse le retour du Jazz",
-      "url": "https://www.basketusa.com/news/956491/giannis-antetokounmpo-repousse-le-retour-du-jazz/",
-      "publishedAt": "2026-11-11T05:34:13+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Après plus de trois ans de développement, Sony annule Fairgames",
       "url": "https://www.journaldugeek.com/2026/11/11/apres-plus-de-trois-ans-de-developpement-sony-annule-fairgames/",
@@ -554,6 +638,12 @@
       "title": "Le Black Friday Revopoint est arrivé : jusqu'à 50 % de réduction sur les scanners 3D !",
       "url": "https://www.generation-nt.com/actualites/revopoint-scanner-3d-black-friday-pop-metroy-ultra-pro-miraco-range-3-pro-inspire-mini-metrox-trackit-metrohub-2084181",
       "publishedAt": "2026-11-11T05:00:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Giannis Antetokounmpo repousse le retour du Jazz",
+      "url": "https://www.basketusa.com/news/956491/giannis-antetokounmpo-repousse-le-retour-du-jazz/",
+      "publishedAt": "2026-11-11T04:34:13+00:00"
     },
     {
       "source": "numerama",
@@ -1019,12 +1109,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Houston Rockets – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/956379/houston-rockets-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-10T14:46:14+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Chicago Bulls – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/956375/chicago-bulls-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-10T14:44:17+00:00"
@@ -1178,6 +1262,12 @@
       "title": "Un raté, une réussite historique et déjà le troisième vol : l’Europe s’apprête à accueillir un nouveau tir orbital",
       "url": "https://www.numerama.com/sciences/2371613-un-rate-une-reussite-historique-et-deja-le-troisieme-vol-leurope-sapprete-a-accueillir-un-nouveau-tir-orbital.html",
       "publishedAt": "2026-11-10T13:57:06+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Houston Rockets – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/956379/houston-rockets-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-10T13:46:14+00:00"
     },
     {
       "source": "gnt",
@@ -3404,168 +3494,6 @@
       "title": "Le prochain film de Steven Spielberg sera-t-il son dernier ? Cette annonce qui sème le doute",
       "url": "https://www.journaldugeek.com/2026/11/09/le-prochain-film-de-steven-spielberg-sera-t-il-son-dernier-cette-annonce-qui-seme-le-doute/",
       "publishedAt": "2026-11-09T11:00:11+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Les Français privés de certaines IA ? La loi Darcos sur l'intelligence artificielle et le droit d'auteur pourrait tout changer",
-      "url": "https://www.clubic.com/actualite-638302-les-francais-prives-de-certaines-ia-la-loi-darcos-sur-l-intelligence-artificielle-et-le-droit-d-auteur-pourrait-tout-changer.html",
-      "publishedAt": "2026-11-09T10:53:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Starship vol 15 : 14 tours de la Terre, 22 heures de mission et la capture du vaisseau en ligne de mire",
-      "url": "https://www.numerama.com/sciences/2370351-starship-vol-15-14-tours-de-la-terre-22-heures-de-mission-et-la-capture-du-vaisseau-en-ligne-de-mire.html",
-      "publishedAt": "2026-11-09T10:50:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le Mac mini M6 coûte déjà 100€ de moins que chez Apple : un vrai bon plan !",
-      "url": "https://www.mac4ever.com/mac/198930-le-mac-mini-m6-coute-deja-100-de-moins-que-chez-apple-un-vrai-bon-plan",
-      "publishedAt": "2026-11-09T10:46:57+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dennis Schröder et Kon Knueppel ensemble à l’infirmerie",
-      "url": "https://www.basketusa.com/news/955772/dennis-schroder-et-kon-knueppel-ensemble-a-linfirmerie/",
-      "publishedAt": "2026-11-09T10:44:48+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Avant même le Black Friday, Amazon brade déjà le Redmi Note 17",
-      "url": "https://www.clubic.com/bons-plans-638347-avant-meme-le-black-friday-amazon-brade-deja-le-redmi-note-17.html",
-      "publishedAt": "2026-11-09T10:43:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Après Microsoft Office et Photoshop, le vibe coding s'attaque au streaming",
-      "url": "https://www.clubic.com/actualite-638269-apres-office-et-photoshop-le-vibe-coding-s-attaque-au-streaming.html",
-      "publishedAt": "2026-11-09T10:43:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Windows 11 permet enfin de désactiver la boîte de dialogue des touches rémanentes",
-      "url": "https://www.generation-nt.com/actualites/windows-11-desactiver-touches-remanentes-2084146",
-      "publishedAt": "2026-11-09T10:40:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Les iPad en Sidecar vont gagner les raffinements tactiles du MacBook Pro OLED",
-      "url": "https://www.macg.co/macos/2026/11/les-ipad-en-sidecar-vont-gagner-les-raffinements-tactiles-du-macbook-pro-oled-312273",
-      "publishedAt": "2026-11-09T10:39:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Besoin d’une nouvelle montre connectée ? La HONOR CHOICE Watch 2i passe à 32,07 € pour le 11.11",
-      "url": "https://www.clubic.com/bons-plans-638323-besoin-d-une-nouvelle-montre-connectee-la-honor-choice-watch-2i-passe-a-32-07-pour-le-11-11.html",
-      "publishedAt": "2026-11-09T10:38:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Orange change complètement son application et intègre GPT, Claude, Gemini et Mistral",
-      "url": "https://www.numerama.com/tech/2370453-orange-change-completement-son-application-et-integre-gpt-claude-gemini-et-mistral.html",
-      "publishedAt": "2026-11-09T10:37:03+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Votre carte d’invalidité ne sera plus valide à partir de cette date, voici ce qui va la remplacer",
-      "url": "https://www.journaldugeek.com/2026/11/09/votre-carte-dinvalidite-ne-sera-plus-valide-a-partir-de-cette-date-voici-ce-qui-va-la-remplacer/",
-      "publishedAt": "2026-11-09T10:36:30+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "🔴 C’est officiel : il est désormais impossible de refuser le compteur Linky en France, ou vous allez payer très cher",
-      "url": "https://www.presse-citron.net/%f0%9f%94%b4-cest-officiel-il-est-desormais-impossible-de-refuser-le-compteur-linky-en-france-ou-vous-allez-payer-tres-cher/",
-      "publishedAt": "2026-11-09T10:32:30+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Binance perd son directeur financier après le piratage record",
-      "url": "https://www.generation-nt.com/actualites/binance-depart-directeur-financier-piratage-kaiser-ng-cryptomonnaie-2084168",
-      "publishedAt": "2026-11-09T10:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le Heat se met à l’heure de GTA VI",
-      "url": "https://www.basketusa.com/news/955883/le-heat-se-met-a-lheure-de-gta-vi/",
-      "publishedAt": "2026-11-09T10:25:11+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "« Des doigts en trop » dans la pub Dior : son réalisateur répond aux accusations d’IA",
-      "url": "https://www.clubic.com/actualite-638314-des-doigts-en-trop-dans-la-pub-dior-son-realisateur-repond-aux-accusations-d-ia.html",
-      "publishedAt": "2026-11-09T10:25:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple a économisé 2,7 milliards de dollars grâce à ce pays d’Asie",
-      "url": "https://www.iphon.fr/post/apple-economise-27-milliards-dollars-grace-pays-dasie",
-      "publishedAt": "2026-11-09T10:22:47+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Sega piraté, Mario Kart hors service dans les salles d'arcade japonaises",
-      "url": "https://korben.info/sega-pirate-mario-kart-hors-service-dans-les-salles-darcade-japonaises.html",
-      "publishedAt": "2026-11-09T10:21:57+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« On peut simplement le tenir pour acquis » : Linus Torvalds renonce à signaler les correctifs dus à l’IA dans Linux",
-      "url": "https://www.numerama.com/tech/2370333-on-peut-simplement-le-tenir-pour-acquis-linus-torvalds-renonce-a-signaler-les-correctifs-dus-a-lia-dans-linux.html",
-      "publishedAt": "2026-11-09T10:21:46+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Les héritiers d'Elvis et l'éditeur d'Eminem attaquent Suno",
-      "url": "https://korben.info/les-heritiers-delvis-et-lediteur-deminem-attaquent-suno.html",
-      "publishedAt": "2026-11-09T10:21:29+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Amazon sort le grand jeu pour le Black Friday et retire 130€ au casque de luxe de Sony",
-      "url": "https://www.clubic.com/bons-plans-638317-amazon-sort-le-grand-jeu-pour-le-black-friday-et-retire-130-au-casque-de-luxe-de-sony.html",
-      "publishedAt": "2026-11-09T10:21:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "L’IA pourrait mettre en danger toute l’industrie automobile",
-      "url": "https://www.numerama.com/vroom/2370307-lia-pourrait-mettre-en-danger-toute-lindustrie-automobile.html",
-      "publishedAt": "2026-11-09T10:20:12+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "BYD défie Rolls-Royce avec l'Altior, sa limousine aux phares sertis de 138 diamants",
-      "url": "https://www.mac4ever.com/auto/198923-byd-defie-rolls-royce-avec-l-altior-sa-limousine-aux-phares-sertis-de-138-diamants",
-      "publishedAt": "2026-11-09T10:15:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le réseau satellite russe Rassvet sert déjà à guider des frappes de drones en Ukraine",
-      "url": "https://www.generation-nt.com/actualites/russie-rassvet-constellation-satellite-guidage-drone-ukraine-2084142",
-      "publishedAt": "2026-11-09T10:10:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon retire 200€ au Google Pixel 11 dans sa version 512 Go",
-      "url": "https://www.clubic.com/bons-plans-638320-black-friday-amazon-retire-200-au-google-pixel-11-dans-sa-version-512-go.html",
-      "publishedAt": "2026-11-09T10:04:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Parc Dragon Ball de Cergy : un « caprice de gosse » présidentiel qui pose déjà de sérieux problèmes",
-      "url": "https://www.journaldugeek.com/2026/11/09/parc-dragon-ball-de-cergy-un-caprice-de-gosse-presidentiel-qui-pose-deja-de-serieux-problemes/",
-      "publishedAt": "2026-11-09T10:03:30+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Windows 11 27H2 prépare une refonte profonde sans passer par Windows 12",
-      "url": "https://www.generation-nt.com/actualites/windows-11-27h2-refonte-profonde-2084160",
-      "publishedAt": "2026-11-09T10:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Pureté et élégance pour la Nike Book 2 « Chromaflair »",
-      "url": "https://www.basketusa.com/news/955759/purete-et-elegance-pour-la-nike-book-2-chromaflair/",
-      "publishedAt": "2026-11-09T09:58:29+00:00"
     },
     {
       "source": "boulet",
