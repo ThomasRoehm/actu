@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:16:11.578731+00:00",
+  "generatedAt": "2026-11-11T20:16:04.900755+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T19:16:11.578731+00:00"
+      "lastSuccessAt": "2026-11-11T20:16:04.900755+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Digital Fairness Act (DFA) : Bruxelles veut mettre fin aux petites arnaques qui rapportent gros",
+      "url": "https://www.macg.co/services/2026/11/digital-fairness-act-dfa-bruxelles-veut-mettre-fin-aux-petites-arnaques-qui-rapportent-gros-312329",
+      "publishedAt": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Take-Two confirme la fin du développement de GTA VI et rehausse ses prévisions",
+      "url": "https://www.generation-nt.com/actualites/take-two-developpement-gta-vi-termine-2084285",
+      "publishedAt": "2026-11-11T19:05:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Kevin Durant et Stephen Curry se défient pour la 41e fois",
+      "url": "https://www.basketusa.com/news/956711/programme-du-soir-kevin-durant-et-stephen-curry-se-defient-pour-la-41e-fois/",
+      "publishedAt": "2026-11-11T18:50:21+00:00"
+    },
     {
       "source": "clubic",
       "title": "IA : non, le bain de sang dans l'emploi n'aura pas lieu, selon Yann Le Cun",
@@ -172,16 +190,16 @@
       "publishedAt": "2026-11-11T17:51:00+00:00"
     },
     {
+      "source": "macg",
+      "title": "Comment Lewis Trondheim a imaginé notre poster des 50 ans d’Apple",
+      "url": "https://www.macg.co/macgeneration/2026/11/comment-lewis-trondheim-imagine-notre-poster-des-50-ans-dapple-312081",
+      "publishedAt": "2026-11-11T17:50:00+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Samsung Galaxy S27 : des images nous montre des modules photos repensés",
       "url": "https://www.clubic.com/actualite-638845-samsung-galaxy-s27-des-images-nous-montre-des-modules-photos-repenses.html",
       "publishedAt": "2026-11-11T17:47:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Europe : Mark Tatum veut des salles plus accueillantes pour les familles",
-      "url": "https://www.basketusa.com/news/956667/nba-europe-mark-tatum-veut-des-salles-plus-accueillantes-pour-les-familles/",
-      "publishedAt": "2026-11-11T17:45:32+00:00"
     },
     {
       "source": "clubic",
@@ -200,6 +218,12 @@
       "title": "Black Friday 2026 : la suite Surfshark One (VPN + antivirus) à 2,49 € par mois",
       "url": "https://www.clubic.com/bons-plans-637483-black-friday-2026-la-suite-surfshark-one-vpn-antivirus-a-2-49-par-mois.html",
       "publishedAt": "2026-11-11T17:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Tim Hardaway Jr. déjà écarté de la rotation du Heat",
+      "url": "https://www.basketusa.com/news/956689/tim-hardaway-jr-deja-ecarte-de-la-rotation-du-heat/",
+      "publishedAt": "2026-11-11T17:13:42+00:00"
     },
     {
       "source": "gnt",
@@ -238,6 +262,12 @@
       "publishedAt": "2026-11-11T17:00:05+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Europe : Mark Tatum veut des salles plus accueillantes pour les familles",
+      "url": "https://www.basketusa.com/news/956667/nba-europe-mark-tatum-veut-des-salles-plus-accueillantes-pour-les-familles/",
+      "publishedAt": "2026-11-11T16:45:32+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Les montres connectées sous WearOS et Apple Watch peuvent désormais utiliser Muse, l'IA de Meta",
       "url": "https://www.clubic.com/actualite-638824-les-montres-connectees-sous-wearos-et-apple-watch-peuvent-desormais-utiliser-muse-l-ia-de-meta.html",
@@ -272,12 +302,6 @@
       "title": "iFixit dévoile le secret du logo Apple lumineux sur les MacBook Pro OLED",
       "url": "https://www.clubic.com/actualite-638818-ifixit-devoile-le-secret-du-logo-apple-lumineux-sur-les-macbook-pro-oled.html",
       "publishedAt": "2026-11-11T16:17:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Tim Hardaway Jr. déjà écarté de la rotation du Heat",
-      "url": "https://www.basketusa.com/news/956689/tim-hardaway-jr-deja-ecarte-de-la-rotation-du-heat/",
-      "publishedAt": "2026-11-11T16:13:42+00:00"
     },
     {
       "source": "basketusa",
@@ -452,12 +476,6 @@
       "title": "IPO d'Anthropic : chaque fondateur va toucher plusieurs centaines de millions de dollars !",
       "url": "https://www.clubic.com/actualite-638806-ipo-d-anthropic-chaque-fondateur-va-toucher-plusieurs-centaines-de-millions-d-euros.html",
       "publishedAt": "2026-11-11T14:02:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Comment Lewis Trondheim a imaginé notre poster des 50 ans d’Apple",
-      "url": "https://www.macg.co/macgeneration/2026/11/comment-lewis-trondheim-imagine-notre-poster-des-50-ans-dapple-312081",
-      "publishedAt": "2026-11-11T13:50:00+00:00"
     },
     {
       "source": "clubic",
@@ -2942,30 +2960,6 @@
       "title": "Claude Fable 5.2 et Mythos 5.2 lancés en même temps par Anthropic, qui fait une étonnante révélation",
       "url": "https://www.clubic.com/actualite-638497-claude-fable-5-2-et-mythos-5-2-lances-en-meme-temps-par-anthropic-qui-fait-une-etonnante-revelation.html",
       "publishedAt": "2026-11-09T20:34:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "“Sabotage sur le territoire national” : la France révèle l’auteur de la cyberattaque qui a touché 700 supermarchés en octobre",
-      "url": "https://www.presse-citron.net/sabotage-france-auteur-cyberattaque-supermarches/",
-      "publishedAt": "2026-11-09T19:42:07+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Android Auto abandonne des millions de smartphones",
-      "url": "https://www.generation-nt.com/actualites/android-auto-fin-support-android-9-10-smartphone-obsolete-2084237",
-      "publishedAt": "2026-11-09T19:40:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Fermeture de CNews : mission impossible ?",
-      "url": "https://www.presse-citron.net/petition-anti-cnews-malgre-million-signatures-pourquoi-chaine-fermera-pas/",
-      "publishedAt": "2026-11-09T19:24:35+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "L'intelligence artificielle va-t-elle accélérer la sortie de GTA 6 sur PC ?",
-      "url": "https://www.generation-nt.com/actualites/gta-6-pc-sortie-ia-2084150",
-      "publishedAt": "2026-11-09T19:20:02+00:00"
     },
     {
       "source": "boulet",
