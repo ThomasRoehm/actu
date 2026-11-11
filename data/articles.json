@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:31:03.135875+00:00",
+  "generatedAt": "2026-11-11T07:50:16.396562+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,123 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-11T06:31:03.135875+00:00"
+      "lastSuccessAt": "2026-11-11T07:50:16.396562+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "Un smartphone qui se déplie en petit écran de travail : le HONOR Magic V5 approche les 1 000 € pour le 11.11",
+      "url": "https://www.clubic.com/bons-plans-638620-un-smartphone-qui-se-deplie-en-petit-ecran-de-travail-le-honor-magic-v5-approche-les-1-000-pour-le-11-11.html",
+      "publishedAt": "2026-11-11T07:45:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Nintendo permet enfin d’offrir des jeux sur Switch, mais gare aux restrictions",
+      "url": "https://www.journaldugeek.com/2026/11/11/nintendo-permet-enfin-doffrir-des-jeux-sur-switch-mais-gare-aux-restrictions/",
+      "publishedAt": "2026-11-11T07:31:31+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "C’est le jour J du 11.11 : AliExpress lance 33 offres tech jusqu’à 80€ moins chères avec nos codes",
+      "url": "https://www.clubic.com/bons-plans-638680-c-est-le-jour-j-du-11-11-aliexpress-lance-33-offres-tech-jusqu-a-80-moins-cheres-avec-nos-codes.html",
+      "publishedAt": "2026-11-11T07:31:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Cdiscount fête le 11.11 : un code promo éphémère pour anticiper le Black Friday",
+      "url": "https://www.generation-nt.com/actualites/cdiscount-redmi-pad-2-9-7-ssd-crucial-apple-watch-se-3-tv-tcl-mini-led-switch-2-ecran-aoc-gigabyte-gaming-a16-promos-pas-cher-2084279",
+      "publishedAt": "2026-11-11T07:30:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Microsoft corrige 1 235 failles lors du Patch Tuesday de novembre 2026, dont un zero-day Outlook",
+      "url": "https://www.clubic.com/actualite-638749-microsoft-corrige-1-235-failles-lors-du-patch-tuesday-de-novembre-2026-dont-un-zero-day-outlook.html",
+      "publishedAt": "2026-11-11T07:30:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "6 questions auxquelles la saison 3 des Anneaux de pouvoir doit répondre",
+      "url": "https://www.numerama.com/pop-culture/2369607-6-questions-auxquelles-la-saison-3-des-anneaux-de-pouvoir-doit-repondre.html",
+      "publishedAt": "2026-11-11T07:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "CyberGhost n'a pas encore dévoilé ses cartes pour le Black Friday, mais son VPN est déjà à prix cassé !",
+      "url": "https://www.clubic.com/actualite-638710-black-friday-cyberghost-n-a-pas-encore-devoile-ses-cartes-mais-son-vpn-est-deja-a-prix-casse.html",
+      "publishedAt": "2026-11-11T07:25:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Retrouvailles glaciales entre Jayson Tatum et Jaylen Brown…",
+      "url": "https://www.basketusa.com/news/956498/retrouvailles-glaciales-entre-jayson-tatum-et-jaylen-brown/",
+      "publishedAt": "2026-11-11T07:15:33+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : chez quel opérateur pourrez-vous télécharger plus rapidement le jeu ?",
+      "url": "https://www.journaldugeek.com/2026/11/11/gta-6-chez-quel-operateur-pourrez-vous-telecharger-plus-rapidement-le-jeu/",
+      "publishedAt": "2026-11-11T07:04:08+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Astrolab veut installer des bornes solaires sur la Lune, et c’est un rover qui les déplacera",
+      "url": "https://www.clubic.com/actualite-638734-astrolab-veut-installer-des-bornes-solaires-sur-la-lune-et-c-est-un-rover-qui-les-deplacera.html",
+      "publishedAt": "2026-11-11T07:04:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "J’ai testé l’Asus ProArt P14 : sa puce Nvidia RTX Spark, conçue pour les pros de l’IA, peut-elle convenir pour le grand public ?",
+      "url": "https://www.presse-citron.net/asus-proart-p14-test/",
+      "publishedAt": "2026-11-11T07:00:28+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Airbus s'empare officiellement du record historique du plus long vol sans escale",
+      "url": "https://www.generation-nt.com/actualites/airbus-record-vol-sans-escale-2084287",
+      "publishedAt": "2026-11-11T07:00:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Ecovacs : jusqu’à 800 € de remise sur les robots aspirateurs et tondeuses",
+      "url": "https://www.clubic.com/actualite-636730-black-friday-ecovacs-jusqu-a-800-de-remise-sur-les-robots-aspirateurs-et-tondeuses.html",
+      "publishedAt": "2026-11-11T07:00:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Apple Intelligence : qui va devoir payer pour ces outils ?",
+      "url": "https://www.iphon.fr/post/credit-ia-apple-intelligence-icloud-plus",
+      "publishedAt": "2026-11-11T06:59:29+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Stats & Highlights | Les Knicks et les Suns déroulent, Orlando se relance",
+      "url": "https://www.basketusa.com/news/956500/stats-highlights-les-knicks-et-les-suns-deroulent-orlando-se-relance/",
+      "publishedAt": "2026-11-11T06:58:09+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Damian Lillard sort le grand jeu face au Thunder",
+      "url": "https://www.basketusa.com/news/956499/damian-lillard-sort-le-grand-jeu-face-au-thunder/",
+      "publishedAt": "2026-11-11T06:52:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Claris Harbor : quand le Mac devient une ferme de serveurs IA",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/claris-harbor-quand-le-mac-devient-une-ferme-de-serveurs-ia-312317",
+      "publishedAt": "2026-11-11T06:50:36+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "OpenAI dévoile Control Room pour surveiller ses tests d’IA et intervenir en cas d’alerte",
       "url": "https://www.clubic.com/actualite-638761-openai-devoile-control-room-pour-surveiller-ses-tests-d-ia-et-intervenir-en-cas-d-alerte.html",
       "publishedAt": "2026-11-11T06:30:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Ring fait finalement décoller son drone de surveillance",
+      "url": "https://www.journaldugeek.com/2026/11/11/ring-fait-finalement-decoller-son-drone-de-surveillance/",
+      "publishedAt": "2026-11-11T06:25:55+00:00"
     },
     {
       "source": "macg",
@@ -3488,114 +3596,6 @@
       "title": "LeBron James encore décisif dans le « money time »",
       "url": "https://www.basketusa.com/news/955890/lebron-james-encore-decisif-dans-le-money-time/",
       "publishedAt": "2026-11-09T07:54:42+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Outlook.com : si vous ne recevez plus d'email c'est normal, c'est un bug",
-      "url": "https://www.clubic.com/actualite-638236-outlook-com-si-vous-ne-recevez-plus-d-email-c-est-normal-c-est-un-bug.html",
-      "publishedAt": "2026-11-09T07:47:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La centrale nucléaire de Zaporijia bascule sur ses générateurs d'urgence, le risque de radiation plane",
-      "url": "https://www.generation-nt.com/actualites/centrale-zaporijia-bascule-generateurs-urgence-2084159",
-      "publishedAt": "2026-11-09T07:40:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "macOS 27.3 : Mots de passe permet de régler le délai avant verrouillage",
-      "url": "https://www.macg.co/logiciels/2026/11/macos-273-mots-de-passe-permet-de-regler-le-delai-avant-verrouillage-312269",
-      "publishedAt": "2026-11-09T07:32:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Après une nuit galère à Mexico, les Nuggets placent leurs titulaires sur la liste des blessés",
-      "url": "https://www.basketusa.com/news/955840/apres-une-nuit-galere-a-mexico-les-nuggets-placent-leurs-titulaires-sur-la-liste-des-blesses/",
-      "publishedAt": "2026-11-09T07:30:24+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Jensen Huang (Nvidia) a-t-il été piégé par les services secrets de Pékin ? Le Congrès demande des comptes",
-      "url": "https://www.generation-nt.com/actualites/nvidia-jensen-huang-espionnage-chine-congres-investigation-2084138",
-      "publishedAt": "2026-11-09T07:20:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Les Anneaux de pouvoir : l’Anneau unique a-t-il changé par rapport aux films ?",
-      "url": "https://www.numerama.com/pop-culture/2370209-les-anneaux-de-pouvoir-lanneau-unique-a-t-il-change-par-rapport-aux-films.html",
-      "publishedAt": "2026-11-09T07:17:45+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Siri pourrait devenir un véritable agent IA dès 2027",
-      "url": "https://www.mac4ever.com/ia/198920-siri-pourrait-devenir-un-veritable-agent-ia-des-2027",
-      "publishedAt": "2026-11-09T07:16:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Single Day 11.11 : la Redmi Pad 2 et son écran 2,5K passent à 182,25€",
-      "url": "https://www.clubic.com/bons-plans-638107-single-day-11-11-la-redmi-pad-2-et-son-ecran-2-5k-passent-a-182-25.html",
-      "publishedAt": "2026-11-09T07:10:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jaylen Brown n’a vraiment « rien à dire » à Jayson Tatum…",
-      "url": "https://www.basketusa.com/news/955849/jaylen-brown-na-plus-rien-a-dire-a-jayson-tatum/",
-      "publishedAt": "2026-11-09T07:02:07+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "WhatsApp : 4 astuces pour lire un message sans confirmation de lecture sur iPhone",
-      "url": "https://www.iphon.fr/post/whatsapp-comment-lire-message-sans-confirmation-lecture-iphone",
-      "publishedAt": "2026-11-09T07:01:11+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Enfin une date pour les lunettes de connectées de Google",
-      "url": "https://www.journaldugeek.com/2026/11/09/enfin-une-date-pour-les-lunettes-de-connectees-de-google/",
-      "publishedAt": "2026-11-09T07:00:49+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Tesla doit ajouter une équipe pour produire plus de Cybertruck avant sa fin programmée",
-      "url": "https://www.numerama.com/vroom/2370205-tesla-ajoute-une-equipe-pour-produire-plus-de-cybertruck-avant-sa-fin-programmee.html",
-      "publishedAt": "2026-11-09T07:00:25+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "J’ai testé le Lenovo Googlebook 15, et c’est une bien mauvaise façon de dépenser 1350€",
-      "url": "https://www.presse-citron.net/lenovo-googlebook-15-test/",
-      "publishedAt": "2026-11-09T07:00:07+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Fait rarissime, Free enchaîne trois mises à jour de sécurité pour ses Freebox en moins de 48 heures",
-      "url": "https://www.clubic.com/actualite-638260-fait-rarissime-free-enchaine-trois-mises-a-jour-de-securite-pour-ses-freebox-en-moins-de-48-heures.html",
-      "publishedAt": "2026-11-09T06:57:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Austin Reaves se prend pour Luka Doncic !",
-      "url": "https://www.basketusa.com/news/955825/le-mvp-de-la-nuit-austin-reaves-se-prend-pour-luka-doncic/",
-      "publishedAt": "2026-11-09T06:45:32+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Starlink augmente ses tarifs jusqu'à 20 % dans les zones saturées !",
-      "url": "https://www.generation-nt.com/actualites/starlink-augmente-tarifs-zones-saturees-2084156",
-      "publishedAt": "2026-11-09T06:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "La NASA recrute des astronautes pour vivre et travailler sur la Lune",
-      "url": "https://www.clubic.com/actualite-638263-la-nasa-recrute-des-astronautes-pour-vivre-et-travailler-sur-la-lune.html",
-      "publishedAt": "2026-11-09T06:45:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Le « poulet de l’enfer » : une équipe de scientifiques découvre un étrange dinosaure qui ne mangeait que des fruits, une première mondiale",
-      "url": "https://www.presse-citron.net/poulet-lenfer-equipe-scientifiques-decouvre-etrange-dinosaure-mangeait-que-des-fruits-premiere-mondiale/",
-      "publishedAt": "2026-11-09T06:31:11+00:00"
     },
     {
       "source": "boulet",
