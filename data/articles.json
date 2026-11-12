@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:17:20.504841+00:00",
+  "generatedAt": "2026-11-12T20:44:17.917111+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:17:20.504841+00:00"
+      "lastSuccessAt": "2026-11-12T20:44:17.917111+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Le préchargement de GTA 6 sature déjà les réseaux des opérateurs",
+      "url": "https://www.generation-nt.com/actualites/preload-gta6-saturation-reseaux-2084355",
+      "publishedAt": "2026-11-12T20:25:01+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'exécutif sommé d'endiguer l'affaiblissement cognitif causé par l'IA",
+      "url": "https://www.generation-nt.com/actualites/intelligence-artificielle-rapport-macron-regulation-cognition-2084444",
+      "publishedAt": "2026-11-12T20:00:01+00:00"
+    },
     {
       "source": "gnt",
       "title": "Zelda Ocarina of Time explose les compteurs sur Switch 2 avec 5 millions de ventes",
@@ -194,12 +206,6 @@
       "title": "Gemini Robotics 2.5 fait ses preuves chez Mercedes-Benz",
       "url": "https://www.generation-nt.com/actualites/google-deepmind-gemini-robotics-mercedes-benz-2084441",
       "publishedAt": "2026-11-12T18:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Prime Video offre deux affiches de la NBA Cup pour le Black Friday",
-      "url": "https://www.basketusa.com/news/957023/prime-video-offre-deux-affiches-de-la-nba-cup-pour-le-black-friday/",
-      "publishedAt": "2026-11-12T18:22:29+00:00"
     },
     {
       "source": "gnt",
@@ -284,6 +290,12 @@
       "title": "Anthropic pourrait abandonner rapidement son partenariat avec SpaceX... ce qui réjouit Elon Musk",
       "url": "https://www.clubic.com/actualite-639049-anthropic-pourrait-abandonner-rapidement-son-partenariat-avec-spacex-ce-qui-rejouit-elon-musk.html",
       "publishedAt": "2026-11-12T17:27:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Prime Video offre deux affiches de la NBA Cup pour le Black Friday",
+      "url": "https://www.basketusa.com/news/957023/prime-video-offre-deux-affiches-de-la-nba-cup-pour-le-black-friday/",
+      "publishedAt": "2026-11-12T17:22:29+00:00"
     },
     {
       "source": "gnt",
@@ -496,6 +508,12 @@
       "publishedAt": "2026-11-12T15:35:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le 12 novembre 2010, Kevin Love se mettait doublement sur son 31",
+      "url": "https://www.basketusa.com/news/609049/il-y-a-dix-ans-kevin-love-se-mettait-doublement-sur-son-31/",
+      "publishedAt": "2026-11-12T15:30:43+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Marvel 1943 : Rise of Hydra est encore vivant, mais peut-être pas pour longtemps",
       "url": "https://www.journaldugeek.com/2026/11/12/marvel-1943-rise-of-hydra-est-encore-vivant-mais-peut-etre-pas-pour-longtemps/",
@@ -626,12 +644,6 @@
       "title": "L'iPhone 18 Pro Max rafle le podium d'autonomie avec une batterie plus petite",
       "url": "https://www.mac4ever.com/iphone/198998-l-iphone-18-pro-max-rafle-le-podium-d-autonomie-avec-une-batterie-plus-petite",
       "publishedAt": "2026-11-12T14:32:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le 12 novembre 2010, Kevin Love se mettait doublement sur son 31",
-      "url": "https://www.basketusa.com/news/609049/il-y-a-dix-ans-kevin-love-se-mettait-doublement-sur-son-31/",
-      "publishedAt": "2026-11-12T14:30:43+00:00"
     },
     {
       "source": "tda",
@@ -1264,12 +1276,6 @@
       "publishedAt": "2026-11-12T09:58:31+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "La KD 19 « Slim Reaper » arrive en France !",
-      "url": "https://www.basketusa.com/news/956722/la-kd-19-slim-reaper-arrive-en-france/",
-      "publishedAt": "2026-11-12T09:56:19+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Le Pixel 11 aura bien le droit à GrapheneOS, et c'est grâce à Android 17 QPR2",
       "url": "https://www.clubic.com/actualite-638830-le-pixel-11-aura-bien-le-droit-a-grapheneos-et-c-est-grace-a-android-17-qpr2.html",
@@ -1424,6 +1430,12 @@
       "title": "Jensen Huang poussé vers la sortie chez Nvidia après deux affaires de cœur",
       "url": "https://korben.info/jensen-huang-pousse-vers-la-sortie-chez-nvidia-apres-deux-affaires-de-coeur.html",
       "publishedAt": "2026-11-12T09:02:41+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La KD 19 « Slim Reaper » arrive en France !",
+      "url": "https://www.basketusa.com/news/956722/la-kd-19-slim-reaper-arrive-en-france/",
+      "publishedAt": "2026-11-12T08:56:19+00:00"
     },
     {
       "source": "clubic",
@@ -2870,12 +2882,6 @@
       "title": "Josh Downs envoyé aux Chiefs",
       "url": "https://touchdownactu.com/361229/josh-downs-envoye-aux-chiefs/",
       "publishedAt": "2026-11-10T20:59:31+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Code promo HOLY : \"Mac4Ever\" et 10% sur votre première commande",
-      "url": "https://www.mac4ever.com/divers/198944-code-promo-holy-mac4ever-et-10-sur-votre-premiere-commande",
-      "publishedAt": "2026-11-10T20:42:22+00:00"
     },
     {
       "source": "boulet",
