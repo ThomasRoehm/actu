@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:06:30.991491+00:00",
+  "generatedAt": "2026-11-12T21:13:24.637285+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
+      "lastSuccessAt": "2026-11-12T21:13:24.637285+00:00"
     }
   ],
   "articles": [
@@ -544,6 +544,12 @@
       "publishedAt": "2026-11-12T15:28:07+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Indiana Pacers – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/956961/indiana-pacers-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-12T15:25:23+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Le réseau satellite Starshield de nouveau bridé en Ukraine",
       "url": "https://www.generation-nt.com/actualites/starshield-reseau-satellite-ukraine-bridage-2084407",
@@ -554,12 +560,6 @@
       "title": "San Antonio Spurs – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/956968/san-antonio-spurs-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-12T15:23:10+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Clippers – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/956928/los-angeles-clippers-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-12T15:21:48+00:00"
     },
     {
       "source": "mac4ever",
@@ -616,12 +616,6 @@
       "publishedAt": "2026-11-12T14:59:31+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Maladroit, Jayson Tatum a pourtant sonné la révolte des Celtics",
-      "url": "https://www.basketusa.com/news/956947/maladroit-jayson-tatum-a-pourtant-sonne-la-revolte-des-celtics/",
-      "publishedAt": "2026-11-12T14:56:52+00:00"
-    },
-    {
       "source": "presse",
       "title": "Arrêt du permis rose : il ne sera bientôt plus valable, voici la date limite officielle pour le changer",
       "url": "https://www.presse-citron.net/arret-du-permis-rose-il-ne-sera-bientot-plus-valable-voici-la-date-limite-officielle-pour-le-changer/",
@@ -676,16 +670,16 @@
       "publishedAt": "2026-11-12T14:30:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Indiana Pacers – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/956961/indiana-pacers-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-12T14:25:23+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Nvidia : Jensen Huang démissionne ! Voici qui prend les commandes",
       "url": "https://www.mac4ever.com/ia/198997-nvidia-jensen-huang-demissionne-voici-qui-prend-les-commandes",
       "publishedAt": "2026-11-12T14:23:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Clippers – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/956928/los-angeles-clippers-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-12T14:21:48+00:00"
     },
     {
       "source": "clubic",
@@ -764,6 +758,12 @@
       "title": "Le FSD de Tesla arrive en Finlande, rebaptisé et bridé juste avant l'hiver",
       "url": "https://www.mac4ever.com/auto/198995-le-fsd-de-tesla-arrive-en-finlande-rebaptise-et-bride-juste-avant-l-hiver",
       "publishedAt": "2026-11-12T13:58:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Maladroit, Jayson Tatum a pourtant sonné la révolte des Celtics",
+      "url": "https://www.basketusa.com/news/956947/maladroit-jayson-tatum-a-pourtant-sonne-la-revolte-des-celtics/",
+      "publishedAt": "2026-11-12T13:56:52+00:00"
     },
     {
       "source": "clubic",
