@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:44:04.590236+00:00",
+  "generatedAt": "2026-11-12T22:28:25.345300+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
+      "lastSuccessAt": "2026-11-12T22:28:25.345300+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Jensen Huang aurait eu une liaison avec une deuxième employée de Nvidia, soit trois femmes au total",
+      "url": "https://www.macg.co/ailleurs/2026/11/j-jensen-huang-aurait-eu-une-liaison-avec-une-deuxieme-employee-de-nvidia-soit-trois-femmes-au-total-312359",
+      "publishedAt": "2026-11-12T22:15:55+00:00"
+    },
     {
       "source": "numerama",
       "title": "Quel est ce « Feu Secret » que Gandalf dit servir dans Les Anneaux de pouvoir ?",
@@ -226,12 +232,6 @@
       "publishedAt": "2026-11-12T18:30:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Prime Video offre deux affiches de la NBA Cup pour le Black Friday",
-      "url": "https://www.basketusa.com/news/957023/prime-video-offre-deux-affiches-de-la-nba-cup-pour-le-black-friday/",
-      "publishedAt": "2026-11-12T18:22:29+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Katsuhiro Harada (Tekken) tacle la Xbox Series S devant les cadres de la marque",
       "url": "https://www.generation-nt.com/actualites/actualite-harada-xbox-series-2084351",
@@ -314,6 +314,12 @@
       "title": "Anthropic pourrait abandonner rapidement son partenariat avec SpaceX... ce qui réjouit Elon Musk",
       "url": "https://www.clubic.com/actualite-639049-anthropic-pourrait-abandonner-rapidement-son-partenariat-avec-spacex-ce-qui-rejouit-elon-musk.html",
       "publishedAt": "2026-11-12T17:27:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Prime Video offre deux affiches de la NBA Cup pour le Black Friday",
+      "url": "https://www.basketusa.com/news/957023/prime-video-offre-deux-affiches-de-la-nba-cup-pour-le-black-friday/",
+      "publishedAt": "2026-11-12T17:22:29+00:00"
     },
     {
       "source": "gnt",
@@ -556,12 +562,6 @@
       "publishedAt": "2026-11-12T15:28:07+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Indiana Pacers – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/956961/indiana-pacers-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-12T15:25:23+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Le réseau satellite Starshield de nouveau bridé en Ukraine",
       "url": "https://www.generation-nt.com/actualites/starshield-reseau-satellite-ukraine-bridage-2084407",
@@ -634,6 +634,12 @@
       "publishedAt": "2026-11-12T14:59:31+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Maladroit, Jayson Tatum a pourtant sonné la révolte des Celtics",
+      "url": "https://www.basketusa.com/news/956947/maladroit-jayson-tatum-a-pourtant-sonne-la-revolte-des-celtics/",
+      "publishedAt": "2026-11-12T14:56:52+00:00"
+    },
+    {
       "source": "presse",
       "title": "Arrêt du permis rose : il ne sera bientôt plus valable, voici la date limite officielle pour le changer",
       "url": "https://www.presse-citron.net/arret-du-permis-rose-il-ne-sera-bientot-plus-valable-voici-la-date-limite-officielle-pour-le-changer/",
@@ -686,6 +692,12 @@
       "title": "Italie-France : où voir le match de foot en direct et en streaming ?",
       "url": "https://www.numerama.com/pop-culture/2372963-italie-france-ou-voir-le-match-de-foot-en-direct-et-en-streaming.html",
       "publishedAt": "2026-11-12T14:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Indiana Pacers – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/956961/indiana-pacers-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-12T14:25:23+00:00"
     },
     {
       "source": "mac4ever",
@@ -770,12 +782,6 @@
       "title": "Le FSD de Tesla arrive en Finlande, rebaptisé et bridé juste avant l'hiver",
       "url": "https://www.mac4ever.com/auto/198995-le-fsd-de-tesla-arrive-en-finlande-rebaptise-et-bride-juste-avant-l-hiver",
       "publishedAt": "2026-11-12T13:58:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Maladroit, Jayson Tatum a pourtant sonné la révolte des Celtics",
-      "url": "https://www.basketusa.com/news/956947/maladroit-jayson-tatum-a-pourtant-sonne-la-revolte-des-celtics/",
-      "publishedAt": "2026-11-12T13:56:52+00:00"
     },
     {
       "source": "clubic",
