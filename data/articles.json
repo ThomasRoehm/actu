@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T08:28:44.770283+00:00",
+  "generatedAt": "2026-11-12T09:30:31.161329+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,207 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T08:28:44.770283+00:00"
+      "lastSuccessAt": "2026-11-12T09:30:31.161329+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Logitech accorde un jour de congé à ses salariés pour jouer à GTA 6",
+      "url": "https://www.generation-nt.com/actualites/logitech-conge-salarie-gta-vi-2084323",
+      "publishedAt": "2026-11-12T09:30:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Dans iOS 27.3, Safari peut dire « non » aux bandeaux cookie à votre place (mais les sites web peuvent ignorer votre choix)",
+      "url": "https://www.numerama.com/tech/2372649-dans-ios-27-3-safari-peut-dire-non-aux-bandeaux-cookies-a-votre-place-mais-les-sites-web-peuvent-ignorer-votre-choix.html",
+      "publishedAt": "2026-11-12T09:28:34+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Opportuniste, Elon Musk prêt à embaucher Jensen Huang, « Ce serait un honneur », dit-il !",
+      "url": "https://www.clubic.com/actualite-638923-opportuniste-elon-musk-pret-a-embaucher-jensen-huang-ce-serait-un-honneur-dit-il.html",
+      "publishedAt": "2026-11-12T09:28:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Promo : le Mac Studio M5 Max de base à 2 666 € au lieu de 2 999 sur Amazon Italie",
+      "url": "https://www.macg.co/mac/2026/11/promo-le-mac-studio-m5-max-de-base-2-666-eu-au-lieu-de-2-999-sur-amazon-italie-312337",
+      "publishedAt": "2026-11-12T09:25:42+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Le Seigneur des Anneaux The Hunt for Gollum a une bonne nouvelle pour vous",
+      "url": "https://www.numerama.com/pop-culture/2372609-le-seigneur-des-anneaux-the-hunt-for-gollum-a-une-bonne-nouvelle-pour-vous.html",
+      "publishedAt": "2026-11-12T09:25:18+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Nvidia : le conseil d'administration prépare l'éviction de Jensen Huang !",
+      "url": "https://www.generation-nt.com/actualites/nvidia-jensen-huang-eviction-depart-conseil-administration-2084381",
+      "publishedAt": "2026-11-12T09:20:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Écrire avec ChatGPT, comparer avec Claude et Gemini : 1min.AI Pro passe à 28,76€ à vie pour le Black Friday",
+      "url": "https://www.clubic.com/bons-plans-638932-ecrire-avec-chatgpt-comparer-avec-claude-et-gemini-1min-ai-pro-passe-a-28-76-a-vie-pour-le-black-friday.html",
+      "publishedAt": "2026-11-12T09:19:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 : que contient vraiment la version physique ?",
+      "url": "https://www.numerama.com/pop-culture/2372529-gta-6-que-contient-vraiment-la-version-physique.html",
+      "publishedAt": "2026-11-12T09:18:59+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "Transfert annulé, râteau et excuses : les 5 infos NFL du jeudi",
+      "url": "https://touchdownactu.com/361272/transfert-annule-rateau-et-excuses-les-5-infos-nfl-du-jeudi/",
+      "publishedAt": "2026-11-12T09:16:59+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Apple fermerait son forum d'entraide, 28 ans de réponses pourraient disparaître",
+      "url": "https://korben.info/apple-fermerait-son-forum-dentraide-28-ans-de-reponses-pourraient-disparaitre.html",
+      "publishedAt": "2026-11-12T09:13:28+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Top 3 du jour : HUAWEI Watch Fit 5 Pro à 250€, manette Razer Raiju V3 Pro à 130€ et POCO X8s à 430€",
+      "url": "https://www.generation-nt.com/actualites/montre-connectee-huawei-watch-fit-5-pro-manette-razer-raiju-v3-pro-poco-x8s-smartphone-promos-pas-cher-2084377",
+      "publishedAt": "2026-11-12T09:10:01+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Les 20 milliards versés par Google à Apple finissent devant un juge canadien",
+      "url": "https://www.mac4ever.com/societe/198983-les-20-milliards-verses-par-google-a-apple-finissent-devant-un-juge-canadien",
+      "publishedAt": "2026-11-12T09:10:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "On a beau chercher, impossible de trouver la Switch 2 moins chère qu’avec ce code promo AliExpress",
+      "url": "https://www.numerama.com/tech/2372521-on-a-beau-chercher-impossible-de-trouver-la-switch-2-moins-chere-quavec-ce-code-promo-aliexpress.html",
+      "publishedAt": "2026-11-12T09:08:49+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Un VPN gratuit et illimité dans Firefox : Mozilla jette à la poubelle la limite des 50 Go par mois, mais pour un temps",
+      "url": "https://www.numerama.com/cyberguerre/2372523-un-vpn-gratuit-et-illimite-dans-firefox-mozilla-jette-a-la-poubelle-la-limite-des-50-go-par-mois-mais-pour-un-temps.html",
+      "publishedAt": "2026-11-12T09:07:50+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Critique Comment braquer une banque ou quand David Leitch explose les codes et casse l’écran, pas la banque",
+      "url": "https://www.journaldugeek.com/critique/critique-comment-braquer-une-banque-ou-quand-david-leitch-explose-les-codes-et-casse-lecran-pas-la-banque/",
+      "publishedAt": "2026-11-12T09:07:18+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Des alertes pour Austin Reaves et Luka Doncic",
+      "url": "https://www.basketusa.com/news/956764/des-alertes-pour-austin-reaves-et-luka-doncic/",
+      "publishedAt": "2026-11-12T09:05:11+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "La prochaine Maserati sera conçue avec Huawei et fabriquée en Chine : Stellantis va-t-il tuer l’ancien symbole du luxe à l’italienne ?",
+      "url": "https://www.presse-citron.net/prochaine-maserati-concue-huawei-fabriquee-chine-stellantis-tuer-lancien-symbole-luxe-litalienne/",
+      "publishedAt": "2026-11-12T09:02:49+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Jensen Huang poussé vers la sortie chez Nvidia après deux affaires de cœur",
+      "url": "https://korben.info/jensen-huang-pousse-vers-la-sortie-chez-nvidia-apres-deux-affaires-de-coeur.html",
+      "publishedAt": "2026-11-12T09:02:41+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Google Photos va s'inspirer d'Apple pour une édition non destructrice de vos clichés",
+      "url": "https://www.clubic.com/actualite-638839-google-photos-va-s-inspirer-d-apple-pour-une-edition-non-destructrice-de-vos-cliches.html",
+      "publishedAt": "2026-11-12T08:53:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Google veut vous faire oublier Nvidia pour vos agents IA",
+      "url": "https://korben.info/google-veut-vous-faire-oublier-nvidia-pour-vos-agents-ia.html",
+      "publishedAt": "2026-11-12T08:52:28+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "AMD dévoile l'architecture Zen 6 et ses puces EPYC Venice à 256 cœurs",
+      "url": "https://www.generation-nt.com/actualites/amd-devoile-architecture-zen-epyc-2084322",
+      "publishedAt": "2026-11-12T08:50:01+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Google Gemini débarque sur CarPlay : Siri a de plus en plus de concurrence !",
+      "url": "https://www.mac4ever.com/auto/198979-google-gemini-debarque-sur-carplay-siri-a-de-plus-en-plus-de-concurrence",
+      "publishedAt": "2026-11-12T08:47:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "11.11 AliExpress : 27 offres tech du Single Day vérifiées et encore en stock",
+      "url": "https://www.clubic.com/bons-plans-638680-c-est-le-jour-j-du-11-11-aliexpress-lance-33-offres-tech-jusqu-a-80-moins-cheres-avec-nos-codes.html",
+      "publishedAt": "2026-11-12T08:45:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Tim Cook à la tête de Nvidia ? Voici les noms qui circulent après le scandale Jensen Huang",
+      "url": "https://www.presse-citron.net/tim-cook-nvidia-noms-circulent-scandale-jensen-huang/",
+      "publishedAt": "2026-11-12T08:44:39+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Quelles sont les nouveautés avec le Google Pixel Drop de novembre ?",
+      "url": "https://www.generation-nt.com/actualites/google-pixel-drop-novembre-gemini-intelligence-pixel-tag-2084367",
+      "publishedAt": "2026-11-12T08:41:45+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone Duo : le «crackgate» c’est terminé ? Apple a définitivement réglé le problème",
+      "url": "https://www.iphon.fr/post/iphone-duo-crackgate-apple-probleme",
+      "publishedAt": "2026-11-12T08:41:42+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Emily in Paris tire (enfin) sa révérence avec une bande-annonce finale qui va voir ailleurs si elle y est",
+      "url": "https://www.journaldugeek.com/2026/11/12/emily-in-paris-tire-enfin-sa-reverence-avec-une-bande-annonce-finale-qui-va-voir-ailleurs-si-elle-y-est/",
+      "publishedAt": "2026-11-12T08:41:38+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "James Harden enfin à la hauteur de sa réputation",
+      "url": "https://www.basketusa.com/news/956790/james-harden-enfin-a-la-hauteur-de-sa-reputation/",
+      "publishedAt": "2026-11-12T08:39:14+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Black Friday 2026 en direct : faut-il attendre le 27 novembre ? Pas pour ces offres-là",
+      "url": "https://www.numerama.com/tech/2363357-black-friday-2026-en-direct-faut-il-attendre-le-27-pas-pour-ces-offres-la.html",
+      "publishedAt": "2026-11-12T08:39:11+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Sur Windows 11, Microsoft met enfin un terme à deux mois de galère avec les périphériques audio USB",
+      "url": "https://www.clubic.com/actualite-638920-sur-windows-11-microsoft-met-enfin-un-terme-a-deux-mois-de-galere-avec-les-peripheriques-audio-usb.html",
+      "publishedAt": "2026-11-12T08:37:00+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[Preview] Semaine 10 (jeudi) : l’heure de vérité pour New York",
+      "url": "https://touchdownactu.com/361029/preview-semaine-10-jeudi-lheure-de-verite-pour-new-york/",
+      "publishedAt": "2026-11-12T08:30:41+00:00"
+    },
     {
       "source": "clubic",
       "title": "Tout savoir sur UVEX, le télescope spatial de la NASA qui va traquer les plus violentes explosions de l’Univers",
       "url": "https://www.clubic.com/actualite-638899-tout-savoir-sur-uvex-le-telescope-spatial-de-la-nasa-qui-va-traquer-les-plus-violentes-explosions-de-l-univers.html",
       "publishedAt": "2026-11-12T08:24:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "XPeng : les (vraies) voitures volantes, c'est pour 2027 !",
+      "url": "https://www.generation-nt.com/actualites/xpeng-voiture-volante-commercialisation-chine-2084332",
+      "publishedAt": "2026-11-12T08:20:01+00:00"
     },
     {
       "source": "clubic",
@@ -191,7 +383,7 @@
     },
     {
       "source": "numerama",
-      "title": "Death Stranding 2 rejoint le PlayStation Plus Extra et Premium en novembre 2026",
+      "title": "PlayStation Plus Extra et Premium : il y a de très gros jeux pour ce mois de novembre 2026",
       "url": "https://www.numerama.com/pop-culture/2372489-death-stranding-2-rejoint-le-playstation-plus-extra-et-premium-en-novembre-2026.html",
       "publishedAt": "2026-11-12T07:52:52+00:00"
     },
@@ -298,6 +490,12 @@
       "publishedAt": "2026-11-12T06:58:03+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Wemby remet les Spurs à l’endroit",
+      "url": "https://www.basketusa.com/news/956753/le-mvp-de-la-nuit-wemby-remet-les-spurs-a-lendroit/",
+      "publishedAt": "2026-11-12T06:56:00+00:00"
+    },
+    {
       "source": "clubic",
       "title": "La PS5 entre dans \"le club des 100 millions\", aux côtés des plus grandes consoles de l'Histoire",
       "url": "https://www.clubic.com/actualite-638842-la-ps5-entre-dans-le-club-des-100-millions-aux-cotes-des-plus-grandes-consoles-de-l-histoire.html",
@@ -323,7 +521,7 @@
     },
     {
       "source": "gnt",
-      "title": "La Finlande autorise la conduite assistée de Tesla juste avant l'hiver",
+      "title": "La Finlande autorise la conduite assistée de Tesla juste avant l'hiver (et la neige sur les caméras)",
       "url": "https://www.generation-nt.com/actualites/tesla-fsd-conduite-assistee-finlande-autorisation-homologation-2084329",
       "publishedAt": "2026-11-12T06:30:01+00:00"
     },
@@ -412,12 +610,6 @@
       "publishedAt": "2026-11-12T05:57:42+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Wemby remet les Spurs à l’endroit",
-      "url": "https://www.basketusa.com/news/956753/le-mvp-de-la-nuit-wemby-remet-les-spurs-a-lendroit/",
-      "publishedAt": "2026-11-12T05:56:00+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Samsung prépare un smartphone à écran extensible !",
       "url": "https://www.clubic.com/actualite-638854-samsung-prepare-un-smartphone-a-ecran-extensible.html",
@@ -479,7 +671,7 @@
     },
     {
       "source": "gnt",
-      "title": "Pour atteindre Mars, les sondes ESCAPADE de la NASA prennent leur élan grâce à la Terre",
+      "title": "Pour atteindre Mars, les sondes ESCAPADE de la NASA réalisent une manoeuvre jamais tentée",
       "url": "https://www.generation-nt.com/actualites/nasa-escapade-mission-destination-mars-assistance-gravitationnelle-2084276",
       "publishedAt": "2026-11-11T18:30:01+00:00"
     },
@@ -719,12 +911,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Phoenix Suns – Charlotte Hornets : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/956657/phoenix-suns-charlotte-hornets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-11T14:44:17+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Milwaukee Bucks – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/956645/milwaukee-bucks-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-11T14:42:47+00:00"
@@ -788,6 +974,12 @@
       "title": "IPO d'Anthropic : chaque fondateur va toucher plusieurs centaines de millions de dollars !",
       "url": "https://www.clubic.com/actualite-638806-ipo-d-anthropic-chaque-fondateur-va-toucher-plusieurs-centaines-de-millions-d-euros.html",
       "publishedAt": "2026-11-11T14:02:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Phoenix Suns – Charlotte Hornets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/956657/phoenix-suns-charlotte-hornets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-11T13:44:17+00:00"
     },
     {
       "source": "clubic",
@@ -1358,12 +1550,6 @@
       "title": "Nintendo permet enfin d’offrir des jeux sur Switch, mais gare aux restrictions",
       "url": "https://www.journaldugeek.com/2026/11/11/nintendo-permet-enfin-doffrir-des-jeux-sur-switch-mais-gare-aux-restrictions/",
       "publishedAt": "2026-11-11T07:31:31+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "11.11 AliExpress : 27 offres tech du Single Day vérifiées et encore en stock",
-      "url": "https://www.clubic.com/bons-plans-638680-c-est-le-jour-j-du-11-11-aliexpress-lance-33-offres-tech-jusqu-a-80-moins-cheres-avec-nos-codes.html",
-      "publishedAt": "2026-11-11T07:31:00+00:00"
     },
     {
       "source": "gnt",
@@ -2708,144 +2894,6 @@
       "title": "Sur ce point, les iPhone 18 et 18e seront logés à la même enseigne",
       "url": "https://www.iphon.fr/post/iphone-18-18e-autonomie-rumeurs",
       "publishedAt": "2026-11-10T09:31:49+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Loups Garous saison 3 : les premiers épisodes seront proposés en accès libre et gratuit sur Canal+, comment en profiter ?",
-      "url": "https://www.journaldugeek.com/2026/11/10/loups-garous-saison-3-les-premiers-episodes-seront-proposes-en-acces-libre-et-gratuit-sur-canal-comment-en-profiter/",
-      "publishedAt": "2026-11-10T09:25:35+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Jensen Huang (Nvidia) et espionnage chinois, le FBI s'en mêle !",
-      "url": "https://www.generation-nt.com/actualites/nvidia-jensen-huang-espionnage-chine-fbi-investigation-2084258",
-      "publishedAt": "2026-11-10T09:25:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le petit yéti de Meta veut remplacer Siri sur l'Apple Watch (ou presque)",
-      "url": "https://www.mac4ever.com/ia/198948-le-petit-yeti-de-meta-veut-remplacer-siri-sur-l-apple-watch-ou-presque",
-      "publishedAt": "2026-11-10T09:25:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La Air Jordan 6 « White Infrared » est de sortie",
-      "url": "https://www.basketusa.com/news/956164/la-air-jordan-6-white-infrared-est-de-sortie/",
-      "publishedAt": "2026-11-10T09:21:29+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Du bon son et moins de bruit : le casque Sony WH-1000XM6 passe à 365,48 € pour le 11.11 d’AliExpress",
-      "url": "https://www.clubic.com/bons-plans-638506-du-bon-son-et-moins-de-bruit-le-casque-sony-wh-1000xm6-passe-a-365-48-pour-le-11-11-d-aliexpress.html",
-      "publishedAt": "2026-11-10T09:21:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "CATL explore la batterie lithium-air pour viser 2 000 km d'autonomie",
-      "url": "https://www.generation-nt.com/actualites/catl-batterie-lithium-air-autonomie-2084221",
-      "publishedAt": "2026-11-10T09:15:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Fin de la carte d’invalidité : elle ne sera bientôt plus valide, voici la date limite officielle pour la remplacer par la carte Mobilité Inclusion",
-      "url": "https://www.presse-citron.net/fin-de-la-carte-dinvalidite-elle-ne-sera-bientot-plus-valide-voici-la-date-limite-officielle-pour-la-remplacer-par-la-carte-mobilite-inclusion/",
-      "publishedAt": "2026-11-10T09:10:19+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Nintendo met fin au piratage de la Switch 2 (mais le mal est déjà fait)",
-      "url": "https://www.numerama.com/tech/2371197-nintendo-met-fin-au-piratage-de-la-switch-2-mais-le-mal-est-deja-fait.html",
-      "publishedAt": "2026-11-10T09:07:53+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Google corrige en urgence une faille zero-day dans Chrome, déjà exploitée par des pirates",
-      "url": "https://www.clubic.com/actualite-638548-google-corrige-en-urgence-une-faille-zero-day-dans-chrome-deja-exploitee-par-des-pirates.html",
-      "publishedAt": "2026-11-10T09:06:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Après le piratage des supermarchés, votre frigo peut-il être pris pour cible ?",
-      "url": "https://www.journaldugeek.com/2026/11/10/apres-le-piratage-des-supermarches-votre-frigo-peut-il-etre-pris-pour-cible/",
-      "publishedAt": "2026-11-10T09:00:39+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Fin de Free Mobile : ce qui va se passer pour votre forfait dès le 1er décembre",
-      "url": "https://www.presse-citron.net/fin-de-free-mobile-ce-qui-va-se-passer-pour-votre-forfait-des-le-1er-decembre/",
-      "publishedAt": "2026-11-10T09:00:16+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le All-Star Game se rapproche de Miami pour 2028",
-      "url": "https://www.basketusa.com/news/956264/le-all-star-game-se-rapproche-de-miami-pour-2028/",
-      "publishedAt": "2026-11-10T08:56:39+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Free Mobile, c'est bientôt fini ! La fusion avec Free se fera le 1er décembre, l'opérateur s'explique",
-      "url": "https://www.clubic.com/actualite-638542-free-mobile-c-est-bientot-fini-la-fusion-avec-free-se-fera-le-1er-decembre-l-operateur-s-explique.html",
-      "publishedAt": "2026-11-10T08:55:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Molly, le fork soi-disant durci de Signal, est vulnérable et n'a pas été mis à jour depuis juillet",
-      "url": "https://www.clubic.com/actualite-638428-molly-le-fork-soi-disant-durci-de-signal-est-vulnerable-et-n-a-pas-ete-mis-a-jour-depuis-juillet.html",
-      "publishedAt": "2026-11-10T08:50:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Piratage des frigos de supermarchés : la France prépare des sanctions contre l’Iran pour « dissuader toute nouvelle attaque »",
-      "url": "https://www.presse-citron.net/piratage-des-frigos-de-supermarches-la-france-prepare-des-sanctions-contre-liran-pour-dissuader-toute-nouvelle-attaque/",
-      "publishedAt": "2026-11-10T08:45:22+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "TSMC prépare-t-il sa propre mémoire 3D pour contrer la pénurie ?",
-      "url": "https://www.generation-nt.com/actualites/tsmc-memoire-3d-penurie-2084219",
-      "publishedAt": "2026-11-10T08:45:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iOS 27.2.1 est disponible : elle évite de gros problèmes à votre iPhone",
-      "url": "https://www.iphon.fr/post/ios-27-2-1-disponible-evite-gros-problemes-iphone",
-      "publishedAt": "2026-11-10T08:44:11+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "macOS 27.3 : Apple prépare un gros coup de boost pour l’IA dans les machines virtuelles",
-      "url": "https://www.macg.co/macos/2026/11/macos-273-apple-prepare-un-gros-coup-de-boost-pour-lia-dans-les-machines-virtuelles-312291",
-      "publishedAt": "2026-11-10T08:43:20+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Doc Rivers s’est excusé auprès de Giannis Antetokounmpo",
-      "url": "https://www.basketusa.com/news/956169/doc-rivers-sest-excuse-aupres-de-giannis-antetokounmpo/",
-      "publishedAt": "2026-11-10T08:34:21+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Gemini lance un résumé de sa mémoire… mais pas pour tout le monde",
-      "url": "https://www.clubic.com/actualite-638530-google-gemini-lance-un-resume-de-sa-memoire-mais-pas-pour-tout-le-monde.html",
-      "publishedAt": "2026-11-10T08:32:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Superman 2, The Batman 2, Justice League… après la mort du DCU, quel avenir pour les super-héros ?",
-      "url": "https://www.journaldugeek.com/2026/11/10/superman-2-the-batman-2-justice-league-apres-la-mort-du-dcu-quel-avenir-pour-les-super-heros/",
-      "publishedAt": "2026-11-10T08:30:11+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Anthropic épate avec Claude Fable 5.2 et Claude Mythos 5.2",
-      "url": "https://www.generation-nt.com/actualites/anthropic-claude-fable-mythos-5-2-modele-ia-2084245",
-      "publishedAt": "2026-11-10T08:30:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Les fans de Lego vont pouvoir se faire plaisir avec ces sets en promotion pour le Black Friday",
-      "url": "https://www.numerama.com/pop-culture/2371071-les-fans-de-lego-vont-pouvoir-se-faire-plaisir-avec-ces-sets-en-promotion-pour-le-black-friday.html",
-      "publishedAt": "2026-11-10T08:28:58+00:00"
     },
     {
       "source": "boulet",
