@@ -1,5 +1,6 @@
 const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'Tech', loading: false, newsError: false };
 const renderCache = { sources: null, mangas: null, feed: null };
+let cachedView;
 const rowSignatures = new WeakMap();
 const versions = { news: 0, mangas: 0 };
 const tabs = [...document.querySelectorAll('[data-group]')];
@@ -59,9 +60,9 @@ function relativeTime(date) {
   return `${Math.floor(minutes / 60)} h`;
 }
 
-function renderSources(sources, articles) {
+function renderSources(sources, articles, revision) {
   if (!byId('sources-dialog').open) return;
-  const key = `${versions.news}:${articles.length}`;
+  const key = revision;
   if (renderCache.sources === key) return;
   renderCache.sources = key;
   const counts = new Map();
@@ -189,6 +190,45 @@ function restorePosition(position) {
   if (Math.abs(scrollY - top) > 1) scrollTo({ top, behavior: 'instant' });
 }
 
+// Recalculer aux changements de données, à minuit ou à la prochaine
+// publication/expiration : un clic d’onglet ne retrie pas toute la sélection.
+function viewModel(now) {
+  const version = `${versions.news}:${versions.mangas}`;
+  if (cachedView?.version === version && now >= cachedView.time && now < cachedView.until) return cachedView;
+  const sources = new Map(state.data.sources.map(source => [source.id, source]));
+  const midnight = new Date(now);
+  midnight.setHours(24, 0, 0, 0);
+  let until = midnight.getTime();
+  const dated = [];
+  for (const article of state.data.articles) {
+    const source = sources.get(article.source);
+    if (!source) continue;
+    const time = Date.parse(article.publishedAt);
+    if (time > now) { until = Math.min(until, time); continue; }
+    if (source.group !== 'BD') {
+      const expires = time + 48 * 3600000 + 1;
+      if (expires <= now) continue;
+      until = Math.min(until, expires);
+    }
+    dated.push({ article, time });
+  }
+  const articles = dated.sort((a, b) => b.time - a.time).map(item => item.article);
+  const today = new Date(now).toLocaleDateString('fr-FR');
+  const counts = { BD: 0, Sport: 0, Tech: 0 };
+  const groups = { BD: [], Sport: [], Tech: [] };
+  for (const article of articles) {
+    const group = sources.get(article.source).group;
+    groups[group].push(article);
+    if (new Date(article.publishedAt).toLocaleDateString('fr-FR') === today) counts[group]++;
+  }
+  for (const manga of state.mangas || []) {
+    const observed = Date.parse(manga.firstSeenAt || manga.lastSuccessAt);
+    if (observed > now) until = Math.min(until, observed);
+    if (mangaDate(manga)?.date.toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD++;
+  }
+  return cachedView = { version, revision: (cachedView?.revision || 0) + 1, time: now, until, sources, articles, today, counts, groups };
+}
+
 function render(preservePosition = true) {
   const position = preservePosition ? readingPosition() : null;
   try {
@@ -199,33 +239,13 @@ function render(preservePosition = true) {
       return;
     }
     const now = Date.now();
-    const cutoff = now - 48 * 3600000;
-    const sources = new Map(state.data.sources.map((source) => [source.id, source]));
-    const articles = state.data.articles.filter((article) => {
-      const timestamp = Date.parse(article.publishedAt);
-      return sources.has(article.source) && safeUrl(article.url) && (timestamp >= cutoff || sources.get(article.source).group === 'BD') && timestamp <= now;
-    }).sort((first, second) => Date.parse(second.publishedAt) - Date.parse(first.publishedAt));
-    const today = new Date(now).toLocaleDateString('fr-FR');
-    const counts = { BD: 0, Sport: 0, Tech: 0 };
-    for (const article of articles) {
-      const source = sources.get(article.source);
-      if (new Date(article.publishedAt).toLocaleDateString('fr-FR') === today && Object.hasOwn(counts, source.group)) {
-        counts[source.group] += 1;
-      }
-    }
-    // Les chapitres du jour contribuent au compteur BD.
-    for (const manga of state.mangas || []) {
-      if (mangaDate(manga)?.date.toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD += 1;
-    }
+    const { sources, articles, today, counts, groups, revision } = viewModel(now);
     tabs.forEach((button) => {
       const group = button.dataset.group;
       button.querySelector('.tab-count').textContent = counts[group];
       button.setAttribute('aria-label', `${group} : ${counts[group]} publication${counts[group] === 1 ? '' : 's'} aujourd’hui`);
     });
-    const filtered = articles.filter((article) => {
-      const source = sources.get(article.source);
-      return source.group === state.group;
-    });
+    const filtered = groups[state.group];
     byId('source-count').textContent = sources.size;
     const generated = new Date(state.data.generatedAt);
     byId('updated-time').textContent = relativeTime(generated);
@@ -235,9 +255,9 @@ function render(preservePosition = true) {
     const stale = now - generated.getTime() > 3600000;
     byId('notice').hidden = !state.newsError && !failed && !stale;
     byId('notice').textContent = [state.newsError ? 'Actualisation des actualités impossible. Les dernières données connues restent affichées ; réessai automatique.' : '', stale ? 'La collecte a du retard. Les actualités de plus de 48 heures sont masquées, sauf les dernières publications BD.' : '', failed ? `${failed} source${failed > 1 ? 's' : ''} temporairement indisponible${failed > 1 ? 's' : ''}. Détails dans « Sources » ; les articles sont conservés pendant 48 heures, sans expiration pour la dernière publication BD.` : ''].filter(Boolean).join(' ');
-    renderSources(state.data.sources, articles);
+    renderSources(state.data.sources, articles, revision);
     const mangas = state.group === 'BD' ? state.mangas || [] : [];
-    const feedKey = `${versions.news}:${versions.mangas}:${state.group}:${today}:${filtered.length}`;
+    const feedKey = `${revision}:${state.group}`;
     if (renderCache.feed === feedKey) return;
     renderCache.feed = feedKey;
     const entries = feedEntries(filtered, mangas);

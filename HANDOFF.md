@@ -26,6 +26,8 @@ Korben utilise le flux complet officiel `https://korben.info/feedfull`, recomman
 
 ## Dernières décisions d’interface
 
+- Vue dérivée partagée en mémoire : tris et compteurs réutilisés entre rendus, invalidation aux changements de données, à minuit local et aux publications/expirations exactes. Les tests couvrent une expiration et une arrivée simultanées avec un nombre d’articles inchangé.
+
 - Actualisation : erreurs de chargement des actualités et mangas indépendantes ; une réussite partielle ne masque pas l’autre erreur. Position de lecture et focus préservés lors des mises à jour automatiques, sans suivi persistant. Tests navigateur optionnels dans `tests/refresh.test.cjs`.
 
 - Contrôles WebKit : cibles tactiles de 44 px, en-tête de Sources visible pendant le défilement, fermeture extérieure native avec repli gestuel pour les anciens Safari. Marges haut/bas adaptées aux zones de sécurité. WebKit automatisé opérationnel via outils temporaires ; appareil Apple réel encore à vérifier.

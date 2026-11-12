@@ -199,6 +199,86 @@ const root = path.resolve(__dirname, "..");
     assert.ok((await p.locator(".manga-article").count()) > 0);
     failMangas = false;
     await p.evaluate(() => loadMangas());
+    // A future publication replaces an expired one without changing the count.
+    const boundary = now + 60000;
+    data = {
+      generatedAt: new Date(boundary).toISOString(),
+      sources: [
+        {
+          id: "gnt",
+          name: "Ancienne source",
+          group: "Tech",
+          url: "https://example.com/old",
+          ok: true,
+        },
+        {
+          id: "clubic",
+          name: "Nouvelle source",
+          group: "Tech",
+          url: "https://example.com/new",
+          ok: true,
+        },
+      ],
+      articles: [
+        {
+          source: "gnt",
+          title: "Expire bientôt",
+          url: "https://example.com/expiry",
+          publishedAt: new Date(boundary - 48 * 3600000 + 1000).toISOString(),
+        },
+        {
+          source: "clubic",
+          title: "Publication future",
+          url: "https://example.com/future",
+          publishedAt: new Date(boundary + 2000).toISOString(),
+        },
+      ],
+    };
+    await pageClock(boundary);
+    await p.locator('[data-group="Tech"]').click();
+    await p.evaluate(() => load());
+    assert.equal(
+      await p.locator(".article-title").innerText(),
+      "Expire bientôt",
+    );
+    await p.locator("#show-sources").click();
+    assert.match(
+      await p.locator(".source-row").first().innerText(),
+      /1 article/,
+    );
+    await p.keyboard.press("Escape");
+    await pageClock(boundary + 3000);
+    await p.evaluate(() => render());
+    assert.equal(
+      await p.locator(".article-title").innerText(),
+      "Publication future",
+    );
+    await p.locator("#show-sources").click();
+    assert.match(
+      await p.locator(".source-row").first().innerText(),
+      /Aucune nouveauté/,
+    );
+    assert.match(
+      await p.locator(".source-row").last().innerText(),
+      /1 article/,
+    );
+    await p.keyboard.press("Escape");
+    // Midnight resets local day counters even if no network response changed.
+    const midnight = await p.evaluate(() => {
+      const d = new Date();
+      d.setHours(24, 0, 0, 0);
+      return d.getTime();
+    });
+    await pageClock(midnight);
+    await p.evaluate(() => render());
+    assert.equal(
+      await p.locator('[data-group="Tech"] .tab-count').innerText(),
+      "0",
+    );
+    async function pageClock(time) {
+      await p.clock.setSystemTime(new Date(time));
+    }
+
     assert.deepEqual(errors, []);
     console.log(
       engine,
