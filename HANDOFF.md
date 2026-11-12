@@ -26,6 +26,8 @@ Korben utilise le flux complet officiel `https://korben.info/feedfull`, recomman
 
 ## Dernières décisions d’interface
 
+- Interface simplifiée : navigation segmentée BD / Sport / Tech, palette claire/sombre et horaires alignés à droite. Menu Sources rendu à l’ouverture ; listes réutilisées quand les données ne changent pas. Données revalidées via le cache HTTP sans paramètre aléatoire ; rechargement toutes les 5 minutes conservé. Politique Trusted Types activée quand le navigateur la prend en charge, sans politique HTML autorisée.
+
 - Menu Sources : aucun paragraphe explicatif au-dessus ou en dessous de la liste.
 
 - Police : SF Mono Terminal / SF Mono si installée sur l’appareil ; DejaVu Sans Mono en secours, versions normale et grasse hébergées dans `fonts/` avec leur licence, sans service externe. Aucun fichier SF Mono n’est distribué avec le site.
