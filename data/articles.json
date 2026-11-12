@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:22:03.355381+00:00",
+  "generatedAt": "2026-11-12T21:44:04.590236+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T21:22:03.355381+00:00"
+      "lastSuccessAt": "2026-11-12T21:44:04.590236+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Quel est ce « Feu Secret » que Gandalf dit servir dans Les Anneaux de pouvoir ?",
+      "url": "https://www.numerama.com/pop-culture/1811462-quel-est-ce-feu-secret-que-gandalf-dit-servir-dans-les-anneaux-de-pouvoir.html",
+      "publishedAt": "2026-11-12T21:29:31+00:00"
+    },
     {
       "source": "macg",
       "title": "macOS 27.3 fait apparaître une application pour gérer AirPlay en fenêtre ou en plein écran",
@@ -568,6 +574,12 @@
       "publishedAt": "2026-11-12T15:23:10+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Los Angeles Clippers – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/956928/los-angeles-clippers-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-12T15:21:48+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "iPhone Duo : Apple pourrait en vendre 16 millions dès la première année !",
       "url": "https://www.mac4ever.com/iphone/199001-iphone-duo-apple-pourrait-en-vendre-16-millions-des-la-premiere-annee",
@@ -680,12 +692,6 @@
       "title": "Nvidia : Jensen Huang démissionne ! Voici qui prend les commandes",
       "url": "https://www.mac4ever.com/ia/198997-nvidia-jensen-huang-demissionne-voici-qui-prend-les-commandes",
       "publishedAt": "2026-11-12T14:23:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Clippers – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/956928/los-angeles-clippers-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-12T14:21:48+00:00"
     },
     {
       "source": "clubic",
@@ -2882,12 +2888,6 @@
       "title": "Le Black Friday Revopoint est arrivé : jusqu'à 50 % de réduction sur les scanners 3D !",
       "url": "https://www.generation-nt.com/actualites/revopoint-scanner-3d-black-friday-pop-metroy-ultra-pro-miraco-range-3-pro-inspire-mini-metrox-trackit-metrohub-2084181",
       "publishedAt": "2026-11-11T05:00:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Scrooge : on a vu le film qui signe le retour de Johnny Depp au cinéma (avis sans spoiler)",
-      "url": "https://www.numerama.com/pop-culture/2370931-scrooge-on-a-vu-le-film-qui-signe-le-retour-de-johnny-depp-au-cinema-reussite-ou-grosse-cata.html",
-      "publishedAt": "2026-11-10T21:30:00+00:00"
     },
     {
       "source": "boulet",
