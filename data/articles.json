@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:40:07.334672+00:00",
+  "generatedAt": "2026-11-12T01:59:54.275760+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T00:40:07.334672+00:00"
+      "lastSuccessAt": "2026-11-12T01:59:54.275760+00:00"
     }
   ],
   "articles": [
@@ -142,16 +142,16 @@
       "publishedAt": "2026-11-11T20:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Kevin Durant et Stephen Curry se défient pour la 41e fois",
-      "url": "https://www.basketusa.com/news/956711/programme-du-soir-kevin-durant-et-stephen-curry-se-defient-pour-la-41e-fois/",
-      "publishedAt": "2026-11-11T19:50:21+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Take-Two confirme la fin du développement de GTA VI et rehausse ses prévisions",
       "url": "https://www.generation-nt.com/actualites/take-two-developpement-gta-vi-termine-2084285",
       "publishedAt": "2026-11-11T19:05:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Kevin Durant et Stephen Curry se défient pour la 41e fois",
+      "url": "https://www.basketusa.com/news/956711/programme-du-soir-kevin-durant-et-stephen-curry-se-defient-pour-la-41e-fois/",
+      "publishedAt": "2026-11-11T18:50:21+00:00"
     },
     {
       "source": "clubic",
@@ -346,12 +346,6 @@
       "publishedAt": "2026-11-11T15:34:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "LeBron James et Kevin Durant veulent révolutionner le basket chez les jeunes",
-      "url": "https://www.basketusa.com/news/956641/lebron-james-et-kevin-durant-veulent-revolutionner-le-basket-chez-les-jeunes/",
-      "publishedAt": "2026-11-11T15:32:14+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Tiangong : un froid record de 9,7 picokelvins a été mesuré dans l'espace",
       "url": "https://www.generation-nt.com/actualites/tiangong-station-spatiale-microgravite-zero-absolu-experimentation-2084193",
@@ -428,6 +422,12 @@
       "title": "Portland Trail Blazers – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/956635/portland-trail-blazers-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
       "publishedAt": "2026-11-11T14:40:57+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "LeBron James et Kevin Durant veulent révolutionner le basket chez les jeunes",
+      "url": "https://www.basketusa.com/news/956641/lebron-james-et-kevin-durant-veulent-revolutionner-le-basket-chez-les-jeunes/",
+      "publishedAt": "2026-11-11T14:32:14+00:00"
     },
     {
       "source": "tda",
@@ -2888,12 +2888,6 @@
       "title": "Creator Studio : un péage de 50 $ quand le quota d'IA est épuisé",
       "url": "https://www.macg.co/logiciels/2026/11/creator-studio-un-peage-de-50-quand-le-quota-dia-est-epuise-312285",
       "publishedAt": "2026-11-10T05:06:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Retour sur la serrure connectée Welock Touca 51 : un bilan après plusieurs mois d'utilisation",
-      "url": "https://www.generation-nt.com/actualites/bilan-serrure-connectee-welock-touca-51-2084116",
-      "publishedAt": "2026-11-10T01:46:22+00:00"
     },
     {
       "source": "boulet",
