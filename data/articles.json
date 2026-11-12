@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:48:08.776300+00:00",
+  "generatedAt": "2026-11-12T21:06:30.991491+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T20:48:08.776300+00:00"
+      "lastSuccessAt": "2026-11-12T21:06:30.991491+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Des pirates disent détenir les données de 9 millions de patients d’une plateforme française de rendez-vous médicaux -",
+      "url": "https://www.clubic.com/actualite-639073-des-pirates-disent-detenir-les-donnees-de-9-millions-de-patients-d-une-plateforme-francaise-de-rendez-vous-medicaux.html",
+      "publishedAt": "2026-11-12T21:00:00+00:00"
+    },
     {
       "source": "gnt",
       "title": "Le préchargement de GTA 6 sature déjà les réseaux des opérateurs",
@@ -206,6 +212,12 @@
       "title": "Gemini Robotics 2.5 fait ses preuves chez Mercedes-Benz",
       "url": "https://www.generation-nt.com/actualites/google-deepmind-gemini-robotics-mercedes-benz-2084441",
       "publishedAt": "2026-11-12T18:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Prime Video offre deux affiches de la NBA Cup pour le Black Friday",
+      "url": "https://www.basketusa.com/news/957023/prime-video-offre-deux-affiches-de-la-nba-cup-pour-le-black-friday/",
+      "publishedAt": "2026-11-12T18:22:29+00:00"
     },
     {
       "source": "gnt",
@@ -290,12 +302,6 @@
       "title": "Anthropic pourrait abandonner rapidement son partenariat avec SpaceX... ce qui réjouit Elon Musk",
       "url": "https://www.clubic.com/actualite-639049-anthropic-pourrait-abandonner-rapidement-son-partenariat-avec-spacex-ce-qui-rejouit-elon-musk.html",
       "publishedAt": "2026-11-12T17:27:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Prime Video offre deux affiches de la NBA Cup pour le Black Friday",
-      "url": "https://www.basketusa.com/news/957023/prime-video-offre-deux-affiches-de-la-nba-cup-pour-le-black-friday/",
-      "publishedAt": "2026-11-12T17:22:29+00:00"
     },
     {
       "source": "gnt",
@@ -1276,6 +1282,12 @@
       "publishedAt": "2026-11-12T09:58:31+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "La KD 19 « Slim Reaper » arrive en France !",
+      "url": "https://www.basketusa.com/news/956722/la-kd-19-slim-reaper-arrive-en-france/",
+      "publishedAt": "2026-11-12T09:56:19+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Le Pixel 11 aura bien le droit à GrapheneOS, et c'est grâce à Android 17 QPR2",
       "url": "https://www.clubic.com/actualite-638830-le-pixel-11-aura-bien-le-droit-a-grapheneos-et-c-est-grace-a-android-17-qpr2.html",
@@ -1430,12 +1442,6 @@
       "title": "Jensen Huang poussé vers la sortie chez Nvidia après deux affaires de cœur",
       "url": "https://korben.info/jensen-huang-pousse-vers-la-sortie-chez-nvidia-apres-deux-affaires-de-coeur.html",
       "publishedAt": "2026-11-12T09:02:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La KD 19 « Slim Reaper » arrive en France !",
-      "url": "https://www.basketusa.com/news/956722/la-kd-19-slim-reaper-arrive-en-france/",
-      "publishedAt": "2026-11-12T08:56:19+00:00"
     },
     {
       "source": "clubic",
@@ -2876,12 +2882,6 @@
       "title": "Scrooge : on a vu le film qui signe le retour de Johnny Depp au cinéma (avis sans spoiler)",
       "url": "https://www.numerama.com/pop-culture/2370931-scrooge-on-a-vu-le-film-qui-signe-le-retour-de-johnny-depp-au-cinema-reussite-ou-grosse-cata.html",
       "publishedAt": "2026-11-10T21:30:00+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Josh Downs envoyé aux Chiefs",
-      "url": "https://touchdownactu.com/361229/josh-downs-envoye-aux-chiefs/",
-      "publishedAt": "2026-11-10T20:59:31+00:00"
     },
     {
       "source": "boulet",
