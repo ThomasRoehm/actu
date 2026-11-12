@@ -49,3 +49,12 @@ Contrôles réalisés dans WebKit et Chromium :
 - 24 tests Python, syntaxe JavaScript et vérification des différences passent.
 
 Le confinement du défilement de fond reste une amélioration progressive : les anciens WebKit ne respectent pas toujours `overscroll-behavior` sur un fond non défilant. Aucun verrouillage du défilement racine n’est appliqué ; la modalité et le confinement du focus restent natifs.
+
+
+## Fiabilité de l’actualisation
+
+- L’échec du chargement des actualités est conservé dans l’état et reste affiché si le chargement des mangas réussit, si un filtre change ou si le rendu périodique se déclenche. Seul un chargement valide des actualités efface cette erreur.
+- Les erreurs mangas restent indépendantes ; les derniers chapitres connus restent accessibles.
+- Les lignes inchangées sont réutilisées. Une mise à jour conserve la position de la première ligne visible encore présente et restaure son focus clavier si nécessaire. Si une ligne disparaît, une voisine visible sert de repère ; en haut de page, les nouveautés restent immédiatement visibles. Aucun suivi de lecture n’est enregistré.
+- Tests de régression Chromium et WebKit : erreurs partielles et rétablissement, insertion au-dessus de la lecture, suppression d’une ligne visible, focus clavier, haut de page et mangas conservés après échec.
+- Test reproductible : `node tests/refresh.test.cjs`, avec Playwright installé dans l’environnement de développement et ses navigateurs disponibles. Les variables optionnelles `ACTU_CHROMIUM_EXECUTABLE` et `ACTU_WEBKIT_EXECUTABLE` permettent d’utiliser des exécutables existants. Aucun de ces outils n’est chargé par le site. Les réponses réseau sont des fixtures locales.

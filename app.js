@@ -1,5 +1,6 @@
-const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'Tech', loading: false };
+const state = { data: null, mangas: null, mangaError: false, mangaLoading: false, group: 'Tech', loading: false, newsError: false };
 const renderCache = { sources: null, mangas: null, feed: null };
+const rowSignatures = new WeakMap();
 const versions = { news: 0, mangas: 0 };
 const tabs = [...document.querySelectorAll('[data-group]')];
 const byId = (id) => document.getElementById(id);
@@ -108,11 +109,17 @@ function element(tag, className, text) {
   return node;
 }
 
-function articleLink(entry, sources) {
+function articleLink(entry, sources, previous) {
   const manga = entry.manga;
   const article = manga || entry.article;
   const source = manga ? { id: manga.source === 'otl' ? 'otl' : 'mangakatana', name: manga.source === 'otl' ? 'OTL' : 'MangaKatana' } : sources.get(article.source);
+  const key = safeUrl(manga ? article.pageUrl || article.url : article.url);
+  const signature = JSON.stringify([article, source.id, source.name, source.icon, mangaDate(manga || {})]);
+  const existing = previous.get(key);
+  if (existing && rowSignatures.get(existing) === signature) return existing;
   const link = element('a', manga ? 'article manga-article' : 'article');
+  link.dataset.key = key;
+  rowSignatures.set(link, signature);
   link.href = safeUrl(article.url) || safeUrl(article.pageUrl);
   link.target = '_blank';
   link.rel = 'noopener noreferrer';
@@ -160,87 +167,119 @@ async function loadMangas() {
   }
 }
 
-function render() {
-  renderMangas();
-  if (!state.data) return;
-  const now = Date.now();
-  const cutoff = now - 48 * 3600000;
-  const sources = new Map(state.data.sources.map((source) => [source.id, source]));
-  const articles = state.data.articles.filter((article) => {
-    const timestamp = Date.parse(article.publishedAt);
-    return sources.has(article.source) && safeUrl(article.url) && (timestamp >= cutoff || sources.get(article.source).group === 'BD') && timestamp <= now;
-  }).sort((first, second) => Date.parse(second.publishedAt) - Date.parse(first.publishedAt));
-  const today = new Date(now).toLocaleDateString('fr-FR');
-  const counts = { BD: 0, Sport: 0, Tech: 0 };
-  for (const article of articles) {
-    const source = sources.get(article.source);
-    if (new Date(article.publishedAt).toLocaleDateString('fr-FR') === today && Object.hasOwn(counts, source.group)) {
-      counts[source.group] += 1;
+function readingPosition() {
+  const focused = document.activeElement?.closest('#feed .article');
+  const visible = [];
+  if (scrollY > 0) {
+    for (const row of byId('feed').querySelectorAll('.article')) {
+      const box = row.getBoundingClientRect();
+      if (box.top >= innerHeight) break;
+      if (box.bottom > 0) visible.push({ key: row.dataset.key, top: box.top });
     }
   }
-  // Les chapitres du jour contribuent au compteur BD.
-  for (const manga of state.mangas || []) {
-    if (mangaDate(manga)?.date.toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD += 1;
+  return { visible, top: scrollY, focus: focused?.dataset.key };
+}
+
+function restorePosition(position) {
+  if (!position || (!position.visible.length && !position.focus && scrollY === position.top)) return;
+  const rows = new Map([...byId('feed').querySelectorAll('.article')].map(row => [row.dataset.key, row]));
+  if (position.focus && document.activeElement === document.body) rows.get(position.focus)?.focus({ preventScroll: true });
+  const anchor = position.visible.find(item => rows.has(item.key));
+  const top = anchor ? scrollY + rows.get(anchor.key).getBoundingClientRect().top - anchor.top : position.top;
+  if (Math.abs(scrollY - top) > 1) scrollTo({ top, behavior: 'instant' });
+}
+
+function render(preservePosition = true) {
+  const position = preservePosition ? readingPosition() : null;
+  try {
+    renderMangas();
+    if (!state.data) {
+      byId('notice').hidden = !state.newsError;
+      byId('notice').textContent = state.newsError ? 'Impossible de charger les actualités. Vérifiez votre connexion puis rechargez la page.' : '';
+      return;
+    }
+    const now = Date.now();
+    const cutoff = now - 48 * 3600000;
+    const sources = new Map(state.data.sources.map((source) => [source.id, source]));
+    const articles = state.data.articles.filter((article) => {
+      const timestamp = Date.parse(article.publishedAt);
+      return sources.has(article.source) && safeUrl(article.url) && (timestamp >= cutoff || sources.get(article.source).group === 'BD') && timestamp <= now;
+    }).sort((first, second) => Date.parse(second.publishedAt) - Date.parse(first.publishedAt));
+    const today = new Date(now).toLocaleDateString('fr-FR');
+    const counts = { BD: 0, Sport: 0, Tech: 0 };
+    for (const article of articles) {
+      const source = sources.get(article.source);
+      if (new Date(article.publishedAt).toLocaleDateString('fr-FR') === today && Object.hasOwn(counts, source.group)) {
+        counts[source.group] += 1;
+      }
+    }
+    // Les chapitres du jour contribuent au compteur BD.
+    for (const manga of state.mangas || []) {
+      if (mangaDate(manga)?.date.toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD += 1;
+    }
+    tabs.forEach((button) => {
+      const group = button.dataset.group;
+      button.querySelector('.tab-count').textContent = counts[group];
+      button.setAttribute('aria-label', `${group} : ${counts[group]} publication${counts[group] === 1 ? '' : 's'} aujourd’hui`);
+    });
+    const filtered = articles.filter((article) => {
+      const source = sources.get(article.source);
+      return source.group === state.group;
+    });
+    byId('source-count').textContent = sources.size;
+    const generated = new Date(state.data.generatedAt);
+    byId('updated-time').textContent = relativeTime(generated);
+    byId('updated').setAttribute('aria-label', `Dernière collecte : ${relativeTime(generated)}`);
+    byId('updated').title = `Dernière collecte : ${generated.toLocaleString('fr-FR')}. Collecte programmée toutes les 15 minutes, sous réserve des délais de GitHub.`;
+    const failed = state.data.sources.filter((source) => !source.ok).length;
+    const stale = now - generated.getTime() > 3600000;
+    byId('notice').hidden = !state.newsError && !failed && !stale;
+    byId('notice').textContent = [state.newsError ? 'Actualisation des actualités impossible. Les dernières données connues restent affichées ; réessai automatique.' : '', stale ? 'La collecte a du retard. Les actualités de plus de 48 heures sont masquées, sauf les dernières publications BD.' : '', failed ? `${failed} source${failed > 1 ? 's' : ''} temporairement indisponible${failed > 1 ? 's' : ''}. Détails dans « Sources » ; les articles sont conservés pendant 48 heures, sans expiration pour la dernière publication BD.` : ''].filter(Boolean).join(' ');
+    renderSources(state.data.sources, articles);
+    const mangas = state.group === 'BD' ? state.mangas || [] : [];
+    const feedKey = `${versions.news}:${versions.mangas}:${state.group}:${today}:${filtered.length}`;
+    if (renderCache.feed === feedKey) return;
+    renderCache.feed = feedKey;
+    const entries = feedEntries(filtered, mangas);
+    const feed = byId('feed');
+    const previous = new Map([...feed.querySelectorAll('.article')].map(row => [row.dataset.key, row]));
+    const fragment = document.createDocumentFragment();
+    const days = new Map();
+    for (const entry of entries) {
+      const date = entry.date;
+      const day = date ? date.toLocaleDateString('fr-FR') : 'Date inconnue';
+      if (!days.has(day)) days.set(day, { date, articles: [] });
+      days.get(day).articles.push(entry);
+    }
+    const yesterdayDate = new Date();
+    yesterdayDate.setDate(yesterdayDate.getDate() - 1);
+    const yesterday = yesterdayDate.toLocaleDateString('fr-FR');
+    for (const [day, collection] of days) {
+      const section = document.createElement('section');
+      section.className = 'day-section';
+      const heading = document.createElement('h2');
+      heading.className = 'day-heading';
+      heading.textContent = !collection.date ? 'Date inconnue' : day === today ? 'Aujourd’hui' : day === yesterday ? 'Hier' : dateFormat.format(collection.date);
+      const count = document.createElement('span');
+      count.textContent = ` / ${collection.articles.length}`;
+      heading.append(count);
+      section.append(heading);
+      const list = document.createElement('div');
+      list.className = 'article-list';
+      for (const entry of collection.articles) list.append(articleLink(entry, sources, previous));
+      section.append(list);
+      fragment.append(section);
+    }
+    if (!entries.length) {
+      const empty = document.createElement('div');
+      empty.className = 'empty';
+      empty.textContent = state.group === 'BD' ? 'Aucune publication BD ni chapitre disponible.' : 'Aucune nouveauté dans cette catégorie sur les dernières 48 heures.';
+      fragment.append(empty);
+    }
+    feed.replaceChildren(fragment);
+  } finally {
+    restorePosition(position);
   }
-  tabs.forEach((button) => {
-    const group = button.dataset.group;
-    button.querySelector('.tab-count').textContent = counts[group];
-    button.setAttribute('aria-label', `${group} : ${counts[group]} publication${counts[group] === 1 ? '' : 's'} aujourd’hui`);
-  });
-  const filtered = articles.filter((article) => {
-    const source = sources.get(article.source);
-    return source.group === state.group;
-  });
-  byId('source-count').textContent = sources.size;
-  const generated = new Date(state.data.generatedAt);
-  byId('updated-time').textContent = relativeTime(generated);
-  byId('updated').setAttribute('aria-label', `Dernière collecte : ${relativeTime(generated)}`);
-  byId('updated').title = `Dernière collecte : ${generated.toLocaleString('fr-FR')}. Collecte programmée toutes les 15 minutes, sous réserve des délais de GitHub.`;
-  const failed = state.data.sources.filter((source) => !source.ok).length;
-  const stale = now - generated.getTime() > 3600000;
-  byId('notice').hidden = !failed && !stale;
-  byId('notice').textContent = [stale ? 'La collecte a du retard. Les actualités de plus de 48 heures sont masquées, sauf les dernières publications BD.' : '', failed ? `${failed} source${failed > 1 ? 's' : ''} temporairement indisponible${failed > 1 ? 's' : ''}. Détails dans « Sources » ; les articles sont conservés pendant 48 heures, sans expiration pour la dernière publication BD.` : ''].filter(Boolean).join(' ');
-  renderSources(state.data.sources, articles);
-  const mangas = state.group === 'BD' ? state.mangas || [] : [];
-  const feedKey = `${versions.news}:${versions.mangas}:${state.group}:${today}:${filtered.length}`;
-  if (renderCache.feed === feedKey) return;
-  renderCache.feed = feedKey;
-  const entries = feedEntries(filtered, mangas);
-  const feed = byId('feed');
-  const fragment = document.createDocumentFragment();
-  const days = new Map();
-  for (const entry of entries) {
-    const date = entry.date;
-    const day = date ? date.toLocaleDateString('fr-FR') : 'Date inconnue';
-    if (!days.has(day)) days.set(day, { date, articles: [] });
-    days.get(day).articles.push(entry);
-  }
-  const yesterdayDate = new Date();
-  yesterdayDate.setDate(yesterdayDate.getDate() - 1);
-  const yesterday = yesterdayDate.toLocaleDateString('fr-FR');
-  for (const [day, collection] of days) {
-    const section = document.createElement('section');
-    section.className = 'day-section';
-    const heading = document.createElement('h2');
-    heading.className = 'day-heading';
-    heading.textContent = !collection.date ? 'Date inconnue' : day === today ? 'Aujourd’hui' : day === yesterday ? 'Hier' : dateFormat.format(collection.date);
-    const count = document.createElement('span');
-    count.textContent = ` / ${collection.articles.length}`;
-    heading.append(count);
-    section.append(heading);
-    const list = document.createElement('div');
-    list.className = 'article-list';
-    for (const entry of collection.articles) list.append(articleLink(entry, sources));
-    section.append(list);
-    fragment.append(section);
-  }
-  if (!entries.length) {
-    const empty = document.createElement('div');
-    empty.className = 'empty';
-    empty.textContent = state.group === 'BD' ? 'Aucune publication BD ni chapitre disponible.' : 'Aucune nouveauté dans cette catégorie sur les dernières 48 heures.';
-    fragment.append(empty);
-  }
-  feed.replaceChildren(fragment);
 }
 
 async function load() {
@@ -253,21 +292,21 @@ async function load() {
     if (!data.sources.every(validSource) || !data.articles.every(validArticle)) throw new Error('Données invalides');
     if (JSON.stringify(state.data) !== JSON.stringify(data)) versions.news++;
     state.data = data;
-    render();
+    state.newsError = false;
   } catch {
-    byId('notice').hidden = false;
-    byId('notice').textContent = 'Impossible de charger les actualités. Vérifiez votre connexion puis rechargez la page.';
+    state.newsError = true;
     if (!state.data) { byId('feed').textContent = ''; byId('updated-time').textContent = '—'; byId('updated').setAttribute('aria-label', 'Connexion interrompue'); }
   } finally {
     state.loading = false;
     byId('feed').setAttribute('aria-busy', 'false');
+    render();
   }
 }
 
 tabs.forEach((button) => button.addEventListener('click', () => {
   state.group = button.dataset.group;
   tabs.forEach((tab) => { const active = tab === button; tab.classList.toggle('active', active); tab.setAttribute('aria-pressed', String(active)); });
-  render();
+  render(false);
 }));
 byId('show-sources').addEventListener('click', () => { byId('sources-dialog').showModal(); render(); });
 byId('close-sources').addEventListener('click', () => byId('sources-dialog').close());
