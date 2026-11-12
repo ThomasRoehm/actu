@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:57:48.848091+00:00",
+  "generatedAt": "2026-11-12T14:53:26.110705+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,130 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T13:57:48.848091+00:00"
+      "lastSuccessAt": "2026-11-12T14:53:26.110705+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : Photoshop, Illustrator et Premiere dans Creative Cloud Pro, à 39,31€/mois pendant 3 mois",
+      "url": "https://www.clubic.com/bons-plans-639025-black-friday-photoshop-illustrator-et-premiere-dans-creative-cloud-pro-a-39-31-mois-pendant-3-mois.html",
+      "publishedAt": "2026-11-12T14:46:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Plateforme CMP, architecture CEA, voitures à prix cassés : ce que Volkswagen va (ou non) importer de Chine",
+      "url": "https://www.numerama.com/vroom/2373019-plateforme-cmp-architecture-cea-voitures-a-prix-casses-ce-que-volkswagen-va-ou-non-importer-de-chine.html",
+      "publishedAt": "2026-11-12T14:44:03+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "L'iPhone 18 Pro Max rafle le podium d'autonomie avec une batterie plus petite",
+      "url": "https://www.mac4ever.com/iphone/198998-l-iphone-18-pro-max-rafle-le-podium-d-autonomie-avec-une-batterie-plus-petite",
+      "publishedAt": "2026-11-12T14:32:00+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[Podcast] On construit les Chargers 2027",
+      "url": "https://touchdownactu.com/361190/podcast-on-construit-les-chargers-2027/",
+      "publishedAt": "2026-11-12T14:30:43+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Le départ de James Gunn pourrait ressusciter ce film de super-héros pré-Zack Snyder",
+      "url": "https://www.journaldugeek.com/2026/11/12/le-depart-de-james-gunn-pourrait-ressusciter-ce-film-de-super-heros-pre-zack-snyder/",
+      "publishedAt": "2026-11-12T14:30:40+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Italie-France : où voir le match de foot en direct et en streaming ?",
+      "url": "https://www.numerama.com/pop-culture/2372963-italie-france-ou-voir-le-match-de-foot-en-direct-et-en-streaming.html",
+      "publishedAt": "2026-11-12T14:30:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Nvidia : Jensen Huang démissionne ! Voici qui prend les commandes",
+      "url": "https://www.mac4ever.com/ia/198997-nvidia-jensen-huang-demissionne-voici-qui-prend-les-commandes",
+      "publishedAt": "2026-11-12T14:23:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "HP lance le ZGX Fury : 748 Go de RAM et NVIDIA GB300 qui enterre les DGX Spark",
+      "url": "https://www.clubic.com/actualite-638977-hp-lance-le-zgx-fury-748-go-de-ram-et-nvidia-gb300-qui-enterre-les-dgx-spark.html",
+      "publishedAt": "2026-11-12T14:18:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Séisme dans la tech : Jensen Huang démissionne de NVIDIA après 33 ans à sa tête",
+      "url": "https://www.clubic.com/actualite-639010-jensen-huang-demissionne.html",
+      "publishedAt": "2026-11-12T14:18:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Nvidia remplace Jensen Huang, éclaboussé par une affaire d’espionnage",
+      "url": "https://www.presse-citron.net/tim-cook-nvidia-noms-circulent-scandale-jensen-huang/",
+      "publishedAt": "2026-11-12T14:17:39+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "«Ce site utilise des cookies…» ce message pourrait disparaître de votre iPhone avec iOS 27.3, voici comment",
+      "url": "https://www.iphon.fr/post/ce-site-utilise-des-cookies-ce-message-pourrait-disparaitre-de-votre-iphone-avec-ios-27-3-voici-comment",
+      "publishedAt": "2026-11-12T14:16:02+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "United Airlines bloque les agents IA pour réserver des vols",
+      "url": "https://www.generation-nt.com/actualites/united-airlines-interdiction-agents-ia-reservations-2084375",
+      "publishedAt": "2026-11-12T14:10:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "C’est officiel : Jensen Huang démissionne de Nvidia",
+      "url": "https://www.numerama.com/tech/2373021-cest-officiel-jensen-huang-demissionne-de-nvidia.html",
+      "publishedAt": "2026-11-12T14:09:22+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ce navigateur vous propose un VPN gratuit et illimité jusqu’au 31 janvier 2027 : comment l’activer ?",
+      "url": "https://www.presse-citron.net/navigateur-vpn-gratuit-et-illimite/",
+      "publishedAt": "2026-11-12T14:07:36+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Rouler reste toujours le moyen le plus rapide de se déplacer dans Zelda Ocarina of Time",
+      "url": "https://www.numerama.com/pop-culture/2372837-rouler-reste-toujours-le-moyen-le-plus-rapide-de-se-deplacer-dans-zelda-ocarina-of-time.html",
+      "publishedAt": "2026-11-12T14:06:18+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "C’est officiel, Intergalactic The Heretic Prophet, le prochain jeu de Naughty Dog va bientôt se montrer",
+      "url": "https://www.journaldugeek.com/2026/11/12/cest-officiel-intergalactic-the-heretic-prophet-le-prochain-jeu-de-naughty-dog-va-bientot-se-montrer/",
+      "publishedAt": "2026-11-12T14:04:32+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Jensen Huang démissionne de chez Nvidia, la société qu'il a fondée, Colette Kress, la directrice financière, prend l'intérim",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/jensen-huang-sur-le-point-detre-evince-de-nvidia-312331",
+      "publishedAt": "2026-11-12T14:02:55+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Bucks gardent le moral malgré un départ historiquement mauvais",
+      "url": "https://www.basketusa.com/news/956902/les-bucks-gardent-le-moral-malgre-un-depart-historiquement-mauvais/",
+      "publishedAt": "2026-11-12T14:02:27+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Les CAF de France passent à Linux, mais pas au logiciel libre pour autant !",
+      "url": "https://www.clubic.com/actualite-638995-les-caf-de-france-passent-a-linux-mais-pas-au-logiciel-libre-pour-autant.html",
+      "publishedAt": "2026-11-12T14:02:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Le FSD de Tesla arrive en Finlande, rebaptisé et bridé juste avant l'hiver",
+      "url": "https://www.mac4ever.com/auto/198995-le-fsd-de-tesla-arrive-en-finlande-rebaptise-et-bride-juste-avant-l-hiver",
+      "publishedAt": "2026-11-12T13:58:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "LG prépare un OLED géant de 97 pouces : 4 000 nits et 165 Hz, un sacré bond en avant pour l'OLED XXL",
@@ -154,6 +274,12 @@
       "publishedAt": "2026-11-12T13:45:32+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Spotify enrichit son DJ virtuel avec de nouvelles voix et une option silencieuse",
+      "url": "https://www.generation-nt.com/actualites/spotify-dj-nouvelles-voix-2084341",
+      "publishedAt": "2026-11-12T13:45:01+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Les meilleurs films d’action à voir sur Netflix en 2026",
       "url": "https://www.numerama.com/pop-culture/2234141-les-meilleurs-films-daction-a-voir-sur-netflix-en-2026.html",
@@ -170,6 +296,12 @@
       "title": "Apple Intelligence, Claude, DiffusionBee… combien de gigaoctets dorment sur votre Mac ?",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-intelligence-claude-diffusionbee-combien-de-gigaoctets-dorment-sur-votre-mac-312345",
       "publishedAt": "2026-11-12T13:30:56+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Gemini débarque dans CarPlay d'Apple",
+      "url": "https://www.generation-nt.com/actualites/google-gemini-apple-carplay-automobile-2084369",
+      "publishedAt": "2026-11-12T13:30:01+00:00"
     },
     {
       "source": "iphon",
@@ -218,12 +350,6 @@
       "title": "OpenAI : 10 milliards de dollars de revenus en 3 mois, mais autant de pertes !",
       "url": "https://www.mac4ever.com/ia/198986-openai-10-milliards-de-dollars-de-revenus-en-3-mois-mais-autant-de-pertes",
       "publishedAt": "2026-11-12T13:02:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Celui qui a révolutionné l’iPhone et le Mac pourrait régner sur l’IA : Nvidia pourrait remplacer Jensen Huang par le chef du hardware d’Apple",
-      "url": "https://www.presse-citron.net/tim-cook-nvidia-noms-circulent-scandale-jensen-huang/",
-      "publishedAt": "2026-11-12T13:01:39+00:00"
     },
     {
       "source": "gnt",
@@ -539,7 +665,7 @@
     },
     {
       "source": "gnt",
-      "title": "L'IA AlphaGenome 2 de Google DeepMind double la précision face aux maladies génétiques !",
+      "title": "AlphaGenome 2 de Google DeepMind double la précision face aux maladies génétiques !",
       "url": "https://www.generation-nt.com/actualites/google-deepmind-alphagenome-2-intelligence-artificielle-maladie-genetique-2084387",
       "publishedAt": "2026-11-12T10:40:01+00:00"
     },
@@ -665,7 +791,7 @@
     },
     {
       "source": "clubic",
-      "title": "GTA VI arrive, cette entreprise tech offre un jour de congé à ses 7 000 employés pour jouer",
+      "title": "Chez Logitech, la sortie de GTA VI mérite un jour de congé pour 7 000 salariés",
       "url": "https://www.clubic.com/actualite-638935-gta-vi-arrive-cette-entreprise-tech-offre-un-jour-de-conge-a-ses-7-000-employes-pour-jouer.html",
       "publishedAt": "2026-11-12T09:45:00+00:00"
     },
@@ -740,6 +866,12 @@
       "title": "GTA 6 : que contient vraiment la version physique ?",
       "url": "https://www.numerama.com/pop-culture/2372529-gta-6-que-contient-vraiment-la-version-physique.html",
       "publishedAt": "2026-11-12T09:18:59+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Franz Wagner ne descend plus sous les 30 points",
+      "url": "https://www.basketusa.com/news/956831/franz-wagner-ne-descend-plus-sous-les-30-points/",
+      "publishedAt": "2026-11-12T09:17:01+00:00"
     },
     {
       "source": "tda",
@@ -886,12 +1018,6 @@
       "publishedAt": "2026-11-12T08:20:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Franz Wagner ne descend plus sous les 30 points",
-      "url": "https://www.basketusa.com/news/956831/franz-wagner-ne-descend-plus-sous-les-30-points/",
-      "publishedAt": "2026-11-12T08:17:01+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Plus besoin de chercher vos clés : Google Wallet ouvre votre porte d'entrée tout seul",
       "url": "https://www.clubic.com/actualite-638890-plus-besoin-de-chercher-vos-cles-google-wallet-ouvre-votre-porte-d-entree-tout-seul.html",
@@ -968,6 +1094,12 @@
       "title": "Pinceau 3D, vidéo retouchée en direct… Les 10 démos IA bluffantes de l'Adobe Max 2026",
       "url": "https://www.clubic.com/actualite-638881-pinceau-3d-video-retouchee-en-direct-les-10-demos-ia-bluffantes-de-l-adobe-max-2026.html",
       "publishedAt": "2026-11-12T07:28:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Warriors très inquiets pour Stephen Curry",
+      "url": "https://www.basketusa.com/news/956757/les-warriors-inquiets-pour-stephen-curry/",
+      "publishedAt": "2026-11-12T07:24:04+00:00"
     },
     {
       "source": "macg",
@@ -1096,12 +1228,6 @@
       "publishedAt": "2026-11-12T06:25:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Warriors très inquiets pour Stephen Curry",
-      "url": "https://www.basketusa.com/news/956757/les-warriors-inquiets-pour-stephen-curry/",
-      "publishedAt": "2026-11-12T06:24:04+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Tesla obtient un feu vert temporaire en Finlande pour son système de conduite assistée",
       "url": "https://www.clubic.com/actualite-638887-tesla-obtient-un-feu-vert-temporaire-en-finlande-pour-son-systeme-de-conduite-assistee.html",
@@ -1184,12 +1310,6 @@
       "title": "Les Spurs renversent les Bulls pour une 10e victoire de suite !",
       "url": "https://www.basketusa.com/news/956735/les-spurs-renversent-les-bulls-pour-une-10e-victoire-de-suite/",
       "publishedAt": "2026-11-12T05:26:50+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Jensen Huang sur le point d'être évincé de Nvidia",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/jensen-huang-sur-le-point-detre-evince-de-nvidia-312331",
-      "publishedAt": "2026-11-12T05:24:00+00:00"
     },
     {
       "source": "macg",
@@ -2702,168 +2822,6 @@
       "title": "Autos : la vignette devient obligatoire pour toutes les voitures dans quelques semaines",
       "url": "https://www.presse-citron.net/autos-la-vignette-devient-obligatoire-pour-toutes-les-voitures-dans-quelques-semaines/",
       "publishedAt": "2026-11-10T14:55:30+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Orange espère que vous utiliserez sa nouvelle « super-app » même si vous n’êtes pas chez Orange",
-      "url": "https://www.numerama.com/tech/2371577-orange-espere-que-vous-utiliserez-sa-nouvelle-super-app-meme-si-vous-netes-pas-chez-orange.html",
-      "publishedAt": "2026-11-10T14:53:14+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Warriors retrouvent le plaisir de jouer… et des ambitions de titre",
-      "url": "https://www.basketusa.com/news/956394/les-warriors-retrouvent-le-plaisir-de-jouer-et-des-ambitions-de-titre/",
-      "publishedAt": "2026-11-10T14:50:53+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chicago Bulls – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/956375/chicago-bulls-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-10T14:44:17+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Test du dock ORICO Thunderbolt 5",
-      "url": "https://korben.info/test-du-dock-orico-thunderbolt-5.html",
-      "publishedAt": "2026-11-10T14:43:43+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Avec OneUI 9.5, Samsung vous laissera enregistrer des appels depuis WhatsApp ou Telegram",
-      "url": "https://www.clubic.com/actualite-638641-avec-oneui-9-5-samsung-vous-laissera-enregistrer-des-appels-depuis-whatsapp-ou-telegram.html",
-      "publishedAt": "2026-11-10T14:43:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Phoenix Suns – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/956366/phoenix-suns-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-10T14:42:20+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Nintendo va abandonner la connexion avec Apple pour les comptes Nintendo",
-      "url": "https://www.macg.co/ailleurs/2026/11/nintendo-va-abandonner-la-connexion-avec-apple-pour-les-comptes-nintendo-312303",
-      "publishedAt": "2026-11-10T14:35:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Pourquoi l'iPad n'a plus trop la côte ?",
-      "url": "https://www.mac4ever.com/ipad/198955-pourquoi-l-ipad-n-a-plus-trop-la-cote",
-      "publishedAt": "2026-11-10T14:35:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Les feux de cheminée désormais interdits en France : ces zones très peuplées se sont lancées",
-      "url": "https://www.presse-citron.net/les-feux-de-cheminee-desormais-interdits-en-france-ces-zones-tres-peuplees-se-sont-lancees/",
-      "publishedAt": "2026-11-10T14:33:58+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Le nouveau TGV M a une fonctionnalité inédite que les autres n’ont pas",
-      "url": "https://www.journaldugeek.com/2026/11/10/le-nouveau-tgv-m-a-une-fonctionnalite-inedite-que-les-autres-nont-pas/",
-      "publishedAt": "2026-11-10T14:33:57+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 : une très mauvaise nouvelle technique se confirme",
-      "url": "https://www.numerama.com/pop-culture/2371667-gta-6-une-tres-mauvaise-nouvelle-technique-se-confirme.html",
-      "publishedAt": "2026-11-10T14:31:14+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Voici comment la NASA compte coloniser la Lune dans six ans",
-      "url": "https://www.presse-citron.net/voici-comment-la-nasa-compte-coloniser-la-lune-dans-six-ans/",
-      "publishedAt": "2026-11-10T14:30:56+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un robot assemble pour la première fois une structure dans l'espace",
-      "url": "https://www.generation-nt.com/actualites/robot-assemble-structure-espace-2084194",
-      "publishedAt": "2026-11-10T14:30:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Binance quitte la France et facturera les comptes non vidés dès le 29 novembre : voici comment partir",
-      "url": "https://www.numerama.com/tech/2371589-binance-quitte-la-france-et-facturera-les-comptes-non-vides-des-le-29-novembre-voici-comment-partir.html",
-      "publishedAt": "2026-11-10T14:27:10+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "J’ai testé Opera Air, le navigateur web qui vous veut du bien",
-      "url": "https://www.presse-citron.net/test-opera-air/",
-      "publishedAt": "2026-11-10T14:26:32+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pour son IPO, Anthropic vise une valeur de l'action fixée entre 70 et 78 dollars",
-      "url": "https://www.clubic.com/actualite-638632-pour-son-ipo-anthropic-vise-une-valeur-de-l-action-fixee-entre-70-et-78-dollars.html",
-      "publishedAt": "2026-11-10T14:25:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Amazon : cet écran QD-OLED 240 Hz de Lenovo passe à 329,99€",
-      "url": "https://www.clubic.com/bons-plans-638635-black-friday-amazon-cet-ecran-qd-oled-240-hz-de-lenovo-passe-a-329-99.html",
-      "publishedAt": "2026-11-10T14:23:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "John Collins a rebondi face aux géants de Washington",
-      "url": "https://www.basketusa.com/news/956249/john-collins-a-parfaitement-rebondi-face-aux-tours-de-washington/",
-      "publishedAt": "2026-11-10T14:18:49+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Cyberattaque contre Binance : un malware macOS au cœur du piratage record de 6,3 milliards de dollars",
-      "url": "https://www.iphon.fr/post/cyberattaque-binance-malware-macos-piratage-record-63-milliards-dollars",
-      "publishedAt": "2026-11-10T14:17:52+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La fin d'une frustration avec Windows Hello et Windows 11 ?",
-      "url": "https://www.generation-nt.com/actualites/windows-hello-amelioration-code-pin-microsoft-2084250",
-      "publishedAt": "2026-11-10T14:10:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "BYD invente la station-service du futur : un robot, du solaire et 97 % de batterie en 9 minutes",
-      "url": "https://www.journaldugeek.com/2026/11/10/byd-invente-la-station-service-du-futur-un-robot-du-solaire-et-97-de-batterie-en-9-minutes/",
-      "publishedAt": "2026-11-10T14:09:14+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Après une frappe d’un drone russe sur la centrale de Tchernobyl, l’Europe tente de réunir les fonds pour sauver son dernier rempart contre la radioactivité : un chantier à 500 millions d’euros",
-      "url": "https://www.presse-citron.net/apres-frappe-drone-russe-centrale-tchernobyl-leurope-reunir-fonds-sauver-dernier-rempart-contre-radioactivite-chantier-500-millions-deuros/",
-      "publishedAt": "2026-11-10T14:03:39+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Apple vend des recharges d'IA à 50 dollars en plus de l'abonnement Creator Studio",
-      "url": "https://www.mac4ever.com/ia/198957-apple-vend-des-recharges-d-ia-a-50-dollars-en-plus-de-l-abonnement-creator-studio",
-      "publishedAt": "2026-11-10T14:01:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "GTA 6 : vous pouvez dès maintenant télécharger le jeu sur votre PS5",
-      "url": "https://www.presse-citron.net/gta-6-vous-pouvez-des-maintenant-telecharger-le-jeu-sur-votre-ps5/",
-      "publishedAt": "2026-11-10T14:00:04+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Adobe ouvre enfin Photoshop et Premiere à ChatGPT et Claude, et ça change tout",
-      "url": "https://www.clubic.com/actualite-638503-adobe-ouvre-enfin-photoshop-et-premiere-a-chatgpt-et-claude-et-ca-change-tout.html",
-      "publishedAt": "2026-11-10T14:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "De la simple idée à la vidéo montée... La métamorphose impressionnante d'Adobe Firefly",
-      "url": "https://www.clubic.com/actualite-638509-de-la-simple-idee-a-la-video-montee-la-metamorphose-impressionnante-d-adobe-firefly.html",
-      "publishedAt": "2026-11-10T14:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Repositionner la lumière ou effacer un intrus en vidéo : Adobe frappe très fort",
-      "url": "https://www.clubic.com/actualite-638512-repositionner-la-lumiere-ou-effacer-un-intrus-en-video-adobe-frappe-tres-fort.html",
-      "publishedAt": "2026-11-10T14:00:00+00:00"
     },
     {
       "source": "boulet",
