@@ -26,6 +26,8 @@ Korben utilise le flux complet officiel `https://korben.info/feedfull`, recomman
 
 ## Dernières décisions d’interface
 
+- Contrôles WebKit : cibles tactiles de 44 px, en-tête de Sources visible pendant le défilement, fermeture extérieure native avec repli gestuel pour les anciens Safari. Marges haut/bas adaptées aux zones de sécurité. WebKit automatisé opérationnel via outils temporaires ; appareil Apple réel encore à vérifier.
+
 - Audit Modern Web Guidance : polices de secours WOFF2 complètes (57 % plus légères), contraste des onglets corrigé, tailles de texte en rem et mise en page testée à 200 %. La taille par défaut des titres reste de 12 px. Voir `AUDIT.md` pour les mesures et limites.
 
 - Interface simplifiée : navigation segmentée BD / Sport / Tech, palette claire/sombre et horaires alignés à droite. Menu Sources rendu à l’ouverture ; listes réutilisées quand les données ne changent pas. Données revalidées via le cache HTTP sans paramètre aléatoire ; rechargement toutes les 5 minutes conservé. Politique Trusted Types activée quand le navigateur la prend en charge, sans politique HTML autorisée.

@@ -271,7 +271,21 @@ tabs.forEach((button) => button.addEventListener('click', () => {
 }));
 byId('show-sources').addEventListener('click', () => { byId('sources-dialog').showModal(); render(); });
 byId('close-sources').addEventListener('click', () => byId('sources-dialog').close());
-byId('sources-dialog').addEventListener('click', (event) => { if (event.target === byId('sources-dialog')) { const bounds = event.target.getBoundingClientRect(); if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) event.target.close(); } });
+// Safari antérieur à closedby : seul un geste commencé ET terminé dehors ferme.
+if (!('closedBy' in HTMLDialogElement.prototype)) {
+  const dialog = byId('sources-dialog');
+  let pressedOutside = false;
+  const outside = (event) => {
+    const box = dialog.getBoundingClientRect();
+    return event.clientX < box.left || event.clientX > box.right || event.clientY < box.top || event.clientY > box.bottom;
+  };
+  dialog.addEventListener('pointerdown', (event) => { pressedOutside = outside(event); });
+  dialog.addEventListener('pointerup', (event) => {
+    if (pressedOutside && outside(event)) dialog.close();
+    pressedOutside = false;
+  });
+  dialog.addEventListener('pointercancel', () => { pressedOutside = false; });
+}
 document.addEventListener('visibilitychange', () => { if (!document.hidden) { load(); loadMangas(); } });
 setInterval(() => { if (!document.hidden) render(); }, 60000);
 setInterval(() => { if (!document.hidden) { load(); loadMangas(); } }, 300000);

@@ -29,4 +29,23 @@ Les polices de secours utilisent `font-display: optional` pour éviter un change
 
 Les vérifications utilisent des données locales déterministes. La réduction mesurée porte sur les octets des fichiers de police ; elle n’est pas une mesure du temps de chargement sur un appareil réel. Aucun gain LCP/INP/CLS chiffré n’est revendiqué.
 
-WebKit a été téléchargé mais ne peut pas démarrer dans cet environnement : bibliothèques GTK4, Graphene, HarfBuzz ICU, Manette, Hyphen et GLES absentes. Le rendu sur Safari réel, Dynamic Type sur iPhone/iPad et VoiceOver restent à vérifier sur appareil Apple. L’audit automatisé ne remplace pas ces contrôles.
+WebKit a finalement pu démarrer avec des bibliothèques Debian officielles extraites dans `/tmp`, sans installation système ni dépendance ajoutée au site. Il s’agit du moteur automatisé Playwright WebKit sur Linux, pas d’un appareil Apple réel. Le rendu SF Mono sur macOS, Dynamic Type, VoiceOver et les barres système d’iOS restent à vérifier sur appareil.
+
+## Complément WebKit
+
+Problèmes reproduits puis corrigés :
+
+- Boutons tactiles de 36–40 px : taille minimale portée à 44 × 44 px pour les pointeurs tactiles ; les lignes d’articles restent compactes.
+- Bouton de fermeture du dialogue Sources hors écran après défilement en paysage : en-tête rendu collant dans le dialogue.
+- Sélection commencée dans le dialogue puis relâchée sur le fond : l’ancien gestionnaire fermait le dialogue. Utilisation de `closedby="any"` quand il est pris en charge ; repli pointerdown/pointerup/pointercancel exigeant un début et une fin hors du dialogue.
+- Marges de sécurité complétées en haut et en bas avec `safe-area-inset-top/bottom`. Leur effet avec une encoche réelle reste à contrôler sur appareil.
+
+Contrôles réalisés dans WebKit et Chromium :
+
+- Filtres, données inchangées, erreurs réseau et données invalides, zoom de texte à 200 %, thèmes clair/sombre, largeurs 320/390/1280 px.
+- WebKit tactile : 320 × 568, 390 × 844, 844 × 390, 820 × 1180 et 1180 × 820 ; aucun débordement horizontal et fermeture visible à la fin de la liste Sources.
+- Fermeture par bouton, fond et Échap ; pas de fermeture sur les marges internes ni après une sélection glissée vers le fond ; focus contenu dans le dialogue et retour au bouton Sources.
+- Même parcours avec prise en charge de `closedby` désactivée pour exercer le repli ancien Safari. Ce test ne remplace pas l’exécution sur une ancienne version de Safari.
+- 24 tests Python, syntaxe JavaScript et vérification des différences passent.
+
+Le confinement du défilement de fond reste une amélioration progressive : les anciens WebKit ne respectent pas toujours `overscroll-behavior` sur un fond non défilant. Aucun verrouillage du défilement racine n’est appliqué ; la modalité et le confinement du focus restent natifs.
