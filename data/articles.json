@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T04:56:29.292275+00:00",
+  "generatedAt": "2026-11-12T05:58:09.475996+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-12T04:56:29.292275+00:00"
+      "lastSuccessAt": "2026-11-12T05:58:09.475996+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Samsung prépare un smartphone à écran extensible !",
+      "url": "https://www.clubic.com/actualite-638854-samsung-prepare-un-smartphone-a-ecran-extensible.html",
+      "publishedAt": "2026-11-12T05:44:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "James Harden retrouve de sa superbe pour faire tomber les Knicks",
+      "url": "https://www.basketusa.com/news/956741/james-harden-retrouve-de-sa-superbe-pour-faire-tomber-les-knicks/",
+      "publishedAt": "2026-11-12T05:41:45+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Spurs renversent les Bulls pour une 10e victoire de suite !",
+      "url": "https://www.basketusa.com/news/956735/les-spurs-renversent-les-bulls-pour-une-10e-victoire-de-suite/",
+      "publishedAt": "2026-11-12T05:26:50+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Jensen Huang sur le point d'être évincé de Nvidia",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/jensen-huang-sur-le-point-detre-evince-de-nvidia-312331",
+      "publishedAt": "2026-11-12T05:24:57+00:00"
+    },
     {
       "source": "macg",
       "title": "Digital Fairness Act (DFA) : Bruxelles veut mettre fin aux petites arnaques qui rapportent gros",
@@ -346,12 +370,6 @@
       "publishedAt": "2026-11-11T15:34:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "LeBron James et Kevin Durant veulent révolutionner le basket chez les jeunes",
-      "url": "https://www.basketusa.com/news/956641/lebron-james-et-kevin-durant-veulent-revolutionner-le-basket-chez-les-jeunes/",
-      "publishedAt": "2026-11-11T15:32:14+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Tiangong : un froid record de 9,7 picokelvins a été mesuré dans l'espace",
       "url": "https://www.generation-nt.com/actualites/tiangong-station-spatiale-microgravite-zero-absolu-experimentation-2084193",
@@ -413,21 +431,15 @@
     },
     {
       "source": "basketusa",
-      "title": "Phoenix Suns – Charlotte Hornets : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/956657/phoenix-suns-charlotte-hornets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-11T14:44:17+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Milwaukee Bucks – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/956645/milwaukee-bucks-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-11T14:42:47+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Portland Trail Blazers – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/956635/portland-trail-blazers-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
       "publishedAt": "2026-11-11T14:40:57+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "LeBron James et Kevin Durant veulent révolutionner le basket chez les jeunes",
+      "url": "https://www.basketusa.com/news/956641/lebron-james-et-kevin-durant-veulent-revolutionner-le-basket-chez-les-jeunes/",
+      "publishedAt": "2026-11-11T14:32:14+00:00"
     },
     {
       "source": "tda",
@@ -484,10 +496,22 @@
       "publishedAt": "2026-11-11T14:02:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Phoenix Suns – Charlotte Hornets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/956657/phoenix-suns-charlotte-hornets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-11T13:44:17+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Un robot construit seul une structure dans l’espace pour la toute première fois : le champ des possibles s’ouvre",
       "url": "https://www.clubic.com/actualite-638797-un-robot-construit-seul-une-structure-dans-l-espace-pour-la-toute-premiere-fois-le-champ-des-possibles-s-ouvre.html",
       "publishedAt": "2026-11-11T13:44:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Milwaukee Bucks – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/956645/milwaukee-bucks-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-11T13:42:47+00:00"
     },
     {
       "source": "numerama",
@@ -2846,48 +2870,6 @@
       "title": "Chatbots, jouets connectés : Emmanuel Macron veut « interdire » l'IA partout où elle représente un risque pour les enfants",
       "url": "https://www.clubic.com/actualite-638518-chatbots-jouets-connectes-emmanuel-macron-veut-interdire-l-ia-partout-ou-elle-represente-un-risque-pour-les-enfants.html",
       "publishedAt": "2026-11-10T06:00:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "DockEcho - Un Dock sur chacun de vos écrans Mac",
-      "url": "https://korben.info/dockecho-dock-macos-chaque-ecran.html",
-      "publishedAt": "2026-11-10T05:44:55+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Stats & Highlights | Kyrie Irving et Cooper Flagg à 78 points",
-      "url": "https://www.basketusa.com/news/956219/stats-highlights-kyrie-irving-et-cooper-flagg-a-78-points/",
-      "publishedAt": "2026-11-10T05:42:23+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Warriors donnent la fessée aux Pelicans : +51 !",
-      "url": "https://www.basketusa.com/news/956175/les-warriors-donnent-la-fessee-aux-pelicans-51/",
-      "publishedAt": "2026-11-10T05:38:40+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama écoeure les Suns en 25 minutes : 40 points, 9 contres !",
-      "url": "https://www.basketusa.com/news/956182/victor-wembanyama-ecoeure-les-suns-en-25-minutes-40-points-9-contres/",
-      "publishedAt": "2026-11-10T05:31:14+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Starlink V4 veut remplacer les câbles Internet sous-marins avec 100 000 satellites",
-      "url": "https://www.generation-nt.com/actualites/starlink-remplacer-cables-sous-marins-2084191",
-      "publishedAt": "2026-11-10T05:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Luka Doncic reprend la main et les Lakers enchaînent à Atlanta",
-      "url": "https://www.basketusa.com/news/956167/luka-doncic-reprend-la-main-et-les-lakers-enchainent-a-atlanta/",
-      "publishedAt": "2026-11-10T05:18:16+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Creator Studio : un péage de 50 $ quand le quota d'IA est épuisé",
-      "url": "https://www.macg.co/logiciels/2026/11/creator-studio-un-peage-de-50-quand-le-quota-dia-est-epuise-312285",
-      "publishedAt": "2026-11-10T05:06:00+00:00"
     },
     {
       "source": "boulet",
