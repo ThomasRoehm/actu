@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:53:55.104002+00:00",
+  "generatedAt": "2026-11-13T19:52:03.265795+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,57 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
+      "lastSuccessAt": "2026-11-13T19:52:03.265795+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Les Spurs de Victor Wembanyama accueillent des Warriors décimés",
+      "url": "https://www.basketusa.com/news/957284/programme-du-soir-les-spurs-de-victor-wembanyama-accueillent-des-warriors-decimes/",
+      "publishedAt": "2026-11-13T19:30:30+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Opération Endgame : Europol démantèle trois réseaux criminels et récupère 6,4 millions d'identifiants",
+      "url": "https://www.generation-nt.com/actualites/europol-cybercriminalite-malware-operation-endgame-donnees-volees-2084486",
+      "publishedAt": "2026-11-13T19:15:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Starship : suivez en direct la tentative inédite de la double capture de la fusée géante en plein vol",
+      "url": "https://www.numerama.com/sciences/2373405-starship-spacex-vise-un-vol-de-22-heures-et-un-double-rattrapage-par-la-tour.html",
+      "publishedAt": "2026-11-13T19:13:33+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "La sonde Voyager 1 de la NASA sera bientôt l’objet le plus lointain jamais envoyé dans l’espace par l’humanité : elle atteindra sous peu la distance d’un jour-lumière",
+      "url": "https://www.presse-citron.net/sonde-voyager-1-nasa-bientot-lobjet-plus-lointain-jamais-envoye-lespace-lhumanite-elle-atteindra-distance-dun-jour-lumiere/",
+      "publishedAt": "2026-11-13T19:02:58+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Lancée en pleine guerre froide, la sonde Voyager 1 de la NASA atteindra bientôt une étape folle de son périple : la semaine prochaine, elle sera à un jour-lumière de la Terre",
+      "url": "https://www.journaldugeek.com/2026/11/13/lancee-pleine-guerre-froide-sonde-voyager-1-nasa-etape-folle-periple-semaine-prochaine-un-jour-lumiere-terre/",
+      "publishedAt": "2026-11-13T19:02:13+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le robot Qestr abandonne l'ultramarathon polaire après trois kilomètres de course",
+      "url": "https://www.generation-nt.com/actualites/robot-qestr-abandonne-ultramarathon-polaire-2084437",
+      "publishedAt": "2026-11-13T18:55:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Les pilotes de Rafale peuvent désormais viser une cible d’un simple regard",
       "url": "https://www.clubic.com/actualite-639271-les-pilotes-de-rafale-peuvent-desormais-viser-une-cible-d-un-simple-regard.html",
       "publishedAt": "2026-11-13T18:50:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Hugo Gonzalez affiche ses ambitions olympiques avec l’Espagne",
+      "url": "https://www.basketusa.com/news/957272/hugo-gonzalez-affiche-ses-ambitions-olympiques-avec-lespagne/",
+      "publishedAt": "2026-11-13T18:48:38+00:00"
     },
     {
       "source": "jdg",
@@ -550,6 +592,12 @@
       "publishedAt": "2026-11-13T14:30:50+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Phoenix Suns – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957222/phoenix-suns-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-13T14:30:41+00:00"
+    },
+    {
       "source": "presse",
       "title": "Le Pass Navigo arrive enfin sur Google Wallet, il était temps",
       "url": "https://www.presse-citron.net/le-pass-navigo-arrive-enfin-sur-google-wallet-il-etait-temps/",
@@ -644,12 +692,6 @@
       "title": "Promo : un boîtier USB4 pour SSD à 45,59 €, un modèle Thunderbolt 5 à 144 €",
       "url": "https://www.macg.co/materiel/2026/11/promo-un-boitier-usb4-pour-ssd-4559-eu-un-modele-thunderbolt-5-144-eu-312379",
       "publishedAt": "2026-11-13T13:32:18+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Phoenix Suns – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957222/phoenix-suns-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-13T13:30:41+00:00"
     },
     {
       "source": "macg",
@@ -1085,12 +1127,6 @@
     },
     {
       "source": "numerama",
-      "title": "Starship : suivez en direct la tentative inédite de la double capture de la fusée géante en plein vol",
-      "url": "https://www.numerama.com/sciences/2373405-starship-spacex-vise-un-vol-de-22-heures-et-un-double-rattrapage-par-la-tour.html",
-      "publishedAt": "2026-11-13T10:06:43+00:00"
-    },
-    {
-      "source": "numerama",
       "title": "Ces joueurs sur WoW Forever ne voient jamais la lumière du jour, et Blizzard cherche une solution",
       "url": "https://www.numerama.com/pop-culture/2373591-ces-joueurs-sur-wow-forever-ne-voient-jamais-la-lumiere-du-jour-et-blizzard-cherche-une-solution.html",
       "publishedAt": "2026-11-13T10:05:02+00:00"
@@ -1148,6 +1184,12 @@
       "title": "Pour attirer des utilisateurs sur Bing, Microsoft propose maintenant de désactiver l'IA",
       "url": "https://www.clubic.com/actualite-639052-pour-attirer-des-utilisateurs-sur-bing-microsoft-propose-maintenant-de-desactiver-l-ia.html",
       "publishedAt": "2026-11-13T09:47:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Cooper Flagg s’est cassé les dents sur la défense des Wolves",
+      "url": "https://www.basketusa.com/news/957128/cooper-flagg-sest-casse-les-dents-sur-la-defense-des-wolves/",
+      "publishedAt": "2026-11-13T09:46:59+00:00"
     },
     {
       "source": "gnt",
@@ -1328,12 +1370,6 @@
       "title": "Erin Brockovich, seule contre tous (les data centers) !",
       "url": "https://www.mac4ever.com/divers/198988-erin-brockovich-seule-contre-tous-les-data-centers",
       "publishedAt": "2026-11-13T08:47:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Cooper Flagg s’est cassé les dents sur la défense des Wolves",
-      "url": "https://www.basketusa.com/news/957128/cooper-flagg-sest-casse-les-dents-sur-la-defense-des-wolves/",
-      "publishedAt": "2026-11-13T08:46:59+00:00"
     },
     {
       "source": "iphon",
@@ -3356,12 +3392,6 @@
       "title": "Digital Fairness Act (DFA) : Bruxelles veut mettre fin aux petites arnaques qui rapportent gros",
       "url": "https://www.macg.co/services/2026/11/digital-fairness-act-dfa-bruxelles-veut-mettre-fin-aux-petites-arnaques-qui-rapportent-gros-312329",
       "publishedAt": "2026-11-11T20:00:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Take-Two confirme la fin du développement de GTA VI et rehausse ses prévisions",
-      "url": "https://www.generation-nt.com/actualites/take-two-developpement-gta-vi-termine-2084285",
-      "publishedAt": "2026-11-11T19:05:01+00:00"
     },
     {
       "source": "boulet",
