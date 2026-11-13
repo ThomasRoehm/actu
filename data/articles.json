@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:15:29.882496+00:00",
+  "generatedAt": "2026-11-13T06:18:38.893409+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     },
     {
       "id": "boulet",
@@ -131,13 +131,79 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T05:15:29.882496+00:00"
+      "lastSuccessAt": "2026-11-13T06:18:38.893409+00:00"
     }
   ],
   "articles": [
     {
+      "source": "clubic",
+      "title": "La Malaisie cherche à savoir si des puces NVIDIA ont été réexportées illégalement",
+      "url": "https://www.clubic.com/actualite-639088-la-malaisie-cherche-a-savoir-si-des-puces-nvidia-ont-ete-reexportees-illegalement.html",
+      "publishedAt": "2026-11-13T06:15:00+00:00"
+    },
+    {
       "source": "basketusa",
-      "title": "Après deux prolongations, Cade Cunningham (52 points) enfonce les Wizards !",
+      "title": "Les Raptors craquent après un départ canon à Philadelphie",
+      "url": "https://www.basketusa.com/news/957018/les-raptors-craquent-apres-un-depart-canon-a-philadelphie/",
+      "publishedAt": "2026-11-13T06:09:52+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Profitez en tant que c’est 100 % gratuit : Apple vous fera payer pour son IA, voici un aperçu",
+      "url": "https://www.presse-citron.net/profitez-en-tant-que-cest-100-gratuit-apple-vous-fera-payer-pour-son-ia-voici-un-apercu/",
+      "publishedAt": "2026-11-13T06:02:43+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Mauvaise surprise pour Sega : des millions d’adresses e-mail en fuite",
+      "url": "https://www.journaldugeek.com/2026/11/13/mauvaise-surprise-pour-sega-des-millions-dadresses-e-mail-en-fuite/",
+      "publishedAt": "2026-11-13T06:02:18+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Starship : suivez en direct la tentative inédite de la double capture de la fusée géante en plein vol",
+      "url": "https://www.numerama.com/sciences/2373405-starship-spacex-vise-un-vol-de-22-heures-et-un-double-rattrapage-par-la-tour.html",
+      "publishedAt": "2026-11-13T06:01:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les jeux partagés créent des liens au-delà des frontières grâce au jeu et aux cadeaux numériques",
+      "url": "https://www.generation-nt.com/actualites/jeux-partages-liens-jeu-cadeaux-numeriques-2084088",
+      "publishedAt": "2026-11-13T06:00:02+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Vers une fusion entre Tesla et SpaceX dès décembre ?",
+      "url": "https://www.clubic.com/actualite-639079-vers-une-fusion-entre-tesla-et-spacex-des-decembre.html",
+      "publishedAt": "2026-11-13T06:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Devin Booker repousse le retour des Hornets",
+      "url": "https://www.basketusa.com/news/957081/devin-booker-repousse-le-retour-des-hornets/",
+      "publishedAt": "2026-11-13T05:57:45+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Une panne géante frappe Microsoft : Outlook et Microsoft 365 impactés, voici ce que l’on sait",
+      "url": "https://www.numerama.com/tech/2373485-une-panne-geante-frappe-microsoft-outlook-teams-et-microsoft-365-inaccessibles-voici-ce-que-lon-sait.html",
+      "publishedAt": "2026-11-13T05:46:21+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Wolves humilient les Mavs",
+      "url": "https://www.basketusa.com/news/957076/les-wolves-humilient-les-mavericks/",
+      "publishedAt": "2026-11-13T05:31:45+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Pourquoi Nintendo supprime-t-il la connexion via Google et Apple ?",
+      "url": "https://www.generation-nt.com/actualites/suppression-identifiants-nintendo-compte-2084397",
+      "publishedAt": "2026-11-13T05:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Après deux prolongations, Cade Cunningham (52 points, 11 passes) enfonce les Wizards !",
       "url": "https://www.basketusa.com/news/957058/apres-deux-prolongations-cade-cunningham-52-points-enfonce-les-wizards/",
       "publishedAt": "2026-11-13T05:09:35+00:00"
     },
@@ -145,7 +211,7 @@
       "source": "macg",
       "title": "Microsoft 365 dans le dur : Exchange, Copilot et OneDrive en carafe",
       "url": "https://www.macg.co/services/2026/11/microsoft-365-dans-le-dur-exchange-copilot-et-onedrive-en-carafe-312361",
-      "publishedAt": "2026-11-13T05:07:14+00:00"
+      "publishedAt": "2026-11-13T05:07:00+00:00"
     },
     {
       "source": "numerama",
@@ -2852,66 +2918,6 @@
       "title": "Ring fait finalement décoller son drone de surveillance",
       "url": "https://www.journaldugeek.com/2026/11/11/ring-fait-finalement-decoller-son-drone-de-surveillance/",
       "publishedAt": "2026-11-11T06:25:55+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Un peu de temps ce 11 novembre ? Mettez à jour vos appareils Apple",
-      "url": "https://www.macg.co/video/2026/11/un-peu-de-temps-ce-11-novembre-mettez-jour-vos-appareils-apple-312315",
-      "publishedAt": "2026-11-11T06:15:50+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Singles' Day : dernières heures pour profiter des bons plans tech et maison chez Joybuy !",
-      "url": "https://www.generation-nt.com/actualites/joybuy-11-11-singles-day-macbook-neo-air-m5-asus-gaming-v16-camera-dji-osmo-xgimi-elfin-flip-tv-mini-led-pas-cher-2084274",
-      "publishedAt": "2026-11-11T06:10:01+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Un quarterback rookie de plus, les Bills se renforcent : les 8 infos NFL du mercredi",
-      "url": "https://touchdownactu.com/361219/un-quarterback-rookie-de-plus-les-bills-se-renforcent-les-8-infos-nfl-du-mercredi/",
-      "publishedAt": "2026-11-11T06:08:22+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "3 protections déjà incluses dans votre VPN, et que presque personne n’active",
-      "url": "https://www.clubic.com/actualite-637930-protections-deja-incluses-dans-votre-vpn-et-que-presque-personne-n-active.html",
-      "publishedAt": "2026-11-11T06:00:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Nvidia, la Chine et 7,5 milliards de dollars de GPU : Alice au pays des cartes vertes ?",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/nvidia-la-chine-et-75-milliards-de-dollars-de-gpu-alice-au-pays-des-cartes-vertes-312313",
-      "publishedAt": "2026-11-11T06:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Paul George éclipse le duel Tatum-Brown et les Celtics écrasent les Sixers",
-      "url": "https://www.basketusa.com/news/956490/paul-george-eclipse-le-duel-tatum-brown-et-les-celtics-ecrasent-les-sixers/",
-      "publishedAt": "2026-11-11T05:40:19+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Giannis Antetokounmpo repousse le retour du Jazz",
-      "url": "https://www.basketusa.com/news/956491/giannis-antetokounmpo-repousse-le-retour-du-jazz/",
-      "publishedAt": "2026-11-11T05:34:13+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Après plus de trois ans de développement, Sony annule Fairgames",
-      "url": "https://www.journaldugeek.com/2026/11/11/apres-plus-de-trois-ans-de-developpement-sony-annule-fairgames/",
-      "publishedAt": "2026-11-11T05:30:04+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Amazon peut-il imposer ses robots patrouilleurs dans les entreprises et les foyers ?",
-      "url": "https://www.generation-nt.com/actualites/amazon-robots-patrouilleurs-entreprises-foyers-2084293",
-      "publishedAt": "2026-11-11T05:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Cette IA de Google utilise votre smartphone Android à votre place, et ce n’est que le début",
-      "url": "https://www.clubic.com/actualite-635650-cette-ia-de-google-utilise-votre-smartphone-android-a-votre-place-et-ce-n-est-que-le-debut.html",
-      "publishedAt": "2026-11-11T05:30:00+00:00"
     },
     {
       "source": "boulet",
