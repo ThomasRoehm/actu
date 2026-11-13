@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:02:02.133600+00:00",
+  "generatedAt": "2026-11-13T18:53:55.104002+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,46 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T18:02:02.133600+00:00"
+      "lastSuccessAt": "2026-11-13T18:53:55.104002+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Les pilotes de Rafale peuvent désormais viser une cible d’un simple regard",
+      "url": "https://www.clubic.com/actualite-639271-les-pilotes-de-rafale-peuvent-desormais-viser-une-cible-d-un-simple-regard.html",
+      "publishedAt": "2026-11-13T18:50:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Cette vignette payante va être obligatoire pour tous les automobilistes dans quelques mois seulement",
+      "url": "https://www.journaldugeek.com/2026/11/13/cette-vignette-payante-sera-bientot-obligatoire-pour-tous-les-automobilistes-des-lannee-prochaine/",
+      "publishedAt": "2026-11-13T18:23:02+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Un nouveau malware menace l'accès à votre boîte Gmail",
+      "url": "https://www.generation-nt.com/actualites/nouveau-malware-menace-boite-gmail-2084435",
+      "publishedAt": "2026-11-13T18:15:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "ChatGPT peut désormais payer vos achats à votre place : comment OpenAI sécurise votre carte bancaire",
+      "url": "https://www.clubic.com/actualite-639268-chatgpt-peut-desormais-payer-vos-achats-a-votre-place-comment-openai-securise-votre-carte-bancaire.html",
+      "publishedAt": "2026-11-13T18:08:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Les secrets du tome 2 des 50 ans de souvenirs",
+      "url": "https://www.macg.co/macgeneration/2026/11/les-secrets-du-tome-2-des-50-ans-de-souvenirs-312247",
+      "publishedAt": "2026-11-13T18:05:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Prédit il y a 40 ans, ce mystérieux signal venu des profondeurs de la Voie lactée vient enfin d’être détecté grâce à James Webb",
+      "url": "https://www.journaldugeek.com/2026/11/13/predit-40-ans-mysterieux-signal-venu-profondeurs-voie-lactee-enfin-detre-detecte-james-webb/",
+      "publishedAt": "2026-11-13T18:02:47+00:00"
+    },
     {
       "source": "gnt",
       "title": "Meilleures promos du Black Friday de la semaine : packs smartphones, DJI Mini 5 Pro + Osmo Pocket 3 offerte...",
@@ -148,8 +184,14 @@
       "publishedAt": "2026-11-13T17:52:00+00:00"
     },
     {
+      "source": "macg",
+      "title": "Comment l’IA et la chasse au milliwatt redessinent la conception des processeurs",
+      "url": "https://www.macg.co/ailleurs/2026/11/comment-lia-et-la-chasse-au-milliwatt-redessinent-la-conception-des-processeurs-312365",
+      "publishedAt": "2026-11-13T17:45:00+00:00"
+    },
+    {
       "source": "jdg",
-      "title": "Avengers Doomsday : Hugh Jackman et Ryan Reynolds au scénario",
+      "title": "Avengers : Doomsday : Ryan Reynolds et Hugh Jackman ont participé à l’écriture du film",
       "url": "https://www.journaldugeek.com/2026/11/13/avengers-doomsday-hugh-jackman-et-ryan-reynolds-au-scenario/",
       "publishedAt": "2026-11-13T17:43:10+00:00"
     },
@@ -281,8 +323,8 @@
     },
     {
       "source": "macg",
-      "title": "Les secrets du tome 2 des 50 ans de souvenirs",
-      "url": "https://www.macg.co/macgeneration/2026/11/les-secrets-du-tome-2-des-50-ans-de-souvenirs-312247",
+      "title": "Black Friday : 2 To de cloud à vie chez pCloud, soit à peine plus de trois ans d'iCloud+",
+      "url": "https://www.macg.co/services/2026/10/black-friday-2-de-cloud-vie-chez-pcloud-soit-peine-plus-de-trois-ans-dicloud-311889",
       "publishedAt": "2026-11-13T16:05:00+00:00"
     },
     {
@@ -299,7 +341,7 @@
     },
     {
       "source": "clubic",
-      "title": "Black Friday : iPad, Lenovo, Samsung, les tablettes en promo chez Amazon, la Fnac et Boulanger, de 139 € à 457 €",
+      "title": "Black Friday : iPad, Lenovo, Samsung, les tablettes en promo chez Amazon, la Fnac et Boulanger",
       "url": "https://www.clubic.com/bons-plans-639220-black-friday-ipad-lenovo-samsung-les-tablettes-en-promo-chez-amazon-la-fnac-et-boulanger-de-139-a-457.html",
       "publishedAt": "2026-11-13T15:58:00+00:00"
     },
@@ -497,7 +539,7 @@
     },
     {
       "source": "jdg",
-      "title": "Avengers : Endgame Encore sur Disney+ : pourquoi le film échappe à la chronologie des médias",
+      "title": "Avengers : Endgame Encore arrive sur Disney+ : pourquoi la France n’a pas eu à attendre",
       "url": "https://www.journaldugeek.com/2026/11/13/surprise-vous-pouvez-deja-voir-des-scenes-inedites-davengers-doomsday-sur-disney/",
       "publishedAt": "2026-11-13T14:34:00+00:00"
     },
@@ -506,12 +548,6 @@
       "title": "Jensen Huang a-t-il livré des secrets à la Chine ? L’ex-PDG de Nvidia est convoqué devant le Sénat américain",
       "url": "https://www.presse-citron.net/jensen-huang-a-t-il-livre-des-secrets-a-la-chine-lex-pdg-de-nvidia-est-convoque-devant-le-senat-americain/",
       "publishedAt": "2026-11-13T14:30:50+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Phoenix Suns – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957222/phoenix-suns-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-13T14:30:41+00:00"
     },
     {
       "source": "presse",
@@ -608,6 +644,12 @@
       "title": "Promo : un boîtier USB4 pour SSD à 45,59 €, un modèle Thunderbolt 5 à 144 €",
       "url": "https://www.macg.co/materiel/2026/11/promo-un-boitier-usb4-pour-ssd-4559-eu-un-modele-thunderbolt-5-144-eu-312379",
       "publishedAt": "2026-11-13T13:32:18+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Phoenix Suns – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957222/phoenix-suns-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-13T13:30:41+00:00"
     },
     {
       "source": "macg",
@@ -728,12 +770,6 @@
       "title": "Les lunettes Android de Google à 395 dollars tournent mieux sur iPhone que sur Android",
       "url": "https://www.mac4ever.com/arvr/199021-les-lunettes-android-de-google-a-395-dollars-tournent-mieux-sur-iphone-que-sur-android",
       "publishedAt": "2026-11-13T12:10:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : 2 To de cloud à vie chez pCloud, soit à peine plus de trois ans d'iCloud+",
-      "url": "https://www.macg.co/services/2026/10/black-friday-2-de-cloud-vie-chez-pcloud-soit-peine-plus-de-trois-ans-dicloud-311889",
-      "publishedAt": "2026-11-13T12:05:00+00:00"
     },
     {
       "source": "jdg",
@@ -1114,12 +1150,6 @@
       "publishedAt": "2026-11-13T09:47:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Cooper Flagg s’est cassé les dents sur la défense des Wolves",
-      "url": "https://www.basketusa.com/news/957128/cooper-flagg-sest-casse-les-dents-sur-la-defense-des-wolves/",
-      "publishedAt": "2026-11-13T09:46:59+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Gemini 4 Hydrogen est déployé pour tous et remplace Gemini 3.8 Flash",
       "url": "https://www.generation-nt.com/actualites/gemini-4-hydrogen-ia-google-orchestrator-2084457",
@@ -1300,6 +1330,12 @@
       "publishedAt": "2026-11-13T08:47:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Cooper Flagg s’est cassé les dents sur la défense des Wolves",
+      "url": "https://www.basketusa.com/news/957128/cooper-flagg-sest-casse-les-dents-sur-la-defense-des-wolves/",
+      "publishedAt": "2026-11-13T08:46:59+00:00"
+    },
+    {
       "source": "iphon",
       "title": "Apple fait don de 25 000 Mac et iPad : voici les heureux élus",
       "url": "https://www.iphon.fr/post/apple-fait-don-25-000-mac-ipad-voici-heureux-elus",
@@ -1400,12 +1436,6 @@
       "title": "Remboursement iPhone pliant : pourquoi certains le rendent à Apple ?",
       "url": "https://www.iphon.fr/post/iphone-duo-demandes-remboursement-sondage",
       "publishedAt": "2026-11-13T07:49:55+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Comment l’IA et la chasse au milliwatt redessinent la conception des processeurs",
-      "url": "https://www.macg.co/ailleurs/2026/11/comment-lia-et-la-chasse-au-milliwatt-redessinent-la-conception-des-processeurs-312365",
-      "publishedAt": "2026-11-13T07:45:01+00:00"
     },
     {
       "source": "gnt",
@@ -3332,36 +3362,6 @@
       "title": "Take-Two confirme la fin du développement de GTA VI et rehausse ses prévisions",
       "url": "https://www.generation-nt.com/actualites/take-two-developpement-gta-vi-termine-2084285",
       "publishedAt": "2026-11-11T19:05:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Kevin Durant et Stephen Curry se défient pour la 41e fois",
-      "url": "https://www.basketusa.com/news/956711/programme-du-soir-kevin-durant-et-stephen-curry-se-defient-pour-la-41e-fois/",
-      "publishedAt": "2026-11-11T18:50:21+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "IA : non, le bain de sang dans l'emploi n'aura pas lieu, selon Yann Le Cun",
-      "url": "https://www.clubic.com/actualite-638860-ia-non-le-bain-de-sang-dans-l-emploi-n-aura-pas-lieu-selon-yann-le-cun.html",
-      "publishedAt": "2026-11-11T18:41:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Pour atteindre Mars, les sondes ESCAPADE de la NASA réalisent une manoeuvre jamais tentée",
-      "url": "https://www.generation-nt.com/actualites/nasa-escapade-mission-destination-mars-assistance-gravitationnelle-2084276",
-      "publishedAt": "2026-11-11T18:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Rien ne va plus à Utah, qui perd Lauri Markkanen pour un mois",
-      "url": "https://www.basketusa.com/news/956703/rien-ne-va-plus-a-utah-qui-perd-lauri-markkanen-pour-un-mois/",
-      "publishedAt": "2026-11-11T18:27:42+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Apple va fermer son forum d’entraide après 28 ans",
-      "url": "https://www.clubic.com/actualite-638863-apple-va-fermer-son-forum-d-entraide-apres-28-ans.html",
-      "publishedAt": "2026-11-11T18:14:00+00:00"
     },
     {
       "source": "boulet",
