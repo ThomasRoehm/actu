@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T20:50:16.321534+00:00",
+  "generatedAt": "2026-11-13T21:44:39.794240+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T20:50:16.321534+00:00"
+      "lastSuccessAt": "2026-11-13T21:44:39.794240+00:00"
     }
   ],
   "articles": [
@@ -1072,6 +1072,12 @@
       "publishedAt": "2026-11-13T10:36:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Devin Booker, le point de repère des Suns",
+      "url": "https://www.basketusa.com/news/957134/devin-booker-le-point-de-repere-des-suns/",
+      "publishedAt": "2026-11-13T10:30:13+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Black Friday Cdiscount Mobile : 100 Go de 5G à 9,99 € et un bon d'achat de 50 € en cadeau !",
       "url": "https://www.generation-nt.com/actualites/forfait-cdiscount-mobile-pas-cher-bouygues-telecom-100-go-5g-black-friday-sans-engagement-bon-achat-2084408",
@@ -1228,12 +1234,6 @@
       "publishedAt": "2026-11-13T09:30:52+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Devin Booker, le point de repère des Suns",
-      "url": "https://www.basketusa.com/news/957134/devin-booker-le-point-de-repere-des-suns/",
-      "publishedAt": "2026-11-13T09:30:13+00:00"
-    },
-    {
       "source": "tda",
       "title": "[Preview] Semaine 10 : la NFC Nord au cœur de l’attention",
       "url": "https://touchdownactu.com/361260/preview-semaine-10-la-nfc-nord-au-coeur-de-lattention/",
@@ -1345,6 +1345,12 @@
       "source": "jdg",
       "title": "Le Pass Navigo arrive enfin sur Google Wallet, avec la nouveauté que tout le monde attendait",
       "url": "https://www.journaldugeek.com/2026/11/13/le-pass-navigo-arrive-enfin-sur-google-wallet-avec-la-nouveaute-que-tout-le-monde-attendait/",
+      "publishedAt": "2026-11-13T09:00:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Des astronomes remontent à la source d’un signal radio qui revient toutes les huit minutes",
+      "url": "https://www.clubic.com/actualite-639283-des-astronomes-remontent-a-la-source-d-un-signal-radio-qui-revient-toutes-les-huit-minutes.html",
       "publishedAt": "2026-11-13T09:00:00+00:00"
     },
     {
