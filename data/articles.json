@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T08:53:57.759608+00:00",
+  "generatedAt": "2026-11-13T09:56:09.118890+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,202 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-13T08:53:57.759608+00:00"
+      "lastSuccessAt": "2026-11-13T09:56:09.118890+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Panne Outlook, point de 11h : Microsoft accorde 48 heures de sursis à vos mails bloqués",
+      "url": "https://www.clubic.com/actualite-639130-panne-outlook-point-de-11h-microsoft-accorde-48-heures-de-sursis-a-vos-mails-bloques.html",
+      "publishedAt": "2026-11-13T09:53:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "La TNT payante, c’est fini : M6 éteint la dernière chaîne du réseau hertzien",
+      "url": "https://www.presse-citron.net/la-tnt-payante-cest-fini-m6-eteint-la-derniere-chaine-du-reseau-hertzien/",
+      "publishedAt": "2026-11-13T09:51:18+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Apple : Amazon fait le plein de promos de l'iPad au AirPods Pro 3",
+      "url": "https://www.clubic.com/bons-plans-638878-amazon-fait-le-plein-de-promos-apple-avant-le-black-friday-de-l-ipad-au-airpods-pro-3.html",
+      "publishedAt": "2026-11-13T09:49:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Pour attirer des utilisateurs sur Bing, Microsoft propose maintenant de désactiver l'IA",
+      "url": "https://www.clubic.com/actualite-639052-pour-attirer-des-utilisateurs-sur-bing-microsoft-propose-maintenant-de-desactiver-l-ia.html",
+      "publishedAt": "2026-11-13T09:47:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Cooper Flagg s’est cassé les dents sur la défense des Wolves",
+      "url": "https://www.basketusa.com/news/957128/cooper-flagg-sest-casse-les-dents-sur-la-defense-des-wolves/",
+      "publishedAt": "2026-11-13T09:46:59+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone 18, iPad Pro, MacBook Neo… ils reviennent tous en 2027, avec quelles nouveautés ?",
+      "url": "https://www.iphon.fr/post/iphone-18-ipad-pro-macbook-neo-rumeurs-2027",
+      "publishedAt": "2026-11-13T09:31:08+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "McDonald’s ressuscite un jouet culte des années 2000, mais il va falloir payer",
+      "url": "https://www.journaldugeek.com/2026/11/13/mcdonalds-ressuscite-un-jouet-culte-des-annees-2000-mais-il-va-falloir-payer/",
+      "publishedAt": "2026-11-13T09:30:52+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "NordVPN lance son Black Friday : jusqu’à -78 % et un VPN dès 2,99 €/mois",
+      "url": "https://www.clubic.com/bons-plans-635581-nordvpn-lance-son-black-friday-jusqu-a--78-et-un-vpn-des-2-99-mois.html",
+      "publishedAt": "2026-11-13T09:30:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "La Fnac fait chuter le SSD Lexar Play 2 To pour PS5 au moment où GTA 6 réclame 212 Go",
+      "url": "https://www.numerama.com/tech/2373593-la-fnac-fait-chuter-le-ssd-lexar-play-2-to-pour-ps5-au-moment-ou-gta-6-reclame-212-go.html",
+      "publishedAt": "2026-11-13T09:25:28+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "SpaceX va tenter de récupérer les deux étages de Starship : comment suivre le lancement historique aujourd'hui ?",
+      "url": "https://www.clubic.com/actualite-639106-spacex-va-tenter-de-recuperer-les-deux-etages-de-starship-comment-suivre-le-lancement-historique-aujourd-hui.html",
+      "publishedAt": "2026-11-13T09:25:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Jensen Huang, patron historique et co-fondateur de Nvidia quitte l’entreprise !",
+      "url": "https://www.journaldugeek.com/2026/11/13/jensen-huang-patron-historique-et-co-fondateur-de-nvidia-quitte-lentreprise/",
+      "publishedAt": "2026-11-13T09:24:35+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "« Ramenez LE patron » : chez Nvidia, des salariés réclament le retour de Jensen Huang",
+      "url": "https://www.numerama.com/tech/2373549-ramenez-le-patron-chez-nvidia-des-salaries-reclament-le-retour-de-jensen-huang.html",
+      "publishedAt": "2026-11-13T09:24:23+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Mikal Bridges garde le soutien des Knicks… mais jusqu’à quand ?",
+      "url": "https://www.basketusa.com/news/957053/mikal-bridges-garde-le-soutien-des-knicks-mais-jusqua-quand/",
+      "publishedAt": "2026-11-13T09:22:22+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Face à la concurrence chinoise, Mercedes-Benz gèle ses investissements et menace de délocaliser",
+      "url": "https://www.generation-nt.com/actualites/mercedes-benz-fermeture-usines-delocalisation-concurrence-2084464",
+      "publishedAt": "2026-11-13T09:20:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Black Friday 2026 : les meilleures promos en direct de ce vendredi 13 (votre portefeuille a de la chance)",
+      "url": "https://www.numerama.com/tech/2363357-black-friday-2026-les-meilleures-promos-en-direct-de-ce-vendredi-13-votre-portefeuille-a-de-la-chance.html",
+      "publishedAt": "2026-11-13T09:18:37+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Volvo EX50 : les batteries de l'EX60 et 650 km pour moins de 50 000 euros",
+      "url": "https://www.mac4ever.com/auto/199013-volvo-ex50-les-batteries-de-l-ex60-et-650-km-pour-moins-de-50-000-euros",
+      "publishedAt": "2026-11-13T09:15:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Top 3 du jour : EcoFlow DELTA 3 Max à 949€, Google Pixel 11 Pro à 899€ et SSD Lexar Play 2 To à 199€",
+      "url": "https://www.generation-nt.com/actualites/ecoflow-delta-3-max-station-electrique-google-pixel-11-pro-ssd-lexar-play-2-to-dissipateur-ps5-promos-pas-cher-2084463",
+      "publishedAt": "2026-11-13T09:10:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Vous pouvez désormais voir Avengers: Endgame Extended en streaming, mais c’est une perte de temps",
+      "url": "https://www.numerama.com/pop-culture/2373557-vous-pouvez-desormais-voir-avengers-endgame-extended-en-streaming-mais-cest-une-perte-de-temps.html",
+      "publishedAt": "2026-11-13T09:09:42+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "L'iPhone 17 Pro est en promo : faut-il vraiment dépenser plus pour l’iPhone 18 Pro ?",
+      "url": "https://www.mac4ever.com/iphone/199015-l-iphone-17-pro-est-en-promo-faut-il-vraiment-depenser-plus-pour-l-iphone-18-pro",
+      "publishedAt": "2026-11-13T09:07:40+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : 2 To de cloud à vie chez pCloud, soit à peine plus de trois ans d'iCloud+",
+      "url": "https://www.macg.co/services/2026/10/black-friday-2-de-cloud-vie-chez-pcloud-soit-peine-plus-de-trois-ans-dicloud-311889",
+      "publishedAt": "2026-11-13T09:05:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Le Navigo sur Android bascule entièrement chez Google : on vous explique ce qui change pour vous",
+      "url": "https://www.numerama.com/vroom/2373579-le-navigo-sur-android-bascule-entierement-chez-google-on-vous-explique-ce-qui-change-pour-vous.html",
+      "publishedAt": "2026-11-13T09:00:28+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Exclu : on a testé le Xiaomi 18 Pro Max en photo, une nouvelle référence sur Android ?",
+      "url": "https://www.presse-citron.net/exclu-on-a-teste-le-xiaomi-18-pro-max-en-photo-une-nouvelle-reference-sur-android/",
+      "publishedAt": "2026-11-13T09:00:23+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "On a testé la photo du Xiaomi 18 Pro Max, on est dans la continuité !",
+      "url": "https://www.journaldugeek.com/test/on-a-teste-la-photo-du-xiaomi-18-pro-max-on-est-dans-la-continuite/",
+      "publishedAt": "2026-11-13T09:00:06+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "17 900 € et 250 km d’autonomie : la Dacia Spring s’améliore sur tous les points, mais garde ce défaut historique",
+      "url": "https://www.presse-citron.net/17-900-euros-250-km-autonomie-dacia-spring-ameliore-tous-points-mais-garde-defaut-historique/",
+      "publishedAt": "2026-11-13T09:00:05+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Test Samsung R95H : faut-il encore choisir l’OLED les yeux fermés ?",
+      "url": "https://www.clubic.com/test-produit-637117-test-samsung-r95h-faut-il-encore-choisir-l-oled-les-yeux-fermes.html",
+      "publishedAt": "2026-11-13T09:00:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Le Pass Navigo arrive enfin sur Google Wallet, avec la nouveauté que tout le monde attendait",
+      "url": "https://www.journaldugeek.com/2026/11/13/le-pass-navigo-arrive-enfin-sur-google-wallet-avec-la-nouveaute-que-tout-le-monde-attendait/",
+      "publishedAt": "2026-11-13T09:00:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Panne Outlook, Teams, Microsoft 365 : ce que l’on sait de la panne mondiale de Microsoft, toujours pas réglée",
+      "url": "https://www.journaldugeek.com/2026/11/13/panne-outlook-teams-microsoft-365-ce-que-lon-sait-de-la-panne-mondiale-de-microsoft-toujours-pas-reglee/",
+      "publishedAt": "2026-11-13T08:58:53+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La Nike Ja 4 « Unseen » ne passe pas inaperçue",
+      "url": "https://www.basketusa.com/news/957043/la-nike-ja-4-unseen-ne-passe-pas-inapercue/",
+      "publishedAt": "2026-11-13T08:57:44+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Panne Microsoft 365 : Outlook et Teams KO pendant plus de douze heures",
+      "url": "https://www.mac4ever.com/mac/199014-panne-microsoft-365-outlook-et-teams-ko-pendant-plus-de-douze-heures",
+      "publishedAt": "2026-11-13T08:56:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Panne de Microsoft 365 : relancer Outlook toutes les 5 minutes ne sert à rien, où suivre l’état du service en temps réel",
+      "url": "https://www.numerama.com/tech/2373565-panne-de-microsoft-365-relancer-outlook-toutes-les-5-minutes-ne-sert-a-rien-ou-suivre-letat-du-service-en-temps-reel.html",
+      "publishedAt": "2026-11-13T08:55:40+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Firefox : vous pouvez désormais tester Mini Window en version stable",
+      "url": "https://www.clubic.com/actualite-639019-firefox-160.html",
+      "publishedAt": "2026-11-13T08:54:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Noctua lance un pad thermique en nanotubes de carbone pour processeurs AMD",
+      "url": "https://www.generation-nt.com/actualites/noctua-pad-thermique-nanotubes-amd-2084418",
+      "publishedAt": "2026-11-13T08:50:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "NordVPN veut désormais vous montrer toutes les traces que vous laissez sur Internet",
@@ -212,6 +404,12 @@
       "title": "GTA 6 en version physique : est-il possible de voir le code de téléchargement gratuitement sans ouvrir la boîte ?",
       "url": "https://www.journaldugeek.com/2026/11/13/achat-de-gta-6-en-physique-est-il-possible-de-voir-le-code-sans-ouvrir-la-boite/",
       "publishedAt": "2026-11-13T08:05:30+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Bones Hyland, le coup de boost des Wolves",
+      "url": "https://www.basketusa.com/news/957103/la-saison-de-la-confirmation-pour-bones-hyland/",
+      "publishedAt": "2026-11-13T08:05:14+00:00"
     },
     {
       "source": "clubic",
@@ -314,12 +512,6 @@
       "title": "Marvel confirme un point crucial sur le grand méchant d’Avengers: Doomsday",
       "url": "https://www.numerama.com/pop-culture/2373513-marvel-confirme-un-point-crucial-sur-le-grand-mechant-davengers-doomsday.html",
       "publishedAt": "2026-11-13T07:09:18+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Bones Hyland, le coup de boost des Wolves",
-      "url": "https://www.basketusa.com/news/957103/la-saison-de-la-confirmation-pour-bones-hyland/",
-      "publishedAt": "2026-11-13T07:05:14+00:00"
     },
     {
       "source": "jdg",
@@ -730,6 +922,12 @@
       "publishedAt": "2026-11-12T17:03:11+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Warriors perdent Steph Curry pour deux semaines",
+      "url": "https://www.basketusa.com/news/956757/les-warriors-inquiets-pour-stephen-curry/",
+      "publishedAt": "2026-11-12T17:03:04+00:00"
+    },
+    {
       "source": "presse",
       "title": "« On n’a jamais vu un truc pareil » : ce phénomène climatique exceptionnel menace de faire exploser les températures en 2027",
       "url": "https://www.presse-citron.net/on-na-jamais-vu-un-truc-pareil-phenomene-climatique-exceptionnel-menace-faire-exploser-temperatures-2027/",
@@ -836,12 +1034,6 @@
       "title": "Disney+ casse ses prix avec cette nouvelle promo !",
       "url": "https://www.clubic.com/actualite-639028-disney-casse-ses-prix-avec-cette-nouvelle-promo.html",
       "publishedAt": "2026-11-12T16:04:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Warriors perdent Steph Curry pour deux semaines",
-      "url": "https://www.basketusa.com/news/956757/les-warriors-inquiets-pour-stephen-curry/",
-      "publishedAt": "2026-11-12T16:03:04+00:00"
     },
     {
       "source": "numerama",
@@ -2014,12 +2206,6 @@
       "publishedAt": "2026-11-12T07:17:05+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Amazon fait le plein de promos Apple avant le Black Friday, de l'iPad au AirPods Pro 3",
-      "url": "https://www.clubic.com/bons-plans-638878-amazon-fait-le-plein-de-promos-apple-avant-le-black-friday-de-l-ipad-au-airpods-pro-3.html",
-      "publishedAt": "2026-11-12T07:16:00+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "iPhone : Binance alerte sur une faille de sécurité !",
       "url": "https://www.mac4ever.com/securite/198981-iphone-binance-alerte-sur-une-faille-de-securite",
@@ -2858,132 +3044,6 @@
       "title": "Jordan Goodwin, un retour en fanfare face aux Clippers",
       "url": "https://www.basketusa.com/news/956580/jordan-goodwin-un-retour-en-fanfare-face-aux-clippers/",
       "publishedAt": "2026-11-11T09:57:55+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon baisse déjà le prix de ses robots aspirateurs à prix FOU, nos 12 offres préférées jusqu’à -55%",
-      "url": "https://www.clubic.com/bons-plans-638662-black-friday-amazon-baisse-deja-le-prix-de-ses-robots-aspirateurs-a-prix-fou-nos-12-offres-preferees-jusqu-a--55.html",
-      "publishedAt": "2026-11-11T09:50:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Faut-il taxer les milliardaires ? La Californie dit non, la tech applaudit",
-      "url": "https://www.mac4ever.com/societe/198972-faut-il-taxer-les-milliardaires-la-californie-dit-non-la-tech-applaudit",
-      "publishedAt": "2026-11-11T09:46:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Automattic lance Spacefast, l'hébergeur qui permet de publier un site codé par IA en quelques secondes",
-      "url": "https://www.clubic.com/actualite-638770-automattic-lance-spacefast-l-hebergeur-qui-permet-de-publier-un-site-code-par-ia-en-quelques-secondes.html",
-      "publishedAt": "2026-11-11T09:35:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Singles Day : où retrouver les meilleures offres Apple et accessoires ?",
-      "url": "https://www.iphon.fr/post/singles-days-2026-aliexpress-joybuy",
-      "publishedAt": "2026-11-11T09:33:25+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Pourquoi les mythiques Nazgûl changent de nom dans Les Anneaux de pouvoir ?",
-      "url": "https://www.journaldugeek.com/2026/11/11/pourquoi-les-nazgul-ne-portent-pas-le-meme-nom-dans-la-serie-les-anneaux-de-pouvoir/",
-      "publishedAt": "2026-11-11T09:33:14+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Anthropic lance Claude Meetings, l’IA qui transforme les réunions en plans d’action et tâches",
-      "url": "https://www.clubic.com/actualite-638755-anthropic-lance-claude-meetings-l-ia-qui-transforme-les-reunions-en-plans-d-action-et-taches.html",
-      "publishedAt": "2026-11-11T09:32:00+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Le journal des Rookies – S9] Caleb Downs fait taire son grand frère",
-      "url": "https://touchdownactu.com/361193/le-journal-des-rookies-s9-caleb-downs-fait-taire-son-grand-frere/",
-      "publishedAt": "2026-11-11T09:30:53+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "AliExpress 11.11 : c'est le jour J ! Jusqu'à -120 € de remise avec des codes flash 48h",
-      "url": "https://www.generation-nt.com/actualites/aliexpress-promos-pas-cher-singles-day-manette-8bitdo-ultimate-2-aspirateur-robot-xiaomi-x20-max-imprimante-3d-creality-ender-3-2084294",
-      "publishedAt": "2026-11-11T09:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le retour de la Kobe 8 « Shanghai Fireworks »",
-      "url": "https://www.basketusa.com/news/956483/le-retour-de-la-kobe-8-shanghai-fireworks/",
-      "publishedAt": "2026-11-11T09:28:24+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Tesla fait homologuer le FSD dans un pays aux conditions parmi les plus hostiles d’Europe",
-      "url": "https://www.numerama.com/vroom/2372089-tesla-fait-homologuer-le-fsd-dans-un-pays-aux-conditions-parmi-les-plus-hostiles-deurope.html",
-      "publishedAt": "2026-11-11T09:13:14+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Cette lampe LED Wi-Fi compatible HomeKit est à prix fou au Singles Day",
-      "url": "https://www.iphon.fr/post/lampe-led-wi-fi-homekit-prix-fou-singles-day",
-      "publishedAt": "2026-11-11T09:10:24+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Vous ne rêvez pas : la Nintendo Switch 2 en version européenne peut passer à 334,46€ sur AliExpress pour le 11.11",
-      "url": "https://www.clubic.com/bons-plans-638668-vous-ne-revez-pas-la-nintendo-switch-2-en-version-europeenne-peut-passer-a-334-46-sur-aliexpress-pour-le-11-11.html",
-      "publishedAt": "2026-11-11T09:10:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Des scans 3D révèlent pourquoi les pieds de Néandertal étaient plus plats que les nôtres",
-      "url": "https://www.generation-nt.com/actualites/scans-pieds-neandertal-talon-fossile-2084205",
-      "publishedAt": "2026-11-11T09:05:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Critique Scrooge : le retour de Johnny en dep ?",
-      "url": "https://www.journaldugeek.com/critique/critique-scrooge-le-retour-de-johnny-en-dep/",
-      "publishedAt": "2026-11-11T09:04:23+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Pourquoi Sidy Cissoko s’installe dans le cinq des Blazers",
-      "url": "https://www.basketusa.com/news/956549/pourquoi-sidy-cissoko-sinstalle-dans-le-cinq-des-blazers/",
-      "publishedAt": "2026-11-11T09:03:07+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPad Air OLED : une fuite révèle sa date de sortie et ses fonctionnalités",
-      "url": "https://www.iphon.fr/post/ipad-air-oled-fuite-revele-date-sortie-fonctionnalites",
-      "publishedAt": "2026-11-11T09:01:22+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Test Dyson R2 Nurovi : faire autrement ne veut pas dire faire mieux",
-      "url": "https://www.clubic.com/test-produit-638380-test-dyson-nurovi-r2.html",
-      "publishedAt": "2026-11-11T09:01:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "11.11 : les plus grosses promos du Singles Day tombent aujourd’hui, notre sélection AliExpress et Joybuy (EN DIRECT)",
-      "url": "https://www.numerama.com/tech/2372107-11-11-les-plus-grosses-promos-du-singles-day-tombent-aujourdhui-notre-selection-aliexpress-et-joybuy-en-direct.html",
-      "publishedAt": "2026-11-11T09:00:43+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "À la recherche de la preuve parfaite : Google a lâché 80 agents IA sur le code de Signal pour prouver qu’il était sûr",
-      "url": "https://www.numerama.com/cyberguerre/2372071-a-la-recherche-de-la-preuve-parfaite-google-a-lache-80-agents-ia-sur-le-code-de-signal-pour-prouver-quil-etait-sur.html",
-      "publishedAt": "2026-11-11T09:00:38+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Hugging Face : les cyberattaques pourraient menacer les IA open source",
-      "url": "https://www.clubic.com/actualite-638740-hugging-face-les-cyberattaques-pourraient-menacer-les-ia-open-source.html",
-      "publishedAt": "2026-11-11T09:00:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Démarchage téléphonique : ce nouveau service gratuit d’Orange est l’arme ultime contre les arnaques",
-      "url": "https://www.presse-citron.net/demarchage-telephonique-ce-nouveau-service-gratuit-dorange-est-larme-ultime-contre-les-arnaques/",
-      "publishedAt": "2026-11-11T08:54:09+00:00"
     },
     {
       "source": "boulet",
