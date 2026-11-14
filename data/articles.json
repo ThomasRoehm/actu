@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T12:43:51.865346+00:00",
+  "generatedAt": "2026-11-14T13:37:40.164933+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,64 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
+      "lastSuccessAt": "2026-11-14T13:37:40.164933+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Microsoft corrige les erreurs d’activation de Windows apparues après la mise à jour de novembre",
+      "url": "https://www.clubic.com/actualite-639298-microsoft-corrige-les-erreurs-d-activation-de-windows-apparues-apres-la-mise-a-jour-de-novembre.html",
+      "publishedAt": "2026-11-14T13:15:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Anthropic fait face à une action en justice pour le marketing lié à l'abonnement Claude Max",
+      "url": "https://www.generation-nt.com/actualites/anthropic-justice-marketing-claude-max-2084261",
+      "publishedAt": "2026-11-14T13:10:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Chauffage : la règle des 19 °C est totalement dépassée, voici la recommandation des experts pour l’hiver",
+      "url": "https://www.presse-citron.net/chauffage-la-regle-des-19-c-est-totalement-depassee-voici-la-recommandation-des-experts-pour-lhiver/",
+      "publishedAt": "2026-11-14T13:08:23+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Utilisateurs de trottinettes, vélos électriques… Comment éviter l’incendie des batteries ?",
+      "url": "https://www.mac4ever.com/mobilite/197832-utilisateurs-de-trottinettes-velos-electriques-comment-eviter-l-incendie-des-batteries",
+      "publishedAt": "2026-11-14T13:05:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Warhammer Survivors, Hillthorn, Random Dice 2… Voilà 3 des 5 superbes nouveaux jeux sortis sur iPhone cette semaine",
+      "url": "https://www.iphon.fr/post/meilleurs-jeux-iphone-ipad-semaines-46-2026",
+      "publishedAt": "2026-11-14T13:03:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Meilleur hébergeur vibe coding en 2026 : le comparatif complet pour déployer vos projets",
+      "url": "https://www.clubic.com/guide-achat-637156-meilleur-hebergeur-vibe-coding-en-2026-le-comparatif-complet-pour-deployer-vos-projets.html",
+      "publishedAt": "2026-11-14T13:03:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "J’ai laissé Gemini me coacher pour mon premier marathon : il m’a menti avec aplomb",
+      "url": "https://www.numerama.com/tech/2372409-jai-laisse-gemini-me-coacher-pour-mon-premier-marathon-il-ma-menti-avec-aplomb.html",
+      "publishedAt": "2026-11-14T13:03:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Amazon veut remettre un robot dans votre salon",
+      "url": "https://www.journaldugeek.com/2026/11/14/amazon-veut-remettre-un-robot-dans-votre-salon/",
+      "publishedAt": "2026-11-14T13:02:52+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Vigilance ! Ces yaourts Bonne Maman font l’objet d’un rappel : ne les consommez surtout pas",
+      "url": "https://www.presse-citron.net/vigilance-ces-yaourts-bonne-maman-font-lobjet-dun-rappel-ne-les-consommez-surtout-pas/",
+      "publishedAt": "2026-11-14T13:00:29+00:00"
+    },
     {
       "source": "clubic",
       "title": "Microsoft : Outlook et Teams sont de nouveau accessibles après plus de 24 heures de panne mondiale",
@@ -184,12 +238,6 @@
       "publishedAt": "2026-11-14T11:31:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
-      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
-      "publishedAt": "2026-11-14T11:30:30+00:00"
-    },
-    {
       "source": "clubic",
       "title": "iPhone, Pixel, Redmi… les prix baissent déjà sur ces 7 smartphones chez Amazon pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
@@ -226,6 +274,12 @@
       "publishedAt": "2026-11-14T11:03:04+00:00"
     },
     {
+      "source": "tda",
+      "title": "[80’s Mania] 14 décembre 1980 : Miracle at the Met",
+      "url": "https://touchdownactu.com/360996/80s-mania-14-decembre-1980-miracle-at-the-met/",
+      "publishedAt": "2026-11-14T11:00:07+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Faites très attention, car après la panne Outlook, Microsoft alerte sur les pirates qui en profitent",
       "url": "https://www.clubic.com/actualite-639295-faites-tres-attention-car-apres-la-panne-outlook-microsoft-alerte-sur-les-pirates-qui-en-profitent.html",
@@ -248,6 +302,12 @@
       "title": "Pour le Pré-Black Friday, Amazon baisse déjà les prix de sa maison connectée, jusqu’à -39%",
       "url": "https://www.clubic.com/bons-plans-638962-pre-black-friday-amazon-baisse-deja-les-prix-de-sa-maison-connectee-jusqu-a--39-sur-5-offres.html",
       "publishedAt": "2026-11-14T10:38:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
+      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
+      "publishedAt": "2026-11-14T10:30:30+00:00"
     },
     {
       "source": "gnt",
@@ -340,12 +400,6 @@
       "publishedAt": "2026-11-14T09:19:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Yaxel Lendeborg traumatisé par sa première contre Victor Wembanyama",
-      "url": "https://www.basketusa.com/news/957383/yaxel-lendeborg-traumatise-par-sa-premiere-face-a-victor-wembanyama/",
-      "publishedAt": "2026-11-14T09:18:54+00:00"
-    },
-    {
       "source": "presse",
       "title": "Adieu le Portugal : cette ville française fait rêver les retraités",
       "url": "https://www.presse-citron.net/adieu-le-portugal-cette-ville-francaise-fait-rever-les-retraites/",
@@ -388,12 +442,6 @@
       "publishedAt": "2026-11-14T08:57:12+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le trafic aérien paralysé aux États-Unis, plusieurs équipes NBA prises au piège",
-      "url": "https://www.basketusa.com/news/957371/le-trafic-aerien-paralyse-aux-etats-unis-plusieurs-equipes-nba-prises-au-piege/",
-      "publishedAt": "2026-11-14T08:51:18+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Panne géante d’Outlook et de Microsoft 365 : la théorie d’un agent IA qui aurait dérapé est balayée, mais les causes restent vagues",
       "url": "https://www.numerama.com/tech/2374527-panne-geante-doutlook-et-de-microsoft-365-la-theorie-dun-agent-ia-qui-aurait-derape-est-balayee-mais-les-causes-restent-vagues.html",
@@ -416,6 +464,12 @@
       "title": "Comment votre appareil et le serveur VPN peuvent-ils utiliser les mêmes clés de chiffrement sans jamais se les envoyer ?",
       "url": "https://www.clubic.com/dossier-639265-comment-votre-appareil-et-le-serveur-vpn-peuvent-ils-utiliser-les-memes-cles-de-chiffrement-sans-jamais-se-les-envoyer.html",
       "publishedAt": "2026-11-14T08:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Yaxel Lendeborg traumatisé par sa première contre Victor Wembanyama",
+      "url": "https://www.basketusa.com/news/957383/yaxel-lendeborg-traumatise-par-sa-premiere-face-a-victor-wembanyama/",
+      "publishedAt": "2026-11-14T08:18:54+00:00"
     },
     {
       "source": "basketusa",
@@ -446,6 +500,12 @@
       "title": "« Probablement pas le meilleur point de départ » : pourquoi Adobe ne conseille plus Photoshop aux débutants (interview)",
       "url": "https://www.clubic.com/actualite-638827-probablement-pas-le-meilleur-point-de-depart-pourquoi-adobe-ne-conseille-plus-photoshop-aux-debutants-interview.html",
       "publishedAt": "2026-11-14T08:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le trafic aérien paralysé aux États-Unis, plusieurs équipes NBA prises au piège",
+      "url": "https://www.basketusa.com/news/957371/le-trafic-aerien-paralyse-aux-etats-unis-plusieurs-equipes-nba-prises-au-piege/",
+      "publishedAt": "2026-11-14T07:51:18+00:00"
     },
     {
       "source": "clubic",
@@ -652,12 +712,6 @@
       "publishedAt": "2026-11-13T19:35:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Les Spurs de Victor Wembanyama accueillent des Warriors décimés",
-      "url": "https://www.basketusa.com/news/957284/programme-du-soir-les-spurs-de-victor-wembanyama-accueillent-des-warriors-decimes/",
-      "publishedAt": "2026-11-13T19:30:30+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Opération Endgame : Europol démantèle trois réseaux criminels et récupère 6,4 millions d'identifiants",
       "url": "https://www.generation-nt.com/actualites/europol-cybercriminalite-malware-operation-endgame-donnees-volees-2084486",
@@ -698,6 +752,12 @@
       "title": "Hugo Gonzalez affiche ses ambitions olympiques avec l’Espagne",
       "url": "https://www.basketusa.com/news/957272/hugo-gonzalez-affiche-ses-ambitions-olympiques-avec-lespagne/",
       "publishedAt": "2026-11-13T18:48:38+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Les Spurs de Victor Wembanyama accueillent des Warriors décimés",
+      "url": "https://www.basketusa.com/news/957284/programme-du-soir-les-spurs-de-victor-wembanyama-accueillent-des-warriors-decimes/",
+      "publishedAt": "2026-11-13T18:30:30+00:00"
     },
     {
       "source": "jdg",
@@ -2876,120 +2936,6 @@
       "title": "Les meilleurs films d’action à voir sur Netflix en 2026",
       "url": "https://www.numerama.com/pop-culture/2234141-les-meilleurs-films-daction-a-voir-sur-netflix-en-2026.html",
       "publishedAt": "2026-11-12T13:40:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Phishing, cloud, IA : les cybercriminels multiplient les offensives en Europe",
-      "url": "https://www.clubic.com/actualite-638992-phishing-cloud-ia-les-cybercriminels-multiplient-les-offensives-en-europe.html",
-      "publishedAt": "2026-11-12T13:32:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Apple Intelligence, Claude, DiffusionBee… combien de gigaoctets dorment sur votre Mac ?",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-intelligence-claude-diffusionbee-combien-de-gigaoctets-dorment-sur-votre-mac-312345",
-      "publishedAt": "2026-11-12T13:30:56+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Gemini débarque dans CarPlay d'Apple",
-      "url": "https://www.generation-nt.com/actualites/google-gemini-apple-carplay-automobile-2084369",
-      "publishedAt": "2026-11-12T13:30:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Ce pack de sécurité Blink est à prix Black Friday avant l’heure (-72%)",
-      "url": "https://www.iphon.fr/post/pack-securite-blink-prix-black-friday-72-pourcents",
-      "publishedAt": "2026-11-12T13:25:48+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Superman : Henry Cavill de retour ? L’acteur fait une déclaration",
-      "url": "https://www.numerama.com/pop-culture/2372845-superman-henry-cavill-de-retour-dans-le-role-lacteur-sexprime.html",
-      "publishedAt": "2026-11-12T13:22:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Vit Krejci opéré de la cheville et réévalué dans deux mois",
-      "url": "https://www.basketusa.com/news/956721/vit-krejci-opere-de-la-cheville-et-reevalue-dans-deux-mois/",
-      "publishedAt": "2026-11-12T13:21:33+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Le CERN se rapproche du « zeptoverse » grâce à une transformation rarissime",
-      "url": "https://www.journaldugeek.com/2026/11/12/le-cern-se-rapproche-du-zeptoverse-grace-a-une-transformation-rarissime/",
-      "publishedAt": "2026-11-12T13:20:19+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "100 000 billets de train vendus en 30 minutes, la SNCF crie au record pour son ouverture des ventes",
-      "url": "https://www.clubic.com/actualite-638986-billets-de-train-vendus-en-30-minutes-la-sncf-crie-au-record-pour-son-ouverture-des-ventes.html",
-      "publishedAt": "2026-11-12T13:11:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Adieu les 24 Go : Nvidia enterre la déclinaison tant attendue de sa RTX 5080 !",
-      "url": "https://www.generation-nt.com/actualites/nvidia-geforce-rtx-5080-24-go-gddr7-abandon-carte-graphique-2084395",
-      "publishedAt": "2026-11-12T13:10:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Cyberattaques : voici la nouvelle menace qui plane sur les Français, elle pourrait toucher votre maison",
-      "url": "https://www.presse-citron.net/cyberattaques-nouvelle-france-maison/",
-      "publishedAt": "2026-11-12T13:03:39+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "OpenAI : 10 milliards de dollars de revenus en 3 mois, mais autant de pertes !",
-      "url": "https://www.mac4ever.com/ia/198986-openai-10-milliards-de-dollars-de-revenus-en-3-mois-mais-autant-de-pertes",
-      "publishedAt": "2026-11-12T13:02:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Avec Harbor, Apple simplifie enfin le calcul IA distribué sur Mac !",
-      "url": "https://www.generation-nt.com/actualites/apple-harbor-serveur-ia-mac-2084342",
-      "publishedAt": "2026-11-12T13:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Joe Lacob défend le pari raté Kristaps Porzingis",
-      "url": "https://www.basketusa.com/news/956730/joe-lacob-defend-le-pari-rate-kristaps-porzingis/",
-      "publishedAt": "2026-11-12T12:53:29+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Dark patterns, faux stocks, loot boxes - l'Europe sort son Digital Fairness Act",
-      "url": "https://korben.info/dark-patterns-faux-stocks-loot-boxes-leurope-sort-son-digital-fairness-act.html",
-      "publishedAt": "2026-11-12T12:51:35+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon baisse le prix de 6 PC portables, du HP 17 pouces au Lenovo Yoga OLED",
-      "url": "https://www.clubic.com/bons-plans-638686-black-friday-amazon-baisse-le-prix-de-6-pc-portables-du-hp-17-pouces-au-lenovo-yoga-oled.html",
-      "publishedAt": "2026-11-12T12:51:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Zendure : jusqu'à 43% de réduction pour réduire vos factures d'électricité cet hiver",
-      "url": "https://www.generation-nt.com/actualites/zendure-station-electrique-solarflow-2400-pro-1600-2400-ac-4000-mix-ac-batterie-ab3000l-black-friday-2084388",
-      "publishedAt": "2026-11-12T12:50:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon frappe fort et dégaine 10 DEALS qui valent vraiment le détour",
-      "url": "https://www.clubic.com/bons-plans-638422-black-friday-amazon-les-15-meilleures-offres-tech-jusqu-a--67-ce-mardi.html",
-      "publishedAt": "2026-11-12T12:50:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "L’autonomie de 32 smartphones a été testée : voici le grand gagnant",
-      "url": "https://www.iphon.fr/post/autonomie-32-smartphones-testee-grand-gagnant-iphone",
-      "publishedAt": "2026-11-12T12:48:55+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "L’orbite de cette planète géante a basculé comme une toupie : la Nasa ne la voit plus passer",
-      "url": "https://www.numerama.com/sciences/2372575-comment-la-nasa-a-perdu-une-exoplanete-geante-de-la-taille-de-jupiter.html",
-      "publishedAt": "2026-11-12T12:45:00+00:00"
     },
     {
       "source": "boulet",
