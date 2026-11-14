@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T07:57:36.891988+00:00",
+  "generatedAt": "2026-11-14T08:48:14.262630+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,58 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
+      "lastSuccessAt": "2026-11-14T08:48:14.262630+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Panne géante d’Outlook et de Microsoft 365 : la théorie d’un agent IA qui aurait dérapé est balayée, mais les causes restent vagues",
+      "url": "https://www.numerama.com/tech/2374527-panne-geante-doutlook-et-de-microsoft-365-la-theorie-dun-agent-ia-qui-aurait-derape-est-balayee-mais-les-causes-restent-vagues.html",
+      "publishedAt": "2026-11-14T08:42:53+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "SpaceX compte faire du porte-à-porte pour trouver de nouveaux abonnés Starlink",
+      "url": "https://www.clubic.com/actualite-639280-starlink-de-spacex-mise-sur-le-porte-a-porte-pour-seduire-de-nouveaux-abonnes.html",
+      "publishedAt": "2026-11-14T08:35:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Comment votre appareil et le serveur VPN peuvent-ils utiliser les mêmes clés de chiffrement sans jamais se les envoyer ?",
+      "url": "https://www.clubic.com/dossier-639265-comment-votre-appareil-et-le-serveur-vpn-peuvent-ils-utiliser-les-memes-cles-de-chiffrement-sans-jamais-se-les-envoyer.html",
+      "publishedAt": "2026-11-14T08:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Stephon Castle ne veut plus être le maillon faible de l’attaque des Spurs",
+      "url": "https://www.basketusa.com/news/957355/stephon-castle-ne-veut-plus-etre-le-maillon-faible-de-lattaque-des-spurs/",
+      "publishedAt": "2026-11-14T08:13:55+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : les SSD Samsung et Crucial enfin en baisse chez la Fnac et Boulanger",
+      "url": "https://www.clubic.com/bons-plans-639244-black-friday-les-ssd-samsung-et-crucial-enfin-en-baisse-chez-la-fnac-et-boulanger.html",
+      "publishedAt": "2026-11-14T08:12:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "La physique prouve que le voyage dans le temps ne fonctionne que vers le futur",
+      "url": "https://www.generation-nt.com/actualites/physique-voyage-temps-futur-2084195",
+      "publishedAt": "2026-11-14T08:10:02+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Le secret révélé, Gandalf prend vraiment vie dans Les Anneaux de pouvoir (Interview)",
+      "url": "https://www.journaldugeek.com/dossier/le-secret-revele-gandalf-prend-vraiment-vie-dans-les-anneaux-de-pouvoir-interview/",
+      "publishedAt": "2026-11-14T08:06:07+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "« Probablement pas le meilleur point de départ » : pourquoi Adobe ne conseille plus Photoshop aux débutants (interview)",
+      "url": "https://www.clubic.com/actualite-638827-probablement-pas-le-meilleur-point-de-depart-pourquoi-adobe-ne-conseille-plus-photoshop-aux-debutants-interview.html",
+      "publishedAt": "2026-11-14T08:00:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Le Black Friday 2026 s'ouvre avec ce casque de Bose qui s'offre son prix le plus bas de l'année",
@@ -3242,102 +3290,6 @@
       "title": "AMD dévoile l'architecture Zen 6 et ses puces EPYC Venice à 256 cœurs",
       "url": "https://www.generation-nt.com/actualites/amd-devoile-architecture-zen-epyc-2084322",
       "publishedAt": "2026-11-12T08:50:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Google Gemini débarque sur CarPlay : Siri a de plus en plus de concurrence !",
-      "url": "https://www.mac4ever.com/auto/198979-google-gemini-debarque-sur-carplay-siri-a-de-plus-en-plus-de-concurrence",
-      "publishedAt": "2026-11-12T08:47:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Quelles sont les nouveautés avec le Google Pixel Drop de novembre ?",
-      "url": "https://www.generation-nt.com/actualites/google-pixel-drop-novembre-gemini-intelligence-pixel-tag-2084367",
-      "publishedAt": "2026-11-12T08:41:45+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone Duo et le « crackgate » : Apple a enquêté et dit avoir résolu le problème des écrans fissurés",
-      "url": "https://www.iphon.fr/post/iphone-duo-crackgate-apple-probleme",
-      "publishedAt": "2026-11-12T08:41:42+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Emily in Paris tire (enfin) sa révérence avec une bande-annonce finale qui va voir ailleurs si elle y est",
-      "url": "https://www.journaldugeek.com/2026/11/12/emily-in-paris-tire-enfin-sa-reverence-avec-une-bande-annonce-finale-qui-va-voir-ailleurs-si-elle-y-est/",
-      "publishedAt": "2026-11-12T08:41:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "James Harden enfin à la hauteur de sa réputation",
-      "url": "https://www.basketusa.com/news/956790/james-harden-enfin-a-la-hauteur-de-sa-reputation/",
-      "publishedAt": "2026-11-12T08:39:14+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Black Friday 2026 en direct : faut-il attendre le 27 novembre ? Pas pour ces offres-là",
-      "url": "https://www.numerama.com/tech/2363357-black-friday-2026-en-direct-faut-il-attendre-le-27-pas-pour-ces-offres-la.html",
-      "publishedAt": "2026-11-12T08:39:11+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Sur Windows 11, Microsoft met enfin un terme à deux mois de galère avec les périphériques audio USB",
-      "url": "https://www.clubic.com/actualite-638920-sur-windows-11-microsoft-met-enfin-un-terme-a-deux-mois-de-galere-avec-les-peripheriques-audio-usb.html",
-      "publishedAt": "2026-11-12T08:37:00+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Preview] Semaine 10 (jeudi) : l’heure de vérité pour New York",
-      "url": "https://touchdownactu.com/361029/preview-semaine-10-jeudi-lheure-de-verite-pour-new-york/",
-      "publishedAt": "2026-11-12T08:30:41+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Tout savoir sur UVEX, le télescope spatial de la NASA qui va traquer les plus violentes explosions de l’Univers",
-      "url": "https://www.clubic.com/actualite-638899-tout-savoir-sur-uvex-le-telescope-spatial-de-la-nasa-qui-va-traquer-les-plus-violentes-explosions-de-l-univers.html",
-      "publishedAt": "2026-11-12T08:24:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "XPeng : les (vraies) voitures volantes, c'est pour 2027 !",
-      "url": "https://www.generation-nt.com/actualites/xpeng-voiture-volante-commercialisation-chine-2084332",
-      "publishedAt": "2026-11-12T08:20:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Plus besoin de chercher vos clés : Google Wallet ouvre votre porte d'entrée tout seul",
-      "url": "https://www.clubic.com/actualite-638890-plus-besoin-de-chercher-vos-cles-google-wallet-ouvre-votre-porte-d-entree-tout-seul.html",
-      "publishedAt": "2026-11-12T08:16:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Nuggets fiers de leur démonstration collective",
-      "url": "https://www.basketusa.com/news/956784/les-nuggets-fiers-de-leur-demonstration-collective/",
-      "publishedAt": "2026-11-12T08:13:09+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Nvidia : et si Tim Cook remplaçait Jensen Huang ?",
-      "url": "https://www.mac4ever.com/ia/198982-nvidia-et-si-tim-cook-remplacait-jensen-huang",
-      "publishedAt": "2026-11-12T08:07:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "VisionQuest : on vous explique la fin (et l’impact des scènes post-crédits)",
-      "url": "https://www.journaldugeek.com/dossier/visionquest-on-vous-explique-la-fin-et-limpact-des-scenes-post-credits/",
-      "publishedAt": "2026-11-12T08:03:37+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Cette nouveauté Google change radicalement vos trajets en voiture, si vous utilisez un iPhone et CarPlay",
-      "url": "https://www.presse-citron.net/google-voiture-iphone-carplay/",
-      "publishedAt": "2026-11-12T08:02:21+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Modern Web Guidance - Votre agent IA va enfin goûter au code web moderne",
-      "url": "https://korben.info/modern-web-guidance-agents-web.html",
-      "publishedAt": "2026-11-12T08:00:00+00:00"
     },
     {
       "source": "boulet",
