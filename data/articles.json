@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T05:47:52.037354+00:00",
+  "generatedAt": "2026-11-14T06:54:20.624235+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     },
     {
       "id": "boulet",
@@ -131,13 +131,55 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T05:47:52.037354+00:00"
+      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
     }
   ],
   "articles": [
     {
+      "source": "numerama",
+      "title": "Choisir une offre d’électricité ou de gaz : tout ce qu’il faut savoir avant de signer [Sponso]",
+      "url": "https://www.numerama.com/sciences/2344351-choisir-une-offre-delectricite-ou-de-gaz-tout-ce-quil-faut-savoir-avant-de-signer.html",
+      "publishedAt": "2026-11-14T06:47:00+00:00"
+    },
+    {
       "source": "basketusa",
-      "title": "Bam Adebayo et Giannis Antetokounmpo mettent K.O. les Cavaliers",
+      "title": "Les Clippers résistent aux 40 points de Shai Gilgeous-Alexander",
+      "url": "https://www.basketusa.com/news/957307/les-clippers-resistent-aux-40-points-de-shai-gilgeous-alexander/",
+      "publishedAt": "2026-11-14T06:32:35+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Microsoft Office pour Mac : quelle version choisir selon votre macOS ?",
+      "url": "https://www.clubic.com/actualite-638494-microsoft-office-pour-mac-quelle-version-choisir-selon-votre-macos.html",
+      "publishedAt": "2026-11-14T06:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Deni Avdija et Damian Lillard enfoncent les Kings",
+      "url": "https://www.basketusa.com/news/957318/deni-avdija-et-damian-lillard-enfoncent-les-kings/",
+      "publishedAt": "2026-11-14T06:14:38+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "C’est un record ! Ce sabre laser Star Wars s’est vendu à près de 5 millions de dollars",
+      "url": "https://www.journaldugeek.com/2026/11/14/cest-un-record-ce-sabre-laser-star-wars-sest-vendu-a-pres-de-5-millions-de-dollars/",
+      "publishedAt": "2026-11-14T06:03:46+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le nettoyeur de sols JIMMY JV9 Pro Aqua à prix sacrifié pour le Black Friday",
+      "url": "https://www.generation-nt.com/actualites/jimmy-jv9-pro-aqua-aspirateur-balai-laveur-black-friday-2083979",
+      "publishedAt": "2026-11-14T06:00:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Spurs ne font qu’une bouchée des Warriors",
+      "url": "https://www.basketusa.com/news/957303/les-spurs-ne-font-quune-bouchee-des-warriors/",
+      "publishedAt": "2026-11-14T05:48:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Giannis Antetokounmpo et Bam Adebayo écrasent les Cavaliers",
       "url": "https://www.basketusa.com/news/957310/bam-adebayo-et-giannis-antetokounmpo-mettent-k-o-les-cavaliers/",
       "publishedAt": "2026-11-14T05:41:53+00:00"
     },
@@ -196,6 +238,12 @@
       "publishedAt": "2026-11-13T19:35:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Les Spurs de Victor Wembanyama accueillent des Warriors décimés",
+      "url": "https://www.basketusa.com/news/957284/programme-du-soir-les-spurs-de-victor-wembanyama-accueillent-des-warriors-decimes/",
+      "publishedAt": "2026-11-13T19:30:30+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Opération Endgame : Europol démantèle trois réseaux criminels et récupère 6,4 millions d'identifiants",
       "url": "https://www.generation-nt.com/actualites/europol-cybercriminalite-malware-operation-endgame-donnees-volees-2084486",
@@ -236,12 +284,6 @@
       "title": "Hugo Gonzalez affiche ses ambitions olympiques avec l’Espagne",
       "url": "https://www.basketusa.com/news/957272/hugo-gonzalez-affiche-ses-ambitions-olympiques-avec-lespagne/",
       "publishedAt": "2026-11-13T18:48:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Les Spurs de Victor Wembanyama accueillent des Warriors décimés",
-      "url": "https://www.basketusa.com/news/957284/programme-du-soir-les-spurs-de-victor-wembanyama-accueillent-des-warriors-decimes/",
-      "publishedAt": "2026-11-13T18:30:30+00:00"
     },
     {
       "source": "jdg",
@@ -1012,12 +1054,6 @@
       "publishedAt": "2026-11-13T11:07:58+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Yaxel Lendeborg a tapé dans l’œil de Kevin Durant",
-      "url": "https://www.basketusa.com/news/957160/yaxel-lendeborg-a-tape-dans-loeil-de-kevin-durant/",
-      "publishedAt": "2026-11-13T11:04:00+00:00"
-    },
-    {
       "source": "presse",
       "title": "James Webb vient de découvrir deux trous noirs qui n’auraient jamais dû exister : trop massifs, les scientifiques ne parviennent pas à expliquer comment ils ont pu se former aussi tôt",
       "url": "https://www.presse-citron.net/james-webb-decouvrir-deux-trous-noirs-jamais-exister-trop-massifs-scientifiques-parviennent-expliquer-comment-former-aussi-tot/",
@@ -1190,6 +1226,12 @@
       "title": "Ces joueurs sur WoW Forever ne voient jamais la lumière du jour, et Blizzard cherche une solution",
       "url": "https://www.numerama.com/pop-culture/2373591-ces-joueurs-sur-wow-forever-ne-voient-jamais-la-lumiere-du-jour-et-blizzard-cherche-une-solution.html",
       "publishedAt": "2026-11-13T10:05:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Yaxel Lendeborg a tapé dans l’œil de Kevin Durant",
+      "url": "https://www.basketusa.com/news/957160/yaxel-lendeborg-a-tape-dans-loeil-de-kevin-durant/",
+      "publishedAt": "2026-11-13T10:04:00+00:00"
     },
     {
       "source": "presse",
@@ -3314,120 +3356,6 @@
       "title": "Le MVP de la nuit | Wemby remet les Spurs à l’endroit",
       "url": "https://www.basketusa.com/news/956753/le-mvp-de-la-nuit-wemby-remet-les-spurs-a-lendroit/",
       "publishedAt": "2026-11-12T06:56:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "La PS5 entre dans \"le club des 100 millions\", aux côtés des plus grandes consoles de l'Histoire",
-      "url": "https://www.clubic.com/actualite-638842-la-ps5-entre-dans-le-club-des-100-millions-aux-cotes-des-plus-grandes-consoles-de-l-histoire.html",
-      "publishedAt": "2026-11-12T06:51:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le DLSS de Microsoft, l'Auto SR s'invite sur la Xbox ROG Ally X",
-      "url": "https://www.generation-nt.com/actualites/auto-sr-upscaling-microsoft-handheld-affichage-2084319",
-      "publishedAt": "2026-11-12T06:50:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pour le Black Friday, Amazon fait chuter le prix des TV Mini LED et des vidéoprojecteurs XGIMI",
-      "url": "https://www.clubic.com/bons-plans-638875-pour-le-black-friday-amazon-fait-chuter-le-prix-des-tv-mini-led-et-des-videoprojecteurs-xgimi.html",
-      "publishedAt": "2026-11-12T06:47:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Stats & Highlights | Les Celtics effacent 22 points de retard à Toronto",
-      "url": "https://www.basketusa.com/news/956786/stats-highlights-les-celtics-effacent-22-points-de-retard-a-toronto/",
-      "publishedAt": "2026-11-12T06:45:43+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La Finlande autorise la conduite assistée de Tesla juste avant l'hiver (et la neige sur les caméras)",
-      "url": "https://www.generation-nt.com/actualites/tesla-fsd-conduite-assistee-finlande-autorisation-homologation-2084329",
-      "publishedAt": "2026-11-12T06:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Reddit teste une IA qui résume les avis de ses membres pour vous aider à choisir quoi acheter",
-      "url": "https://www.clubic.com/actualite-638866-reddit-teste-une-ia-qui-resume-les-avis-de-ses-membres-pour-vous-aider-a-choisir-quoi-acheter.html",
-      "publishedAt": "2026-11-12T06:30:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Une meilleure image, moins de réglages : la bonne nouvelle de Microsoft pour les ROG Xbox Ally",
-      "url": "https://www.journaldugeek.com/2026/11/12/une-meilleure-image-moins-de-reglages-la-bonne-nouvelle-de-microsoft-pour-les-rog-xbox-ally/",
-      "publishedAt": "2026-11-12T06:29:08+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Sidy Cissoko et les Blazers font encore tomber le Thunder !",
-      "url": "https://www.basketusa.com/news/956736/sidy-cissoko-et-les-blazers-font-encore-tomber-le-thunder/",
-      "publishedAt": "2026-11-12T06:28:07+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Clap de fin : Apple ferme ses forums d’assistance après 30 ans d’existence",
-      "url": "https://www.mac4ever.com/divers/198978-clap-de-fin-apple-ferme-ses-forums-d-assistance-apres-30-ans-d-existence",
-      "publishedAt": "2026-11-12T06:25:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Tesla obtient un feu vert temporaire en Finlande pour son système de conduite assistée",
-      "url": "https://www.clubic.com/actualite-638887-tesla-obtient-un-feu-vert-temporaire-en-finlande-pour-son-systeme-de-conduite-assistee.html",
-      "publishedAt": "2026-11-12T06:15:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA VI dépasse le milliard de dollars de revenus avant même sa sortie (et s’offre déjà deux records historiques)",
-      "url": "https://www.journaldugeek.com/2026/11/12/gta-vi-depasse-le-milliard-de-dollars-de-revenus-avant-meme-sa-sortie-et-soffre-deja-deux-records-historiques/",
-      "publishedAt": "2026-11-12T06:14:49+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Orange lance sa super-app mobile avec quatre grands modèles d'IA intégrés",
-      "url": "https://www.generation-nt.com/actualites/orange-lance-super-app-ia-2084318",
-      "publishedAt": "2026-11-12T06:10:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "HBO Max et Paramount+ feront abonnement commun début 2027",
-      "url": "https://www.journaldugeek.com/2026/11/12/hbo-max-et-paramount-feront-abonnement-commun-debut-2027/",
-      "publishedAt": "2026-11-12T06:02:19+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Soirée tranquille pour les Lakers à Milwaukee",
-      "url": "https://www.basketusa.com/news/956733/soiree-tranquille-pour-les-lakers-a-milwaukee/",
-      "publishedAt": "2026-11-12T06:02:06+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Espionnage, tromperies et puces IA : qui est Megaspeed, l’entreprise au cœur du scandale NVIDIA ?",
-      "url": "https://www.presse-citron.net/espionnage-tromperies-et-puces-ia-qui-est-megaspeed-lentreprise-au-coeur-du-scandale-nvidia/",
-      "publishedAt": "2026-11-12T06:00:48+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Test de la serrure connectée WELOCK A91 SMART LOCK",
-      "url": "https://www.generation-nt.com/tests/test-serrure-welock-a91-smart-lock-2080269",
-      "publishedAt": "2026-11-12T06:00:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Nvidia préparerait le départ de Jensen Huang, son PDG historique",
-      "url": "https://www.clubic.com/actualite-638884-nvidia-preparerait-le-depart-de-jensen-huang-son-pdg-historique.html",
-      "publishedAt": "2026-11-12T06:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Offre spéciale Black Friday : ce VPN suisse est à - 75 % pour 2 ans d'abonnement",
-      "url": "https://www.clubic.com/bons-plans-635728-offre-speciale-black-friday-ce-vpn-suisse-est-a---75-pour-2-ans-d-abonnement.html",
-      "publishedAt": "2026-11-12T06:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Warriors perdent Steph Curry et tombent à Houston…",
-      "url": "https://www.basketusa.com/news/956687/les-warriors-perdent-stephen-curry-et-tombent-a-houston/",
-      "publishedAt": "2026-11-12T05:57:42+00:00"
     },
     {
       "source": "boulet",
