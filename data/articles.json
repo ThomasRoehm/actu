@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:54:20.624235+00:00",
+  "generatedAt": "2026-11-14T07:57:36.891988+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,105 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T06:54:20.624235+00:00"
+      "lastSuccessAt": "2026-11-14T07:57:36.891988+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday 2026 s'ouvre avec ce casque de Bose qui s'offre son prix le plus bas de l'année",
+      "url": "https://www.clubic.com/bons-plans-636616-le-black-friday-s-ouvre-avec-ce-casque-de-bose-qui-s-offre-son-prixl-plus-bas-de-l-annee.html",
+      "publishedAt": "2026-11-14T07:49:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Une victoire référence pour les Pacers",
+      "url": "https://www.basketusa.com/news/957349/une-victoire-reference-pour-les-pacers/",
+      "publishedAt": "2026-11-14T07:46:47+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "iPhone Duo : comment utiliser ses nouvelles fonctionnalités ?",
+      "url": "https://www.mac4ever.com/iphone/198928-iphone-duo-comment-utiliser-ses-nouvelles-fonctionnalites",
+      "publishedAt": "2026-11-14T07:45:32+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Test des MacBook Pro PROLED XDR : le changement, c’est maintenant ?",
+      "url": "https://www.macg.co/tests/2026/11/test-des-macbook-pro-proled-xdr-le-changement-cest-maintenant-312389",
+      "publishedAt": "2026-11-14T07:44:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Les créateurs d’un malware affirment que leur logiciel garde accès à Gmail même après un changement de mot de passe",
+      "url": "https://www.clubic.com/actualite-639274-les-createurs-d-un-malware-affirment-que-leur-logiciel-garde-acces-a-gmail-meme-apres-un-changement-de-mot-de-passe.html",
+      "publishedAt": "2026-11-14T07:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Un VPN GRATUIT sans quota ni publicité : l’offre d’Avast a tout pour séduire (on vous explique)",
+      "url": "https://www.clubic.com/bons-plans-638527-un-vpn-gratuit-sans-quota-ni-publicite-l-offre-d-avast-a-tout-pour-seduire-on-vous-explique.html",
+      "publishedAt": "2026-11-14T07:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dejounte Murray réclame son transfert aux Pelicans !",
+      "url": "https://www.basketusa.com/news/957295/dejounte-murray-reclame-son-transfert-aux-pelicans/",
+      "publishedAt": "2026-11-14T07:20:13+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Test iPhone Duo : trois semaines avec le premier pliant d'Apple, entre coup de cœur et frustrations",
+      "url": "https://www.clubic.com/test-produit-637696-test-iphone-duo-trois-semaines-avec-le-premier-pliant-d-apple-entre-coup-de-c-ur-et-frustrations.html",
+      "publishedAt": "2026-11-14T07:15:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone Duo : voici une autre méthode pour le payer en 24 fois sans frais",
+      "url": "https://www.iphon.fr/post/iphone-duo-voici-autre-methode-payer-24-fois-sans-frais",
+      "publishedAt": "2026-11-14T07:01:14+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "J’ai passé 18 mois sur Linux, voici ce que j’aurais aimé savoir avant de me lancer",
+      "url": "https://www.presse-citron.net/jai-passe-18-mois-sur-linux-voici-ce-que-jaurais-aime-savoir-avant-de-me-lancer/",
+      "publishedAt": "2026-11-14T07:00:08+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Sortie de veille : le départ fracassant de Jensen Huang peut-il ébranler Nvidia ?",
+      "url": "https://www.macg.co/podcasts/2026/11/sortie-de-veille-le-depart-fracassant-de-jensen-huang-peut-il-ebranler-nvidia-312369",
+      "publishedAt": "2026-11-14T07:00:05+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 : Amazon frappe FORT ce weekend avec 14 offres jusqu’à moins 60%",
+      "url": "https://www.clubic.com/bons-plans-639217-black-friday-2026-amazon-frappe-fort-ce-weekend-avec-14-offres-jusqu-a-moins-60.html",
+      "publishedAt": "2026-11-14T07:00:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Xiaomi 18 Pro : Google Maps, Spotify et YouTube Music arrivent sur l’écran arrière",
+      "url": "https://www.clubic.com/actualite-639262-xiaomi-18-pro-google-maps-spotify-et-youtube-music-arrivent-sur-l-ecran-arriere.html",
+      "publishedAt": "2026-11-14T06:57:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Alperen Sengun à la table d’Hakeem Olajuwon et Yao Ming",
+      "url": "https://www.basketusa.com/news/957320/le-mvp-de-la-nuit-alperen-sengun-a-la-table-dhakeem-olajuwon-et-yao-ming/",
+      "publishedAt": "2026-11-14T06:53:06+00:00"
+    },
     {
       "source": "numerama",
       "title": "Choisir une offre d’électricité ou de gaz : tout ce qu’il faut savoir avant de signer [Sponso]",
       "url": "https://www.numerama.com/sciences/2344351-choisir-une-offre-delectricite-ou-de-gaz-tout-ce-quil-faut-savoir-avant-de-signer.html",
       "publishedAt": "2026-11-14T06:47:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Stats & Highlights | Le Magic et les Rockets enchaînent",
+      "url": "https://www.basketusa.com/news/957329/stats-highlights-le-magic-et-les-rockets-enchainent/",
+      "publishedAt": "2026-11-14T06:45:07+00:00"
     },
     {
       "source": "basketusa",
@@ -214,6 +304,12 @@
       "publishedAt": "2026-11-13T21:57:55+00:00"
     },
     {
+      "source": "macg",
+      "title": "Les secrets du tome 2 des 50 ans de souvenirs",
+      "url": "https://www.macg.co/macgeneration/2026/11/les-secrets-du-tome-2-des-50-ans-de-souvenirs-312247",
+      "publishedAt": "2026-11-13T21:51:00+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Black Friday : MacXvideo AI à 35,95€ pour restaurer vos anciennes vidéos et photos grâce à l'IA !",
       "url": "https://www.mac4ever.com/mac/198996-black-friday-macxvideo-ai-a-35-95-pour-restaurer-vos-anciennes-videos-et-photos-grace-a-l-ia",
@@ -236,12 +332,6 @@
       "title": "Nintendo absorbe les coûts de la Switch 2 mais prévient d'une hausse possible",
       "url": "https://www.generation-nt.com/actualites/switch-2-prix-hausse-nintendo-2084438",
       "publishedAt": "2026-11-13T19:35:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Les Spurs de Victor Wembanyama accueillent des Warriors décimés",
-      "url": "https://www.basketusa.com/news/957284/programme-du-soir-les-spurs-de-victor-wembanyama-accueillent-des-warriors-decimes/",
-      "publishedAt": "2026-11-13T19:30:30+00:00"
     },
     {
       "source": "gnt",
@@ -286,6 +376,12 @@
       "publishedAt": "2026-11-13T18:48:38+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Les Spurs de Victor Wembanyama accueillent des Warriors décimés",
+      "url": "https://www.basketusa.com/news/957284/programme-du-soir-les-spurs-de-victor-wembanyama-accueillent-des-warriors-decimes/",
+      "publishedAt": "2026-11-13T18:30:30+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Cette vignette payante va être obligatoire pour tous les automobilistes dans quelques mois seulement",
       "url": "https://www.journaldugeek.com/2026/11/13/cette-vignette-payante-sera-bientot-obligatoire-pour-tous-les-automobilistes-des-lannee-prochaine/",
@@ -302,12 +398,6 @@
       "title": "ChatGPT peut désormais payer vos achats à votre place : comment OpenAI sécurise votre carte bancaire",
       "url": "https://www.clubic.com/actualite-639268-chatgpt-peut-desormais-payer-vos-achats-a-votre-place-comment-openai-securise-votre-carte-bancaire.html",
       "publishedAt": "2026-11-13T18:08:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Les secrets du tome 2 des 50 ans de souvenirs",
-      "url": "https://www.macg.co/macgeneration/2026/11/les-secrets-du-tome-2-des-50-ans-de-souvenirs-312247",
-      "publishedAt": "2026-11-13T18:05:00+00:00"
     },
     {
       "source": "jdg",
@@ -3248,114 +3338,6 @@
       "title": "Modern Web Guidance - Votre agent IA va enfin goûter au code web moderne",
       "url": "https://korben.info/modern-web-guidance-agents-web.html",
       "publishedAt": "2026-11-12T08:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Proton répond à la polémique sur l’IA avec un billet sur la sécurité de ses données",
-      "url": "https://www.clubic.com/actualite-638821-proton-ia-et-vie-privee.html",
-      "publishedAt": "2026-11-12T07:53:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "PlayStation Plus Extra et Premium : il y a de très gros jeux pour ce mois de novembre 2026",
-      "url": "https://www.numerama.com/pop-culture/2372489-death-stranding-2-rejoint-le-playstation-plus-extra-et-premium-en-novembre-2026.html",
-      "publishedAt": "2026-11-12T07:52:52+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone : un lourd scandale éclate, Apple doit s’expliquer",
-      "url": "https://www.iphon.fr/post/apple-sous-traitants-accident-salarie-usine-iphone",
-      "publishedAt": "2026-11-12T07:49:17+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Marcus Smart fait le coup de poing sur Charles Bassey",
-      "url": "https://www.basketusa.com/news/956783/marcus-smart-fait-le-coup-de-poing-sur-charles-bassey/",
-      "publishedAt": "2026-11-12T07:47:42+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "L'interdiction du chauffage au bois est repoussée en Europe, mais au cas par cas en France",
-      "url": "https://www.generation-nt.com/actualites/interdiction-chauffage-bois-europe-2084356",
-      "publishedAt": "2026-11-12T07:45:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "ChatGPT veut gérer vos prochaines vacances : cette nouvelle acquisition en dit long sur ses projets",
-      "url": "https://www.journaldugeek.com/2026/11/12/chatgpt-veut-gerer-vos-prochaines-vacances-cette-nouvelle-acquisition-en-dit-long-sur-ses-projets/",
-      "publishedAt": "2026-11-12T07:31:19+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pinceau 3D, vidéo retouchée en direct… Les 10 démos IA bluffantes de l'Adobe Max 2026",
-      "url": "https://www.clubic.com/actualite-638881-pinceau-3d-video-retouchee-en-direct-les-10-demos-ia-bluffantes-de-l-adobe-max-2026.html",
-      "publishedAt": "2026-11-12T07:28:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Et si le patron du matériel d’Apple succédait à Jensen Huang chez Nvidia ?",
-      "url": "https://www.macg.co/aapl/2026/11/et-si-le-patron-du-materiel-dapple-succedait-jensen-huang-chez-nvidia-312335",
-      "publishedAt": "2026-11-12T07:22:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "A son tour, l'armée allemande bannit les drones et véhicules chinois de ses casernes",
-      "url": "https://www.generation-nt.com/actualites/allemagne-armee-interdiction-drone-voiture-connectee-chine-2084330",
-      "publishedAt": "2026-11-12T07:20:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Séisme chez NVIDIA : Jensen Huang au bord de l’éviction après les révélations sur une deuxième relation extraconjugale",
-      "url": "https://www.presse-citron.net/seisme-chez-nvidia-jensen-huang-au-bord-de-leviction-apres-les-revelations-sur-une-deuxieme-relation-extraconjugale/",
-      "publishedAt": "2026-11-12T07:17:05+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iPhone : Binance alerte sur une faille de sécurité !",
-      "url": "https://www.mac4ever.com/securite/198981-iphone-binance-alerte-sur-une-faille-de-securite",
-      "publishedAt": "2026-11-12T07:15:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Jensen Huang devrait se faire limoger par Nvidia",
-      "url": "https://www.numerama.com/tech/2372485-jensen-huang-devrait-se-faire-limoger-par-nvidia.html",
-      "publishedAt": "2026-11-12T07:11:46+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "La France pourrait accueillir les données climatiques que Donald Trump menace d’effacer",
-      "url": "https://www.clubic.com/actualite-638872-la-france-pourrait-accueillir-les-donnees-climatiques-que-donald-trump-menace-d-effacer.html",
-      "publishedAt": "2026-11-12T07:05:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Vos photos Samsung arrivent chez Google, mais il y a une limite",
-      "url": "https://www.journaldugeek.com/2026/11/12/vos-photos-samsung-arrivent-chez-google-mais-il-y-a-une-limite/",
-      "publishedAt": "2026-11-12T07:02:29+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Vous vouliez un nouveau Mac ? Apple vient de vous donner une bonne raison de l’acheter",
-      "url": "https://www.presse-citron.net/mac-apple-bonne-raison-acheter/",
-      "publishedAt": "2026-11-12T07:02:26+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : 7 bonnes raisons de craquer pour un aspirateur laveur Roborock",
-      "url": "https://www.clubic.com/actualite-637273-black-friday-2026-7-bonnes-raisons-de-craquer-pour-un-aspirateur-laveur-roborock.html",
-      "publishedAt": "2026-11-12T07:00:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Personne ne croyait à cette révolution d’Apple, et pourtant…",
-      "url": "https://www.iphon.fr/post/apple-ipod-anniversaire-25-ans",
-      "publishedAt": "2026-11-12T06:58:03+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Wemby remet les Spurs à l’endroit",
-      "url": "https://www.basketusa.com/news/956753/le-mvp-de-la-nuit-wemby-remet-les-spurs-a-lendroit/",
-      "publishedAt": "2026-11-12T06:56:00+00:00"
     },
     {
       "source": "boulet",
