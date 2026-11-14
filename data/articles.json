@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T17:21:20.692108+00:00",
+  "generatedAt": "2026-11-14T18:06:26.294190+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
+      "lastSuccessAt": "2026-11-14T18:06:26.294190+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "La rénovation du Moda Center dans l’impasse",
+      "url": "https://www.basketusa.com/news/957426/la-renovation-du-moda-center-dans-limpasse/",
+      "publishedAt": "2026-11-14T17:52:14+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Une scénic qui dépanne, des nouveautés eco-scorées, trop de commandes de Cybertruck : le récap Vroom de la semaine",
+      "url": "https://www.numerama.com/vroom/2374153-une-scenic-qui-depanne-des-nouveautes-eco-scorees-trop-de-commandes-de-cybertruck-le-recap-vroom-de-la-semaine.html",
+      "publishedAt": "2026-11-14T17:42:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : Amazon baisse le prix de 6 PC portables, du HP 17 pouces au Lenovo Yoga OLED",
+      "url": "https://www.clubic.com/bons-plans-638686-black-friday-amazon-baisse-le-prix-de-6-pc-portables-du-hp-17-pouces-au-lenovo-yoga-oled.html",
+      "publishedAt": "2026-11-14T17:37:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le drone autonome Skyreach peut-il vraiment détrôner les hélicoptères de transport ?",
+      "url": "https://www.generation-nt.com/actualites/skyreach-drone-autonome-cargo-fret-remplacement-helicoptere-2084333",
+      "publishedAt": "2026-11-14T17:30:01+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Les Pelicans prennent fessée sur fessée",
@@ -334,6 +358,12 @@
       "publishedAt": "2026-11-14T13:42:54+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Sacramento Kings – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957429/sacramento-kings-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-14T13:40:40+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Microsoft corrige les erreurs d’activation de Windows apparues après la mise à jour de novembre",
       "url": "https://www.clubic.com/actualite-639298-microsoft-corrige-les-erreurs-d-activation-de-windows-apparues-apres-la-mise-a-jour-de-novembre.html",
@@ -394,12 +424,6 @@
       "publishedAt": "2026-11-14T12:58:04+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Sacramento Kings – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957429/sacramento-kings-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-14T12:40:40+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Microsoft : Outlook et Teams sont de nouveau accessibles après plus de 24 heures de panne mondiale",
       "url": "https://www.clubic.com/actualite-639307-microsoft-outlook-et-teams-sont-de-nouveau-accessibles-apres-plus-de-24-heures-de-panne-mondiale.html",
@@ -446,6 +470,12 @@
       "title": "Starship, vol 15 : le booster finit dans le golfe du Mexique, la tentative de la première capture par la tour diffusée ce soir en live",
       "url": "https://www.clubic.com/actualite-639292-starship-vol-15-le-booster-finit-dans-le-golfe-du-mexique-la-tentative-de-la-premiere-capture-par-la-tour-diffusee-ce-soir-en-live.html",
       "publishedAt": "2026-11-14T11:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
+      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
+      "publishedAt": "2026-11-14T11:30:30+00:00"
     },
     {
       "source": "clubic",
@@ -512,12 +542,6 @@
       "title": "Pour le Pré-Black Friday, Amazon baisse déjà les prix de sa maison connectée, jusqu’à -39%",
       "url": "https://www.clubic.com/bons-plans-638962-pre-black-friday-amazon-baisse-deja-les-prix-de-sa-maison-connectee-jusqu-a--39-sur-5-offres.html",
       "publishedAt": "2026-11-14T10:38:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
-      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
-      "publishedAt": "2026-11-14T10:30:30+00:00"
     },
     {
       "source": "gnt",
@@ -658,6 +682,12 @@
       "publishedAt": "2026-11-14T08:57:12+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le trafic aérien paralysé aux États-Unis, plusieurs équipes NBA prises au piège",
+      "url": "https://www.basketusa.com/news/957371/le-trafic-aerien-paralyse-aux-etats-unis-plusieurs-equipes-nba-prises-au-piege/",
+      "publishedAt": "2026-11-14T08:51:18+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Panne géante d’Outlook et de Microsoft 365 : la théorie d’un agent IA qui aurait dérapé est balayée, mais les causes restent vagues",
       "url": "https://www.numerama.com/tech/2374527-panne-geante-doutlook-et-de-microsoft-365-la-theorie-dun-agent-ia-qui-aurait-derape-est-balayee-mais-les-causes-restent-vagues.html",
@@ -710,12 +740,6 @@
       "title": "« Probablement pas le meilleur point de départ » : pourquoi Adobe ne conseille plus Photoshop aux débutants (interview)",
       "url": "https://www.clubic.com/actualite-638827-probablement-pas-le-meilleur-point-de-depart-pourquoi-adobe-ne-conseille-plus-photoshop-aux-debutants-interview.html",
       "publishedAt": "2026-11-14T08:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le trafic aérien paralysé aux États-Unis, plusieurs équipes NBA prises au piège",
-      "url": "https://www.basketusa.com/news/957371/le-trafic-aerien-paralyse-aux-etats-unis-plusieurs-equipes-nba-prises-au-piege/",
-      "publishedAt": "2026-11-14T07:51:18+00:00"
     },
     {
       "source": "clubic",
@@ -2594,84 +2618,6 @@
       "title": "Critique Les Anneaux de pouvoir : la saison 3 pourrait enfin convaincre les déçus",
       "url": "https://www.journaldugeek.com/critique/critique-les-anneaux-de-pouvoir-une-saison-3-pour-les-sauver-toutes/",
       "publishedAt": "2026-11-12T18:10:18+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "La France veut installer un canon électromagnétique sur ses navires de guerre, mais il lui reste un obstacle de taille à surmonter",
-      "url": "https://www.journaldugeek.com/2026/11/12/france-installer-canon-electromagnetique-navires-guerre-mais-reste-obstacle-taille-surmonter/",
-      "publishedAt": "2026-11-12T18:02:53+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Draft NFL 2027 – Le Top 5 par position en défense",
-      "url": "https://touchdownactu.com/361156/draft-nfl-2027-le-top-5-par-position-en-defense/",
-      "publishedAt": "2026-11-12T18:00:29+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Les Anneaux de pouvoir : voilà les Nazgnagôl (Nazgûl) déjà identifiés dans la saison 3",
-      "url": "https://www.numerama.com/pop-culture/2372969-les-anneaux-de-pouvoir-voila-les-nazgnagol-nazgul-deja-identifies-dans-la-saison-3.html",
-      "publishedAt": "2026-11-12T18:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "La France lance un centre international de l’IA de défense à Rennes, et veut y rallier ses alliés",
-      "url": "https://www.clubic.com/actualite-639046-la-france-lance-un-centre-international-de-l-ia-de-defense-a-rennes-et-veut-y-rallier-ses-allies.html",
-      "publishedAt": "2026-11-12T17:55:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "SFR TV et RED TV débarquent sur Apple TV",
-      "url": "https://www.generation-nt.com/actualites/sfr-tv-red-tv-apple-tv-2084427",
-      "publishedAt": "2026-11-12T17:50:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : ExpressVPN dégaine -73% avant la ruée, soit 308€ de remise",
-      "url": "https://www.clubic.com/bons-plans-639007-black-friday-avant-l-heure-expressvpn-avance-a-3-99-mois-sur-28-mois.html",
-      "publishedAt": "2026-11-12T17:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chez les Wizards, le ballon ne tourne pas rond",
-      "url": "https://www.basketusa.com/news/956937/chez-les-wizards-le-ballon-ne-tourne-pas-rond/",
-      "publishedAt": "2026-11-12T17:41:17+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : toutes les informations essentielles à savoir pour la sortie du jeu",
-      "url": "https://www.journaldugeek.com/dossier/gta-6-toutes-les-informations-essentielles-a-savoir-pour-la-sortie-du-jeu/",
-      "publishedAt": "2026-11-12T17:32:13+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Ring Drone Cam : le drone qui patrouille dans la maison",
-      "url": "https://www.mac4ever.com/securite/199006-ring-drone-cam-le-drone-qui-patrouille-dans-la-maison",
-      "publishedAt": "2026-11-12T17:31:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Sony fermera définitivement son application PlayStation Plus sur PC en décembre",
-      "url": "https://www.generation-nt.com/actualites/fermeture-playstation-plus-pc-sony-2084348",
-      "publishedAt": "2026-11-12T17:30:02+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "La démission de Jensen Huang fait chuter l'action Nvidia de 13 % à l'ouverture et Donald Trump voit bien Tim Cook comme successeur",
-      "url": "https://www.macg.co/ailleurs/2026/11/la-demission-de-jensen-huang-fait-chuter-laction-nvidia-de-13-louverture-et-donald-trump-voit-bien-tim-cook-comme-successeur-312351",
-      "publishedAt": "2026-11-12T17:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Anthropic pourrait abandonner rapidement son partenariat avec SpaceX... ce qui réjouit Elon Musk",
-      "url": "https://www.clubic.com/actualite-639049-anthropic-pourrait-abandonner-rapidement-son-partenariat-avec-spacex-ce-qui-rejouit-elon-musk.html",
-      "publishedAt": "2026-11-12T17:27:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Prime Video offre deux affiches de la NBA Cup pour le Black Friday",
-      "url": "https://www.basketusa.com/news/957023/prime-video-offre-deux-affiches-de-la-nba-cup-pour-le-black-friday/",
-      "publishedAt": "2026-11-12T17:22:29+00:00"
     },
     {
       "source": "boulet",
