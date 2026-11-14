@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:13:05.886122+00:00",
+  "generatedAt": "2026-11-14T11:54:30.271052+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,46 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
+      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Númenor dans Les Anneaux de pouvoir : ce qu’il est advenu de l’île de Tolkien dans Le Seigneur des anneaux",
+      "url": "https://www.numerama.com/pop-culture/1107026-numenor-dans-les-anneaux-de-pouvoir-ce-quil-est-advenu-de-lile-de-tolkien-dans-le-seigneur-des-anneaux.html",
+      "publishedAt": "2026-11-14T11:38:54+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Starship, vol 15 : le booster finit dans le golfe du Mexique, la tentative de la première capture par la tour diffusée ce soir en live",
+      "url": "https://www.clubic.com/actualite-639292-starship-vol-15-le-booster-finit-dans-le-golfe-du-mexique-la-tentative-de-la-premiere-capture-par-la-tour-diffusee-ce-soir-en-live.html",
+      "publishedAt": "2026-11-14T11:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
+      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
+      "publishedAt": "2026-11-14T11:30:30+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "iPhone, Pixel, Redmi… les prix baissent déjà sur ces 7 smartphones chez Amazon pour le Black Friday",
+      "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
+      "publishedAt": "2026-11-14T11:28:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Panne géante : Microsoft balaie la théorie d’un agent IA qui aurait dérapé",
+      "url": "https://www.numerama.com/tech/2374527-panne-geante-microsoft-balaie-la-theorie-dun-agent-ia-qui-aurait-derape.html",
+      "publishedAt": "2026-11-14T11:15:33+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Une méduse inconnue vivait en Méditerranée",
+      "url": "https://www.generation-nt.com/actualites/meduse-nouvelle-espece-copula-lucentia-mediterranee-2084234",
+      "publishedAt": "2026-11-14T11:10:01+00:00"
+    },
     {
       "source": "macg",
       "title": "ChatGPT Wallet permet aux agents IA de faire des achats et bientôt de payer à notre place",
@@ -268,6 +304,12 @@
       "publishedAt": "2026-11-14T09:19:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Yaxel Lendeborg traumatisé par sa première contre Victor Wembanyama",
+      "url": "https://www.basketusa.com/news/957383/yaxel-lendeborg-traumatise-par-sa-premiere-face-a-victor-wembanyama/",
+      "publishedAt": "2026-11-14T09:18:54+00:00"
+    },
+    {
       "source": "presse",
       "title": "Adieu le Portugal : cette ville française fait rêver les retraités",
       "url": "https://www.presse-citron.net/adieu-le-portugal-cette-ville-francaise-fait-rever-les-retraites/",
@@ -338,12 +380,6 @@
       "title": "Comment votre appareil et le serveur VPN peuvent-ils utiliser les mêmes clés de chiffrement sans jamais se les envoyer ?",
       "url": "https://www.clubic.com/dossier-639265-comment-votre-appareil-et-le-serveur-vpn-peuvent-ils-utiliser-les-memes-cles-de-chiffrement-sans-jamais-se-les-envoyer.html",
       "publishedAt": "2026-11-14T08:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Yaxel Lendeborg traumatisé par sa première contre Victor Wembanyama",
-      "url": "https://www.basketusa.com/news/957383/yaxel-lendeborg-traumatise-par-sa-premiere-face-a-victor-wembanyama/",
-      "publishedAt": "2026-11-14T08:18:54+00:00"
     },
     {
       "source": "basketusa",
@@ -548,6 +584,12 @@
       "title": "Les secrets du tome 2 des 50 ans de souvenirs",
       "url": "https://www.macg.co/macgeneration/2026/11/les-secrets-du-tome-2-des-50-ans-de-souvenirs-312247",
       "publishedAt": "2026-11-13T21:51:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : 2 To de cloud à vie chez pCloud, soit à peine plus de trois ans d'iCloud+",
+      "url": "https://www.macg.co/services/2026/10/black-friday-2-de-cloud-vie-chez-pcloud-soit-peine-plus-de-trois-ans-dicloud-311889",
+      "publishedAt": "2026-11-13T21:05:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -794,12 +836,6 @@
       "title": "Black Friday Amazon : 9 casques et écouteurs en promo, de 26,99€ à 499€",
       "url": "https://www.clubic.com/bons-plans-639181-black-friday-amazon-9-casques-et-ecouteurs-en-promo-de-26-99-a-499.html",
       "publishedAt": "2026-11-13T16:10:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : 2 To de cloud à vie chez pCloud, soit à peine plus de trois ans d'iCloud+",
-      "url": "https://www.macg.co/services/2026/10/black-friday-2-de-cloud-vie-chez-pcloud-soit-peine-plus-de-trois-ans-dicloud-311889",
-      "publishedAt": "2026-11-13T16:05:00+00:00"
     },
     {
       "source": "tda",
@@ -2446,12 +2482,6 @@
       "publishedAt": "2026-11-12T16:22:17+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday : iPhone, Pixel, Redmi… les prix baissent déjà sur ces 7 smartphones chez Amazon",
-      "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
-      "publishedAt": "2026-11-12T16:19:00+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Train complet ? Il existe une astuce pour réserver un billet au dernier moment",
       "url": "https://www.numerama.com/vroom/1586516-train-complet-il-existe-une-astuce-pour-reserver-un-billet-au-dernier-moment.html",
@@ -3008,90 +3038,6 @@
       "title": "CleanupBuddy permet de nettoyer l'écran tactile d'un MacBook Pro en le désactivant",
       "url": "https://www.macg.co/logiciels/2026/11/cleanupbuddy-permet-de-nettoyer-lecran-tactile-dun-macbook-pro-en-le-desactivant-312343",
       "publishedAt": "2026-11-12T11:57:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Starlink Mini 2 intègre une batterie amovible à son antenne portable",
-      "url": "https://www.generation-nt.com/actualites/starlink-mini-2-batterie-amovible-spacex-2084376",
-      "publishedAt": "2026-11-12T11:50:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Sa maison a tenu 30 heures de coupure de courant sur la batterie de son Renault Scénic",
-      "url": "https://www.mac4ever.com/auto/198991-sa-maison-a-tenu-30-heures-de-coupure-de-courant-sur-la-batterie-de-son-renault-scenic",
-      "publishedAt": "2026-11-12T11:50:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Avec Nighthawk r3, IBM prépare un monstre quantique de 1 040 qubits pour 2027",
-      "url": "https://www.generation-nt.com/actualites/ibm-nighthawk-r3-processeur-quantique-ordinateur-1000-qubits-2084393",
-      "publishedAt": "2026-11-12T11:40:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Bilan des frappes de drones ukrainiens : Yandex a perdu à jamais près de 3 % des données de son cloud",
-      "url": "https://www.numerama.com/cyberguerre/2372839-bilan-des-frappes-de-drones-ukrainiens-yandex-a-perdu-a-jamais-pres-de-3-des-donnees-de-son-cloud.html",
-      "publishedAt": "2026-11-12T11:40:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Elon Musk en est persuadé : \"SpaceX vaudra évidemment plus que la Terre\", voici comment",
-      "url": "https://www.clubic.com/actualite-638929-elon-musk-en-est-persuade-spacex-vaudra-evidemment-plus-que-la-terre-voici-comment.html",
-      "publishedAt": "2026-11-12T11:39:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Zion Williamson n’a plus les mots face au naufrage des Pelicans",
-      "url": "https://www.basketusa.com/news/956787/zion-williamson-na-plus-les-mots-face-au-naufrage-des-pelicans/",
-      "publishedAt": "2026-11-12T11:30:53+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "GTA 6 est désormais disponible en boîte, que contient-elle ?",
-      "url": "https://www.presse-citron.net/gta-6-est-desormais-disponible-en-boite-que-contient-elle/",
-      "publishedAt": "2026-11-12T11:30:42+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Rockstar montre GTA 6 à la première personne : vous n’avez jamais rien vu d’aussi réaliste",
-      "url": "https://www.journaldugeek.com/2026/11/12/rockstar-montre-gta-6-premiere-personne-jamais-rien-vu-aussi-realiste/",
-      "publishedAt": "2026-11-12T11:30:28+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Kora dévoile un OS Linux taillé pour faire tourner l'IA locale",
-      "url": "https://www.generation-nt.com/actualites/kora-linux-os-ia-locale-2084345",
-      "publishedAt": "2026-11-12T11:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Revolut Pay débarque dans l’appli Uber, et vos courses peuvent rapporter jusqu’à 15 fois plus de RevPoints",
-      "url": "https://www.clubic.com/actualite-638938-revolut-pay-debarque-dans-l-appli-uber-et-vos-courses-peuvent-rapporter-jusqu-a-15-fois-plus-de-revpoints.html",
-      "publishedAt": "2026-11-12T11:24:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "The Dreamer : Apple met en avant le MacBook Neo pour Noël",
-      "url": "https://www.macg.co/video/2026/11/dreamer-apple-met-en-avant-le-macbook-neo-pour-noel-312341",
-      "publishedAt": "2026-11-12T11:20:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 est en magasin : où le payer moins cher, à J-7 de sa sortie",
-      "url": "https://www.numerama.com/pop-culture/2372707-gta-6-est-en-magasin-ou-le-payer-moins-cher-a-j-7-de-sa-sortie.html",
-      "publishedAt": "2026-11-12T11:19:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Amazon: 5 climatiseurs réversibles de retour en stock, pour l’hiver comme pour l’été",
-      "url": "https://www.clubic.com/bons-plans-638941-black-friday-amazon-5-climatiseurs-reversibles-de-retour-en-stock-pour-l-hiver-comme-pour-l-ete.html",
-      "publishedAt": "2026-11-12T11:18:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Désolé FlixBus, des anciens de BlablaCar Bus lancent « PACO », le nouveau bus pas cher entre les villes françaises",
-      "url": "https://www.presse-citron.net/desole-flixbus-des-anciens-de-blablacar-bus-lancent-paco-le-nouveau-bus-pas-cher-entre-les-villes-francaises/",
-      "publishedAt": "2026-11-12T11:14:58+00:00"
     },
     {
       "source": "boulet",
