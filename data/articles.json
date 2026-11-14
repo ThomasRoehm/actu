@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:54:30.271052+00:00",
+  "generatedAt": "2026-11-14T12:43:51.865346+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,46 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T11:54:30.271052+00:00"
+      "lastSuccessAt": "2026-11-14T12:43:51.865346+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Microsoft : Outlook et Teams sont de nouveau accessibles après plus de 24 heures de panne mondiale",
+      "url": "https://www.clubic.com/actualite-639307-microsoft-outlook-et-teams-sont-de-nouveau-accessibles-apres-plus-de-24-heures-de-panne-mondiale.html",
+      "publishedAt": "2026-11-14T12:40:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Des comptes Instagram font réciter à leurs avatars IA érotisés des blagues copiées sur des humoristes féminines",
+      "url": "https://www.clubic.com/actualite-639286-des-comptes-instagram-font-reciter-a-leurs-avatars-ia-erotises-des-blagues-copiees-sur-des-humoristes-feminines.html",
+      "publishedAt": "2026-11-14T12:15:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jimmy Butler veut absolument jouer… en G-League !",
+      "url": "https://www.basketusa.com/news/957289/jimmy-butler-veut-absolument-jouer-en-g-league/",
+      "publishedAt": "2026-11-14T12:14:40+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Boston Dynamics met son robot humanoïde Atlas sur des roues",
+      "url": "https://www.generation-nt.com/actualites/boston-dynamics-robot-atlas-roues-2084265",
+      "publishedAt": "2026-11-14T12:10:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Black Friday 2026 : voici la technique la plus rapide pour vérifier si un message provient vraiment d’Amazon",
+      "url": "https://www.numerama.com/cyberguerre/2374317-black-friday-2026-voici-la-technique-la-plus-rapide-pour-verifier-si-un-message-provient-vraiment-damazon.html",
+      "publishedAt": "2026-11-14T12:05:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Navigo : si vous avez un téléphone Samsung, ne cliquez surtout pas sur la migration vers Google Wallet",
+      "url": "https://www.journaldugeek.com/2026/11/14/navigo-si-vous-avez-un-telephone-samsung-ne-cliquez-surtout-pas-sur-la-migration-vers-google-wallet/",
+      "publishedAt": "2026-11-14T12:00:27+00:00"
+    },
     {
       "source": "numerama",
       "title": "Númenor dans Les Anneaux de pouvoir : ce qu’il est advenu de l’île de Tolkien dans Le Seigneur des anneaux",
@@ -2954,90 +2990,6 @@
       "title": "L’orbite de cette planète géante a basculé comme une toupie : la Nasa ne la voit plus passer",
       "url": "https://www.numerama.com/sciences/2372575-comment-la-nasa-a-perdu-une-exoplanete-geante-de-la-taille-de-jupiter.html",
       "publishedAt": "2026-11-12T12:45:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Starlink Mini 2 : 4 h 30 d'internet par satellite sans aucune prise, mais à 999 dollars",
-      "url": "https://www.mac4ever.com/web/198994-starlink-mini-2-4-h-30-d-internet-par-satellite-sans-aucune-prise-mais-a-999-dollars",
-      "publishedAt": "2026-11-12T12:42:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Orange : la Fibre dès 29,99 €/mois et 49 € de frais de mise en service offerts",
-      "url": "https://www.generation-nt.com/actualites/box-fibre-orange-livebox-lite-classic-max-up-black-friday-2084391",
-      "publishedAt": "2026-11-12T12:40:01+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Une bonne surprise pour le VPN intégré à Firefox",
-      "url": "https://www.generation-nt.com/actualites/firefox-vpn-mozilla-illimite-mini-fenetre-2084371",
-      "publishedAt": "2026-11-12T12:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Militarisation de l’espace : l’armée US veut déployer une constellation de satellites autour de la Lune",
-      "url": "https://www.clubic.com/actualite-638971-militarisation-de-l-espace-l-armee-us-veut-deployer-une-constellation-de-satellites-autour-de-la-lune.html",
-      "publishedAt": "2026-11-12T12:29:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Faut-il acheter une voiture 100 % électrique ou une hybride rechargeable d’occasion ? Ils ont testé 2 000 véhicules pour avoir une réponse",
-      "url": "https://www.presse-citron.net/acheter-voiture-electrique-hybride-occasion/",
-      "publishedAt": "2026-11-12T12:26:33+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Free absorbe Free Mobile : quelles conséquences pour les 15,8 millions d'abonnés ?",
-      "url": "https://www.generation-nt.com/actualites/free-absorbe-free-mobile-consequences-2084354",
-      "publishedAt": "2026-11-12T12:15:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Logitech paie une journée à ses 7 000 salariés pour jouer à GTA VI",
-      "url": "https://www.mac4ever.com/gaming/198993-logitech-paie-une-journee-a-ses-7-000-salaries-pour-jouer-a-gta-vi",
-      "publishedAt": "2026-11-12T12:15:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Faut-il acheter le pack Ultime de GTA 6 à 20 euros ?",
-      "url": "https://www.numerama.com/pop-culture/2372761-faut-il-acheter-le-pack-ultime-de-gta-6-a-20-euros.html",
-      "publishedAt": "2026-11-12T12:11:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Avant même le Black Friday, Amazon fait descendre l’ampoule connectée Tapo L520E à 7,59€",
-      "url": "https://www.clubic.com/bons-plans-638953-avant-meme-le-black-friday-amazon-fait-descendre-l-ampoule-connectee-tapo-l520e-a-7-59.html",
-      "publishedAt": "2026-11-12T12:08:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "United Airlines interdit aux assistants IA de réserver vos vols",
-      "url": "https://korben.info/united-airlines-interdit-aux-assistants-ia-de-reserver-vos-vols.html",
-      "publishedAt": "2026-11-12T12:05:29+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Blazers frappent deux fois contre le Thunder",
-      "url": "https://www.basketusa.com/news/956812/les-blazers-frappent-deux-fois-contre-le-thunder/",
-      "publishedAt": "2026-11-12T12:04:44+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Ce SSD pour PS5 est en promo à -42% : faites de la place au meilleur prix pour GTA VI !",
-      "url": "https://www.mac4ever.com/gaming/198992-ce-ssd-pour-ps5-est-en-promo-a-42-faites-de-la-place-au-meilleur-prix-pour-gta-vi",
-      "publishedAt": "2026-11-12T12:04:08+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Détecter plus de 50 cancers grâce à une simple prise de sang ? Un projet fou d’une entreprise biotech qui pourrait changer la médecine",
-      "url": "https://www.presse-citron.net/detecter-plus-50-cancers-grace-prise-sang-projet-fou-entreprise-biotech-pourrait-changer-medecine/",
-      "publishedAt": "2026-11-12T12:02:23+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "CleanupBuddy permet de nettoyer l'écran tactile d'un MacBook Pro en le désactivant",
-      "url": "https://www.macg.co/logiciels/2026/11/cleanupbuddy-permet-de-nettoyer-lecran-tactile-dun-macbook-pro-en-le-desactivant-312343",
-      "publishedAt": "2026-11-12T11:57:00+00:00"
     },
     {
       "source": "boulet",
