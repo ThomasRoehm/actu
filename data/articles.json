@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:36:00.796106+00:00",
+  "generatedAt": "2026-11-14T23:18:05.582514+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T22:36:00.796106+00:00"
+      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
     }
   ],
   "articles": [
@@ -388,12 +388,6 @@
       "publishedAt": "2026-11-14T13:42:54+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Sacramento Kings – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957429/sacramento-kings-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-14T13:40:40+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Microsoft corrige les erreurs d’activation de Windows apparues après la mise à jour de novembre",
       "url": "https://www.clubic.com/actualite-639298-microsoft-corrige-les-erreurs-d-activation-de-windows-apparues-apres-la-mise-a-jour-de-novembre.html",
@@ -454,6 +448,12 @@
       "publishedAt": "2026-11-14T12:58:04+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Sacramento Kings – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957429/sacramento-kings-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-14T12:40:40+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Microsoft : Outlook et Teams sont de nouveau accessibles après plus de 24 heures de panne mondiale",
       "url": "https://www.clubic.com/actualite-639307-microsoft-outlook-et-teams-sont-de-nouveau-accessibles-apres-plus-de-24-heures-de-panne-mondiale.html",
@@ -500,12 +500,6 @@
       "title": "Starship, vol 15 : le booster finit dans le golfe du Mexique, la tentative de la première capture par la tour diffusée ce soir en live",
       "url": "https://www.clubic.com/actualite-639292-starship-vol-15-le-booster-finit-dans-le-golfe-du-mexique-la-tentative-de-la-premiere-capture-par-la-tour-diffusee-ce-soir-en-live.html",
       "publishedAt": "2026-11-14T11:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
-      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
-      "publishedAt": "2026-11-14T11:30:30+00:00"
     },
     {
       "source": "clubic",
@@ -572,6 +566,12 @@
       "title": "Pour le Pré-Black Friday, Amazon baisse déjà les prix de sa maison connectée, jusqu’à -39%",
       "url": "https://www.clubic.com/bons-plans-638962-pre-black-friday-amazon-baisse-deja-les-prix-de-sa-maison-connectee-jusqu-a--39-sur-5-offres.html",
       "publishedAt": "2026-11-14T10:38:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
+      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
+      "publishedAt": "2026-11-14T10:30:30+00:00"
     },
     {
       "source": "gnt",
@@ -712,12 +712,6 @@
       "publishedAt": "2026-11-14T08:57:12+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le trafic aérien paralysé aux États-Unis, plusieurs équipes NBA prises au piège",
-      "url": "https://www.basketusa.com/news/957371/le-trafic-aerien-paralyse-aux-etats-unis-plusieurs-equipes-nba-prises-au-piege/",
-      "publishedAt": "2026-11-14T08:51:18+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Panne géante d’Outlook et de Microsoft 365 : la théorie d’un agent IA qui aurait dérapé est balayée, mais les causes restent vagues",
       "url": "https://www.numerama.com/tech/2374527-panne-geante-doutlook-et-de-microsoft-365-la-theorie-dun-agent-ia-qui-aurait-derape-est-balayee-mais-les-causes-restent-vagues.html",
@@ -770,6 +764,12 @@
       "title": "« Probablement pas le meilleur point de départ » : pourquoi Adobe ne conseille plus Photoshop aux débutants (interview)",
       "url": "https://www.clubic.com/actualite-638827-probablement-pas-le-meilleur-point-de-depart-pourquoi-adobe-ne-conseille-plus-photoshop-aux-debutants-interview.html",
       "publishedAt": "2026-11-14T08:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le trafic aérien paralysé aux États-Unis, plusieurs équipes NBA prises au piège",
+      "url": "https://www.basketusa.com/news/957371/le-trafic-aerien-paralyse-aux-etats-unis-plusieurs-equipes-nba-prises-au-piege/",
+      "publishedAt": "2026-11-14T07:51:18+00:00"
     },
     {
       "source": "clubic",
