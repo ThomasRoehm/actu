@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:26:13.814336+00:00",
+  "generatedAt": "2026-11-14T19:00:11.689897+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T18:26:13.814336+00:00"
+      "lastSuccessAt": "2026-11-14T19:00:11.689897+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Le télescope spatial européen Euclid dévoile un premier catalogue de 900 millions d'astres !",
+      "url": "https://www.generation-nt.com/actualites/euclid-telescope-spatial-esa-catalogue-etoiles-2084401",
+      "publishedAt": "2026-11-14T18:30:02+00:00"
+    },
     {
       "source": "basketusa",
       "title": "La rénovation du Moda Center dans l’impasse",
@@ -208,12 +214,6 @@
       "publishedAt": "2026-11-14T16:30:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les jeunes Sixers profitent de « l’université LeBron James »",
-      "url": "https://www.basketusa.com/news/957420/les-jeunes-sixers-profitent-de-luniversite-lebron-james/",
-      "publishedAt": "2026-11-14T16:24:44+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Il pensait gagner des cryptos en louant de la puissance de calcul pour l’IA et estime avoir perdu près de 8 000 euros",
       "url": "https://www.clubic.com/actualite-639304-il-pensait-gagner-des-cryptos-en-louant-de-la-puissance-de-calcul-pour-l-ia-et-estime-avoir-perdu-pres-de-8-000-euros.html",
@@ -266,6 +266,12 @@
       "title": "Ozempic, Wegovy : la FDA alerte sur un risque de perte de vision",
       "url": "https://www.generation-nt.com/actualites/ozempic-wegovy-glp-1-medicament-antidiabetique-amincissant-risque-vision-2084281",
       "publishedAt": "2026-11-14T15:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les jeunes Sixers profitent de « l’université LeBron James »",
+      "url": "https://www.basketusa.com/news/957420/les-jeunes-sixers-profitent-de-luniversite-lebron-james/",
+      "publishedAt": "2026-11-14T15:24:44+00:00"
     },
     {
       "source": "basketusa",
@@ -418,6 +424,12 @@
       "publishedAt": "2026-11-14T13:00:29+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Victor Wembanyama pas intimidé par le traitement de Draymond Green",
+      "url": "https://www.basketusa.com/news/957398/victor-wembanyama-pas-impressionne-par-le-traitement-de-draymond-green/",
+      "publishedAt": "2026-11-14T12:58:04+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Microsoft : Outlook et Teams sont de nouveau accessibles après plus de 24 heures de panne mondiale",
       "url": "https://www.clubic.com/actualite-639307-microsoft-outlook-et-teams-sont-de-nouveau-accessibles-apres-plus-de-24-heures-de-panne-mondiale.html",
@@ -452,12 +464,6 @@
       "title": "Navigo : si vous avez un téléphone Samsung, ne cliquez surtout pas sur la migration vers Google Wallet",
       "url": "https://www.journaldugeek.com/2026/11/14/navigo-si-vous-avez-un-telephone-samsung-ne-cliquez-surtout-pas-sur-la-migration-vers-google-wallet/",
       "publishedAt": "2026-11-14T12:00:27+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama pas intimidé par le traitement de Draymond Green",
-      "url": "https://www.basketusa.com/news/957398/victor-wembanyama-pas-impressionne-par-le-traitement-de-draymond-green/",
-      "publishedAt": "2026-11-14T11:58:04+00:00"
     },
     {
       "source": "numerama",
@@ -634,6 +640,12 @@
       "publishedAt": "2026-11-14T09:19:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Yaxel Lendeborg traumatisé par sa première contre Victor Wembanyama",
+      "url": "https://www.basketusa.com/news/957383/yaxel-lendeborg-traumatise-par-sa-premiere-face-a-victor-wembanyama/",
+      "publishedAt": "2026-11-14T09:18:54+00:00"
+    },
+    {
       "source": "presse",
       "title": "Adieu le Portugal : cette ville française fait rêver les retraités",
       "url": "https://www.presse-citron.net/adieu-le-portugal-cette-ville-francaise-fait-rever-les-retraites/",
@@ -704,12 +716,6 @@
       "title": "Comment votre appareil et le serveur VPN peuvent-ils utiliser les mêmes clés de chiffrement sans jamais se les envoyer ?",
       "url": "https://www.clubic.com/dossier-639265-comment-votre-appareil-et-le-serveur-vpn-peuvent-ils-utiliser-les-memes-cles-de-chiffrement-sans-jamais-se-les-envoyer.html",
       "publishedAt": "2026-11-14T08:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Yaxel Lendeborg traumatisé par sa première contre Victor Wembanyama",
-      "url": "https://www.basketusa.com/news/957383/yaxel-lendeborg-traumatise-par-sa-premiere-face-a-victor-wembanyama/",
-      "publishedAt": "2026-11-14T08:18:54+00:00"
     },
     {
       "source": "basketusa",
@@ -2576,36 +2582,6 @@
       "title": "La sonde européenne Hera vient de photographier cet astéroïde à près de 60 km de distance : un cliché époustouflant",
       "url": "https://www.journaldugeek.com/2026/11/12/sonde-europeenne-hera-photographier-asteroide-pres-60-km-distance-cliche-epoustouflant/",
       "publishedAt": "2026-11-12T19:02:53+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "2K retire Civilization VII des rayons pour bloquer le jailbreak de la Switch 2",
-      "url": "https://www.generation-nt.com/actualites/2k-retire-civilization-hack-switch-2084352",
-      "publishedAt": "2026-11-12T19:00:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Un peu avant l'arrivée de GTA VI, Sony annonce avoir vendu 100 millions de PlayStation 5",
-      "url": "https://www.macg.co/ailleurs/2026/11/un-peu-avant-larrivee-de-gta-vi-sony-annonce-avoir-vendu-100-millions-de-playstation-5-312353",
-      "publishedAt": "2026-11-12T18:35:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Faut-il se mettre à World of Warcraft 20 ans après tout le monde avec WoW Forever ?",
-      "url": "https://www.journaldugeek.com/test/faut-il-se-mettre-a-world-of-warcraft-20-ans-apres-tout-le-monde-avec-wow-forever/",
-      "publishedAt": "2026-11-12T18:34:33+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Microsoft Outlook en panne : la messagerie ne fonctionne plus ce soir, l'entreprise confirme l'incident",
-      "url": "https://www.clubic.com/actualite-639061-microsoft-outlook-en-panne-la-messagerie-ne-fonctionne-plus-ce-soir-entreprise-confirme-incident.html",
-      "publishedAt": "2026-11-12T18:32:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Gemini Robotics 2.5 fait ses preuves chez Mercedes-Benz",
-      "url": "https://www.generation-nt.com/actualites/google-deepmind-gemini-robotics-mercedes-benz-2084441",
-      "publishedAt": "2026-11-12T18:30:01+00:00"
     },
     {
       "source": "boulet",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:26:17.882933+00:00",
+  "generatedAt": "2026-11-14T19:01:20.779812+00:00",
   "leagues": [
     {
       "name": "NBA",
@@ -291,7 +291,7 @@
           }
         ],
         "ok": true,
-        "updatedAt": "2026-11-14T18:26:17.882933+00:00",
+        "updatedAt": "2026-11-14T19:01:20.779812+00:00",
         "error": null
       },
       "results": {
@@ -558,7 +558,7 @@
           }
         ],
         "ok": true,
-        "updatedAt": "2026-11-14T18:26:17.882933+00:00",
+        "updatedAt": "2026-11-14T19:01:20.779812+00:00",
         "error": null
       }
     },
@@ -870,7 +870,7 @@
           }
         ],
         "ok": true,
-        "updatedAt": "2026-11-14T18:26:17.882933+00:00",
+        "updatedAt": "2026-11-14T19:01:20.779812+00:00",
         "error": null
       },
       "results": {
@@ -1137,14 +1137,14 @@
           }
         ],
         "ok": true,
-        "updatedAt": "2026-11-14T18:26:17.882933+00:00",
+        "updatedAt": "2026-11-14T19:01:20.779812+00:00",
         "error": null
       }
     },
     {
       "name": "Élite 2",
       "source": "LNB",
-      "url": "https://lnb.fr/fr/standings/elite2?did=2&abbrev=PROB&yid=2026&cid=318",
+      "url": "https://lnb.fr/fr/standings/elite2",
       "id": "elite2",
       "standings": {
         "season": "2026/2027",
@@ -1335,9 +1335,9 @@
             ]
           }
         ],
-        "ok": true,
+        "ok": false,
         "updatedAt": "2026-11-14T18:26:17.882933+00:00",
-        "error": null
+        "error": "Lecture de la page publique LNB indisponible"
       },
       "results": {
         "games": [
@@ -1472,9 +1472,9 @@
             "url": null
           }
         ],
-        "ok": true,
+        "ok": false,
         "updatedAt": "2026-11-14T18:26:17.882933+00:00",
-        "error": null
+        "error": "Lecture de la page publique LNB indisponible"
       }
     }
   ]
