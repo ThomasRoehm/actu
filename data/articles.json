@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:17:39.845838+00:00",
+  "generatedAt": "2026-11-14T19:42:46.710811+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T19:17:39.845838+00:00"
+      "lastSuccessAt": "2026-11-14T19:42:46.710811+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Cooper Flagg et les Mavericks défient Cleveland",
+      "url": "https://www.basketusa.com/news/957447/programme-du-soir-cooper-flagg-et-les-mavericks-defient-cleveland/",
+      "publishedAt": "2026-11-14T19:30:17+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "500 000 kilomètres sans aucune panne : voici la voiture la plus solide d’après les contrôleurs techniques français",
+      "url": "https://www.presse-citron.net/500-000-kilometres-sans-aucune-panne-voici-la-voiture-la-plus-solide-dapres-les-controleurs-techniques-francais/",
+      "publishedAt": "2026-11-14T19:14:38+00:00"
+    },
     {
       "source": "gnt",
       "title": "Le télescope spatial européen Euclid dévoile un premier catalogue de 900 millions d'astres !",
@@ -214,12 +226,6 @@
       "publishedAt": "2026-11-14T16:30:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les jeunes Sixers profitent de « l’université LeBron James »",
-      "url": "https://www.basketusa.com/news/957420/les-jeunes-sixers-profitent-de-luniversite-lebron-james/",
-      "publishedAt": "2026-11-14T16:24:44+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Il pensait gagner des cryptos en louant de la puissance de calcul pour l’IA et estime avoir perdu près de 8 000 euros",
       "url": "https://www.clubic.com/actualite-639304-il-pensait-gagner-des-cryptos-en-louant-de-la-puissance-de-calcul-pour-l-ia-et-estime-avoir-perdu-pres-de-8-000-euros.html",
@@ -272,6 +278,12 @@
       "title": "Ozempic, Wegovy : la FDA alerte sur un risque de perte de vision",
       "url": "https://www.generation-nt.com/actualites/ozempic-wegovy-glp-1-medicament-antidiabetique-amincissant-risque-vision-2084281",
       "publishedAt": "2026-11-14T15:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les jeunes Sixers profitent de « l’université LeBron James »",
+      "url": "https://www.basketusa.com/news/957420/les-jeunes-sixers-profitent-de-luniversite-lebron-james/",
+      "publishedAt": "2026-11-14T15:24:44+00:00"
     },
     {
       "source": "basketusa",
@@ -784,6 +796,12 @@
       "publishedAt": "2026-11-14T07:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Dejounte Murray réclame son transfert aux Pelicans !",
+      "url": "https://www.basketusa.com/news/957295/dejounte-murray-reclame-son-transfert-aux-pelicans/",
+      "publishedAt": "2026-11-14T07:20:13+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Test iPhone Duo : trois semaines avec le premier pliant d'Apple, entre coup de cœur et frustrations",
       "url": "https://www.clubic.com/test-produit-637696-test-iphone-duo-trois-semaines-avec-le-premier-pliant-d-apple-entre-coup-de-c-ur-et-frustrations.html",
@@ -848,12 +866,6 @@
       "title": "Microsoft Office pour Mac : quelle version choisir selon votre macOS ?",
       "url": "https://www.clubic.com/actualite-638494-microsoft-office-pour-mac-quelle-version-choisir-selon-votre-macos.html",
       "publishedAt": "2026-11-14T06:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dejounte Murray réclame son transfert aux Pelicans !",
-      "url": "https://www.basketusa.com/news/957295/dejounte-murray-reclame-son-transfert-aux-pelicans/",
-      "publishedAt": "2026-11-14T06:20:13+00:00"
     },
     {
       "source": "basketusa",
@@ -2558,24 +2570,6 @@
       "title": "Zelda Ocarina of Time explose les compteurs sur Switch 2 avec 5 millions de ventes",
       "url": "https://www.generation-nt.com/actualites/zelda-ocarina-switch-ventes-record-2084344",
       "publishedAt": "2026-11-12T19:45:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Un duel Sixers – Raptors marqué par les absences",
-      "url": "https://www.basketusa.com/news/957028/programme-du-soir-un-duel-sixers-raptors-marque-par-les-absences/",
-      "publishedAt": "2026-11-12T19:39:44+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "IMAX 70mm, LEGO et images inédites : les 50 ans de Star Wars se dévoilent",
-      "url": "https://www.journaldugeek.com/2026/11/12/lego-cinema-et-images-inedits-les-50-ans-de-star-wars-se-devoilent/",
-      "publishedAt": "2026-11-12T19:34:13+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Du « bumpgate » à l'ère de l'IA : pourquoi Apple et Nvidia sont allergiques l'une à l'autre",
-      "url": "https://www.macg.co/macgeneration/2026/11/du-bumpgate-lere-de-lia-pourquoi-apple-et-nvidia-sont-allergiques-lune-lautre-312349",
-      "publishedAt": "2026-11-12T19:30:00+00:00"
     },
     {
       "source": "boulet",
