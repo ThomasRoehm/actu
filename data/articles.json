@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:37:10.941511+00:00",
+  "generatedAt": "2026-11-14T17:21:20.692108+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,52 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T16:37:10.941511+00:00"
+      "lastSuccessAt": "2026-11-14T17:21:20.692108+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Les Pelicans prennent fessée sur fessée",
+      "url": "https://www.basketusa.com/news/957390/les-pelicans-prennent-fessee-sur-fessee/",
+      "publishedAt": "2026-11-14T17:10:26+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "La maladie rarissime dont souffre Céline Dion fait l’objet d’une avancée médicale majeure : une nouvelle thérapie expérimentale montre des résultats « très encourageants »",
+      "url": "https://www.presse-citron.net/maladie-rarissime-souffre-celine-dion-avancee-medicale-majeure-nouvelle-therapie-experimentale-resultats-tres-encourageants/",
+      "publishedAt": "2026-11-14T17:02:08+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Saison 3 des Anneaux de pouvoir : qu’est-ce que Gundabad, la forteresse au cœur de l’épisode 4 ?",
+      "url": "https://www.numerama.com/pop-culture/2372829-saison-3-des-anneaux-de-pouvoir-quest-ce-que-gundabad-la-forteresse-au-coeur-de-lepisode-4.html",
+      "publishedAt": "2026-11-14T17:01:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone et iPad : les promos App Store apps et jeux à ne pas manquer ce week-end",
+      "url": "https://www.iphon.fr/post/apps-gratuites-iphone-ipad-ios",
+      "publishedAt": "2026-11-14T16:59:06+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Aux États-Unis, une panne informatique cloue des milliers d'avions au sol et révèle les failles d’une infrastructure vieillissante",
+      "url": "https://www.macg.co/ailleurs/2026/11/aux-etats-unis-une-panne-informatique-cloue-des-milliers-davions-au-sol-et-revele-les-failles-dune-infrastructure-vieillissante-312397",
+      "publishedAt": "2026-11-14T16:48:06+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Noctua lance un pad thermique carbone pour CPU AMD : nous sommes dubitatifs",
+      "url": "https://www.clubic.com/actualite-639316-noctua-lance-un-pad-thermique-carbone-pour-cpu-amd-nous-sommes-dubitatifs.html",
+      "publishedAt": "2026-11-14T16:48:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Starship : SpaceX frôle le doublé historique malgré la perte de son propulseur en mer",
+      "url": "https://www.generation-nt.com/actualites/spacex-starship-vol-essai-15-double-recuperation-echec-2084502",
+      "publishedAt": "2026-11-14T16:30:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Album photo personnalisé : tous ne sont pas imprimés en France, voici comment le vérifier",
@@ -2630,78 +2672,6 @@
       "title": "Prime Video offre deux affiches de la NBA Cup pour le Black Friday",
       "url": "https://www.basketusa.com/news/957023/prime-video-offre-deux-affiches-de-la-nba-cup-pour-le-black-friday/",
       "publishedAt": "2026-11-12T17:22:29+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Jensen Huang quitte la tête de Nvidia, l'industrie de l'IA vacille !",
-      "url": "https://www.generation-nt.com/actualites/nvidia-jensen-huang-ceo-depart-demission-2084429",
-      "publishedAt": "2026-11-12T17:20:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« Les actes ont des conséquences » : un bras de fer secoue l’usine Volkswagen de la future Golf électrique",
-      "url": "https://www.numerama.com/vroom/2373127-les-actes-ont-des-consequences-un-bras-de-fer-secoue-lusine-volkswagen-de-la-future-golf-electrique.html",
-      "publishedAt": "2026-11-12T17:16:48+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Test du mini chauffage Wi-Fi Dreo Whole-Room Heater 720",
-      "url": "https://korben.info/test-du-mini-chauffage-wi-fi-dreo-whole-room-heater-720.html",
-      "publishedAt": "2026-11-12T17:14:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "GTA 6 : pas de 60 fps, même sur PS5 Pro",
-      "url": "https://www.mac4ever.com/gaming/199005-gta-6-pas-de-60-fps-meme-sur-ps5-pro",
-      "publishedAt": "2026-11-12T17:05:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "ByteDance veut brancher un agent IA sur TikTok pour défier ChatGPT",
-      "url": "https://korben.info/bytedance-veut-brancher-un-agent-ia-sur-tiktok-pour-defier-chatgpt.html",
-      "publishedAt": "2026-11-12T17:03:11+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Warriors perdent Steph Curry pour deux semaines",
-      "url": "https://www.basketusa.com/news/956757/les-warriors-inquiets-pour-stephen-curry/",
-      "publishedAt": "2026-11-12T17:03:04+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "« On n’a jamais vu un truc pareil » : ce phénomène climatique exceptionnel menace de faire exploser les températures en 2027",
-      "url": "https://www.presse-citron.net/on-na-jamais-vu-un-truc-pareil-phenomene-climatique-exceptionnel-menace-faire-exploser-temperatures-2027/",
-      "publishedAt": "2026-11-12T17:02:27+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Meilleures promos du jour : écran Gigabyte 4K OLED 32\" à 506€, Switch 2 + Bravely Default Flying Fairy 450€...",
-      "url": "https://www.generation-nt.com/actualites/huawei-band-10-freebuds-se-5-max-ecran-gaming-oled-gigabyte-tv-samsung-micro-rgb-promos-pas-cher-2084419",
-      "publishedAt": "2026-11-12T17:01:43+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Google et Samsung dégainent leurs lunettes Gemini pour faire tomber les Ray-Ban Meta",
-      "url": "https://www.journaldugeek.com/2026/11/12/google-et-samsung-degainent-leurs-lunettes-gemini-pour-faire-tomber-les-ray-ban-meta/",
-      "publishedAt": "2026-11-12T16:53:39+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Scandale Jensen Huang : les géants chinois de l'IA se ruent sur NVIDIA par crainte des États-Unis",
-      "url": "https://www.clubic.com/actualite-639037-scandale-d-espionnage-les-geants-chinois-de-l-ia-se-ruent-nvidia-par-crainte-des-etats-unis.html",
-      "publishedAt": "2026-11-12T16:49:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un satellite de l'ESA lance le jeu Doom grâce à un ordre vocal émis depuis la Terre",
-      "url": "https://www.generation-nt.com/actualites/satellite-lance-doom-commande-vocale-2084353",
-      "publishedAt": "2026-11-12T16:45:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Lunettes IA d'Apple pour fin 2027 : un sous-traitant chinois en dit trop",
-      "url": "https://www.mac4ever.com/arvr/199003-lunettes-ia-d-apple-pour-fin-2027-un-sous-traitant-chinois-en-dit-trop",
-      "publishedAt": "2026-11-12T16:38:00+00:00"
     },
     {
       "source": "boulet",
