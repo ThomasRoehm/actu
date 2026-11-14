@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T10:25:23.723715+00:00",
+  "generatedAt": "2026-11-14T11:13:05.886122+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,75 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
+      "lastSuccessAt": "2026-11-14T11:13:05.886122+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "ChatGPT Wallet permet aux agents IA de faire des achats et bientôt de payer à notre place",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/chatgpt-wallet-permet-aux-agents-ia-de-faire-des-achats-et-bientot-de-payer-notre-place-312395",
+      "publishedAt": "2026-11-14T11:08:14+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "On a vu le film numéro 1 sur Netflix et il porte malheureusement bien son nom",
+      "url": "https://www.journaldugeek.com/critique/on-a-vu-le-film-numero-1-sur-netflix-et-il-porte-malheureusement-bien-son-nom/",
+      "publishedAt": "2026-11-14T11:03:19+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Le retour en force de l’iPhone mini ? Apple réfléchit à un nouveau format, plus petit",
+      "url": "https://www.iphon.fr/post/iphone-mini-apple-format-iphone-duo",
+      "publishedAt": "2026-11-14T11:03:04+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Faites très attention, car après la panne Outlook, Microsoft alerte sur les pirates qui en profitent",
+      "url": "https://www.clubic.com/actualite-639295-faites-tres-attention-car-apres-la-panne-outlook-microsoft-alerte-sur-les-pirates-qui-en-profitent.html",
+      "publishedAt": "2026-11-14T10:59:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Giannis Antetokounmpo et Bam Adebayo se trouvent de mieux en mieux",
+      "url": "https://www.basketusa.com/news/957369/giannis-antetokounmpo-et-bam-adebayo-se-trouvent-de-mieux-en-mieux/",
+      "publishedAt": "2026-11-14T10:53:43+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Les 3 bonnes nouvelles de la semaine",
+      "url": "https://www.presse-citron.net/les-3-bonnes-nouvelles-de-la-semaine-136/",
+      "publishedAt": "2026-11-14T10:45:23+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Pour le Pré-Black Friday, Amazon baisse déjà les prix de sa maison connectée, jusqu’à -39%",
+      "url": "https://www.clubic.com/bons-plans-638962-pre-black-friday-amazon-baisse-deja-les-prix-de-sa-maison-connectee-jusqu-a--39-sur-5-offres.html",
+      "publishedAt": "2026-11-14T10:38:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Série spéciale Voyage Cdiscount Mobile : 200 Go en 5G et un bonus de 50 € pour le Black Friday",
+      "url": "https://www.generation-nt.com/actualites/cdiscount-mobile-forfait-pas-cher-200-go-5g-voyage-international-europe-asie-afrique-usa-canada-bouygues-telecom-bon-achat-2084442",
+      "publishedAt": "2026-11-14T10:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Norman Powell sonne la révolte des Bulls",
+      "url": "https://www.basketusa.com/news/957366/norman-powell-sonne-la-revolte-des-bulls/",
+      "publishedAt": "2026-11-14T10:22:58+00:00"
+    },
     {
       "source": "numerama",
       "title": "Aucune sonde n’a jamais été aussi loin dans le cosmos : Voyager 1 arrive à un jour lumière de la Terre, et la NASA lance un jeu",
       "url": "https://www.numerama.com/sciences/2374607-aucune-sonde-na-jamais-ete-aussi-loin-dans-le-cosmos-voyager-1-arrive-a-un-jour-lumiere-de-la-terre-et-la-nasa-lance-un-jeu.html",
       "publishedAt": "2026-11-14T10:11:21+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'origine de la pierre d'autel de Stonehenge reste un mystère géologique",
+      "url": "https://www.generation-nt.com/actualites/origine-pierre-autel-stonehenge-mystere-2084196",
+      "publishedAt": "2026-11-14T10:10:01+00:00"
     },
     {
       "source": "iphon",
@@ -206,12 +266,6 @@
       "title": "Le premier Star Wars revient au cinéma en IMAX 70 mm pour ses 50 ans, et ce n’est que le début d'une énorme fête",
       "url": "https://www.clubic.com/actualite-639121-le-premier-star-wars-revient-au-cinema-en-imax-70-mm-pour-ses-50-ans-et-ce-n-est-que-le-debut-d-une-enorme-fete.html",
       "publishedAt": "2026-11-14T09:19:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Yaxel Lendeborg traumatisé par sa première contre Victor Wembanyama",
-      "url": "https://www.basketusa.com/news/957383/yaxel-lendeborg-traumatise-par-sa-premiere-face-a-victor-wembanyama/",
-      "publishedAt": "2026-11-14T09:18:54+00:00"
     },
     {
       "source": "presse",
@@ -284,6 +338,12 @@
       "title": "Comment votre appareil et le serveur VPN peuvent-ils utiliser les mêmes clés de chiffrement sans jamais se les envoyer ?",
       "url": "https://www.clubic.com/dossier-639265-comment-votre-appareil-et-le-serveur-vpn-peuvent-ils-utiliser-les-memes-cles-de-chiffrement-sans-jamais-se-les-envoyer.html",
       "publishedAt": "2026-11-14T08:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Yaxel Lendeborg traumatisé par sa première contre Victor Wembanyama",
+      "url": "https://www.basketusa.com/news/957383/yaxel-lendeborg-traumatise-par-sa-premiere-face-a-victor-wembanyama/",
+      "publishedAt": "2026-11-14T08:18:54+00:00"
     },
     {
       "source": "basketusa",
@@ -443,6 +503,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Les Spurs ne font qu’une bouchée des Warriors",
+      "url": "https://www.basketusa.com/news/957303/les-spurs-ne-font-quune-bouchee-des-warriors/",
+      "publishedAt": "2026-11-14T05:48:36+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Giannis Antetokounmpo et Bam Adebayo écrasent les Cavaliers",
       "url": "https://www.basketusa.com/news/957310/bam-adebayo-et-giannis-antetokounmpo-mettent-k-o-les-cavaliers/",
       "publishedAt": "2026-11-14T05:41:53+00:00"
@@ -452,12 +518,6 @@
       "title": "Les Pacers jouent avec le feu mais font tomber les Knicks !",
       "url": "https://www.basketusa.com/news/957301/les-pacers-jouent-avec-le-feu-mais-font-tomber-les-knicks/",
       "publishedAt": "2026-11-14T05:17:59+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Spurs ne font qu’une bouchée des Warriors",
-      "url": "https://www.basketusa.com/news/957303/les-spurs-ne-font-quune-bouchee-des-warriors/",
-      "publishedAt": "2026-11-14T04:48:36+00:00"
     },
     {
       "source": "korben",
@@ -2470,12 +2530,6 @@
       "publishedAt": "2026-11-12T15:45:01+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Pré-Black Friday : Amazon baisse déjà les prix de sa maison connectée, jusqu’à -39% sur 5 offres",
-      "url": "https://www.clubic.com/bons-plans-638962-pre-black-friday-amazon-baisse-deja-les-prix-de-sa-maison-connectee-jusqu-a--39-sur-5-offres.html",
-      "publishedAt": "2026-11-12T15:35:00+00:00"
-    },
-    {
       "source": "basketusa",
       "title": "Le 12 novembre 2010, Kevin Love se mettait doublement sur son 31",
       "url": "https://www.basketusa.com/news/609049/il-y-a-dix-ans-kevin-love-se-mettait-doublement-sur-son-31/",
@@ -3038,132 +3092,6 @@
       "title": "Désolé FlixBus, des anciens de BlablaCar Bus lancent « PACO », le nouveau bus pas cher entre les villes françaises",
       "url": "https://www.presse-citron.net/desole-flixbus-des-anciens-de-blablacar-bus-lancent-paco-le-nouveau-bus-pas-cher-entre-les-villes-francaises/",
       "publishedAt": "2026-11-12T11:14:58+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple vante l’iPhone Duo, mais vous ne pourrez pas l’acheter pour Noël",
-      "url": "https://www.iphon.fr/post/apple-iphone-duo-noel-achat",
-      "publishedAt": "2026-11-12T11:11:12+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Microsoft répond au DLSS de Nvidia avec l'Auto SR sur la ROG Xbox Ally X",
-      "url": "https://www.mac4ever.com/gaming/198990-microsoft-repond-au-dlss-de-nvidia-avec-l-auto-sr-sur-la-rog-xbox-ally-x",
-      "publishedAt": "2026-11-12T11:10:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Vous n’arrivez pas à installer le Patch Tuesday de novembre sur Windows 11 ? Le correctif est en route",
-      "url": "https://www.clubic.com/actualite-638944-vous-n-arrivez-pas-a-installer-le-patch-tuesday-de-novembre-sur-windows-11-le-correctif-est-en-route.html",
-      "publishedAt": "2026-11-12T11:06:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "iPhone Duo : il peut fonctionner pendant des années, sans la moindre trace d’usure",
-      "url": "https://www.journaldugeek.com/2026/11/12/iphone-duo-fonctionner-annees-usure/",
-      "publishedAt": "2026-11-12T11:01:59+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Voitures électriques : la ruée continue en Europe alors que l’essence coûte trop cher, les ventes explosent",
-      "url": "https://www.presse-citron.net/voitures-electriques-la-ruee-continue-en-europe-alors-que-lessence-coute-trop-cher-les-ventes-explosent/",
-      "publishedAt": "2026-11-12T11:00:50+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Course au MVP] S9 : Jordan Love s’invite au festin",
-      "url": "https://touchdownactu.com/361264/course-au-mvp-s9-jordan-love-sinvite-au-festin/",
-      "publishedAt": "2026-11-12T11:00:38+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Nintendo fait supprimer 144 dépôts de puces pour Switch sur GitHub",
-      "url": "https://www.generation-nt.com/actualites/nintendo-supprime-depots-switch-github-2084380",
-      "publishedAt": "2026-11-12T11:00:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "CD Projekt mobilise l’IA pour l’extension de The Witcher 3 : « C’est l’un des cas de figure où l’on peut utiliser l’IA de manière éthique »",
-      "url": "https://www.numerama.com/pop-culture/2372693-cd-projekt-mobilise-lia-pour-lextension-de-the-witcher-3-cest-lun-des-cas-de-figure-ou-lon-peut-utiliser-lia-de-maniere-ethique.html",
-      "publishedAt": "2026-11-12T11:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "L'IA de Gemini s'invite sur Apple Car Play",
-      "url": "https://www.clubic.com/actualite-638911-l-ia-de-gemini-s-invite-sur-apple-car-play.html",
-      "publishedAt": "2026-11-12T10:52:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Nvidia sans Jensen Huang ? Le casse-tête de la succession",
-      "url": "https://www.numerama.com/tech/2372735-nvidia-sans-jensen-huang-le-casse-tete-de-la-succession.html",
-      "publishedAt": "2026-11-12T10:50:38+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Claude lance ses feuilles de calcul et ses tableaux blancs pour défier Microsoft Office",
-      "url": "https://www.generation-nt.com/actualites/claude-sheets-whiteboards-outils-bureautique-2084340",
-      "publishedAt": "2026-11-12T10:50:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "-132 € sur la Switch 2 : Nintendo rétrograde enfin au Singles Day",
-      "url": "https://www.iphon.fr/post/132-euros-switch-2-nintendo-retrograde-singles-day",
-      "publishedAt": "2026-11-12T10:47:04+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pré-Black Friday Amazon : le chargeur Anker Nano II 65 W retrouve son prix du Prime Day !",
-      "url": "https://www.clubic.com/bons-plans-638950-pre-black-friday-amazon-le-chargeur-anker-nano-ii-65-w-retrouve-son-prix-du-prime-day.html",
-      "publishedAt": "2026-11-12T10:44:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Ivica Zubac commence à peser chez les Pacers",
-      "url": "https://www.basketusa.com/news/956828/ivica-zubac-commence-a-peser-chez-les-pacers/",
-      "publishedAt": "2026-11-12T10:42:32+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "La PS5 passe les 100 millions pile avant GTA 6, le timing rêvé pour Sony",
-      "url": "https://www.mac4ever.com/gaming/198987-la-ps5-passe-les-100-millions-pile-avant-gta-6-le-timing-reve-pour-sony",
-      "publishedAt": "2026-11-12T10:42:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "AlphaGenome 2 de Google DeepMind double la précision face aux maladies génétiques !",
-      "url": "https://www.generation-nt.com/actualites/google-deepmind-alphagenome-2-intelligence-artificielle-maladie-genetique-2084387",
-      "publishedAt": "2026-11-12T10:40:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Un dock PCI-Express Thunderbolt 5 en promotion à moins de 240 €",
-      "url": "https://www.macg.co/materiel/2026/11/un-dock-pci-express-thunderbolt-5-en-promotion-moins-de-240-eu-312339",
-      "publishedAt": "2026-11-12T10:40:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Les fans avaient raison : la série Les Anneaux de pouvoir révèle enfin qui est le magicien ténébreux (dark wizard)",
-      "url": "https://www.numerama.com/pop-culture/2372631-les-fans-avaient-raison-la-serie-les-anneaux-de-pouvoir-revele-enfin-qui-est-le-magicien-tenebreux-dark-wizard.html",
-      "publishedAt": "2026-11-12T10:34:34+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Ce malware peut accéder à votre compte Gmail même après un changement de mot de passe",
-      "url": "https://www.journaldugeek.com/2026/11/12/ce-malware-peut-acceder-a-votre-compte-gmail-meme-apres-un-changement-de-mot-de-passe/",
-      "publishedAt": "2026-11-12T10:32:15+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Tineco : les promotions sont déjà lancées avec des réductions allant jusqu'à -37 % !",
-      "url": "https://www.generation-nt.com/actualites/aspirateur-sans-fil-balai-tineco-floor-one-s7-stretch-ultra-s9-artist-steam-pro-pure-one-s50-pro-pet-black-friday-2084382",
-      "publishedAt": "2026-11-12T10:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : cette batterie solaire murale de 6 kWh signée Samduo perd 400 € et devient encore plus intéressante",
-      "url": "https://www.clubic.com/bons-plans-637963-black-friday-cette-batterie-solaire-murale-de-6-kwh-signee-samduo-perd-400-et-devient-encore-plus-interessante.html",
-      "publishedAt": "2026-11-12T10:30:00+00:00"
     },
     {
       "source": "boulet",
