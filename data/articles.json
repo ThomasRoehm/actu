@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T09:43:19.501952+00:00",
+  "generatedAt": "2026-11-14T10:25:23.723715+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,52 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T09:43:19.501952+00:00"
+      "lastSuccessAt": "2026-11-14T10:25:23.723715+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Aucune sonde n’a jamais été aussi loin dans le cosmos : Voyager 1 arrive à un jour lumière de la Terre, et la NASA lance un jeu",
+      "url": "https://www.numerama.com/sciences/2374607-aucune-sonde-na-jamais-ete-aussi-loin-dans-le-cosmos-voyager-1-arrive-a-un-jour-lumiere-de-la-terre-et-la-nasa-lance-un-jeu.html",
+      "publishedAt": "2026-11-14T10:11:21+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Manette Pro Switch 2 Zelda : en rupture de stock presque partout, on l’a trouvée à un bon prix",
+      "url": "https://www.iphon.fr/post/manette-pro-switch-2-zelda-en-rupture-de-stock-presque-partout-on-la-trouvee-a-un-bon-prix",
+      "publishedAt": "2026-11-14T10:08:58+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "pCloud dévoile ses offres Black Friday en avance : les formules à vie sont irrésistibles",
+      "url": "https://www.iphon.fr/post/pcloud-devoile-offres-black-friday-formules-vie",
+      "publishedAt": "2026-11-14T10:04:27+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Pourquoi une IA ne répond jamais deux fois pareil, et que change le mode réflexion ?",
+      "url": "https://www.clubic.com/dossier-637987-pourquoi-une-ia-ne-repond-jamais-deux-fois-pareil-et-que-change-le-mode-reflexion.html",
+      "publishedAt": "2026-11-14T10:02:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Pinocchio, Dune et Walking Dead : 26 livres à dévorer (ou à offrir) avant Noël",
+      "url": "https://www.journaldugeek.com/dossier/pinocchio-dune-et-walking-dead-26-livres-a-devorer-ou-a-offrir-avant-noel/",
+      "publishedAt": "2026-11-14T10:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Knicks n’y sont pas dans l’attitude",
+      "url": "https://www.basketusa.com/news/957356/les-knicks-ny-sont-pas-dans-lattitude/",
+      "publishedAt": "2026-11-14T09:50:02+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Un tiers des Français piratés via le service d'envoi de La Poste !",
+      "url": "https://www.generation-nt.com/actualites/piratage-maileva-poste-fuite-massive-2084501",
+      "publishedAt": "2026-11-14T09:30:01+00:00"
+    },
     {
       "source": "numerama",
       "title": "Xiaomi Electric Scooter 4 Ultra : la trottinette aux 70 km d’autonomie perd un tiers de son prix",
@@ -263,7 +305,7 @@
     },
     {
       "source": "jdg",
-      "title": "Le secret révélé, Gandalf prend vraiment vie dans Les Anneaux de pouvoir (Interview)",
+      "title": "Les Anneaux de pouvoir : Daniel Weyman savait-il depuis le début qu’il jouerait Gandalf ?",
       "url": "https://www.journaldugeek.com/dossier/le-secret-revele-gandalf-prend-vraiment-vie-dans-les-anneaux-de-pouvoir-interview/",
       "publishedAt": "2026-11-14T08:06:07+00:00"
     },
@@ -401,12 +443,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Spurs ne font qu’une bouchée des Warriors",
-      "url": "https://www.basketusa.com/news/957303/les-spurs-ne-font-quune-bouchee-des-warriors/",
-      "publishedAt": "2026-11-14T05:48:36+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Giannis Antetokounmpo et Bam Adebayo écrasent les Cavaliers",
       "url": "https://www.basketusa.com/news/957310/bam-adebayo-et-giannis-antetokounmpo-mettent-k-o-les-cavaliers/",
       "publishedAt": "2026-11-14T05:41:53+00:00"
@@ -416,6 +452,12 @@
       "title": "Les Pacers jouent avec le feu mais font tomber les Knicks !",
       "url": "https://www.basketusa.com/news/957301/les-pacers-jouent-avec-le-feu-mais-font-tomber-les-knicks/",
       "publishedAt": "2026-11-14T05:17:59+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Spurs ne font qu’une bouchée des Warriors",
+      "url": "https://www.basketusa.com/news/957303/les-spurs-ne-font-quune-bouchee-des-warriors/",
+      "publishedAt": "2026-11-14T04:48:36+00:00"
     },
     {
       "source": "korben",
@@ -3122,96 +3164,6 @@
       "title": "Black Friday : cette batterie solaire murale de 6 kWh signée Samduo perd 400 € et devient encore plus intéressante",
       "url": "https://www.clubic.com/bons-plans-637963-black-friday-cette-batterie-solaire-murale-de-6-kwh-signee-samduo-perd-400-et-devient-encore-plus-interessante.html",
       "publishedAt": "2026-11-12T10:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "IA : les nouveaux modèles deviennent obsolètes en seulement six semaines, selon Vercel",
-      "url": "https://www.clubic.com/actualite-638914-ia-les-nouveaux-modeles-deviennent-obsoletes-en-seulement-six-semaines-selon-vercel.html",
-      "publishedAt": "2026-11-12T10:23:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Vous pouvez payer 3,49 € pour jouer 10 heures à des jeux Xbox en streaming",
-      "url": "https://www.numerama.com/pop-culture/2372621-vous-pouvez-payer-349-e-pour-jouer-10-heures-a-des-jeux-xbox-en-streaming.html",
-      "publishedAt": "2026-11-12T10:21:47+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple propose une nouvelle mise à jour pour les AirPods : voici comment l’installer",
-      "url": "https://www.iphon.fr/post/airpods-mise-a-jour-ecouteurs",
-      "publishedAt": "2026-11-12T10:21:20+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Le NFL Game Pass baisse encore son prix !",
-      "url": "https://touchdownactu.com/361258/le-nfl-game-pass-baisse-encore-son-prix/",
-      "publishedAt": "2026-11-12T10:20:26+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Kill Switch : OpenAI peut stopper ses modèles en 35 secondes avec Control Room",
-      "url": "https://www.generation-nt.com/actualites/openai-control-room-arret-urgence-ia-agents-2084386",
-      "publishedAt": "2026-11-12T10:20:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Accident tragique dans une usine de composants pour iPhone",
-      "url": "https://www.mac4ever.com/iphone/198980-accident-tragique-dans-une-usine-de-composants-pour-iphone",
-      "publishedAt": "2026-11-12T10:11:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Patch Tuesday : Microsoft colmate plus de 1 000 failles et une faille Outlook critique",
-      "url": "https://www.generation-nt.com/actualites/patch-tuesday-microsoft-mille-failles-2084343",
-      "publishedAt": "2026-11-12T10:10:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Sony poursuit son ménage sur PC, et ferme un service PlayStation boudé par 99,6 % des abonnés",
-      "url": "https://www.clubic.com/actualite-638869-sony-poursuit-son-menage-sur-pc-et-ferme-un-service-playstation-boude-par-99-6-des-abonnes.html",
-      "publishedAt": "2026-11-12T10:06:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Il était déjà là en 1998 : Apple vient d’enterrer un produit historique, peut-être à cause de l’intelligence artificielle",
-      "url": "https://www.presse-citron.net/apple-enterrer-produit-historique-intelligence-artificielle/",
-      "publishedAt": "2026-11-12T10:04:04+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : notre sélection des 7 des meilleurs aspirateurs à saisir chez Roborock, Ecovacs ou Tineco",
-      "url": "https://www.clubic.com/bons-plans-638713-black-friday-amazon-le-top-7-des-meilleurs-aspirateurs-a-saisir-jusqu-a--42.html",
-      "publishedAt": "2026-11-12T10:04:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Pass Navigo : à 90,80 € par mois, voici les avantages que personne n’utilise",
-      "url": "https://www.journaldugeek.com/2026/11/12/pass-navigo-a-9080-e-par-mois-voici-les-avantages-que-personne-nutilise/",
-      "publishedAt": "2026-11-12T10:00:03+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« Et si on codait en dur un déclencheur ? » : il demande à Claude Code de transformer son agent IA en bombe à retardement, et ça marche",
-      "url": "https://www.numerama.com/cyberguerre/2372563-et-si-on-codait-en-dur-un-declencheur-il-demande-a-claude-code-de-transformer-son-agent-ia-en-bombe-a-retardement-et-ca-marche.html",
-      "publishedAt": "2026-11-12T09:58:31+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Pixel 11 aura bien le droit à GrapheneOS, et c'est grâce à Android 17 QPR2",
-      "url": "https://www.clubic.com/actualite-638830-le-pixel-11-aura-bien-le-droit-a-grapheneos-et-c-est-grace-a-android-17-qpr2.html",
-      "publishedAt": "2026-11-12T09:53:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Cette caméra Ring chute à 18€ (-64%) en promo pour le Black Friday !",
-      "url": "https://www.mac4ever.com/domotique/198985-cette-camera-ring-chute-a-18-64-en-promo-pour-le-black-friday",
-      "publishedAt": "2026-11-12T09:52:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Chez Logitech, la sortie de GTA VI mérite un jour de congé pour 7 000 salariés",
-      "url": "https://www.clubic.com/actualite-638935-gta-vi-arrive-cette-entreprise-tech-offre-un-jour-de-conge-a-ses-7-000-employes-pour-jouer.html",
-      "publishedAt": "2026-11-12T09:45:00+00:00"
     },
     {
       "source": "boulet",
