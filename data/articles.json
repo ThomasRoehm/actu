@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T14:27:26.779142+00:00",
+  "generatedAt": "2026-11-14T15:13:59.813704+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,69 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T14:27:26.779142+00:00"
+      "lastSuccessAt": "2026-11-14T15:13:59.813704+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Une idée des années 1980 passe enfin le test et pourrait révolutionner la production d’énergie",
+      "url": "https://www.journaldugeek.com/2026/11/14/une-idee-des-annees-1980-passe-enfin-le-test-et-pourrait-revolutionner-la-production-denergie/",
+      "publishedAt": "2026-11-14T15:03:27+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Mercedes est en crise : la marque gèle tous ses investissements allemands et menace de fermer des usines",
+      "url": "https://www.presse-citron.net/mercedes-est-en-crise-la-marque-gele-tous-ses-investissements-allemands-et-menace-de-fermer-des-usines/",
+      "publishedAt": "2026-11-14T15:00:04+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Test Alienware AW2726DM : un écran OLED performant et pas cher, le must pour jouer à GTA VI ?",
+      "url": "https://www.clubic.com/test-produit-638368-test-alienware-aw2726dm.html",
+      "publishedAt": "2026-11-14T15:00:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Très mauvaise nouvelle pour GTA 6, retour de Johnny Depp au cinéma, le recap Pop Culture de la semaine",
+      "url": "https://www.numerama.com/tech/2374239-tres-mauvaise-nouvelle-pour-gta-6-retour-de-johnny-depp-au-cinema-le-recap-pop-culture-de-la-semaine.html",
+      "publishedAt": "2026-11-14T15:00:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Sécurité : 5 astuces pour créer des mots de passes solides (et mémorables)",
+      "url": "https://www.iphon.fr/post/5-astuces-pour-choisir-mots-de-passe-solides",
+      "publishedAt": "2026-11-14T14:59:55+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Jacob Freeman assure que NVIDIA va poursuivre le business des GPU gaming",
+      "url": "https://www.clubic.com/actualite-639313-jacob-freeman-assure-que-nvidia-va-poursuivre-le-business-des-gpu-gaming.html",
+      "publishedAt": "2026-11-14T14:35:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Pour le Black Friday, Darty fait chuter le Galaxy S25 Edge de 700 €, avec un casque à réduction de bruit en prime",
+      "url": "https://www.numerama.com/tech/2374209-pour-le-black-friday-darty-fait-chuter-le-galaxy-s25-edge-de-700-e-avec-un-casque-a-reduction-de-bruit-en-prime.html",
+      "publishedAt": "2026-11-14T14:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Neemias Queta, la force tranquille des Celtics",
+      "url": "https://www.basketusa.com/news/957291/neemias-queta-la-force-tranquille-des-celtics/",
+      "publishedAt": "2026-11-14T14:23:26+00:00"
+    },
     {
       "source": "clubic",
       "title": "354 arrestations dont 23 en France dans une opération mondiale contre les trafics du dark web",
       "url": "https://www.clubic.com/actualite-639301-arrestations-dont-23-en-france-dans-une-operation-mondiale-contre-les-trafics-du-dark-web.html",
       "publishedAt": "2026-11-14T14:15:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des micro-algues animent désormais des pinces robotiques sous l'eau",
+      "url": "https://www.generation-nt.com/actualites/algues-animent-pinces-robotiques-delft-2084268",
+      "publishedAt": "2026-11-14T14:10:01+00:00"
     },
     {
       "source": "jdg",
@@ -158,12 +212,6 @@
       "title": "Brook Lopez s’offre une seconde jeunesse aux Clippers",
       "url": "https://www.basketusa.com/news/957396/brook-lopez-soffre-une-seconde-jeunesse-aux-clippers/",
       "publishedAt": "2026-11-14T13:42:54+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Sacramento Kings – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957429/sacramento-kings-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-14T13:40:40+00:00"
     },
     {
       "source": "clubic",
@@ -226,6 +274,12 @@
       "publishedAt": "2026-11-14T12:58:04+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Sacramento Kings – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957429/sacramento-kings-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-14T12:40:40+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Microsoft : Outlook et Teams sont de nouveau accessibles après plus de 24 heures de panne mondiale",
       "url": "https://www.clubic.com/actualite-639307-microsoft-outlook-et-teams-sont-de-nouveau-accessibles-apres-plus-de-24-heures-de-panne-mondiale.html",
@@ -272,12 +326,6 @@
       "title": "Starship, vol 15 : le booster finit dans le golfe du Mexique, la tentative de la première capture par la tour diffusée ce soir en live",
       "url": "https://www.clubic.com/actualite-639292-starship-vol-15-le-booster-finit-dans-le-golfe-du-mexique-la-tentative-de-la-premiere-capture-par-la-tour-diffusee-ce-soir-en-live.html",
       "publishedAt": "2026-11-14T11:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
-      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
-      "publishedAt": "2026-11-14T11:30:30+00:00"
     },
     {
       "source": "clubic",
@@ -344,6 +392,12 @@
       "title": "Pour le Pré-Black Friday, Amazon baisse déjà les prix de sa maison connectée, jusqu’à -39%",
       "url": "https://www.clubic.com/bons-plans-638962-pre-black-friday-amazon-baisse-deja-les-prix-de-sa-maison-connectee-jusqu-a--39-sur-5-offres.html",
       "publishedAt": "2026-11-14T10:38:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
+      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
+      "publishedAt": "2026-11-14T10:30:30+00:00"
     },
     {
       "source": "gnt",
@@ -484,12 +538,6 @@
       "publishedAt": "2026-11-14T08:57:12+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le trafic aérien paralysé aux États-Unis, plusieurs équipes NBA prises au piège",
-      "url": "https://www.basketusa.com/news/957371/le-trafic-aerien-paralyse-aux-etats-unis-plusieurs-equipes-nba-prises-au-piege/",
-      "publishedAt": "2026-11-14T08:51:18+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Panne géante d’Outlook et de Microsoft 365 : la théorie d’un agent IA qui aurait dérapé est balayée, mais les causes restent vagues",
       "url": "https://www.numerama.com/tech/2374527-panne-geante-doutlook-et-de-microsoft-365-la-theorie-dun-agent-ia-qui-aurait-derape-est-balayee-mais-les-causes-restent-vagues.html",
@@ -542,6 +590,12 @@
       "title": "« Probablement pas le meilleur point de départ » : pourquoi Adobe ne conseille plus Photoshop aux débutants (interview)",
       "url": "https://www.clubic.com/actualite-638827-probablement-pas-le-meilleur-point-de-depart-pourquoi-adobe-ne-conseille-plus-photoshop-aux-debutants-interview.html",
       "publishedAt": "2026-11-14T08:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le trafic aérien paralysé aux États-Unis, plusieurs équipes NBA prises au piège",
+      "url": "https://www.basketusa.com/news/957371/le-trafic-aerien-paralyse-aux-etats-unis-plusieurs-equipes-nba-prises-au-piege/",
+      "publishedAt": "2026-11-14T07:51:18+00:00"
     },
     {
       "source": "clubic",
@@ -2768,96 +2822,6 @@
       "title": "Adobe MAX 2026 connecte Photoshop et Premiere aux agents IA externes",
       "url": "https://www.generation-nt.com/actualites/adobe-max-photoshop-premiere-ia-2084350",
       "publishedAt": "2026-11-12T15:15:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Un nouveau rival du DLSS promet une meilleure génération d'images sur presque toutes les cartes graphiques",
-      "url": "https://www.clubic.com/actualite-639004-un-nouveau-rival-du-dlss-promet-une-meilleure-generation-d-images-sur-presque-toutes-les-cartes-graphiques.html",
-      "publishedAt": "2026-11-12T15:11:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Au Singles Day, cette montre connectée performante ne vous coûtera pas un bras (-51 %)",
-      "url": "https://www.iphon.fr/post/singles-day-montre-connectee-performante-coutera-pas-un-bras",
-      "publishedAt": "2026-11-12T15:04:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "NVIDIA : qui est vraiment Colette Kress, ancienne de Microsoft qui succède à Jensen Huang",
-      "url": "https://www.clubic.com/actualite-639022-nvidia-qui-est-vraiment-colette-kress-ancienne-de-microsoft-qui-succede-a-jensen-huang.html",
-      "publishedAt": "2026-11-12T15:01:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Faut-il fermer les volets pour réduire sa facture de chauffage ?",
-      "url": "https://www.journaldugeek.com/2026/11/12/faut-il-fermer-les-volets-pour-reduire-sa-facture-de-chauffage/",
-      "publishedAt": "2026-11-12T15:00:39+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "World of Warcraft: Forever a un problème avec son économie",
-      "url": "https://www.numerama.com/pop-culture/2372991-world-of-warcraft-forever-a-un-probleme-avec-son-economie.html",
-      "publishedAt": "2026-11-12T14:59:31+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Maladroit, Jayson Tatum a pourtant sonné la révolte des Celtics",
-      "url": "https://www.basketusa.com/news/956947/maladroit-jayson-tatum-a-pourtant-sonne-la-revolte-des-celtics/",
-      "publishedAt": "2026-11-12T14:56:52+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Arrêt du permis rose : il ne sera bientôt plus valable, voici la date limite officielle pour le changer",
-      "url": "https://www.presse-citron.net/arret-du-permis-rose-il-ne-sera-bientot-plus-valable-voici-la-date-limite-officielle-pour-le-changer/",
-      "publishedAt": "2026-11-12T14:50:49+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Comment Lewis Trondheim a imaginé notre poster des 50 ans d’Apple",
-      "url": "https://www.macg.co/macgeneration/2026/11/comment-lewis-trondheim-imagine-notre-poster-des-50-ans-dapple-312081",
-      "publishedAt": "2026-11-12T14:50:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Photoshop, Illustrator et Premiere dans Creative Cloud Pro, à 39,31€/mois pendant 3 mois",
-      "url": "https://www.clubic.com/bons-plans-639025-black-friday-photoshop-illustrator-et-premiere-dans-creative-cloud-pro-a-39-31-mois-pendant-3-mois.html",
-      "publishedAt": "2026-11-12T14:46:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Volkswagen rapatrie la technologie chinoise, pas les voitures : Thomas Schäfer explique pourquoi",
-      "url": "https://www.numerama.com/vroom/2373019-plateforme-cmp-architecture-cea-voitures-a-prix-casses-ce-que-volkswagen-va-ou-non-importer-de-chine.html",
-      "publishedAt": "2026-11-12T14:44:03+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L'iPhone 18 Pro Max rafle le podium d'autonomie avec une batterie plus petite",
-      "url": "https://www.mac4ever.com/iphone/198998-l-iphone-18-pro-max-rafle-le-podium-d-autonomie-avec-une-batterie-plus-petite",
-      "publishedAt": "2026-11-12T14:32:00+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Podcast] On construit les Chargers 2027",
-      "url": "https://touchdownactu.com/361190/podcast-on-construit-les-chargers-2027/",
-      "publishedAt": "2026-11-12T14:30:43+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Le départ de James Gunn pourrait ressusciter ce film de super-héros pré-Zack Snyder",
-      "url": "https://www.journaldugeek.com/2026/11/12/le-depart-de-james-gunn-pourrait-ressusciter-ce-film-de-super-heros-pre-zack-snyder/",
-      "publishedAt": "2026-11-12T14:30:40+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Moins de dix neurones suffisent pour pirater un agent IA",
-      "url": "https://www.generation-nt.com/actualites/pirater-agent-ia-dix-neurones-2084349",
-      "publishedAt": "2026-11-12T14:30:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Italie-France : où voir le match de foot en direct et en streaming ?",
-      "url": "https://www.numerama.com/pop-culture/2372963-italie-france-ou-voir-le-match-de-foot-en-direct-et-en-streaming.html",
-      "publishedAt": "2026-11-12T14:30:00+00:00"
     },
     {
       "source": "boulet",
