@@ -15,13 +15,18 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="stylesheet" href="style.css">
   <title>Actualités</title>
+  <script src="scores.js" defer></script>
   <script src="app.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#feed">Aller aux actualités</a>
   <div class="shell">
     <main>
-      <div class="toolbar"><nav class="tabs" aria-label="Filtrer les actualités"><button class="tab" data-group="BD" aria-pressed="false">BD <span class="tab-count" aria-hidden="true">—</span></button><button class="tab" data-group="Sport" aria-pressed="false">Sport <span class="tab-count" aria-hidden="true">—</span></button><button class="tab active" data-group="Tech" aria-pressed="true">Tech <span class="tab-count" aria-hidden="true">—</span></button></nav><div class="toolbar-status"><span id="updated" role="status" aria-label="Dernière collecte"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5M6.1 7a7 7 0 0 1 11.5-2L20 8M4 16l2.4 3A7 7 0 0 0 17.9 17"/></svg><span id="updated-time">…</span></span><button class="sources-button" id="show-sources" aria-haspopup="dialog" aria-controls="sources-dialog">Sources <span id="source-count">—</span></button></div></div>
+      <div class="toolbar"><nav class="tabs" aria-label="Filtrer les actualités"><button class="tab" data-group="BD" aria-pressed="false">BD <span class="tab-count" aria-hidden="true">—</span></button><button class="tab" data-group="Sport" aria-pressed="false">Sport <span class="tab-count" aria-hidden="true">—</span></button><button class="tab active" data-group="Tech" aria-pressed="true">Tech <span class="tab-count" aria-hidden="true">—</span></button><button class="tab" data-group="Scores" aria-pressed="false">Scores</button></nav><div class="toolbar-status"><span id="updated" role="status" aria-label="Dernière collecte"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5M6.1 7a7 7 0 0 1 11.5-2L20 8M4 16l2.4 3A7 7 0 0 0 17.9 17"/></svg><span id="updated-time">…</span></span><button class="sources-button" id="show-sources" aria-haspopup="dialog" aria-controls="sources-dialog">Sources <span id="source-count">—</span></button></div></div>
+      <section id="scores-panel" aria-label="Classements et résultats sportifs" hidden>
+        <nav class="league-tabs" aria-label="Choisir une compétition"><button data-league="nba" aria-pressed="true">NBA</button><button data-league="nfl" aria-pressed="false">NFL</button><button data-league="elite2" aria-pressed="false">Élite 2</button></nav>
+        <p id="scores-status" class="notice" role="status" hidden></p><div id="scores-content"></div>
+      </section>
       <p id="notice" class="notice" role="status" hidden></p>
       <section id="manga-feed" class="day-section" aria-label="Derniers chapitres des mangas suivis" hidden></section>
       <div id="feed" tabindex="-1" aria-label="Articles et dernières publications BD" aria-busy="true"><div class="empty">Récupération de vos actualités…</div></div>

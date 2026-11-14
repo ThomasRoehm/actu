@@ -11,6 +11,7 @@
 
 - Site statique HTML/CSS/JavaScript sans framework ni étape de compilation.
 - `index.html`, `style.css`, `app.js` : interface et rechargement des données publiées.
+- `scores.js` et `scripts/scores.py` : nouvel onglet Scores (NBA, NFL, Élite 2), données dans `data/scores.json`. `scripts/lnb.mjs` lit la page LNB publique avec Chrome et Node 22, sans extraction de jeton.
 - `sources.json` : sources d’actualités ; `mangas.json` : sélection MangaKatana.
 - `scripts/collect.py` et `scripts/mangas.py` : collecte Python standard, sans paquet externe.
 - `data/articles.json` et `data/mangas.json` : données persistantes, mises à jour par GitHub Actions.
@@ -22,7 +23,7 @@
 - Les compteurs des onglets indiquent les publications du jour selon la date locale ; BD inclut les chapitres du jour.
 - Interface compacte, lisible sur iPhone et Mac, mode clair/sombre selon le système.
 - Pas de titre introductif, de recherche, de compteur « X articles / 48 h », ni de bouton d’actualisation manuelle.
-- Menu : BD, Sport, Tech ; Tech par défaut. Aucun onglet Tout ou Local, ni sélecteur Fr / Us.
+- Menu : BD, Sport, Tech, Scores ; Tech par défaut. Scores ne contribue pas aux compteurs d’articles. Aucun onglet Tout ou Local, ni sélecteur Fr / Us.
 - L’indicateur près de Sources affiche une icône d’actualisation et le temps depuis la collecte. Ce n’est pas un bouton et il ne lance aucune collecte.
 - Articles triés du plus récent au plus ancien ; toute la ligne ouvre l’original dans un nouvel onglet avec `noopener noreferrer`.
 - Sur mobile et ordinateur, icône, nom de la source et heure sont alignés sur une première ligne ; le titre vient en dessous sur toute la largeur et est limité à deux lignes.

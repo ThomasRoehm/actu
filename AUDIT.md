@@ -74,3 +74,15 @@ Mesure indicative sur une liste synthétique de 1 000 articles, 30 appels de ren
 Il s’agit du travail JavaScript d’une vue déjà chargée, pas d’une mesure LCP/INP, du réseau, du premier affichage ou d’un appareil Apple réel.
 
 Les tests de régression couvrent aussi le remplacement simultané d’un article expiré par une publication future (nombre total inchangé), les compteurs par source dans Sources et le passage à minuit sans nouvelle réponse réseau.
+
+
+## Onglet Scores
+
+- NBA/NFL : classements ESPN de la saison indiquée par la source, par conférence ; résultats uniquement si le statut est terminé et les deux scores sont explicites. NFL consultée par semaines pour éviter les journées sans match.
+- Élite 2 : classement et derniers matchs fournis par la page publique LNB, saison lue depuis la configuration annoncée par le site.
+- Les sous-sections classement/résultats conservent séparément leurs données en cas d’échec ; aucun score ni résultat n’est inventé pour combler une panne.
+- Collecte réelle initiale validée : 30 équipes NBA, 32 NFL, 20 Élite 2, avec respectivement 20, 20 et 10 derniers matchs terminés disponibles lors du contrôle. Les nombres peuvent évoluer.
+- Chromium et WebKit : trois ligues, clair/sombre, 320/390/1280 px, zoom à 200 %, retour aux articles, Sources, récupération après erreur réseau, conservation des données après échec partiel. Aucun appel tiers depuis le navigateur ; les données sont servies par le même site.
+- axe-core : aucune violation automatique des règles WCAG A/AA sélectionnées sur l’écran contrôlé. Les tableaux utilisent caption, en-têtes de colonnes et de lignes, et un conteneur défilant nommé accessible au clavier.
+- Tests de collecteur indépendants du réseau dans `tests/test_scores.py`, tests navigateur optionnels avec fixtures dans `tests/scores.test.cjs` (mêmes prérequis Playwright que `tests/refresh.test.cjs`).
+- Workflow : collecte sports ajoutée, Node 22 et Chrome requis côté runner, `data/scores.json` conservé entre collectes, `scores.js` inclus dans les fichiers publiés. Aucun déploiement n’est effectué pour vérifier une branche.

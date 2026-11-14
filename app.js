@@ -230,6 +230,11 @@ function viewModel(now) {
 }
 
 function render(preservePosition = true) {
+  const scoresActive = state.group === 'Scores';
+  byId('feed').hidden = scoresActive;
+  byId('updated').hidden = scoresActive;
+  scoresPanel.show(scoresActive);
+  if (scoresActive) { byId('manga-feed').hidden = true; byId('notice').hidden = true; return; }
   const position = preservePosition ? readingPosition() : null;
   try {
     renderMangas();
@@ -242,6 +247,7 @@ function render(preservePosition = true) {
     const { sources, articles, today, counts, groups, revision } = viewModel(now);
     tabs.forEach((button) => {
       const group = button.dataset.group;
+      if (group === 'Scores') return;
       button.querySelector('.tab-count').textContent = counts[group];
       button.setAttribute('aria-label', `${group} : ${counts[group]} publication${counts[group] === 1 ? '' : 's'} aujourd’hui`);
     });
@@ -328,7 +334,11 @@ tabs.forEach((button) => button.addEventListener('click', () => {
   tabs.forEach((tab) => { const active = tab === button; tab.classList.toggle('active', active); tab.setAttribute('aria-pressed', String(active)); });
   render(false);
 }));
-byId('show-sources').addEventListener('click', () => { byId('sources-dialog').showModal(); render(); });
+byId('show-sources').addEventListener('click', () => {
+  byId('sources-dialog').showModal();
+  if (state.data) { const view = viewModel(Date.now()); renderSources(state.data.sources, view.articles, view.revision); }
+  render();
+});
 byId('close-sources').addEventListener('click', () => byId('sources-dialog').close());
 // Safari antérieur à closedby : seul un geste commencé ET terminé dehors ferme.
 if (!('closedBy' in HTMLDialogElement.prototype)) {
@@ -345,8 +355,8 @@ if (!('closedBy' in HTMLDialogElement.prototype)) {
   });
   dialog.addEventListener('pointercancel', () => { pressedOutside = false; });
 }
-document.addEventListener('visibilitychange', () => { if (!document.hidden) { load(); loadMangas(); } });
+document.addEventListener('visibilitychange', () => { if (!document.hidden) { load(); loadMangas(); scoresPanel.load(); } });
 setInterval(() => { if (!document.hidden) render(); }, 60000);
-setInterval(() => { if (!document.hidden) { load(); loadMangas(); } }, 300000);
+setInterval(() => { if (!document.hidden) { load(); loadMangas(); scoresPanel.load(); } }, 300000);
 load();
 loadMangas();

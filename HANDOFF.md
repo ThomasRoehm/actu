@@ -13,7 +13,7 @@
 ## État fonctionnel
 
 - 12 sources d’actualités configurées dans `sources.json` et 27 séries dans `mangas.json`.
-- Catégories BD / Sport / Tech, dans cet ordre. Tech est sélectionné par défaut ; les onglets Tout et Local et le sélecteur Fr / Us ont été supprimés.
+- Catégories BD / Sport / Tech / Scores, dans cet ordre. Tech est sélectionné par défaut ; les onglets Tout et Local et le sélecteur Fr / Us ont été supprimés.
 - Tech et Sport : articles des dernières 48 heures.
 - Bouletcorp : dernière publication conservée quelle que soit sa date.
 - Dates MangaKatana : si la date source devance la première observation du chapitre (`firstSeenAt`), afficher « Repéré le » avec le jour local de cette observation et utiliser ce même jour pour le tri et le compteur BD. La date source reste conservée ; une date inconnue reste inconnue. Pour les anciennes données, la dernière observation réussie sert de repli avant migration.
@@ -52,6 +52,16 @@ Korben utilise le flux complet officiel `https://korben.info/feedfull`, recomman
 - Sur petit écran, le bloc Sources / indicateur peut passer à la ligne pour conserver la lisibilité des filtres.
 - Chaque article s’ouvre sur son site d’origine ; aucun contenu complet n’est stocké.
 - Liste sur mobile et ordinateur : icône, nom du site et heure sur la première ligne ; titre en dessous sur toute la largeur, limité à deux lignes. La même disposition s’applique aux mangas avec leur date.
+
+## Onglet Scores
+
+- Classements de la saison courante et 20 derniers matchs terminés maximum : NBA (conférences Est/Ouest), NFL (AFC/NFC, rangs fournis par ESPN) et Élite 2 (rang officiel LNB).
+- ESPN : données publiques, résultats NBA par journée sur sept jours, NFL semaine courante et deux précédentes. Matchs non terminés exclus, jamais de score inventé.
+- LNB : saison déterminée depuis les paramètres publiés sur son site. API directe refusée : la collecte utilise une session Chrome normale de la page publique, avec Node 22 et sans lire, conserver ou réutiliser le jeton de la page. Pas de connexion utilisateur ni de contournement. Chrome requis (`CHROME_BIN`, ou google-chrome/chromium disponibles sur le runner).
+- L’indicateur global de collecte des articles est masqué dans Scores, où chaque section possède son propre horodatage.
+- Chaque classement et chaque liste de résultats conserve ses dernières données réussies si sa collecte échoue ; dates de mise à jour et source affichées. Pas de promesse de temps réel.
+- Données chargées depuis le site uniquement à la première ouverture de Scores, puis revalidées toutes les cinq minutes lorsque la page est visible et au retour sur l’onglet du navigateur. Aucun appel ESPN/LNB ni cookie tiers depuis le navigateur du visiteur.
+- Classements en tableaux HTML accessibles avec zone de défilement au clavier. En cas d’actualisation pendant la lecture d’un tableau, les nouvelles données sont appliquées à la prochaine ouverture pour éviter un saut de lecture.
 
 ## Automatisation actuelle
 

@@ -1,0 +1,1483 @@
+{
+  "generatedAt": "2026-11-14T18:16:31.817996+00:00",
+  "leagues": [
+    {
+      "name": "NBA",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/standings",
+      "id": "nba",
+      "standings": {
+        "season": "2026-27",
+        "groups": [
+          {
+            "name": "Conférence Est",
+            "teams": [
+              {
+                "id": "2",
+                "name": "Boston Celtics",
+                "rank": 1,
+                "wins": 10,
+                "losses": 2,
+                "ties": 0,
+                "pct": 83.3
+              },
+              {
+                "id": "20",
+                "name": "Philadelphia 76ers",
+                "rank": 2,
+                "wins": 10,
+                "losses": 3,
+                "ties": 0,
+                "pct": 76.9
+              },
+              {
+                "id": "8",
+                "name": "Detroit Pistons",
+                "rank": 3,
+                "wins": 8,
+                "losses": 3,
+                "ties": 0,
+                "pct": 72.7
+              },
+              {
+                "id": "1",
+                "name": "Atlanta Hawks",
+                "rank": 4,
+                "wins": 7,
+                "losses": 6,
+                "ties": 0,
+                "pct": 53.8
+              },
+              {
+                "id": "14",
+                "name": "Miami Heat",
+                "rank": 5,
+                "wins": 6,
+                "losses": 6,
+                "ties": 0,
+                "pct": 50.0
+              },
+              {
+                "id": "18",
+                "name": "New York Knicks",
+                "rank": 6,
+                "wins": 6,
+                "losses": 6,
+                "ties": 0,
+                "pct": 50.0
+              },
+              {
+                "id": "5",
+                "name": "Cleveland Cavaliers",
+                "rank": 7,
+                "wins": 6,
+                "losses": 7,
+                "ties": 0,
+                "pct": 46.2
+              },
+              {
+                "id": "28",
+                "name": "Toronto Raptors",
+                "rank": 8,
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "pct": 41.7
+              },
+              {
+                "id": "19",
+                "name": "Orlando Magic",
+                "rank": 9,
+                "wins": 5,
+                "losses": 7,
+                "ties": 0,
+                "pct": 41.7
+              },
+              {
+                "id": "11",
+                "name": "Indiana Pacers",
+                "rank": 10,
+                "wins": 5,
+                "losses": 8,
+                "ties": 0,
+                "pct": 38.5
+              },
+              {
+                "id": "30",
+                "name": "Charlotte Hornets",
+                "rank": 11,
+                "wins": 4,
+                "losses": 8,
+                "ties": 0,
+                "pct": 33.3
+              },
+              {
+                "id": "27",
+                "name": "Washington Wizards",
+                "rank": 12,
+                "wins": 4,
+                "losses": 9,
+                "ties": 0,
+                "pct": 30.8
+              },
+              {
+                "id": "17",
+                "name": "Brooklyn Nets",
+                "rank": 13,
+                "wins": 3,
+                "losses": 8,
+                "ties": 0,
+                "pct": 27.3
+              },
+              {
+                "id": "4",
+                "name": "Chicago Bulls",
+                "rank": 14,
+                "wins": 2,
+                "losses": 9,
+                "ties": 0,
+                "pct": 18.2
+              },
+              {
+                "id": "15",
+                "name": "Milwaukee Bucks",
+                "rank": 15,
+                "wins": 1,
+                "losses": 12,
+                "ties": 0,
+                "pct": 7.7
+              }
+            ]
+          },
+          {
+            "name": "Conférence Ouest",
+            "teams": [
+              {
+                "id": "24",
+                "name": "San Antonio Spurs",
+                "rank": 1,
+                "wins": 11,
+                "losses": 2,
+                "ties": 0,
+                "pct": 84.6
+              },
+              {
+                "id": "13",
+                "name": "Los Angeles Lakers",
+                "rank": 2,
+                "wins": 11,
+                "losses": 2,
+                "ties": 0,
+                "pct": 84.6
+              },
+              {
+                "id": "10",
+                "name": "Houston Rockets",
+                "rank": 3,
+                "wins": 10,
+                "losses": 3,
+                "ties": 0,
+                "pct": 76.9
+              },
+              {
+                "id": "22",
+                "name": "Portland Trail Blazers",
+                "rank": 4,
+                "wins": 9,
+                "losses": 3,
+                "ties": 0,
+                "pct": 75.0
+              },
+              {
+                "id": "16",
+                "name": "Minnesota Timberwolves",
+                "rank": 5,
+                "wins": 9,
+                "losses": 3,
+                "ties": 0,
+                "pct": 75.0
+              },
+              {
+                "id": "29",
+                "name": "Memphis Grizzlies",
+                "rank": 6,
+                "wins": 8,
+                "losses": 4,
+                "ties": 0,
+                "pct": 66.7
+              },
+              {
+                "id": "9",
+                "name": "Golden State Warriors",
+                "rank": 7,
+                "wins": 8,
+                "losses": 5,
+                "ties": 0,
+                "pct": 61.5
+              },
+              {
+                "id": "25",
+                "name": "Oklahoma City Thunder",
+                "rank": 8,
+                "wins": 8,
+                "losses": 5,
+                "ties": 0,
+                "pct": 61.5
+              },
+              {
+                "id": "7",
+                "name": "Denver Nuggets",
+                "rank": 9,
+                "wins": 6,
+                "losses": 4,
+                "ties": 0,
+                "pct": 60.0
+              },
+              {
+                "id": "6",
+                "name": "Dallas Mavericks",
+                "rank": 10,
+                "wins": 7,
+                "losses": 5,
+                "ties": 0,
+                "pct": 58.3
+              },
+              {
+                "id": "21",
+                "name": "Phoenix Suns",
+                "rank": 11,
+                "wins": 5,
+                "losses": 6,
+                "ties": 0,
+                "pct": 45.5
+              },
+              {
+                "id": "3",
+                "name": "New Orleans Pelicans",
+                "rank": 12,
+                "wins": 4,
+                "losses": 9,
+                "ties": 0,
+                "pct": 30.8
+              },
+              {
+                "id": "12",
+                "name": "LA Clippers",
+                "rank": 13,
+                "wins": 3,
+                "losses": 8,
+                "ties": 0,
+                "pct": 27.3
+              },
+              {
+                "id": "23",
+                "name": "Sacramento Kings",
+                "rank": 14,
+                "wins": 1,
+                "losses": 11,
+                "ties": 0,
+                "pct": 8.3
+              },
+              {
+                "id": "26",
+                "name": "Utah Jazz",
+                "rank": 15,
+                "wins": 1,
+                "losses": 12,
+                "ties": 0,
+                "pct": 7.7
+              }
+            ]
+          }
+        ],
+        "ok": true,
+        "updatedAt": "2026-11-14T18:16:31.817996+00:00",
+        "error": null
+      },
+      "results": {
+        "games": [
+          {
+            "id": "401909304",
+            "date": "2026-11-14T03:30:00+00:00",
+            "home": {
+              "name": "LA Clippers",
+              "score": 113
+            },
+            "away": {
+              "name": "Oklahoma City Thunder",
+              "score": 112
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909304/thunder-clippers"
+          },
+          {
+            "id": "401909303",
+            "date": "2026-11-14T03:00:00+00:00",
+            "home": {
+              "name": "Sacramento Kings",
+              "score": 107
+            },
+            "away": {
+              "name": "Portland Trail Blazers",
+              "score": 120
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909303/trail-blazers-kings"
+          },
+          {
+            "id": "401909302",
+            "date": "2026-11-14T02:30:00+00:00",
+            "home": {
+              "name": "San Antonio Spurs",
+              "score": 123
+            },
+            "away": {
+              "name": "Golden State Warriors",
+              "score": 85
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909302/warriors-spurs"
+          },
+          {
+            "id": "401909301",
+            "date": "2026-11-14T01:30:00+00:00",
+            "home": {
+              "name": "Houston Rockets",
+              "score": 125
+            },
+            "away": {
+              "name": "Utah Jazz",
+              "score": 118
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909301/jazz-rockets"
+          },
+          {
+            "id": "401909298",
+            "date": "2026-11-14T01:00:00+00:00",
+            "home": {
+              "name": "Miami Heat",
+              "score": 133
+            },
+            "away": {
+              "name": "Cleveland Cavaliers",
+              "score": 121
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909298/cavaliers-heat"
+          },
+          {
+            "id": "401909299",
+            "date": "2026-11-14T01:00:00+00:00",
+            "home": {
+              "name": "Chicago Bulls",
+              "score": 125
+            },
+            "away": {
+              "name": "Atlanta Hawks",
+              "score": 117
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909299/hawks-bulls"
+          },
+          {
+            "id": "401909300",
+            "date": "2026-11-14T01:00:00+00:00",
+            "home": {
+              "name": "New Orleans Pelicans",
+              "score": 111
+            },
+            "away": {
+              "name": "Memphis Grizzlies",
+              "score": 142
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909300/grizzlies-pelicans"
+          },
+          {
+            "id": "401909296",
+            "date": "2026-11-14T00:00:00+00:00",
+            "home": {
+              "name": "Indiana Pacers",
+              "score": 106
+            },
+            "away": {
+              "name": "New York Knicks",
+              "score": 104
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909296/knicks-pacers"
+          },
+          {
+            "id": "401909297",
+            "date": "2026-11-14T00:00:00+00:00",
+            "home": {
+              "name": "Orlando Magic",
+              "score": 107
+            },
+            "away": {
+              "name": "Milwaukee Bucks",
+              "score": 99
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909297/bucks-magic"
+          },
+          {
+            "id": "401909979",
+            "date": "2026-11-13T02:00:00+00:00",
+            "home": {
+              "name": "Phoenix Suns",
+              "score": 101
+            },
+            "away": {
+              "name": "Charlotte Hornets",
+              "score": 96
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909979/hornets-suns"
+          },
+          {
+            "id": "401909978",
+            "date": "2026-11-13T01:00:00+00:00",
+            "home": {
+              "name": "Minnesota Timberwolves",
+              "score": 133
+            },
+            "away": {
+              "name": "Dallas Mavericks",
+              "score": 94
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909978/mavericks-timberwolves"
+          },
+          {
+            "id": "401909976",
+            "date": "2026-11-13T00:00:00+00:00",
+            "home": {
+              "name": "Philadelphia 76ers",
+              "score": 123
+            },
+            "away": {
+              "name": "Toronto Raptors",
+              "score": 112
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909976/raptors-76ers"
+          },
+          {
+            "id": "401909977",
+            "date": "2026-11-13T00:00:00+00:00",
+            "home": {
+              "name": "Washington Wizards",
+              "score": 140
+            },
+            "away": {
+              "name": "Detroit Pistons",
+              "score": 144
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909977/pistons-wizards"
+          },
+          {
+            "id": "401909975",
+            "date": "2026-11-12T03:00:00+00:00",
+            "home": {
+              "name": "Portland Trail Blazers",
+              "score": 118
+            },
+            "away": {
+              "name": "Oklahoma City Thunder",
+              "score": 108
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909975/thunder-trail-blazers"
+          },
+          {
+            "id": "401909974",
+            "date": "2026-11-12T02:30:00+00:00",
+            "home": {
+              "name": "Houston Rockets",
+              "score": 115
+            },
+            "away": {
+              "name": "Golden State Warriors",
+              "score": 108
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909974/warriors-rockets"
+          },
+          {
+            "id": "401909973",
+            "date": "2026-11-12T02:00:00+00:00",
+            "home": {
+              "name": "Utah Jazz",
+              "score": 108
+            },
+            "away": {
+              "name": "Orlando Magic",
+              "score": 123
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909973/magic-jazz"
+          },
+          {
+            "id": "401909969",
+            "date": "2026-11-12T01:00:00+00:00",
+            "home": {
+              "name": "Chicago Bulls",
+              "score": 119
+            },
+            "away": {
+              "name": "San Antonio Spurs",
+              "score": 124
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909969/spurs-bulls"
+          },
+          {
+            "id": "401909970",
+            "date": "2026-11-12T01:00:00+00:00",
+            "home": {
+              "name": "Memphis Grizzlies",
+              "score": 118
+            },
+            "away": {
+              "name": "Denver Nuggets",
+              "score": 123
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909970/nuggets-grizzlies"
+          },
+          {
+            "id": "401909971",
+            "date": "2026-11-12T01:00:00+00:00",
+            "home": {
+              "name": "Milwaukee Bucks",
+              "score": 112
+            },
+            "away": {
+              "name": "Los Angeles Lakers",
+              "score": 123
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909971/lakers-bucks"
+          },
+          {
+            "id": "401909972",
+            "date": "2026-11-12T01:00:00+00:00",
+            "home": {
+              "name": "New Orleans Pelicans",
+              "score": 111
+            },
+            "away": {
+              "name": "Brooklyn Nets",
+              "score": 145
+            },
+            "url": "https://www.espn.com/nba/game/_/gameId/401909972/nets-pelicans"
+          }
+        ],
+        "windowDays": 7,
+        "ok": true,
+        "updatedAt": "2026-11-14T18:16:31.817996+00:00",
+        "error": null
+      }
+    },
+    {
+      "name": "NFL",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/standings",
+      "id": "nfl",
+      "standings": {
+        "season": "2026",
+        "groups": [
+          {
+            "name": "AFC",
+            "teams": [
+              {
+                "id": "2",
+                "name": "Buffalo Bills",
+                "rank": 1,
+                "wins": 7,
+                "losses": 1,
+                "ties": 0,
+                "pct": 87.5
+              },
+              {
+                "id": "7",
+                "name": "Denver Broncos",
+                "rank": 2,
+                "wins": 7,
+                "losses": 2,
+                "ties": 0,
+                "pct": 77.8
+              },
+              {
+                "id": "30",
+                "name": "Jacksonville Jaguars",
+                "rank": 3,
+                "wins": 6,
+                "losses": 2,
+                "ties": 0,
+                "pct": 75.0
+              },
+              {
+                "id": "23",
+                "name": "Pittsburgh Steelers",
+                "rank": 4,
+                "wins": 6,
+                "losses": 2,
+                "ties": 0,
+                "pct": 75.0
+              },
+              {
+                "id": "12",
+                "name": "Kansas City Chiefs",
+                "rank": 5,
+                "wins": 6,
+                "losses": 2,
+                "ties": 0,
+                "pct": 75.0
+              },
+              {
+                "id": "4",
+                "name": "Cincinnati Bengals",
+                "rank": 6,
+                "wins": 6,
+                "losses": 2,
+                "ties": 0,
+                "pct": 75.0
+              },
+              {
+                "id": "17",
+                "name": "New England Patriots",
+                "rank": 7,
+                "wins": 5,
+                "losses": 4,
+                "ties": 0,
+                "pct": 55.6
+              },
+              {
+                "id": "5",
+                "name": "Cleveland Browns",
+                "rank": 8,
+                "wins": 5,
+                "losses": 4,
+                "ties": 0,
+                "pct": 55.6
+              },
+              {
+                "id": "13",
+                "name": "Las Vegas Raiders",
+                "rank": 9,
+                "wins": 4,
+                "losses": 5,
+                "ties": 0,
+                "pct": 44.4
+              },
+              {
+                "id": "33",
+                "name": "Baltimore Ravens",
+                "rank": 10,
+                "wins": 4,
+                "losses": 5,
+                "ties": 0,
+                "pct": 44.4
+              },
+              {
+                "id": "34",
+                "name": "Houston Texans",
+                "rank": 11,
+                "wins": 3,
+                "losses": 5,
+                "ties": 0,
+                "pct": 37.5
+              },
+              {
+                "id": "20",
+                "name": "New York Jets",
+                "rank": 12,
+                "wins": 2,
+                "losses": 7,
+                "ties": 0,
+                "pct": 22.2
+              },
+              {
+                "id": "11",
+                "name": "Indianapolis Colts",
+                "rank": 13,
+                "wins": 2,
+                "losses": 7,
+                "ties": 0,
+                "pct": 22.2
+              },
+              {
+                "id": "15",
+                "name": "Miami Dolphins",
+                "rank": 14,
+                "wins": 1,
+                "losses": 7,
+                "ties": 0,
+                "pct": 12.5
+              },
+              {
+                "id": "10",
+                "name": "Tennessee Titans",
+                "rank": 15,
+                "wins": 1,
+                "losses": 7,
+                "ties": 0,
+                "pct": 12.5
+              },
+              {
+                "id": "24",
+                "name": "Los Angeles Chargers",
+                "rank": 16,
+                "wins": 0,
+                "losses": 8,
+                "ties": 0,
+                "pct": 0.0
+              }
+            ]
+          },
+          {
+            "name": "NFC",
+            "teams": [
+              {
+                "id": "25",
+                "name": "San Francisco 49ers",
+                "rank": 1,
+                "wins": 7,
+                "losses": 1,
+                "ties": 0,
+                "pct": 87.5
+              },
+              {
+                "id": "3",
+                "name": "Chicago Bears",
+                "rank": 2,
+                "wins": 7,
+                "losses": 2,
+                "ties": 0,
+                "pct": 77.8
+              },
+              {
+                "id": "19",
+                "name": "New York Giants",
+                "rank": 3,
+                "wins": 5,
+                "losses": 3,
+                "ties": 1,
+                "pct": 61.1
+              },
+              {
+                "id": "29",
+                "name": "Carolina Panthers",
+                "rank": 4,
+                "wins": 3,
+                "losses": 5,
+                "ties": 0,
+                "pct": 37.5
+              },
+              {
+                "id": "8",
+                "name": "Detroit Lions",
+                "rank": 5,
+                "wins": 6,
+                "losses": 2,
+                "ties": 0,
+                "pct": 75.0
+              },
+              {
+                "id": "16",
+                "name": "Minnesota Vikings",
+                "rank": 6,
+                "wins": 6,
+                "losses": 2,
+                "ties": 0,
+                "pct": 75.0
+              },
+              {
+                "id": "9",
+                "name": "Green Bay Packers",
+                "rank": 7,
+                "wins": 6,
+                "losses": 3,
+                "ties": 0,
+                "pct": 66.7
+              },
+              {
+                "id": "26",
+                "name": "Seattle Seahawks",
+                "rank": 8,
+                "wins": 5,
+                "losses": 4,
+                "ties": 0,
+                "pct": 55.6
+              },
+              {
+                "id": "14",
+                "name": "Los Angeles Rams",
+                "rank": 9,
+                "wins": 5,
+                "losses": 4,
+                "ties": 0,
+                "pct": 55.6
+              },
+              {
+                "id": "6",
+                "name": "Dallas Cowboys",
+                "rank": 10,
+                "wins": 4,
+                "losses": 5,
+                "ties": 0,
+                "pct": 44.4
+              },
+              {
+                "id": "28",
+                "name": "Washington Commanders",
+                "rank": 11,
+                "wins": 3,
+                "losses": 5,
+                "ties": 1,
+                "pct": 38.9
+              },
+              {
+                "id": "18",
+                "name": "New Orleans Saints",
+                "rank": 12,
+                "wins": 3,
+                "losses": 5,
+                "ties": 0,
+                "pct": 37.5
+              },
+              {
+                "id": "27",
+                "name": "Tampa Bay Buccaneers",
+                "rank": 13,
+                "wins": 3,
+                "losses": 6,
+                "ties": 0,
+                "pct": 33.3
+              },
+              {
+                "id": "1",
+                "name": "Atlanta Falcons",
+                "rank": 14,
+                "wins": 3,
+                "losses": 6,
+                "ties": 0,
+                "pct": 33.3
+              },
+              {
+                "id": "22",
+                "name": "Arizona Cardinals",
+                "rank": 15,
+                "wins": 3,
+                "losses": 6,
+                "ties": 0,
+                "pct": 33.3
+              },
+              {
+                "id": "21",
+                "name": "Philadelphia Eagles",
+                "rank": 16,
+                "wins": 2,
+                "losses": 7,
+                "ties": 0,
+                "pct": 22.2
+              }
+            ]
+          }
+        ],
+        "ok": true,
+        "updatedAt": "2026-11-14T18:16:31.817996+00:00",
+        "error": null
+      },
+      "results": {
+        "games": [
+          {
+            "id": "401873052",
+            "date": "2026-11-13T01:15:00+00:00",
+            "home": {
+              "name": "New York Giants",
+              "score": 21
+            },
+            "away": {
+              "name": "Washington Commanders",
+              "score": 24
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873052/commanders-giants"
+          },
+          {
+            "id": "401873051",
+            "date": "2026-11-10T01:15:00+00:00",
+            "home": {
+              "name": "Minnesota Vikings",
+              "score": 6
+            },
+            "away": {
+              "name": "Buffalo Bills",
+              "score": 23
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873051/bills-vikings"
+          },
+          {
+            "id": "401873050",
+            "date": "2026-11-09T01:20:00+00:00",
+            "home": {
+              "name": "Chicago Bears",
+              "score": 27
+            },
+            "away": {
+              "name": "Tampa Bay Buccaneers",
+              "score": 24
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873050/buccaneers-bears"
+          },
+          {
+            "id": "401873049",
+            "date": "2026-11-08T21:25:00+00:00",
+            "home": {
+              "name": "New England Patriots",
+              "score": 27
+            },
+            "away": {
+              "name": "Green Bay Packers",
+              "score": 45
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873049/packers-patriots"
+          },
+          {
+            "id": "401873047",
+            "date": "2026-11-08T21:25:00+00:00",
+            "home": {
+              "name": "San Francisco 49ers",
+              "score": 38
+            },
+            "away": {
+              "name": "Las Vegas Raiders",
+              "score": 17
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873047/raiders-49ers"
+          },
+          {
+            "id": "401873048",
+            "date": "2026-11-08T21:25:00+00:00",
+            "home": {
+              "name": "Seattle Seahawks",
+              "score": 17
+            },
+            "away": {
+              "name": "Arizona Cardinals",
+              "score": 3
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873048/cardinals-seahawks"
+          },
+          {
+            "id": "401873046",
+            "date": "2026-11-08T21:05:00+00:00",
+            "home": {
+              "name": "Los Angeles Chargers",
+              "score": 22
+            },
+            "away": {
+              "name": "Houston Texans",
+              "score": 44
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873046/texans-chargers"
+          },
+          {
+            "id": "401873040",
+            "date": "2026-11-08T18:00:00+00:00",
+            "home": {
+              "name": "Indianapolis Colts",
+              "score": 23
+            },
+            "away": {
+              "name": "Dallas Cowboys",
+              "score": 27
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873040/cowboys-colts"
+          },
+          {
+            "id": "401873045",
+            "date": "2026-11-08T18:00:00+00:00",
+            "home": {
+              "name": "Kansas City Chiefs",
+              "score": 35
+            },
+            "away": {
+              "name": "New York Jets",
+              "score": 12
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873045/jets-chiefs"
+          },
+          {
+            "id": "401873042",
+            "date": "2026-11-08T18:00:00+00:00",
+            "home": {
+              "name": "Miami Dolphins",
+              "score": 9
+            },
+            "away": {
+              "name": "Detroit Lions",
+              "score": 19
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873042/lions-dolphins"
+          },
+          {
+            "id": "401873039",
+            "date": "2026-11-08T18:00:00+00:00",
+            "home": {
+              "name": "New Orleans Saints",
+              "score": 23
+            },
+            "away": {
+              "name": "Cleveland Browns",
+              "score": 22
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873039/browns-saints"
+          },
+          {
+            "id": "401873044",
+            "date": "2026-11-08T18:00:00+00:00",
+            "home": {
+              "name": "Philadelphia Eagles",
+              "score": 11
+            },
+            "away": {
+              "name": "New York Giants",
+              "score": 19
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873044/giants-eagles"
+          },
+          {
+            "id": "401873043",
+            "date": "2026-11-08T18:00:00+00:00",
+            "home": {
+              "name": "Washington Commanders",
+              "score": 13
+            },
+            "away": {
+              "name": "Los Angeles Rams",
+              "score": 20
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873043/rams-commanders"
+          },
+          {
+            "id": "401873041",
+            "date": "2026-11-08T18:00:00+00:00",
+            "home": {
+              "name": "Carolina Panthers",
+              "score": 21
+            },
+            "away": {
+              "name": "Denver Broncos",
+              "score": 26
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873041/broncos-panthers"
+          },
+          {
+            "id": "401873038",
+            "date": "2026-11-08T14:30:00+00:00",
+            "home": {
+              "name": "Atlanta Falcons",
+              "score": 17
+            },
+            "away": {
+              "name": "Cincinnati Bengals",
+              "score": 34
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873038/bengals-falcons"
+          },
+          {
+            "id": "401873037",
+            "date": "2026-11-06T01:15:00+00:00",
+            "home": {
+              "name": "Baltimore Ravens",
+              "score": 10
+            },
+            "away": {
+              "name": "Jacksonville Jaguars",
+              "score": 33
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873037/jaguars-ravens"
+          },
+          {
+            "id": "401873036",
+            "date": "2026-11-03T01:15:00+00:00",
+            "home": {
+              "name": "Seattle Seahawks",
+              "score": 17
+            },
+            "away": {
+              "name": "Chicago Bears",
+              "score": 34
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873036/bears-seahawks"
+          },
+          {
+            "id": "401873035",
+            "date": "2026-11-02T01:20:00+00:00",
+            "home": {
+              "name": "Washington Commanders",
+              "score": 27
+            },
+            "away": {
+              "name": "Philadelphia Eagles",
+              "score": 10
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873035/eagles-commanders"
+          },
+          {
+            "id": "401873033",
+            "date": "2026-11-01T21:25:00+00:00",
+            "home": {
+              "name": "Denver Broncos",
+              "score": 28
+            },
+            "away": {
+              "name": "Kansas City Chiefs",
+              "score": 24
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873033/chiefs-broncos"
+          },
+          {
+            "id": "401873034",
+            "date": "2026-11-01T21:25:00+00:00",
+            "home": {
+              "name": "Miami Dolphins",
+              "score": 19
+            },
+            "away": {
+              "name": "New England Patriots",
+              "score": 24
+            },
+            "url": "https://www.espn.com/nfl/game/_/gameId/401873034/patriots-dolphins"
+          }
+        ],
+        "windowDays": 21,
+        "ok": true,
+        "updatedAt": "2026-11-14T18:16:31.817996+00:00",
+        "error": null
+      }
+    },
+    {
+      "name": "Élite 2",
+      "source": "LNB",
+      "url": "https://lnb.fr/fr/standings/elite2?did=2&abbrev=PROB&yid=2026&cid=318",
+      "id": "elite2",
+      "standings": {
+        "season": "2026/2027",
+        "groups": [
+          {
+            "name": "Classement général",
+            "teams": [
+              {
+                "id": "1875",
+                "name": "Antibes",
+                "rank": 1,
+                "wins": 6,
+                "losses": 3,
+                "ties": 0,
+                "pct": 66.7
+              },
+              {
+                "id": "1879",
+                "name": "Denain",
+                "rank": 2,
+                "wins": 6,
+                "losses": 3,
+                "ties": 0,
+                "pct": 66.7
+              },
+              {
+                "id": "1878",
+                "name": "Châlons-Reims",
+                "rank": 3,
+                "wins": 6,
+                "losses": 3,
+                "ties": 0,
+                "pct": 66.7
+              },
+              {
+                "id": "1887",
+                "name": "Orléans",
+                "rank": 4,
+                "wins": 6,
+                "losses": 3,
+                "ties": 0,
+                "pct": 66.7
+              },
+              {
+                "id": "1889",
+                "name": "Quimper",
+                "rank": 5,
+                "wins": 6,
+                "losses": 3,
+                "ties": 0,
+                "pct": 66.7
+              },
+              {
+                "id": "1888",
+                "name": "Poitiers",
+                "rank": 6,
+                "wins": 6,
+                "losses": 4,
+                "ties": 0,
+                "pct": 60.0
+              },
+              {
+                "id": "1876",
+                "name": "Blois",
+                "rank": 7,
+                "wins": 5,
+                "losses": 4,
+                "ties": 0,
+                "pct": 55.6
+              },
+              {
+                "id": "1886",
+                "name": "Nantes",
+                "rank": 8,
+                "wins": 5,
+                "losses": 4,
+                "ties": 0,
+                "pct": 55.6
+              },
+              {
+                "id": "1880",
+                "name": "Evreux",
+                "rank": 9,
+                "wins": 5,
+                "losses": 4,
+                "ties": 0,
+                "pct": 55.6
+              },
+              {
+                "id": "1882",
+                "name": "Hyères-Toulon",
+                "rank": 10,
+                "wins": 5,
+                "losses": 4,
+                "ties": 0,
+                "pct": 55.6
+              },
+              {
+                "id": "1885",
+                "name": "Levallois",
+                "rank": 11,
+                "wins": 5,
+                "losses": 5,
+                "ties": 0,
+                "pct": 50.0
+              },
+              {
+                "id": "1893",
+                "name": "Vichy",
+                "rank": 12,
+                "wins": 4,
+                "losses": 5,
+                "ties": 0,
+                "pct": 44.4
+              },
+              {
+                "id": "1877",
+                "name": "Caen",
+                "rank": 13,
+                "wins": 4,
+                "losses": 5,
+                "ties": 0,
+                "pct": 44.4
+              },
+              {
+                "id": "1891",
+                "name": "SCABB Saint-Étienne Métropole",
+                "rank": 14,
+                "wins": 4,
+                "losses": 5,
+                "ties": 0,
+                "pct": 44.4
+              },
+              {
+                "id": "1874",
+                "name": "Aix-Maurienne",
+                "rank": 15,
+                "wins": 4,
+                "losses": 5,
+                "ties": 0,
+                "pct": 44.4
+              },
+              {
+                "id": "1884",
+                "name": "Le Havre",
+                "rank": 16,
+                "wins": 3,
+                "losses": 6,
+                "ties": 0,
+                "pct": 33.3
+              },
+              {
+                "id": "1890",
+                "name": "Rouen",
+                "rank": 17,
+                "wins": 3,
+                "losses": 6,
+                "ties": 0,
+                "pct": 33.3
+              },
+              {
+                "id": "1883",
+                "name": "La Rochelle",
+                "rank": 18,
+                "wins": 3,
+                "losses": 6,
+                "ties": 0,
+                "pct": 33.3
+              },
+              {
+                "id": "1881",
+                "name": "Gries-Souffel",
+                "rank": 19,
+                "wins": 3,
+                "losses": 6,
+                "ties": 0,
+                "pct": 33.3
+              },
+              {
+                "id": "1930",
+                "name": "Fos-sur-Mer",
+                "rank": 20,
+                "wins": 2,
+                "losses": 7,
+                "ties": 0,
+                "pct": 22.2
+              }
+            ]
+          }
+        ],
+        "ok": true,
+        "updatedAt": "2026-11-14T18:16:31.817996+00:00",
+        "error": null
+      },
+      "results": {
+        "games": [
+          {
+            "id": "30394",
+            "date": "2026-11-13T19:30:00+00:00",
+            "home": {
+              "name": "Vichy",
+              "score": 88
+            },
+            "away": {
+              "name": "Quimper",
+              "score": 92
+            },
+            "url": null
+          },
+          {
+            "id": "30388",
+            "date": "2026-11-13T19:30:00+00:00",
+            "home": {
+              "name": "Gries-Souffel",
+              "score": 103
+            },
+            "away": {
+              "name": "Hyères-Toulon",
+              "score": 108
+            },
+            "url": null
+          },
+          {
+            "id": "30385",
+            "date": "2026-11-13T19:30:00+00:00",
+            "home": {
+              "name": "SCABB Saint-Étienne-Métropole",
+              "score": 70
+            },
+            "away": {
+              "name": "Blois",
+              "score": 95
+            },
+            "url": null
+          },
+          {
+            "id": "30393",
+            "date": "2026-11-13T19:00:00+00:00",
+            "home": {
+              "name": "Fos-sur-Mer",
+              "score": 73
+            },
+            "away": {
+              "name": "Châlons-Reims",
+              "score": 80
+            },
+            "url": null
+          },
+          {
+            "id": "30392",
+            "date": "2026-11-13T19:00:00+00:00",
+            "home": {
+              "name": "Rouen",
+              "score": 102
+            },
+            "away": {
+              "name": "Poitiers",
+              "score": 77
+            },
+            "url": null
+          },
+          {
+            "id": "30391",
+            "date": "2026-11-13T19:00:00+00:00",
+            "home": {
+              "name": "Aix-Maurienne",
+              "score": 93
+            },
+            "away": {
+              "name": "Nantes",
+              "score": 94
+            },
+            "url": null
+          },
+          {
+            "id": "30390",
+            "date": "2026-11-13T19:00:00+00:00",
+            "home": {
+              "name": "Le Havre",
+              "score": 78
+            },
+            "away": {
+              "name": "Levallois",
+              "score": 95
+            },
+            "url": null
+          },
+          {
+            "id": "30389",
+            "date": "2026-11-13T19:00:00+00:00",
+            "home": {
+              "name": "La Rochelle",
+              "score": 85
+            },
+            "away": {
+              "name": "Antibes",
+              "score": 78
+            },
+            "url": null
+          },
+          {
+            "id": "30387",
+            "date": "2026-11-13T19:00:00+00:00",
+            "home": {
+              "name": "Evreux",
+              "score": 69
+            },
+            "away": {
+              "name": "Orléans",
+              "score": 90
+            },
+            "url": null
+          },
+          {
+            "id": "30386",
+            "date": "2026-11-13T19:00:00+00:00",
+            "home": {
+              "name": "Denain",
+              "score": 83
+            },
+            "away": {
+              "name": "Caen",
+              "score": 86
+            },
+            "url": null
+          }
+        ],
+        "ok": true,
+        "updatedAt": "2026-11-14T18:16:31.817996+00:00",
+        "error": null
+      }
+    }
+  ]
+}
