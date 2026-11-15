@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T09:29:16.067881+00:00",
+  "generatedAt": "2026-11-15T10:19:06.192476+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,88 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
+      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "EDRi : « On a l’impression que la Commission écoute davantage ceux qui enfreignent les règles » - Interview",
+      "url": "https://www.clubic.com/dossier-638572-interview-edri.html",
+      "publishedAt": "2026-11-15T10:05:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Cette suite antivirus complète pour Mac est à 3,50 €/mois et elle rend fou les hackers",
+      "url": "https://www.iphon.fr/post/suite-antivirus-mac-3-euros-fou-hackers",
+      "publishedAt": "2026-11-15T10:02:34+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Disney+ propose ses abonnements à 30 % de réduction, mais ça ne durera pas",
+      "url": "https://www.numerama.com/pop-culture/2240235-vous-avez-manque-la-derniere-promo-disney-elle-est-deja-de-retour.html",
+      "publishedAt": "2026-11-15T10:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Ces Bulls ont de la ressource !",
+      "url": "https://www.basketusa.com/news/957543/ces-bulls-ont-de-la-ressource/",
+      "publishedAt": "2026-11-15T09:59:18+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Promo : le MacBook Air perd 200 € et repasse à 1 199 €",
+      "url": "https://www.macg.co/mac/2026/11/promo-le-macbook-air-perd-200-eu-et-repasse-1-199-eu-312409",
+      "publishedAt": "2026-11-15T09:56:30+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "On peut enfin acheter un Tesla Cybercab (sans volant) pour 29 990$, mais sous conditions !",
+      "url": "https://www.mac4ever.com/auto/199036-on-peut-enfin-acheter-un-tesla-cybercab-sans-volant-pour-29-990-mais-sous-conditions",
+      "publishedAt": "2026-11-15T09:41:35+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Mercedes-Benz gèle ses investissements dans ses usines allemandes et envisage des fermetures",
+      "url": "https://www.clubic.com/actualite-639328-mercedes-benz-gele-ses-investissements-dans-ses-usines-allemandes-et-envisage-des-fermetures.html",
+      "publishedAt": "2026-11-15T09:34:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Notre TOP 7 des meilleures montres connectées à saisir chez Garmin, Suunto ou Amazfit pour le Black Friday",
+      "url": "https://www.clubic.com/bons-plans-638989-black-friday-top-7-des-meilleures-montres-connectees-a-saisir-chez-garmin-suunto-ou-amazfit.html",
+      "publishedAt": "2026-11-15T09:34:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jaron Pierre Jr. a joué deux matchs et 59 minutes dans la même journée !",
+      "url": "https://www.basketusa.com/news/957544/jaron-pierre-jr-a-joue-deux-matchs-et-59-minutes-dans-la-meme-journee/",
+      "publishedAt": "2026-11-15T09:31:28+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Pack Freebox Pop + Forfait mobile : la stratégie gagnante pour un abonnement tout compris à 39,98 €/mois",
+      "url": "https://www.generation-nt.com/actualites/freebox-pop-forfait-mobile-free-5g-plus-voyage-family-box-fibre-wifi-7-2084468",
+      "publishedAt": "2026-11-15T09:30:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Une voiture vous touche volontairement et le piège se referme : c’est quoi l’arnaque du “crash and cash” qui fait des ravages en France ?",
+      "url": "https://www.presse-citron.net/une-voiture-vous-touche-volontairement-et-le-piege-se-referme-cest-quoi-larnaque-du-crash-and-cash-qui-fait-des-ravages-en-france/",
+      "publishedAt": "2026-11-15T09:28:16+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "OpenAI lance Daybreak, des agents IA qui piratent vos applis pour les sécuriser",
+      "url": "https://korben.info/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser.html",
+      "publishedAt": "2026-11-15T09:26:21+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Trump veut installer Tim Cook à la tête de Nvidia",
+      "url": "https://korben.info/trump-veut-installer-tim-cook-a-la-tete-de-nvidia.html",
+      "publishedAt": "2026-11-15T09:25:15+00:00"
+    },
     {
       "source": "clubic",
       "title": "Amazon brade 9 casques et écouteurs pour le Black Friday, dès 26,99€",
@@ -146,6 +224,12 @@
       "title": "« Un revenu universel infini » : épargner ne sert plus à rien selon Elon Musk, car l’IA change tout",
       "url": "https://www.presse-citron.net/un-revenu-universel-infini-epargner-ne-sert-plus-a-rien-selon-elon-musk-car-lia-change-tout/",
       "publishedAt": "2026-11-15T09:13:29+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Voyager 1 à un jour-lumière : l'exploit spatial que nos technologies modernes peinent à égaler !",
+      "url": "https://www.generation-nt.com/actualites/voyager-1-cap-jour-lumiere-2084402",
+      "publishedAt": "2026-11-15T09:10:01+00:00"
     },
     {
       "source": "presse",
@@ -2144,132 +2228,6 @@
       "title": "Nothing prépare un gadget IA sans affichage pour défier les smartphones",
       "url": "https://www.generation-nt.com/actualites/nothing-gadget-ia-sans-ecran-interaction-voix-2084466",
       "publishedAt": "2026-11-13T10:20:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La future Citroën 2CV électrique sera bien développée avec l’aide du chinois Leapmotor",
-      "url": "https://www.numerama.com/vroom/2373585-la-future-citroen-2cv-electrique-sera-bien-developpee-avec-laide-du-chinois-leapmotor.html",
-      "publishedAt": "2026-11-13T10:16:48+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La Russie a-t-elle abattu ses propres hélicoptères lors d'un raid de drones ukrainiens ?",
-      "url": "https://www.generation-nt.com/actualites/russie-abattu-propres-helicopteres-drones-2084421",
-      "publishedAt": "2026-11-13T10:10:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Boston Dynamics chausse son robot humanoïde de roues de trottinette et fait le spectacle avec un saut à 360° à la clé",
-      "url": "https://www.clubic.com/actualite-639127-boston-dynamics-chausse-son-robot-atlas-de-roues-de-trottinette-et-fait-le-spectacle-avec-un-saut-a-360-a-la-cle.html",
-      "publishedAt": "2026-11-13T10:07:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Ces joueurs sur WoW Forever ne voient jamais la lumière du jour, et Blizzard cherche une solution",
-      "url": "https://www.numerama.com/pop-culture/2373591-ces-joueurs-sur-wow-forever-ne-voient-jamais-la-lumiere-du-jour-et-blizzard-cherche-une-solution.html",
-      "publishedAt": "2026-11-13T10:05:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Yaxel Lendeborg a tapé dans l’œil de Kevin Durant",
-      "url": "https://www.basketusa.com/news/957160/yaxel-lendeborg-a-tape-dans-loeil-de-kevin-durant/",
-      "publishedAt": "2026-11-13T10:04:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Jamais 2 sans 3 : l’ex-patron de Nvidia aurait eu une “relation intime” avec une autre employée",
-      "url": "https://www.presse-citron.net/jamais-2-sans-3-lnvidia-relation-intime-avec-une-autre-employee/",
-      "publishedAt": "2026-11-13T10:02:19+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Robert Downey Jr explique pourquoi Doom sera plus “terrifiant” que Thanos dans Avengers Doomsday",
-      "url": "https://www.journaldugeek.com/2026/11/13/robert-downey-jr-explique-pourquoi-doom-sera-plus-terrifiant-que-thanos-dans-avengers-doomsday/",
-      "publishedAt": "2026-11-13T10:00:28+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Safari 27.3 accueille Global Privacy Control, le successeur de Do Not Track",
-      "url": "https://www.macg.co/logiciels/2026/11/safari-273-accueille-global-privacy-control-le-successeur-de-do-not-track-312371",
-      "publishedAt": "2026-11-13T09:58:33+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Nothing tente le boîtier IA sans écran malgré les flops Humane et Rabbit",
-      "url": "https://www.mac4ever.com/ia/199016-nothing-tente-le-boitier-ia-sans-ecran-malgre-les-flops-humane-et-rabbit",
-      "publishedAt": "2026-11-13T09:58:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Avatar les Sept Refuges : on sait enfin quand sort la saison 2 et même la saison 3",
-      "url": "https://www.numerama.com/pop-culture/2373551-avatar-les-sept-refuges-on-sait-enfin-quand-sort-la-saison-2-et-meme-la-saison-3.html",
-      "publishedAt": "2026-11-13T09:56:02+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Panne Outlook, point de 11h : Microsoft accorde 48 heures de sursis à vos mails bloqués",
-      "url": "https://www.clubic.com/actualite-639130-panne-outlook-point-de-11h-microsoft-accorde-48-heures-de-sursis-a-vos-mails-bloques.html",
-      "publishedAt": "2026-11-13T09:53:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "La TNT payante, c’est fini : M6 éteint la dernière chaîne du réseau hertzien",
-      "url": "https://www.presse-citron.net/la-tnt-payante-cest-fini-m6-eteint-la-derniere-chaine-du-reseau-hertzien/",
-      "publishedAt": "2026-11-13T09:51:18+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Apple : Amazon fait le plein de promos de l'iPad au AirPods Pro 3",
-      "url": "https://www.clubic.com/bons-plans-638878-amazon-fait-le-plein-de-promos-apple-avant-le-black-friday-de-l-ipad-au-airpods-pro-3.html",
-      "publishedAt": "2026-11-13T09:49:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pour attirer des utilisateurs sur Bing, Microsoft propose maintenant de désactiver l'IA",
-      "url": "https://www.clubic.com/actualite-639052-pour-attirer-des-utilisateurs-sur-bing-microsoft-propose-maintenant-de-desactiver-l-ia.html",
-      "publishedAt": "2026-11-13T09:47:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Cooper Flagg s’est cassé les dents sur la défense des Wolves",
-      "url": "https://www.basketusa.com/news/957128/cooper-flagg-sest-casse-les-dents-sur-la-defense-des-wolves/",
-      "publishedAt": "2026-11-13T09:46:59+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Gemini 4 Hydrogen est déployé pour tous et remplace Gemini 3.8 Flash",
-      "url": "https://www.generation-nt.com/actualites/gemini-4-hydrogen-ia-google-orchestrator-2084457",
-      "publishedAt": "2026-11-13T09:40:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone 18, iPad Pro, MacBook Neo… ils reviennent tous en 2027, avec quelles nouveautés ?",
-      "url": "https://www.iphon.fr/post/iphone-18-ipad-pro-macbook-neo-rumeurs-2027",
-      "publishedAt": "2026-11-13T09:31:08+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "McDonald’s ressuscite un jouet culte des années 2000, mais il va falloir payer",
-      "url": "https://www.journaldugeek.com/2026/11/13/mcdonalds-ressuscite-un-jouet-culte-des-annees-2000-mais-il-va-falloir-payer/",
-      "publishedAt": "2026-11-13T09:30:52+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Preview] Semaine 10 : la NFC Nord au cœur de l’attention",
-      "url": "https://touchdownactu.com/361260/preview-semaine-10-la-nfc-nord-au-coeur-de-lattention/",
-      "publishedAt": "2026-11-13T09:30:09+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Resident Evil Requiem s'impose aux Golden Joystick Awards 2026",
-      "url": "https://www.generation-nt.com/actualites/resident-evil-requiem-golden-joystick-2084420",
-      "publishedAt": "2026-11-13T09:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "NordVPN lance son Black Friday : jusqu’à -78 % et un VPN dès 2,99 €/mois",
-      "url": "https://www.clubic.com/bons-plans-635581-nordvpn-lance-son-black-friday-jusqu-a--78-et-un-vpn-des-2-99-mois.html",
-      "publishedAt": "2026-11-13T09:30:00+00:00"
     }
   ]
 }
