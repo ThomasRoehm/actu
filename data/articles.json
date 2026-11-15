@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T15:15:50.395822+00:00",
+  "generatedAt": "2026-11-15T15:58:49.718595+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T15:15:50.395822+00:00"
+      "lastSuccessAt": "2026-11-15T15:58:49.718595+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Des IA chinoises auraient été entraînées avec les puces Nvidia les plus puissantes, malgré l'embargo américain",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/lembargo-americain-sur-les-puces-nvidia-contourne-des-traces-de-blackwell-retrouvees-dans-des-ia-chinoises-312415",
+      "publishedAt": "2026-11-15T15:46:36+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Hallucinations de l'IA : pourquoi votre chatbot raconte-t-il parfois n’importe quoi avec autant d’aplomb ?",
+      "url": "https://www.clubic.com/dossier-639235-hallucinations-de-l-ia-pourquoi-votre-chatbot-raconte-t-il-parfois-n-importe-quoi-avec-autant-d-aplomb.html",
+      "publishedAt": "2026-11-15T15:17:00+00:00"
+    },
     {
       "source": "presse",
       "title": "Les chauffagistes sont formels : éteindre le chauffage quand on part de chez soi est une grosse erreur qui vous coûte de l’argent",
@@ -206,6 +218,12 @@
       "title": "116 drones sous-marins chinois dans le grand bain, c’est un record",
       "url": "https://www.journaldugeek.com/2026/11/15/116-drones-sous-marins-chinois-dans-le-grand-bain-cest-un-record/",
       "publishedAt": "2026-11-15T14:03:59+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Un match déclic pour Alex Sarr aux côtés d’Anthony Davis ?",
+      "url": "https://www.basketusa.com/news/957562/un-match-declic-pour-alex-sarr-aux-cotes-danthony-davis/",
+      "publishedAt": "2026-11-15T13:56:43+00:00"
     },
     {
       "source": "basketusa",
@@ -296,12 +314,6 @@
       "title": "Rencontre sous haute tension : les 5 enjeux du sommet entre Donald Trump et Xi Jinping cette semaine",
       "url": "https://www.presse-citron.net/rencontre-sous-haute-tension-les-5-enjeux-du-sommet-entre-trump-et-xi-jinping-cette-semaine/",
       "publishedAt": "2026-11-15T13:00:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Un match déclic pour Alex Sarr aux côtés d’Anthony Davis ?",
-      "url": "https://www.basketusa.com/news/957562/un-match-declic-pour-alex-sarr-aux-cotes-danthony-davis/",
-      "publishedAt": "2026-11-15T12:56:43+00:00"
     },
     {
       "source": "basketusa",
@@ -604,6 +616,12 @@
       "publishedAt": "2026-11-15T07:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "LeBron James contraint de rejouer pivot malgré lui ?",
+      "url": "https://www.basketusa.com/news/957515/lebron-james-contraint-de-rejouer-pivot-malgre-lui/",
+      "publishedAt": "2026-11-15T07:26:28+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Mises à jour et téléchargements de la semaine",
       "url": "https://www.generation-nt.com/actualites/logiciel-gratuit-software-free-telecharger-download-mise-jour-update-2084481",
@@ -662,12 +680,6 @@
       "title": "L'aéroport Paris-Vatry sous menace de fermeture à cause de la taxe sur les petits colis étrangers",
       "url": "https://www.macg.co/ailleurs/2026/11/laeroport-paris-vatry-sous-menace-de-fermeture-cause-de-la-taxe-sur-les-petits-colis-etrangers-312399",
       "publishedAt": "2026-11-15T06:30:04+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James contraint de rejouer pivot malgré lui ?",
-      "url": "https://www.basketusa.com/news/957515/lebron-james-contraint-de-rejouer-pivot-malgre-lui/",
-      "publishedAt": "2026-11-15T06:26:28+00:00"
     },
     {
       "source": "basketusa",
@@ -1754,96 +1766,6 @@
       "title": "L’inflation atteint son pire niveau depuis janvier 2024 et assomme le portefeuille des Français",
       "url": "https://www.presse-citron.net/linflation-atteint-son-pire-niveau-depuis-janvier-2024-et-assomme-le-portefeuille-des-francais/",
       "publishedAt": "2026-11-13T16:00:19+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : iPad, Lenovo, Samsung, les tablettes en promo chez Amazon, la Fnac et Boulanger",
-      "url": "https://www.clubic.com/bons-plans-639220-black-friday-ipad-lenovo-samsung-les-tablettes-en-promo-chez-amazon-la-fnac-et-boulanger-de-139-a-457.html",
-      "publishedAt": "2026-11-13T15:58:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le Mac mini M6 est déjà en promo : économisez 100€ par rapport à l'Apple Store !",
-      "url": "https://www.mac4ever.com/mac/199030-le-mac-mini-m6-est-deja-en-promo-economisez-100-par-rapport-a-l-apple-store",
-      "publishedAt": "2026-11-13T15:56:31+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Bradley Beal toujours incapable d’enchaîner les entraînements",
-      "url": "https://www.basketusa.com/news/957242/bradley-beal-toujours-incapable-denchainer-les-entrainements/",
-      "publishedAt": "2026-11-13T15:50:19+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "KPop Demon Hunters annonce un concert unique en France",
-      "url": "https://www.journaldugeek.com/2026/11/13/kpop-demon-hunters-annonce-un-concert-unique-en-france/",
-      "publishedAt": "2026-11-13T15:50:14+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Fnac / Darty : des milliers d'offres jusqu'à -70% et des ventes flash (spécial informatique)",
-      "url": "https://www.generation-nt.com/actualites/fnac-darty-black-friday-clavier-gaming-corsair-k55-rgb-pro-casque-razer-blackshark-v2-x-ssd-lexar-acer-nitro-v-16-ai-switch-2-2084470",
-      "publishedAt": "2026-11-13T15:50:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iOS 27.2 : ces 8 réglages vont vous faire gagner des heures d’autonomie",
-      "url": "https://www.iphon.fr/post/ios-27-2-reglages-8-autonomie-iphone-batterie",
-      "publishedAt": "2026-11-13T15:45:52+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "1 220 € d’écart avec l’iPhone Duo : le Galaxy Z Fold 8 tombe à moitié prix sur Amazon pour le Black Friday",
-      "url": "https://www.numerama.com/tech/2355819-1-220-e-decart-avec-liphone-duo-le-galaxy-z-fold8-tombe-a-moitie-prix-sur-amazon-pour-le-black-friday.html",
-      "publishedAt": "2026-11-13T15:44:36+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Starship : SpaceX veut rattraper ses deux étages en plein vol, une première mondiale",
-      "url": "https://www.mac4ever.com/divers/199029-starship-spacex-veut-rattraper-ses-deux-etages-en-plein-vol-une-premiere-mondiale",
-      "publishedAt": "2026-11-13T15:41:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Predator : Schwarzenegger confirme enfin la grande nouvelle pour la suite du film de 87",
-      "url": "https://www.numerama.com/pop-culture/2374203-predator-schwarzenegger-confirme-enfin-la-grande-nouvelle-pour-la-suite-du-film-de-87.html",
-      "publishedAt": "2026-11-13T15:40:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Linux prend en charge AirDrop sur certains Mac en laissant la puce T2 s'en occuper",
-      "url": "https://www.macg.co/mac/2026/11/linux-prend-en-charge-airdrop-sur-certains-mac-en-laissant-la-puce-t2-sen-occuper-312387",
-      "publishedAt": "2026-11-13T15:35:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Et si Nvidia laissait tomber les cartes graphiques GeForce (et les gamers) ?",
-      "url": "https://www.journaldugeek.com/2026/11/13/et-si-nvidia-laissait-tomber-les-cartes-graphiques-geforce-et-les-gamers/",
-      "publishedAt": "2026-11-13T15:33:31+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Mais que font Charles III et Elton John sur Apple Music ?",
-      "url": "https://www.mac4ever.com/audio/199026-charles-iii-et-elton-john-reunis-sur-apple-music-pour-une-emission-speciale",
-      "publishedAt": "2026-11-13T15:29:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Grosse chute de prix pour Borderlands 4 sur PS5",
-      "url": "https://www.numerama.com/pop-culture/2374193-grosse-chute-de-prix-pour-borderlands-4-sur-ps5.html",
-      "publishedAt": "2026-11-13T15:28:22+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Claude offre une réinitialisation gratuite de vos quotas d'utilisation",
-      "url": "https://www.generation-nt.com/actualites/claude-reset-gratuit-quotas-2084430",
-      "publishedAt": "2026-11-13T15:25:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Cyberattaque contre une filiale de La Poste : les données de 22 millions de Français dérobées",
-      "url": "https://www.clubic.com/actualite-639184-cyberattaque-contre-une-filiale-de-la-poste-les-donnees-de-22-millions-de-francais-derobees.html",
-      "publishedAt": "2026-11-13T15:21:00+00:00"
     }
   ]
 }
