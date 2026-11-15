@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:57:59.930313+00:00",
+  "generatedAt": "2026-11-15T12:47:09.358044+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
+      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Le 15 novembre 1960, Elgin Baylor inscrit 71 points contre les Knicks",
+      "url": "https://www.basketusa.com/news/675670/le-15-novembre-1960-elgin-baylor-inscrit-71-points-contre-les-knicks/",
+      "publishedAt": "2026-11-15T12:32:05+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Pourquoi vous avez froid chez vous à 20 °C (et comment arrêter de grelotter sans faire exploser la facture)",
+      "url": "https://www.journaldugeek.com/2026/11/15/pourquoi-vous-avez-froid-chez-vous-a-20-c-et-comment-arreter-de-grelotter-sans-faire-exploser-la-facture/",
+      "publishedAt": "2026-11-15T12:25:24+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Sur Twitch des streamers appellent aux dons pour les lycéens et les grévistes",
+      "url": "https://www.clubic.com/actualite-639334-sur-twitch-des-streamers-appellent-aux-dons-pour-les-lyceens-et-les-grevistes.html",
+      "publishedAt": "2026-11-15T12:15:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Le Thunder continue de soutenir Nikola Topic",
@@ -544,6 +562,12 @@
       "publishedAt": "2026-11-14T18:30:02+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "La rénovation du Moda Center dans l’impasse",
+      "url": "https://www.basketusa.com/news/957426/la-renovation-du-moda-center-dans-limpasse/",
+      "publishedAt": "2026-11-14T17:52:14+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Un Scénic qui dépanne, des nouveautés eco-scorées, trop de commandes de Cybertruck : le récap Vroom de la semaine",
       "url": "https://www.numerama.com/vroom/2374153-une-scenic-qui-depanne-des-nouveautes-eco-scorees-trop-de-commandes-de-cybertruck-le-recap-vroom-de-la-semaine.html",
@@ -584,12 +608,6 @@
       "title": "iPhone et iPad : les promos App Store apps et jeux à ne pas manquer ce week-end",
       "url": "https://www.iphon.fr/post/apps-gratuites-iphone-ipad-ios",
       "publishedAt": "2026-11-14T16:59:06+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La rénovation du Moda Center dans l’impasse",
-      "url": "https://www.basketusa.com/news/957426/la-renovation-du-moda-center-dans-limpasse/",
-      "publishedAt": "2026-11-14T16:52:14+00:00"
     },
     {
       "source": "macg",
@@ -1958,60 +1976,6 @@
       "title": "2 nouveaux produits Apple viennent de fuiter à cause d’une bourde rarissime",
       "url": "https://www.iphon.fr/post/2-nouveaux-produits-apple-fuite-bourde-rarissime-lunettes-airpods",
       "publishedAt": "2026-11-13T12:47:19+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les autorités américaines frappent les cybercriminels nord-coréens",
-      "url": "https://www.generation-nt.com/actualites/cybercriminalite-coree-nord-facestealer-binance-fbi-2084460",
-      "publishedAt": "2026-11-13T12:40:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Nero, chat noir : ce nouveau film pourrait être le grand retour de Pixar",
-      "url": "https://www.journaldugeek.com/2026/11/13/nero-chat-noir-ce-nouveau-film-pourrait-etre-le-grand-retour-de-pixar/",
-      "publishedAt": "2026-11-13T12:34:29+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Les Anneaux de pouvoir invente une origine aux montures ailées des Nazgûl que Tolkien n’avait jamais vraiment tranchée",
-      "url": "https://www.numerama.com/pop-culture/2373691-les-anneaux-de-pouvoir-la-serie-reecrit-lorigine-des-montures-ailees-des-nazgul.html",
-      "publishedAt": "2026-11-13T12:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La défense des Clippers bien trop silencieuse",
-      "url": "https://www.basketusa.com/news/957129/la-defense-des-clippers-bien-trop-silencieuse/",
-      "publishedAt": "2026-11-13T12:25:14+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le cours du bitcoin chute sous les 69 000 dollars, les cryptomonnaies sont secouées",
-      "url": "https://www.generation-nt.com/actualites/bitcoin-chute-valeur-cours-cryptomonnaie-2084469",
-      "publishedAt": "2026-11-13T12:20:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "GitHub : près de 5 000 comptes piratés pour faire main basse sur des identifiants cloud",
-      "url": "https://www.clubic.com/actualite-639160-github-pres-de-5-000-comptes-pirates-pour-faire-main-basse-sur-des-identifiants-cloud.html",
-      "publishedAt": "2026-11-13T12:17:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Les lunettes Android de Google à 395 dollars tournent mieux sur iPhone que sur Android",
-      "url": "https://www.mac4ever.com/arvr/199021-les-lunettes-android-de-google-a-395-dollars-tournent-mieux-sur-iphone-que-sur-android",
-      "publishedAt": "2026-11-13T12:10:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Des archéologues ont peut-être retrouvé un château des Pyrénées disparu depuis 1 000 ans",
-      "url": "https://www.journaldugeek.com/2026/11/13/des-archeologues-ont-peut-etre-retrouve-un-chateau-des-pyrenees-disparu-depuis-1-000-ans/",
-      "publishedAt": "2026-11-13T12:02:20+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Après 60 ans de règne, la Russie perd ce siège clé à l’ONU : pourquoi cette « victoire historique » compte",
-      "url": "https://www.presse-citron.net/apres-60-ans-de-regne-la-russie-perd-ce-siege-cle-a-lonu-pourquoi-cette-victoire-historique-compte/",
-      "publishedAt": "2026-11-13T12:00:05+00:00"
     }
   ]
 }
