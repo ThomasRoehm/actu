@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T20:22:43.515102+00:00",
+  "generatedAt": "2026-11-15T21:12:50.892103+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
+      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "Packers – Vikings (10-30) : Minnesota remet Green Bay à sa place",
+      "url": "https://touchdownactu.com/361413/packers-vikings-10-30-minnesota-remet-green-bay-a-sa-place/",
+      "publishedAt": "2026-11-15T21:09:36+00:00"
+    },
     {
       "source": "clubic",
       "title": "Le FBI alerte sur l’usage de l’IA dans des attaques contre des clients de Microsoft 365",
@@ -244,6 +250,12 @@
       "publishedAt": "2026-11-15T16:50:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Jonathan Abrams raconte le grand rendez-vous manqué d’OKC",
+      "url": "https://www.basketusa.com/news/957434/jonathan-abrams-raconte-le-grand-rendez-vous-manque-du-thunder/",
+      "publishedAt": "2026-11-15T16:45:09+00:00"
+    },
+    {
       "source": "gnt",
       "title": "SpaceX réussit sa première capture du vaisseau Starship à son retour d'orbite !",
       "url": "https://www.generation-nt.com/actualites/spacex-starship-recuperation-vaisseau-pinces-chopstick-mechazilla-2084506",
@@ -286,12 +298,6 @@
       "publishedAt": "2026-11-15T15:46:36+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Jonathan Abrams raconte le grand rendez-vous manqué d’OKC",
-      "url": "https://www.basketusa.com/news/957434/jonathan-abrams-raconte-le-grand-rendez-vous-manque-du-thunder/",
-      "publishedAt": "2026-11-15T15:45:09+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Avec Gallop, Asus installe dès à présent un robot humanoïde dans ses usines",
       "url": "https://www.generation-nt.com/actualites/asus-gallop-robot-humanoide-travail-usine-electronique-2084473",
@@ -314,6 +320,12 @@
       "title": "Cette astuce va sauver vos photos faites à l’iPhone cet automne",
       "url": "https://www.iphon.fr/post/astuce-photo-automne-iphone",
       "publishedAt": "2026-11-15T15:06:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Meilleur passeur de NBA, Davion Mitchell a changé de dimension",
+      "url": "https://www.basketusa.com/news/957586/meilleur-passeur-de-nba-davion-mitchell-a-change-de-dimension/",
+      "publishedAt": "2026-11-15T15:03:17+00:00"
     },
     {
       "source": "presse",
@@ -368,12 +380,6 @@
       "title": "116 drones sous-marins chinois dans le grand bain, c’est un record",
       "url": "https://www.journaldugeek.com/2026/11/15/116-drones-sous-marins-chinois-dans-le-grand-bain-cest-un-record/",
       "publishedAt": "2026-11-15T14:03:59+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Meilleur passeur de NBA, Davion Mitchell a changé de dimension",
-      "url": "https://www.basketusa.com/news/957586/meilleur-passeur-de-nba-davion-mitchell-a-change-de-dimension/",
-      "publishedAt": "2026-11-15T14:03:17+00:00"
     },
     {
       "source": "basketusa",
@@ -1670,18 +1676,6 @@
       "title": "Les secrets du tome 2 des 50 ans de souvenirs",
       "url": "https://www.macg.co/macgeneration/2026/11/les-secrets-du-tome-2-des-50-ans-de-souvenirs-312247",
       "publishedAt": "2026-11-13T21:51:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : 2 To de cloud à vie chez pCloud, soit à peine plus de trois ans d'iCloud+",
-      "url": "https://www.macg.co/services/2026/10/black-friday-2-de-cloud-vie-chez-pcloud-soit-peine-plus-de-trois-ans-dicloud-311889",
-      "publishedAt": "2026-11-13T21:05:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Black Friday : MacXvideo AI à 35,95€ pour restaurer vos anciennes vidéos et photos grâce à l'IA !",
-      "url": "https://www.mac4ever.com/mac/198996-black-friday-macxvideo-ai-a-35-95-pour-restaurer-vos-anciennes-videos-et-photos-grace-a-l-ia",
-      "publishedAt": "2026-11-13T20:44:39+00:00"
     }
   ]
 }
