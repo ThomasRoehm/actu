@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:45:20.152061+00:00",
+  "generatedAt": "2026-11-15T20:22:43.515102+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T19:45:20.152061+00:00"
+      "lastSuccessAt": "2026-11-15T20:22:43.515102+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le FBI alerte sur l’usage de l’IA dans des attaques contre des clients de Microsoft 365",
+      "url": "https://www.clubic.com/actualite-639367-le-fbi-alerte-sur-l-usage-de-l-ia-dans-des-attaques-contre-des-clients-de-microsoft-365.html",
+      "publishedAt": "2026-11-15T20:00:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Avant la sortie de GTA 6, les joueurs de GTA 5 organisent une dernière balade à Los Santos",
+      "url": "https://www.numerama.com/pop-culture/2373859-avant-la-sortie-de-gta-6-les-joueurs-de-gta-5-organisent-une-derniere-balade-a-los-santos.html",
+      "publishedAt": "2026-11-15T19:50:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Siri fait patienter les lunettes, le Duo court après Face ID : la semaine Apple",
+      "url": "https://www.macg.co/aapl/2026/11/siri-fait-batienter-les-lunettes-le-duo-court-apres-face-id-la-semaine-apple-312419",
+      "publishedAt": "2026-11-15T19:50:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Deux fois plus de failles de sécurité recensées en 2026 qu’en 2025",
@@ -364,6 +382,24 @@
       "publishedAt": "2026-11-15T13:56:43+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Cleveland Cavaliers – Chicago Bulls : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957610/cleveland-cavaliers-chicago-bulls-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-15T13:53:47+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957558/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-15T13:50:04+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Utah Jazz – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957554/utah-jazz-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-15T13:47:56+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Intel lance le Core Ultra 7 260K : un processeur « exclusif » que vous ne trouverez pas de sitôt",
       "url": "https://www.clubic.com/actualite-639349-intel-lance-le-core-ultra-7-260k-un-processeur-exclusif-que-vous-ne-trouverez-pas-de-sitot.html",
@@ -434,24 +470,6 @@
       "title": "Rencontre sous haute tension : les 5 enjeux du sommet entre Donald Trump et Xi Jinping cette semaine",
       "url": "https://www.presse-citron.net/rencontre-sous-haute-tension-les-5-enjeux-du-sommet-entre-trump-et-xi-jinping-cette-semaine/",
       "publishedAt": "2026-11-15T13:00:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Cleveland Cavaliers – Chicago Bulls : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957610/cleveland-cavaliers-chicago-bulls-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-15T12:53:47+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957558/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-15T12:50:04+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Utah Jazz – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957554/utah-jazz-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-15T12:47:56+00:00"
     },
     {
       "source": "basketusa",
@@ -1664,18 +1682,6 @@
       "title": "Black Friday : MacXvideo AI à 35,95€ pour restaurer vos anciennes vidéos et photos grâce à l'IA !",
       "url": "https://www.mac4ever.com/mac/198996-black-friday-macxvideo-ai-a-35-95-pour-restaurer-vos-anciennes-videos-et-photos-grace-a-l-ia",
       "publishedAt": "2026-11-13T20:44:39+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les émissions de CO2 de la Chine enregistrent leur plus forte baisse depuis le Covid",
-      "url": "https://www.generation-nt.com/actualites/chine-emissions-co2-baisse-record-2084439",
-      "publishedAt": "2026-11-13T20:15:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Nouveau vol orbital en Europe, ce que dit la justice si vous refusez un compteur Linky, 15e vol du Starship – le récap’ sciences de la semaine",
-      "url": "https://www.numerama.com/sciences/2374195-nouveau-vol-orbital-en-europe-ce-que-dit-la-justice-si-vous-refusez-un-compteur-linky-15e-vol-du-starship-le-recap-sciences-de-la-semaine.html",
-      "publishedAt": "2026-11-13T20:10:00+00:00"
     }
   ]
 }
