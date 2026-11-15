@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:22:25.823189+00:00",
+  "generatedAt": "2026-11-15T07:40:20.589251+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,94 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T06:22:25.823189+00:00"
+      "lastSuccessAt": "2026-11-15T07:40:20.589251+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "L'aventure Apple : 68 030 €, 1 000 ventes et un douloureux rappel de l'ère iPod",
+      "url": "https://www.macg.co/macgeneration/2026/11/laventure-apple-68-030-eu-1-000-ventes-et-un-douloureux-rappel-de-lere-ipod-312407",
+      "publishedAt": "2026-11-15T07:30:16+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : pourquoi Surfshark One va plus loin qu’un simple VPN à 2,49 € HT par mois",
+      "url": "https://www.clubic.com/bons-plans-637705-black-friday-pourquoi-surfshark-one-va-plus-loin-qu-un-simple-vpn-a-2-49-ht-par-mois.html",
+      "publishedAt": "2026-11-15T07:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "LeBron James contraint de rejouer pivot malgré lui ?",
+      "url": "https://www.basketusa.com/news/957515/lebron-james-contraint-de-rejouer-pivot-malgre-lui/",
+      "publishedAt": "2026-11-15T07:26:28+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Mises à jour et téléchargements de la semaine",
+      "url": "https://www.generation-nt.com/actualites/logiciel-gratuit-software-free-telecharger-download-mise-jour-update-2084481",
+      "publishedAt": "2026-11-15T07:10:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Knicks attendent aussi le réveil de Josh Hart",
+      "url": "https://www.basketusa.com/news/957457/les-knicks-attendent-aussi-le-reveil-de-josh-hart/",
+      "publishedAt": "2026-11-15T07:03:16+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Pass Navigo dans Google Wallet : six fonctionnalités qui ne marchent toujours pas",
+      "url": "https://www.journaldugeek.com/2026/11/15/pass-navigo-dans-google-wallet-six-fonctionnalites-qui-ne-marchent-toujours-pas/",
+      "publishedAt": "2026-11-15T07:00:30+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Utilisez-vous Siri AI sur votre Mac ?",
+      "url": "https://www.macg.co/sondage/2026/11/utilisez-vous-siri-ai-sur-votre-mac-312405",
+      "publishedAt": "2026-11-15T07:00:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone Duo : voici ce qu’il reste de l’écran après deux semaines de test",
+      "url": "https://www.iphon.fr/post/iphone-duo-test-resistance-ecran-solide-durabilite",
+      "publishedAt": "2026-11-15T06:58:55+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Mac Studio M5 Max, taillé pour l’IA ?⎜ORLM-606",
+      "url": "https://www.mac4ever.com/mac/199035-mac-studio-m5-max-taille-pour-l-ia-orlm-606",
+      "publishedAt": "2026-11-15T06:55:42+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Vectors - Aiguilleur du ciel ze game !",
+      "url": "https://korben.info/vectors-jeu-controle-aerien-navigateur.html",
+      "publishedAt": "2026-11-15T06:54:41+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "À la TV ce soir : 3 films à regarder ce dimanche",
+      "url": "https://www.presse-citron.net/a-la-tv-ce-soir-3-films-a-regarder-ce-dimanche-145/",
+      "publishedAt": "2026-11-15T06:45:08+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Giannis Antetokounmpo a donné le tournis aux Pistons",
+      "url": "https://www.basketusa.com/news/957495/le-mvp-de-la-nuit-giannis-antetokounmpo-a-donne-le-tournis-aux-pistons/",
+      "publishedAt": "2026-11-15T06:45:06+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "L'aéroport Paris-Vatry sous menace de fermeture à cause de la taxe sur les petits colis étrangers",
+      "url": "https://www.macg.co/ailleurs/2026/11/laeroport-paris-vatry-sous-menace-de-fermeture-cause-de-la-taxe-sur-les-petits-colis-etrangers-312399",
+      "publishedAt": "2026-11-15T06:30:04+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Stats & Highlights | Les Mavericks chutent face à l’équipe C de Cleveland",
+      "url": "https://www.basketusa.com/news/957496/stats-highlights-les-mavericks-chutent-face-a-lequipe-c-de-cleveland/",
+      "publishedAt": "2026-11-15T06:16:55+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Giannis Antetokounmpo et Klay Thompson font courir Detroit",
@@ -152,6 +236,12 @@
       "title": "Les Nuggets passent entre les gouttes à La Nouvelle-Orléans",
       "url": "https://www.basketusa.com/news/957477/les-nuggets-passent-entre-les-gouttes-a-la-nouvelle-orleans/",
       "publishedAt": "2026-11-15T05:16:20+00:00"
+    },
+    {
+      "source": "boulet",
+      "title": "Douceur",
+      "url": "https://bouletcorp.com/rogatons/2026/11/15",
+      "publishedAt": "2026-11-15T00:00:00+00:00"
     },
     {
       "source": "numerama",
@@ -353,7 +443,7 @@
     },
     {
       "source": "iphon",
-      "title": "Sécurité : 5 astuces pour créer des mots de passes solides (et mémorables)",
+      "title": "Sécurité : 5 astuces pour créer des mots de passes solides (et faciles à retenir)",
       "url": "https://www.iphon.fr/post/5-astuces-pour-choisir-mots-de-passe-solides",
       "publishedAt": "2026-11-14T14:59:55+00:00"
     },
@@ -2330,132 +2420,6 @@
       "title": "J’ai joué presque 5 000 heures sur Xbox en 25 ans, et vous ?",
       "url": "https://www.numerama.com/pop-culture/2373523-jai-joue-presque-5-000-heures-sur-xbox-en-25-ans-et-vous.html",
       "publishedAt": "2026-11-13T07:44:54+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Caleb Wilson stoppé net par une fracture de la main",
-      "url": "https://www.basketusa.com/news/957051/caleb-wilson-stoppe-net-par-une-fracture-de-la-main/",
-      "publishedAt": "2026-11-13T07:40:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Samduo Nex E6000H : 6 kWh de stockage solaire sans fixation murale, à prix réduit pour le Black Friday",
-      "url": "https://www.clubic.com/bons-plans-637999-samduo-nex-e6000h-6-kwh-de-stockage-solaire-sans-fixation-murale-a-prix-reduit-pour-le-black-friday.html",
-      "publishedAt": "2026-11-13T07:30:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Ces lunettes Amazon vont photographier les livraisons et inquiéter les chauffeurs",
-      "url": "https://www.journaldugeek.com/2026/11/13/ces-lunettes-amazon-vont-photographier-les-livraisons-et-inquieter-les-chauffeurs/",
-      "publishedAt": "2026-11-13T07:29:36+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Mélange des genres : les lasers civils de Starlink vont traquer les tirs de missiles hypersoniques",
-      "url": "https://www.generation-nt.com/actualites/spacex-starlink-laser-communication-satellite-suivi-missile-hypersonique-2084415",
-      "publishedAt": "2026-11-13T07:20:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "iPhone 18 : Samsung pourrait être à l'origine du retard de lancement d'Apple",
-      "url": "https://www.clubic.com/actualite-639067-iphone-18-samsung-pourrait-etre-a-l-origine-du-retard-de-lancement-d-apple.html",
-      "publishedAt": "2026-11-13T07:20:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Nvidia : Donald Trump veut Tim Cook, Elon Musk et Pavel Durov s’en mêlent !",
-      "url": "https://www.mac4ever.com/ia/199008-nvidia-donald-trump-veut-tim-cook-elon-musk-et-pavel-durov-s-en-melent",
-      "publishedAt": "2026-11-13T07:14:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Zaccharie Risacher surnage dans le naufrage",
-      "url": "https://www.basketusa.com/news/957102/zaccharie-risacher-surnage-dans-le-naufrage/",
-      "publishedAt": "2026-11-13T07:12:45+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Marvel confirme un point crucial sur le grand méchant d’Avengers: Doomsday",
-      "url": "https://www.numerama.com/pop-culture/2373513-marvel-confirme-un-point-crucial-sur-le-grand-mechant-davengers-doomsday.html",
-      "publishedAt": "2026-11-13T07:09:18+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Nothing prépare son premier appareil IA, et ce ne sera pas un écran de plus",
-      "url": "https://www.journaldugeek.com/2026/11/13/nothing-prepare-son-premier-appareil-ia-et-ce-ne-sera-pas-un-ecran-de-plus/",
-      "publishedAt": "2026-11-13T07:02:49+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Black Friday : comment profiter des bons plans sans saturer sa boîte mail ? Proton Pass a la réponse (et elle est en promotion) [Sponso]",
-      "url": "https://www.numerama.com/cyberguerre/2366543-black-friday-comment-profiter-des-bons-plans-sans-saturer-sa-boite-mail-proton-pass-a-la-reponse-et-elle-est-en-promotion.html",
-      "publishedAt": "2026-11-13T07:02:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Malgré le gel promis, le prix de l’électricité pourrait bien grimper de 4 % en février 2027",
-      "url": "https://www.clubic.com/actualite-638983-malgre-le-gel-promis-le-prix-de-l-electricite-pourrait-bien-grimper-de-4-en-fevrier-2027.html",
-      "publishedAt": "2026-11-13T07:01:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone Duo vs 18 Pro : lequel fait les meilleures photos ?",
-      "url": "https://www.iphon.fr/post/iphone-duo-avis-test-photo-camera-avant-arriere-nuit-macro",
-      "publishedAt": "2026-11-13T06:54:58+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Feu vert réglementaire pour l'avion spatial Dream Chaser de Sierra Space !",
-      "url": "https://www.generation-nt.com/actualites/feu-vert-dream-chaser-sierra-space-2084404",
-      "publishedAt": "2026-11-13T06:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Marcus Smart suspendu trois matchs après son coup de poing",
-      "url": "https://www.basketusa.com/news/957059/marcus-smart-suspendu-trois-matchs-apres-son-coup-de-poing/",
-      "publishedAt": "2026-11-13T06:46:04+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Les Anneaux de pouvoir : on sait enfin qui est le mystérieux magicien (et on s’est trompé sur toute la ligne)",
-      "url": "https://www.journaldugeek.com/2026/11/13/les-anneaux-de-pouvoir-on-sait-enfin-qui-est-le-mysterieux-magicien-et-on-setait-trompe-sur-toute-la-ligne/",
-      "publishedAt": "2026-11-13T06:34:53+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Donald Trump réclame Tim Cook pour remplacer Jensen Huang chez Nvidia",
-      "url": "https://www.generation-nt.com/actualites/nvidia-jensen-huang-depart-donald-trump-tim-cook-2084436",
-      "publishedAt": "2026-11-13T06:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : les TV Mini LED à surveiller en 55, 65 et 75 pouces",
-      "url": "https://www.clubic.com/actualite-638416-black-friday-2026-les-tv-mini-led-a-surveiller-en-55-65-et-75-pouces.html",
-      "publishedAt": "2026-11-13T06:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Une faute de frappe en cherchant ChatGPT ou Gemini peut vous mener sur un site piégé",
-      "url": "https://www.clubic.com/actualite-639076-une-faute-de-frappe-en-cherchant-chatgpt-ou-gemini-peut-vous-mener-sur-un-site-piege.html",
-      "publishedAt": "2026-11-13T06:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Cade Cunningham, 52 points et zéro déchet",
-      "url": "https://www.basketusa.com/news/957078/le-mvp-de-la-nuit-cade-cunningham-52-points-et-zero-dechet/",
-      "publishedAt": "2026-11-13T06:28:02+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iPhone Duo : Apple avance certaines livraisons avant Noël !",
-      "url": "https://www.mac4ever.com/iphone/199011-iphone-duo-apple-avance-certaines-livraisons-avant-noel",
-      "publishedAt": "2026-11-13T06:27:00+00:00"
-    },
-    {
-      "source": "boulet",
-      "title": "Pommes Poires",
-      "url": "https://bouletcorp.com/rogatons/2026/10/31",
-      "publishedAt": "2026-10-31T00:00:00+00:00"
     }
   ]
 }
