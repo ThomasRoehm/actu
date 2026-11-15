@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T23:18:05.582514+00:00",
+  "generatedAt": "2026-11-15T00:06:11.595258+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-14T23:18:05.582514+00:00"
+      "lastSuccessAt": "2026-11-15T00:06:11.595258+00:00"
     }
   ],
   "articles": [
@@ -238,6 +238,12 @@
       "publishedAt": "2026-11-14T16:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les jeunes Sixers profitent de « l’université LeBron James »",
+      "url": "https://www.basketusa.com/news/957420/les-jeunes-sixers-profitent-de-luniversite-lebron-james/",
+      "publishedAt": "2026-11-14T16:24:44+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Il pensait gagner des cryptos en louant de la puissance de calcul pour l’IA et estime avoir perdu près de 8 000 euros",
       "url": "https://www.clubic.com/actualite-639304-il-pensait-gagner-des-cryptos-en-louant-de-la-puissance-de-calcul-pour-l-ia-et-estime-avoir-perdu-pres-de-8-000-euros.html",
@@ -290,12 +296,6 @@
       "title": "Ozempic, Wegovy : la FDA alerte sur un risque de perte de vision",
       "url": "https://www.generation-nt.com/actualites/ozempic-wegovy-glp-1-medicament-antidiabetique-amincissant-risque-vision-2084281",
       "publishedAt": "2026-11-14T15:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les jeunes Sixers profitent de « l’université LeBron James »",
-      "url": "https://www.basketusa.com/news/957420/les-jeunes-sixers-profitent-de-luniversite-lebron-james/",
-      "publishedAt": "2026-11-14T15:24:44+00:00"
     },
     {
       "source": "basketusa",
@@ -502,6 +502,12 @@
       "publishedAt": "2026-11-14T11:31:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
+      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
+      "publishedAt": "2026-11-14T11:30:30+00:00"
+    },
+    {
       "source": "clubic",
       "title": "iPhone, Pixel, Redmi… les prix baissent déjà sur ces 7 smartphones chez Amazon pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
@@ -566,12 +572,6 @@
       "title": "Pour le Pré-Black Friday, Amazon baisse déjà les prix de sa maison connectée, jusqu’à -39%",
       "url": "https://www.clubic.com/bons-plans-638962-pre-black-friday-amazon-baisse-deja-les-prix-de-sa-maison-connectee-jusqu-a--39-sur-5-offres.html",
       "publishedAt": "2026-11-14T10:38:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Doug McDermott prend sa retraite après 12 saisons en NBA",
-      "url": "https://www.basketusa.com/news/957414/doug-mcdermott-prend-sa-retraite-apres-12-saisons-en-nba/",
-      "publishedAt": "2026-11-14T10:30:30+00:00"
     },
     {
       "source": "gnt",
@@ -712,6 +712,12 @@
       "publishedAt": "2026-11-14T08:57:12+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le trafic aérien paralysé aux États-Unis, plusieurs équipes NBA prises au piège",
+      "url": "https://www.basketusa.com/news/957371/le-trafic-aerien-paralyse-aux-etats-unis-plusieurs-equipes-nba-prises-au-piege/",
+      "publishedAt": "2026-11-14T08:51:18+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Panne géante d’Outlook et de Microsoft 365 : la théorie d’un agent IA qui aurait dérapé est balayée, mais les causes restent vagues",
       "url": "https://www.numerama.com/tech/2374527-panne-geante-doutlook-et-de-microsoft-365-la-theorie-dun-agent-ia-qui-aurait-derape-est-balayee-mais-les-causes-restent-vagues.html",
@@ -764,12 +770,6 @@
       "title": "« Probablement pas le meilleur point de départ » : pourquoi Adobe ne conseille plus Photoshop aux débutants (interview)",
       "url": "https://www.clubic.com/actualite-638827-probablement-pas-le-meilleur-point-de-depart-pourquoi-adobe-ne-conseille-plus-photoshop-aux-debutants-interview.html",
       "publishedAt": "2026-11-14T08:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le trafic aérien paralysé aux États-Unis, plusieurs équipes NBA prises au piège",
-      "url": "https://www.basketusa.com/news/957371/le-trafic-aerien-paralyse-aux-etats-unis-plusieurs-equipes-nba-prises-au-piege/",
-      "publishedAt": "2026-11-14T07:51:18+00:00"
     },
     {
       "source": "clubic",
