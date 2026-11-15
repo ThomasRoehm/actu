@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:47:09.358044+00:00",
+  "generatedAt": "2026-11-15T13:39:08.018768+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,82 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T12:47:09.358044+00:00"
+      "lastSuccessAt": "2026-11-15T13:39:08.018768+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Intel lance le Core Ultra 7 260K : un processeur « exclusif » que vous ne trouverez pas de sitôt",
+      "url": "https://www.clubic.com/actualite-639349-intel-lance-le-core-ultra-7-260k-un-processeur-exclusif-que-vous-ne-trouverez-pas-de-sitot.html",
+      "publishedAt": "2026-11-15T13:37:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Adieu la France : ces 3 pays européens sont un véritable paradis pour les retraités du monde entier",
+      "url": "https://www.presse-citron.net/adieu-la-france-ces-3-pays-europeens-sont-un-veritable-paradis-pour-les-retraites-du-monde-entier/",
+      "publishedAt": "2026-11-15T13:18:02+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Facebook condamné à 805 millions d’euros en Italie pour accès à des photos sans consentement",
+      "url": "https://www.clubic.com/actualite-639340-facebook-condamne-a-805-millions-d-euros-en-italie-pour-acces-a-des-photos-sans-consentement.html",
+      "publishedAt": "2026-11-15T13:15:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "La Poste : les boîtes aux lettres c’est bientôt terminé, voici ce qui les remplace dès maintenant en France",
+      "url": "https://www.presse-citron.net/la-poste-les-boites-aux-lettres-cest-bientot-termine-voici-ce-qui-les-remplace-des-maintenant-en-france/",
+      "publishedAt": "2026-11-15T13:12:39+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Doug Christie s’accommode de son siège éjectable",
+      "url": "https://www.basketusa.com/news/957575/doug-christie-saccommode-de-son-siege-ejectable/",
+      "publishedAt": "2026-11-15T13:11:54+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "La Nasa recrute de futurs astronautes pour habiter sur la Lune",
+      "url": "https://www.generation-nt.com/actualites/lune-nasa-recrutement-astronautes-2084476",
+      "publishedAt": "2026-11-15T13:10:01+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Apple se réveille. Merci John Ternus ?",
+      "url": "https://www.mac4ever.com/iphone/199033-apple-se-reveille-merci-john-ternus",
+      "publishedAt": "2026-11-15T13:05:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Une pétition en faveur de Jensen Huang recueille 140 000 signatures et le soutien d'Elon Musk",
+      "url": "https://www.macg.co/ailleurs/2026/11/plus-de-140-000-signatures-et-le-soutien-delon-musk-pour-une-petition-en-faveur-du-retour-de-jensen-huang-la-tete-de-nvidia-312411",
+      "publishedAt": "2026-11-15T13:04:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "AirTag : le capteur devance la police dans une nouvelle affaire de vol inédite",
+      "url": "https://www.iphon.fr/post/airtag-le-capteur-devance-la-police-dans-une-nouvelle-affaire-de-vol-inedite",
+      "publishedAt": "2026-11-15T13:03:23+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Les émissions de CO₂ vont baisser en 2026, mais le compte n’y est pas",
+      "url": "https://www.journaldugeek.com/2026/11/15/les-emissions-de-co%e2%82%82-vont-baisser-en-2026-mais-le-compte-ny-est-pas/",
+      "publishedAt": "2026-11-15T13:02:56+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Ils vont monter à bord, mais les astronautes n’ont pas le droit de voir la fusée : le rituel le plus paradoxal des lancements Soyouz",
+      "url": "https://www.numerama.com/sciences/2371751-ils-vont-monter-a-bord-mais-les-astronautes-nont-pas-le-droit-de-la-voir-le-rituel-le-plus-paradoxal-des-lancements-soyouz.html",
+      "publishedAt": "2026-11-15T13:01:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Rencontre sous haute tension : les 5 enjeux du sommet entre Donald Trump et Xi Jinping cette semaine",
+      "url": "https://www.presse-citron.net/rencontre-sous-haute-tension-les-5-enjeux-du-sommet-entre-trump-et-xi-jinping-cette-semaine/",
+      "publishedAt": "2026-11-15T13:00:41+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Le 15 novembre 1960, Elgin Baylor inscrit 71 points contre les Knicks",
@@ -1235,7 +1307,7 @@
     },
     {
       "source": "clubic",
-      "title": "Black Friday 2026 : Amazon frappe FORT ce weekend avec 14 offres jusqu’à moins 60%",
+      "title": "Black Friday Amazon : TOP 14 des offres qui valent vraiment le détour !",
       "url": "https://www.clubic.com/bons-plans-639217-black-friday-2026-amazon-frappe-fort-ce-weekend-avec-14-offres-jusqu-a-moins-60.html",
       "publishedAt": "2026-11-14T07:00:00+00:00"
     },
@@ -1886,96 +1958,6 @@
       "title": "Oppo lance son A7 Pro sur un marché déjà saturé de smartphones milieu de gamme",
       "url": "https://www.clubic.com/actualite-639175-oppo-lance-son-a7-pro-sur-un-marche-deja-sature-de-smartphones-milieu-de-gamme.html",
       "publishedAt": "2026-11-13T13:40:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "BYD contre Land Rover : la justice ordonne la destruction de documents saisis chez le géant chinois",
-      "url": "https://www.numerama.com/vroom/2373903-byd-contre-land-rover-la-justice-ordonne-la-destruction-de-documents-saisis-chez-le-geant-chinois.html",
-      "publishedAt": "2026-11-13T13:37:46+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Promo : un boîtier USB4 pour SSD à 45,59 €, un modèle Thunderbolt 5 à 144 €",
-      "url": "https://www.macg.co/materiel/2026/11/promo-un-boitier-usb4-pour-ssd-4559-eu-un-modele-thunderbolt-5-144-eu-312379",
-      "publishedAt": "2026-11-13T13:32:18+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Près de vingt heures dans le noir : Microsoft peine à rétablir Outlook et ses services cloud",
-      "url": "https://www.macg.co/ailleurs/2026/11/pres-de-vingt-heures-dans-le-noir-microsoft-peine-retablir-outlook-et-ses-services-cloud-312381",
-      "publishedAt": "2026-11-13T13:30:05+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Disney+ gratuit se précise",
-      "url": "https://www.generation-nt.com/actualites/disney-plus-gratuit-chaines-fast-hulu-2084472",
-      "publishedAt": "2026-11-13T13:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : un vrai PC de bureau à moins de 200€ ?? Amazon l'a fait avec ce mini PC GMKtec",
-      "url": "https://www.clubic.com/bons-plans-638659-black-friday-un-vrai-pc-de-bureau-a-moins-de-200-amazon-l-a-fait-avec-ce-mini-pc-gmktec.html",
-      "publishedAt": "2026-11-13T13:23:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Boulanger retire 350 € au Google Pixel 11 pour le Black Friday, trois mois seulement après sa sortie",
-      "url": "https://www.numerama.com/tech/2373973-boulanger-retire-350-e-au-google-pixel-11-trois-mois-seulement-apres-sa-sortie.html",
-      "publishedAt": "2026-11-13T13:15:22+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Pro Basketball Manager 2027, toujours plus proche du banc de touche",
-      "url": "https://www.basketusa.com/news/957033/pro-basketball-manager-2027-toujours-plus-proche-du-banc-de-touche/",
-      "publishedAt": "2026-11-13T13:11:36+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Volkswagen améliore la recharge de ses anciens modèles électriques",
-      "url": "https://www.generation-nt.com/actualites/volkswagen-ameliore-recharge-anciens-modeles-2084424",
-      "publishedAt": "2026-11-13T13:10:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Google risque à nouveau 1,5 milliard d'euros d'amende !",
-      "url": "https://www.mac4ever.com/divers/199009-google-risque-a-nouveau-1-5-milliard-d-euros-d-amende",
-      "publishedAt": "2026-11-13T13:09:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Tim Cook à la tête de Nvidia ? Voici un petit avant-goût…",
-      "url": "https://www.macg.co/galerie/2026/11/tim-cook-la-tete-de-nvidia-voici-un-petit-avant-gout-312377",
-      "publishedAt": "2026-11-13T13:08:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Fable montre une nouvelle vidéo de gameplay qui fait très peur aux fans",
-      "url": "https://www.journaldugeek.com/2026/11/13/fable-montre-une-nouvelle-video-de-gameplay-qui-fait-tres-peur-aux-fans/",
-      "publishedAt": "2026-11-13T13:05:07+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Vous passez vos journées sous des néons au bureau ? Une étude révèle leurs effets inquiétants sur l’organisme",
-      "url": "https://www.presse-citron.net/vous-passez-journees-neons-bureau-etude-revele-effets-inquietants-lorganisme/",
-      "publishedAt": "2026-11-13T13:02:23+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Windows 11 règle un vieux problème de compatibilité entre IPv4 et IPv6 sur les réseaux d’entreprise, et ce n'est pas un détail",
-      "url": "https://www.clubic.com/actualite-639148-windows-11-regle-un-vieux-probleme-de-compatibilite-entre-ipv4-et-ipv6-sur-les-reseaux-d-entreprise-et-ce-n-est-pas-un-detail.html",
-      "publishedAt": "2026-11-13T13:01:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Test Apple TV 4K 2026 : toujours excellente, mais deux fois plus chère",
-      "url": "https://www.mac4ever.com/tv/199023-test-apple-tv-4k-2026-toujours-excellente-mais-deux-fois-plus-chere",
-      "publishedAt": "2026-11-13T12:56:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "2 nouveaux produits Apple viennent de fuiter à cause d’une bourde rarissime",
-      "url": "https://www.iphon.fr/post/2-nouveaux-produits-apple-fuite-bourde-rarissime-lunettes-airpods",
-      "publishedAt": "2026-11-13T12:47:19+00:00"
     }
   ]
 }
