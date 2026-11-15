@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:05:54.090432+00:00",
+  "generatedAt": "2026-11-15T19:01:34.890119+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T18:05:54.090432+00:00"
+      "lastSuccessAt": "2026-11-15T19:01:34.890119+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Deux fois plus de failles de sécurité recensées en 2026 qu’en 2025",
+      "url": "https://www.clubic.com/actualite-639361-deux-fois-plus-de-failles-de-securite-recensees-en-2026-qu-en-2025.html",
+      "publishedAt": "2026-11-15T18:45:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'armée ukrainienne déploie des robots dans les gazoducs souterrains",
+      "url": "https://www.generation-nt.com/actualites/robot-autonome-ukraine-gazoduc-donbass-2084238",
+      "publishedAt": "2026-11-15T18:30:01+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "En regardant des images satellites, un archéologue découvre une forteresse géante qui pourrait être une capitale oubliée",
+      "url": "https://www.journaldugeek.com/2026/11/15/en-regardant-des-images-satellites-un-archeologue-decouvre-une-forteresse-geante-qui-pourrait-etre-une-capitale-oubliee/",
+      "publishedAt": "2026-11-15T18:10:47+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Programme du soir | Les Sixers défient les Pacers dès 19h00, sur Prime Video",
@@ -1688,48 +1706,6 @@
       "title": "Lancée en pleine guerre froide, la sonde Voyager 1 de la NASA atteindra bientôt une étape folle de son périple : la semaine prochaine, elle sera à un jour-lumière de la Terre",
       "url": "https://www.journaldugeek.com/2026/11/13/lancee-pleine-guerre-froide-sonde-voyager-1-nasa-etape-folle-periple-semaine-prochaine-un-jour-lumiere-terre/",
       "publishedAt": "2026-11-13T19:02:13+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le robot Qestr abandonne l'ultramarathon polaire après trois kilomètres de course",
-      "url": "https://www.generation-nt.com/actualites/robot-qestr-abandonne-ultramarathon-polaire-2084437",
-      "publishedAt": "2026-11-13T18:55:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Les pilotes de Rafale peuvent désormais viser une cible d’un simple regard",
-      "url": "https://www.clubic.com/actualite-639271-les-pilotes-de-rafale-peuvent-desormais-viser-une-cible-d-un-simple-regard.html",
-      "publishedAt": "2026-11-13T18:50:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Hugo Gonzalez affiche ses ambitions olympiques avec l’Espagne",
-      "url": "https://www.basketusa.com/news/957272/hugo-gonzalez-affiche-ses-ambitions-olympiques-avec-lespagne/",
-      "publishedAt": "2026-11-13T18:48:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Les Spurs de Victor Wembanyama accueillent des Warriors décimés",
-      "url": "https://www.basketusa.com/news/957284/programme-du-soir-les-spurs-de-victor-wembanyama-accueillent-des-warriors-decimes/",
-      "publishedAt": "2026-11-13T18:30:30+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Cette vignette payante va être obligatoire pour tous les automobilistes dans quelques mois seulement",
-      "url": "https://www.journaldugeek.com/2026/11/13/cette-vignette-payante-sera-bientot-obligatoire-pour-tous-les-automobilistes-des-lannee-prochaine/",
-      "publishedAt": "2026-11-13T18:23:02+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un nouveau malware menace l'accès à votre boîte Gmail",
-      "url": "https://www.generation-nt.com/actualites/nouveau-malware-menace-boite-gmail-2084435",
-      "publishedAt": "2026-11-13T18:15:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "ChatGPT peut désormais payer vos achats à votre place : comment OpenAI sécurise votre carte bancaire",
-      "url": "https://www.clubic.com/actualite-639268-chatgpt-peut-desormais-payer-vos-achats-a-votre-place-comment-openai-securise-votre-carte-bancaire.html",
-      "publishedAt": "2026-11-13T18:08:00+00:00"
     }
   ]
 }
