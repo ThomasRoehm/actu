@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:12:50.892103+00:00",
+  "generatedAt": "2026-11-15T21:54:22.834525+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T21:12:50.892103+00:00"
+      "lastSuccessAt": "2026-11-15T21:54:22.834525+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "NFL semaine 10 : Buffalo assure, Kansas City rassure",
+      "url": "https://touchdownactu.com/361410/nfl-semaine-10-buffalo-assure-kansas-city-rassure/",
+      "publishedAt": "2026-11-15T21:29:49+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "LeBron James distribue face aux Pacers, Jaylen Brown et Tyrese Maxey sanctionnent",
+      "url": "https://www.basketusa.com/news/957640/lebron-james-distribue-jaylen-brown-et-tyrese-maxey-sanctionnent/",
+      "publishedAt": "2026-11-15T21:17:22+00:00"
+    },
     {
       "source": "tda",
       "title": "Packers – Vikings (10-30) : Minnesota remet Green Bay à sa place",
@@ -191,7 +203,7 @@
     },
     {
       "source": "gnt",
-      "title": "Réchauffement climatique : le cap des 1,5°C sera franchi dès 2029, bien plus tôt que prévu",
+      "title": "Réchauffement climatique : le cap mondial des 1,5°C franchi dès 2029, bien plus tôt que prévu",
       "url": "https://www.generation-nt.com/actualites/rechauffement-climatique-seuil-limite-urgence-2084485",
       "publishedAt": "2026-11-15T17:30:02+00:00"
     },
@@ -1670,12 +1682,6 @@
       "title": "Microsoft explique l'origine de la panne géante qui a paralysé Microsoft 365 pendant près de 24 heures",
       "url": "https://www.macg.co/ailleurs/2026/11/microsoft-explique-lorigine-de-la-panne-geante-qui-paralyse-microsoft-365-pendant-pres-de-24-heures-312393",
       "publishedAt": "2026-11-13T21:57:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Les secrets du tome 2 des 50 ans de souvenirs",
-      "url": "https://www.macg.co/macgeneration/2026/11/les-secrets-du-tome-2-des-50-ans-de-souvenirs-312247",
-      "publishedAt": "2026-11-13T21:51:00+00:00"
     }
   ]
 }
