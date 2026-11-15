@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T10:19:06.192476+00:00",
+  "generatedAt": "2026-11-15T11:14:36.742532+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,46 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T10:19:06.192476+00:00"
+      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Encore une soirée compliquée pour Rudy Gobert",
+      "url": "https://www.basketusa.com/news/957537/encore-une-soiree-compliquee-pour-rudy-gobert/",
+      "publishedAt": "2026-11-15T11:05:11+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Free Mobile, iOS 27.3, iPhone 18 Pro… voici les 6 articles les plus lus cette semaine sur iPhon.fr",
+      "url": "https://www.iphon.fr/post/recapitulatif-top-articles-semaine-46-2026",
+      "publishedAt": "2026-11-15T11:02:25+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "J’ai testé le Fujifilm Instax Pal 2 : le plaisir de la photo rétro vaut-il 170 euros ?",
+      "url": "https://www.presse-citron.net/fujifilm-instax-pal-2/",
+      "publishedAt": "2026-11-15T11:00:38+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Tesla réclame 299 dollars par mois pour son Cybercab et Elon Musk trouve ça trop cher",
+      "url": "https://www.clubic.com/actualite-639331-tesla-reclame-299-dollars-par-mois-pour-son-cybercab-et-elon-musk-trouve-ca-trop-cher.html",
+      "publishedAt": "2026-11-15T10:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Noah Penda prend son mal en patience",
+      "url": "https://www.basketusa.com/news/957470/noah-penda-prend-son-mal-en-patience/",
+      "publishedAt": "2026-11-15T10:28:09+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des réinfections au Covid-19 pourraient fragiliser le cerveau face à Alzheimer",
+      "url": "https://www.generation-nt.com/actualites/covid-reinfections-fragilite-cerveau-2084398",
+      "publishedAt": "2026-11-15T10:10:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "EDRi : « On a l’impression que la Commission écoute davantage ceux qui enfreignent les règles » - Interview",
@@ -299,7 +335,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Privés de leurs titulaires, les Cavaliers ont trouvé des héros inattendus",
+      "title": "Sans leurs titulaires, les Cavaliers ont trouvé des héros inattendus",
       "url": "https://www.basketusa.com/news/957534/prives-leurs-titulaires-les-cavaliers-ont-trouve-des-heros-inattendus/",
       "publishedAt": "2026-11-15T08:11:45+00:00"
     },
@@ -365,7 +401,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Knicks attendent aussi le réveil de Josh Hart",
+      "title": "Les Knicks attendent également le réveil de Josh Hart",
       "url": "https://www.basketusa.com/news/957457/les-knicks-attendent-aussi-le-reveil-de-josh-hart/",
       "publishedAt": "2026-11-15T07:03:16+00:00"
     },
@@ -2054,180 +2090,6 @@
       "title": "Une étude de 1960 avait calculé la fin du monde pour aujourd’hui, le vendredi 13 novembre 2026",
       "url": "https://www.numerama.com/sciences/2373805-une-etude-de-1960-avait-calcule-la-fin-du-monde-pour-aujourdhui-le-vendredi-13-novembre-2026.html",
       "publishedAt": "2026-11-13T11:15:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Harbor : Apple transforme vos Mac Apple Silicon en serveur d'IA locale",
-      "url": "https://www.mac4ever.com/mac/199018-harbor-apple-transforme-vos-mac-apple-silicon-en-serveur-d-ia-locale",
-      "publishedAt": "2026-11-13T11:12:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "🔴 Bonne nouvelle pour les utilisateurs de Claude : un correctif est déjà déployé pour régler la panne",
-      "url": "https://www.presse-citron.net/claude-est-aussi-en-panne-voici-ce-que-vous-pouvez-tenter-pour-lutiliser/",
-      "publishedAt": "2026-11-13T11:11:29+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Microsoft 365 (Outlook, Teams, Copilot…) est en panne : êtes-vous aussi touchés ?",
-      "url": "https://www.iphon.fr/post/panne-mondiale-microsoft-365",
-      "publishedAt": "2026-11-13T11:11:06+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "🔴 Panne Outlook, Teams, Microsoft 365 : “Les opérations de rétablissement sont en cours”, selon l’entreprise",
-      "url": "https://www.presse-citron.net/microsoft-confirme-panne-outlook-teams-microsoft-365/",
-      "publishedAt": "2026-11-13T11:07:58+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "James Webb vient de découvrir deux trous noirs qui n’auraient jamais dû exister : trop massifs, les scientifiques ne parviennent pas à expliquer comment ils ont pu se former aussi tôt",
-      "url": "https://www.presse-citron.net/james-webb-decouvrir-deux-trous-noirs-jamais-exister-trop-massifs-scientifiques-parviennent-expliquer-comment-former-aussi-tot/",
-      "publishedAt": "2026-11-13T11:02:43+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Pas d’IA, pas de Google : l’entreprise pose un ultimatum aux écoles",
-      "url": "https://www.journaldugeek.com/2026/11/13/pas-dia-pas-de-google-lentreprise-pose-un-ultimatum-aux-ecoles/",
-      "publishedAt": "2026-11-13T11:01:59+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Démission de Jensen Huang chez NVIDIA : pourquoi l'avenir de l'IA est remis en question",
-      "url": "https://www.clubic.com/actualite-639124-demission-de-jensen-huang-chez-nvidia-pourquoi-l-avenir-de-l-ia-est-remis-en-question.html",
-      "publishedAt": "2026-11-13T11:01:00+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Match NCAA de la semaine : Texas A&M – Tennessee",
-      "url": "https://touchdownactu.com/360697/match-ncaa-de-la-semaine-texas-am-tennessee/",
-      "publishedAt": "2026-11-13T11:00:44+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Agent-desktop pilote vos applis sans regarder l'écran",
-      "url": "https://korben.info/agent-desktop.html",
-      "publishedAt": "2026-11-13T10:57:03+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le Salvador déploie des chiens-robots armés en Haïti pour chasser les gangs",
-      "url": "https://www.numerama.com/tech/2373907-salvador-haiti-chiens-robots-armes.html",
-      "publishedAt": "2026-11-13T10:55:53+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "eBay simplifie la mise en vente d'objets grâce à une simple photo et beaucoup d'IA",
-      "url": "https://www.generation-nt.com/actualites/ebay-vente-photo-intelligence-artificielle-2084422",
-      "publishedAt": "2026-11-13T10:50:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "C’est parti : le Black Friday 2026 de pCloud démarre avec du stockage à vie dès 159€",
-      "url": "https://www.clubic.com/bons-plans-639142-c-est-parti-le-black-friday-2026-de-pcloud-demarre-avec-du-stockage-a-vie-des-159.html",
-      "publishedAt": "2026-11-13T10:49:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Outlook en panne : comment consulter vos mails déjà reçus et continuer à travailler",
-      "url": "https://www.clubic.com/actualite-639145-outlook-en-panne-comment-consulter-vos-mails-deja-recus-et-continuer-a-travailler.html",
-      "publishedAt": "2026-11-13T10:45:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Chatbots IA : 1 fois sur 10, ils vous montrent un site frauduleux ou abandonné",
-      "url": "https://www.clubic.com/actualite-639103-fois-sur-10-les-chatbots-ia-vous-proposeraient-de-visiter-un-site-frauduleux.html",
-      "publishedAt": "2026-11-13T10:43:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Le MacBook Neo avec 512 Go est au même prix que le modèle 256 Go",
-      "url": "https://www.iphon.fr/post/macbook-neo-512-go-meme-prix-256-go",
-      "publishedAt": "2026-11-13T10:41:13+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Après le succès de F1, Apple retrouve Brad Pitt pour un nouveau blockbuster",
-      "url": "https://www.mac4ever.com/tv/199012-apres-le-succes-de-f1-apple-retrouve-brad-pitt-pour-un-nouveau-blockbuster",
-      "publishedAt": "2026-11-13T10:41:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "TSMC grave les puces de l'IA et rachète maintenant ses clients",
-      "url": "https://korben.info/tsmc-grave-les-puces-de-lia-et-rachete-maintenant-ses-clients.html",
-      "publishedAt": "2026-11-13T10:40:59+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Les Game Awards 2026 arrivent sur Disney+, et cette année le Journal du Geek fait partie du jury",
-      "url": "https://www.journaldugeek.com/2026/11/13/les-game-awards-2026-arrivent-sur-disney-et-cette-annee-le-journal-du-geek-fait-partie-du-jury/",
-      "publishedAt": "2026-11-13T10:39:25+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Claude en panne ce vendredi 13 novembre, l'IA d'Anthropic affiche des messages d'erreur",
-      "url": "https://www.clubic.com/actualite-639139-claude-en-panne-ce-vendredi-13-novembre-l-ia-d-anthropic-affiche-des-messages-d-erreur.html",
-      "publishedAt": "2026-11-13T10:36:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Devin Booker, le point de repère des Suns",
-      "url": "https://www.basketusa.com/news/957134/devin-booker-le-point-de-repere-des-suns/",
-      "publishedAt": "2026-11-13T10:30:13+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Cdiscount Mobile : 100 Go de 5G à 9,99 € et un bon d'achat de 50 € en cadeau !",
-      "url": "https://www.generation-nt.com/actualites/forfait-cdiscount-mobile-pas-cher-bouygues-telecom-100-go-5g-black-friday-sans-engagement-bon-achat-2084408",
-      "publishedAt": "2026-11-13T10:30:02+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Panne de Claude : l’IA ne répond plus chez une partie des utilisateurs, voici ce que l’on sait",
-      "url": "https://www.numerama.com/cyberguerre/2373927-panne-de-claude-lia-ne-repond-plus-chez-une-partie-des-utilisateurs-voici-ce-que-lon-sait.html",
-      "publishedAt": "2026-11-13T10:28:46+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Drones DJI bannis, BYD au parking : l'Allemagne craint les capteurs chinois",
-      "url": "https://www.mac4ever.com/divers/199017-drones-dji-bannis-byd-au-parking-l-allemagne-craint-les-capteurs-chinois",
-      "publishedAt": "2026-11-13T10:28:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : ENFIN ! La Switch 2 passe sous les 430 €, on n’y croyait plus 🔥",
-      "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
-      "publishedAt": "2026-11-13T10:27:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Retour au fax, pas de cinéma, paiements en ligne bloqués : la panne de Microsoft engendre une pagaille en France et dans le monde",
-      "url": "https://www.numerama.com/cyberguerre/2373867-retour-au-fax-pas-de-cinema-paiements-en-ligne-bloques-la-panne-de-microsoft-engendre-une-pagaille-en-france-et-dans-le-monde.html",
-      "publishedAt": "2026-11-13T10:24:26+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Nvidia : le PDG démissionne, Donald Trump veut « Tim Apple » à sa tête",
-      "url": "https://www.iphon.fr/post/nvidia-pdg-demissionne-donald-trump-tim-apple",
-      "publishedAt": "2026-11-13T10:23:19+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Adieu « Hey Google » ? Les lunettes IA de Google, en précommande, répondent à « Hey Gemini »",
-      "url": "https://www.clubic.com/actualite-639109-adieu-hey-google-les-lunettes-ia-de-google-en-precommande-repondent-a-hey-gemini.html",
-      "publishedAt": "2026-11-13T10:22:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Netflix utilise l'IA pour des résumés de séries et d'épisodes factuels",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/netflix-utilise-lia-pour-des-resumes-de-series-et-depisodes-factuels-312373",
-      "publishedAt": "2026-11-13T10:22:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Nothing prépare un gadget IA sans affichage pour défier les smartphones",
-      "url": "https://www.generation-nt.com/actualites/nothing-gadget-ia-sans-ecran-interaction-voix-2084466",
-      "publishedAt": "2026-11-13T10:20:01+00:00"
     }
   ]
 }
