@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:14:36.742532+00:00",
+  "generatedAt": "2026-11-15T11:57:59.930313+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T11:14:36.742532+00:00"
+      "lastSuccessAt": "2026-11-15T11:57:59.930313+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Le Thunder continue de soutenir Nikola Topic",
+      "url": "https://www.basketusa.com/news/957462/le-thunder-continue-de-soutenir-nikola-topic/",
+      "publishedAt": "2026-11-15T11:49:39+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[NCAA] Semaine 11 : Texas et Utah jouent avec le feu",
+      "url": "https://touchdownactu.com/361366/ncaa-semaine-11-texas-et-utah-jouent-avec-le-feu/",
+      "publishedAt": "2026-11-15T11:40:23+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Pour le Black Friday, Back Market frappe fort sur les prix des iPhone et iPad reconditionnés, jusqu’à -64%",
+      "url": "https://www.clubic.com/bons-plans-639166-black-friday-back-market-casse-les-prix-des-iphone-et-ipad-reconditionnes-jusqu-a--64-avant-noel.html",
+      "publishedAt": "2026-11-15T11:40:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Meilleurs mangas shôjo : voici notre top 10 des œuvres incontournables à lire absolument",
+      "url": "https://www.numerama.com/pop-culture/2371755-meilleurs-mangas-shojo-voici-notre-top-10-des-oeuvres-incontournables-a-lire-absolument.html",
+      "publishedAt": "2026-11-15T11:15:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Un astronaute pakistanais va rejoindre la station spatiale chinoise",
+      "url": "https://www.generation-nt.com/actualites/tiangong-astronaute-pakistanais-shenzhou-chine-2084446",
+      "publishedAt": "2026-11-15T11:10:01+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Encore une soirée compliquée pour Rudy Gobert",
@@ -514,12 +544,6 @@
       "publishedAt": "2026-11-14T18:30:02+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "La rénovation du Moda Center dans l’impasse",
-      "url": "https://www.basketusa.com/news/957426/la-renovation-du-moda-center-dans-limpasse/",
-      "publishedAt": "2026-11-14T17:52:14+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Un Scénic qui dépanne, des nouveautés eco-scorées, trop de commandes de Cybertruck : le récap Vroom de la semaine",
       "url": "https://www.numerama.com/vroom/2374153-une-scenic-qui-depanne-des-nouveautes-eco-scorees-trop-de-commandes-de-cybertruck-le-recap-vroom-de-la-semaine.html",
@@ -560,6 +584,12 @@
       "title": "iPhone et iPad : les promos App Store apps et jeux à ne pas manquer ce week-end",
       "url": "https://www.iphon.fr/post/apps-gratuites-iphone-ipad-ios",
       "publishedAt": "2026-11-14T16:59:06+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La rénovation du Moda Center dans l’impasse",
+      "url": "https://www.basketusa.com/news/957426/la-renovation-du-moda-center-dans-limpasse/",
+      "publishedAt": "2026-11-14T16:52:14+00:00"
     },
     {
       "source": "macg",
@@ -1582,12 +1612,6 @@
       "publishedAt": "2026-11-13T15:45:52+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Pour le Black Friday, Back Market CASSE les prix des iPhone et iPad reconditionnés, jusqu’à -64% avant Noël",
-      "url": "https://www.clubic.com/bons-plans-639166-black-friday-back-market-casse-les-prix-des-iphone-et-ipad-reconditionnes-jusqu-a--64-avant-noel.html",
-      "publishedAt": "2026-11-13T15:45:00+00:00"
-    },
-    {
       "source": "numerama",
       "title": "1 220 € d’écart avec l’iPhone Duo : le Galaxy Z Fold 8 tombe à moitié prix sur Amazon pour le Black Friday",
       "url": "https://www.numerama.com/tech/2355819-1-220-e-decart-avec-liphone-duo-le-galaxy-z-fold8-tombe-a-moitie-prix-sur-amazon-pour-le-black-friday.html",
@@ -1988,108 +2012,6 @@
       "title": "Après 60 ans de règne, la Russie perd ce siège clé à l’ONU : pourquoi cette « victoire historique » compte",
       "url": "https://www.presse-citron.net/apres-60-ans-de-regne-la-russie-perd-ce-siege-cle-a-lonu-pourquoi-cette-victoire-historique-compte/",
       "publishedAt": "2026-11-13T12:00:05+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Quand Cal Bowdler commettait sept fautes en un seul match…",
-      "url": "https://www.basketusa.com/news/609115/quand-cal-bowdler-commettait-sept-fautes-en-un-seul-match/",
-      "publishedAt": "2026-11-13T11:53:59+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les lunettes connectées de Google débutent à 395 dollars",
-      "url": "https://www.generation-nt.com/actualites/lunettes-connectees-google-samsung-gemini-warby-parker-gentle-monster-2084458",
-      "publishedAt": "2026-11-13T11:50:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le Roborock Saros 10R bradé à 499€ (-49%) pour le Black Friday : du haut de gamme à prix fou !",
-      "url": "https://www.mac4ever.com/domotique/199022-le-roborock-saros-10r-brade-a-499-49-pour-le-black-friday-du-haut-de-gamme-a-prix-fou",
-      "publishedAt": "2026-11-13T11:48:13+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "La panne Microsoft 365 est un vrai carnage et désorganise le monde entier, des hôpitaux aux écoles et aux banques",
-      "url": "https://www.clubic.com/actualite-639151-la-panne-microsoft-365-est-un-vrai-carnage-et-desorganise-le-monde-entier-des-hopitaux-aux-ecoles-et-aux-banques.html",
-      "publishedAt": "2026-11-13T11:47:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Création de SASU en 2026 : les étapes de A à Z",
-      "url": "https://www.generation-nt.com/actualites/creation-sasu-etapes-statuts-2084240",
-      "publishedAt": "2026-11-13T11:40:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Test Apple HomeView : le matériel convainc, Siri et le logiciel beaucoup moins",
-      "url": "https://www.mac4ever.com/domotique/199019-test-apple-homeview-le-materiel-convainc-siri-et-le-logiciel-beaucoup-moins",
-      "publishedAt": "2026-11-13T11:39:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "11.11 AliExpress : 27 offres tech du Single Day vérifiées et encore en stock",
-      "url": "https://www.clubic.com/bons-plans-638680-c-est-le-jour-j-du-11-11-aliexpress-lance-33-offres-tech-jusqu-a-80-moins-cheres-avec-nos-codes.html",
-      "publishedAt": "2026-11-13T11:38:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "À seulement 17,99 €, cette caméra Ring d’intérieur assure votre tranquillité d’esprit",
-      "url": "https://www.iphon.fr/post/seulement-17-euros-camera-ring-interieur-tranquillite-esprit",
-      "publishedAt": "2026-11-13T11:32:09+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Crédit Agricole prépare une nouvelle banque « de premier plan » en dehors de la France",
-      "url": "https://www.presse-citron.net/credit-agricole-prepare-une-nouvelle-banque-de-premier-plan-en-dehors-de-la-france/",
-      "publishedAt": "2026-11-13T11:30:56+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Est-ce que le MCU se souviendrait enfin de ce personnage essentiel à Avengers Doomsday ?",
-      "url": "https://www.journaldugeek.com/2026/11/13/est-ce-que-le-mcu-se-souviendrait-enfin-de-ce-personnage-essentiel-a-avengers-doomsday/",
-      "publishedAt": "2026-11-13T11:30:40+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Promotions TCL Novembre 2026 : le meilleur de la technologie pour votre maison à prix réduit",
-      "url": "https://www.generation-nt.com/actualites/tcl-televiseur-tv-mini-led-lave-linge-hublot-vapeur-refrigerateur-combine-no-frost-promos-pas-cher-2084390",
-      "publishedAt": "2026-11-13T11:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Mails, documents, visio : 6 outils gratuits pour travailler sans Microsoft 365",
-      "url": "https://www.clubic.com/actualite-639154-microsoft-365-en-panne-ces-6-alternatives-gratuites-peuvent-vous-depanner.html",
-      "publishedAt": "2026-11-13T11:30:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple HomeView : que disent les premiers tests à son sujet ?",
-      "url": "https://www.iphon.fr/post/apple-homeview-tests-retours-avis",
-      "publishedAt": "2026-11-13T11:29:21+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Vous avez un smartphone Samsung ? Attention avant de migrer votre passe Navigo chez Google",
-      "url": "https://www.numerama.com/vroom/2373763-vous-avez-un-smartphone-samsung-attention-avant-de-migrer-votre-passe-navigo-chez-google.html",
-      "publishedAt": "2026-11-13T11:27:08+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "SpaceX et Tesla : la grande fusion des entreprises d'Elon Musk dès le mois prochain ?",
-      "url": "https://www.generation-nt.com/actualites/tesla-spacex-fusion-elon-musk-strategie-2084467",
-      "publishedAt": "2026-11-13T11:20:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pendant le Black Friday, ce TV 4K de 55 pouces de Samsung perd plus de 200 € sur Amazon",
-      "url": "https://www.clubic.com/bons-plans-636649-pendant-le-black-friday-ce-tv-4k-de-55-pouces-perd-presque-100-euros-sur-amazon.html",
-      "publishedAt": "2026-11-13T11:17:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Une étude de 1960 avait calculé la fin du monde pour aujourd’hui, le vendredi 13 novembre 2026",
-      "url": "https://www.numerama.com/sciences/2373805-une-etude-de-1960-avait-calcule-la-fin-du-monde-pour-aujourdhui-le-vendredi-13-novembre-2026.html",
-      "publishedAt": "2026-11-13T11:15:00+00:00"
     }
   ]
 }
