@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T08:32:22.363700+00:00",
+  "generatedAt": "2026-11-15T09:29:16.067881+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,70 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-15T08:32:22.363700+00:00"
+      "lastSuccessAt": "2026-11-15T09:29:16.067881+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Amazon brade 9 casques et écouteurs pour le Black Friday, dès 26,99€",
+      "url": "https://www.clubic.com/bons-plans-639181-black-friday-amazon-9-casques-et-ecouteurs-en-promo-de-26-99-a-499.html",
+      "publishedAt": "2026-11-15T09:22:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "« Un revenu universel infini » : épargner ne sert plus à rien selon Elon Musk, car l’IA change tout",
+      "url": "https://www.presse-citron.net/un-revenu-universel-infini-epargner-ne-sert-plus-a-rien-selon-elon-musk-car-lia-change-tout/",
+      "publishedAt": "2026-11-15T09:13:29+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "C’est confirmé : il faudra bientôt passer une visite médicale pour garder votre permis de conduire",
+      "url": "https://www.presse-citron.net/cest-confirme-il-faudra-bientot-passer-une-visite-medicale-pour-garder-votre-permis-de-conduire/",
+      "publishedAt": "2026-11-15T09:08:17+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Kyrie Irving célébré mais humilié à Cleveland",
+      "url": "https://www.basketusa.com/news/957533/kyrie-irving-celebre-mais-humilie-a-cleveland/",
+      "publishedAt": "2026-11-15T09:05:57+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Meurtre à l’Apple Park : l’affaire de la semaine qui a secoué Cupertino",
+      "url": "https://www.iphon.fr/post/employe-apple-tue-fillette-deux-ans-pres-apple-park",
+      "publishedAt": "2026-11-15T09:03:54+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Cette app française connaît mieux votre Tesla que l’app Tesla",
+      "url": "https://www.numerama.com/tech/2373571-cette-app-francaise-connait-mieux-votre-tesla-que-lapp-tesla.html",
+      "publishedAt": "2026-11-15T09:03:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "J’ai fait 200 km avec la nouvelle Dacia Spring : rouler en voiture n’a jamais été aussi peu cher",
+      "url": "https://www.presse-citron.net/200-km-avec-nouvelle-dacia-spring-rouler-voiture-jamais-ete-aussi-peu-cher/",
+      "publishedAt": "2026-11-15T09:00:38+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Dans l’affaire NVIDIA Singapour dit manquer de preuves pour poursuivre Alice Huang",
+      "url": "https://www.clubic.com/actualite-639325-dans-l-affaire-nvidia-singapour-dit-manquer-de-preuves-pour-poursuivre-alice-huang.html",
+      "publishedAt": "2026-11-15T09:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Marcus Smart suspendu, Fred VanVleet pourrait faire une entorse à son plan de reprise",
+      "url": "https://www.basketusa.com/news/957540/marcus-smart-suspendu-fred-vanvleet-pourrait-faire-une-entorse-a-son-plan-de-reprise/",
+      "publishedAt": "2026-11-15T08:40:20+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Essai Volvo ES90 sur 3000Km : à ce prix, le Premium européen est-il encore pertinent ?",
+      "url": "https://www.mac4ever.com/auto/199020-essai-volvo-es90-sur-3000km-a-ce-prix-le-premium-europeen-est-il-encore-pertinent",
+      "publishedAt": "2026-11-15T08:37:05+00:00"
+    },
     {
       "source": "clubic",
       "title": "Pourquoi les États-Unis ont cloué des avions au sol dans tout le pays pendant plus de quatre heures",
@@ -146,6 +206,12 @@
       "title": "Jusqu’à 600 € d’économie chez Samsung : le TV OLED S92H en tête des promos Black Friday",
       "url": "https://www.clubic.com/bons-plans-639211-jusqu-a-899-d-economies-chez-boulanger-les-13-offres-black-friday-a-ne-pas-manquer.html",
       "publishedAt": "2026-11-15T08:20:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Affaire Jensen Huang : espionnage, liaisons, démission… tout comprendre au scandale Nvidia",
+      "url": "https://www.presse-citron.net/affaire-jensen-huang-nvidia-tout-savoir/",
+      "publishedAt": "2026-11-15T08:19:43+00:00"
     },
     {
       "source": "basketusa",
@@ -193,7 +259,7 @@
       "source": "macg",
       "title": "L'aventure Apple : 68 030 €, 1 000 ventes et un douloureux rappel de l'ère iPod",
       "url": "https://www.macg.co/macgeneration/2026/11/laventure-apple-68-030-eu-1-000-ventes-et-un-douloureux-rappel-de-lere-ipod-312407",
-      "publishedAt": "2026-11-15T07:30:16+00:00"
+      "publishedAt": "2026-11-15T07:30:00+00:00"
     },
     {
       "source": "clubic",
@@ -1099,7 +1165,7 @@
       "source": "macg",
       "title": "Microsoft explique l'origine de la panne géante qui a paralysé Microsoft 365 pendant près de 24 heures",
       "url": "https://www.macg.co/ailleurs/2026/11/microsoft-explique-lorigine-de-la-panne-geante-qui-paralyse-microsoft-365-pendant-pres-de-24-heures-312393",
-      "publishedAt": "2026-11-13T21:57:55+00:00"
+      "publishedAt": "2026-11-13T21:57:00+00:00"
     },
     {
       "source": "macg",
@@ -1346,12 +1412,6 @@
       "title": "Digital Fairness Act : l'Europe s'attaque aux travers de la tech",
       "url": "https://www.generation-nt.com/actualites/digital-fairness-act-pieges-tech-2084431",
       "publishedAt": "2026-11-13T16:10:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Amazon : 9 casques et écouteurs en promo, de 26,99€ à 499€",
-      "url": "https://www.clubic.com/bons-plans-639181-black-friday-amazon-9-casques-et-ecouteurs-en-promo-de-26-99-a-499.html",
-      "publishedAt": "2026-11-13T16:10:00+00:00"
     },
     {
       "source": "tda",
@@ -2210,168 +2270,6 @@
       "title": "NordVPN lance son Black Friday : jusqu’à -78 % et un VPN dès 2,99 €/mois",
       "url": "https://www.clubic.com/bons-plans-635581-nordvpn-lance-son-black-friday-jusqu-a--78-et-un-vpn-des-2-99-mois.html",
       "publishedAt": "2026-11-13T09:30:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La Fnac fait chuter le SSD Lexar Play 2 To pour PS5 au moment où GTA 6 réclame 212 Go",
-      "url": "https://www.numerama.com/tech/2373593-la-fnac-fait-chuter-le-ssd-lexar-play-2-to-pour-ps5-au-moment-ou-gta-6-reclame-212-go.html",
-      "publishedAt": "2026-11-13T09:25:28+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "SpaceX va tenter de récupérer les deux étages de Starship : comment suivre le lancement historique aujourd'hui ?",
-      "url": "https://www.clubic.com/actualite-639106-spacex-va-tenter-de-recuperer-les-deux-etages-de-starship-comment-suivre-le-lancement-historique-aujourd-hui.html",
-      "publishedAt": "2026-11-13T09:25:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Jensen Huang, patron historique et co-fondateur de Nvidia quitte l’entreprise !",
-      "url": "https://www.journaldugeek.com/2026/11/13/jensen-huang-patron-historique-et-co-fondateur-de-nvidia-quitte-lentreprise/",
-      "publishedAt": "2026-11-13T09:24:35+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« Ramenez LE patron » : chez Nvidia, des salariés réclament le retour de Jensen Huang",
-      "url": "https://www.numerama.com/tech/2373549-ramenez-le-patron-chez-nvidia-des-salaries-reclament-le-retour-de-jensen-huang.html",
-      "publishedAt": "2026-11-13T09:24:23+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Mikal Bridges a le soutien des Knicks… mais jusqu’à quand ?",
-      "url": "https://www.basketusa.com/news/957053/mikal-bridges-garde-le-soutien-des-knicks-mais-jusqua-quand/",
-      "publishedAt": "2026-11-13T09:22:22+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Face à la concurrence chinoise, Mercedes-Benz gèle ses investissements et menace de délocaliser",
-      "url": "https://www.generation-nt.com/actualites/mercedes-benz-fermeture-usines-delocalisation-concurrence-2084464",
-      "publishedAt": "2026-11-13T09:20:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Volvo EX50 : les batteries de l'EX60 et 650 km pour moins de 50 000 euros",
-      "url": "https://www.mac4ever.com/auto/199013-volvo-ex50-les-batteries-de-l-ex60-et-650-km-pour-moins-de-50-000-euros",
-      "publishedAt": "2026-11-13T09:15:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Top 3 du jour : EcoFlow DELTA 3 Max à 949€, Google Pixel 11 Pro à 899€ et SSD Lexar Play 2 To à 199€",
-      "url": "https://www.generation-nt.com/actualites/ecoflow-delta-3-max-station-electrique-google-pixel-11-pro-ssd-lexar-play-2-to-dissipateur-ps5-promos-pas-cher-2084463",
-      "publishedAt": "2026-11-13T09:10:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Vous pouvez désormais voir Avengers: Endgame Extended en streaming, mais c’est une perte de temps",
-      "url": "https://www.numerama.com/pop-culture/2373557-vous-pouvez-desormais-voir-avengers-endgame-extended-en-streaming-mais-cest-une-perte-de-temps.html",
-      "publishedAt": "2026-11-13T09:09:42+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L'iPhone 17 Pro est en promo : faut-il vraiment dépenser plus pour l’iPhone 18 Pro ?",
-      "url": "https://www.mac4ever.com/iphone/199015-l-iphone-17-pro-est-en-promo-faut-il-vraiment-depenser-plus-pour-l-iphone-18-pro",
-      "publishedAt": "2026-11-13T09:07:40+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le Navigo sur Android bascule chez Google : on vous explique ce que vous devez faire",
-      "url": "https://www.numerama.com/vroom/2373579-le-navigo-sur-android-bascule-entierement-chez-google-on-vous-explique-ce-qui-change-pour-vous.html",
-      "publishedAt": "2026-11-13T09:00:28+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Exclu : on a testé le Xiaomi 18 Pro Max en photo, une nouvelle référence sur Android ?",
-      "url": "https://www.presse-citron.net/exclu-on-a-teste-le-xiaomi-18-pro-max-en-photo-une-nouvelle-reference-sur-android/",
-      "publishedAt": "2026-11-13T09:00:23+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "On a testé la photo du Xiaomi 18 Pro Max, on est dans la continuité !",
-      "url": "https://www.journaldugeek.com/test/on-a-teste-la-photo-du-xiaomi-18-pro-max-on-est-dans-la-continuite/",
-      "publishedAt": "2026-11-13T09:00:06+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "17 900 € et 250 km d’autonomie : la Dacia Spring s’améliore sur tous les points, mais garde ce défaut historique",
-      "url": "https://www.presse-citron.net/17-900-euros-250-km-autonomie-dacia-spring-ameliore-tous-points-mais-garde-defaut-historique/",
-      "publishedAt": "2026-11-13T09:00:05+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Test Samsung R95H : faut-il encore choisir l’OLED les yeux fermés ?",
-      "url": "https://www.clubic.com/test-produit-637117-test-samsung-r95h-faut-il-encore-choisir-l-oled-les-yeux-fermes.html",
-      "publishedAt": "2026-11-13T09:00:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Le Pass Navigo arrive enfin sur Google Wallet, avec la nouveauté que tout le monde attendait",
-      "url": "https://www.journaldugeek.com/2026/11/13/le-pass-navigo-arrive-enfin-sur-google-wallet-avec-la-nouveaute-que-tout-le-monde-attendait/",
-      "publishedAt": "2026-11-13T09:00:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Panne Outlook, Teams, Microsoft 365 : ce que l’on sait de la panne mondiale de Microsoft, toujours pas réglée",
-      "url": "https://www.journaldugeek.com/2026/11/13/panne-outlook-teams-microsoft-365-ce-que-lon-sait-de-la-panne-mondiale-de-microsoft-toujours-pas-reglee/",
-      "publishedAt": "2026-11-13T08:58:53+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La Nike Ja 4 « Unseen » ne passe pas inaperçue",
-      "url": "https://www.basketusa.com/news/957043/la-nike-ja-4-unseen-ne-passe-pas-inapercue/",
-      "publishedAt": "2026-11-13T08:57:44+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Panne Microsoft 365 : Outlook et Teams KO pendant plus de douze heures",
-      "url": "https://www.mac4ever.com/mac/199014-panne-microsoft-365-outlook-et-teams-ko-pendant-plus-de-douze-heures",
-      "publishedAt": "2026-11-13T08:56:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Panne de Microsoft 365 : relancer Outlook toutes les 5 minutes ne sert à rien, où suivre l’état du service en temps réel",
-      "url": "https://www.numerama.com/tech/2373565-panne-de-microsoft-365-relancer-outlook-toutes-les-5-minutes-ne-sert-a-rien-ou-suivre-letat-du-service-en-temps-reel.html",
-      "publishedAt": "2026-11-13T08:55:40+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Firefox : vous pouvez désormais tester Mini Window en version stable",
-      "url": "https://www.clubic.com/actualite-639019-firefox-160.html",
-      "publishedAt": "2026-11-13T08:54:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Noctua lance un pad thermique en nanotubes de carbone pour processeurs AMD",
-      "url": "https://www.generation-nt.com/actualites/noctua-pad-thermique-nanotubes-amd-2084418",
-      "publishedAt": "2026-11-13T08:50:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "NordVPN veut désormais vous montrer toutes les traces que vous laissez sur Internet",
-      "url": "https://www.clubic.com/actualite-639115-nordvpn-veut-desormais-vous-montrer-toutes-les-traces-que-vous-laissez-sur-internet.html",
-      "publishedAt": "2026-11-13T08:49:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Erin Brockovich, seule contre tous (les data centers) !",
-      "url": "https://www.mac4ever.com/divers/198988-erin-brockovich-seule-contre-tous-les-data-centers",
-      "publishedAt": "2026-11-13T08:47:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple fait don de 25 000 Mac et iPad : voici les heureux élus",
-      "url": "https://www.iphon.fr/post/apple-fait-don-25-000-mac-ipad-voici-heureux-elus",
-      "publishedAt": "2026-11-13T08:42:06+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Gemini 4 Hydrogen débarque dans Google Search, « la plus grosse mise à jour de modèle » de son histoire",
-      "url": "https://www.clubic.com/actualite-639118-gemini-4-hydrogen-debarque-dans-google-search-la-plus-grosse-mise-a-jour-de-modele-de-son-histoire.html",
-      "publishedAt": "2026-11-13T08:39:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Mercedes-Benz : la production de futurs modèles menacée en Allemagne",
-      "url": "https://www.numerama.com/vroom/2373525-mercedes-benz-la-production-de-futurs-modeles-menacee-en-allemagne.html",
-      "publishedAt": "2026-11-13T08:37:50+00:00"
     }
   ]
 }
