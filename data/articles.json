@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:30:39.802630+00:00",
+  "generatedAt": "2026-11-16T23:20:01.381918+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T22:30:39.802630+00:00"
+      "lastSuccessAt": "2026-11-16T23:20:01.381918+00:00"
     }
   ],
   "articles": [
@@ -448,12 +448,6 @@
       "publishedAt": "2026-11-16T16:13:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le jour où Amar’e Stoudemire s’est pris pour Wilt Chamberlain",
-      "url": "https://www.basketusa.com/news/609316/happy-birthday-le-match-a-50-points-du-jeune-amare-stoudemire/",
-      "publishedAt": "2026-11-16T16:11:42+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Cette marque de moto vaut 1,2 milliard d’euros dans un secteur où les faillites se succèdent",
       "url": "https://www.numerama.com/vroom/2375575-cette-marque-de-moto-vaut-12-milliard-deuros-dans-un-secteur-ou-les-faillites-se-succedent.html",
@@ -578,6 +572,12 @@
       "title": "Pour Scott Bessent, NVIDIA doit chercher un nouveau PDG au dehors de l'entreprise",
       "url": "https://www.clubic.com/actualite-639523-pour-scott-bessent-nvidia-doit-chercher-un-nouveau-pdg-au-dehors-de-l-entreprise.html",
       "publishedAt": "2026-11-16T15:12:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le jour où Amar’e Stoudemire s’est pris pour Wilt Chamberlain",
+      "url": "https://www.basketusa.com/news/609316/happy-birthday-le-match-a-50-points-du-jeune-amare-stoudemire/",
+      "publishedAt": "2026-11-16T15:11:42+00:00"
     },
     {
       "source": "gnt",
@@ -994,6 +994,12 @@
       "publishedAt": "2026-11-16T12:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Jason Kidd, le mentor que LeBron James vient de dépasser",
+      "url": "https://www.basketusa.com/news/957868/jason-kidd-le-mentor-que-lebron-james-vient-de-depasser/",
+      "publishedAt": "2026-11-16T11:56:47+00:00"
+    },
+    {
       "source": "presse",
       "title": "La fièvre Anthropic arrive à Wall Street : la demande dépasserait largement le nombre d’actions disponibles",
       "url": "https://www.presse-citron.net/la-fievre-anthropic-arrive-a-wall-street-la-demande-depasserait-largement-le-nombre-dactions-disponibles/",
@@ -1130,12 +1136,6 @@
       "title": "La barre de son Sonos Arc Ultra à prix cassé pour le Black Friday : Dolby Atmos et AirPlay 2 !",
       "url": "https://www.mac4ever.com/audio/199053-la-barre-de-son-sonos-arc-ultra-a-prix-casse-pour-le-black-friday-dolby-atmos-et-airplay-2",
       "publishedAt": "2026-11-16T10:57:37+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jason Kidd, le mentor que LeBron James vient de dépasser",
-      "url": "https://www.basketusa.com/news/957868/jason-kidd-le-mentor-que-lebron-james-vient-de-depasser/",
-      "publishedAt": "2026-11-16T10:56:47+00:00"
     },
     {
       "source": "numerama",
