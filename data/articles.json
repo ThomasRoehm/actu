@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T17:33:53.066971+00:00",
+  "generatedAt": "2026-11-16T18:35:25.445003+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,82 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T17:33:53.066971+00:00"
+      "lastSuccessAt": "2026-11-16T18:35:25.445003+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Six jours après Orange, Bouygues Telecom riposte avec six mois de Google AI Plus gratuits",
+      "url": "https://www.clubic.com/actualite-639544-six-jours-apres-orange-bouygues-telecom-riposte-avec-six-mois-de-google-ai-plus-gratuits.html",
+      "publishedAt": "2026-11-16T18:33:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Un jeu Zelda culte de la 3DS s'affiche sur Switch",
+      "url": "https://www.generation-nt.com/actualites/zelda-3ds-switch-online-2084521",
+      "publishedAt": "2026-11-16T18:20:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Apple change d’avis sur l’iPhone Duo : la reconnaissance faciale arrive",
+      "url": "https://www.numerama.com/tech/2374873-apple-change-davis-sur-liphone-duo-la-reconnaissance-faciale-arrive.html",
+      "publishedAt": "2026-11-16T18:16:59+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Apple déploie les bêtas 2 d’iOS 27.3, macOS 27.3 et de ses autres systèmes",
+      "url": "https://www.mac4ever.com/divers/198942-apple-deploie-les-betas-2-d-ios-27-3-macos-27-3-et-de-ses-autres-systemes",
+      "publishedAt": "2026-11-16T18:13:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les médias de LVMH signent avec OpenAI",
+      "url": "https://www.generation-nt.com/actualites/lvmh-pole-medias-openai-echos-parisien-chatgpt-2084581",
+      "publishedAt": "2026-11-16T18:10:01+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Des chercheurs ont mis au point des muscles artificiels pour robots : une avancée dérangeante qui rapproche les machines du corps humain",
+      "url": "https://www.journaldugeek.com/2026/11/16/chercheurs-mis-au-point-muscles-artificiels-pour-robots-avancee-derangeante-rapproche-machines-corps-humain/",
+      "publishedAt": "2026-11-16T18:02:49+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Nouveau coup dur pour GG Jackson",
+      "url": "https://www.basketusa.com/news/958070/nouveau-coup-dur-pour-gg-jackson/",
+      "publishedAt": "2026-11-16T18:02:02+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Blanchiment, mafia… Revolut sous tutelle judiciaire en Italie : la néobanque a laissé passer des millions d’euros suspects",
+      "url": "https://www.presse-citron.net/blanchiment-mafia-revolut-sous-tutelle-judiciaire-en-italie-la-neobanque-a-laisse-passer-des-millions-deuros-suspects/",
+      "publishedAt": "2026-11-16T18:00:10+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Bouygues Telecom vous fait cadeau de Google AI Plus",
+      "url": "https://www.generation-nt.com/actualites/bouygues-telecom-google-ai-plus-six-mois-2084576",
+      "publishedAt": "2026-11-16T17:50:01+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Un Mac propre et sécurisé pour le Black Friday : -50 % sur Intego ONE Avancé & Total !",
+      "url": "https://www.mac4ever.com/securite/199062-un-mac-propre-et-securise-pour-le-black-friday-50-sur-intego-one-avance-total",
+      "publishedAt": "2026-11-16T17:39:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Arthrose du pouce : enfin une vraie alternative à l'ablation osseuse !",
+      "url": "https://www.generation-nt.com/actualites/arthrose-pouce-alternative-ablation-os-2084525",
+      "publishedAt": "2026-11-16T17:35:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les cinq majeurs de la semaine | Franz Wagner prend le pouvoir",
+      "url": "https://www.basketusa.com/news/957915/les-cinq-majeurs-de-la-semaine-franz-wagner-prend-le-pouvoir-au-magic/",
+      "publishedAt": "2026-11-16T17:30:30+00:00"
+    },
     {
       "source": "clubic",
       "title": "Verisure lance la « Garantie Anti-Cambriolage, protégé ou remboursé » : un nouvel engagement pour la sécurité de votre maison",
@@ -736,6 +808,12 @@
       "publishedAt": "2026-11-16T13:00:02+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Jason Kidd, le mentor que LeBron James vient de dépasser",
+      "url": "https://www.basketusa.com/news/957868/jason-kidd-le-mentor-que-lebron-james-vient-de-depasser/",
+      "publishedAt": "2026-11-16T12:56:47+00:00"
+    },
+    {
       "source": "presse",
       "title": "Le groupe Casino change de nom : un vrai tournant pour le géant français de la grande distribution",
       "url": "https://www.presse-citron.net/le-groupe-casino-change-de-nom-un-vrai-tournant-pour-le-geant-francais-de-la-grande-distribution/",
@@ -830,12 +908,6 @@
       "title": "Harry Potter : un nouvel extrait de la série HBO se fait humilier sur les réseaux sociaux",
       "url": "https://www.numerama.com/pop-culture/2375203-harry-potter-un-nouvel-extrait-de-la-serie-hbo-se-fait-humilier-sur-les-reseaux-sociaux.html",
       "publishedAt": "2026-11-16T12:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jason Kidd, le mentor que LeBron James vient de dépasser",
-      "url": "https://www.basketusa.com/news/957868/jason-kidd-le-mentor-que-lebron-james-vient-de-depasser/",
-      "publishedAt": "2026-11-16T11:56:47+00:00"
     },
     {
       "source": "presse",
@@ -2468,24 +2540,6 @@
       "title": "500 000 kilomètres sans aucune panne : voici la voiture la plus solide d’après les contrôleurs techniques français",
       "url": "https://www.presse-citron.net/500-000-kilometres-sans-aucune-panne-voici-la-voiture-la-plus-solide-dapres-les-controleurs-techniques-francais/",
       "publishedAt": "2026-11-14T19:14:38+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le télescope spatial européen Euclid dévoile un premier catalogue de 900 millions d'astres !",
-      "url": "https://www.generation-nt.com/actualites/euclid-telescope-spatial-esa-catalogue-etoiles-2084401",
-      "publishedAt": "2026-11-14T18:30:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La rénovation du Moda Center dans l’impasse",
-      "url": "https://www.basketusa.com/news/957426/la-renovation-du-moda-center-dans-limpasse/",
-      "publishedAt": "2026-11-14T17:52:14+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Un Scénic qui dépanne, des nouveautés eco-scorées, trop de commandes de Cybertruck : le récap Vroom de la semaine",
-      "url": "https://www.numerama.com/vroom/2374153-une-scenic-qui-depanne-des-nouveautes-eco-scorees-trop-de-commandes-de-cybertruck-le-recap-vroom-de-la-semaine.html",
-      "publishedAt": "2026-11-14T17:42:00+00:00"
     }
   ]
 }
