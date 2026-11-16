@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:34:23.242589+00:00",
+  "generatedAt": "2026-11-16T21:32:40.694618+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
+      "lastSuccessAt": "2026-11-16T21:32:40.694618+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Des boîtiers de GTA 6 livrés sans disques, ni codes de téléchargement",
+      "url": "https://www.generation-nt.com/actualites/gta-6-boitiers-sans-code-2084513",
+      "publishedAt": "2026-11-16T20:35:01+00:00"
+    },
     {
       "source": "numerama",
       "title": "Entre Orange en octobre et SFR en novembre, la 2G disparaît de France en quelques semaines",
@@ -166,10 +172,22 @@
       "publishedAt": "2026-11-16T19:53:44+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Charlotte Hornets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957995/los-angeles-lakers-charlotte-hornets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-16T19:51:10+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Xbox officialise Wolfenstein 3 et enrichit son catalogue PC pour ses 25 ans",
       "url": "https://www.generation-nt.com/actualites/xbox-annonce-wolfenstein-3-pc-2084509",
       "publishedAt": "2026-11-16T19:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Joueurs de la semaine | Victor Wembanyama encore récompensé !",
+      "url": "https://www.basketusa.com/news/958099/joueurs-de-la-semaine-victor-wembanyama-encore-recompense/",
+      "publishedAt": "2026-11-16T19:47:28+00:00"
     },
     {
       "source": "gnt",
@@ -194,12 +212,6 @@
       "title": "Microsoft Outlook, Teams : on connait enfin la cause de la panne géante de vendredi",
       "url": "https://www.journaldugeek.com/2026/11/16/microsoft-outlook-teams-on-connait-enfin-la-cause-de-la-panne-geante-de-vendredi/",
       "publishedAt": "2026-11-16T19:02:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Charlotte Hornets : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957995/los-angeles-lakers-charlotte-hornets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-16T18:51:10+00:00"
     },
     {
       "source": "gnt",
@@ -899,12 +911,6 @@
     },
     {
       "source": "basketusa",
-      "title": "San Antonio Spurs – Detroit Pistons : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957864/san-antonio-spurs-detroit-pistons-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-16T12:54:33+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "New Orleans Pelicans – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/957616/new-orleans-pelicans-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-16T12:50:18+00:00"
@@ -992,6 +998,12 @@
       "title": "La fièvre Anthropic arrive à Wall Street : la demande dépasserait largement le nombre d’actions disponibles",
       "url": "https://www.presse-citron.net/la-fievre-anthropic-arrive-a-wall-street-la-demande-depasserait-largement-le-nombre-dactions-disponibles/",
       "publishedAt": "2026-11-16T11:56:31+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "San Antonio Spurs – Detroit Pistons : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957864/san-antonio-spurs-detroit-pistons-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-16T11:54:33+00:00"
     },
     {
       "source": "basketusa",
