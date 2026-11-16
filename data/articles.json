@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:07:37.677057+00:00",
+  "generatedAt": "2026-11-16T05:41:53.127189+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T04:07:37.677057+00:00"
+      "lastSuccessAt": "2026-11-16T05:41:53.127189+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Dylan Harper renverse le Jazz dans le « money time »",
+      "url": "https://www.basketusa.com/news/957692/dylan-harper-renverse-le-jazz-dans-le-money-time/",
+      "publishedAt": "2026-11-16T05:33:16+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Luka Doncic (43 points) et les Lakers font le grand huit à Phoenix",
+      "url": "https://www.basketusa.com/news/957650/luka-doncic-43-points-et-les-lakers-font-le-grand-huit-a-phoenix/",
+      "publishedAt": "2026-11-16T05:22:39+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "L'aventure Apple : 68 030 €, 1 000 ventes et un douloureux rappel de l'ère iPod",
+      "url": "https://www.macg.co/macgeneration/2026/11/laventure-apple-68-030-eu-1-000-ventes-et-un-douloureux-rappel-de-lere-ipod-312407",
+      "publishedAt": "2026-11-15T22:30:00+00:00"
+    },
     {
       "source": "tda",
       "title": "NFL semaine 10 : Smith-Njigba trop puissant, les 49ers font le show à Dallas",
@@ -142,16 +160,16 @@
       "publishedAt": "2026-11-15T21:29:49+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "LeBron James distribue face aux Pacers, Jaylen Brown et Tyrese Maxey sanctionnent",
-      "url": "https://www.basketusa.com/news/957640/lebron-james-distribue-jaylen-brown-et-tyrese-maxey-sanctionnent/",
-      "publishedAt": "2026-11-15T21:17:22+00:00"
-    },
-    {
       "source": "tda",
       "title": "Packers – Vikings (10-30) : Minnesota remet Green Bay à sa place",
       "url": "https://touchdownactu.com/361413/packers-vikings-10-30-minnesota-remet-green-bay-a-sa-place/",
       "publishedAt": "2026-11-15T21:09:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "LeBron James distribue face aux Pacers, Jaylen Brown et Tyrese Maxey sanctionnent",
+      "url": "https://www.basketusa.com/news/957640/lebron-james-distribue-jaylen-brown-et-tyrese-maxey-sanctionnent/",
+      "publishedAt": "2026-11-15T20:17:22+00:00"
     },
     {
       "source": "clubic",
@@ -262,22 +280,10 @@
       "publishedAt": "2026-11-15T16:50:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Jonathan Abrams raconte le grand rendez-vous manqué d’OKC",
-      "url": "https://www.basketusa.com/news/957434/jonathan-abrams-raconte-le-grand-rendez-vous-manque-du-thunder/",
-      "publishedAt": "2026-11-15T16:45:09+00:00"
-    },
-    {
       "source": "gnt",
       "title": "SpaceX réussit sa première capture du vaisseau Starship à son retour d'orbite !",
       "url": "https://www.generation-nt.com/actualites/spacex-starship-recuperation-vaisseau-pinces-chopstick-mechazilla-2084506",
       "publishedAt": "2026-11-15T16:30:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "L'aventure Apple : 68 030 €, 1 000 ventes et un douloureux rappel de l'ère iPod",
-      "url": "https://www.macg.co/macgeneration/2026/11/laventure-apple-68-030-eu-1-000-ventes-et-un-douloureux-rappel-de-lere-ipod-312407",
-      "publishedAt": "2026-11-15T16:30:00+00:00"
     },
     {
       "source": "macg",
@@ -310,6 +316,12 @@
       "publishedAt": "2026-11-15T15:46:36+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Jonathan Abrams raconte le grand rendez-vous manqué d’OKC",
+      "url": "https://www.basketusa.com/news/957434/jonathan-abrams-raconte-le-grand-rendez-vous-manque-du-thunder/",
+      "publishedAt": "2026-11-15T15:45:09+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Avec Gallop, Asus installe dès à présent un robot humanoïde dans ses usines",
       "url": "https://www.generation-nt.com/actualites/asus-gallop-robot-humanoide-travail-usine-electronique-2084473",
@@ -332,12 +344,6 @@
       "title": "Cette astuce va sauver vos photos faites à l’iPhone cet automne",
       "url": "https://www.iphon.fr/post/astuce-photo-automne-iphone",
       "publishedAt": "2026-11-15T15:06:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Meilleur passeur de NBA, Davion Mitchell a changé de dimension",
-      "url": "https://www.basketusa.com/news/957586/meilleur-passeur-de-nba-davion-mitchell-a-change-de-dimension/",
-      "publishedAt": "2026-11-15T15:03:17+00:00"
     },
     {
       "source": "presse",
@@ -389,27 +395,15 @@
     },
     {
       "source": "basketusa",
+      "title": "Meilleur passeur de NBA, Davion Mitchell a changé de dimension",
+      "url": "https://www.basketusa.com/news/957586/meilleur-passeur-de-nba-davion-mitchell-a-change-de-dimension/",
+      "publishedAt": "2026-11-15T14:03:17+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Un match déclic pour Alex Sarr aux côtés d’Anthony Davis ?",
       "url": "https://www.basketusa.com/news/957562/un-match-declic-pour-alex-sarr-aux-cotes-danthony-davis/",
       "publishedAt": "2026-11-15T13:56:43+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Cleveland Cavaliers – Chicago Bulls : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957610/cleveland-cavaliers-chicago-bulls-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-15T13:53:47+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957558/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-15T13:50:04+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Utah Jazz – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957554/utah-jazz-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-15T13:47:56+00:00"
     },
     {
       "source": "clubic",
@@ -488,6 +482,24 @@
       "title": "Rencontre sous haute tension : les 5 enjeux du sommet entre Donald Trump et Xi Jinping cette semaine",
       "url": "https://www.presse-citron.net/rencontre-sous-haute-tension-les-5-enjeux-du-sommet-entre-trump-et-xi-jinping-cette-semaine/",
       "publishedAt": "2026-11-15T13:00:41+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Cleveland Cavaliers – Chicago Bulls : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957610/cleveland-cavaliers-chicago-bulls-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-15T12:53:47+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957558/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-15T12:50:04+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Utah Jazz – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957554/utah-jazz-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-15T12:47:56+00:00"
     },
     {
       "source": "basketusa",
@@ -1646,18 +1658,6 @@
       "title": "Les Spurs ne font qu’une bouchée des Warriors",
       "url": "https://www.basketusa.com/news/957303/les-spurs-ne-font-quune-bouchee-des-warriors/",
       "publishedAt": "2026-11-14T05:48:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Giannis Antetokounmpo et Bam Adebayo écrasent les Cavaliers",
-      "url": "https://www.basketusa.com/news/957310/bam-adebayo-et-giannis-antetokounmpo-mettent-k-o-les-cavaliers/",
-      "publishedAt": "2026-11-14T05:41:53+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Pacers jouent avec le feu mais font tomber les Knicks !",
-      "url": "https://www.basketusa.com/news/957301/les-pacers-jouent-avec-le-feu-mais-font-tomber-les-knicks/",
-      "publishedAt": "2026-11-14T05:17:59+00:00"
     }
   ]
 }
