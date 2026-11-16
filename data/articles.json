@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T19:42:58.877359+00:00",
+  "generatedAt": "2026-11-16T20:34:23.242589+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,52 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-16T19:42:58.877359+00:00"
+      "lastSuccessAt": "2026-11-16T20:34:23.242589+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Entre Orange en octobre et SFR en novembre, la 2G disparaît de France en quelques semaines",
+      "url": "https://www.numerama.com/tech/2375261-entre-orange-en-octobre-et-sfr-en-novembre-la-2g-disparait-de-france-en-quelques-semaines.html",
+      "publishedAt": "2026-11-16T20:32:52+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "iOS 27.3 : l’iPhone Duo se déverrouille enfin avec le visage, mais ce n'est pas Face ID !",
+      "url": "https://www.mac4ever.com/iphone/199066-ios-27-3-l-iphone-duo-se-deverrouille-enfin-avec-le-visage-mais-ce-n-est-pas-face-id",
+      "publishedAt": "2026-11-16T20:21:51+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Toronto remporte la lottery de la Draft WNBA 2027 et rêve de JuJu Watkins",
+      "url": "https://www.basketusa.com/news/958089/toronto-remporte-la-lottery-de-la-draft-wnba-2027-et-reve-de-juju-watkins/",
+      "publishedAt": "2026-11-16T20:18:16+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Samsung fabriquerait au Texas des puces pour Starlink",
+      "url": "https://www.clubic.com/actualite-639565-samsung-fabriquerait-au-texas-des-puces-pour-starlink.html",
+      "publishedAt": "2026-11-16T20:15:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Progamme du soir | Les Celtics accueillent le Magic sur beIN Sports 1",
+      "url": "https://www.basketusa.com/news/958083/progamme-du-soir-les-celtics-accueillent-le-magic-sur-bein-sports-1/",
+      "publishedAt": "2026-11-16T19:53:44+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Xbox officialise Wolfenstein 3 et enrichit son catalogue PC pour ses 25 ans",
+      "url": "https://www.generation-nt.com/actualites/xbox-annonce-wolfenstein-3-pc-2084509",
+      "publishedAt": "2026-11-16T19:50:01+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Piratage chez La Poste : le parquet de Paris confie l'enquête à la brigade cyber",
+      "url": "https://www.generation-nt.com/actualites/piratage-poste-maileva-enquete-cybercriminalite-2084599",
+      "publishedAt": "2026-11-16T19:30:01+00:00"
+    },
     {
       "source": "gnt",
       "title": "La console portable PSP 3 pourrait coûter jusqu'à 775 dollars avec ses accessoires",
@@ -152,6 +194,12 @@
       "title": "Microsoft Outlook, Teams : on connait enfin la cause de la panne géante de vendredi",
       "url": "https://www.journaldugeek.com/2026/11/16/microsoft-outlook-teams-on-connait-enfin-la-cause-de-la-panne-geante-de-vendredi/",
       "publishedAt": "2026-11-16T19:02:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Charlotte Hornets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957995/los-angeles-lakers-charlotte-hornets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-16T18:51:10+00:00"
     },
     {
       "source": "gnt",
@@ -857,12 +905,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Minnesota Timberwolves – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957619/minnesota-timberwolves-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-16T12:52:09+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "New Orleans Pelicans – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/957616/new-orleans-pelicans-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-16T12:50:18+00:00"
@@ -950,6 +992,12 @@
       "title": "La fièvre Anthropic arrive à Wall Street : la demande dépasserait largement le nombre d’actions disponibles",
       "url": "https://www.presse-citron.net/la-fievre-anthropic-arrive-a-wall-street-la-demande-depasserait-largement-le-nombre-dactions-disponibles/",
       "publishedAt": "2026-11-16T11:56:31+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Minnesota Timberwolves – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957619/minnesota-timberwolves-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-16T11:52:09+00:00"
     },
     {
       "source": "gnt",
@@ -2558,12 +2606,6 @@
       "title": "« Mechazilla a attrapé le Starship ! » : SpaceX réussit l’exploit inédit de capturer le vaisseau en plein vol avec la tour",
       "url": "https://www.numerama.com/sciences/2374713-mechazilla-a-attrape-le-starship-spacex-reussit-lexploit-inedit-de-capturer-le-vaisseau-en-plein-vol-avec-la-tour.html",
       "publishedAt": "2026-11-14T21:51:11+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 n’a pas cassé le record du trafic Internet en France, mais les chiffres sont quand même impressonnants",
-      "url": "https://www.numerama.com/pop-culture/2374705-gta-6-na-pas-casse-le-record-du-trafic-internet-en-france-mais-les-chiffres-sont-quand-meme-impressonnants.html",
-      "publishedAt": "2026-11-14T20:00:32+00:00"
     }
   ]
 }
