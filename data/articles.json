@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:36:18.769019+00:00",
+  "generatedAt": "2026-11-17T04:41:58.035212+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T03:36:18.769019+00:00"
+      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
     }
   ],
   "articles": [
@@ -140,12 +140,6 @@
       "title": "Comme prévu, la deuxième bêta de macOS 27.3 renforce les contrôles sur les accès des apps",
       "url": "https://www.macg.co/macos/2026/11/comme-prevu-la-deuxieme-beta-de-macos-273-renforce-les-controles-sur-les-acces-des-apps-312445",
       "publishedAt": "2026-11-16T21:56:49+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Joueurs de la semaine | Victor Wembanyama encore récompensé !",
-      "url": "https://www.basketusa.com/news/958099/joueurs-de-la-semaine-victor-wembanyama-encore-recompense/",
-      "publishedAt": "2026-11-16T20:47:28+00:00"
     },
     {
       "source": "gnt",
@@ -194,6 +188,12 @@
       "title": "Xbox officialise Wolfenstein 3 et enrichit son catalogue PC pour ses 25 ans",
       "url": "https://www.generation-nt.com/actualites/xbox-annonce-wolfenstein-3-pc-2084509",
       "publishedAt": "2026-11-16T19:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Joueurs de la semaine | Victor Wembanyama encore récompensé !",
+      "url": "https://www.basketusa.com/news/958099/joueurs-de-la-semaine-victor-wembanyama-encore-recompense/",
+      "publishedAt": "2026-11-16T19:47:28+00:00"
     },
     {
       "source": "gnt",
@@ -266,12 +266,6 @@
       "title": "Des chercheurs ont mis au point des muscles artificiels pour robots : une avancée dérangeante qui rapproche les machines du corps humain",
       "url": "https://www.journaldugeek.com/2026/11/16/chercheurs-mis-au-point-muscles-artificiels-pour-robots-avancee-derangeante-rapproche-machines-corps-humain/",
       "publishedAt": "2026-11-16T18:02:49+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Nouveau coup dur pour GG Jackson",
-      "url": "https://www.basketusa.com/news/958070/nouveau-coup-dur-pour-gg-jackson/",
-      "publishedAt": "2026-11-16T18:02:02+00:00"
     },
     {
       "source": "tda",
@@ -350,6 +344,12 @@
       "title": "Intel sur un CPU Razor Lake 12 P-Cores en Intel 18A avec bLLC : tout pour le jeu vidéo ?",
       "url": "https://www.clubic.com/actualite-639538-intel-sur-un-cpu-razor-lake-12-p-cores-en-intel-18a-avec-bllc-tout-pour-le-jeu-video.html",
       "publishedAt": "2026-11-16T17:06:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Nouveau coup dur pour GG Jackson",
+      "url": "https://www.basketusa.com/news/958070/nouveau-coup-dur-pour-gg-jackson/",
+      "publishedAt": "2026-11-16T17:02:02+00:00"
     },
     {
       "source": "numerama",
@@ -544,12 +544,6 @@
       "publishedAt": "2026-11-16T15:29:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Avec son 6/6 à 3-points, Mo Bamba a surpris Victor Wembanyama et les Spurs",
-      "url": "https://www.basketusa.com/news/957973/avec-son-6-6-a-3-points-mo-bamba-a-surpris-victor-wembanyama-et-les-spurs/",
-      "publishedAt": "2026-11-16T15:28:26+00:00"
-    },
-    {
       "source": "presse",
       "title": "🔴 Le nom du nouveau James Bond est officiel : vous allez l’adorer !",
       "url": "https://www.presse-citron.net/%f0%9f%94%b4-le-nom-du-nouveau-james-bond-est-officiel-vous-allez-ladorer/",
@@ -728,6 +722,12 @@
       "title": "VIDÉO : Recalé au contrôle antipollution, il pirate le calculateur de sa Jeep de 1994 avec deux IA et réussit son coup",
       "url": "https://www.numerama.com/cyberguerre/2375259-video-recale-au-controle-antipollution-il-pirate-le-calculateur-de-sa-jeep-de-1994-avec-deux-ia-et-reussit-son-coup.html",
       "publishedAt": "2026-11-16T14:29:33+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Avec son 6/6 à 3-points, Mo Bamba a surpris Victor Wembanyama et les Spurs",
+      "url": "https://www.basketusa.com/news/957973/avec-son-6-6-a-3-points-mo-bamba-a-surpris-victor-wembanyama-et-les-spurs/",
+      "publishedAt": "2026-11-16T14:28:26+00:00"
     },
     {
       "source": "mac4ever",
