@@ -250,7 +250,7 @@ function render(preservePosition = true) {
     const generated = new Date(state.data.generatedAt);
     byId('updated-time').textContent = relativeTime(generated);
     byId('updated').setAttribute('aria-label', `Dernière collecte : ${relativeTime(generated)}`);
-    byId('updated').title = `Dernière collecte : ${generated.toLocaleString('fr-FR')}. Collecte programmée toutes les 15 minutes, sous réserve des délais de GitHub.`;
+    byId('updated').title = `Dernière collecte : ${generated.toLocaleString('fr-FR')}. Déclenchement demandé toutes les 10 minutes par cron-job.org, sous réserve des délais de GitHub Actions.`;
     const failed = state.data.sources.filter((source) => !source.ok).length;
     const stale = now - generated.getTime() > 3600000;
     byId('notice').hidden = !state.newsError && !failed && !stale;

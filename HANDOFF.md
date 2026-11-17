@@ -8,7 +8,7 @@
 - Application : https://thomasroehm.github.io/actu/
 - Le site est hébergé sur GitHub Pages. Codex Cloud sert à développer, pas à héberger le site ni à remplacer la collecte.
 - Le dépôt, l’application et la sélection de mangas sont publics. L’utilisateur a décidé de les laisser ainsi pour l’instant, sans changer son pseudonyme GitHub.
-- Aucun compte Cloudflare ni planificateur externe n’a été configuré pour ce projet.
+- cron-job.org déclenche le workflow GitHub toutes les 10 minutes ; aucun compte Cloudflare n’est configuré. Le jeton est géré dans cron-job.org, jamais dans le dépôt.
 
 ## État fonctionnel
 
@@ -57,8 +57,8 @@ Korben utilise le flux complet officiel `https://korben.info/feedfull`, recomman
 
 ## Automatisation actuelle
 
-- GitHub Actions : déclenchement prévu toutes les 15 minutes, plus chaque push sur `main` et déclenchement manuel via GitHub.
-- Les retards du planificateur GitHub sont connus ; une cadence garantie n’a pas été mise en place.
+- cron-job.org : appel de workflow_dispatch toutes les 10 minutes, testé avec succès par l’utilisateur. Le schedule GitHub a été supprimé pour éviter les doublons. Les déclenchements sur push de `main` et manuels restent disponibles.
+- Le déclenchement est externe, mais l’exécution et la publication restent sur GitHub Actions ; une attente des runners et des retards de publication restent possibles.
 - Les scripts testent les données, collectent, fusionnent les résultats persistants, puis publient le site.
 - Les mangas sont revérifiés au plus une fois toutes les 30 minutes par série, même si le workflow est lancé plus souvent.
 - Les deux fichiers JSON de données sont commités par le bot GitHub. Prévoir ces mises à jour concurrentes lors de l’intégration des changements.
