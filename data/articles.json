@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T04:41:58.035212+00:00",
+  "generatedAt": "2026-11-17T05:43:40.955548+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T04:41:58.035212+00:00"
+      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Le tandem Boozer-Edey en démonstration à Washington !",
+      "url": "https://www.basketusa.com/news/958127/le-tandem-boozer-edey-en-demonstration-a-washington/",
+      "publishedAt": "2026-11-17T05:20:02+00:00"
+    },
     {
       "source": "macg",
       "title": "Comme prévu, la deuxième bêta de macOS 27.3 renforce les contrôles sur les accès des apps",
       "url": "https://www.macg.co/macos/2026/11/comme-prevu-la-deuxieme-beta-de-macos-273-renforce-les-controles-sur-les-acces-des-apps-312445",
       "publishedAt": "2026-11-16T21:56:49+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Joueurs de la semaine | Victor Wembanyama encore récompensé !",
+      "url": "https://www.basketusa.com/news/958099/joueurs-de-la-semaine-victor-wembanyama-encore-recompense/",
+      "publishedAt": "2026-11-16T20:47:28+00:00"
     },
     {
       "source": "gnt",
@@ -188,12 +200,6 @@
       "title": "Xbox officialise Wolfenstein 3 et enrichit son catalogue PC pour ses 25 ans",
       "url": "https://www.generation-nt.com/actualites/xbox-annonce-wolfenstein-3-pc-2084509",
       "publishedAt": "2026-11-16T19:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Joueurs de la semaine | Victor Wembanyama encore récompensé !",
-      "url": "https://www.basketusa.com/news/958099/joueurs-de-la-semaine-victor-wembanyama-encore-recompense/",
-      "publishedAt": "2026-11-16T19:47:28+00:00"
     },
     {
       "source": "gnt",
@@ -266,6 +272,12 @@
       "title": "Des chercheurs ont mis au point des muscles artificiels pour robots : une avancée dérangeante qui rapproche les machines du corps humain",
       "url": "https://www.journaldugeek.com/2026/11/16/chercheurs-mis-au-point-muscles-artificiels-pour-robots-avancee-derangeante-rapproche-machines-corps-humain/",
       "publishedAt": "2026-11-16T18:02:49+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Nouveau coup dur pour GG Jackson",
+      "url": "https://www.basketusa.com/news/958070/nouveau-coup-dur-pour-gg-jackson/",
+      "publishedAt": "2026-11-16T18:02:02+00:00"
     },
     {
       "source": "tda",
@@ -344,12 +356,6 @@
       "title": "Intel sur un CPU Razor Lake 12 P-Cores en Intel 18A avec bLLC : tout pour le jeu vidéo ?",
       "url": "https://www.clubic.com/actualite-639538-intel-sur-un-cpu-razor-lake-12-p-cores-en-intel-18a-avec-bllc-tout-pour-le-jeu-video.html",
       "publishedAt": "2026-11-16T17:06:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Nouveau coup dur pour GG Jackson",
-      "url": "https://www.basketusa.com/news/958070/nouveau-coup-dur-pour-gg-jackson/",
-      "publishedAt": "2026-11-16T17:02:02+00:00"
     },
     {
       "source": "numerama",
@@ -446,12 +452,6 @@
       "title": "James Bond : Amazon choisit officiellement Robert Pattinson pour succéder à Daniel Craig",
       "url": "https://www.mac4ever.com/tv/199063-james-bond-amazon-choisit-officiellement-robert-pattinson-pour-succeder-a-daniel-craig",
       "publishedAt": "2026-11-16T16:13:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le jour où Amar’e Stoudemire s’est pris pour Wilt Chamberlain",
-      "url": "https://www.basketusa.com/news/609316/happy-birthday-le-match-a-50-points-du-jeune-amare-stoudemire/",
-      "publishedAt": "2026-11-16T16:11:42+00:00"
     },
     {
       "source": "numerama",
@@ -572,6 +572,12 @@
       "title": "Pour Scott Bessent, NVIDIA doit chercher un nouveau PDG au dehors de l'entreprise",
       "url": "https://www.clubic.com/actualite-639523-pour-scott-bessent-nvidia-doit-chercher-un-nouveau-pdg-au-dehors-de-l-entreprise.html",
       "publishedAt": "2026-11-16T15:12:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le jour où Amar’e Stoudemire s’est pris pour Wilt Chamberlain",
+      "url": "https://www.basketusa.com/news/609316/happy-birthday-le-match-a-50-points-du-jeune-amare-stoudemire/",
+      "publishedAt": "2026-11-16T15:11:42+00:00"
     },
     {
       "source": "gnt",
@@ -1006,12 +1012,6 @@
       "publishedAt": "2026-11-16T12:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Jason Kidd, le mentor que LeBron James vient de dépasser",
-      "url": "https://www.basketusa.com/news/957868/jason-kidd-le-mentor-que-lebron-james-vient-de-depasser/",
-      "publishedAt": "2026-11-16T11:56:47+00:00"
-    },
-    {
       "source": "presse",
       "title": "La fièvre Anthropic arrive à Wall Street : la demande dépasserait largement le nombre d’actions disponibles",
       "url": "https://www.presse-citron.net/la-fievre-anthropic-arrive-a-wall-street-la-demande-depasserait-largement-le-nombre-dactions-disponibles/",
@@ -1136,6 +1136,12 @@
       "title": "La barre de son Sonos Arc Ultra à prix cassé pour le Black Friday : Dolby Atmos et AirPlay 2 !",
       "url": "https://www.mac4ever.com/audio/199053-la-barre-de-son-sonos-arc-ultra-a-prix-casse-pour-le-black-friday-dolby-atmos-et-airplay-2",
       "publishedAt": "2026-11-16T10:57:37+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jason Kidd, le mentor que LeBron James vient de dépasser",
+      "url": "https://www.basketusa.com/news/957868/jason-kidd-le-mentor-que-lebron-james-vient-de-depasser/",
+      "publishedAt": "2026-11-16T10:56:47+00:00"
     },
     {
       "source": "numerama",
@@ -2606,12 +2612,6 @@
       "title": "Les Bulls surprennent des Wolves méconnaissables",
       "url": "https://www.basketusa.com/news/957488/les-bulls-surprennent-des-wolves-meconnaissables/",
       "publishedAt": "2026-11-15T05:48:10+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Nuggets passent entre les gouttes à La Nouvelle-Orléans",
-      "url": "https://www.basketusa.com/news/957477/les-nuggets-passent-entre-les-gouttes-a-la-nouvelle-orleans/",
-      "publishedAt": "2026-11-15T05:16:20+00:00"
     },
     {
       "source": "boulet",
