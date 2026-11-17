@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T16:59:23.202367+00:00",
+  "generatedAt": "2026-11-17T17:59:29.019155+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,100 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T16:59:23.202367+00:00"
+      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Privée de puces NVIDIA, la Chine fait travailler ChatGPT et Claude pour entraîner ses IA",
+      "url": "https://www.clubic.com/actualite-639739-privee-de-puces-nvidia-la-chine-fait-travailler-chatgpt-et-claude-pour-entrainer-ses-ia.html",
+      "publishedAt": "2026-11-17T17:57:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Pendant le Black Friday, Intego ONE Complete réunit antivirus Mac, pare-feu, VPN et nettoyage à -50%",
+      "url": "https://www.clubic.com/bons-plans-639706-pendant-le-black-friday-intego-one-complete-reunit-antivirus-mac-pare-feu-vpn-et-nettoyage-a--50.html",
+      "publishedAt": "2026-11-17T17:41:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le jour de ses 28 ans, Elvin Hayes s’offrait 43 points et 32 rebonds",
+      "url": "https://www.basketusa.com/news/958394/le-jour-de-ses-28-ans-elvin-hayes-soffrait-43-points-et-32-rebonds/",
+      "publishedAt": "2026-11-17T17:32:27+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "MacBook Pro M5 Pro/Max en promo : jusqu'à -1100€ par rapport à l'Apple Store !",
+      "url": "https://www.mac4ever.com/mac/199091-macbook-pro-m5-pro-max-en-promo-jusqu-a-1100-par-rapport-a-l-apple-store",
+      "publishedAt": "2026-11-17T17:31:07+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Game Awards 2026 : la liste complète des nommés, et comment voter pour vos jeux préférés",
+      "url": "https://www.journaldugeek.com/2026/11/17/game-awards-2026-la-liste-complete-des-nommes-et-comment-voter-pour-vos-jeux-preferes/",
+      "publishedAt": "2026-11-17T17:20:50+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Amazon casse les prix de ses Fire TV pour le Black Friday : 5 modèles dès 23,99€, jusqu’à -63%",
+      "url": "https://www.clubic.com/bons-plans-639715-amazon-casse-les-prix-de-ses-fire-tv-pour-le-black-friday-5-modeles-des-23-99-jusqu-a--63.html",
+      "publishedAt": "2026-11-17T17:20:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "iPhone Duo : un fournisseur prié de se taire sur les écrans fissurés ?",
+      "url": "https://www.mac4ever.com/iphone/199090-iphone-duo-un-fournisseur-prie-de-se-taire-sur-les-ecrans-fissures",
+      "publishedAt": "2026-11-17T17:18:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Cinq jours après son départ de NVIDIA, Jensen Huang veut déjà reprendre les commandes",
+      "url": "https://www.clubic.com/actualite-639742-cinq-jours-apres-son-depart-de-nvidia-jensen-huang-veut-deja-reprendre-les-commandes.html",
+      "publishedAt": "2026-11-17T17:11:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le drone W5000 chinois devient le plus grand avion de transport sans pilote",
+      "url": "https://www.generation-nt.com/actualites/drone-w5000-cargo-fret-sans-pilote-vol-inaugural-chine-2084656",
+      "publishedAt": "2026-11-17T17:10:01+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Amazon Family : une nouvelle façon de partager son abonnement Prime en France",
+      "url": "https://www.macg.co/ailleurs/2026/11/amazon-family-une-nouvelle-facon-de-partager-son-abonnement-prime-en-france-312473",
+      "publishedAt": "2026-11-17T17:02:20+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "« Je serais honoré de revenir » : Jensen Huang sort du silence après le scandale chez Nvidia",
+      "url": "https://www.numerama.com/tech/2377211-je-serais-honore-de-revenir-jensen-huang-sort-du-silence-apres-le-scandale-chez-nvidia.html",
+      "publishedAt": "2026-11-17T17:02:15+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Boîtes à histoires : avec IA ou sans écran, quel modèle choisir en 2026 ?",
+      "url": "https://www.journaldugeek.com/dossier/boites-a-histoires-avec-ia-ou-sans-ecran-quel-modele-choisir-en-year/",
+      "publishedAt": "2026-11-17T17:02:06+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "NVIDIA : Trump a vendu pour 1 million de dollars d'action après avoir appris la liaison de Jensen Huang",
+      "url": "https://www.clubic.com/actualite-639709-nvidia-trump-a-vendu-pour-1-million-de-dollars-d-action-apres-avoir-appris-la-liaison-de-jensen-huang.html",
+      "publishedAt": "2026-11-17T17:02:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "J’ai testé la manette Xbox Nano et c’est mon nouveau pad préféré",
+      "url": "https://www.presse-citron.net/manette-xbox-nano-test/",
+      "publishedAt": "2026-11-17T17:00:27+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 depuis votre lit ? Le PlayStation Portal tombe en promo",
+      "url": "https://www.numerama.com/pop-culture/2377153-gta-6-depuis-votre-lit-le-playstation-portal-tombe-en-promo.html",
+      "publishedAt": "2026-11-17T17:00:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Tesla pourrait bientôt fabriquer des Cybercab dans son usine de Berlin",
@@ -158,6 +248,12 @@
       "title": "Décevant, le HomeView fait de la publicité aux écrans de Google malgré lui",
       "url": "https://www.clubic.com/actualite-639730-decevant-le-homeview-fait-de-la-publicite-aux-ecrans-de-google-malgre-lui.html",
       "publishedAt": "2026-11-17T16:47:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des neurones humains cultivés en laboratoire guident les réactions d'un robot humanoïde",
+      "url": "https://www.generation-nt.com/actualites/iris-neurones-humains-controle-robot-2084592",
+      "publishedAt": "2026-11-17T16:45:01+00:00"
     },
     {
       "source": "basketusa",
@@ -200,6 +296,12 @@
       "title": "L’IA va-t-elle menacer les emplois français ? France Travail a interrogé les employeurs pour obtenir une réponse",
       "url": "https://www.presse-citron.net/ia-menace-emplois-france-travail-employeurs/",
       "publishedAt": "2026-11-17T16:31:39+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Amazon Family débarque en France pour le partage d'avantages Prime",
+      "url": "https://www.generation-nt.com/actualites/amazon-family-france-prime-partage-avantages-2084661",
+      "publishedAt": "2026-11-17T16:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -370,12 +472,6 @@
       "publishedAt": "2026-11-17T15:30:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Kelly Oubre Jr. n’oubliera jamais ce que Nick Nurse a fait pour lui",
-      "url": "https://www.basketusa.com/news/958111/kelly-oubre-jr-noubliera-jamais-ce-que-nick-nurse-a-fait-pour-lui/",
-      "publishedAt": "2026-11-17T15:28:05+00:00"
-    },
-    {
       "source": "presse",
       "title": "Mistral a de la compagnie : une nouvelle IA française vient d’être présentée par OVHcloud",
       "url": "https://www.presse-citron.net/mistral-a-de-la-compagnie-une-nouvelle-ia-francaise-vient-detre-presentee-par-ovhcloud/",
@@ -452,6 +548,12 @@
       "title": "Heure pleine/creuse : les horaires ont changé, 15 millions de foyers sont concernés",
       "url": "https://www.presse-citron.net/heure-pleine-creuse-les-horaires-ont-change-15-millions-de-foyers-sont-concernes/",
       "publishedAt": "2026-11-17T14:52:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Nique Clifford assume son échec à Sacramento",
+      "url": "https://www.basketusa.com/news/958107/nique-clifford-assume-son-echec-a-sacramento/",
+      "publishedAt": "2026-11-17T14:50:53+00:00"
     },
     {
       "source": "gnt",
@@ -532,6 +634,12 @@
       "publishedAt": "2026-11-17T14:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kelly Oubre Jr. n’oubliera jamais ce que Nick Nurse a fait pour lui",
+      "url": "https://www.basketusa.com/news/958111/kelly-oubre-jr-noubliera-jamais-ce-que-nick-nurse-a-fait-pour-lui/",
+      "publishedAt": "2026-11-17T14:28:05+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Amazon n'attend pas le Black Friday et fait chuter le prix de l’iPhone 17 Pro Max",
       "url": "https://www.clubic.com/bons-plans-638482-amazon-n-attend-pas-le-black-friday-et-fait-chuter-le-prix-de-l-iphone-17-pro-max.html",
@@ -545,7 +653,7 @@
     },
     {
       "source": "gnt",
-      "title": "Obsolescence programmée : Apple sera jugée à Paris en juin 2027",
+      "title": "Obsolescence programmée : Apple devra affronter un procès à Paris",
       "url": "https://www.generation-nt.com/actualites/apple-iphone-obsolescence-programme-proces-hop-2084644",
       "publishedAt": "2026-11-17T14:20:01+00:00"
     },
@@ -620,12 +728,6 @@
       "title": "Sony accélère le déploiement de son QSSR (au goût de PS5 Pro) sur PS5 classique",
       "url": "https://www.clubic.com/actualite-639604-sony-accelere-le-deploiement-de-son-qssr-au-gout-de-ps5-pro-sur-ps5-classique.html",
       "publishedAt": "2026-11-17T13:59:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Nique Clifford assume son échec à Sacramento",
-      "url": "https://www.basketusa.com/news/958107/nique-clifford-assume-son-echec-a-sacramento/",
-      "publishedAt": "2026-11-17T13:50:53+00:00"
     },
     {
       "source": "gnt",
@@ -3476,72 +3578,6 @@
       "title": "En regardant des images satellites, un archéologue découvre une forteresse géante qui pourrait être une capitale oubliée",
       "url": "https://www.journaldugeek.com/2026/11/15/en-regardant-des-images-satellites-un-archeologue-decouvre-une-forteresse-geante-qui-pourrait-etre-une-capitale-oubliee/",
       "publishedAt": "2026-11-15T18:10:47+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Les Sixers défient les Pacers dès 19h00, sur Prime Video",
-      "url": "https://www.basketusa.com/news/957642/programme-du-soir-les-sixers-defient-les-pacers-des-19h00-sur-prime-video/",
-      "publishedAt": "2026-11-15T17:50:15+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Lions – Patriots (35-10) : Jahmyr Gibbs est Kolossal !",
-      "url": "https://touchdownactu.com/361404/lions-patriots-35-10-jahmyr-gibbs-est-kolossal/",
-      "publishedAt": "2026-11-15T17:36:34+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Réchauffement climatique : le cap mondial des 1,5°C franchi dès 2029, bien plus tôt que prévu",
-      "url": "https://www.generation-nt.com/actualites/rechauffement-climatique-seuil-limite-urgence-2084485",
-      "publishedAt": "2026-11-15T17:30:02+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Prime Video : livraison de fous rires garantie avec les 10 meilleures comédies",
-      "url": "https://www.numerama.com/pop-culture/2369627-prime-video-livraison-de-fous-rires-garantie-avec-les-10-meilleures-comedies.html",
-      "publishedAt": "2026-11-15T17:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Bitcoin s'est totalement effondré ces derniers jours. Une manipulation de marché ?",
-      "url": "https://www.clubic.com/actualite-639355-le-bitcoin-s-est-totalement-effondre-ces-derniers-jours-une-manipulation-de-marche.html",
-      "publishedAt": "2026-11-15T17:17:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Grizzlies découvrent un Cedric Coward toujours plus complet",
-      "url": "https://www.basketusa.com/news/957628/les-grizzlies-decouvrent-un-cedric-coward-toujours-plus-complet/",
-      "publishedAt": "2026-11-15T17:12:45+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Microsoft bloque des mails sans prévenir, Google fait prouver la sécurité de Signal par 80 agents, OpenAI installe un bouton stop sur ses IA : on vous raconte la semaine Cyberguerre",
-      "url": "https://www.numerama.com/tech/2374157-microsoft-bloque-des-mails-sans-prevenir-google-fait-prouver-la-securite-de-signal-par-80-agents-openai-installe-un-bouton-stop-sur-ses-ia-on-vous-raconte-la-semaine-cyberguerre.html",
-      "publishedAt": "2026-11-15T17:10:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Mois sans tabac : les 10 meilleures apps iPhone pour vous aider à arrêter de fumer",
-      "url": "https://www.iphon.fr/post/meilleures-applications-iphone-arreter-fumer-tabac-cigarette",
-      "publishedAt": "2026-11-15T17:05:09+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "La Chine favorise les SUV énormes, l’Europe les petites voitures électriques",
-      "url": "https://www.journaldugeek.com/2026/11/15/la-chine-favorise-les-suv-enormes-leurope-les-petites-voitures-electriques/",
-      "publishedAt": "2026-11-15T17:03:42+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Donald Trump menace d’effacer des décennies de données climatiques américaines : la France prépare une solution pour les sauver",
-      "url": "https://www.presse-citron.net/donald-trump-menace-deffacer-decennies-donnees-climatiques-americaines-france-prepare-solution-pour-sauver/",
-      "publishedAt": "2026-11-15T17:02:45+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le télescope James Webb capte un signal interdit prédit depuis 40 ans",
-      "url": "https://www.generation-nt.com/actualites/telescope-webb-signal-interdit-2084475",
-      "publishedAt": "2026-11-15T17:00:01+00:00"
     },
     {
       "source": "boulet",
