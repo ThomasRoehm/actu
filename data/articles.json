@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T05:43:40.955548+00:00",
+  "generatedAt": "2026-11-17T06:48:47.746866+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,117 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T05:43:40.955548+00:00"
+      "lastSuccessAt": "2026-11-17T06:48:47.746866+00:00"
     }
   ],
   "articles": [
     {
+      "source": "clubic",
+      "title": "Amazon Leo prépare sa revanche après l'échec Vulcan : Ariane 6 doit lancer 36 satellites dans une semaine",
+      "url": "https://www.clubic.com/actualite-639583-amazon-leo-prepare-sa-revanche-apres-l-echec-vulcan-ariane-6-doit-lancer-36-satellites-dans-une-semaine.html",
+      "publishedAt": "2026-11-17T06:44:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Armes autonomes et robots tueurs : l'ONU cherche à interdire, des Etats font de la résistance",
+      "url": "https://www.generation-nt.com/actualites/onu-debat-intelligence-artificielle-arme-autonome-robot-tueur-2084573",
+      "publishedAt": "2026-11-17T06:30:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Amazon ouvre le bal du Black Friday : 30 offres tech déjà en promo, jusqu’à -56%",
+      "url": "https://www.clubic.com/bons-plans-639460-black-friday-2026-amazon-frappe-fort-aujourd-hui-avec-30-offres-tech-du-pixel-11-a-649-a-la-tv-ambilight-a-446.html",
+      "publishedAt": "2026-11-17T06:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Dragon Ball Daima en France : où regarder la série (Gulli, replay, plateformes) et ce que change la nouvelle VF",
+      "url": "https://www.clubic.com/actualite-639055-dragon-ball-daima-en-france-ou-le-regarder-gulli-replay-plateformes-et-ce-que-change-la-nouvelle-vf.html",
+      "publishedAt": "2026-11-17T06:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Les États-Unis veulent limiter l’accès à distance aux puces d’IA les plus avancées",
+      "url": "https://www.clubic.com/actualite-639571-les-etats-unis-veulent-limiter-l-acces-a-distance-aux-puces-d-ia-les-plus-avancees.html",
+      "publishedAt": "2026-11-17T06:30:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Cette fuite vous donnera envie de garder le même iPhone encore un an",
+      "url": "https://www.journaldugeek.com/2026/11/17/cette-fuite-vous-donnera-envie-de-garder-le-meme-iphone-encore-un-an/",
+      "publishedAt": "2026-11-17T06:28:46+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Un iPhone Duo à Noël : oui, les délais de livraison diminuent enfin !",
+      "url": "https://www.mac4ever.com/iphone/199072-un-iphone-duo-a-noel-oui-les-delais-de-livraison-diminuent-enfin",
+      "publishedAt": "2026-11-17T06:21:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Projet de loi NIS 2 : l’Anssi aurait le pouvoir de rendre publiques des cyberattaques",
+      "url": "https://www.clubic.com/actualite-639586-projet-de-loi-nis-2-l-anssi-aurait-le-pouvoir-de-rendre-publiques-des-cyberattaques.html",
+      "publishedAt": "2026-11-17T06:13:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Windows 11 s'installe sur l'iPhone Duo sans jailbreak grâce à l'IA",
+      "url": "https://www.generation-nt.com/actualites/windows-11-iphone-duo-sans-jailbreak-2084556",
+      "publishedAt": "2026-11-17T06:05:01+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "On s’est moqué des Google Glass, son successeur est déjà en rupture de stock",
+      "url": "https://www.journaldugeek.com/2026/11/17/on-sest-moque-des-google-glass-son-successeur-est-deja-en-rupture-de-stock/",
+      "publishedAt": "2026-11-17T06:02:38+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Le streamer GTA le plus regardé dans le monde est français : qui est JLTomy ?",
+      "url": "https://www.presse-citron.net/le-streamer-gta-le-plus-regarde-dans-le-monde-est-francais-qui-est-jltomy/",
+      "publishedAt": "2026-11-17T06:00:50+00:00"
+    },
+    {
       "source": "basketusa",
-      "title": "Le tandem Boozer-Edey en démonstration à Washington !",
+      "title": "À Boston, le collectif du Magic se paye les Celtics !",
+      "url": "https://www.basketusa.com/news/958014/a-boston-le-collectif-du-magic-soffre-les-celtics/",
+      "publishedAt": "2026-11-17T05:57:39+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "L'institut de sondages Ipsos confirme une intrusion dans son système informatique",
+      "url": "https://www.clubic.com/actualite-639574-ipsos-confirme-une-intrusion-dans-son-systeme-informatique.html",
+      "publishedAt": "2026-11-17T05:45:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Pelicans se vengent méchamment des Warriors",
+      "url": "https://www.basketusa.com/news/958141/les-pelicans-se-vengent-mechamment-des-warriors/",
+      "publishedAt": "2026-11-17T05:44:57+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Rudy Gobert et Terrence Shannon Jr. stoppent les Blazers",
+      "url": "https://www.basketusa.com/news/958137/rudy-gobert-et-terrence-shannon-jr-stoppent-les-blazers/",
+      "publishedAt": "2026-11-17T05:40:08+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le patch de sécurité de Microsoft se transforme en outil de piratage",
+      "url": "https://www.generation-nt.com/actualites/patch-securite-microsoft-outil-piratage-2084555",
+      "publishedAt": "2026-11-17T05:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le Heat repousse les Rockets avec autorité",
+      "url": "https://www.basketusa.com/news/958131/le-heat-repousse-les-rockets-avec-autorite/",
+      "publishedAt": "2026-11-17T05:04:49+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le duo Cam Boozer – Zach Edey en démonstration à Washington",
       "url": "https://www.basketusa.com/news/958127/le-tandem-boozer-edey-en-demonstration-a-washington/",
-      "publishedAt": "2026-11-17T05:20:02+00:00"
+      "publishedAt": "2026-11-17T04:20:02+00:00"
     },
     {
       "source": "macg",
@@ -454,6 +556,12 @@
       "publishedAt": "2026-11-16T16:13:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le jour où Amar’e Stoudemire s’est pris pour Wilt Chamberlain",
+      "url": "https://www.basketusa.com/news/609316/happy-birthday-le-match-a-50-points-du-jeune-amare-stoudemire/",
+      "publishedAt": "2026-11-16T16:11:42+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Cette marque de moto vaut 1,2 milliard d’euros dans un secteur où les faillites se succèdent",
       "url": "https://www.numerama.com/vroom/2375575-cette-marque-de-moto-vaut-12-milliard-deuros-dans-un-secteur-ou-les-faillites-se-succedent.html",
@@ -508,12 +616,6 @@
       "publishedAt": "2026-11-16T15:49:00+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday 2026 : Amazon lance déjà 30 offres tech jusqu’à -56%, du Sonos Ace à la TV OLED Samsung",
-      "url": "https://www.clubic.com/bons-plans-639460-black-friday-2026-amazon-frappe-fort-aujourd-hui-avec-30-offres-tech-du-pixel-11-a-649-a-la-tv-ambilight-a-446.html",
-      "publishedAt": "2026-11-16T15:46:00+00:00"
-    },
-    {
       "source": "iphon",
       "title": "Photo : l’iPhone Duo battu par l’iPhone 17 Pro sur ce point",
       "url": "https://www.iphon.fr/post/iphone-duo-17-pro-photo",
@@ -544,6 +646,12 @@
       "publishedAt": "2026-11-16T15:29:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Avec son 6/6 à 3-points, Mo Bamba a surpris Victor Wembanyama et les Spurs",
+      "url": "https://www.basketusa.com/news/957973/avec-son-6-6-a-3-points-mo-bamba-a-surpris-victor-wembanyama-et-les-spurs/",
+      "publishedAt": "2026-11-16T15:28:26+00:00"
+    },
+    {
       "source": "presse",
       "title": "🔴 Le nom du nouveau James Bond est officiel : vous allez l’adorer !",
       "url": "https://www.presse-citron.net/%f0%9f%94%b4-le-nom-du-nouveau-james-bond-est-officiel-vous-allez-ladorer/",
@@ -572,12 +680,6 @@
       "title": "Pour Scott Bessent, NVIDIA doit chercher un nouveau PDG au dehors de l'entreprise",
       "url": "https://www.clubic.com/actualite-639523-pour-scott-bessent-nvidia-doit-chercher-un-nouveau-pdg-au-dehors-de-l-entreprise.html",
       "publishedAt": "2026-11-16T15:12:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le jour où Amar’e Stoudemire s’est pris pour Wilt Chamberlain",
-      "url": "https://www.basketusa.com/news/609316/happy-birthday-le-match-a-50-points-du-jeune-amare-stoudemire/",
-      "publishedAt": "2026-11-16T15:11:42+00:00"
     },
     {
       "source": "gnt",
@@ -730,12 +832,6 @@
       "publishedAt": "2026-11-16T14:29:33+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Avec son 6/6 à 3-points, Mo Bamba a surpris Victor Wembanyama et les Spurs",
-      "url": "https://www.basketusa.com/news/957973/avec-son-6-6-a-3-points-mo-bamba-a-surpris-victor-wembanyama-et-les-spurs/",
-      "publishedAt": "2026-11-16T14:28:26+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Le casque Beats Studio Pro chute à -37% pour le Black Friday : une alternative aux AirPods Max !",
       "url": "https://www.mac4ever.com/audio/199059-le-casque-beats-studio-pro-chute-a-37-pour-le-black-friday-une-alternative-aux-airpods-max",
@@ -848,6 +944,12 @@
       "title": "MacBook Pro OLED : son écran donne la nausée à certains (mais pas à moi)",
       "url": "https://www.mac4ever.com/mac/199054-macbook-pro-oled-son-ecran-donne-la-nausee-a-certains-mais-pas-a-moi",
       "publishedAt": "2026-11-16T13:47:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "One UI 9.5 se précise, Samsung intègrerait un agent IA pour résumer votre journée",
+      "url": "https://www.clubic.com/actualite-639481-one-ui-9-5-se-precise-samsung-integrerait-un-agent-ia-pour-resumer-votre-journee.html",
+      "publishedAt": "2026-11-16T13:39:00+00:00"
     },
     {
       "source": "gnt",
@@ -2576,42 +2678,6 @@
       "title": "Vectors - Aiguilleur du ciel ze game !",
       "url": "https://korben.info/vectors-jeu-controle-aerien-navigateur.html",
       "publishedAt": "2026-11-15T06:54:41+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "À la TV ce soir : 3 films à regarder ce dimanche",
-      "url": "https://www.presse-citron.net/a-la-tv-ce-soir-3-films-a-regarder-ce-dimanche-145/",
-      "publishedAt": "2026-11-15T06:45:08+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Giannis Antetokounmpo a donné le tournis aux Pistons",
-      "url": "https://www.basketusa.com/news/957495/le-mvp-de-la-nuit-giannis-antetokounmpo-a-donne-le-tournis-aux-pistons/",
-      "publishedAt": "2026-11-15T06:45:06+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "L'aéroport Paris-Vatry sous menace de fermeture à cause de la taxe sur les petits colis étrangers",
-      "url": "https://www.macg.co/ailleurs/2026/11/laeroport-paris-vatry-sous-menace-de-fermeture-cause-de-la-taxe-sur-les-petits-colis-etrangers-312399",
-      "publishedAt": "2026-11-15T06:30:04+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Stats & Highlights | Les Mavericks chutent face à l’équipe C de Cleveland",
-      "url": "https://www.basketusa.com/news/957496/stats-highlights-les-mavericks-chutent-face-a-lequipe-c-de-cleveland/",
-      "publishedAt": "2026-11-15T06:16:55+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Giannis Antetokounmpo et Klay Thompson font courir Detroit",
-      "url": "https://www.basketusa.com/news/957484/giannis-antetokounmpo-et-klay-thompson-font-courir-les-pistons/",
-      "publishedAt": "2026-11-15T05:57:04+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Bulls surprennent des Wolves méconnaissables",
-      "url": "https://www.basketusa.com/news/957488/les-bulls-surprennent-des-wolves-meconnaissables/",
-      "publishedAt": "2026-11-15T05:48:10+00:00"
     },
     {
       "source": "boulet",
