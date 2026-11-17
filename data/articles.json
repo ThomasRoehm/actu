@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:59:29.019155+00:00",
+  "generatedAt": "2026-11-17T18:58:22.431068+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,93 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T17:59:29.019155+00:00"
+      "lastSuccessAt": "2026-11-17T18:58:22.431068+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "“NVIDIA a été l’œuvre de ma vie” : Jensen Huang annonce qu’il reprendra les rênes de l’entreprise si on le lui demande",
+      "url": "https://www.journaldugeek.com/2026/11/17/nvidia-a-ete-loeuvre-de-ma-vie-jensen-huang-annonce-quil-reprendra-les-renes-de-lentreprise-si-on-le-lui-demande/",
+      "publishedAt": "2026-11-17T18:42:08+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "“Revenir en tant que CEO” : Jensen Huang confirme qu’il reprendra sa place si cela est décidé par le conseil d’administration de Nvidia",
+      "url": "https://www.presse-citron.net/revenir-ceo-jensen-huang-confirme-nvidia/",
+      "publishedAt": "2026-11-17T18:39:21+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "« C’est peut-être la chose la plus effrayante que j’aie jamais entendue » : un des astronautes d’Artemis II raconte l’une des épreuves les plus difficiles de sa vie avant de décoller pour la Lune",
+      "url": "https://www.journaldugeek.com/2026/11/17/cest-peut-etre-la-chose-la-plus-effrayante-que-jaie-jamais-entendue-astronautes-dartemis-ii-raconte-epreuves-plus-difficiles-vie-avant-decoller-lune/",
+      "publishedAt": "2026-11-17T18:32:18+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "On connaît aujourd'hui les métiers les plus touchés par l'IA. Le vôtre est-il dans la liste ?",
+      "url": "https://www.clubic.com/actualite-639745-on-connait-aujourd-hui-les-metiers-les-plus-touches-par-l-ia-le-votre-est-il-dans-la-liste.html",
+      "publishedAt": "2026-11-17T18:18:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Un bidouilleur réussit à faire tourner Doom sur l'écran d'une clé USB",
+      "url": "https://www.generation-nt.com/actualites/doom-ecran-cle-usb-2084565",
+      "publishedAt": "2026-11-17T18:15:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Cette appli vous récompense quand vous posez votre téléphone",
+      "url": "https://www.clubic.com/actualite-639751-cette-appli-vous-recompense-quand-vous-posez-votre-telephone.html",
+      "publishedAt": "2026-11-17T18:15:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Apple Music, App Store, iCloud : plusieurs services Apple en panne, les Apple Store paralysés",
+      "url": "https://www.macg.co/aapl/2026/11/apple-music-app-store-icloud-plusieurs-services-apple-en-panne-les-apple-store-paralyses-312475",
+      "publishedAt": "2026-11-17T18:15:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Orange, Bouygues, SFR ou Free ? L'ARCEP révèle quel opérateur a le meilleur réseau mobile selon où vous vivez",
+      "url": "https://www.clubic.com/actualite-639748-orange-bouygues-sfr-ou-free-l-arcep-revele-quel-operateur-a-le-meilleur-reseau-mobile-selon-ou-vous-vivez.html",
+      "publishedAt": "2026-11-17T18:06:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Giannis Antetokounmpo : « Les émotions, c’est pour le cinéma »",
+      "url": "https://www.basketusa.com/news/958331/giannis-antetokounmpo-les-emotions-cest-pour-le-cinema/",
+      "publishedAt": "2026-11-17T18:05:48+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Panne Apple : iCloud, l’App Store et Apple Music ne fonctionnent plus, voici ce que l’on sait",
+      "url": "https://www.numerama.com/tech/2377281-une-panne-icloud-prive-des-utilisateurs-de-leur-compte-apple-voici-ce-que-lon-sait.html",
+      "publishedAt": "2026-11-17T18:01:33+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "À Rome, la fontaine de Trevi perd ses pièces : de 10 à 15 % de moins depuis le nouveau système",
+      "url": "https://www.presse-citron.net/a-rome-la-fontaine-de-trevi-perd-ses-pieces-de-10-a-15-de-moins-depuis-le-nouveau-systeme/",
+      "publishedAt": "2026-11-17T18:00:39+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Cette IA répond presque à vos mails à votre place, et elle est open source",
+      "url": "https://www.clubic.com/actualite-636559-vos-e-mails-s-accumulent-cette-ia-peut-preparer-les-reponses-a-votre-place.html",
+      "publishedAt": "2026-11-17T18:00:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Privée de puces NVIDIA, la Chine fait travailler ChatGPT et Claude pour entraîner ses IA",
       "url": "https://www.clubic.com/actualite-639739-privee-de-puces-nvidia-la-chine-fait-travailler-chatgpt-et-claude-pour-entrainer-ses-ia.html",
       "publishedAt": "2026-11-17T17:57:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Instagram a désormais sa propre application de messagerie Direct",
+      "url": "https://www.generation-nt.com/actualites/direct-application-messagerie-meta-instagram-2084621",
+      "publishedAt": "2026-11-17T17:50:01+00:00"
     },
     {
       "source": "clubic",
@@ -158,6 +236,12 @@
       "title": "MacBook Pro M5 Pro/Max en promo : jusqu'à -1100€ par rapport à l'Apple Store !",
       "url": "https://www.mac4ever.com/mac/199091-macbook-pro-m5-pro-max-en-promo-jusqu-a-1100-par-rapport-a-l-apple-store",
       "publishedAt": "2026-11-17T17:31:07+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Magic The Gathering arrive enfin en série animée sur Netflix",
+      "url": "https://www.generation-nt.com/actualites/magic-gathering-netflix-planeswalker-2084561",
+      "publishedAt": "2026-11-17T17:30:01+00:00"
     },
     {
       "source": "jdg",
@@ -254,12 +338,6 @@
       "title": "Des neurones humains cultivés en laboratoire guident les réactions d'un robot humanoïde",
       "url": "https://www.generation-nt.com/actualites/iris-neurones-humains-controle-robot-2084592",
       "publishedAt": "2026-11-17T16:45:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
-      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
-      "publishedAt": "2026-11-17T16:43:42+00:00"
     },
     {
       "source": "clubic",
@@ -436,6 +514,12 @@
       "publishedAt": "2026-11-17T15:44:12+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
+      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
+      "publishedAt": "2026-11-17T15:43:42+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Des IA Gemini 4 Argon piratent un site pour réussir un test",
       "url": "https://www.generation-nt.com/actualites/gemini-4-argon-agents-ia-piratage-informatique-cybersecurite-ia-trajectory-labs-2084646",
@@ -470,6 +554,12 @@
       "title": "Apple sonde l'utilisation de l'IA en santé",
       "url": "https://www.generation-nt.com/actualites/apple-utilisation-ia-sante-etude-2084619",
       "publishedAt": "2026-11-17T15:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Kelly Oubre Jr. n’oubliera jamais ce que Nick Nurse a fait pour lui",
+      "url": "https://www.basketusa.com/news/958111/kelly-oubre-jr-noubliera-jamais-ce-que-nick-nurse-a-fait-pour-lui/",
+      "publishedAt": "2026-11-17T15:28:05+00:00"
     },
     {
       "source": "presse",
@@ -632,12 +722,6 @@
       "title": "Xiaomi 18 Pro : un deuxième écran pour détourner les regards d'Apple et Samsung",
       "url": "https://www.clubic.com/actualite-639646-xiaomi-18-pro-un-deuxieme-ecran-pour-detourner-les-regards-d-apple-et-samsung.html",
       "publishedAt": "2026-11-17T14:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kelly Oubre Jr. n’oubliera jamais ce que Nick Nurse a fait pour lui",
-      "url": "https://www.basketusa.com/news/958111/kelly-oubre-jr-noubliera-jamais-ce-que-nick-nurse-a-fait-pour-lui/",
-      "publishedAt": "2026-11-17T14:28:05+00:00"
     },
     {
       "source": "clubic",
@@ -3560,24 +3644,6 @@
       "title": "Siri fait patienter les lunettes, le Duo court après Face ID : la semaine Apple",
       "url": "https://www.macg.co/aapl/2026/11/siri-fait-batienter-les-lunettes-le-duo-court-apres-face-id-la-semaine-apple-312419",
       "publishedAt": "2026-11-15T19:50:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Deux fois plus de failles de sécurité recensées en 2026 qu’en 2025",
-      "url": "https://www.clubic.com/actualite-639361-deux-fois-plus-de-failles-de-securite-recensees-en-2026-qu-en-2025.html",
-      "publishedAt": "2026-11-15T18:45:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "L'armée ukrainienne déploie des robots dans les gazoducs souterrains",
-      "url": "https://www.generation-nt.com/actualites/robot-autonome-ukraine-gazoduc-donbass-2084238",
-      "publishedAt": "2026-11-15T18:30:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "En regardant des images satellites, un archéologue découvre une forteresse géante qui pourrait être une capitale oubliée",
-      "url": "https://www.journaldugeek.com/2026/11/15/en-regardant-des-images-satellites-un-archeologue-decouvre-une-forteresse-geante-qui-pourrait-etre-une-capitale-oubliee/",
-      "publishedAt": "2026-11-15T18:10:47+00:00"
     },
     {
       "source": "boulet",
