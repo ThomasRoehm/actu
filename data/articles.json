@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:58:37.101562+00:00",
+  "generatedAt": "2026-11-17T14:54:06.291584+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,160 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
+      "lastSuccessAt": "2026-11-17T14:54:06.291584+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Panne Microsoft : on sait enfin pourquoi Teams s’en est sorti alors qu’Outlook sombrait",
+      "url": "https://www.numerama.com/tech/2376825-panne-microsoft-on-sait-enfin-pourquoi-teams-sen-est-sorti-alors-quoutlook-sombrait.html",
+      "publishedAt": "2026-11-17T14:44:19+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Free publie déjà une nouvelle mise à jour de sécurité pour les Freebox, la cinquième en onze jours",
+      "url": "https://www.clubic.com/actualite-639661-free-publie-deja-une-nouvelle-mise-a-jour-de-securite-pour-les-freebox-la-cinquieme-en-onze-jours.html",
+      "publishedAt": "2026-11-17T14:42:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Xiaomi renouvelle ses montres et écouteurs, avec une nouveauté bienvenue pour payer au poignet",
+      "url": "https://www.clubic.com/actualite-639673-xiaomi-renouvelle-ses-montres-et-ecouteurs-avec-une-nouveaute-bienvenue-pour-payer-au-poignet.html",
+      "publishedAt": "2026-11-17T14:40:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Espace client de Carrefour Banque bloqué : voici comment accéder au service pendant l’interruption",
+      "url": "https://www.presse-citron.net/espace-client-de-carrefour-banque-bloque-voici-comment-acceder-au-service-pendant-linterruption/",
+      "publishedAt": "2026-11-17T14:33:41+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Voyager 1 atteint un jour-lumière de la Terre : à 26 milliards de km de la Terre, cela aurait pris 28 250 ans en voiture",
+      "url": "https://www.numerama.com/sciences/2376733-voyager-1-atteint-un-jour-lumiere-de-la-terre-a-26-milliards-de-km-de-la-terre-cela-aurait-pris-28-250-ans-en-voiture.html",
+      "publishedAt": "2026-11-17T14:32:57+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Apple TV 4K : Apple double la mémoire, mais la garde pour elle",
+      "url": "https://www.mac4ever.com/tv/199082-apple-tv-4k-apple-double-la-memoire-mais-la-garde-pour-elle",
+      "publishedAt": "2026-11-17T14:31:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Le Xiaomi 18 Pro Max est officiel : c’est quoi cet étrange téléphone avec deux écrans ?",
+      "url": "https://www.presse-citron.net/le-xiaomi-18-pro-max-est-officiel-cest-quoi-cet-etrange-telephone-avec-deux-ecrans/",
+      "publishedAt": "2026-11-17T14:30:35+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Test Xiaomi 18 Pro Max : deux écrans, c’est mieux ?",
+      "url": "https://www.journaldugeek.com/test/test-xiaomi-18-pro-max-deux-ecrans-cest-mieux/",
+      "publishedAt": "2026-11-17T14:30:27+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Xiaomi 18 Pro : un deuxième écran pour détourner les regards d'Apple et Samsung",
+      "url": "https://www.clubic.com/actualite-639646-xiaomi-18-pro-un-deuxieme-ecran-pour-detourner-les-regards-d-apple-et-samsung.html",
+      "publishedAt": "2026-11-17T14:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Amazon n'attend pas le Black Friday et fait chuter le prix de l’iPhone 17 Pro Max",
+      "url": "https://www.clubic.com/bons-plans-638482-amazon-n-attend-pas-le-black-friday-et-fait-chuter-le-prix-de-l-iphone-17-pro-max.html",
+      "publishedAt": "2026-11-17T14:26:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "James Bond : il y a 16 ans, Robert Pattinson pensait qu’il ferait un « très mauvais » James Bond",
+      "url": "https://www.numerama.com/pop-culture/2376765-james-bond-il-y-a-16-ans-robert-pattinson-pensait-quil-ferait-un-tres-mauvais-james-bond.html",
+      "publishedAt": "2026-11-17T14:21:17+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Obsolescence programmée : Apple sera jugée à Paris en juin 2027",
+      "url": "https://www.generation-nt.com/actualites/apple-iphone-obsolescence-programme-proces-hop-2084644",
+      "publishedAt": "2026-11-17T14:20:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Est-ce qu’on se lève pour Hunger Games : Lever de soleil sur la moisson ? (avis sans spoiler)",
+      "url": "https://www.numerama.com/pop-culture/2376659-est-ce-quon-se-leve-pour-hunger-games-lever-de-soleil-sur-la-moisson-avis-sans-spoiler.html",
+      "publishedAt": "2026-11-17T14:19:23+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "SFR lance sa Box 10 : le Wi-Fi 7 arrive dans l'offre Fibre Power à 36,99 €/mois",
+      "url": "https://www.macg.co/services/2026/11/sfr-lance-sa-box-10-le-wi-fi-7-arrive-dans-loffre-fibre-power-3699-eumois-312465",
+      "publishedAt": "2026-11-17T14:18:27+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Ship 42 : un morceau de bouclier manquant, coque irisée et inscription « Don’t Panic » – ce que révèlent les détails de la fusée après la première capture",
+      "url": "https://www.numerama.com/sciences/2376179-ship-42-un-morceau-de-bouclier-manquant-coque-irisee-et-inscription-dont-panic-ce-que-revelent-les-details-de-la-fusee-apres-la-premiere-capture.html",
+      "publishedAt": "2026-11-17T14:17:33+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Le MacBook Pro OLED crée des vertiges et des maux de tête : voici quelle serait la cause",
+      "url": "https://www.iphon.fr/post/macbook-pro-oled-cree-vertiges-maux-tete-voici-quelle-serait-cause",
+      "publishedAt": "2026-11-17T14:17:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Ime Udoka ne cherche pas d’excuse après la déroute des Rockets",
+      "url": "https://www.basketusa.com/news/958236/ime-udoka-ne-cherche-pas-dexcuse-apres-la-deroute-des-rockets/",
+      "publishedAt": "2026-11-17T14:06:20+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ils pensent télécharger GTA 6 gratuitement pour PC et finissent avec un virus : attention, les pièges se multiplient à l’approche de la sortie officielle",
+      "url": "https://www.presse-citron.net/telecharger-gta-6-gratuitement-pour-pc-piege-virus/",
+      "publishedAt": "2026-11-17T14:04:59+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "iOS 27.3 : Apple pourrait encore modifier l'apparence de Liquid Glass sur l'iPhone",
+      "url": "https://www.mac4ever.com/iphone/199079-ios-27-3-apple-pourrait-encore-modifier-l-apparence-de-liquid-glass-sur-l-iphone",
+      "publishedAt": "2026-11-17T14:02:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Leclerc fait chuter le prix de GTA 6 à deux jours de sa sortie",
+      "url": "https://www.numerama.com/pop-culture/2372707-amazon-fait-chuter-le-prix-de-gta-6-a-deux-jours-de-sa-sortie.html",
+      "publishedAt": "2026-11-17T14:01:17+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Siri rationnée sur iOS 27, payer plus pour en avoir plus",
+      "url": "https://korben.info/siri-rationnee-sur-ios-27-payer-plus-pour-en-avoir-plus.html",
+      "publishedAt": "2026-11-17T14:00:39+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Hunger Games : Lever de soleil sur la moisson est-il le meilleur film de la saga ?",
+      "url": "https://www.journaldugeek.com/critique/hunger-games-lever-de-soleil-sur-la-moisson-est-il-le-meilleur-film-de-la-saga/",
+      "publishedAt": "2026-11-17T14:00:03+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "La Californie attaque OpenAI pour la prolifération d'agents IA incontrôlables",
+      "url": "https://www.generation-nt.com/actualites/californie-openai-justice-piratage-hugging-face-2084616",
+      "publishedAt": "2026-11-17T14:00:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Sony accélère le déploiement de son QSSR (au goût de PS5 Pro) sur PS5 classique",
+      "url": "https://www.clubic.com/actualite-639604-sony-accelere-le-deploiement-de-son-qssr-au-gout-de-ps5-pro-sur-ps5-classique.html",
+      "publishedAt": "2026-11-17T13:59:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'armée chinoise teste un drone qui injecte des antalgiques par fléchette",
+      "url": "https://www.generation-nt.com/actualites/chine-drone-medical-flechette-antalgique-2084558",
+      "publishedAt": "2026-11-17T13:45:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Apple TV 4K 2026 : la puce A19 a un secret qu'Apple s'est bien gardé d'annoncer",
@@ -185,6 +335,12 @@
     },
     {
       "source": "numerama",
+      "title": "Après sa démission de Nvidia, des alliés de Jensen Huang montent une war room pour le faire revenir",
+      "url": "https://www.numerama.com/tech/2375527-apres-sa-demission-de-nvidia-des-allies-de-jensen-huang-montent-une-war-room-pour-le-faire-revenir.html",
+      "publishedAt": "2026-11-17T13:05:32+00:00"
+    },
+    {
+      "source": "numerama",
       "title": "Faire signe à une sonde à 26 milliards de kilomètres : c’est absurde, c’est poétique, et c’est ce soir",
       "url": "https://www.numerama.com/sciences/2374607-faire-signe-a-une-sonde-a-26-milliards-de-kilometres-cest-absurde-cest-poetique-et-cest-ce-soir.html",
       "publishedAt": "2026-11-17T13:02:38+00:00"
@@ -221,7 +377,7 @@
     },
     {
       "source": "numerama",
-      "title": "La canicule fait-elle vraiment moins naître des bébés ? Ce que deux études européennes prouvent, et ce qu’elles ratent",
+      "title": "Les vagues de chaleur font-elles chuter le nombre de bébés en France ?",
       "url": "https://www.numerama.com/sciences/2376429-la-canicule-fait-elle-vraiment-moins-naitre-des-bebes-ce-que-deux-etudes-europeennes-prouvent-et-ce-quelles-ratent.html",
       "publishedAt": "2026-11-17T12:50:00+00:00"
     },
@@ -296,12 +452,6 @@
       "title": "SFR coupe sa 2G le 15 décembre, et votre 4G n'est pas forcément à l'abri",
       "url": "https://www.mac4ever.com/divers/199080-sfr-coupe-sa-2g-le-15-decembre-et-votre-4g-n-est-pas-forcement-a-l-abri",
       "publishedAt": "2026-11-17T12:10:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957888/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-17T12:07:35+00:00"
     },
     {
       "source": "clubic",
@@ -437,9 +587,9 @@
     },
     {
       "source": "basketusa",
-      "title": "Orlando Magic – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958301/orlando-magic-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-17T11:09:10+00:00"
+      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957888/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-17T11:07:35+00:00"
     },
     {
       "source": "numerama",
@@ -464,6 +614,12 @@
       "title": "“24 modèles d’iPhone concernés par la plainte” : Apple sera jugé en France pour entraves à la réparation",
       "url": "https://www.presse-citron.net/iphone-apple-juge-france-reparation/",
       "publishedAt": "2026-11-17T10:58:37+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Celtics rappelés à l’ordre par le Magic",
+      "url": "https://www.basketusa.com/news/958194/les-celtics-rappeles-a-lordre-par-le-magic/",
+      "publishedAt": "2026-11-17T10:56:12+00:00"
     },
     {
       "source": "clubic",
@@ -598,6 +754,12 @@
       "publishedAt": "2026-11-17T10:11:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Orlando Magic – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958301/orlando-magic-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-17T10:09:10+00:00"
+    },
+    {
       "source": "numerama",
       "title": "GTA 6 à 30 fps : les propriétaires de TV OLED doivent-ils s’inquiéter ?",
       "url": "https://www.numerama.com/pop-culture/2376041-gta-6-a-30-fps-les-proprietaires-de-tv-oled-doivent-ils-sinquieter.html",
@@ -638,12 +800,6 @@
       "title": "Ocean : Brad Pitt lâche une mauvaise nouvelle sur la suite avec Clooney et Matt Damon",
       "url": "https://www.numerama.com/pop-culture/2376057-ocean-brad-pitt-lache-une-mauvaise-nouvelle-sur-la-suite-avec-clooney-et-matt-damon.html",
       "publishedAt": "2026-11-17T09:57:46+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Celtics rappelés à l’ordre par le Magic",
-      "url": "https://www.basketusa.com/news/958194/les-celtics-rappeles-a-lordre-par-le-magic/",
-      "publishedAt": "2026-11-17T09:56:12+00:00"
     },
     {
       "source": "numerama",
@@ -3152,42 +3308,6 @@
       "title": "À la TV ce soir : 3 films à regarder ce dimanche 15 novembre 2026",
       "url": "https://www.journaldugeek.com/2026/11/15/a-la-tv-ce-soir-3-films-a-regarder-ce-dimanche-15-novembre-2026/",
       "publishedAt": "2026-11-15T15:00:56+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Jusqu’à 899€ d’économie chez Boulanger : les 13 offres Black Friday à ne pas manquer",
-      "url": "https://www.clubic.com/bons-plans-639232-black-friday-2026-boulanger-lance-deja-13-offres-tech-jusqu-a--45-rien-que-ca.html",
-      "publishedAt": "2026-11-15T14:53:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Cette étoile brillait fort tous les 113 jours et on sait enfin pourquoi",
-      "url": "https://www.numerama.com/sciences/2372635-cette-etoile-brillait-fort-tous-les-113-jours-et-on-sait-enfin-pourquoi.html",
-      "publishedAt": "2026-11-15T14:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Desmond Bane réveille l’instinct de tueur de Franz Wagner",
-      "url": "https://www.basketusa.com/news/957467/desmond-bane-reveille-linstinct-de-tueur-de-franz-wagner/",
-      "publishedAt": "2026-11-15T14:27:45+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Google lance Gemini Finance : l’IA qui analyse vos comptes bancaires comme ChatGPT",
-      "url": "https://www.clubic.com/actualite-639343-google-lance-gemini-finance-l-ia-qui-analyse-vos-comptes-bancaires-comme-chatgpt.html",
-      "publishedAt": "2026-11-15T14:13:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La résurrection du loup sinistre n'est qu'un mirage génétique",
-      "url": "https://www.generation-nt.com/actualites/resurrection-loup-prehistorique-mirage-genetique-2084478",
-      "publishedAt": "2026-11-15T14:05:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "116 drones sous-marins chinois dans le grand bain, c’est un record",
-      "url": "https://www.journaldugeek.com/2026/11/15/116-drones-sous-marins-chinois-dans-le-grand-bain-cest-un-record/",
-      "publishedAt": "2026-11-15T14:03:59+00:00"
     },
     {
       "source": "boulet",
