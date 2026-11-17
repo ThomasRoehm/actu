@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T12:39:45.646575+00:00",
+  "generatedAt": "2026-11-17T13:58:37.101562+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,135 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-17T12:39:45.646575+00:00"
+      "lastSuccessAt": "2026-11-17T13:58:37.101562+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Apple TV 4K 2026 : la puce A19 a un secret qu'Apple s'est bien gardé d'annoncer",
+      "url": "https://www.clubic.com/actualite-639664-apple-tv-4k-2026-la-puce-a19-a-un-secret-qu-apple-s-est-bien-garde-d-annoncer.html",
+      "publishedAt": "2026-11-17T13:34:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "La voiture la plus rapide du monde finit pulvérisée lors d’un essai à grande vitesse",
+      "url": "https://www.journaldugeek.com/2026/11/17/la-voiture-la-plus-rapide-du-monde-finit-pulverisee-lors-dun-essai-a-grande-vitesse/",
+      "publishedAt": "2026-11-17T13:33:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Nikola Jokic et les Nuggets frustrés par leurs erreurs",
+      "url": "https://www.basketusa.com/news/958251/nikola-jokic-et-les-nuggets-frustres-par-leurs-erreurs/",
+      "publishedAt": "2026-11-17T13:32:33+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Cybercab : le taxi sans chauffeur Tesla arrive en Europe, il sera assemblé à 878 km de Paris",
+      "url": "https://www.presse-citron.net/cybercab-le-taxi-sans-chauffeur-tesla-arrive-en-europe-il-sera-assemble-a-878-km-de-paris/",
+      "publishedAt": "2026-11-17T13:27:21+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "L'iPhone Air bradé à -26% : aussi premium que le Duo, pour moins de la moitié du prix !",
+      "url": "https://www.mac4ever.com/iphone/199081-l-iphone-air-brade-a-26-aussi-premium-que-le-duo-pour-moins-de-la-moitie-du-prix",
+      "publishedAt": "2026-11-17T13:22:38+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "SFR lance une Box 10 avec Wi-Fi 7",
+      "url": "https://www.generation-nt.com/actualites/sfr-box-10-wifi-7-fibre-power-2084639",
+      "publishedAt": "2026-11-17T13:20:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "De Xiaomi à BYD, les constructeurs chinois préparent une présence massive à Munich en 2027",
+      "url": "https://www.numerama.com/vroom/2376477-de-xiaomi-a-byd-les-constructeurs-chinois-preparent-une-presence-massive-a-munich-en-2027.html",
+      "publishedAt": "2026-11-17T13:17:39+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : Amazon baisse déjà le prix de 10 TV et vidéoprojecteurs, jusqu’à -40%",
+      "url": "https://www.clubic.com/bons-plans-638875-pour-le-black-friday-amazon-fait-chuter-le-prix-des-tv-mini-led-et-des-videoprojecteurs-xgimi.html",
+      "publishedAt": "2026-11-17T13:06:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Faire signe à une sonde à 26 milliards de kilomètres : c’est absurde, c’est poétique, et c’est ce soir",
+      "url": "https://www.numerama.com/sciences/2374607-faire-signe-a-une-sonde-a-26-milliards-de-kilometres-cest-absurde-cest-poetique-et-cest-ce-soir.html",
+      "publishedAt": "2026-11-17T13:02:38+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "À quelques jours du Black Friday, Amazon offre un énorme cadeau à ses abonnés Prime : voici comment en profiter",
+      "url": "https://www.journaldugeek.com/2026/11/17/a-quelques-jours-du-black-friday-amazon-offre-un-enorme-cadeau-a-ses-abonnes-prime-voici-comment-en-profiter/",
+      "publishedAt": "2026-11-17T13:02:20+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Voyager 1 : 49 ans après son lancement, la sonde de la NASA atteint un jour-lumière de la Terre",
+      "url": "https://www.mac4ever.com/divers/199078-voyager-1-49-ans-apres-son-lancement-la-sonde-de-la-nasa-atteint-un-jour-lumiere-de-la-terre",
+      "publishedAt": "2026-11-17T13:02:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Panne Microsoft 365 : un bug interne vieux de plusieurs mois à l'origine du chaos",
+      "url": "https://www.clubic.com/actualite-639652-panne-microsoft-365-un-bug-interne-vieux-de-plusieurs-mois-a-l-origine-du-chaos.html",
+      "publishedAt": "2026-11-17T13:01:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les drones de livraison d'Amazon exaspèrent de plus en plus de riverains américains",
+      "url": "https://www.generation-nt.com/actualites/livraison-drones-amazon-bruit-riverains-2084593",
+      "publishedAt": "2026-11-17T13:00:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Pour dix grammes de pain manquants, un boulanger a perdu 15 000 € : « maintenant, nous espérons que tous les pains, toutes les balances et tous les esprits seront équilibrés »",
+      "url": "https://www.presse-citron.net/pour-dix-grammes-de-pain-manquants-un-boulanger-a-perdu-15-000-e-maintenant-nous-esperons-que-tous-les-pains-toutes-les-balances-et-tous-les-esprits-seront-equilibres/",
+      "publishedAt": "2026-11-17T12:52:32+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "La canicule fait-elle vraiment moins naître des bébés ? Ce que deux études européennes prouvent, et ce qu’elles ratent",
+      "url": "https://www.numerama.com/sciences/2376429-la-canicule-fait-elle-vraiment-moins-naitre-des-bebes-ce-que-deux-etudes-europeennes-prouvent-et-ce-quelles-ratent.html",
+      "publishedAt": "2026-11-17T12:50:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Gêné par son orteil, Evan Mobley reste sur le flanc",
+      "url": "https://www.basketusa.com/news/958117/gene-par-son-orteil-evan-mobley-reste-sur-le-flanc/",
+      "publishedAt": "2026-11-17T12:49:54+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Apple bientôt condamnée en France ? La date du procès est connue",
+      "url": "https://www.iphon.fr/post/apple-france-justice-obsolescence-programme",
+      "publishedAt": "2026-11-17T12:45:16+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Month Cdiscount : les manettes DualSense en promotion dès 54,99 €",
+      "url": "https://www.generation-nt.com/actualites/cdiscount-promos-pas-cher-sony-manette-dualsense-edge-playstation-white-midnight-black-chroma-teal-cosmic-red-grey-camo-2084633",
+      "publishedAt": "2026-11-17T12:40:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "La fibre optique cale à 150 km, Thales Alenia Space mise sur l'espace pour l'Internet quantique",
+      "url": "https://www.clubic.com/actualite-639625-la-fibre-optique-cale-a-150-km-thales-alenia-space-mise-sur-l-espace-pour-l-internet-quantique.html",
+      "publishedAt": "2026-11-17T12:40:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Après des décennies d’absence, une navette spatiale pourrait faire son grand retour dès 2027",
       "url": "https://www.numerama.com/sciences/2376245-apres-des-decennies-dabsence-la-navette-spatiale-pourrait-faire-son-retour-des-lannee-prochaine.html",
       "publishedAt": "2026-11-17T12:31:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "GTA 6 : de nouvelles images du jeu dévoilées par… la chaîne météo",
+      "url": "https://www.presse-citron.net/gta-6-de-nouvelles-images-du-jeu-devoilees-par-la-chaine-meteo/",
+      "publishedAt": "2026-11-17T12:30:30+00:00"
     },
     {
       "source": "jdg",
@@ -176,6 +296,12 @@
       "title": "SFR coupe sa 2G le 15 décembre, et votre 4G n'est pas forcément à l'abri",
       "url": "https://www.mac4ever.com/divers/199080-sfr-coupe-sa-2g-le-15-decembre-et-votre-4g-n-est-pas-forcement-a-l-abri",
       "publishedAt": "2026-11-17T12:10:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957888/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-17T12:07:35+00:00"
     },
     {
       "source": "clubic",
@@ -227,7 +353,7 @@
     },
     {
       "source": "presse",
-      "title": "Volotea réduit sa flotte à 30 avions seulement : lumière sur la chute de ce spécialiste du low-cost",
+      "title": "Volotea réduit sa flotte à 30 avions seulement : lumière sur la chute de cette compagnie low-cost",
       "url": "https://www.presse-citron.net/volotea-reduit-sa-flotte-a-30-avions-seulement-lumiere-sur-la-chute-de-ce-specialiste-du-low-cost/",
       "publishedAt": "2026-11-17T11:30:14+00:00"
     },
@@ -316,12 +442,6 @@
       "publishedAt": "2026-11-17T11:09:10+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957888/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-17T11:07:35+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Avis aux ornithos, dans GTA 6, il y aura 62 espèces d’oiseaux à observer",
       "url": "https://www.numerama.com/pop-culture/2376193-avis-aux-ornithos-dans-gta-6-il-y-aura-62-especes-doiseaux-a-observer.html",
@@ -344,12 +464,6 @@
       "title": "“24 modèles d’iPhone concernés par la plainte” : Apple sera jugé en France pour entraves à la réparation",
       "url": "https://www.presse-citron.net/iphone-apple-juge-france-reparation/",
       "publishedAt": "2026-11-17T10:58:37+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Celtics rappelés à l’ordre par le Magic",
-      "url": "https://www.basketusa.com/news/958194/les-celtics-rappeles-a-lordre-par-le-magic/",
-      "publishedAt": "2026-11-17T10:56:12+00:00"
     },
     {
       "source": "clubic",
@@ -524,6 +638,12 @@
       "title": "Ocean : Brad Pitt lâche une mauvaise nouvelle sur la suite avec Clooney et Matt Damon",
       "url": "https://www.numerama.com/pop-culture/2376057-ocean-brad-pitt-lache-une-mauvaise-nouvelle-sur-la-suite-avec-clooney-et-matt-damon.html",
       "publishedAt": "2026-11-17T09:57:46+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Celtics rappelés à l’ordre par le Magic",
+      "url": "https://www.basketusa.com/news/958194/les-celtics-rappeles-a-lordre-par-le-magic/",
+      "publishedAt": "2026-11-17T09:56:12+00:00"
     },
     {
       "source": "numerama",
@@ -755,7 +875,7 @@
     },
     {
       "source": "jdg",
-      "title": "Pour défendre Avenger Doomsday, Kevin Feige a un argument aussi drôle que ridicule. Attention, grosse disquette !",
+      "title": "Doom aurait pu apparaître dans un autre Avengers, mais avec beaucoup de mauvaise foi",
       "url": "https://www.journaldugeek.com/2026/11/17/pour-defendre-avenger-doomsday-kevin-feige-a-un-argument-aussi-drole-que-ridicule-attention-grosse-disquette/",
       "publishedAt": "2026-11-17T08:30:49+00:00"
     },
@@ -2117,12 +2237,6 @@
     },
     {
       "source": "clubic",
-      "title": "Black Friday : Amazon baisse déjà le prix de 10 TV et vidéoprojecteurs, jusqu’à -40%",
-      "url": "https://www.clubic.com/bons-plans-638875-pour-le-black-friday-amazon-fait-chuter-le-prix-des-tv-mini-led-et-des-videoprojecteurs-xgimi.html",
-      "publishedAt": "2026-11-16T10:42:00+00:00"
-    },
-    {
-      "source": "clubic",
       "title": "Qwen4-Max : Alibaba promet une IA plus sûre, quelques semaines après un incident de données",
       "url": "https://www.clubic.com/actualite-639409-qwen4-max-alibaba-promet-une-ia-plus-sure-quelques-semaines-apres-un-incident-de-donnees.html",
       "publishedAt": "2026-11-16T10:42:00+00:00"
@@ -3074,102 +3188,6 @@
       "title": "116 drones sous-marins chinois dans le grand bain, c’est un record",
       "url": "https://www.journaldugeek.com/2026/11/15/116-drones-sous-marins-chinois-dans-le-grand-bain-cest-un-record/",
       "publishedAt": "2026-11-15T14:03:59+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Un match déclic pour Alex Sarr aux côtés d’Anthony Davis ?",
-      "url": "https://www.basketusa.com/news/957562/un-match-declic-pour-alex-sarr-aux-cotes-danthony-davis/",
-      "publishedAt": "2026-11-15T13:56:43+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Cleveland Cavaliers – Chicago Bulls : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957610/cleveland-cavaliers-chicago-bulls-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-15T13:53:47+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Utah Jazz – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957554/utah-jazz-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-15T13:47:56+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Intel lance le Core Ultra 7 260K : un processeur « exclusif » que vous ne trouverez pas de sitôt",
-      "url": "https://www.clubic.com/actualite-639349-intel-lance-le-core-ultra-7-260k-un-processeur-exclusif-que-vous-ne-trouverez-pas-de-sitot.html",
-      "publishedAt": "2026-11-15T13:37:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Adieu la France : ces 3 pays européens sont un véritable paradis pour les retraités du monde entier",
-      "url": "https://www.presse-citron.net/adieu-la-france-ces-3-pays-europeens-sont-un-veritable-paradis-pour-les-retraites-du-monde-entier/",
-      "publishedAt": "2026-11-15T13:18:02+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Facebook condamné à 805 millions d’euros en Italie pour accès à des photos sans consentement",
-      "url": "https://www.clubic.com/actualite-639340-facebook-condamne-a-805-millions-d-euros-en-italie-pour-acces-a-des-photos-sans-consentement.html",
-      "publishedAt": "2026-11-15T13:15:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "La Poste : les boîtes aux lettres c’est bientôt terminé, voici ce qui les remplace dès maintenant en France",
-      "url": "https://www.presse-citron.net/la-poste-les-boites-aux-lettres-cest-bientot-termine-voici-ce-qui-les-remplace-des-maintenant-en-france/",
-      "publishedAt": "2026-11-15T13:12:39+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Doug Christie s’accommode de son siège éjectable",
-      "url": "https://www.basketusa.com/news/957575/doug-christie-saccommode-de-son-siege-ejectable/",
-      "publishedAt": "2026-11-15T13:11:54+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La Nasa recrute de futurs astronautes pour habiter sur la Lune",
-      "url": "https://www.generation-nt.com/actualites/lune-nasa-recrutement-astronautes-2084476",
-      "publishedAt": "2026-11-15T13:10:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Apple se réveille. Merci John Ternus ?",
-      "url": "https://www.mac4ever.com/iphone/199033-apple-se-reveille-merci-john-ternus",
-      "publishedAt": "2026-11-15T13:05:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Une pétition en faveur de Jensen Huang recueille 140 000 signatures et le soutien d'Elon Musk",
-      "url": "https://www.macg.co/ailleurs/2026/11/plus-de-140-000-signatures-et-le-soutien-delon-musk-pour-une-petition-en-faveur-du-retour-de-jensen-huang-la-tete-de-nvidia-312411",
-      "publishedAt": "2026-11-15T13:04:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "AirTag : le capteur devance la police dans une nouvelle affaire de vol inédite",
-      "url": "https://www.iphon.fr/post/airtag-le-capteur-devance-la-police-dans-une-nouvelle-affaire-de-vol-inedite",
-      "publishedAt": "2026-11-15T13:03:23+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Les émissions de CO₂ vont baisser en 2026, mais le compte n’y est pas",
-      "url": "https://www.journaldugeek.com/2026/11/15/les-emissions-de-co%e2%82%82-vont-baisser-en-2026-mais-le-compte-ny-est-pas/",
-      "publishedAt": "2026-11-15T13:02:56+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Ils vont monter à bord, mais les astronautes n’ont pas le droit de voir la fusée : le rituel le plus paradoxal des lancements Soyouz",
-      "url": "https://www.numerama.com/sciences/2371751-ils-vont-monter-a-bord-mais-les-astronautes-nont-pas-le-droit-de-la-voir-le-rituel-le-plus-paradoxal-des-lancements-soyouz.html",
-      "publishedAt": "2026-11-15T13:01:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Rencontre sous haute tension : les 5 enjeux du sommet entre Donald Trump et Xi Jinping cette semaine",
-      "url": "https://www.presse-citron.net/rencontre-sous-haute-tension-les-5-enjeux-du-sommet-entre-trump-et-xi-jinping-cette-semaine/",
-      "publishedAt": "2026-11-15T13:00:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957558/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-15T12:50:04+00:00"
     },
     {
       "source": "boulet",
