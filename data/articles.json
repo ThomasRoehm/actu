@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:31:00.522754+00:00",
+  "generatedAt": "2026-11-18T20:40:37.234851+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T20:31:00.522754+00:00"
+      "lastSuccessAt": "2026-11-18T20:40:37.234851+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "FSD en Europe : la Finlande donne son feu vert provisoires, la France veut garder ses échanges secrets",
+      "url": "https://www.macg.co/mobilites/2026/11/fsd-en-europe-la-finlande-donne-son-feu-vert-provisoires-la-france-veut-garder-ses-echanges-secrets-312501",
+      "publishedAt": "2026-11-18T20:30:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Programme du soir | Douze matchs au programme, avec un choc entre Boston et Denver",
@@ -268,12 +274,6 @@
       "publishedAt": "2026-11-18T17:50:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Tyler Herro et Bam Adebayo ne se parlent toujours pas…",
-      "url": "https://www.basketusa.com/news/958713/tyler-herro-et-bam-adebayo-ne-se-parlent-toujours-pas/",
-      "publishedAt": "2026-11-18T17:49:29+00:00"
-    },
-    {
       "source": "gnt",
       "title": "L'OTAN s'allie à OpenAI pour muscler sa cyberdéfense",
       "url": "https://www.generation-nt.com/actualites/openai-otan-cyberdefense-ia-vulnerabilite-2084712",
@@ -380,6 +380,12 @@
       "title": "Des lasers surpuissants pourraient réduire le coût de l'allumage des réacteurs à fusion nucléaire",
       "url": "https://www.generation-nt.com/actualites/lasers-cout-allumage-fusion-2084673",
       "publishedAt": "2026-11-18T16:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Tyler Herro et Bam Adebayo ne se parlent toujours pas…",
+      "url": "https://www.basketusa.com/news/958713/tyler-herro-et-bam-adebayo-ne-se-parlent-toujours-pas/",
+      "publishedAt": "2026-11-18T16:49:29+00:00"
     },
     {
       "source": "macg",
@@ -784,6 +790,12 @@
       "publishedAt": "2026-11-18T13:43:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:42:31+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Des algorithmes de droits d'auteur censurent une artiste au profit de vidéos générées par IA",
       "url": "https://www.generation-nt.com/actualites/algorithmes-censure-artiste-videos-ia-2084669",
@@ -950,12 +962,6 @@
       "title": "Puces d'IA, Washington coupe l'accès à distance de la Chine",
       "url": "https://korben.info/puces-dia-washington-coupe-lacces-a-distance-de-la-chine.html",
       "publishedAt": "2026-11-18T12:43:07+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:42:31+00:00"
     },
     {
       "source": "numerama",
@@ -3740,18 +3746,6 @@
       "title": "Joueurs de la semaine | Victor Wembanyama encore récompensé !",
       "url": "https://www.basketusa.com/news/958099/joueurs-de-la-semaine-victor-wembanyama-encore-recompense/",
       "publishedAt": "2026-11-16T20:47:28+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Des boîtiers de GTA 6 livrés sans disques, ni codes de téléchargement",
-      "url": "https://www.generation-nt.com/actualites/gta-6-boitiers-sans-code-2084513",
-      "publishedAt": "2026-11-16T20:35:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Entre Orange en octobre et SFR en novembre, la 2G disparaît de France en quelques semaines",
-      "url": "https://www.numerama.com/tech/2375261-entre-orange-en-octobre-et-sfr-en-novembre-la-2g-disparait-de-france-en-quelques-semaines.html",
-      "publishedAt": "2026-11-16T20:32:52+00:00"
     },
     {
       "source": "boulet",
