@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:20:38.130593+00:00",
+  "generatedAt": "2026-11-18T08:25:26.930747+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:20:38.130593+00:00"
+      "lastSuccessAt": "2026-11-18T08:25:26.930747+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "YouTube va désormais deviner combien vous êtes sur le canapé et ses compteurs vont grimper",
+      "url": "https://www.clubic.com/actualite-639784-youtube-va-desormais-deviner-combien-vous-etes-sur-le-canape-et-ses-compteurs-vont-grimper.html",
+      "publishedAt": "2026-11-18T08:24:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Blizzard n’avait pas vu ça depuis 15 ans : WoW Forever n’avait pas rassemblé autant de joueurs sur le jeu depuis l’époque de Cataclysm",
@@ -152,12 +158,6 @@
       "title": "Instagram relance Direct, une messagerie qu'il avait déjà enterrée en 2019",
       "url": "https://www.mac4ever.com/web/199097-instagram-relance-direct-une-messagerie-qu-il-avait-deja-enterree-en-2019",
       "publishedAt": "2026-11-18T08:10:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | C’était Kobe Bryant déguisé en Quentin Grimes",
-      "url": "https://www.basketusa.com/news/958521/le-mvp-de-la-nuit-cetait-kobe-bryant-deguise-en-quentin-grimes/",
-      "publishedAt": "2026-11-18T08:03:41+00:00"
     },
     {
       "source": "jdg",
@@ -278,6 +278,12 @@
       "title": "Impôts : après les piscines, le Fisc a décidé de viser ces deux constructions très répandues chez les Français",
       "url": "https://www.presse-citron.net/impots-apres-les-piscines-le-fisc-a-decide-de-viser-ces-deux-constructions-tres-repandues-chez-les-francais/",
       "publishedAt": "2026-11-18T07:05:18+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | C’était Kobe Bryant déguisé en Quentin Grimes",
+      "url": "https://www.basketusa.com/news/958521/le-mvp-de-la-nuit-cetait-kobe-bryant-deguise-en-quentin-grimes/",
+      "publishedAt": "2026-11-18T07:03:41+00:00"
     },
     {
       "source": "jdg",
