@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:55:36.732852+00:00",
+  "generatedAt": "2026-11-18T06:01:08.105644+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T05:55:36.732852+00:00"
+      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Piratage de comptes à l’ère de l’IA : ces petits réflexes qui peuvent vous éviter de gros ennuis",
+      "url": "https://www.clubic.com/actualite-638299-piratage-de-comptes-a-l-ere-de-l-ia-ces-petits-reflexes-qui-peuvent-vous-eviter-de-gros-ennuis.html",
+      "publishedAt": "2026-11-18T06:00:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Roblox fait l’objet de près de 200 poursuites liées à des accusations d’exploitation sexuelle de mineurs",
+      "url": "https://www.clubic.com/actualite-639775-roblox-fait-l-objet-de-pres-de-200-poursuites-liees-a-des-accusations-d-exploitation-sexuelle-de-mineurs.html",
+      "publishedAt": "2026-11-18T06:00:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Jalen Brunson tire à nouveau les Knicks d’affaire à Toronto",
@@ -3626,24 +3638,6 @@
       "title": "Ces lunettes aident des personnes aveugles à distinguer des objets",
       "url": "https://www.journaldugeek.com/2026/11/16/ces-lunettes-aident-des-personnes-aveugles-a-distinguer-des-objets/",
       "publishedAt": "2026-11-16T06:02:46+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "J’ai testé le DJI Romo P2 : un bras, des jambes et 600 euros de moins pour l’aspirateur robot",
-      "url": "https://www.presse-citron.net/dji-romo-p2-test/",
-      "publishedAt": "2026-11-16T06:00:44+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Ecovacs : jusqu’à -800 € sur les robots qui lavent vos sols et vos vitres",
-      "url": "https://www.clubic.com/actualite-636763-black-friday-ecovacs-jusqu-a--800-sur-les-robots-qui-lavent-vos-sols-et-vos-vitres.html",
-      "publishedAt": "2026-11-16T06:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "NVIDIA subit des pressions pour réintégrer Jensen Huang",
-      "url": "https://www.clubic.com/actualite-639370-nvidia-subit-des-pressions-pour-reintegrer-jensen-huang.html",
-      "publishedAt": "2026-11-16T06:00:00+00:00"
     },
     {
       "source": "boulet",
