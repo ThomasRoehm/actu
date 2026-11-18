@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:20:45.282720+00:00",
+  "generatedAt": "2026-11-18T12:30:55.236325+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "clubic",
@@ -19,9 +19,9 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/clubic.png",
-      "ok": false,
-      "error": "The read operation timed out",
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
+      "lastSuccessAt": "2026-11-18T12:30:55.236325+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "GTA 6 décroche un 99 sur Metacritic, du jamais vu depuis Zelda Ocarina of Time",
+      "url": "https://www.mac4ever.com/gaming/199104-gta-6-decroche-un-99-sur-metacritic-du-jamais-vu-depuis-zelda-ocarina-of-time",
+      "publishedAt": "2026-11-18T12:25:16+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Affaire d'espionnage et puces Nvidia : Jensen Huang s'expliquera devant le Congrès en décembre",
+      "url": "https://www.generation-nt.com/actualites/nvidia-jensen-huang-audition-congres-decembre-2084682",
+      "publishedAt": "2026-11-18T12:20:01+00:00"
+    },
     {
       "source": "numerama",
       "title": "Sortie GTA 6 : les premiers joueurs arrivent dans Leonida (infos, images et premières astuces en direct)",
       "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct.html",
       "publishedAt": "2026-11-18T12:13:36+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Starship est déjà la plus grande fusée du monde, sa prochaine itération sera encore plus gigantesque",
+      "url": "https://www.clubic.com/actualite-639841-elon-musk-annonce-une-starship-v4-encore-plus-gigantesque-que-la-plus-grande-fusee-du-monde.html",
+      "publishedAt": "2026-11-18T12:12:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Payer les élèves pour aller en cours le jour de GTA 6, la fausse bonne idée ?",
+      "url": "https://www.generation-nt.com/actualites/payer-eleves-cours-gta-idee-2084666",
+      "publishedAt": "2026-11-18T12:10:01+00:00"
     },
     {
       "source": "numerama",
@@ -164,6 +188,12 @@
       "title": "6 111 tirs laser, 0,6 millimètre de précision : la solution britannique aux satellites fantômes vient d’être validée",
       "url": "https://www.numerama.com/sciences/2377469-cette-start-up-veut-installer-des-miroirs-sur-les-satellites-pour-lutter-contre-les-debris-spatiaux.html",
       "publishedAt": "2026-11-18T12:01:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday : la PlayPop 8 fait le plein de jeux et baisse son prix",
+      "url": "https://www.generation-nt.com/actualites/playpop-8-console-jeu-blackview-sans-manette-black-friday-2084484",
+      "publishedAt": "2026-11-18T12:00:02+00:00"
     },
     {
       "source": "basketusa",
@@ -3680,12 +3710,6 @@
       "title": "Le propriétaire d’AliExpress lance son IA la plus puissante à ce jour : que vaut Qwen4-Max ?",
       "url": "https://www.journaldugeek.com/2026/11/16/le-proprietaire-daliexpress-lance-son-ia-la-plus-puissante-a-ce-jour-que-vaut-qwen4-max/",
       "publishedAt": "2026-11-16T12:32:41+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "À 37,99 € au lieu de 84,99 €, le Fire TV Stick 4K Plus connecte votre TV à Internet pour presque rien",
-      "url": "https://www.iphon.fr/post/37-au-lieu-84-euros-fire-tv-stick-4k-plus-connecte-tv-internet",
-      "publishedAt": "2026-11-16T12:22:06+00:00"
     },
     {
       "source": "boulet",
