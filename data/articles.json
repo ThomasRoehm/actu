@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:40:35.565420+00:00",
+  "generatedAt": "2026-11-18T06:45:44.552579+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     },
     {
       "id": "tda",
@@ -118,8 +118,8 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/tda.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "<urlopen error timed out>",
       "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
     },
     {
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
     }
   ],
   "articles": [
@@ -152,6 +152,12 @@
       "title": "Gemini gardera vos chats temporaires deux mois au lieu de 72 h",
       "url": "https://www.clubic.com/actualite-639763-gemini-gardera-vos-chats-temporaires-deux-mois-au-lieu-de-72-h.html",
       "publishedAt": "2026-11-18T06:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Avec ses 40 points, Brice Sensabaugh délivre enfin le Jazz",
+      "url": "https://www.basketusa.com/news/958444/avec-ses-40-points-brice-sensabaugh-delivre-enfin-le-jazz/",
+      "publishedAt": "2026-11-18T06:28:35+00:00"
     },
     {
       "source": "mac4ever",
@@ -283,7 +289,7 @@
       "source": "mac4ever",
       "title": "Panne des services Apple : iCloud, App Store, Apple Pay touchés par d’importants dysfonctionnements",
       "url": "https://www.mac4ever.com/divers/199092-panne-des-services-apple-icloud-app-store-apple-pay-touches-par-d-importants-dysfonctionnements",
-      "publishedAt": "2026-11-17T19:26:42+00:00"
+      "publishedAt": "2026-11-17T19:26:00+00:00"
     },
     {
       "source": "macg",
@@ -988,12 +994,6 @@
       "publishedAt": "2026-11-17T13:33:36+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Nikola Jokic et les Nuggets encore plombés par leurs erreurs",
-      "url": "https://www.basketusa.com/news/958251/nikola-jokic-et-les-nuggets-frustres-par-leurs-erreurs/",
-      "publishedAt": "2026-11-17T13:32:33+00:00"
-    },
-    {
       "source": "presse",
       "title": "Cybercab : le taxi sans chauffeur Tesla arrive en Europe, il sera assemblé à 878 km de Paris",
       "url": "https://www.presse-citron.net/cybercab-le-taxi-sans-chauffeur-tesla-arrive-en-europe-il-sera-assemble-a-878-km-de-paris/",
@@ -1094,6 +1094,12 @@
       "title": "La fibre optique cale à 150 km, Thales Alenia Space mise sur l'espace pour l'Internet quantique",
       "url": "https://www.clubic.com/actualite-639625-la-fibre-optique-cale-a-150-km-thales-alenia-space-mise-sur-l-espace-pour-l-internet-quantique.html",
       "publishedAt": "2026-11-17T12:40:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Nikola Jokic et les Nuggets encore plombés par leurs erreurs",
+      "url": "https://www.basketusa.com/news/958251/nikola-jokic-et-les-nuggets-frustres-par-leurs-erreurs/",
+      "publishedAt": "2026-11-17T12:32:33+00:00"
     },
     {
       "source": "numerama",
@@ -3626,12 +3632,6 @@
       "title": "Cartel de la RAM : la justice américaine refuse d'enterrer les poursuites contre Samsung, Micron et SK hynix",
       "url": "https://www.generation-nt.com/actualites/justice-refuse-abandon-poursuites-ram-2084517",
       "publishedAt": "2026-11-16T06:50:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "iPhone Duo 2 : Apple accélère sur Face ID, mais rien n'est encore gagné",
-      "url": "https://www.clubic.com/actualite-639364-iphone-duo-2-apple-accelere-sur-face-id-mais-rien-n-est-encore-gagne.html",
-      "publishedAt": "2026-11-16T06:41:00+00:00"
     },
     {
       "source": "boulet",
