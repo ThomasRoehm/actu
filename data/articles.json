@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:50:37.853687+00:00",
+  "generatedAt": "2026-11-18T14:01:08.498849+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
+      "lastSuccessAt": "2026-11-18T14:01:08.498849+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Encore au moins une semaine d’absence pour Kawhi Leonard",
+      "url": "https://www.basketusa.com/news/958428/encore-au-moins-une-semaine-dabsence-pour-kawhi-leonard/",
+      "publishedAt": "2026-11-18T13:48:51+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:46:34+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
@@ -158,6 +170,12 @@
       "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-18T13:42:31+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des algorithmes de droits d'auteur censurent une artiste au profit de vidéos générées par IA",
+      "url": "https://www.generation-nt.com/actualites/algorithmes-censure-artiste-videos-ia-2084669",
+      "publishedAt": "2026-11-18T13:40:01+00:00"
     },
     {
       "source": "mac4ever",
@@ -217,6 +235,12 @@
       "source": "jdg",
       "title": "GTA 6 a-t-il tiré un trait sur les « services » des trottoirs de Vice City ?",
       "url": "https://www.journaldugeek.com/2026/11/18/gta-6-a-t-il-tire-un-trait-sur-les-services-des-trottoirs-de-vice-city/",
+      "publishedAt": "2026-11-18T13:09:38+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 a-t-il tiré un trait sur “le plus vieux métier du monde” de Vice City ?",
+      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-a-t-il-tire-un-trait-sur-le-plus-vieux-metier-du-monde-de-vice-city/",
       "publishedAt": "2026-11-18T13:09:38+00:00"
     },
     {
@@ -3758,18 +3782,6 @@
       "title": "Tari Eason remercie les Wizards pour ses 25 points…",
       "url": "https://www.basketusa.com/news/957927/tari-eason-remercie-les-wizards-pour-ses-25-points/",
       "publishedAt": "2026-11-16T14:03:15+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "« Robots tueurs » : les États-Unis et la Russie tentent de torpiller le futur traité international de l’ONU pour les réguler",
-      "url": "https://www.presse-citron.net/robots-tueurs-les-etats-unis-et-la-russie-tentent-de-torpiller-le-futur-traite-international-de-lonu-pour-les-reguler/",
-      "publishedAt": "2026-11-16T14:00:08+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Cartel de la RAM - la plainte contre Samsung, Micron et SK hynix ira au procès",
-      "url": "https://korben.info/cartel-de-la-ram-la-plainte-contre-samsung-micron-et-sk-hynix-ira-au-proces.html",
-      "publishedAt": "2026-11-16T13:51:27+00:00"
     },
     {
       "source": "boulet",
