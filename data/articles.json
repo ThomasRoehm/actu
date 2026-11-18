@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:35:29.063370+00:00",
+  "generatedAt": "2026-11-18T08:40:38.238781+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:35:29.063370+00:00"
+      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "GTA 6 sort à minuit : mettez votre PS5 à jour dès maintenant",
+      "url": "https://www.clubic.com/actualite-639790-gta-6-sort-a-minuit-mettez-votre-ps5-a-jour-des-maintenant.html",
+      "publishedAt": "2026-11-18T08:37:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Après un flop en Europe, la marque officielle du Parti chinois brade son prestige avec un SUV à 35 000 €",
@@ -146,6 +152,18 @@
       "title": "La Chine vient de faire voler un avion-cargo géant autonome : le W5000, un aéronef capable de transporter 5 tonnes de fret sur 2 600 km",
       "url": "https://www.presse-citron.net/chine-voler-avion-cargo-geant-autonome-w5000-aeronef-capable-transporter-5-tonnes-fret-2-600-km/",
       "publishedAt": "2026-11-18T08:32:16+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Brice Sensabaugh, 25 points en un quart-temps pour soulager le Jazz",
+      "url": "https://www.basketusa.com/news/958483/brice-sensabaugh-25-points-en-un-quart-temps-pour-soulager-le-jazz/",
+      "publishedAt": "2026-11-18T08:31:07+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : attention, PlayStation ne rigole pas avec ceux qui utilisent l’astuce pour y jouer plus tôt",
+      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-attention-playstation-ne-rigole-pas-avec-ceux-qui-utilisent-lastuce-pour-y-jouer-plus-tot/",
+      "publishedAt": "2026-11-18T08:30:30+00:00"
     },
     {
       "source": "clubic",
@@ -190,6 +208,12 @@
       "publishedAt": "2026-11-18T08:10:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | C’était Kobe Bryant déguisé en Quentin Grimes",
+      "url": "https://www.basketusa.com/news/958521/le-mvp-de-la-nuit-cetait-kobe-bryant-deguise-en-quentin-grimes/",
+      "publishedAt": "2026-11-18T08:03:41+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Copier des vidéos sur Instagram va devenir un peu moins facile",
       "url": "https://www.journaldugeek.com/2026/11/18/copier-des-videos-sur-instagram-va-devenir-un-peu-moins-facile/",
@@ -223,6 +247,12 @@
       "source": "gnt",
       "title": "OpenAI lance un outil gratuit pour bloquer les abus pédopornographiques générés par IA",
       "url": "https://www.generation-nt.com/actualites/openai-outil-detection-pedopornographie-ia-2084612",
+      "publishedAt": "2026-11-18T07:45:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
+      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
       "publishedAt": "2026-11-18T07:45:01+00:00"
     },
     {
@@ -310,12 +340,6 @@
       "publishedAt": "2026-11-18T07:05:18+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | C’était Kobe Bryant déguisé en Quentin Grimes",
-      "url": "https://www.basketusa.com/news/958521/le-mvp-de-la-nuit-cetait-kobe-bryant-deguise-en-quentin-grimes/",
-      "publishedAt": "2026-11-18T07:03:41+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Prix des jeux PlayStation : circulez, rien à rembourser",
       "url": "https://www.journaldugeek.com/2026/11/18/prix-des-jeux-playstation-circulez-rien-a-rembourser/",
@@ -356,12 +380,6 @@
       "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
       "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
       "publishedAt": "2026-11-18T06:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
-      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
-      "publishedAt": "2026-11-18T06:45:01+00:00"
     },
     {
       "source": "jdg",
@@ -466,6 +484,12 @@
       "publishedAt": "2026-11-18T05:50:35+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Jalen Brunson tire à nouveau les Knicks d’affaire à Toronto",
+      "url": "https://www.basketusa.com/news/958430/jalen-brunson-tire-encore-les-knicks-daffaire-a-toronto/",
+      "publishedAt": "2026-11-18T05:34:37+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Google détecte la première cyberattaque menée de bout en bout par une IA",
       "url": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
@@ -476,12 +500,6 @@
       "title": "Les Spurs se fracassent sur le mur des Pistons",
       "url": "https://www.basketusa.com/news/958439/la-belle-serie-des-spurs-se-fracasse-sur-le-mur-des-pistons/",
       "publishedAt": "2026-11-18T05:27:04+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jalen Brunson tire à nouveau les Knicks d’affaire à Toronto",
-      "url": "https://www.basketusa.com/news/958430/jalen-brunson-tire-encore-les-knicks-daffaire-a-toronto/",
-      "publishedAt": "2026-11-18T04:34:37+00:00"
     },
     {
       "source": "macg",
@@ -506,6 +524,12 @@
       "title": "Apple Music, App Store, iCloud : plusieurs services Apple en panne, les Apple Store paralysés",
       "url": "https://www.macg.co/aapl/2026/11/apple-music-app-store-icloud-plusieurs-services-apple-en-panne-les-apple-store-paralyses-312475",
       "publishedAt": "2026-11-17T20:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs accueillent les Pistons",
+      "url": "https://www.basketusa.com/news/958415/programme-du-soir-victor-wembanyama-et-les-spurs-accueillent-les-pistons/",
+      "publishedAt": "2026-11-17T19:51:45+00:00"
     },
     {
       "source": "gnt",
@@ -536,12 +560,6 @@
       "title": "Microsoft détaille l'architecture hybride de sa prochaine Xbox Helix",
       "url": "https://www.generation-nt.com/actualites/architecture-hybride-prochaine-xbox-helix-2084557",
       "publishedAt": "2026-11-17T19:00:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs accueillent les Pistons",
-      "url": "https://www.basketusa.com/news/958415/programme-du-soir-victor-wembanyama-et-les-spurs-accueillent-les-pistons/",
-      "publishedAt": "2026-11-17T18:51:45+00:00"
     },
     {
       "source": "jdg",
@@ -3644,36 +3662,6 @@
       "title": "Ce réglage pourrait régler l’un des plus gros problèmes de l’iPhone Duo",
       "url": "https://www.iphon.fr/post/reglage-iphone-duo-probleme",
       "publishedAt": "2026-11-16T08:43:22+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dylan Harper veut faire des soirées à 30 points une habitude",
-      "url": "https://www.basketusa.com/news/957732/dylan-harper-veut-faire-des-soirees-a-30-points-une-habitude/",
-      "publishedAt": "2026-11-16T08:39:15+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Plusieurs armées européennes s'équipent en drones français Parrot, avec des contrats jamais annoncés jusqu'ici",
-      "url": "https://www.clubic.com/actualite-639400-plusieurs-armees-europeennes-s-equipent-en-drones-francais-parrot-avec-des-contrats-jamais-annonces-jusqu-ici.html",
-      "publishedAt": "2026-11-16T08:39:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "C’est parti : le Black Friday 2026 de pCloud démarre avec du stockage à vie dès 159€",
-      "url": "https://www.clubic.com/bons-plans-639142-c-est-parti-le-black-friday-2026-de-pcloud-demarre-avec-du-stockage-a-vie-des-159.html",
-      "publishedAt": "2026-11-16T08:38:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Apple recrute 200 000 cobayes pour tester son IA médicale sur iPhone",
-      "url": "https://www.numerama.com/tech/2374961-apple-recrute-200-000-cobayes-pour-tester-son-ia-medicale-sur-iphone.html",
-      "publishedAt": "2026-11-16T08:37:34+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Apple veut savoir si vous faites confiance à l’IA pour votre santé et lance une app pour le découvrir",
-      "url": "https://www.clubic.com/actualite-639391-apple-veut-savoir-si-vous-faites-confiance-a-l-ia-pour-votre-sante-et-lance-une-app-pour-le-decouvrir.html",
-      "publishedAt": "2026-11-16T08:36:00+00:00"
     },
     {
       "source": "boulet",
