@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:25:28.032551+00:00",
+  "generatedAt": "2026-11-18T06:30:53.746273+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:25:28.032551+00:00"
+      "lastSuccessAt": "2026-11-18T06:30:53.746273+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "Azeez Al-Shaair absent, les Browns promus : les 7 infos NFL du mercredi",
+      "url": "https://touchdownactu.com/361540/azeez-al-shaair-absent-les-browns-promus-les-7-infos-nfl-du-mercredi/",
+      "publishedAt": "2026-11-18T06:30:14+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Gemini gardera vos chats temporaires deux mois au lieu de 72 h",
+      "url": "https://www.clubic.com/actualite-639763-gemini-gardera-vos-chats-temporaires-deux-mois-au-lieu-de-72-h.html",
+      "publishedAt": "2026-11-18T06:30:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Nvidia dans la tourmente : Jensen Huang veut (bien) revenir, la SEC ouvre une enquête !",
@@ -164,6 +176,12 @@
       "title": "Trey Lyles sauve les Wolves sur le fil face aux Blazers",
       "url": "https://www.basketusa.com/news/958437/trey-lyles-sauve-les-wolves-sur-le-fil-face-aux-blazers/",
       "publishedAt": "2026-11-18T06:05:48+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "iOS 27.3 introduit des limites quotidiennes pour Siri AI et Apple Intelligence",
+      "url": "https://www.generation-nt.com/actualites/ios-limites-quotidiennes-siri-ai-2084610",
+      "publishedAt": "2026-11-18T06:05:01+00:00"
     },
     {
       "source": "jdg",
@@ -3614,42 +3632,6 @@
       "title": "Cette équipe de scientifiques a simulé une explosion nucléaire en orbite : le résultat est absolument terrifiant",
       "url": "https://www.presse-citron.net/equipe-scientifiques-simule-explosion-nucleaire-orbite-resultat-terrifiant/",
       "publishedAt": "2026-11-16T06:32:10+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Darius Garland et ses lieutenants repoussent les Hornets à l’usure",
-      "url": "https://www.basketusa.com/news/957662/darius-garland-et-ses-lieutenants-repoussent-les-hornets-a-lusure/",
-      "publishedAt": "2026-11-16T06:30:38+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Avec ChatGPT Wallet, c’est l’IA qui fait les courses",
-      "url": "https://www.journaldugeek.com/2026/11/16/avec-chatgpt-wallet-cest-lia-qui-fait-les-courses/",
-      "publishedAt": "2026-11-16T06:30:13+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les modèles IA de DeepSeek et Moonshot portent l'empreinte invisible des puces Nvidia Blackwell",
-      "url": "https://www.generation-nt.com/actualites/deepseek-moonshot-modele-intelliigence-artificielle-trace-nvidia-blackwell-2084483",
-      "publishedAt": "2026-11-16T06:30:02+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Où peut-on bien aller pleurer à Apple Park ?",
-      "url": "https://www.macg.co/aapl/2026/11/ou-peut-bien-aller-pleurer-apple-park-312421",
-      "publishedAt": "2026-11-16T06:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Et maintenant, Amazon voudrait recenser presque tout ce qui se vend en ligne pour contrer les agents IA",
-      "url": "https://www.clubic.com/actualite-639376-et-maintenant-amazon-voudrait-recenser-presque-tout-ce-qui-se-vend-en-ligne-pour-contrer-les-agents-ia.html",
-      "publishedAt": "2026-11-16T06:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Amen Thompson, le moteur infatigable de Houston",
-      "url": "https://www.basketusa.com/news/957708/le-mvp-de-la-nuit-amen-thompson-le-moteur-infatigable-de-houston/",
-      "publishedAt": "2026-11-16T06:28:24+00:00"
     },
     {
       "source": "boulet",
