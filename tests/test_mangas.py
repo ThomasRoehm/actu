@@ -58,13 +58,18 @@ class MangaTests(unittest.TestCase):
         self.assertNotIn("url", result)
         self.assertEqual(result["source"], "otl")
 
-    def test_page_only_series_uses_new_source_without_fetching_or_reusing_old_chapter(self):
-        manga = dict(self.manga, source="inkedscans", pageUrl="https://inkedscans.com/example", pageOnly=True)
-        previous = {"chapter": "Chapter 12", "url": "https://mangakatana.com/manga/example.123/c12"}
-        with patch("scripts.mangas.fetch") as request:
+    def test_reading_link_does_not_replace_automatic_chapter_detection(self):
+        manga = dict(self.manga, readingUrl="https://inkedscans.com/example")
+        previous = dict(manga, pageUrl=manga["readingUrl"], source="inkedscans", pageOnly=True, ok=False)
+        content = b'<tr><td><a href="/wrong">Wrong</a><a href="https://mangakatana.com/manga/example.123/c12">Chapter 12</a></td></tr>'
+        with patch("scripts.mangas.fetch", return_value=content) as request:
             result = collect_manga(manga, previous, self.now)
-        request.assert_not_called()
-        self.assertEqual(result, dict(manga, ok=False))
+        request.assert_called_once_with("https://mangakatana.com/manga/example.123")
+        self.assertTrue(result["ok"])
+        self.assertEqual(result["chapter"], "Chapter 12")
+        self.assertEqual(result["readingUrl"], manga["readingUrl"])
+        self.assertEqual(result["source"], "mangakatana")
+        self.assertNotIn("pageOnly", result)
 
     def test_failed_collection_preserves_last_known_chapter(self):
         previous = {"chapter": "Chapter 12", "url": "https://mangakatana.com/manga/example.123/c12"}
