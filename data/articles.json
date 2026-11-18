@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:40:39.484727+00:00",
+  "generatedAt": "2026-11-18T14:50:41.285999+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
+      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "GTA 6 : attention, vous pourriez rater ce trophée dès le début du jeu !",
+      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-attention-vous-pourriez-rater-ce-trophee-des-le-debut-du-jeu/",
+      "publishedAt": "2026-11-18T14:45:34+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Les enceintes Sonos Era 100 et 300 bradées pour le Black Friday : jusqu'à -34% !",
+      "url": "https://www.mac4ever.com/audio/199112-les-enceintes-sonos-era-100-et-300-bradees-pour-le-black-friday-jusqu-a-34",
+      "publishedAt": "2026-11-18T14:45:25+00:00"
+    },
     {
       "source": "numerama",
       "title": "Si vous voulez un robot cuiseur avant les repas de fêtes, Lidl fait baisser son Monsieur Cuisine Smart",
@@ -158,6 +170,12 @@
       "title": "Ça y est, ils ont joué à GTA 6, et le jeu a tout d'un opus juste \"exceptionnel\"",
       "url": "https://www.clubic.com/actualite-639871-ca-y-est-ils-ont-joue-a-gta-6-et-le-jeu-a-tout-d-un-opus-juste-exceptionnel.html",
       "publishedAt": "2026-11-18T14:34:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Sérialisation des iPhone - Apple risque une première condamnation mondiale",
+      "url": "https://korben.info/serialisation-des-iphone-apple-risque-une-premiere-condamnation-mondiale.html",
+      "publishedAt": "2026-11-18T14:33:49+00:00"
     },
     {
       "source": "basketusa",
@@ -1216,6 +1234,12 @@
       "publishedAt": "2026-11-18T07:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
+      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
+      "publishedAt": "2026-11-18T07:45:01+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Piratage chez La Poste : les adresses de 22 millions de Français volées",
       "url": "https://www.mac4ever.com/securite/199096-piratage-chez-la-poste-les-adresses-de-22-millions-de-francais-volees",
@@ -1334,12 +1358,6 @@
       "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
       "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
       "publishedAt": "2026-11-18T06:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
-      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
-      "publishedAt": "2026-11-18T06:45:01+00:00"
     },
     {
       "source": "jdg",
@@ -3710,24 +3728,6 @@
       "title": "Auto : à quoi correspond la plaque d’immatriculation rose que l’on voit sur certaines voitures ?",
       "url": "https://www.presse-citron.net/auto-a-quoi-correspond-la-plaque-dimmatriculation-rose-que-lon-voit-sur-certaines-voitures/",
       "publishedAt": "2026-11-16T14:53:07+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "OpenAI passe à l'offensive sur le marché de la cyberdéfense",
-      "url": "https://www.generation-nt.com/actualites/openai-daybreak-red-team-defense-factory-vulnerabilites-2084536",
-      "publishedAt": "2026-11-16T14:50:01+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Lions : saison terminée pour Aidan Hutchinson",
-      "url": "https://touchdownactu.com/361453/saison-terminee-pour-aidan-hutchinson/",
-      "publishedAt": "2026-11-16T14:46:51+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Le Bitcoin s’écroule depuis plusieurs jours : que se passe-t-il sur le marché des cryptomonnaies ?",
-      "url": "https://www.presse-citron.net/le-bitcoin-secroule-depuis-plusieurs-jours-que-se-passe-t-il-sur-le-marche-des-cryptomonnaies/",
-      "publishedAt": "2026-11-16T14:43:13+00:00"
     },
     {
       "source": "boulet",
