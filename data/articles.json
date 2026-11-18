@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:50:41.285999+00:00",
+  "generatedAt": "2026-11-18T15:01:08.579592+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:50:41.285999+00:00"
+      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "GTA 6 n’est pas parfait : ce que lui reprochent les tests les plus sévères",
+      "url": "https://www.numerama.com/pop-culture/2378089-gta-6-nest-pas-parfait-ce-que-lui-reprochent-les-tests-les-plus-severes.html",
+      "publishedAt": "2026-11-18T14:55:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Land Rover perd sa bataille judiciaire contre BYD : les juges ne reconnaissent pas le plagiat du Defender",
+      "url": "https://www.presse-citron.net/land-rover-perd-sa-bataille-judiciaire-contre-byd-les-juges-ne-reconnaissent-pas-le-plagiat-du-defender/",
+      "publishedAt": "2026-11-18T14:49:19+00:00"
+    },
     {
       "source": "jdg",
       "title": "GTA 6 : attention, vous pourriez rater ce trophée dès le début du jeu !",
@@ -146,6 +158,12 @@
       "title": "Les enceintes Sonos Era 100 et 300 bradées pour le Black Friday : jusqu'à -34% !",
       "url": "https://www.mac4ever.com/audio/199112-les-enceintes-sonos-era-100-et-300-bradees-pour-le-black-friday-jusqu-a-34",
       "publishedAt": "2026-11-18T14:45:25+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Suno ajoute la vidéo à la musique par IA",
+      "url": "https://www.generation-nt.com/actualites/suno-visuals-generation-video-droits-auteur-ia-musique-2084715",
+      "publishedAt": "2026-11-18T14:45:01+00:00"
     },
     {
       "source": "numerama",
@@ -1234,12 +1252,6 @@
       "publishedAt": "2026-11-18T07:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
-      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
-      "publishedAt": "2026-11-18T07:45:01+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Piratage chez La Poste : les adresses de 22 millions de Français volées",
       "url": "https://www.mac4ever.com/securite/199096-piratage-chez-la-poste-les-adresses-de-22-millions-de-francais-volees",
@@ -1358,6 +1370,12 @@
       "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
       "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
       "publishedAt": "2026-11-18T06:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
+      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
+      "publishedAt": "2026-11-18T06:45:01+00:00"
     },
     {
       "source": "jdg",
@@ -3704,30 +3722,6 @@
       "title": "Jonathan Cohen a recruté ses Astérix et Obélix",
       "url": "https://www.journaldugeek.com/2026/11/16/jonathan-cohen-a-recrute-ses-asterix-et-obelix/",
       "publishedAt": "2026-11-16T15:04:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Contrat garanti pour « Super Mario » Hezonja",
-      "url": "https://www.basketusa.com/news/957952/contrat-garanti-pour-super-mario-hezonja/",
-      "publishedAt": "2026-11-16T14:57:07+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Xbox : Microsoft ressuscite les écrans de démarrage mythiques des premières consoles",
-      "url": "https://www.clubic.com/actualite-639442-xbox-microsoft-ressuscite-les-ecrans-de-demarrage-mythiques-des-premieres-consoles.html",
-      "publishedAt": "2026-11-16T14:56:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : malgré la hausse des prix d’Apple, la Fnac affiche ce MacBook Air M5 à 1 199€",
-      "url": "https://www.clubic.com/bons-plans-639526-black-friday-malgre-la-hausse-des-prix-d-apple-la-fnac-affiche-ce-macbook-air-m5-a-1-199.html",
-      "publishedAt": "2026-11-16T14:55:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Auto : à quoi correspond la plaque d’immatriculation rose que l’on voit sur certaines voitures ?",
-      "url": "https://www.presse-citron.net/auto-a-quoi-correspond-la-plaque-dimmatriculation-rose-que-lon-voit-sur-certaines-voitures/",
-      "publishedAt": "2026-11-16T14:53:07+00:00"
     },
     {
       "source": "boulet",
