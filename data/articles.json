@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:01:08.579592+00:00",
+  "generatedAt": "2026-11-18T15:10:38.261429+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,51 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:01:08.579592+00:00"
+      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
+      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
+      "publishedAt": "2026-11-18T15:04:05+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Test MSI Prestige N16 Flip AI+ : quand la promesse de l’IA locale prime... sur beaucoup d’autres",
+      "url": "https://www.clubic.com/test-produit-636919-test-msi-prestige-n16-flip-ai.html",
+      "publishedAt": "2026-11-18T15:04:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "WhatsApp sauvegarde enfin vos discussions sans passer par Google Drive",
+      "url": "https://www.mac4ever.com/divers/199109-whatsapp-sauvegarde-enfin-vos-discussions-sans-passer-par-google-drive",
+      "publishedAt": "2026-11-18T15:04:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Française des Jeux : voici les dix jeux où il y a le plus de gagnants",
+      "url": "https://www.presse-citron.net/francaise-des-jeux-voici-les-dix-jeux-ou-il-y-a-le-plus-de-gagnants/",
+      "publishedAt": "2026-11-18T15:00:48+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[Podcast] Preview S11 : Brock Purdy à l’épreuve Brian Flores",
+      "url": "https://touchdownactu.com/361551/podcast-preview-s11-brock-purdy-a-lepreuve-brian-flores/",
+      "publishedAt": "2026-11-18T15:00:08+00:00"
+    },
     {
       "source": "numerama",
       "title": "GTA 6 n’est pas parfait : ce que lui reprochent les tests les plus sévères",
       "url": "https://www.numerama.com/pop-culture/2378089-gta-6-nest-pas-parfait-ce-que-lui-reprochent-les-tests-les-plus-severes.html",
       "publishedAt": "2026-11-18T14:55:01+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Nextcloud Office - La suite libre qui se passe du cloud",
+      "url": "https://korben.info/nextcloud-office-desktop.html",
+      "publishedAt": "2026-11-18T14:50:03+00:00"
     },
     {
       "source": "presse",
@@ -278,12 +314,6 @@
       "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-18T13:46:34+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T13:44:28+00:00"
     },
     {
       "source": "numerama",
@@ -452,6 +482,12 @@
       "title": "James Bond : c’est sûrement la fin de l’humour pour 007",
       "url": "https://www.numerama.com/pop-culture/2377783-james-bond-cest-surement-la-fin-de-lhumour-pour-007.html",
       "publishedAt": "2026-11-18T12:45:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T12:44:28+00:00"
     },
     {
       "source": "korben",
@@ -1150,12 +1186,6 @@
       "publishedAt": "2026-11-18T08:32:16+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Brice Sensabaugh, 25 points en un quart-temps pour soulager Utah",
-      "url": "https://www.basketusa.com/news/958483/brice-sensabaugh-25-points-en-un-quart-temps-pour-soulager-le-jazz/",
-      "publishedAt": "2026-11-18T08:31:07+00:00"
-    },
-    {
       "source": "jdg",
       "title": "GTA 6 : attention, PlayStation ne rigole pas avec ceux qui utilisent l’astuce pour y jouer plus tôt",
       "url": "https://www.journaldugeek.com/2026/11/18/gta-6-attention-playstation-ne-rigole-pas-avec-ceux-qui-utilisent-lastuce-pour-y-jouer-plus-tot/",
@@ -1252,6 +1282,12 @@
       "publishedAt": "2026-11-18T07:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
+      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
+      "publishedAt": "2026-11-18T07:45:01+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Piratage chez La Poste : les adresses de 22 millions de Français volées",
       "url": "https://www.mac4ever.com/securite/199096-piratage-chez-la-poste-les-adresses-de-22-millions-de-francais-volees",
@@ -1268,6 +1304,12 @@
       "title": "James Bond vient-il de tuer le Batman de Robert Pattinson ?",
       "url": "https://www.journaldugeek.com/2026/11/18/james-bond-vient-il-de-tuer-le-batman-de-robert-pattinson/",
       "publishedAt": "2026-11-18T07:34:50+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Brice Sensabaugh, 25 points en un quart-temps pour soulager Utah",
+      "url": "https://www.basketusa.com/news/958483/brice-sensabaugh-25-points-en-un-quart-temps-pour-soulager-le-jazz/",
+      "publishedAt": "2026-11-18T07:31:07+00:00"
     },
     {
       "source": "presse",
@@ -1370,12 +1412,6 @@
       "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
       "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
       "publishedAt": "2026-11-18T06:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
-      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
-      "publishedAt": "2026-11-18T06:45:01+00:00"
     },
     {
       "source": "jdg",
@@ -3686,42 +3722,6 @@
       "title": "Pour Scott Bessent, NVIDIA doit chercher un nouveau PDG au dehors de l'entreprise",
       "url": "https://www.clubic.com/actualite-639523-pour-scott-bessent-nvidia-doit-chercher-un-nouveau-pdg-au-dehors-de-l-entreprise.html",
       "publishedAt": "2026-11-16T15:12:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Une carte graphique Nvidia GeForce RTX 4090 Ti refait surface sur le marché chinois",
-      "url": "https://www.generation-nt.com/actualites/nvidia-geforce-rtx-4090-ti-carte-graphique-prototype-chine-2084562",
-      "publishedAt": "2026-11-16T15:10:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Pourquoi l’arrivée de Robert Pattinson est une grande première pour la saga James Bond ?",
-      "url": "https://www.journaldugeek.com/2026/11/16/cest-officiel-robert-pattinson-est-le-nouveau-james-bond/",
-      "publishedAt": "2026-11-16T15:09:26+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Bouygues Telecom offre six mois de Google AI Plus à tous ses clients",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/bouygues-telecom-offre-six-mois-de-google-ai-plus-tous-ses-clients-312441",
-      "publishedAt": "2026-11-16T15:09:07+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L'Apple Watch Ultra 4 est déjà en promo : -72€, son meilleur prix !",
-      "url": "https://www.mac4ever.com/watch/199060-l-apple-watch-ultra-4-est-deja-en-promo-72-son-meilleur-prix",
-      "publishedAt": "2026-11-16T15:05:41+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "James Bond : c’est officiel, Robert Pattinson est le nouveau 007",
-      "url": "https://www.numerama.com/pop-culture/2375401-james-bond-cest-officiel-robert-pattinson-est-le-nouveau-007.html",
-      "publishedAt": "2026-11-16T15:04:39+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Jonathan Cohen a recruté ses Astérix et Obélix",
-      "url": "https://www.journaldugeek.com/2026/11/16/jonathan-cohen-a-recrute-ses-asterix-et-obelix/",
-      "publishedAt": "2026-11-16T15:04:38+00:00"
     },
     {
       "source": "boulet",
