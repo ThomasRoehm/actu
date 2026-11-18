@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:10:46.134364+00:00",
+  "generatedAt": "2026-11-18T12:20:45.282720+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     },
     {
       "id": "clubic",
@@ -19,8 +19,8 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/clubic.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "The read operation timed out",
       "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
+      "lastSuccessAt": "2026-11-18T12:20:45.282720+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Sortie GTA 6 : les premiers joueurs arrivent dans Leonida (infos, images et premières astuces en direct)",
+      "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct.html",
+      "publishedAt": "2026-11-18T12:13:36+00:00"
+    },
     {
       "source": "numerama",
       "title": "« L’un des meilleurs jeux jamais créés » : les premiers tests de GTA 6 sont unanimes",
@@ -356,12 +362,6 @@
       "title": "« La mauvaise approche » : Cloudflare tacle la justice française, qui pousse le résolveur DNS Quad9 à quitter le pays",
       "url": "https://www.numerama.com/tech/2377419-la-mauvaise-approche-cloudflare-tacle-la-justice-francaise-qui-pousse-le-resolveur-dns-quad9-a-quitter-le-pays.html",
       "publishedAt": "2026-11-18T10:39:45+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Sortie de GTA 6 : suivez en direct le lancement du jeu le plus attendu de tous les temps",
-      "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct.html",
-      "publishedAt": "2026-11-18T10:38:00+00:00"
     },
     {
       "source": "gnt",
@@ -3686,12 +3686,6 @@
       "title": "À 37,99 € au lieu de 84,99 €, le Fire TV Stick 4K Plus connecte votre TV à Internet pour presque rien",
       "url": "https://www.iphon.fr/post/37-au-lieu-84-euros-fire-tv-stick-4k-plus-connecte-tv-internet",
       "publishedAt": "2026-11-16T12:22:06+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Studprint : une imprimante 3D open source faite en LEGO",
-      "url": "https://www.generation-nt.com/actualites/studprint-lego-imprimante-3d-2084518",
-      "publishedAt": "2026-11-16T12:20:01+00:00"
     },
     {
       "source": "boulet",
