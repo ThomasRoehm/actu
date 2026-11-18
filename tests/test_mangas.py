@@ -20,6 +20,24 @@ class MangaTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             latest_chapter(b'<tr><a href="https://evil.example/c99">Chapter 99</a></tr>', self.manga)
 
+    def test_gdscans_uses_latest_chapter_in_public_list_with_its_date(self):
+        manga = dict(self.manga, source="gdscans", pageUrl="https://gdscans.com/manga/example/")
+        content = b'''
+          <li class="volume"><ul>
+            <li class="wp-manga-chapter"><a href="volume-8/ch-98-5/">Ch.98.5</a>
+              <span class="chapter-release-date"><i>November 10, 2026</i></span></li>
+            <li class="wp-manga-chapter"><a href="volume-8/ch-98/">Ch.98</a></li>
+            <li class="wp-manga-chapter"><a href="/manga/unrelated/chapter-100/">Chapter 100</a></li>
+          </ul></li>'''
+        now = datetime.datetime(2026, 11, 18, tzinfo=datetime.timezone.utc)
+        with patch("scripts.mangas.fetch", return_value=content) as request:
+            result = collect_manga(manga, {}, now)
+        request.assert_called_once_with(manga["pageUrl"] + "ajax/chapters/?t=1", data=b"")
+        self.assertTrue(result["ok"])
+        self.assertEqual(result["chapter"], "Ch.98.5")
+        self.assertEqual(result["publishedDate"], "2026-11-10")
+        self.assertEqual(result["url"], "https://gdscans.com/manga/example/volume-8/ch-98-5/")
+
     def test_otl_selects_highest_chapter_in_either_order(self):
         manga = dict(self.manga, source="otl", pageUrl="https://otl.moe/series/example/")
         links = [b'<a class="chapter-title" href="/read/example/9">Chapter 9</a>', b'<a href="/read/example/10.5" class="chapter-title">Chapter 10.5 &amp; more</a>']

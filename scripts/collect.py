@@ -16,11 +16,11 @@ UTC = datetime.timezone.utc
 HEADERS = {"User-Agent": "Mozilla/5.0", "Accept": "application/rss+xml, application/atom+xml, text/html, */*"}
 
 
-def fetch(url, user_agent=None):
+def fetch(url, user_agent=None, *, data=None):
     headers = dict(HEADERS)
     if user_agent:
         headers["User-Agent"] = user_agent
-    request = urllib.request.Request(url, headers=headers)
+    request = urllib.request.Request(url, headers=headers, data=data)
     with urllib.request.urlopen(request, timeout=35) as response:
         content = response.read(8_000_001)
         if len(content) > 8_000_000:

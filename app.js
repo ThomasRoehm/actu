@@ -7,7 +7,9 @@ const tabs = [...document.querySelectorAll('[data-group]')];
 const mangaSources = new Map([
   ['mangakatana', { id: 'mangakatana', name: 'MangaKatana' }],
   ['otl', { id: 'otl', name: 'OTL' }],
+  ['gdscans', { id: 'gdscans', name: 'GD Scans' }],
 ]);
+const inkedScans = { name: 'Inked Scans', initials: 'IS' };
 const byId = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
 const clockFormat = new Intl.DateTimeFormat('fr-FR', { hour: '2-digit', minute: '2-digit' });
@@ -43,7 +45,8 @@ function icon(source) {
   const wrapper = document.createElement('span');
   wrapper.className = 'site-icon';
   wrapper.setAttribute('aria-hidden', 'true');
-  wrapper.textContent = source.name.charAt(0);
+  wrapper.textContent = source.initials || source.name.charAt(0);
+  if (source.initials) return wrapper;
   const image = document.createElement('img');
   const path = source.icon || `icons/${source.id}.png`;
   if (!/^icons\/[a-z0-9-]+\.(png|jpg)$/.test(path)) return wrapper;
@@ -125,17 +128,18 @@ function articleLink(entry, sources, previous) {
   link.dataset.key = key;
   rowSignatures.set(link, signature);
   const readingUrl = safeUrl(manga?.readingUrl);
+  const destination = readingUrl && new URL(readingUrl).hostname === 'inkedscans.com' ? inkedScans : source;
   link.href = readingUrl || safeUrl(article.url) || safeUrl(article.pageUrl);
   link.target = '_blank';
   link.rel = 'noopener noreferrer';
-  const label = source.name + (manga && !manga.ok ? ' · à vérifier' : '');
+  const label = destination.name + (manga && !manga.ok ? ' · à vérifier' : '');
   const displayed = manga ? mangaDate(manga) : null;
   const time = element(manga ? 'span' : 'time', 'article-time', manga ? (displayed ? `${displayed.observed ? 'Repéré le ' : ''}${displayed.date.toLocaleDateString('fr-FR')}` : 'Date inconnue') : clockFormat.format(entry.date));
   if (!manga) time.dateTime = article.publishedAt;
   if (displayed?.observed) time.title = `Date annoncée par ${source.name} : ${manga.publishedDate}. Chapitre déjà disponible lors de la collecte.`;
   link.title = manga ? (readingUrl ? 'Ouvrir la fiche Inked Scans' : manga.lastSuccessAt ? `Dernière vérification réussie : ${new Date(manga.lastSuccessAt).toLocaleString('fr-FR')}` : 'Chapitre non vérifié') : `${source.name} · ${entry.date.toLocaleString('fr-FR')} · Nouvel onglet`;
   const metadata = element('div', 'article-metadata');
-  metadata.append(icon(source), element('span', 'article-source', label), time);
+  metadata.append(icon(destination), element('span', 'article-source', label), time);
   const title = manga ? `${manga.title} — ${manga.chapter || 'Chapitre indisponible'}` : article.title;
   link.append(metadata, element('span', 'article-title', title));
   return link;

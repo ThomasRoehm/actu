@@ -42,7 +42,41 @@ def latest_otl_chapter(content, manga):
     return max(candidates, key=lambda candidate: candidate[0])[1]
 
 
+def latest_gdscans_chapter(content, manga):
+    page_url = manga["pageUrl"].rstrip("/") + "/"
+    chapter_path = re.escape(page_url) + r"(?:volume-\d+/)?(?:chapter|ch)-(\d+)(?:[-.](\d+))?/?"
+    candidates = []
+    for item in re.split(r"<li\b", content.decode("utf-8", "replace"), flags=re.I)[1:]:
+        attributes, _, row = item.partition(">")
+        row = row.split("</li>", 1)[0]
+        classes = re.search(r'\bclass=[\'\"]([^\'\"]+)', attributes)
+        if not classes or "wp-manga-chapter" not in classes[1].split():
+            continue
+        link = re.search(r'<a\b[^>]*\bhref=[\'\"]([^\'\"]+)[\'\"][^>]*>(.*?)</a>', row, re.S | re.I)
+        if not link:
+            continue
+        url = urljoin(page_url, html.unescape(link[1]))
+        number = re.fullmatch(chapter_path, url)
+        chapter = clean_title(link[2])
+        if not number or not chapter:
+            continue
+        date_markup = re.search(r'class=[\'\"]chapter-release-date[\'\"][^>]*>(.*?)</span>', row, re.S | re.I)
+        published = None
+        if date_markup:
+            try:
+                published = datetime.datetime.strptime(clean_title(date_markup[1]), "%B %d, %Y").date().isoformat()
+            except ValueError:
+                pass
+        rank = Decimal(f"{number[1]}.{number[2] or '0'}")
+        candidates.append((rank, {"chapter": chapter, "url": url, "publishedDate": published}))
+    if not candidates:
+        raise ValueError("Aucun lien de chapitre GD Scans reconnu")
+    return max(candidates, key=lambda candidate: candidate[0])[1]
+
+
 def latest_chapter(content, manga):
+    if manga.get("source") == "gdscans":
+        return latest_gdscans_chapter(content, manga)
     if manga.get("source") == "otl":
         return latest_otl_chapter(content, manga)
     page_url = BASE + manga["slug"]
@@ -80,7 +114,12 @@ def collect_manga(manga, previous, now, otl_dates=None):
     if checked and datetime.timedelta(0) <= now - checked < datetime.timedelta(minutes=30):
         return dict(previous, **item)
     try:
-        chapter = latest_chapter(fetch(item["pageUrl"]), manga)
+        if item["source"] == "gdscans":
+            url = item["pageUrl"].rstrip("/") + "/ajax/chapters/?t=1"
+            content = fetch(url, data=b"")
+        else:
+            content = fetch(item["pageUrl"])
+        chapter = latest_chapter(content, manga)
         if item["source"] == "otl":
             chapter["publishedDate"] = (otl_dates or {}).get(chapter["url"])
             if not chapter["publishedDate"] and previous.get("url") == chapter["url"]:
