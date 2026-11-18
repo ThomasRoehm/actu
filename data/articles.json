@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:50:50.397160+00:00",
+  "generatedAt": "2026-11-18T17:01:09.951920+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:50:50.397160+00:00"
+      "lastSuccessAt": "2026-11-18T17:01:09.951920+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "iCloud+ s’offre une nouvelle fonctionnalité gratuite, voici comment l’utiliser",
+      "url": "https://www.iphon.fr/post/icloud-fonctionnalite-gratuite-utiliser",
+      "publishedAt": "2026-11-18T17:00:22+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Fichiers, le « Google Drive » souverain de l'État, sort de bêta et revendique déjà 150 000 utilisateurs",
+      "url": "https://www.clubic.com/actualite-639859-fichiers-le-google-drive-souverain-de-l-etat-sort-de-beta-et-revendique-deja-150-000-utilisateurs.html",
+      "publishedAt": "2026-11-18T16:55:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des lasers surpuissants pourraient réduire le coût de l'allumage des réacteurs à fusion nucléaire",
+      "url": "https://www.generation-nt.com/actualites/lasers-cout-allumage-fusion-2084673",
+      "publishedAt": "2026-11-18T16:50:01+00:00"
+    },
     {
       "source": "macg",
       "title": "macOS 27.3 bêta 2 ajuste les onglets verticaux de Safari",
       "url": "https://www.macg.co/logiciels/2026/11/macos-273-beta-2-ajuste-les-onglets-verticaux-de-safari-312499",
       "publishedAt": "2026-11-18T16:45:28+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday : Jackery électrise les prix de ses stations d'énergie",
+      "url": "https://www.generation-nt.com/actualites/jackery-station-energie-stockage-panneau-solaire-black-friday-2084750",
+      "publishedAt": "2026-11-18T16:40:01+00:00"
     },
     {
       "source": "mac4ever",
@@ -3692,12 +3716,6 @@
       "title": "GTA 6 plus dangereux que le Beaujolais nouveau ? Cette comparaison lunaire fait réagir",
       "url": "https://www.numerama.com/pop-culture/2375745-gta-6-plus-dangereux-que-le-beaujolais-nouveau-cette-comparaison-lunaire-fait-reagir.html",
       "publishedAt": "2026-11-16T17:01:44+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "GTA 6 tourne à 30 images par seconde même sur PS5 Pro, voici pourquoi ce n’est pas forcément un drame",
-      "url": "https://www.presse-citron.net/gta-6-tournera-a-30-images-par-seconde-meme-sur-ps5-pro-voici-pourquoi-ce-nest-pas-forcement-un-drame/",
-      "publishedAt": "2026-11-16T17:00:30+00:00"
     },
     {
       "source": "boulet",
