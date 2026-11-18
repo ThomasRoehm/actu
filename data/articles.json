@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:10:40.945499+00:00",
+  "generatedAt": "2026-11-18T18:20:37.807435+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T18:10:40.945499+00:00"
+      "lastSuccessAt": "2026-11-18T18:20:37.807435+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Pas fan de GTA ? Le prix de Battlefield 6 s’effondre sur PS5",
+      "url": "https://www.numerama.com/tech/2378167-pas-fan-de-gta-le-prix-de-battlefield-6-seffondre-sur-ps5.html",
+      "publishedAt": "2026-11-18T18:15:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Suno génère maintenant des clips vidéo pour ses chansons IA, et ses procès empirent",
+      "url": "https://www.mac4ever.com/ia/199120-suno-genere-maintenant-des-clips-video-pour-ses-chansons-ia-et-ses-proces-empirent",
+      "publishedAt": "2026-11-18T18:15:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Timing terrible: le PlayStation Network flanche à quelques heures de la sortie de GTA 6",
+      "url": "https://www.numerama.com/pop-culture/2378315-timing-terrible-le-playstation-network-flanche-a-quelques-heures-de-la-sortie-de-gta-6.html",
+      "publishedAt": "2026-11-18T18:12:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Des riverains s’opposent à un projet de data center en Savoie",
       "url": "https://www.clubic.com/actualite-639937-des-riverains-s-opposent-a-un-projet-de-data-center-en-savoie.html",
       "publishedAt": "2026-11-18T18:10:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "SpaceX doit «assumer» ses déchets alors qu’une partie du Starship est tombé au Mexique",
+      "url": "https://www.journaldugeek.com/2026/11/18/spacex-dechets-starship-mexique/",
+      "publishedAt": "2026-11-18T18:01:41+00:00"
     },
     {
       "source": "presse",
@@ -3722,24 +3746,6 @@
       "title": "Six jours après Orange, Bouygues Telecom riposte avec six mois de Google AI Plus gratuits",
       "url": "https://www.clubic.com/actualite-639544-six-jours-apres-orange-bouygues-telecom-riposte-avec-six-mois-de-google-ai-plus-gratuits.html",
       "publishedAt": "2026-11-16T18:33:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un jeu Zelda culte de la 3DS s'affiche sur Switch",
-      "url": "https://www.generation-nt.com/actualites/zelda-3ds-switch-online-2084521",
-      "publishedAt": "2026-11-16T18:20:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Apple change d’avis sur l’iPhone Duo : la reconnaissance faciale arrive",
-      "url": "https://www.numerama.com/tech/2374873-apple-change-davis-sur-liphone-duo-la-reconnaissance-faciale-arrive.html",
-      "publishedAt": "2026-11-16T18:16:59+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Apple déploie les bêtas 2 d’iOS 27.3, macOS 27.3 et de ses autres systèmes",
-      "url": "https://www.mac4ever.com/divers/198942-apple-deploie-les-betas-2-d-ios-27-3-macos-27-3-et-de-ses-autres-systemes",
-      "publishedAt": "2026-11-16T18:13:00+00:00"
     },
     {
       "source": "boulet",
