@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T10:10:38.254474+00:00",
+  "generatedAt": "2026-11-18T10:20:38.033320+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
+      "lastSuccessAt": "2026-11-18T10:20:38.033320+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Ça y est, la distance de Voyager 1 avec la Terre est si grande qu’il faut changer d’échelle d’unité pour la mesurer",
+      "url": "https://www.numerama.com/sciences/2352555-ca-y-est-la-distance-de-voyager-1-avec-la-terre-est-si-grande-quil-faut-changer-dechelle-dunite-pour-la-mesurer.html",
+      "publishedAt": "2026-11-18T10:20:03+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Sur Windows 11, Copilot pourra bientôt vous aider à comprendre pourquoi votre PC fait des siennes",
+      "url": "https://www.clubic.com/actualite-639817-sur-windows-11-copilot-pourra-bientot-vous-aider-a-comprendre-pourquoi-votre-pc-fait-des-siennes.html",
+      "publishedAt": "2026-11-18T10:19:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GPT-6.2 Astra et Sol : OpenAI lance ses nouveaux meilleurs modèles la veille de l’IPO d’Anthropic",
+      "url": "https://www.numerama.com/tech/2377531-gpt-6-2-astra-et-sol-openai-lance-ses-nouveaux-meilleurs-modeles-la-veille-de-lipo-danthropic.html",
+      "publishedAt": "2026-11-18T10:17:10+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Voyager 1 devient le premier objet humain à un jour-lumière de la Terre !",
+      "url": "https://www.journaldugeek.com/2026/11/18/voyager-1-devient-le-premier-objet-humain-a-un-jour-lumiere-de-la-terre/",
+      "publishedAt": "2026-11-18T10:16:36+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Avec Rubin HPC, NVIDIA dévoile un monstre de plus de 50 000 cœurs, mais AMD a déjà pris une longueur d’avance",
+      "url": "https://www.clubic.com/actualite-639802-avec-rubin-hpc-nvidia-devoile-un-monstre-de-plus-de-50-000-c-urs-mais-amd-a-deja-pris-une-longueur-d-avance.html",
+      "publishedAt": "2026-11-18T10:11:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "WhatsApp veut vous faire oublier Google Drive, mais son offre gratuite risque de vous laisser sur votre faim",
@@ -260,12 +290,6 @@
       "title": "Le navigateur Opera vous propose maintenant de vibe coder vos extensions",
       "url": "https://www.clubic.com/actualite-639721-le-navigateur-opera-vous-propose-maintenant-de-vibe-coder-vos-extensions.html",
       "publishedAt": "2026-11-18T09:43:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Trey Lyles et Joan Beringer, les bons soldats de Minnesota",
-      "url": "https://www.basketusa.com/news/958514/trey-lyles-et-joan-beringer-les-bons-soldats-de-minnesota/",
-      "publishedAt": "2026-11-18T09:42:07+00:00"
     },
     {
       "source": "gnt",
@@ -416,6 +440,12 @@
       "title": "iOS 27.3 a une fonction réservée aux iPhone très chers",
       "url": "https://www.iphon.fr/post/ios-27-3-fonction-reservee-iphone-tres-chers",
       "publishedAt": "2026-11-18T08:42:09+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Trey Lyles et Joan Beringer, les bons soldats de Minnesota",
+      "url": "https://www.basketusa.com/news/958514/trey-lyles-et-joan-beringer-les-bons-soldats-de-minnesota/",
+      "publishedAt": "2026-11-18T08:42:07+00:00"
     },
     {
       "source": "mac4ever",
@@ -724,12 +754,6 @@
       "publishedAt": "2026-11-18T06:10:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Trey Lyles sauve les Wolves sur le fil face aux Blazers",
-      "url": "https://www.basketusa.com/news/958437/trey-lyles-sauve-les-wolves-sur-le-fil-face-aux-blazers/",
-      "publishedAt": "2026-11-18T06:05:48+00:00"
-    },
-    {
       "source": "gnt",
       "title": "iOS 27.3 introduit des limites quotidiennes pour Siri AI et Apple Intelligence",
       "url": "https://www.generation-nt.com/actualites/ios-limites-quotidiennes-siri-ai-2084610",
@@ -782,6 +806,12 @@
       "title": "Les Spurs se fracassent sur le mur des Pistons",
       "url": "https://www.basketusa.com/news/958439/la-belle-serie-des-spurs-se-fracasse-sur-le-mur-des-pistons/",
       "publishedAt": "2026-11-18T05:27:04+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Trey Lyles sauve les Wolves sur le fil face aux Blazers",
+      "url": "https://www.basketusa.com/news/958437/trey-lyles-sauve-les-wolves-sur-le-fil-face-aux-blazers/",
+      "publishedAt": "2026-11-18T05:05:48+00:00"
     },
     {
       "source": "macg",
@@ -3662,30 +3692,6 @@
       "title": "iPhone 18 & 18e : date de sortie, puce A20, écran… les 3 infos à connaître",
       "url": "https://www.iphon.fr/post/iphone-18-18e-date-sortie-puce-a20-ecran",
       "publishedAt": "2026-11-16T10:21:10+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Nouvel échec de la fusée Vulcan : 40 satellites Amazon Leo détruits !",
-      "url": "https://www.generation-nt.com/actualites/ula-vulcan-lanceur-echec-satellite-amazon-leo-2084530",
-      "publishedAt": "2026-11-16T10:20:01+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "DeepSeek entraîné sur des puces Nvidia interdites",
-      "url": "https://korben.info/deepseek-entraine-sur-des-puces-nvidia-interdites.html",
-      "publishedAt": "2026-11-16T10:16:57+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "De -22 à +2 en dix minutes, le retour éclair des Hawks",
-      "url": "https://www.basketusa.com/news/957797/de-22-a-2-en-dix-minutes-le-retour-eclair-des-hawks/",
-      "publishedAt": "2026-11-16T10:14:41+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Apple cherche 200 000 personnes pour son étude sur l'IA et la santé",
-      "url": "https://www.mac4ever.com/ia/199047-apple-lance-une-vaste-etude-sur-l-ia-appliquee-a-la-sante",
-      "publishedAt": "2026-11-16T10:11:00+00:00"
     },
     {
       "source": "boulet",
