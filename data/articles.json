@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:01:06.821770+00:00",
+  "generatedAt": "2026-11-18T12:10:46.134364+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
+      "lastSuccessAt": "2026-11-18T12:10:46.134364+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "« L’un des meilleurs jeux jamais créés » : les premiers tests de GTA 6 sont unanimes",
+      "url": "https://www.numerama.com/pop-culture/2377809-lun-des-meilleurs-jeux-jamais-crees-les-premiers-tests-de-gta-6-sont-unanimes.html",
+      "publishedAt": "2026-11-18T12:03:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Fini les injections d’insuline ? Le diabète de type 2 pourrait un jour se traiter grâce à un implant électronique",
+      "url": "https://www.presse-citron.net/fini-injections-dinsuline-diabete-type-2-jour-traiter-grace-implant-electronique/",
+      "publishedAt": "2026-11-18T12:02:58+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Combien de temps faut-il pour traverser la map de GTA 6 en voiture et en avion ? On a chronométré",
+      "url": "https://www.journaldugeek.com/2026/11/18/combien-de-temps-faut-il-pour-traverser-la-map-de-gta-6-en-voiture-et-en-avion-on-a-chronometre/",
+      "publishedAt": "2026-11-18T12:02:44+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "6 111 tirs laser, 0,6 millimètre de précision : la solution britannique aux satellites fantômes vient d’être validée",
+      "url": "https://www.numerama.com/sciences/2377469-cette-start-up-veut-installer-des-miroirs-sur-les-satellites-pour-lutter-contre-les-debris-spatiaux.html",
+      "publishedAt": "2026-11-18T12:01:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Le fils de Peja Stojakovic plante 46 points pour s’offrir Duke !",
@@ -737,7 +761,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Brice Sensabaugh, 25 points en un quart-temps pour soulager le Jazz",
+      "title": "Brice Sensabaugh, 25 points en un quart-temps pour soulager Utah",
       "url": "https://www.basketusa.com/news/958483/brice-sensabaugh-25-points-en-un-quart-temps-pour-soulager-le-jazz/",
       "publishedAt": "2026-11-18T08:31:07+00:00"
     },
@@ -3668,30 +3692,6 @@
       "title": "Studprint : une imprimante 3D open source faite en LEGO",
       "url": "https://www.generation-nt.com/actualites/studprint-lego-imprimante-3d-2084518",
       "publishedAt": "2026-11-16T12:20:01+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Dissimulation de pertes : Intel a-t-il dupé Wall Street pour financer ses usines ?",
-      "url": "https://www.generation-nt.com/actualites/intel-plainte-actionnaires-plongeon-cours-action-2084545",
-      "publishedAt": "2026-11-16T12:10:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Lenovo Googlebook Duet 13 : une date de lancement fuite pour la première tablette GooglebookOS",
-      "url": "https://www.clubic.com/actualite-639457-lenovo-googlebook-duet-13-une-date-de-lancement-fuite-pour-la-premiere-tablette-googlebookos.html",
-      "publishedAt": "2026-11-16T12:10:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les soldats des Lakers font le travail",
-      "url": "https://www.basketusa.com/news/957749/les-soldats-des-lakers-font-le-travail/",
-      "publishedAt": "2026-11-16T12:05:39+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Le PlayStation Plus baisse de prix pendant le Black Friday : – 33 % pour la meilleure formule",
-      "url": "https://www.journaldugeek.com/2026/11/16/playstation-plus-baisse-prix-pendant-black-friday-33-meilleure-formule/",
-      "publishedAt": "2026-11-16T12:05:13+00:00"
     },
     {
       "source": "boulet",
