@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T10:40:48.671615+00:00",
+  "generatedAt": "2026-11-18T10:50:49.631470+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
+      "lastSuccessAt": "2026-11-18T10:50:49.631470+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Un MacBook à 742 € : ce n’est possible qu’au Black Friday",
+      "url": "https://www.iphon.fr/post/macbook-742-euros-possible-black-friday",
+      "publishedAt": "2026-11-18T10:48:06+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "L’agent IA de Gemini peut désormais appeler le garagiste et prendre rendez-vous à votre place",
+      "url": "https://www.clubic.com/actualite-639820-l-agent-ia-de-gemini-peut-desormais-appeler-le-garagiste-et-prendre-rendez-vous-a-votre-place.html",
+      "publishedAt": "2026-11-18T10:48:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "PS5 : cette mise à jour de dernière minute est obligatoire pour GTA 6",
+      "url": "https://www.journaldugeek.com/2026/11/18/ps5-mise-a-jour-derniere-minute-obligatoire-gta-6/",
+      "publishedAt": "2026-11-18T10:45:40+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Google et Amazon vont détenir près d'un tiers d'Anthropic",
+      "url": "https://www.clubic.com/actualite-639781-google-et-amazon-vont-detenir-pres-d-un-tiers-d-anthropic.html",
+      "publishedAt": "2026-11-18T10:42:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Black Friday : Une Apple Watch Ultra 2 à moins de 550 € ça vous tente ?",
+      "url": "https://www.iphon.fr/post/black-friday-apple-watch-ultra-2-moins-550-euros-ca-vous-tente",
+      "publishedAt": "2026-11-18T10:41:31+00:00"
+    },
     {
       "source": "numerama",
       "title": "« La mauvaise approche » : Cloudflare tacle la justice française, qui pousse le résolveur DNS Quad9 à quitter le pays",
@@ -143,9 +173,9 @@
     },
     {
       "source": "numerama",
-      "title": "GTA 6 : suivez en direct le lancement du jeu le plus attendu de tous les temps",
+      "title": "Sortie de GTA 6 : suivez en direct le lancement du jeu le plus attendu de tous les temps",
       "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct.html",
-      "publishedAt": "2026-11-18T10:35:23+00:00"
+      "publishedAt": "2026-11-18T10:38:00+00:00"
     },
     {
       "source": "jdg",
@@ -1024,6 +1054,12 @@
       "publishedAt": "2026-11-17T17:41:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le jour de ses 28 ans, Elvin Hayes s’offrait 43 points et 32 rebonds",
+      "url": "https://www.basketusa.com/news/958394/le-jour-de-ses-28-ans-elvin-hayes-soffrait-43-points-et-32-rebonds/",
+      "publishedAt": "2026-11-17T17:32:27+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "MacBook Pro M5 Pro/Max en promo : jusqu'à -1100€ par rapport à l'Apple Store !",
       "url": "https://www.mac4ever.com/mac/199091-macbook-pro-m5-pro-max-en-promo-jusqu-a-1100-par-rapport-a-l-apple-store",
@@ -1166,12 +1202,6 @@
       "title": "GTA VI : la carte de Leonida a fuité et elle est immense",
       "url": "https://www.journaldugeek.com/2026/11/17/gta-vi-la-carte-de-leonida-a-fuite-et-elle-est-immense/",
       "publishedAt": "2026-11-17T16:33:37+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le jour de ses 28 ans, Elvin Hayes s’offrait 43 points et 32 rebonds",
-      "url": "https://www.basketusa.com/news/958394/le-jour-de-ses-28-ans-elvin-hayes-soffrait-43-points-et-32-rebonds/",
-      "publishedAt": "2026-11-17T16:32:27+00:00"
     },
     {
       "source": "presse",
@@ -3662,42 +3692,6 @@
       "title": "Après 8 ans de voyage vers Mercure, la mission BepiColombo touche enfin au but",
       "url": "https://www.numerama.com/sciences/2375073-apres-8-ans-de-voyage-vers-mercure-la-mission-bepicolombo-touche-enfin-au-but.html",
       "publishedAt": "2026-11-16T10:51:17+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Nvidia : Le mirage de la rupture de stock de processeurs graphiques s'effondre enfin !",
-      "url": "https://www.generation-nt.com/actualites/nvidia-penurie-gpu-mise-scene-2084516",
-      "publishedAt": "2026-11-16T10:50:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "L’iPhone 17 Pro Max perd 230 € : mettez-le vite dans votre panier avant qu’il se volatilise",
-      "url": "https://www.iphon.fr/post/iphone-17-pro-max-perd-230-euros-mettez-le-vite-dans-votre-panier",
-      "publishedAt": "2026-11-16T10:48:39+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Cette nouvelle faille zero-day détourne un dispositif de sécurité de Windows 11 et pourrait contourner Microsoft Defender",
-      "url": "https://www.clubic.com/actualite-639448-windows-11-cette-nouvelle-faille-zero-day-detourne-un-dispositif-de-securite-de-microsoft.html",
-      "publishedAt": "2026-11-16T10:48:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Malgré ses efforts, Scottie Barnes ne sort pas les Raptors du pétrin",
-      "url": "https://www.basketusa.com/news/957785/malgre-ses-efforts-scottie-barnes-ne-sort-pas-les-raptors-du-petrin/",
-      "publishedAt": "2026-11-16T10:43:08+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Qwen4-Max : Alibaba promet une IA plus sûre, quelques semaines après un incident de données",
-      "url": "https://www.clubic.com/actualite-639409-qwen4-max-alibaba-promet-une-ia-plus-sure-quelques-semaines-apres-un-incident-de-donnees.html",
-      "publishedAt": "2026-11-16T10:42:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Clair Obscur, Saros, Control Resonant… : les meilleures offres jeux vidéo du Black Friday",
-      "url": "https://www.numerama.com/pop-culture/2375091-clair-obscur-saros-control-resonant-les-meilleures-offres-jeux-video-du-black-friday.html",
-      "publishedAt": "2026-11-16T10:40:51+00:00"
     },
     {
       "source": "boulet",
