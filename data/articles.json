@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:50:35.906169+00:00",
+  "generatedAt": "2026-11-18T13:01:05.244896+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T12:50:35.906169+00:00"
+      "lastSuccessAt": "2026-11-18T13:01:05.244896+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "2 500 € de plus qu’une Citroën Ami : j’ai testé la Linktour Alumi, la sans-permis chinoise bien équipée",
+      "url": "https://www.numerama.com/vroom/2376761-2-500-e-de-plus-quune-citroen-ami-jai-teste-la-linktour-alumi-la-sans-permis-chinoise-bien-equipee.html",
+      "publishedAt": "2026-11-18T13:00:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Un commerçant piège une console de jeu pour éliminer son rival",
+      "url": "https://www.generation-nt.com/actualites/commercant-piege-console-eliminer-rival-2084668",
+      "publishedAt": "2026-11-18T12:55:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "GTA VI décroche 99/100 sur Metacritic et rejoint enfin le seul jeu qui régnait depuis 28 ans",
+      "url": "https://www.clubic.com/actualite-639847-gta-vi-decroche-99-100-sur-metacritic-et-rejoint-enfin-le-seul-jeu-qui-regnait-depuis-28-ans.html",
+      "publishedAt": "2026-11-18T12:53:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Le nouveau ChatGPT vient de sortir, il promet des textes plus humains",
+      "url": "https://www.journaldugeek.com/2026/11/18/le-nouveau-chatgpt-vient-de-sortir-il-promet-des-textes-plus-humains/",
+      "publishedAt": "2026-11-18T12:52:14+00:00"
+    },
     {
       "source": "jdg",
       "title": "On a joué à GTA 6 qui sort demain et voici tous nos articles en live",
@@ -158,6 +182,12 @@
       "title": "Intermarché : les 700 000 peluches du loup ne seront pas là pour Noël, mais il y aura une « très grosse surprise »",
       "url": "https://www.numerama.com/pop-culture/2377907-intermarche-les-700-000-peluches-du-loup-ne-seront-pas-la-pour-noel-mais-il-y-aura-une-tres-grosse-surprise.html",
       "publishedAt": "2026-11-18T12:40:43+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Google gardera vos échanges Gemini bien plus longtemps",
+      "url": "https://www.generation-nt.com/actualites/google-gemini-discussions-retention-donnees-confidentialite-2084710",
+      "publishedAt": "2026-11-18T12:40:01+00:00"
     },
     {
       "source": "numerama",
@@ -454,12 +484,6 @@
       "publishedAt": "2026-11-18T10:30:31+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "GTA VI va aussi prendre d’assaut la NBA",
-      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
-      "publishedAt": "2026-11-18T10:30:26+00:00"
-    },
-    {
       "source": "numerama",
       "title": "La sonde Voyager 1 est à 25,9 milliards de km de la Terre : à quoi cette distance correspond-elle vraiment ?",
       "url": "https://www.numerama.com/sciences/2376733-la-sonde-voyager-1-est-a-259-milliards-de-km-de-la-terre-a-quoi-cette-distance-correspond-elle-vraiment.html",
@@ -680,6 +704,12 @@
       "title": "Cyberattaque : près de 180 sites visés, dont Air France, IKEA, ZOOM et la BBC",
       "url": "https://www.mac4ever.com/securite/199098-cyberattaque-pres-de-180-sites-vises-dont-air-france-ikea-zoom-et-la-bbc",
       "publishedAt": "2026-11-18T09:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "GTA VI va aussi prendre d’assaut la NBA",
+      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
+      "publishedAt": "2026-11-18T09:30:26+00:00"
     },
     {
       "source": "presse",
@@ -1432,12 +1462,6 @@
       "publishedAt": "2026-11-17T16:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
-      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
-      "publishedAt": "2026-11-17T16:43:42+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Pour le Black Friday, les prises ultra design Komult sont à −25 % avec ce code promo",
       "url": "https://www.clubic.com/bons-plans-639013-pour-le-black-friday-les-prises-ultra-design-komult-sont-a-25-avec-ce-code-promo.html",
@@ -1598,6 +1622,12 @@
       "title": "OpenAI au tribunal pour des IA incontrôlables",
       "url": "https://korben.info/openai-au-tribunal-pour-des-ia-incontrolables.html",
       "publishedAt": "2026-11-17T15:44:12+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
+      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
+      "publishedAt": "2026-11-17T15:43:42+00:00"
     },
     {
       "source": "gnt",
@@ -3698,30 +3728,6 @@
       "title": "Gros coup dur pour Amazon Leo face à Starlink, 40 satellites détruits d’un coup",
       "url": "https://www.journaldugeek.com/2026/11/16/amazon-leo-starlink-satellites-fusee/",
       "publishedAt": "2026-11-16T13:01:23+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Test Motorola Signature 27, on est dans la cour des grands !",
-      "url": "https://www.journaldugeek.com/test/test-motorola-signature-27-on-est-dans-la-cour-des-grands/",
-      "publishedAt": "2026-11-16T13:00:02+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Le groupe Casino change de nom : un vrai tournant pour le géant français de la grande distribution",
-      "url": "https://www.presse-citron.net/le-groupe-casino-change-de-nom-un-vrai-tournant-pour-le-geant-francais-de-la-grande-distribution/",
-      "publishedAt": "2026-11-16T12:54:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "San Antonio Spurs – Detroit Pistons : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957864/san-antonio-spurs-detroit-pistons-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-16T12:54:33+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Minnesota Timberwolves – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957619/minnesota-timberwolves-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-16T12:52:09+00:00"
     },
     {
       "source": "boulet",
