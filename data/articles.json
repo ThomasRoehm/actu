@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T10:04:24.036305+00:00",
+  "generatedAt": "2026-11-18T10:10:38.254474+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:04:24.036305+00:00"
+      "lastSuccessAt": "2026-11-18T10:10:38.254474+00:00"
     }
   ],
   "articles": [
@@ -152,6 +152,12 @@
       "title": "Slow Horses renouvelée jusqu'à la saison 10, du jamais vu chez Apple TV",
       "url": "https://www.mac4ever.com/tv/199100-slow-horses-renouvelee-jusqu-a-la-saison-10-du-jamais-vu-chez-apple-tv",
       "publishedAt": "2026-11-18T10:01:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "P’tite Planète : quelles parties du jeu utilisent l’intelligence artificielle ?",
+      "url": "https://www.journaldugeek.com/2026/11/18/ptite-planete-quelles-parties-du-jeu-utilisent-lintelligence-artificielle/",
+      "publishedAt": "2026-11-18T10:00:51+00:00"
     },
     {
       "source": "macg",
@@ -382,6 +388,12 @@
       "publishedAt": "2026-11-18T09:00:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "« Voilà à quoi ressemble le basket des Detroit Pistons ! »",
+      "url": "https://www.basketusa.com/news/958508/voila-a-quoi-ressemble-le-basket-des-detroit-pistons/",
+      "publishedAt": "2026-11-18T08:57:26+00:00"
+    },
+    {
       "source": "presse",
       "title": "En pleine crise Jensen Huang, Nvidia annonce des résultats financiers spectaculaires",
       "url": "https://www.presse-citron.net/en-pleine-crise-jensen-huang-nvidia-annonce-des-resultats-financiers-spectaculaires/",
@@ -506,12 +518,6 @@
       "title": "GTA 6 est un véritable phénomène en France : un joueur sur quatre a posé des congés",
       "url": "https://www.presse-citron.net/gta-6-est-un-veritable-phenomene-en-france-un-joueur-sur-quatre-a-pose-des-conges/",
       "publishedAt": "2026-11-18T08:00:24+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "« Voilà à quoi ressemble le basket des Detroit Pistons ! »",
-      "url": "https://www.basketusa.com/news/958508/voila-a-quoi-ressemble-le-basket-des-detroit-pistons/",
-      "publishedAt": "2026-11-18T07:57:26+00:00"
     },
     {
       "source": "numerama",
@@ -3680,18 +3686,6 @@
       "title": "Apple cherche 200 000 personnes pour son étude sur l'IA et la santé",
       "url": "https://www.mac4ever.com/ia/199047-apple-lance-une-vaste-etude-sur-l-ia-appliquee-a-la-sante",
       "publishedAt": "2026-11-16T10:11:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Interdiction chauffage au bois en France : voici les communes concernées en 2026",
-      "url": "https://www.journaldugeek.com/2026/11/16/interdiction-chauffage-au-bois-en-france-voici-les-communes-concernees-en-2026/",
-      "publishedAt": "2026-11-16T10:08:10+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Un crash, 40 satellites détruits : Amazon perd une autre fusée pour sa constellation Leo, tous les espoirs reposent désormais sur Ariane 6",
-      "url": "https://www.presse-citron.net/un-crash-40-satellites-detruits-amazon-perd-une-autre-fusee-pour-sa-constellation-leo-tous-les-espoirs-reposent-desormais-sur-ariane-6/",
-      "publishedAt": "2026-11-16T10:07:03+00:00"
     },
     {
       "source": "boulet",
