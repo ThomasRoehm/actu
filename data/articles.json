@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:01:05.073202+00:00",
+  "generatedAt": "2026-11-18T16:10:36.668584+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:01:05.073202+00:00"
+      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Google Wallet débarque sur iPhone, mais sans le paiement sans contact, et sans la France",
+      "url": "https://www.mac4ever.com/iphone/199114-google-wallet-debarque-sur-iphone-mais-sans-le-paiement-sans-contact-et-sans-la-france",
+      "publishedAt": "2026-11-18T16:10:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Tout ça pour ça ! NVIDIA annulerait la GeForce RTX 5080 24 Go : la GDDR7 est trop chère",
+      "url": "https://www.clubic.com/actualite-639910-tout-ca-pour-ca-nvidia-annulerait-la-geforce-rtx-5080-24-go-la-gddr7-est-trop-chere.html",
+      "publishedAt": "2026-11-18T16:04:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "GTA 6 sur PS5 : une mise à jour obligatoire à faire avant de jouer, même préchargé",
@@ -146,6 +158,12 @@
       "title": "Black Friday 2026 : Amazon frappe fort avec 50 offres tech jusqu’à -73 %, rien que ça !",
       "url": "https://www.clubic.com/bons-plans-639826-black-friday-2026-notre-top-50-des-meilleures-offres-amazon-avant-le-jour-j.html",
       "publishedAt": "2026-11-18T15:57:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Daniss Jenkins dynamise également le cinq majeur des Pistons",
+      "url": "https://www.basketusa.com/news/958551/daniss-jenkins-dynamise-egalement-le-cinq-majeur-des-pistons/",
+      "publishedAt": "2026-11-18T15:56:28+00:00"
     },
     {
       "source": "gnt",
@@ -928,6 +946,12 @@
       "publishedAt": "2026-11-18T10:30:31+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "GTA VI se prépare aussi à prendre d’assaut la NBA",
+      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
+      "publishedAt": "2026-11-18T10:30:26+00:00"
+    },
+    {
       "source": "numerama",
       "title": "La sonde Voyager 1 est à 25,9 milliards de km de la Terre : à quoi cette distance correspond-elle vraiment ?",
       "url": "https://www.numerama.com/sciences/2376733-la-sonde-voyager-1-est-a-259-milliards-de-km-de-la-terre-a-quoi-cette-distance-correspond-elle-vraiment.html",
@@ -1148,12 +1172,6 @@
       "title": "Cyberattaque : près de 180 sites visés, dont Air France, IKEA, ZOOM et la BBC",
       "url": "https://www.mac4ever.com/securite/199098-cyberattaque-pres-de-180-sites-vises-dont-air-france-ikea-zoom-et-la-bbc",
       "publishedAt": "2026-11-18T09:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "GTA VI se prépare aussi à prendre d’assaut la NBA",
-      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
-      "publishedAt": "2026-11-18T09:30:26+00:00"
     },
     {
       "source": "presse",
@@ -1402,6 +1420,12 @@
       "publishedAt": "2026-11-18T07:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
+      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
+      "publishedAt": "2026-11-18T07:45:01+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Piratage chez La Poste : les adresses de 22 millions de Français volées",
       "url": "https://www.mac4ever.com/securite/199096-piratage-chez-la-poste-les-adresses-de-22-millions-de-francais-volees",
@@ -1520,12 +1544,6 @@
       "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
       "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
       "publishedAt": "2026-11-18T06:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
-      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
-      "publishedAt": "2026-11-18T06:45:01+00:00"
     },
     {
       "source": "jdg",
@@ -3716,24 +3734,6 @@
       "title": "Le jour où Amar’e Stoudemire s’est pris pour Wilt Chamberlain",
       "url": "https://www.basketusa.com/news/609316/happy-birthday-le-match-a-50-points-du-jeune-amare-stoudemire/",
       "publishedAt": "2026-11-16T16:11:42+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Cette marque de moto vaut 1,2 milliard d’euros dans un secteur où les faillites se succèdent",
-      "url": "https://www.numerama.com/vroom/2375575-cette-marque-de-moto-vaut-12-milliard-deuros-dans-un-secteur-ou-les-faillites-se-succedent.html",
-      "publishedAt": "2026-11-16T16:07:43+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Rasé par des villageois en colère il y a 1 000 ans, ce château des Pyrénées refait surface",
-      "url": "https://www.journaldugeek.com/2026/11/16/rase-par-des-villageois-en-colere-il-y-a-1-000-ans-ce-chateau-des-pyrenees-refait-surface/",
-      "publishedAt": "2026-11-16T16:05:20+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les centres de données en orbite menacent l'observation spatiale",
-      "url": "https://www.generation-nt.com/actualites/centres-donnees-orbite-menace-etoiles-2084511",
-      "publishedAt": "2026-11-16T16:05:01+00:00"
     },
     {
       "source": "boulet",
