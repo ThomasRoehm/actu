@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:40:39.881348+00:00",
+  "generatedAt": "2026-11-18T15:50:50.824798+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
+      "lastSuccessAt": "2026-11-18T15:50:50.824798+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "iPhone 20 : Apple miserait sur un design radicalement différent en 2027",
+      "url": "https://www.iphon.fr/post/iphone-20-design-nouveau-rumeurs",
+      "publishedAt": "2026-11-18T15:45:16+00:00"
+    },
     {
       "source": "clubic",
       "title": "Quel casque ou quels écouteurs sans fil choisir pour Black Friday ? 10 offres Amazon dès 26,99 €",
@@ -146,6 +152,18 @@
       "title": "Microsoft, Apple, banques et FAA : les États-Unis victimes d’une cyberattaque coordonnée ?",
       "url": "https://www.mac4ever.com/securite/199111-microsoft-apple-banques-et-faa-les-etats-unis-victimes-d-une-cyberattaque-coordonnee",
       "publishedAt": "2026-11-18T15:39:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Black Friday : 3 indispensables de DREO pour passer l’hiver au chaud",
+      "url": "https://www.presse-citron.net/black-friday-3-indispensables-de-dreo-pour-passer-lhiver-au-chaud/",
+      "publishedAt": "2026-11-18T15:36:49+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Est-ce que les aliens sont dans GTA 6 ?",
+      "url": "https://www.journaldugeek.com/2026/11/18/est-ce-que-les-aliens-sont-dans-gta-6/",
+      "publishedAt": "2026-11-18T15:34:12+00:00"
     },
     {
       "source": "clubic",
@@ -206,12 +224,6 @@
       "title": "Cet écran Japannext à 649 euros peut remplacer vos deux moniteurs",
       "url": "https://korben.info/cet-ecran-japannext-a-649-euros-peut-remplacer-vos-deux-moniteurs.html",
       "publishedAt": "2026-11-18T15:04:50+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
-      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
-      "publishedAt": "2026-11-18T15:04:05+00:00"
     },
     {
       "source": "clubic",
@@ -370,6 +382,12 @@
       "publishedAt": "2026-11-18T14:07:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
+      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
+      "publishedAt": "2026-11-18T14:04:05+00:00"
+    },
+    {
       "source": "presse",
       "title": "La psychologie est formelle : les personnes qui rangent leur vaisselle le soir avant de dormir ne le font pas pour avoir un logement propre le lendemain",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-rangent-leur-vaisselle-le-soir-avant-de-dormir-ne-le-font-pas-pour-avoir-un-logement-propre-le-lendemain/",
@@ -382,18 +400,6 @@
       "publishedAt": "2026-11-18T13:48:51+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T13:46:34+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T13:44:28+00:00"
-    },
-    {
       "source": "numerama",
       "title": "La CNIL cache le nom d’une entreprise qui stockait des « mots de passe clients en clair », Grok se charge de la balancer",
       "url": "https://www.numerama.com/cyberguerre/2377761-la-cnil-cache-le-nom-dune-entreprise-qui-stockait-des-mots-de-passe-clients-en-clair-grok-se-charge-de-la-balancer.html",
@@ -404,12 +410,6 @@
       "title": "Microsoft Defender va pouvoir protéger les systèmes vulnérables sans attendre l'installation d'un correctif",
       "url": "https://www.clubic.com/actualite-639865-microsoft-defender-va-pouvoir-proteger-les-systemes-vulnerables-sans-attendre-l-installation-d-un-correctif.html",
       "publishedAt": "2026-11-18T13:43:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T13:42:31+00:00"
     },
     {
       "source": "gnt",
@@ -550,6 +550,12 @@
       "publishedAt": "2026-11-18T12:50:15+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T12:46:34+00:00"
+    },
+    {
       "source": "iphon",
       "title": "Google Maps : voici comment rouler en Formule 1 sur votre iPhone",
       "url": "https://www.iphon.fr/post/tutoriel-google-maps-astuce-comment-changer-avatar-conduite",
@@ -562,10 +568,22 @@
       "publishedAt": "2026-11-18T12:45:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T12:44:28+00:00"
+    },
+    {
       "source": "korben",
       "title": "Puces d'IA, Washington coupe l'accès à distance de la Chine",
       "url": "https://korben.info/puces-dia-washington-coupe-lacces-a-distance-de-la-chine.html",
       "publishedAt": "2026-11-18T12:43:07+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T12:42:31+00:00"
     },
     {
       "source": "numerama",
@@ -886,12 +904,6 @@
       "publishedAt": "2026-11-18T10:30:31+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "GTA VI se prépare aussi à prendre d’assaut la NBA",
-      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
-      "publishedAt": "2026-11-18T10:30:26+00:00"
-    },
-    {
       "source": "numerama",
       "title": "La sonde Voyager 1 est à 25,9 milliards de km de la Terre : à quoi cette distance correspond-elle vraiment ?",
       "url": "https://www.numerama.com/sciences/2376733-la-sonde-voyager-1-est-a-259-milliards-de-km-de-la-terre-a-quoi-cette-distance-correspond-elle-vraiment.html",
@@ -1106,6 +1118,12 @@
       "title": "Cyberattaque : près de 180 sites visés, dont Air France, IKEA, ZOOM et la BBC",
       "url": "https://www.mac4ever.com/securite/199098-cyberattaque-pres-de-180-sites-vises-dont-air-france-ikea-zoom-et-la-bbc",
       "publishedAt": "2026-11-18T09:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "GTA VI se prépare aussi à prendre d’assaut la NBA",
+      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
+      "publishedAt": "2026-11-18T09:30:26+00:00"
     },
     {
       "source": "presse",
@@ -1360,6 +1378,12 @@
       "publishedAt": "2026-11-18T07:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
+      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
+      "publishedAt": "2026-11-18T07:45:01+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Piratage chez La Poste : les adresses de 22 millions de Français volées",
       "url": "https://www.mac4ever.com/securite/199096-piratage-chez-la-poste-les-adresses-de-22-millions-de-francais-volees",
@@ -1478,12 +1502,6 @@
       "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
       "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
       "publishedAt": "2026-11-18T06:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
-      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
-      "publishedAt": "2026-11-18T06:45:01+00:00"
     },
     {
       "source": "jdg",
@@ -3710,36 +3728,6 @@
       "title": "Licenciements et IA : pourquoi votre poste est sûr… jusqu’à la prochaine crise",
       "url": "https://www.journaldugeek.com/2026/11/16/licenciements-et-ia-pourquoi-votre-poste-est-sur-jusqua-la-prochaine-crise/",
       "publishedAt": "2026-11-16T15:56:02+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Mais, au fait, pourquoi la saga Grand Theft Auto s’appelle-t-elle GTA ?",
-      "url": "https://www.numerama.com/pop-culture/2375493-mais-au-fait-pourquoi-la-saga-grand-theft-auto-sappelle-t-elle-gta.html",
-      "publishedAt": "2026-11-16T15:50:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Les lunettes connectées d'Apple arriveraient en 2027",
-      "url": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027.html",
-      "publishedAt": "2026-11-16T15:49:40+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Europe cherche des alternatives à Palantir pour réduire sa dépendance militaire aux États-Unis",
-      "url": "https://www.clubic.com/actualite-639529-europe-cherche-des-alternatives-a-palantir-pour-reduire-sa-dependance-militaire-aux-etats-unis.html",
-      "publishedAt": "2026-11-16T15:49:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Photo : l’iPhone Duo battu par l’iPhone 17 Pro sur ce point",
-      "url": "https://www.iphon.fr/post/iphone-duo-17-pro-photo",
-      "publishedAt": "2026-11-16T15:45:55+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "L'écran OLED du MacBook Pro provoque des vertiges chez certains utilisateurs",
-      "url": "https://www.generation-nt.com/actualites/macbook-pro-oled-pwm-ecran-vertiges-2084568",
-      "publishedAt": "2026-11-16T15:45:01+00:00"
     },
     {
       "source": "boulet",
