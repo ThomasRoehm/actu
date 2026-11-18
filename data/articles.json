@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:31:04.696442+00:00",
+  "generatedAt": "2026-11-18T11:40:37.753417+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:31:04.696442+00:00"
+      "lastSuccessAt": "2026-11-18T11:40:37.753417+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Attention ! GTA 6 ne fonctionnera pas sur votre PS5 si vous ne téléchargez pas cette mise à jour que Sony vient de publier",
+      "url": "https://www.presse-citron.net/gta-6-ps5-mise-a-jour-sony/",
+      "publishedAt": "2026-11-18T11:32:58+00:00"
+    },
     {
       "source": "tda",
       "title": "Power ranking S10 : les Chargers libérés",
@@ -314,6 +320,12 @@
       "title": "GTA 6 : congés, hype, FOMO… pourquoi l’enthousiasme autour du jeu est justifié (Edito)",
       "url": "https://www.presse-citron.net/gta-6-conges-hype-fomo-pourquoi-lenthousiasme-autour-du-jeu-est-justifie-edito/",
       "publishedAt": "2026-11-18T10:30:31+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "GTA VI va aussi prendre d’assaut la NBA",
+      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
+      "publishedAt": "2026-11-18T10:30:26+00:00"
     },
     {
       "source": "numerama",
@@ -536,12 +548,6 @@
       "title": "Cyberattaque : près de 180 sites visés, dont Air France, IKEA, ZOOM et la BBC",
       "url": "https://www.mac4ever.com/securite/199098-cyberattaque-pres-de-180-sites-vises-dont-air-france-ikea-zoom-et-la-bbc",
       "publishedAt": "2026-11-18T09:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "GTA VI va aussi prendre d’assaut la NBA",
-      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
-      "publishedAt": "2026-11-18T09:30:26+00:00"
     },
     {
       "source": "presse",
@@ -796,12 +802,6 @@
       "publishedAt": "2026-11-18T07:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
-      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
-      "publishedAt": "2026-11-18T07:45:01+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Piratage chez La Poste : les adresses de 22 millions de Français volées",
       "url": "https://www.mac4ever.com/securite/199096-piratage-chez-la-poste-les-adresses-de-22-millions-de-francais-volees",
@@ -920,6 +920,12 @@
       "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
       "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
       "publishedAt": "2026-11-18T06:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
+      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
+      "publishedAt": "2026-11-18T06:45:01+00:00"
     },
     {
       "source": "jdg",
@@ -1060,12 +1066,6 @@
       "publishedAt": "2026-11-17T20:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs accueillent les Pistons",
-      "url": "https://www.basketusa.com/news/958415/programme-du-soir-victor-wembanyama-et-les-spurs-accueillent-les-pistons/",
-      "publishedAt": "2026-11-17T19:51:45+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Combien de temps faudra-t-il pour terminer GTA 6 à 100 % ?",
       "url": "https://www.generation-nt.com/actualites/temps-terminer-gta-6-cent-pour-cent-2084595",
@@ -1094,6 +1094,12 @@
       "title": "Microsoft détaille l'architecture hybride de sa prochaine Xbox Helix",
       "url": "https://www.generation-nt.com/actualites/architecture-hybride-prochaine-xbox-helix-2084557",
       "publishedAt": "2026-11-17T19:00:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs accueillent les Pistons",
+      "url": "https://www.basketusa.com/news/958415/programme-du-soir-victor-wembanyama-et-les-spurs-accueillent-les-pistons/",
+      "publishedAt": "2026-11-17T18:51:45+00:00"
     },
     {
       "source": "jdg",
@@ -1294,6 +1300,12 @@
       "publishedAt": "2026-11-17T16:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
+      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
+      "publishedAt": "2026-11-17T16:43:42+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Pour le Black Friday, les prises ultra design Komult sont à −25 % avec ce code promo",
       "url": "https://www.clubic.com/bons-plans-639013-pour-le-black-friday-les-prises-ultra-design-komult-sont-a-25-avec-ce-code-promo.html",
@@ -1454,12 +1466,6 @@
       "title": "OpenAI au tribunal pour des IA incontrôlables",
       "url": "https://korben.info/openai-au-tribunal-pour-des-ia-incontrolables.html",
       "publishedAt": "2026-11-17T15:44:12+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
-      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
-      "publishedAt": "2026-11-17T15:43:42+00:00"
     },
     {
       "source": "gnt",
@@ -3680,18 +3686,6 @@
       "title": "La chute fait très mal : les entreprises liées aux data centers perdent 4 200 milliards de dollars en Bourse",
       "url": "https://www.clubic.com/actualite-639445-la-chute-fait-tres-mal-les-entreprises-liees-aux-data-centers-perdent-4-200-milliards-de-dollars-en-bourse.html",
       "publishedAt": "2026-11-16T11:45:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Motorola Signature 27 : un downgrade de batterie repéré en Europe",
-      "url": "https://www.generation-nt.com/actualites/motorola-signature-27-batterie-europe-2084510",
-      "publishedAt": "2026-11-16T11:35:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Harry Potter : la série enfreint une règle essentielle et ce n’est pas anodin",
-      "url": "https://www.journaldugeek.com/2026/11/16/harry-potter-la-serie-enfreint-une-regle-essentielle-et-ce-nest-pas-anodin/",
-      "publishedAt": "2026-11-16T11:34:40+00:00"
     },
     {
       "source": "boulet",
