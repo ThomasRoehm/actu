@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:50:38.288249+00:00",
+  "generatedAt": "2026-11-18T12:01:06.821770+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T11:50:38.288249+00:00"
+      "lastSuccessAt": "2026-11-18T12:01:06.821770+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Le fils de Peja Stojakovic plante 46 points pour s’offrir Duke !",
+      "url": "https://www.basketusa.com/news/958606/le-fils-de-peja-stojakovic-plante-46-points-face-a-duke/",
+      "publishedAt": "2026-11-18T11:53:26+00:00"
+    },
     {
       "source": "clubic",
       "title": "L'armée de Terre teste un génial robot terrestre conçu en un an pour porter le barda des soldats",
@@ -170,6 +176,12 @@
       "title": "Power ranking S10 : les Chargers libérés",
       "url": "https://touchdownactu.com/361519/power-ranking-s10-les-chargers-liberes/",
       "publishedAt": "2026-11-18T11:30:11+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le MacBook Air M5 fait son Black Friday : toutes les configurations à prix réduit à la Fnac !",
+      "url": "https://www.generation-nt.com/actualites/fnac-black-friday-macbook-air-m5-pas-cher-2084655",
+      "publishedAt": "2026-11-18T11:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -3680,24 +3692,6 @@
       "title": "Le PlayStation Plus baisse de prix pendant le Black Friday : – 33 % pour la meilleure formule",
       "url": "https://www.journaldugeek.com/2026/11/16/playstation-plus-baisse-prix-pendant-black-friday-33-meilleure-formule/",
       "publishedAt": "2026-11-16T12:05:13+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Les 6 leçons de la semaine 10 : Kirk Cousins, l’homme providentiel",
-      "url": "https://touchdownactu.com/361429/les-6-lecons-de-la-semaine-10-kirk-cousins-lhomme-providentiel/",
-      "publishedAt": "2026-11-16T12:00:20+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Harry Potter : un nouvel extrait de la série HBO se fait humilier sur les réseaux sociaux",
-      "url": "https://www.numerama.com/pop-culture/2375203-harry-potter-un-nouvel-extrait-de-la-serie-hbo-se-fait-humilier-sur-les-reseaux-sociaux.html",
-      "publishedAt": "2026-11-16T12:00:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "La fièvre Anthropic arrive à Wall Street : la demande dépasserait largement le nombre d’actions disponibles",
-      "url": "https://www.presse-citron.net/la-fievre-anthropic-arrive-a-wall-street-la-demande-depasserait-largement-le-nombre-dactions-disponibles/",
-      "publishedAt": "2026-11-16T11:56:31+00:00"
     },
     {
       "source": "boulet",
