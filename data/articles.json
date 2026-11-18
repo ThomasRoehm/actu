@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:55:38.431266+00:00",
+  "generatedAt": "2026-11-18T08:01:03.781653+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:55:38.431266+00:00"
+      "lastSuccessAt": "2026-11-18T08:01:03.781653+00:00"
     }
   ],
   "articles": [
@@ -158,6 +158,12 @@
       "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
       "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
       "publishedAt": "2026-11-18T07:47:01+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "OpenAI lance un outil gratuit pour bloquer les abus pédopornographiques générés par IA",
+      "url": "https://www.generation-nt.com/actualites/openai-outil-detection-pedopornographie-ia-2084612",
+      "publishedAt": "2026-11-18T07:45:01+00:00"
     },
     {
       "source": "mac4ever",
@@ -664,6 +670,12 @@
       "publishedAt": "2026-11-17T16:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
+      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
+      "publishedAt": "2026-11-17T16:43:42+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Pour le Black Friday, les prises ultra design Komult sont à −25 % avec ce code promo",
       "url": "https://www.clubic.com/bons-plans-639013-pour-le-black-friday-les-prises-ultra-design-komult-sont-a-25-avec-ce-code-promo.html",
@@ -824,12 +836,6 @@
       "title": "OpenAI au tribunal pour des IA incontrôlables",
       "url": "https://korben.info/openai-au-tribunal-pour-des-ia-incontrolables.html",
       "publishedAt": "2026-11-17T15:44:12+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
-      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
-      "publishedAt": "2026-11-17T15:43:42+00:00"
     },
     {
       "source": "gnt",
@@ -3656,12 +3662,6 @@
       "title": "Nvidia : Jensen Huang peut-il vraiment revenir ? Elon Musk et 165 000 signataires le veulent !",
       "url": "https://www.mac4ever.com/ia/199042-nvidia-jensen-huang-peut-il-vraiment-revenir-elon-musk-et-165-000-signataires-le-veulent",
       "publishedAt": "2026-11-16T08:02:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Tesla vend techniquement son Cybercab aux particuliers, mais il faut vraiment vouloir l’acheter",
-      "url": "https://www.macg.co/mobilites/2026/11/tesla-vend-techniquement-son-cybercab-aux-particuliers-mais-il-faut-vraiment-vouloir-lacheter-312425",
-      "publishedAt": "2026-11-16T08:00:00+00:00"
     },
     {
       "source": "boulet",
