@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:01:08.105644+00:00",
+  "generatedAt": "2026-11-18T06:05:29.833111+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:01:08.105644+00:00"
+      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "J’ai testé le Google Pixel 11 Pro pendant deux mois : a-t-il détrôné mes smartphones préférés ?",
+      "url": "https://www.presse-citron.net/google-pixel-11-pro-test/",
+      "publishedAt": "2026-11-18T06:00:28+00:00"
+    },
     {
       "source": "clubic",
       "title": "Piratage de comptes à l’ère de l’IA : ces petits réflexes qui peuvent vous éviter de gros ennuis",
@@ -145,6 +151,12 @@
       "source": "clubic",
       "title": "Roblox fait l’objet de près de 200 poursuites liées à des accusations d’exploitation sexuelle de mineurs",
       "url": "https://www.clubic.com/actualite-639775-roblox-fait-l-objet-de-pres-de-200-poursuites-liees-a-des-accusations-d-exploitation-sexuelle-de-mineurs.html",
+      "publishedAt": "2026-11-18T06:00:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Nvidia répond aux espoirs de retour de Jensen Huang : c’est non.",
+      "url": "https://www.macg.co/ailleurs/2026/11/nvidia-repond-aux-espoirs-de-retour-de-jensen-huang-cest-non-312479",
       "publishedAt": "2026-11-18T06:00:00+00:00"
     },
     {
@@ -1204,6 +1216,12 @@
       "publishedAt": "2026-11-17T11:09:37+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Orlando Magic – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958301/orlando-magic-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-17T11:09:10+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Avis aux ornithos, dans GTA 6, il y aura 62 espèces d’oiseaux à observer",
       "url": "https://www.numerama.com/pop-culture/2376193-avis-aux-ornithos-dans-gta-6-il-y-aura-62-especes-doiseaux-a-observer.html",
@@ -1364,12 +1382,6 @@
       "title": "Paris-Tokyo en 3 heures : un avion hypersonique réussit un premier test à Mach 5 (5 400 km/h) !",
       "url": "https://www.journaldugeek.com/2026/11/17/paris-tokyo-en-3-heures-un-avion-hypersonique-reussit-un-premier-test-a-mach-5-5-400-km-h/",
       "publishedAt": "2026-11-17T10:11:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Orlando Magic – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958301/orlando-magic-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-17T10:09:10+00:00"
     },
     {
       "source": "numerama",
@@ -3626,18 +3638,6 @@
       "title": "Après un premier quart-temps historique, les Celtics pulvérisent les Mavericks",
       "url": "https://www.basketusa.com/news/957698/apres-un-1er-quart-temps-historique-les-celtics-pulverisent-les-mavericks/",
       "publishedAt": "2026-11-16T06:11:43+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Tesla tente d'étouffer un chantier solaire désastreux avec 5 000 dollars de remboursement",
-      "url": "https://www.generation-nt.com/actualites/toit-solaire-inactif-dommages-tesla-2084528",
-      "publishedAt": "2026-11-16T06:05:02+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Ces lunettes aident des personnes aveugles à distinguer des objets",
-      "url": "https://www.journaldugeek.com/2026/11/16/ces-lunettes-aident-des-personnes-aveugles-a-distinguer-des-objets/",
-      "publishedAt": "2026-11-16T06:02:46+00:00"
     },
     {
       "source": "boulet",
