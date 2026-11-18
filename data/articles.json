@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:05:29.833111+00:00",
+  "generatedAt": "2026-11-18T06:10:39.024216+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:05:29.833111+00:00"
+      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Pour le Black Friday, Amazon fait revenir le pack Blink à -83%, caméra et sonnette à 24,99€",
+      "url": "https://www.clubic.com/bons-plans-639430-black-friday-amazon-fait-revenir-le-pack-blink-a--83-camera-et-sonnette-a-24-99.html",
+      "publishedAt": "2026-11-18T06:10:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "American Caper : une BD totalement barge que vous devriez lire avant de jouer à GTA 6",
+      "url": "https://www.journaldugeek.com/dossier/american-caper-une-bd-totalement-barge-que-vous-devriez-lire-avant-de-jouer-a-gta-6/",
+      "publishedAt": "2026-11-18T06:03:27+00:00"
+    },
     {
       "source": "presse",
       "title": "J’ai testé le Google Pixel 11 Pro pendant deux mois : a-t-il détrôné mes smartphones préférés ?",
@@ -3098,12 +3110,6 @@
       "title": "Apple cherche 200 000 personnes pour son étude sur l'IA et la santé",
       "url": "https://www.mac4ever.com/ia/199047-apple-lance-une-vaste-etude-sur-l-ia-appliquee-a-la-sante",
       "publishedAt": "2026-11-16T10:11:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon fait revenir le pack Blink à -83%, caméra et sonnette à 24,99€",
-      "url": "https://www.clubic.com/bons-plans-639430-black-friday-amazon-fait-revenir-le-pack-blink-a--83-camera-et-sonnette-a-24-99.html",
-      "publishedAt": "2026-11-16T10:09:00+00:00"
     },
     {
       "source": "jdg",
