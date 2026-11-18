@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:15:37.449493+00:00",
+  "generatedAt": "2026-11-18T07:20:47.922961+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:15:37.449493+00:00"
+      "lastSuccessAt": "2026-11-18T07:20:47.922961+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "OpenAI sort GPT‑6.2 de son chapeau pour torpiller l’introduction en Bourse d’Anthropic",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/openai-sort-gpt-62-de-son-chapeau-pour-torpiller-lintroduction-en-bourse-danthropic-312481",
+      "publishedAt": "2026-11-18T07:15:50+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Le Grinch débarque chez Lush pour Noël, et l’odeur est à tomber",
+      "url": "https://www.journaldugeek.com/2026/11/18/le-grinch-debarque-chez-lush-pour-noel-et-lodeur-est-a-tomber/",
+      "publishedAt": "2026-11-18T07:13:02+00:00"
+    },
     {
       "source": "numerama",
       "title": "Mettez à jour votre PS5 si vous voulez jouer à GTA 6",
@@ -3626,24 +3638,6 @@
       "title": "Échec historique : la fusée Vulcan subit une lourde anomalie, les 40 satellites Amazon à bord détruits",
       "url": "https://www.clubic.com/actualite-639388-echec-historique-la-fusee-vulcan-subit-une-lourde-anomalie-les-40-satellites-amazon-a-bord-detruits.html",
       "publishedAt": "2026-11-16T07:27:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Tesla vend son Cybercab aux particuliers pour 30 000 dollars mais...",
-      "url": "https://www.generation-nt.com/actualites/tesla-cybercab-vente-particuliers-voiture-autonome-2084507",
-      "publishedAt": "2026-11-16T07:20:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Nvidia : un retour de Jensen Huang aux affaires est-il possible ?",
-      "url": "https://www.macg.co/ailleurs/2026/11/nvidia-un-retour-de-jensen-huang-aux-affaires-est-il-possible-312423",
-      "publishedAt": "2026-11-16T07:17:04+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iPhone Duo 2 : Apple prépare l’arrivée de Face ID, mais...",
-      "url": "https://www.mac4ever.com/iphone/199041-iphone-duo-2-apple-prepare-l-arrivee-de-face-id-mais",
-      "publishedAt": "2026-11-16T07:17:00+00:00"
     },
     {
       "source": "boulet",
