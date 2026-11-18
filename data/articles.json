@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T09:20:47.737445+00:00",
+  "generatedAt": "2026-11-18T09:25:29.248347+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:20:47.737445+00:00"
+      "lastSuccessAt": "2026-11-18T09:25:29.248347+00:00"
     }
   ],
   "articles": [
@@ -604,12 +604,6 @@
       "publishedAt": "2026-11-17T20:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs accueillent les Pistons",
-      "url": "https://www.basketusa.com/news/958415/programme-du-soir-victor-wembanyama-et-les-spurs-accueillent-les-pistons/",
-      "publishedAt": "2026-11-17T19:51:45+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Combien de temps faudra-t-il pour terminer GTA 6 à 100 % ?",
       "url": "https://www.generation-nt.com/actualites/temps-terminer-gta-6-cent-pour-cent-2084595",
@@ -638,6 +632,12 @@
       "title": "Microsoft détaille l'architecture hybride de sa prochaine Xbox Helix",
       "url": "https://www.generation-nt.com/actualites/architecture-hybride-prochaine-xbox-helix-2084557",
       "publishedAt": "2026-11-17T19:00:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs accueillent les Pistons",
+      "url": "https://www.basketusa.com/news/958415/programme-du-soir-victor-wembanyama-et-les-spurs-accueillent-les-pistons/",
+      "publishedAt": "2026-11-17T18:51:45+00:00"
     },
     {
       "source": "jdg",
@@ -3614,24 +3614,6 @@
       "title": "La KD 19 « Aunt Pearl » disponible en France",
       "url": "https://www.basketusa.com/news/957657/la-kd-19-aunt-pearl-disponible-en-france/",
       "publishedAt": "2026-11-16T09:27:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "10 000, 100 000 ou 300 000 €, ce que le livret Bfor+ de BforBank à 3,50 % peut vous rapporter en un an",
-      "url": "https://www.presse-citron.net/10-000-100-000-ou-300-000-e-ce-que-le-livret-bfor-de-bforbank-a-350-peut-vous-rapporter-en-un-an/",
-      "publishedAt": "2026-11-16T09:24:36+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Apple a un plan pour faire de meilleures lunettes que Meta ou Samsung (mais ça ne dépend pas de lui)",
-      "url": "https://www.numerama.com/tech/2375065-apple-a-un-plan-pour-faire-de-meilleures-lunettes-que-meta-ou-samsung-mais-ca-ne-depend-pas-de-lui.html",
-      "publishedAt": "2026-11-16T09:24:34+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Après les tirs dans les lycées, le gouvernement interdit la vente de feux d'artifice, on a décortiqué le décret",
-      "url": "https://www.clubic.com/actualite-639412-apres-les-tirs-dans-les-lycees-le-gouvernement-interdit-la-vente-de-feux-d-artifice-on-decortique-le-decret.html",
-      "publishedAt": "2026-11-16T09:22:00+00:00"
     },
     {
       "source": "boulet",
