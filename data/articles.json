@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:45:44.552579+00:00",
+  "generatedAt": "2026-11-18T06:50:37.169309+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "tda",
@@ -118,9 +118,9 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/tda.png",
-      "ok": false,
-      "error": "<urlopen error timed out>",
-      "lastSuccessAt": "2026-11-18T06:40:35.565420+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:45:44.552579+00:00"
+      "lastSuccessAt": "2026-11-18T06:50:37.169309+00:00"
     }
   ],
   "articles": [
@@ -143,7 +143,7 @@
     },
     {
       "source": "tda",
-      "title": "Azeez Al-Shaair absent, les Browns promus : les 7 infos NFL du mercredi",
+      "title": "Azeez Al-Shaair absent, les Browns promus : les 8 infos NFL du mercredi",
       "url": "https://touchdownactu.com/361540/azeez-al-shaair-absent-les-browns-promus-les-7-infos-nfl-du-mercredi/",
       "publishedAt": "2026-11-18T06:30:14+00:00"
     },
@@ -3626,12 +3626,6 @@
       "title": "Stats & Highlights | Les Hawks reviennent de loin à Milwaukee",
       "url": "https://www.basketusa.com/news/957699/stats-highlights-les-hawks-reviennent-de-loin-a-milwaukee/",
       "publishedAt": "2026-11-16T06:52:54+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Cartel de la RAM : la justice américaine refuse d'enterrer les poursuites contre Samsung, Micron et SK hynix",
-      "url": "https://www.generation-nt.com/actualites/justice-refuse-abandon-poursuites-ram-2084517",
-      "publishedAt": "2026-11-16T06:50:01+00:00"
     },
     {
       "source": "boulet",
