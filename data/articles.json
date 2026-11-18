@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:20:40.306478+00:00",
+  "generatedAt": "2026-11-18T14:30:57.568808+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
+      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Le vrai frein à l’achat d’une voiture électrique n’est pas celui que l’on croit",
+      "url": "https://www.numerama.com/vroom/2377933-le-vrai-frein-a-lachat-dune-voiture-electrique-nest-pas-celui-que-lon-croit.html",
+      "publishedAt": "2026-11-18T14:25:07+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Puces mémoire : l'alliance inattendue pour standardiser la recharge des robots en usine",
+      "url": "https://www.generation-nt.com/actualites/puces-memoire-standard-recharge-robots-2084670",
+      "publishedAt": "2026-11-18T14:25:02+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Plus de place sur votre PC ? Voici comment demander à ChatGPT ou Claude de faire le tri",
+      "url": "https://www.clubic.com/actualite-637789-plus-de-place-sur-votre-pc-voici-comment-demander-a-chatgpt-ou-claude-de-faire-le-tri.html",
+      "publishedAt": "2026-11-18T14:22:00+00:00"
+    },
     {
       "source": "iphon",
       "title": "Les services Apple en panne pendant plusieurs heures : que s’est-il vraiment passé ?",
@@ -152,6 +170,12 @@
       "title": "Le MacBook Neo est en promo : profitez du meilleur prix !",
       "url": "https://www.mac4ever.com/mac/199108-le-macbook-neo-est-en-promo-profitez-du-meilleur-prix",
       "publishedAt": "2026-11-18T14:10:02+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Après l'automobile, le robot humanoïde Atlas de Boston Dynamics dans les usines de puces de GlobalFoundries",
+      "url": "https://www.generation-nt.com/actualites/boston-dynamics-atlas-robot-humanoide-usine-globalfoundries-2084734",
+      "publishedAt": "2026-11-18T14:10:01+00:00"
     },
     {
       "source": "mac4ever",
@@ -1006,6 +1030,12 @@
       "publishedAt": "2026-11-18T09:00:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "« Voilà à quoi ressemble le basket des Detroit Pistons ! »",
+      "url": "https://www.basketusa.com/news/958508/voila-a-quoi-ressemble-le-basket-des-detroit-pistons/",
+      "publishedAt": "2026-11-18T08:57:26+00:00"
+    },
+    {
       "source": "presse",
       "title": "En pleine crise Jensen Huang, Nvidia annonce des résultats financiers spectaculaires",
       "url": "https://www.presse-citron.net/en-pleine-crise-jensen-huang-nvidia-annonce-des-resultats-financiers-spectaculaires/",
@@ -1130,12 +1160,6 @@
       "title": "GTA 6 est un véritable phénomène en France : un joueur sur quatre a posé des congés",
       "url": "https://www.presse-citron.net/gta-6-est-un-veritable-phenomene-en-france-un-joueur-sur-quatre-a-pose-des-conges/",
       "publishedAt": "2026-11-18T08:00:24+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "« Voilà à quoi ressemble le basket des Detroit Pistons ! »",
-      "url": "https://www.basketusa.com/news/958508/voila-a-quoi-ressemble-le-basket-des-detroit-pistons/",
-      "publishedAt": "2026-11-18T07:57:26+00:00"
     },
     {
       "source": "numerama",
@@ -3716,36 +3740,6 @@
       "title": "Crypto : un homme interpellé pour un home jacking à 900 000 euros",
       "url": "https://www.clubic.com/actualite-639511-crypto-un-homme-interpelle-pour-un-home-jacking-a-900-000-euros.html",
       "publishedAt": "2026-11-16T14:32:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le retour de Mathias Lessort chez les Bleus devra attendre",
-      "url": "https://www.basketusa.com/news/957941/le-retour-de-mathias-lessort-chez-les-bleus-devra-attendre/",
-      "publishedAt": "2026-11-16T14:30:33+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Podcast] Debrief S10 : Kirk Cousins et Minnesota, la bonne paire",
-      "url": "https://touchdownactu.com/361438/podcast-debrief-s10-kirk-cousins-et-minnesota-la-bonne-paire/",
-      "publishedAt": "2026-11-16T14:30:02+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "VIDÉO : Recalé au contrôle antipollution, il pirate le calculateur de sa Jeep de 1994 avec deux IA et réussit son coup",
-      "url": "https://www.numerama.com/cyberguerre/2375259-video-recale-au-controle-antipollution-il-pirate-le-calculateur-de-sa-jeep-de-1994-avec-deux-ia-et-reussit-son-coup.html",
-      "publishedAt": "2026-11-16T14:29:33+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Avec son 6/6 à 3-points, Mo Bamba a surpris Victor Wembanyama et les Spurs",
-      "url": "https://www.basketusa.com/news/957973/avec-son-6-6-a-3-points-mo-bamba-a-surpris-victor-wembanyama-et-les-spurs/",
-      "publishedAt": "2026-11-16T14:28:26+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le casque Beats Studio Pro chute à -37% pour le Black Friday : une alternative aux AirPods Max !",
-      "url": "https://www.mac4ever.com/audio/199059-le-casque-beats-studio-pro-chute-a-37-pour-le-black-friday-une-alternative-aux-airpods-max",
-      "publishedAt": "2026-11-16T14:27:16+00:00"
     },
     {
       "source": "boulet",
