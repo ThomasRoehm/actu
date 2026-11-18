@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T22:20:47.330586+00:00",
+  "generatedAt": "2026-11-18T22:30:57.942373+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T22:20:47.330586+00:00"
+      "lastSuccessAt": "2026-11-18T22:30:57.942373+00:00"
     }
   ],
   "articles": [
@@ -790,6 +790,12 @@
       "publishedAt": "2026-11-18T13:48:51+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:44:28+00:00"
+    },
+    {
       "source": "numerama",
       "title": "La CNIL cache le nom d’une entreprise qui stockait des « mots de passe clients en clair », Grok se charge de la balancer",
       "url": "https://www.numerama.com/cyberguerre/2377761-la-cnil-cache-le-nom-dune-entreprise-qui-stockait-des-mots-de-passe-clients-en-clair-grok-se-charge-de-la-balancer.html",
@@ -956,12 +962,6 @@
       "title": "James Bond : c’est sûrement la fin de l’humour pour 007",
       "url": "https://www.numerama.com/pop-culture/2377783-james-bond-cest-surement-la-fin-de-lhumour-pour-007.html",
       "publishedAt": "2026-11-18T12:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:44:28+00:00"
     },
     {
       "source": "korben",
@@ -1156,12 +1156,6 @@
       "publishedAt": "2026-11-18T11:10:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Pourquoi Brandon Miller et Coby White ont regardé la prolongation depuis le banc",
-      "url": "https://www.basketusa.com/news/958532/pourquoi-brandon-miller-et-coby-white-ont-regarde-la-prolongation-depuis-le-banc/",
-      "publishedAt": "2026-11-18T11:06:47+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Guerre spatiale : face à l’urgence, l’OTAN se tourne vers les fusées commerciales",
       "url": "https://www.clubic.com/actualite-639808-guerre-spatiale-face-a-l-urgence-l-otan-se-tourne-vers-les-fusees-commerciales.html",
@@ -1276,6 +1270,12 @@
       "publishedAt": "2026-11-18T10:30:31+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "GTA VI se prépare aussi à prendre d’assaut la NBA",
+      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
+      "publishedAt": "2026-11-18T10:30:26+00:00"
+    },
+    {
       "source": "numerama",
       "title": "La sonde Voyager 1 est à 25,9 milliards de km de la Terre : à quoi cette distance correspond-elle vraiment ?",
       "url": "https://www.numerama.com/sciences/2376733-la-sonde-voyager-1-est-a-259-milliards-de-km-de-la-terre-a-quoi-cette-distance-correspond-elle-vraiment.html",
@@ -1340,6 +1340,12 @@
       "title": "TeQuantS : l'Europe prépare son réseau internet quantique spatial inviolable",
       "url": "https://www.generation-nt.com/actualites/esa-thales-satellite-quantique-tequants-qinsat-coree-2084667",
       "publishedAt": "2026-11-18T10:10:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Pourquoi Brandon Miller et Coby White ont regardé la prolongation depuis le banc",
+      "url": "https://www.basketusa.com/news/958532/pourquoi-brandon-miller-et-coby-white-ont-regarde-la-prolongation-depuis-le-banc/",
+      "publishedAt": "2026-11-18T10:06:47+00:00"
     },
     {
       "source": "clubic",
@@ -1496,12 +1502,6 @@
       "title": "Cyberattaque : près de 180 sites visés, dont Air France, IKEA, ZOOM et la BBC",
       "url": "https://www.mac4ever.com/securite/199098-cyberattaque-pres-de-180-sites-vises-dont-air-france-ikea-zoom-et-la-bbc",
       "publishedAt": "2026-11-18T09:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "GTA VI se prépare aussi à prendre d’assaut la NBA",
-      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
-      "publishedAt": "2026-11-18T09:30:26+00:00"
     },
     {
       "source": "presse",
@@ -3734,12 +3734,6 @@
       "title": "Le duo Cam Boozer – Zach Edey en démonstration à Washington",
       "url": "https://www.basketusa.com/news/958127/le-tandem-boozer-edey-en-demonstration-a-washington/",
       "publishedAt": "2026-11-17T04:20:02+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "L'aventure Apple : 68 030 €, 1 000 ventes et un douloureux rappel de l'ère iPod",
-      "url": "https://www.macg.co/macgeneration/2026/11/laventure-apple-68-030-eu-1-000-ventes-et-un-douloureux-rappel-de-lere-ipod-312407",
-      "publishedAt": "2026-11-16T22:30:00+00:00"
     },
     {
       "source": "boulet",
