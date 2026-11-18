@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T09:35:10.172674+00:00",
+  "generatedAt": "2026-11-18T09:40:38.319435+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T09:35:10.172674+00:00"
+      "lastSuccessAt": "2026-11-18T09:40:38.319435+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Windows 11 : Copilot va bientôt pouvoir faire le ménage dans vos fichiers à votre place",
+      "url": "https://www.clubic.com/actualite-639814-windows-11-copilot-va-bientot-pouvoir-faire-le-menage-dans-vos-fichiers-a-votre-place.html",
+      "publishedAt": "2026-11-18T09:36:00+00:00"
+    },
     {
       "source": "iphon",
       "title": "GTA 6 ne sort pas sur iPhone : voici les 9 meilleures alternatives",
@@ -152,6 +158,12 @@
       "title": "SFR lance la Box 10 : le très haut débit et le Wi-Fi 7 pour tout le monde ?",
       "url": "https://www.presse-citron.net/sfr-lance-la-box-10-le-tres-haut-debit-et-le-wi-fi-7-pour-tout-le-monde/",
       "publishedAt": "2026-11-18T09:30:15+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Ce routeur Wi-Fi 7 ressemble à un livre, et c’est une excellente idée",
+      "url": "https://www.journaldugeek.com/2026/11/18/ce-routeur-wi-fi-7-ressemble-a-un-livre-et-cest-une-excellente-idee/",
+      "publishedAt": "2026-11-18T09:30:06+00:00"
     },
     {
       "source": "macg",
@@ -224,12 +236,6 @@
       "title": "Top 3 du jour : Sonos Arc Ultra à 832€, clavier Corsair K70 CORE TKL à 72€, projecteur Anker Nebula 4K à 879€",
       "url": "https://www.generation-nt.com/actualites/barre-son-sonos-arc-ultra-corsair-k70-core-tkl-rgb-clavier-gaming-projecteur-anker-nebula-cosmos-4k-se-promos-pas-cher-2084717",
       "publishedAt": "2026-11-18T09:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "« Voilà à quoi ressemble le basket des Detroit Pistons ! »",
-      "url": "https://www.basketusa.com/news/958508/voila-a-quoi-ressemble-le-basket-des-detroit-pistons/",
-      "publishedAt": "2026-11-18T08:57:26+00:00"
     },
     {
       "source": "presse",
@@ -356,6 +362,12 @@
       "title": "GTA 6 est un véritable phénomène en France : un joueur sur quatre a posé des congés",
       "url": "https://www.presse-citron.net/gta-6-est-un-veritable-phenomene-en-france-un-joueur-sur-quatre-a-pose-des-conges/",
       "publishedAt": "2026-11-18T08:00:24+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "« Voilà à quoi ressemble le basket des Detroit Pistons ! »",
+      "url": "https://www.basketusa.com/news/958508/voila-a-quoi-ressemble-le-basket-des-detroit-pistons/",
+      "publishedAt": "2026-11-18T07:57:26+00:00"
     },
     {
       "source": "numerama",
@@ -652,6 +664,12 @@
       "publishedAt": "2026-11-17T20:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs accueillent les Pistons",
+      "url": "https://www.basketusa.com/news/958415/programme-du-soir-victor-wembanyama-et-les-spurs-accueillent-les-pistons/",
+      "publishedAt": "2026-11-17T19:51:45+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Combien de temps faudra-t-il pour terminer GTA 6 à 100 % ?",
       "url": "https://www.generation-nt.com/actualites/temps-terminer-gta-6-cent-pour-cent-2084595",
@@ -680,12 +698,6 @@
       "title": "Microsoft détaille l'architecture hybride de sa prochaine Xbox Helix",
       "url": "https://www.generation-nt.com/actualites/architecture-hybride-prochaine-xbox-helix-2084557",
       "publishedAt": "2026-11-17T19:00:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs accueillent les Pistons",
-      "url": "https://www.basketusa.com/news/958415/programme-du-soir-victor-wembanyama-et-les-spurs-accueillent-les-pistons/",
-      "publishedAt": "2026-11-17T18:51:45+00:00"
     },
     {
       "source": "jdg",
@@ -892,6 +904,12 @@
       "publishedAt": "2026-11-17T16:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
+      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
+      "publishedAt": "2026-11-17T16:43:42+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Pour le Black Friday, les prises ultra design Komult sont à −25 % avec ce code promo",
       "url": "https://www.clubic.com/bons-plans-639013-pour-le-black-friday-les-prises-ultra-design-komult-sont-a-25-avec-ce-code-promo.html",
@@ -1052,12 +1070,6 @@
       "title": "OpenAI au tribunal pour des IA incontrôlables",
       "url": "https://korben.info/openai-au-tribunal-pour-des-ia-incontrolables.html",
       "publishedAt": "2026-11-17T15:44:12+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
-      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
-      "publishedAt": "2026-11-17T15:43:42+00:00"
     },
     {
       "source": "gnt",
