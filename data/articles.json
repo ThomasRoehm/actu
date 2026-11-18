@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:31:12.342057+00:00",
+  "generatedAt": "2026-11-18T17:40:36.133860+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:31:12.342057+00:00"
+      "lastSuccessAt": "2026-11-18T17:40:36.133860+00:00"
     }
   ],
   "articles": [
@@ -140,6 +140,12 @@
       "title": "W5000 : la Chine fait voler le premier avion-cargo sans pilote de 5 tonnes",
       "url": "https://www.mac4ever.com/divers/199118-w5000-la-chine-fait-voler-le-premier-avion-cargo-sans-pilote-de-5-tonnes",
       "publishedAt": "2026-11-18T17:26:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ils pensent télécharger GTA 6 gratuitement pour PC, c’était un virus : attention, les pièges se multiplient",
+      "url": "https://www.presse-citron.net/telecharger-gta-6-gratuitement-pour-pc-piege-virus/",
+      "publishedAt": "2026-11-18T17:25:59+00:00"
     },
     {
       "source": "gnt",
@@ -2488,12 +2494,6 @@
       "publishedAt": "2026-11-17T14:06:20+00:00"
     },
     {
-      "source": "presse",
-      "title": "Ils pensent télécharger GTA 6 gratuitement pour PC et finissent avec un virus : attention, les pièges se multiplient à l’approche de la sortie officielle",
-      "url": "https://www.presse-citron.net/telecharger-gta-6-gratuitement-pour-pc-piege-virus/",
-      "publishedAt": "2026-11-17T14:04:59+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "iOS 27.3 : Apple pourrait encore modifier l'apparence de Liquid Glass sur l'iPhone",
       "url": "https://www.mac4ever.com/iphone/199079-ios-27-3-apple-pourrait-encore-modifier-l-apparence-de-liquid-glass-sur-l-iphone",
@@ -3740,18 +3740,6 @@
       "title": "Bouygues Telecom vous fait cadeau de Google AI Plus",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-google-ai-plus-six-mois-2084576",
       "publishedAt": "2026-11-16T17:50:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Un Mac propre et sécurisé pour le Black Friday : -50 % sur Intego ONE Avancé & Total !",
-      "url": "https://www.mac4ever.com/securite/199062-un-mac-propre-et-securise-pour-le-black-friday-50-sur-intego-one-avance-total",
-      "publishedAt": "2026-11-16T17:39:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Arthrose du pouce : enfin une vraie alternative à l'ablation osseuse !",
-      "url": "https://www.generation-nt.com/actualites/arthrose-pouce-alternative-ablation-os-2084525",
-      "publishedAt": "2026-11-16T17:35:01+00:00"
     },
     {
       "source": "boulet",
