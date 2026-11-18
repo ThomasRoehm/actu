@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:55:28.649983+00:00",
+  "generatedAt": "2026-11-18T09:01:06.329048+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:55:28.649983+00:00"
+      "lastSuccessAt": "2026-11-18T09:01:06.329048+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Votre PC portable avec 8 Go de RAM va enfin respirer sous Windows 11",
+      "url": "https://www.generation-nt.com/actualites/windows-optimisation-pc-leger-2084660",
+      "publishedAt": "2026-11-18T08:50:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Fraude en ligne : le taux baisse en France, mais les deepfakes progressent de 90%",
@@ -184,6 +190,12 @@
       "publishedAt": "2026-11-18T08:30:30+00:00"
     },
     {
+      "source": "gnt",
+      "title": "OpenAI lance GPT-6.2 Astra et Sol avec des prix en baisse",
+      "url": "https://www.generation-nt.com/actualites/openai-gpt-6-2-astra-sol-tarification-2084711",
+      "publishedAt": "2026-11-18T08:30:01+00:00"
+    },
+    {
       "source": "clubic",
       "title": "YouTube va désormais deviner combien vous êtes sur le canapé et ses compteurs vont grimper",
       "url": "https://www.clubic.com/actualite-639784-youtube-va-desormais-deviner-combien-vous-etes-sur-le-canape-et-ses-compteurs-vont-grimper.html",
@@ -199,7 +211,7 @@
       "source": "gnt",
       "title": "Test de la batterie Jackery SolarVault 3 Pro Max : le stockage résidentiel hybride",
       "url": "https://www.generation-nt.com/tests/test-jackery-solarvault-3-pro-max-2080336",
-      "publishedAt": "2026-11-18T08:15:41+00:00"
+      "publishedAt": "2026-11-18T08:15:00+00:00"
     },
     {
       "source": "korben",
@@ -544,12 +556,6 @@
       "publishedAt": "2026-11-17T20:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs accueillent les Pistons",
-      "url": "https://www.basketusa.com/news/958415/programme-du-soir-victor-wembanyama-et-les-spurs-accueillent-les-pistons/",
-      "publishedAt": "2026-11-17T19:51:45+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Combien de temps faudra-t-il pour terminer GTA 6 à 100 % ?",
       "url": "https://www.generation-nt.com/actualites/temps-terminer-gta-6-cent-pour-cent-2084595",
@@ -578,6 +584,12 @@
       "title": "Microsoft détaille l'architecture hybride de sa prochaine Xbox Helix",
       "url": "https://www.generation-nt.com/actualites/architecture-hybride-prochaine-xbox-helix-2084557",
       "publishedAt": "2026-11-17T19:00:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs accueillent les Pistons",
+      "url": "https://www.basketusa.com/news/958415/programme-du-soir-victor-wembanyama-et-les-spurs-accueillent-les-pistons/",
+      "publishedAt": "2026-11-17T18:51:45+00:00"
     },
     {
       "source": "jdg",
@@ -3620,18 +3632,6 @@
       "title": "Trae Young a vécu un cauchemar inédit dans sa carrière",
       "url": "https://www.basketusa.com/news/957731/trae-young-a-vecu-un-cauchemar-inedit-dans-sa-carriere/",
       "publishedAt": "2026-11-16T09:03:22+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Top 3 du jour : Amazfit Balance 3 à 334€, aspirateur Dyson Car+Boat à 189€ et écran ASUS ROG OLED 27\" à 380€",
-      "url": "https://www.generation-nt.com/actualites/amazfit-balance-3-montre-connectee-aspirateur-main-dyson-car-boat-promos-pas-cher-2084541",
-      "publishedAt": "2026-11-16T09:00:02+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le Mac Studio M5 Max déjà en promo : économisez 300€ par rapport à l'Apple Store !",
-      "url": "https://www.mac4ever.com/mac/199046-le-mac-studio-m5-max-deja-en-promo-economisez-300-par-rapport-a-l-apple-store",
-      "publishedAt": "2026-11-16T08:58:11+00:00"
     },
     {
       "source": "boulet",
