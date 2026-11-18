@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:10:36.668584+00:00",
+  "generatedAt": "2026-11-18T16:20:39.874728+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T16:10:36.668584+00:00"
+      "lastSuccessAt": "2026-11-18T16:20:39.874728+00:00"
     }
   ],
   "articles": [
@@ -140,6 +140,12 @@
       "title": "Google Wallet débarque sur iPhone, mais sans le paiement sans contact, et sans la France",
       "url": "https://www.mac4ever.com/iphone/199114-google-wallet-debarque-sur-iphone-mais-sans-le-paiement-sans-contact-et-sans-la-france",
       "publishedAt": "2026-11-18T16:10:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : qu’est-ce qu’il se passe quand on essaye de traverser l’océan Atlantique ?",
+      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-quest-ce-quil-se-passe-quand-on-essaye-de-traverser-locean-atlantique/",
+      "publishedAt": "2026-11-18T16:07:55+00:00"
     },
     {
       "source": "clubic",
@@ -272,6 +278,12 @@
       "title": "Cet écran Japannext à 649 euros peut remplacer vos deux moniteurs",
       "url": "https://korben.info/cet-ecran-japannext-a-649-euros-peut-remplacer-vos-deux-moniteurs.html",
       "publishedAt": "2026-11-18T15:04:50+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
+      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
+      "publishedAt": "2026-11-18T15:04:05+00:00"
     },
     {
       "source": "clubic",
@@ -430,12 +442,6 @@
       "publishedAt": "2026-11-18T14:07:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
-      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
-      "publishedAt": "2026-11-18T14:04:05+00:00"
-    },
-    {
       "source": "presse",
       "title": "La psychologie est formelle : les personnes qui rangent leur vaisselle le soir avant de dormir ne le font pas pour avoir un logement propre le lendemain",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-rangent-leur-vaisselle-le-soir-avant-de-dormir-ne-le-font-pas-pour-avoir-un-logement-propre-le-lendemain/",
@@ -452,6 +458,12 @@
       "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-18T13:46:34+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:44:28+00:00"
     },
     {
       "source": "numerama",
@@ -620,12 +632,6 @@
       "title": "James Bond : c’est sûrement la fin de l’humour pour 007",
       "url": "https://www.numerama.com/pop-culture/2377783-james-bond-cest-surement-la-fin-de-lhumour-pour-007.html",
       "publishedAt": "2026-11-18T12:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:44:28+00:00"
     },
     {
       "source": "korben",
@@ -3704,36 +3710,6 @@
       "title": "Alibaba introduit Qwen4-Max avec des coûts en baisse",
       "url": "https://www.generation-nt.com/actualites/qwen4-max-alibaba-ia-modele-2084539",
       "publishedAt": "2026-11-16T16:25:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Amazon a lancé Alexa pour vos Achats en France, et elle en sait déjà beaucoup sur vous",
-      "url": "https://www.clubic.com/actualite-639424-amazon-a-lance-alexa-pour-vos-achats-en-france-et-elle-en-sait-deja-beaucoup-sur-vous.html",
-      "publishedAt": "2026-11-16T16:20:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Black Friday : les deals immanquables ce lundi 16 novembre (EN DIRECT)",
-      "url": "https://www.numerama.com/tech/2374925-black-friday-en-direct-les-meilleures-offres-ce-lundi-avant-la-black-week.html",
-      "publishedAt": "2026-11-16T16:18:16+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Il faut sauver le soldat Jensen Huang : une « war room » de la Silicon Valley veut le remettre à la tête de Nvidia",
-      "url": "https://www.numerama.com/tech/2375527-il-faut-sauver-le-soldat-jensen-huang-une-war-room-de-la-silicon-valley-veut-le-remettre-a-la-tete-de-nvidia.html",
-      "publishedAt": "2026-11-16T16:15:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "James Bond : Amazon choisit officiellement Robert Pattinson pour succéder à Daniel Craig",
-      "url": "https://www.mac4ever.com/tv/199063-james-bond-amazon-choisit-officiellement-robert-pattinson-pour-succeder-a-daniel-craig",
-      "publishedAt": "2026-11-16T16:13:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le jour où Amar’e Stoudemire s’est pris pour Wilt Chamberlain",
-      "url": "https://www.basketusa.com/news/609316/happy-birthday-le-match-a-50-points-du-jeune-amare-stoudemire/",
-      "publishedAt": "2026-11-16T16:11:42+00:00"
     },
     {
       "source": "boulet",
