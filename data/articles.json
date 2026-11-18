@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:30:57.568808+00:00",
+  "generatedAt": "2026-11-18T14:40:39.484727+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:30:57.568808+00:00"
+      "lastSuccessAt": "2026-11-18T14:40:39.484727+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Si vous voulez un robot cuiseur avant les repas de fêtes, Lidl fait baisser son Monsieur Cuisine Smart",
+      "url": "https://www.numerama.com/tech/2377677-si-vous-voulez-un-robot-cuiseur-avant-les-repas-de-fetes-lidl-fait-baisser-son-monsieur-cuisine-smart.html",
+      "publishedAt": "2026-11-18T14:38:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "App Store Awards 2026 : IA, créativité et bien-être, quelles tendances sur l'iPhone ?",
+      "url": "https://www.mac4ever.com/iphone/199110-app-store-awards-2026-ia-creativite-et-bien-etre-quelles-tendances-sur-l-iphone",
+      "publishedAt": "2026-11-18T14:37:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : comment lancer un voyage rapide ?",
+      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-comment-lancer-un-voyage-rapide/",
+      "publishedAt": "2026-11-18T14:34:58+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Ça y est, ils ont joué à GTA 6, et le jeu a tout d'un opus juste \"exceptionnel\"",
+      "url": "https://www.clubic.com/actualite-639871-ca-y-est-ils-ont-joue-a-gta-6-et-le-jeu-a-tout-d-un-opus-juste-exceptionnel.html",
+      "publishedAt": "2026-11-18T14:34:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Pour Stephen Curry, son dernier contrat est peut-être déjà signé…",
+      "url": "https://www.basketusa.com/news/958421/pour-stephen-curry-son-dernier-contrat-est-peut-etre-deja-signe/",
+      "publishedAt": "2026-11-18T14:32:59+00:00"
+    },
     {
       "source": "numerama",
       "title": "Le vrai frein à l’achat d’une voiture électrique n’est pas celui que l’on croit",
@@ -209,6 +239,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:46:34+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-18T13:44:28+00:00"
@@ -224,6 +260,12 @@
       "title": "Microsoft Defender va pouvoir protéger les systèmes vulnérables sans attendre l'installation d'un correctif",
       "url": "https://www.clubic.com/actualite-639865-microsoft-defender-va-pouvoir-proteger-les-systemes-vulnerables-sans-attendre-l-installation-d-un-correctif.html",
       "publishedAt": "2026-11-18T13:43:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:42:31+00:00"
     },
     {
       "source": "gnt",
@@ -364,12 +406,6 @@
       "publishedAt": "2026-11-18T12:50:15+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:46:34+00:00"
-    },
-    {
       "source": "iphon",
       "title": "Google Maps : voici comment rouler en Formule 1 sur votre iPhone",
       "url": "https://www.iphon.fr/post/tutoriel-google-maps-astuce-comment-changer-avatar-conduite",
@@ -386,12 +422,6 @@
       "title": "Puces d'IA, Washington coupe l'accès à distance de la Chine",
       "url": "https://korben.info/puces-dia-washington-coupe-lacces-a-distance-de-la-chine.html",
       "publishedAt": "2026-11-18T12:43:07+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:42:31+00:00"
     },
     {
       "source": "numerama",
@@ -1186,12 +1216,6 @@
       "publishedAt": "2026-11-18T07:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
-      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
-      "publishedAt": "2026-11-18T07:45:01+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Piratage chez La Poste : les adresses de 22 millions de Français volées",
       "url": "https://www.mac4ever.com/securite/199096-piratage-chez-la-poste-les-adresses-de-22-millions-de-francais-volees",
@@ -1300,10 +1324,22 @@
       "publishedAt": "2026-11-18T06:53:18+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Grosse inquiétude autour de Dylan Harper",
+      "url": "https://www.basketusa.com/news/958457/grosse-inquietude-autour-de-dylan-harper/",
+      "publishedAt": "2026-11-18T06:50:35+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
       "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
       "publishedAt": "2026-11-18T06:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
+      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
+      "publishedAt": "2026-11-18T06:45:01+00:00"
     },
     {
       "source": "jdg",
@@ -1400,12 +1436,6 @@
       "title": "Nvidia répond aux espoirs de retour de Jensen Huang : c’est non.",
       "url": "https://www.macg.co/ailleurs/2026/11/nvidia-repond-aux-espoirs-de-retour-de-jensen-huang-cest-non-312479",
       "publishedAt": "2026-11-18T06:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Grosse inquiétude autour de Dylan Harper",
-      "url": "https://www.basketusa.com/news/958457/grosse-inquietude-autour-de-dylan-harper/",
-      "publishedAt": "2026-11-18T05:50:35+00:00"
     },
     {
       "source": "basketusa",
@@ -3698,48 +3728,6 @@
       "title": "Le Bitcoin s’écroule depuis plusieurs jours : que se passe-t-il sur le marché des cryptomonnaies ?",
       "url": "https://www.presse-citron.net/le-bitcoin-secroule-depuis-plusieurs-jours-que-se-passe-t-il-sur-le-marche-des-cryptomonnaies/",
       "publishedAt": "2026-11-16T14:43:13+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "La psychologie est unanime : les personnes très intelligentes s’habillent toujours de cette façon",
-      "url": "https://www.presse-citron.net/la-psychologie-est-unanime-les-personnes-tres-intelligentes-shabillent-toujours-de-cette-facon/",
-      "publishedAt": "2026-11-16T14:39:08+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Netflix House : les parcs géants de Netflix sont-ils déjà un échec ?",
-      "url": "https://www.mac4ever.com/tv/199057-netflix-house-les-parcs-geants-de-netflix-sont-ils-deja-un-echec",
-      "publishedAt": "2026-11-16T14:39:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Quand pourra-t-on jouer à GTA VI sur Mac ?",
-      "url": "https://www.macg.co/logiciels/2026/11/quand-pourra-t-jouer-gta-vi-sur-mac-312439",
-      "publishedAt": "2026-11-16T14:37:56+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La Belgique commande 14 radars Thales pour son bouclier Blue Dome",
-      "url": "https://www.generation-nt.com/actualites/belgique-radars-thales-blue-dome-2084519",
-      "publishedAt": "2026-11-16T14:35:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Quatre jours après sa démission, Jensen Huang prépare déjà son retour chez Nvidia !",
-      "url": "https://www.journaldugeek.com/bon-plan/quatre-jours-apres-sa-demission-jensen-huang-prepare-deja-son-retour-chez-nvidia/",
-      "publishedAt": "2026-11-16T14:32:05+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Fraude : votre banque surveille les clients qui paient par chèque dès aujourd’hui en France",
-      "url": "https://www.presse-citron.net/fraude-votre-banque-surveille-les-clients-qui-paient-par-cheque-des-aujourdhui-en-france/",
-      "publishedAt": "2026-11-16T14:32:03+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Crypto : un homme interpellé pour un home jacking à 900 000 euros",
-      "url": "https://www.clubic.com/actualite-639511-crypto-un-homme-interpelle-pour-un-home-jacking-a-900-000-euros.html",
-      "publishedAt": "2026-11-16T14:32:00+00:00"
     },
     {
       "source": "boulet",
