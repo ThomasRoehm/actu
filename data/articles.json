@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:25:27.131556+00:00",
+  "generatedAt": "2026-11-18T07:30:51.215639+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:25:27.131556+00:00"
+      "lastSuccessAt": "2026-11-18T07:30:51.215639+00:00"
     }
   ],
   "articles": [
@@ -146,6 +146,12 @@
       "title": "iPhone 20 Pro : de nouvelles images confirment le design incurvé de l'écran",
       "url": "https://www.clubic.com/actualite-639769-iphone-20-pro-de-nouvelles-images-confirment-le-design-incurve-de-l-ecran.html",
       "publishedAt": "2026-11-18T07:22:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L’ancien patron de Wall Street prédit l’implosion de la bulle IA avant 2028, faut-il y croire ?",
+      "url": "https://www.generation-nt.com/actualites/gary-gensler-patron-wall-street-bulle-ia-explosion-prediction-2084677",
+      "publishedAt": "2026-11-18T07:20:01+00:00"
     },
     {
       "source": "macg",
@@ -604,12 +610,6 @@
       "publishedAt": "2026-11-17T16:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
-      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
-      "publishedAt": "2026-11-17T16:43:42+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Pour le Black Friday, les prises ultra design Komult sont à −25 % avec ce code promo",
       "url": "https://www.clubic.com/bons-plans-639013-pour-le-black-friday-les-prises-ultra-design-komult-sont-a-25-avec-ce-code-promo.html",
@@ -770,6 +770,12 @@
       "title": "OpenAI au tribunal pour des IA incontrôlables",
       "url": "https://korben.info/openai-au-tribunal-pour-des-ia-incontrolables.html",
       "publishedAt": "2026-11-17T15:44:12+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
+      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
+      "publishedAt": "2026-11-17T15:43:42+00:00"
     },
     {
       "source": "gnt",
@@ -1240,12 +1246,6 @@
       "publishedAt": "2026-11-17T12:10:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957888/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-17T12:07:35+00:00"
-    },
-    {
       "source": "clubic",
       "title": "L’immense marche en avant de la Chine : après Mars, elle veut se poser sur Callisto, une lune de Jupiter",
       "url": "https://www.clubic.com/actualite-639643-l-immense-marche-en-avant-de-la-chine-apres-mars-elle-veut-se-poser-sur-callisto-une-lune-de-jupiter.html",
@@ -1373,9 +1373,9 @@
     },
     {
       "source": "basketusa",
-      "title": "Orlando Magic – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958301/orlando-magic-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-17T11:09:10+00:00"
+      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957888/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-17T11:07:35+00:00"
     },
     {
       "source": "numerama",
@@ -1538,6 +1538,12 @@
       "title": "Paris-Tokyo en 3 heures : un avion hypersonique réussit un premier test à Mach 5 (5 400 km/h) !",
       "url": "https://www.journaldugeek.com/2026/11/17/paris-tokyo-en-3-heures-un-avion-hypersonique-reussit-un-premier-test-a-mach-5-5-400-km-h/",
       "publishedAt": "2026-11-17T10:11:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Orlando Magic – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958301/orlando-magic-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-17T10:09:10+00:00"
     },
     {
       "source": "numerama",
@@ -3632,24 +3638,6 @@
       "title": "Prise en main du Honor Magic 9 Pro Max, une histoire d’inspiration !",
       "url": "https://www.journaldugeek.com/test/prise-en-main-du-honor-magic-9-pro-max-une-histoire-dinspiration/",
       "publishedAt": "2026-11-16T07:32:12+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« Je suis rassurée que mon travail soit en sécurité » : comment un NAS Synology a changé la manière de travailler de Maïté, illustratrice [Sponso]",
-      "url": "https://www.numerama.com/tech/2366873-je-suis-rassuree-que-mon-travail-soit-en-securite-comment-un-nas-synology-a-change-la-maniere-de-travailler-de-maite-illustratrice.html",
-      "publishedAt": "2026-11-16T07:30:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Souveraineté numérique : la France et l’UE ont 2 ans pour agir afin de ne pas dépendre des IA américaines et chinoises",
-      "url": "https://www.presse-citron.net/souverainete-numerique-france-ue-ia/",
-      "publishedAt": "2026-11-16T07:28:39+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Échec historique : la fusée Vulcan subit une lourde anomalie, les 40 satellites Amazon à bord détruits",
-      "url": "https://www.clubic.com/actualite-639388-echec-historique-la-fusee-vulcan-subit-une-lourde-anomalie-les-40-satellites-amazon-a-bord-detruits.html",
-      "publishedAt": "2026-11-16T07:27:00+00:00"
     },
     {
       "source": "boulet",
