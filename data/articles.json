@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:40:40.615798+00:00",
+  "generatedAt": "2026-11-18T13:50:37.853687+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T13:40:40.615798+00:00"
+      "lastSuccessAt": "2026-11-18T13:50:37.853687+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:44:28+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "La CNIL cache le nom d’une entreprise qui stockait des « mots de passe clients en clair », Grok se charge de la balancer",
+      "url": "https://www.numerama.com/cyberguerre/2377761-la-cnil-cache-le-nom-dune-entreprise-qui-stockait-des-mots-de-passe-clients-en-clair-grok-se-charge-de-la-balancer.html",
+      "publishedAt": "2026-11-18T13:43:37+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Microsoft Defender va pouvoir protéger les systèmes vulnérables sans attendre l'installation d'un correctif",
+      "url": "https://www.clubic.com/actualite-639865-microsoft-defender-va-pouvoir-proteger-les-systemes-vulnerables-sans-attendre-l-installation-d-un-correctif.html",
+      "publishedAt": "2026-11-18T13:43:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:42:31+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Galaxy Studio : Samsung relance un casque audio dix ans après, face à l'AirPods Max",
@@ -302,6 +326,12 @@
       "title": "GTA+ dans GTA 6 : les bonus réservés de cet abonnement à 8 euros par mois valent-ils le coup ?",
       "url": "https://www.journaldugeek.com/2026/11/18/gta-dans-gta-6-les-bonus-reserves-de-cet-abonnement-a-8-euros-par-mois-valent-ils-le-coup/",
       "publishedAt": "2026-11-18T12:36:11+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "BenQ PD2732U et PD2770U : deux écrans 4K pour Mac, du créatif indépendant au studio",
+      "url": "https://www.macg.co/services/2026/11/benq-pd2732u-lecran-pro-pour-mac-devient-abordable-312431",
+      "publishedAt": "2026-11-18T12:28:00+00:00"
     },
     {
       "source": "basketusa",
@@ -836,12 +866,6 @@
       "title": "Les robotaxis de Waymo quittent les autoroutes",
       "url": "https://www.generation-nt.com/actualites/waymo-robotaxis-retrait-autoroutes-securite-californie-2084713",
       "publishedAt": "2026-11-18T09:30:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "BenQ PD2732U et PD2770U : deux écrans 4K pour Mac, du créatif indépendant au studio",
-      "url": "https://www.macg.co/services/2026/11/benq-pd2732u-lecran-pro-pour-mac-devient-abordable-312431",
-      "publishedAt": "2026-11-18T09:28:07+00:00"
     },
     {
       "source": "numerama",
@@ -3746,24 +3770,6 @@
       "title": "Cartel de la RAM - la plainte contre Samsung, Micron et SK hynix ira au procès",
       "url": "https://korben.info/cartel-de-la-ram-la-plainte-contre-samsung-micron-et-sk-hynix-ira-au-proces.html",
       "publishedAt": "2026-11-16T13:51:27+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Comment une batterie à l'eau peut-elle rivaliser avec le lithium ?",
-      "url": "https://www.generation-nt.com/actualites/batterie-eau-stockage-energie-lithium-2084514",
-      "publishedAt": "2026-11-16T13:50:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Football : un nouveau ballon arrive à la Ligue des champions, une première en 25 ans",
-      "url": "https://www.presse-citron.net/football-un-nouveau-ballon-arrive-a-la-ligue-des-champions-une-premiere-en-25-ans/",
-      "publishedAt": "2026-11-16T13:50:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "MacBook Pro OLED : son écran donne la nausée à certains (mais pas à moi)",
-      "url": "https://www.mac4ever.com/mac/199054-macbook-pro-oled-son-ecran-donne-la-nausee-a-certains-mais-pas-a-moi",
-      "publishedAt": "2026-11-16T13:47:00+00:00"
     },
     {
       "source": "boulet",
