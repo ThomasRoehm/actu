@@ -58,6 +58,14 @@ class MangaTests(unittest.TestCase):
         self.assertNotIn("url", result)
         self.assertEqual(result["source"], "otl")
 
+    def test_page_only_series_uses_new_source_without_fetching_or_reusing_old_chapter(self):
+        manga = dict(self.manga, source="inkedscans", pageUrl="https://inkedscans.com/example", pageOnly=True)
+        previous = {"chapter": "Chapter 12", "url": "https://mangakatana.com/manga/example.123/c12"}
+        with patch("scripts.mangas.fetch") as request:
+            result = collect_manga(manga, previous, self.now)
+        request.assert_not_called()
+        self.assertEqual(result, dict(manga, ok=False))
+
     def test_failed_collection_preserves_last_known_chapter(self):
         previous = {"chapter": "Chapter 12", "url": "https://mangakatana.com/manga/example.123/c12"}
         with patch("scripts.mangas.fetch", side_effect=ValueError("Indisponible")):

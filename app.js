@@ -4,6 +4,11 @@ let cachedView;
 const rowSignatures = new WeakMap();
 const versions = { news: 0, mangas: 0 };
 const tabs = [...document.querySelectorAll('[data-group]')];
+const mangaSources = new Map([
+  ['mangakatana', { id: 'mangakatana', name: 'MangaKatana' }],
+  ['otl', { id: 'otl', name: 'OTL' }],
+  ['inkedscans', { id: 'inkedscans', name: 'Inked Scans', icon: false }],
+]);
 const byId = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
 const clockFormat = new Intl.DateTimeFormat('fr-FR', { hour: '2-digit', minute: '2-digit' });
@@ -40,6 +45,7 @@ function icon(source) {
   wrapper.className = 'site-icon';
   wrapper.setAttribute('aria-hidden', 'true');
   wrapper.textContent = source.name.charAt(0);
+  if (source.icon === false) return wrapper;
   const image = document.createElement('img');
   const path = source.icon || `icons/${source.id}.png`;
   if (!/^icons\/[a-z0-9-]+\.(png|jpg)$/.test(path)) return wrapper;
@@ -96,7 +102,7 @@ function renderMangas() {
   section.replaceChildren();
   if (!state.mangas) {
     section.append(element('p', 'manga-info', state.mangaError ? 'Impossible de charger les mangas. Réessayez en rechargeant la page.' : 'Chargement des derniers chapitres…'));
-  } else if (state.mangaError || state.mangas.some((manga) => !manga.ok)) {
+  } else if (state.mangaError || state.mangas.some((manga) => !manga.ok && !manga.pageOnly)) {
     section.append(element('p', 'notice', 'Certaines vérifications sont indisponibles. Les derniers chapitres connus restent affichés.'));
   }
   section.hidden = !section.childElementCount;
@@ -112,7 +118,7 @@ function element(tag, className, text) {
 function articleLink(entry, sources, previous) {
   const manga = entry.manga;
   const article = manga || entry.article;
-  const source = manga ? { id: manga.source === 'otl' ? 'otl' : 'mangakatana', name: manga.source === 'otl' ? 'OTL' : 'MangaKatana' } : sources.get(article.source);
+  const source = manga ? (mangaSources.get(manga.source) || mangaSources.get('mangakatana')) : sources.get(article.source);
   const key = safeUrl(manga ? article.pageUrl || article.url : article.url);
   const signature = JSON.stringify([article, source.id, source.name, source.icon, mangaDate(manga || {})]);
   const existing = previous.get(key);
@@ -123,15 +129,17 @@ function articleLink(entry, sources, previous) {
   link.href = safeUrl(article.url) || safeUrl(article.pageUrl);
   link.target = '_blank';
   link.rel = 'noopener noreferrer';
-  const label = source.name + (manga && !manga.ok ? ' · à vérifier' : '');
+  const label = source.name + (manga?.pageOnly ? ' · fiche de la série' : manga && !manga.ok ? ' · à vérifier' : '');
   const displayed = manga ? mangaDate(manga) : null;
   const time = element(manga ? 'span' : 'time', 'article-time', manga ? (displayed ? `${displayed.observed ? 'Repéré le ' : ''}${displayed.date.toLocaleDateString('fr-FR')}` : 'Date inconnue') : clockFormat.format(entry.date));
   if (!manga) time.dateTime = article.publishedAt;
   if (displayed?.observed) time.title = `Date annoncée par ${source.name} : ${manga.publishedDate}. Chapitre déjà disponible lors de la collecte.`;
-  link.title = manga ? (manga.lastSuccessAt ? `Dernière vérification réussie : ${new Date(manga.lastSuccessAt).toLocaleString('fr-FR')}` : 'Chapitre non vérifié') : `${source.name} · ${entry.date.toLocaleString('fr-FR')} · Nouvel onglet`;
+  link.title = manga ? (manga.pageOnly ? 'Ouvrir la fiche de la série' : manga.lastSuccessAt ? `Dernière vérification réussie : ${new Date(manga.lastSuccessAt).toLocaleString('fr-FR')}` : 'Chapitre non vérifié') : `${source.name} · ${entry.date.toLocaleString('fr-FR')} · Nouvel onglet`;
   const metadata = element('div', 'article-metadata');
-  metadata.append(icon(source), element('span', 'article-source', label), time);
-  link.append(metadata, element('span', 'article-title', manga ? `${manga.title} — ${manga.chapter || 'Chapitre indisponible'}` : article.title));
+  metadata.append(icon(source), element('span', 'article-source', label));
+  if (!manga?.pageOnly) metadata.append(time);
+  const title = manga && !manga.pageOnly ? `${manga.title} — ${manga.chapter || 'Chapitre indisponible'}` : article.title;
+  link.append(metadata, element('span', 'article-title', title));
   return link;
 }
 

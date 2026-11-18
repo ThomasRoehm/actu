@@ -67,6 +67,8 @@ def latest_chapter(content, manga):
 
 def collect_manga(manga, previous, now, otl_dates=None):
     item = {"slug": manga["slug"], "title": manga["title"], "pageUrl": manga.get("pageUrl", BASE + manga["slug"]), "source": manga.get("source", "mangakatana")}
+    if manga.get("pageOnly"):
+        return dict(item, pageOnly=True, ok=False)
     previous = dict(previous)
     if previous.get("pageUrl") and previous["pageUrl"] != item["pageUrl"]:
         previous = {}
@@ -105,6 +107,9 @@ def main():
     for manga in selection:
         item = collect_manga(manga, saved.get(manga["slug"], {}), now, otl_dates)
         items.append(item)
+        if item.get("pageOnly"):
+            print(manga["title"] + " : fiche de la série uniquement", flush=True)
+            continue
         print(manga["title"] + ": " + (item.get("chapter", "Sans chapitre") if item["ok"] else item["error"]), flush=True)
         if item["checkedAt"] == now.isoformat():
             time.sleep(1)
