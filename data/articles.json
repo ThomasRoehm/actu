@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:40:38.238781+00:00",
+  "generatedAt": "2026-11-18T08:45:38.673439+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T08:40:38.238781+00:00"
+      "lastSuccessAt": "2026-11-18T08:45:38.673439+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Fraude en ligne : le taux baisse en France, mais les deepfakes progressent de 90%",
+      "url": "https://www.clubic.com/actualite-639679-fraude-en-ligne-le-taux-baisse-en-france-mais-les-deepfakes-progressent-de-90.html",
+      "publishedAt": "2026-11-18T08:44:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iOS 27.3 a une fonction réservée aux iPhone très chers",
+      "url": "https://www.iphon.fr/post/ios-27-3-fonction-reservee-iphone-tres-chers",
+      "publishedAt": "2026-11-18T08:42:09+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Pourquoi l'ex-président d'Apple s’apprête à vendre pour 32 millions de dollars en actions",
+      "url": "https://www.mac4ever.com/divers/199093-pourquoi-l-ex-president-d-apple-s-apprete-a-vendre-pour-32-millions-de-dollars-en-actions",
+      "publishedAt": "2026-11-18T08:42:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "GTA 6 sort à minuit : mettez votre PS5 à jour dès maintenant",
@@ -3650,18 +3668,6 @@
       "title": "Pas besoin d’acheter des Mac : Mount Thor veut les louer aux entreprises de l’IA",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/pas-besoin-dacheter-des-mac-mount-thor-veut-les-louer-aux-entreprises-de-lia-312429",
       "publishedAt": "2026-11-16T08:46:06+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "AMD divise par deux le besoin en mémoire vive grâce à MEXT",
-      "url": "https://www.generation-nt.com/actualites/amd-divise-memoire-serveurs-2084526",
-      "publishedAt": "2026-11-16T08:45:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Ce réglage pourrait régler l’un des plus gros problèmes de l’iPhone Duo",
-      "url": "https://www.iphon.fr/post/reglage-iphone-duo-probleme",
-      "publishedAt": "2026-11-16T08:43:22+00:00"
     },
     {
       "source": "boulet",
