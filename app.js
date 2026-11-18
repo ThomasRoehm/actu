@@ -55,7 +55,6 @@ function icon(source) {
 
 function relativeTime(date) {
   const minutes = Math.max(0, Math.floor((Date.now() - date.getTime()) / 60000));
-  if (minutes < 1) return 'à l’instant';
   if (minutes < 60) return `${minutes} min`;
   return `${Math.floor(minutes / 60)} h`;
 }
