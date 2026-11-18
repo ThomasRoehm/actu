@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:50:36.091831+00:00",
+  "generatedAt": "2026-11-18T18:01:04.084306+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T17:50:36.091831+00:00"
+      "lastSuccessAt": "2026-11-18T18:01:04.084306+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Diesel à 2,13 €/L, essence à 1,98 €/L : les prix du carburant sont au plus bas en France depuis le mois d’août",
+      "url": "https://www.presse-citron.net/diesel-a-213-e-l-essence-a-198-e-l-les-prix-du-carburant-sont-au-plus-bas-en-france-depuis-le-mois-daout/",
+      "publishedAt": "2026-11-18T17:54:05+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Fini le chaos, Google Messages fait enfin le grand ménage dans vos SMS",
+      "url": "https://www.generation-nt.com/actualites/google-messages-mise-jour-tri-conversations-android-notes-vocales-2084765",
+      "publishedAt": "2026-11-18T17:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Tyler Herro et Bam Adebayo ne se parlent toujours pas…",
+      "url": "https://www.basketusa.com/news/958713/tyler-herro-et-bam-adebayo-ne-se-parlent-toujours-pas/",
+      "publishedAt": "2026-11-18T17:49:29+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'OTAN s'allie à OpenAI pour muscler sa cyberdéfense",
+      "url": "https://www.generation-nt.com/actualites/openai-otan-cyberdefense-ia-vulnerabilite-2084712",
+      "publishedAt": "2026-11-18T17:40:01+00:00"
+    },
     {
       "source": "jdg",
       "title": "À cause de Starlink, les satellites sont désormais plus nombreux que les étoiles visibles au-dessus de nombreuses villes",
@@ -3728,18 +3752,6 @@
       "title": "Nouveau coup dur pour GG Jackson",
       "url": "https://www.basketusa.com/news/958070/nouveau-coup-dur-pour-gg-jackson/",
       "publishedAt": "2026-11-16T18:02:02+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Gammes, rareté, revente : les cartes NFL Topps, c’est quoi ? Le « hobby » expliqué",
-      "url": "https://touchdownactu.com/361400/gammes-rarete-revente-les-cartes-nfl-topps-cest-quoi-le-hobby-explique/",
-      "publishedAt": "2026-11-16T18:00:45+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Blanchiment, mafia… Revolut sous tutelle judiciaire en Italie : la néobanque a laissé passer des millions d’euros suspects",
-      "url": "https://www.presse-citron.net/blanchiment-mafia-revolut-sous-tutelle-judiciaire-en-italie-la-neobanque-a-laisse-passer-des-millions-deuros-suspects/",
-      "publishedAt": "2026-11-16T18:00:10+00:00"
     },
     {
       "source": "boulet",
