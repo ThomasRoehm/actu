@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:30:58.608663+00:00",
+  "generatedAt": "2026-11-18T15:40:39.881348+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
+      "lastSuccessAt": "2026-11-18T15:40:39.881348+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Quel casque ou quels écouteurs sans fil choisir pour Black Friday ? 10 offres Amazon dès 26,99 €",
+      "url": "https://www.clubic.com/bons-plans-639181-black-friday-amazon-9-casques-et-ecouteurs-en-promo-de-26-99-a-499.html",
+      "publishedAt": "2026-11-18T15:40:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Microsoft, Apple, banques et FAA : les États-Unis victimes d’une cyberattaque coordonnée ?",
+      "url": "https://www.mac4ever.com/securite/199111-microsoft-apple-banques-et-faa-les-etats-unis-victimes-d-une-cyberattaque-coordonnee",
+      "publishedAt": "2026-11-18T15:39:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Fausse réunion Zoom : l'arnaque géante qui a permis de voler des millions dévoilée par le FBI",
+      "url": "https://www.clubic.com/actualite-639877-fausse-reunion-zoom-l-arnaque-geante-qui-a-permis-de-voler-des-millions-devoilee-par-le-fbi.html",
+      "publishedAt": "2026-11-18T15:33:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Pénurie de RAM : Apple prête à s'engager pour cinq ans avec Samsung",
+      "url": "https://www.macg.co/aapl/2026/11/penurie-de-ram-apple-prete-sengager-pour-cinq-ans-avec-samsung-312497",
+      "publishedAt": "2026-11-18T15:28:18+00:00"
+    },
     {
       "source": "clubic",
       "title": "Comment Rockstar utilise l'IA pour sauver GTA 6 sur Xbox Series S (mais s'en passe sur PS5 et Series X)",
@@ -1336,12 +1360,6 @@
       "publishedAt": "2026-11-18T07:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
-      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
-      "publishedAt": "2026-11-18T07:45:01+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Piratage chez La Poste : les adresses de 22 millions de Français volées",
       "url": "https://www.mac4ever.com/securite/199096-piratage-chez-la-poste-les-adresses-de-22-millions-de-francais-volees",
@@ -1460,6 +1478,12 @@
       "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
       "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
       "publishedAt": "2026-11-18T06:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
+      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
+      "publishedAt": "2026-11-18T06:45:01+00:00"
     },
     {
       "source": "jdg",
@@ -3532,12 +3556,6 @@
       "publishedAt": "2026-11-16T17:10:00+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday Amazon : 9 casques et écouteurs en promo, de 26,99€ à 499€",
-      "url": "https://www.clubic.com/bons-plans-639181-black-friday-amazon-9-casques-et-ecouteurs-en-promo-de-26-99-a-499.html",
-      "publishedAt": "2026-11-16T17:09:00+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Fini les excès de vitesse, Tesla met à jour son FSD pour l’Europe",
       "url": "https://www.numerama.com/vroom/2375861-fini-les-exces-de-vitesse-tesla-met-a-jour-son-fsd-pour-leurope.html",
@@ -3722,12 +3740,6 @@
       "title": "L'écran OLED du MacBook Pro provoque des vertiges chez certains utilisateurs",
       "url": "https://www.generation-nt.com/actualites/macbook-pro-oled-pwm-ecran-vertiges-2084568",
       "publishedAt": "2026-11-16T15:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pendant le Black Friday, Amazon casse déjà le prix de ce TV OLED Samsung",
-      "url": "https://www.clubic.com/bons-plans-639532-pendant-le-black-friday-amazon-casse-deja-le-prix-de-ce-tv-oled-samsung.html",
-      "publishedAt": "2026-11-16T15:35:00+00:00"
     },
     {
       "source": "boulet",
