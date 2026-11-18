@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:45:36.872408+00:00",
+  "generatedAt": "2026-11-18T07:50:37.773474+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:45:36.872408+00:00"
+      "lastSuccessAt": "2026-11-18T07:50:37.773474+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "iOS 27.3 : ces 2 nouveautés arrivent, mais pas pour tout le monde",
+      "url": "https://www.iphon.fr/post/ios-27-3-quotas-apple-intelligence-etendus-abonnement-icloud",
+      "publishedAt": "2026-11-18T07:49:34+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Piratage chez La Poste : les adresses de 22 millions de Français volées",
@@ -286,6 +292,12 @@
       "publishedAt": "2026-11-18T06:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Avec ses 40 points, Brice Sensabaugh délivre enfin le Jazz",
+      "url": "https://www.basketusa.com/news/958444/avec-ses-40-points-brice-sensabaugh-delivre-enfin-le-jazz/",
+      "publishedAt": "2026-11-18T06:28:35+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Nvidia dans la tourmente : Jensen Huang veut (bien) revenir, la SEC ouvre une enquête !",
       "url": "https://www.mac4ever.com/ia/199094-nvidia-dans-la-tourmente-jensen-huang-veut-bien-revenir-la-sec-ouvre-une-enquete",
@@ -362,12 +374,6 @@
       "title": "Google détecte la première cyberattaque menée de bout en bout par une IA",
       "url": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
       "publishedAt": "2026-11-18T05:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Avec ses 40 points, Brice Sensabaugh délivre enfin le Jazz",
-      "url": "https://www.basketusa.com/news/958444/avec-ses-40-points-brice-sensabaugh-delivre-enfin-le-jazz/",
-      "publishedAt": "2026-11-18T05:28:35+00:00"
     },
     {
       "source": "basketusa",
@@ -1276,6 +1282,12 @@
       "publishedAt": "2026-11-17T12:10:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/957888/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-17T12:07:35+00:00"
+    },
+    {
       "source": "clubic",
       "title": "L’immense marche en avant de la Chine : après Mars, elle veut se poser sur Callisto, une lune de Jupiter",
       "url": "https://www.clubic.com/actualite-639643-l-immense-marche-en-avant-de-la-chine-apres-mars-elle-veut-se-poser-sur-callisto-une-lune-de-jupiter.html",
@@ -1403,9 +1415,9 @@
     },
     {
       "source": "basketusa",
-      "title": "Toronto Raptors – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/957888/toronto-raptors-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-17T11:07:35+00:00"
+      "title": "Orlando Magic – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958301/orlando-magic-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-17T11:09:10+00:00"
     },
     {
       "source": "numerama",
@@ -1568,12 +1580,6 @@
       "title": "Paris-Tokyo en 3 heures : un avion hypersonique réussit un premier test à Mach 5 (5 400 km/h) !",
       "url": "https://www.journaldugeek.com/2026/11/17/paris-tokyo-en-3-heures-un-avion-hypersonique-reussit-un-premier-test-a-mach-5-5-400-km-h/",
       "publishedAt": "2026-11-17T10:11:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Orlando Magic – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958301/orlando-magic-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-17T10:09:10+00:00"
     },
     {
       "source": "numerama",
@@ -3644,12 +3650,6 @@
       "title": "Tesla vend techniquement son Cybercab aux particuliers, mais il faut vraiment vouloir l’acheter",
       "url": "https://www.macg.co/mobilites/2026/11/tesla-vend-techniquement-son-cybercab-aux-particuliers-mais-il-faut-vraiment-vouloir-lacheter-312425",
       "publishedAt": "2026-11-16T08:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Luka Doncic 43, Dillon Brooks 1",
-      "url": "https://www.basketusa.com/news/957737/luka-doncic-43-dillon-brooks-1/",
-      "publishedAt": "2026-11-16T07:45:54+00:00"
     },
     {
       "source": "boulet",
