@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:10:39.024216+00:00",
+  "generatedAt": "2026-11-18T06:15:38.025028+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T06:10:39.024216+00:00"
+      "lastSuccessAt": "2026-11-18T06:15:38.025028+00:00"
     }
   ],
   "articles": [
@@ -140,6 +140,12 @@
       "title": "Pour le Black Friday, Amazon fait revenir le pack Blink à -83%, caméra et sonnette à 24,99€",
       "url": "https://www.clubic.com/bons-plans-639430-black-friday-amazon-fait-revenir-le-pack-blink-a--83-camera-et-sonnette-a-24-99.html",
       "publishedAt": "2026-11-18T06:10:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Trey Lyles sauve les Wolves sur le fil face aux Blazers",
+      "url": "https://www.basketusa.com/news/958437/trey-lyles-sauve-les-wolves-sur-le-fil-face-aux-blazers/",
+      "publishedAt": "2026-11-18T06:05:48+00:00"
     },
     {
       "source": "jdg",
@@ -3632,18 +3638,6 @@
       "title": "Lunettes IA d'Apple : voici ce que l'ont sait",
       "url": "https://www.mac4ever.com/ia/199040-lunettes-ia-d-apple-voici-ce-que-l-ont-sait",
       "publishedAt": "2026-11-16T06:22:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Les signalements de contenus pédocriminels liés à l’IA ont bondi de 8 400 % en deux ans",
-      "url": "https://www.clubic.com/actualite-639382-les-signalements-de-contenus-pedocriminels-lies-a-l-ia-ont-bondi-de-8-400-en-deux-ans.html",
-      "publishedAt": "2026-11-16T06:15:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Après un premier quart-temps historique, les Celtics pulvérisent les Mavericks",
-      "url": "https://www.basketusa.com/news/957698/apres-un-1er-quart-temps-historique-les-celtics-pulverisent-les-mavericks/",
-      "publishedAt": "2026-11-16T06:11:43+00:00"
     },
     {
       "source": "boulet",
