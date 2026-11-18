@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T10:30:52.724336+00:00",
+  "generatedAt": "2026-11-18T10:40:48.671615+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T10:30:52.724336+00:00"
+      "lastSuccessAt": "2026-11-18T10:40:48.671615+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "« La mauvaise approche » : Cloudflare tacle la justice française, qui pousse le résolveur DNS Quad9 à quitter le pays",
+      "url": "https://www.numerama.com/tech/2377419-la-mauvaise-approche-cloudflare-tacle-la-justice-francaise-qui-pousse-le-resolveur-dns-quad9-a-quitter-le-pays.html",
+      "publishedAt": "2026-11-18T10:39:45+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 : suivez en direct le lancement du jeu le plus attendu de tous les temps",
+      "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct.html",
+      "publishedAt": "2026-11-18T10:35:23+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "La panne mondiale d’Outlook a failli empoisonner des baigneurs en Allemagne",
+      "url": "https://www.journaldugeek.com/2026/11/18/la-panne-mondiale-doutlook-a-failli-empoisonner-des-baigneurs-en-allemagne/",
+      "publishedAt": "2026-11-18T10:33:36+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "GTA 6 : congés, hype, FOMO… pourquoi l’enthousiasme autour du jeu est justifié (Edito)",
+      "url": "https://www.presse-citron.net/gta-6-conges-hype-fomo-pourquoi-lenthousiasme-autour-du-jeu-est-justifie-edito/",
+      "publishedAt": "2026-11-18T10:30:31+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "GTA VI va aussi prendre d’assaut la NBA",
+      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
+      "publishedAt": "2026-11-18T10:30:26+00:00"
+    },
     {
       "source": "numerama",
       "title": "La sonde Voyager 1 est à 25,9 milliards de km de la Terre : à quoi cette distance correspond-elle vraiment ?",
@@ -388,6 +418,12 @@
       "publishedAt": "2026-11-18T09:26:41+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "La Jordan Tatum 5 passe au Laser",
+      "url": "https://www.basketusa.com/news/958435/la-jordan-tatum-5-passe-au-laser/",
+      "publishedAt": "2026-11-18T09:24:39+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Le supercalculateur japonais Fugaku piraté après une brèche sur son tableau de bord public !",
       "url": "https://www.generation-nt.com/actualites/fugaku-supercalculateur-piratage-intrusion-2084685",
@@ -518,12 +554,6 @@
       "title": "OpenAI lance GPT-6.2 Astra et Sol avec des prix en baisse",
       "url": "https://www.generation-nt.com/actualites/openai-gpt-6-2-astra-sol-tarification-2084711",
       "publishedAt": "2026-11-18T08:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La Jordan Tatum 5 passe au Laser",
-      "url": "https://www.basketusa.com/news/958435/la-jordan-tatum-5-passe-au-laser/",
-      "publishedAt": "2026-11-18T08:24:39+00:00"
     },
     {
       "source": "clubic",
@@ -3668,30 +3698,6 @@
       "title": "Clair Obscur, Saros, Control Resonant… : les meilleures offres jeux vidéo du Black Friday",
       "url": "https://www.numerama.com/pop-culture/2375091-clair-obscur-saros-control-resonant-les-meilleures-offres-jeux-video-du-black-friday.html",
       "publishedAt": "2026-11-16T10:40:51+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Facebook et Android : Meta écope d'une amende pour l'accès à des photos",
-      "url": "https://www.generation-nt.com/actualites/meta-amende-italie-facebook-acces-photos-android-2084534",
-      "publishedAt": "2026-11-16T10:38:28+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pour le Black Friday, Amazon PULVÉRISE le prix du casque Sonos Ace, à 199€ (-56%)",
-      "url": "https://www.clubic.com/bons-plans-639433-black-friday-amazon-pulverise-le-prix-du-casque-sonos-ace-a-199--56.html",
-      "publishedAt": "2026-11-16T10:35:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Meta écope de 805 millions d'euros en Italie pour avoir fouillé vos photos Facebook",
-      "url": "https://korben.info/meta-ecope-de-805-millions-deuros-en-italie-pour-avoir-fouille-vos-photos-facebook.html",
-      "publishedAt": "2026-11-16T10:33:06+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "SpaceX vient de réaliser une première historique hallucinante : son immense fusée Starship a été rattrapée en plein vol après son retour de l’orbite",
-      "url": "https://www.journaldugeek.com/2026/11/16/spacex-realiser-premiere-historique-hallucinante-fusee-starship-rattrapee-plein-vol-retour-lorbite/",
-      "publishedAt": "2026-11-16T10:31:10+00:00"
     },
     {
       "source": "boulet",
