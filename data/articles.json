@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:20:38.119197+00:00",
+  "generatedAt": "2026-11-18T15:30:58.608663+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
+      "lastSuccessAt": "2026-11-18T15:30:58.608663+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Comment Rockstar utilise l'IA pour sauver GTA 6 sur Xbox Series S (mais s'en passe sur PS5 et Series X)",
+      "url": "https://www.clubic.com/actualite-639898-comment-rockstar-utilise-l-ia-pour-sauver-gta-6-sur-xbox-series-s-mais-s-en-passe-sur-ps5-et-series-x.html",
+      "publishedAt": "2026-11-18T15:26:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Supervision IT, support à distance et cybersécurité : pourquoi la protection du SI passe par les utilisateurs",
+      "url": "https://www.generation-nt.com/actualites/supervision-it-support-distance-cybersecurite-pourquoi-protection-si-utilisateurs-2084763",
+      "publishedAt": "2026-11-18T15:20:01+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "SFR casse les codes : le Wi-Fi 7 à moins de 37 € par mois avec la nouvelle Box 10 !",
+      "url": "https://www.journaldugeek.com/2026/11/18/sfr-casse-les-codes-le-wi-fi-7-a-moins-de-37-e-par-mois-avec-la-nouvelle-box-10/",
+      "publishedAt": "2026-11-18T15:15:51+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "SkillEvaluator - Vos skills IA ont peut-être un YAML pété ?",
+      "url": "https://korben.info/skillevaluator-nvidia-skills-agents.html",
+      "publishedAt": "2026-11-18T15:10:16+00:00"
+    },
     {
       "source": "numerama",
       "title": "Amazon Family arrive en France : partager Prime avec un adulte de son foyer, sans supplément ni partage de mot de passe",
@@ -142,10 +166,22 @@
       "publishedAt": "2026-11-18T15:10:06+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Le dioxyde de carbone pourrait remplacer l'eau de votre lave-linge",
+      "url": "https://www.generation-nt.com/actualites/co2-remplace-eau-lave-linge-2084671",
+      "publishedAt": "2026-11-18T15:10:01+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Comment acheter une voiture dans GTA 6 ?",
       "url": "https://www.journaldugeek.com/2026/11/18/comment-acheter-une-voiture-dans-gta-6/",
       "publishedAt": "2026-11-18T15:07:52+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Cet écran Japannext à 649 euros peut remplacer vos deux moniteurs",
+      "url": "https://korben.info/cet-ecran-japannext-a-649-euros-peut-remplacer-vos-deux-moniteurs.html",
+      "publishedAt": "2026-11-18T15:04:50+00:00"
     },
     {
       "source": "basketusa",
@@ -1024,12 +1060,6 @@
       "publishedAt": "2026-11-18T09:43:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Trey Lyles et Joan Beringer, les bons soldats de Minnesota",
-      "url": "https://www.basketusa.com/news/958514/trey-lyles-et-joan-beringer-les-bons-soldats-de-minnesota/",
-      "publishedAt": "2026-11-18T09:42:07+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Audible intègre des résumés générés par IA pour choisir vos livres audio",
       "url": "https://www.generation-nt.com/actualites/audible-resumes-ia-livres-audio-2084663",
@@ -1174,6 +1204,12 @@
       "publishedAt": "2026-11-18T08:42:09+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Trey Lyles et Joan Beringer, les bons soldats de Minnesota",
+      "url": "https://www.basketusa.com/news/958514/trey-lyles-et-joan-beringer-les-bons-soldats-de-minnesota/",
+      "publishedAt": "2026-11-18T08:42:07+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Pourquoi l'ex-président d'Apple s’apprête à vendre pour 32 millions de dollars en actions",
       "url": "https://www.mac4ever.com/divers/199093-pourquoi-l-ex-president-d-apple-s-apprete-a-vendre-pour-32-millions-de-dollars-en-actions",
@@ -1196,6 +1232,12 @@
       "title": "La Chine vient de faire voler un avion-cargo géant autonome : le W5000, un aéronef capable de transporter 5 tonnes de fret sur 2 600 km",
       "url": "https://www.presse-citron.net/chine-voler-avion-cargo-geant-autonome-w5000-aeronef-capable-transporter-5-tonnes-fret-2-600-km/",
       "publishedAt": "2026-11-18T08:32:16+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Brice Sensabaugh, 25 points en un quart-temps pour soulager Utah",
+      "url": "https://www.basketusa.com/news/958483/brice-sensabaugh-25-points-en-un-quart-temps-pour-soulager-le-jazz/",
+      "publishedAt": "2026-11-18T08:31:07+00:00"
     },
     {
       "source": "jdg",
@@ -1316,12 +1358,6 @@
       "title": "James Bond vient-il de tuer le Batman de Robert Pattinson ?",
       "url": "https://www.journaldugeek.com/2026/11/18/james-bond-vient-il-de-tuer-le-batman-de-robert-pattinson/",
       "publishedAt": "2026-11-18T07:34:50+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Brice Sensabaugh, 25 points en un quart-temps pour soulager Utah",
-      "url": "https://www.basketusa.com/news/958483/brice-sensabaugh-25-points-en-un-quart-temps-pour-soulager-le-jazz/",
-      "publishedAt": "2026-11-18T07:31:07+00:00"
     },
     {
       "source": "presse",
@@ -3692,24 +3728,6 @@
       "title": "Pendant le Black Friday, Amazon casse déjà le prix de ce TV OLED Samsung",
       "url": "https://www.clubic.com/bons-plans-639532-pendant-le-black-friday-amazon-casse-deja-le-prix-de-ce-tv-oled-samsung.html",
       "publishedAt": "2026-11-16T15:35:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Dragon Ball Super Beerus : Beerus utilise-t-il vraiment toute sa force contre Goku ? (Spoilers)",
-      "url": "https://www.journaldugeek.com/2026/11/16/dragon-ball-super-beerus-beerus-utilise-t-il-vraiment-toute-sa-force-contre-goku-spoilers/",
-      "publishedAt": "2026-11-16T15:30:45+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "RayNeo GT Max : un écran virtuel de 307 pouces, compatible Mac et iPhone",
-      "url": "https://www.mac4ever.com/arvr/199058-rayneo-gt-max-un-ecran-virtuel-de-307-pouces-compatible-mac-et-iphone",
-      "publishedAt": "2026-11-16T15:29:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "🔴 Le nom du nouveau James Bond est officiel : vous allez l’adorer !",
-      "url": "https://www.presse-citron.net/%f0%9f%94%b4-le-nom-du-nouveau-james-bond-est-officiel-vous-allez-ladorer/",
-      "publishedAt": "2026-11-16T15:20:55+00:00"
     },
     {
       "source": "boulet",
