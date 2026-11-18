@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:10:38.261429+00:00",
+  "generatedAt": "2026-11-18T15:20:38.119197+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T15:10:38.261429+00:00"
+      "lastSuccessAt": "2026-11-18T15:20:38.119197+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Amazon Family arrive en France : partager Prime avec un adulte de son foyer, sans supplément ni partage de mot de passe",
+      "url": "https://www.numerama.com/tech/2377467-amazon-family-arrive-en-france-partager-prime-avec-un-adulte-de-son-foyer-sans-supplement-ni-partage-de-mot-de-passe.html",
+      "publishedAt": "2026-11-18T15:10:06+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Comment acheter une voiture dans GTA 6 ?",
+      "url": "https://www.journaldugeek.com/2026/11/18/comment-acheter-une-voiture-dans-gta-6/",
+      "publishedAt": "2026-11-18T15:07:52+00:00"
+    },
     {
       "source": "basketusa",
       "title": "JJ Redick veut des explications sur une étonnante règle NBA",
@@ -316,6 +328,12 @@
       "publishedAt": "2026-11-18T13:46:34+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:44:28+00:00"
+    },
+    {
       "source": "numerama",
       "title": "La CNIL cache le nom d’une entreprise qui stockait des « mots de passe clients en clair », Grok se charge de la balancer",
       "url": "https://www.numerama.com/cyberguerre/2377761-la-cnil-cache-le-nom-dune-entreprise-qui-stockait-des-mots-de-passe-clients-en-clair-grok-se-charge-de-la-balancer.html",
@@ -482,12 +500,6 @@
       "title": "James Bond : c’est sûrement la fin de l’humour pour 007",
       "url": "https://www.numerama.com/pop-culture/2377783-james-bond-cest-surement-la-fin-de-lhumour-pour-007.html",
       "publishedAt": "2026-11-18T12:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:44:28+00:00"
     },
     {
       "source": "korben",
@@ -3698,30 +3710,6 @@
       "title": "🔴 Le nom du nouveau James Bond est officiel : vous allez l’adorer !",
       "url": "https://www.presse-citron.net/%f0%9f%94%b4-le-nom-du-nouveau-james-bond-est-officiel-vous-allez-ladorer/",
       "publishedAt": "2026-11-16T15:20:55+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le retour du Hackintosh se précise sur PC x86 et puces Snapdragon",
-      "url": "https://www.generation-nt.com/actualites/macos-hackintosh-retour-snapdragon-x86-2084524",
-      "publishedAt": "2026-11-16T15:20:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Ce robot financé par le Pentagone a assemblé une structure dans l’espace sans aide humaine",
-      "url": "https://www.numerama.com/sciences/2375541-ce-robot-finance-par-le-pentagone-a-assemble-une-structure-dans-lespace-sans-aide-humaine.html",
-      "publishedAt": "2026-11-16T15:20:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le RPG vampirique du créateur de The Witcher 3 baisse fort sur PS5 pour le Black Friday",
-      "url": "https://www.numerama.com/pop-culture/2375459-le-rpg-vampirique-du-createur-de-the-witcher-3-baisse-fort-sur-ps5-pour-le-black-friday.html",
-      "publishedAt": "2026-11-16T15:14:33+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pour Scott Bessent, NVIDIA doit chercher un nouveau PDG au dehors de l'entreprise",
-      "url": "https://www.clubic.com/actualite-639523-pour-scott-bessent-nvidia-doit-chercher-un-nouveau-pdg-au-dehors-de-l-entreprise.html",
-      "publishedAt": "2026-11-16T15:12:00+00:00"
     },
     {
       "source": "boulet",
