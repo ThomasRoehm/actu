@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:10:50.627156+00:00",
+  "generatedAt": "2026-11-18T14:20:40.306478+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T14:10:50.627156+00:00"
+      "lastSuccessAt": "2026-11-18T14:20:40.306478+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Les services Apple en panne pendant plusieurs heures : que s’est-il vraiment passé ?",
+      "url": "https://www.iphon.fr/post/services-apple-panne-pendant-plusieurs-heures-explication",
+      "publishedAt": "2026-11-18T14:18:53+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Pourquoi GTA 6 tourne à 30 fps sur toutes les consoles, même sur PS5 Pro : les explications de Rockstar",
+      "url": "https://www.clubic.com/actualite-639880-pourquoi-gta-6-tourne-a-30-fps-sur-toutes-les-consoles-meme-sur-ps5-pro-les-explications-de-rockstar.html",
+      "publishedAt": "2026-11-18T14:17:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Le MacBook Neo est en promo : profitez du meilleur prix !",
@@ -397,7 +409,7 @@
       "source": "mac4ever",
       "title": "GTA 6 décroche un 99 sur Metacritic, du jamais vu depuis Zelda Ocarina of Time",
       "url": "https://www.mac4ever.com/gaming/199104-gta-6-decroche-un-99-sur-metacritic-du-jamais-vu-depuis-zelda-ocarina-of-time",
-      "publishedAt": "2026-11-18T12:25:16+00:00"
+      "publishedAt": "2026-11-18T12:25:00+00:00"
     },
     {
       "source": "gnt",
@@ -3734,42 +3746,6 @@
       "title": "Le casque Beats Studio Pro chute à -37% pour le Black Friday : une alternative aux AirPods Max !",
       "url": "https://www.mac4ever.com/audio/199059-le-casque-beats-studio-pro-chute-a-37-pour-le-black-friday-une-alternative-aux-airpods-max",
       "publishedAt": "2026-11-16T14:27:16+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iOS 27.3 : voici les 8 nouveautés majeures",
-      "url": "https://www.iphon.fr/post/ios-27-3-voici-8-nouveautes-majeures",
-      "publishedAt": "2026-11-16T14:17:38+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le MacBook Air M5 de retour en promo : économisez 200€ par rapport à l'Apple Store !",
-      "url": "https://www.mac4ever.com/mac/199056-le-macbook-air-m5-de-retour-en-promo-economisez-200-par-rapport-a-l-apple-store",
-      "publishedAt": "2026-11-16T14:14:54+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Une seule bombe nucléaire en orbite suffirait à griller 99 % des satellites",
-      "url": "https://korben.info/une-seule-bombe-nucleaire-en-orbite-suffirait-a-griller-99-des-satellites.html",
-      "publishedAt": "2026-11-16T14:12:31+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : comment y jouer dès le 18 novembre à midi, 12 heures avant tout le monde",
-      "url": "https://www.journaldugeek.com/2026/11/16/gta-6-comment-y-jouer-des-le-18-novembre-a-midi-12-heures-avant-tout-le-monde/",
-      "publishedAt": "2026-11-16T14:12:02+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Jouer à GTA 6 avant tout le monde en France, c’est possible sur Xbox grâce à une \"simple\" astuce",
-      "url": "https://www.clubic.com/actualite-639472-jouer-a-gta-6-avant-tout-le-monde-en-france-c-est-possible-sur-xbox-grace-a-une-simple-astuce.html",
-      "publishedAt": "2026-11-16T14:12:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Xbox Helix : Microsoft jure que sa future console ne sera pas un PC",
-      "url": "https://www.mac4ever.com/gaming/199055-xbox-helix-microsoft-jure-que-sa-future-console-ne-sera-pas-un-pc",
-      "publishedAt": "2026-11-16T14:11:00+00:00"
     },
     {
       "source": "boulet",
