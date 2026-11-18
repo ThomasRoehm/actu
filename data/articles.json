@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:01:10.579532+00:00",
+  "generatedAt": "2026-11-18T07:05:31.247970+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T07:01:10.579532+00:00"
+      "lastSuccessAt": "2026-11-18T07:05:31.247970+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "iPhone Duo : beaucoup vont le fuir si cette rumeur dit vraie",
+      "url": "https://www.iphon.fr/post/accusation-apple-cache-defaut-ecran-iphone-duo-pliant",
+      "publishedAt": "2026-11-18T07:01:38+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "GTA 6 affole complètement le marché du jeu vidéo avec des ventes qui atteignent un niveau exceptionnel",
+      "url": "https://www.clubic.com/actualite-639772-gta-6-affole-completement-le-marche-du-jeu-video-avec-des-ventes-qui-atteignent-un-niveau-exceptionnel.html",
+      "publishedAt": "2026-11-18T07:01:00+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "Le NFL Game Pass baisse encore son prix !",
+      "url": "https://touchdownactu.com/361258/le-nfl-game-pass-baisse-encore-son-prix/",
+      "publishedAt": "2026-11-18T07:00:26+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday 2026 : les 30 offres FOLLES chez Amazon jusqu’à -56%, avant même le 27 novembre",
       "url": "https://www.clubic.com/bons-plans-639460-black-friday-2026-amazon-frappe-fort-aujourd-hui-avec-30-offres-tech-du-pixel-11-a-649-a-la-tv-ambilight-a-446.html",
       "publishedAt": "2026-11-18T07:00:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Impôt : après les piscines, le Fisc a décidé de cibler ces deux constructions très répandues chez les Français",
+      "url": "https://www.presse-citron.net/impot-apres-les-piscines-le-fisc-a-decide-de-cibler-ces-deux-constructions-tres-repandues-chez-les-francais/",
+      "publishedAt": "2026-11-18T06:53:18+00:00"
     },
     {
       "source": "basketusa",
@@ -3602,24 +3626,6 @@
       "title": "Cette bande-annonce F1 de Canal+ a tout d'un trailer de GTA 6",
       "url": "https://www.clubic.com/actualite-639379-cette-bande-annonce-f1-de-canal-a-tout-d-un-trailer-de-gta-6.html",
       "publishedAt": "2026-11-16T07:07:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James devient le 3e meilleur passeur de l’histoire !",
-      "url": "https://www.basketusa.com/news/957659/lebron-james-devient-le-3e-meilleur-passeur-de-lhistoire/",
-      "publishedAt": "2026-11-16T07:04:28+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Les nouveaux fauteuils Razer vont faire vibrer les joueurs (vraiment)",
-      "url": "https://www.journaldugeek.com/2026/11/16/les-nouveaux-fauteuils-razer-vont-faire-vibrer-les-joueurs-vraiment/",
-      "publishedAt": "2026-11-16T07:02:02+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple dévoile son film de Noël… et sa star n’est pas l’iPhone Duo",
-      "url": "https://www.iphon.fr/post/avec-the-dreamer-apple-fait-la-promotion-du-macbook-neo",
-      "publishedAt": "2026-11-16T07:01:11+00:00"
     },
     {
       "source": "boulet",
