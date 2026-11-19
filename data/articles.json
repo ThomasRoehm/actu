@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:20:42.066711+00:00",
+  "generatedAt": "2026-11-19T09:30:55.118419+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:20:42.066711+00:00"
+      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday Apple : Amazon lance déjà 10 offres DINGUE, de l’iPhone 17 Pro aux AirPods Pro 3",
+      "url": "https://www.clubic.com/bons-plans-638878-amazon-fait-le-plein-de-promos-apple-avant-le-black-friday-de-l-ipad-au-airpods-pro-3.html",
+      "publishedAt": "2026-11-19T09:28:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Vos applications Windows 11 vont-elles bientôt refuser de démarrer pour des raisons de sécurité ?",
+      "url": "https://www.generation-nt.com/actualites/applications-windows-11-refuser-demarrer-2084761",
+      "publishedAt": "2026-11-19T09:25:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Samsung : le Galaxy S26 FE est à 519€ chez Amazon : une offre du Black Week qui mérite le détour",
+      "url": "https://www.clubic.com/bons-plans-640003-le-samsung-galaxy-s26-fe-a-519-chez-amazon-voici-une-offre-du-black-friday-qui-merite-le-detour.html",
+      "publishedAt": "2026-11-19T09:22:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
@@ -152,6 +170,12 @@
       "title": "Les coques Apple officielles pour iPhone 18 Pro en promo dès 47€ : -20% pour le Black Friday !",
       "url": "https://www.mac4ever.com/iphone/199129-les-coques-apple-officielles-pour-iphone-18-pro-en-promo-des-47-20-pour-le-black-friday",
       "publishedAt": "2026-11-19T09:10:17+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Vous craigniez l'IA ? Les régulateurs financiers sonnent l'alerte face à la menace quantique",
+      "url": "https://www.generation-nt.com/actualites/menace-quantique-cryptographie-avertissement-regulateur-financier-2084811",
+      "publishedAt": "2026-11-19T09:10:01+00:00"
     },
     {
       "source": "clubic",
@@ -176,6 +200,12 @@
       "title": "Test Bissell CrossWave Reach Plus Pro : le bon élève qui fait trop de bruit",
       "url": "https://www.clubic.com/test-produit-639514-test-bissell-crosswave-reach-plus-pro.html",
       "publishedAt": "2026-11-19T09:01:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday JMGO : des offres exceptionnelles sur les vidéoprojecteurs 4K !",
+      "url": "https://www.generation-nt.com/actualites/jmgo-iris-ultra-max-n1s-4k-n3-ultimate-projecteur-black-friday-2084687",
+      "publishedAt": "2026-11-19T09:00:01+00:00"
     },
     {
       "source": "basketusa",
@@ -284,6 +314,12 @@
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
       "publishedAt": "2026-11-19T08:24:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T08:21:10+00:00"
     },
     {
       "source": "gnt",
@@ -3722,42 +3758,6 @@
       "title": "Nvidia : la thèse du complot",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/nvidia-la-these-du-complot-312453",
       "publishedAt": "2026-11-17T09:41:19+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iOS 27.3 : la nouveauté la plus attendue sur l’iPhone Duo arrive",
-      "url": "https://www.iphon.fr/post/ios-27-3-beta-maj-iphone-duo-face-id",
-      "publishedAt": "2026-11-17T09:30:22+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Star Wars Galactic Racer va ENFIN ajouter un mode multijoueur local et on connaît la date !",
-      "url": "https://www.journaldugeek.com/2026/11/17/star-wars-galactic-racer-va-enfin-ajouter-un-mode-multijoueur-local-et-on-connait-la-date/",
-      "publishedAt": "2026-11-17T09:30:16+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Apple renforce la sécurité de macOS face aux dérives des agents IA",
-      "url": "https://www.generation-nt.com/actualites/macos-controles-acces-applications-agents-ia-securite-apple-2084618",
-      "publishedAt": "2026-11-17T09:30:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iOS 27.3 : voici toutes les nouveautés (bêta 2)",
-      "url": "https://www.mac4ever.com/iphone/199070-ios-27-3-voici-toutes-les-nouveautes-beta-2",
-      "publishedAt": "2026-11-17T09:29:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "WoW Forever : Blizzard change encore l’expérience en donjon",
-      "url": "https://www.numerama.com/pop-culture/2376015-wow-forever-blizzard-change-encore-lexperience-en-donjon.html",
-      "publishedAt": "2026-11-17T09:26:39+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Encore une messagerie chez Meta ? Instagram teste l'application Direct",
-      "url": "https://www.clubic.com/actualite-639595-encore-une-messagerie-chez-meta-instagram-teste-son-app-direct.html",
-      "publishedAt": "2026-11-17T09:22:00+00:00"
     },
     {
       "source": "boulet",
