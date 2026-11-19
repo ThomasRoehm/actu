@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:10:39.934533+00:00",
+  "generatedAt": "2026-11-19T14:20:46.739912+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
+      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "ChatGPT transcrit votre voix en direct et sans limite de durée, même en gratuit",
+      "url": "https://www.mac4ever.com/ia/199141-chatgpt-transcrit-votre-voix-en-direct-et-sans-limite-de-duree-meme-en-gratuit",
+      "publishedAt": "2026-11-19T14:20:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Apple Music Radio : la solution pour écouter de la musique gratuitement sans publicité",
+      "url": "https://www.iphon.fr/post/apple-music-radio-succes-populaire",
+      "publishedAt": "2026-11-19T14:16:07+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Apple pourrait annuler l’iMac OLED pour ces deux raisons majeures",
+      "url": "https://www.clubic.com/actualite-640090-apple-pourrait-annuler-l-imac-oled-pour-ces-deux-raisons-majeures.html",
+      "publishedAt": "2026-11-19T14:11:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Keyonte George monte en température avec le Jazz",
@@ -3836,36 +3854,6 @@
       "title": "James Bond : il y a 16 ans, Robert Pattinson pensait qu’il ferait un « très mauvais » James Bond",
       "url": "https://www.numerama.com/pop-culture/2376765-james-bond-il-y-a-16-ans-robert-pattinson-pensait-quil-ferait-un-tres-mauvais-james-bond.html",
       "publishedAt": "2026-11-17T14:21:17+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Obsolescence programmée : Apple devra affronter un procès à Paris",
-      "url": "https://www.generation-nt.com/actualites/apple-iphone-obsolescence-programme-proces-hop-2084644",
-      "publishedAt": "2026-11-17T14:20:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Est-ce qu’on se lève pour Hunger Games : Lever de soleil sur la moisson ? (avis sans spoiler)",
-      "url": "https://www.numerama.com/pop-culture/2376659-est-ce-quon-se-leve-pour-hunger-games-lever-de-soleil-sur-la-moisson-avis-sans-spoiler.html",
-      "publishedAt": "2026-11-17T14:19:23+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "SFR lance sa Box 10 : le Wi-Fi 7 arrive dans l'offre Fibre Power à 36,99 €/mois",
-      "url": "https://www.macg.co/services/2026/11/sfr-lance-sa-box-10-le-wi-fi-7-arrive-dans-loffre-fibre-power-3699-eumois-312465",
-      "publishedAt": "2026-11-17T14:18:27+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Ship 42 : un morceau de bouclier manquant, coque irisée et inscription « Don’t Panic » – ce que révèlent les détails de la fusée après la première capture",
-      "url": "https://www.numerama.com/sciences/2376179-ship-42-un-morceau-de-bouclier-manquant-coque-irisee-et-inscription-dont-panic-ce-que-revelent-les-details-de-la-fusee-apres-la-premiere-capture.html",
-      "publishedAt": "2026-11-17T14:17:33+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Le MacBook Pro OLED crée des vertiges et des maux de tête : voici quelle serait la cause",
-      "url": "https://www.iphon.fr/post/macbook-pro-oled-cree-vertiges-maux-tete-voici-quelle-serait-cause",
-      "publishedAt": "2026-11-17T14:17:00+00:00"
     },
     {
       "source": "boulet",
