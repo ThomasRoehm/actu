@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:20:46.724923+00:00",
+  "generatedAt": "2026-11-19T08:30:57.402625+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
+      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
+      "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
+      "publishedAt": "2026-11-19T08:24:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Supercalculateurs : la Chine creuse l'écart au sommet du TOP500 face aux États-Unis",
+      "url": "https://www.generation-nt.com/actualites/top500-supercalculateur-classement-chine-lineshine-2084784",
+      "publishedAt": "2026-11-19T08:20:01+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Julius Randle a honte des Nets",
@@ -320,6 +332,12 @@
       "title": "“On l’appelle le bouton magique” : Dacia et Renault ont ajouté un nouveau bouton dans leurs voitures, les automobilistes l’adorent déjà",
       "url": "https://www.presse-citron.net/on-lappelle-le-bouton-magique-dacia-et-renault-ont-ajoute-un-nouveau-bouton-dans-leurs-voitures-les-automobilistes-ladorent-deja/",
       "publishedAt": "2026-11-19T06:38:38+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "BenQ PD2732U et PD2770U : deux écrans 4K pour Mac, du créatif indépendant au studio",
+      "url": "https://www.macg.co/services/2026/11/benq-pd2732u-lecran-pro-pour-mac-devient-abordable-312431",
+      "publishedAt": "2026-11-19T06:38:00+00:00"
     },
     {
       "source": "basketusa",
@@ -529,12 +547,6 @@
       "source": "clubic",
       "title": "Disney a créé des robots Star Wars qui décident seuls quoi vous dire, grâce à l'IA d'AWS",
       "url": "https://www.clubic.com/actualite-639934-disney-a-cree-des-robots-star-wars-qui-decident-seuls-quoi-vous-dire-grace-a-l-ia-d-aws.html",
-      "publishedAt": "2026-11-18T18:38:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "BenQ PD2732U et PD2770U : deux écrans 4K pour Mac, du créatif indépendant au studio",
-      "url": "https://www.macg.co/services/2026/11/benq-pd2732u-lecran-pro-pour-mac-devient-abordable-312431",
       "publishedAt": "2026-11-18T18:38:00+00:00"
     },
     {
@@ -3740,30 +3752,6 @@
       "title": "Apple confie Apple Pay à cet homme !",
       "url": "https://www.mac4ever.com/iphone/199067-apple-confie-apple-pay-a-cet-homme",
       "publishedAt": "2026-11-17T08:32:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Doom aurait pu apparaître dans un autre Avengers, mais avec beaucoup de mauvaise foi",
-      "url": "https://www.journaldugeek.com/2026/11/17/pour-defendre-avenger-doomsday-kevin-feige-a-un-argument-aussi-drole-que-ridicule-attention-grosse-disquette/",
-      "publishedAt": "2026-11-17T08:30:49+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "En partance pour le FC Barcelone, Killian Hayes garde un œil sur la NBA",
-      "url": "https://www.basketusa.com/news/958122/en-partance-pour-le-fc-barcelone-killian-hayes-garde-un-oeil-sur-la-nba/",
-      "publishedAt": "2026-11-17T08:27:09+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Galaxy S27 Pro et Ultra : Samsung aurait enfin tranché sur le design de leurs appareils photo",
-      "url": "https://www.clubic.com/actualite-639580-galaxy-s27-pro-et-ultra-samsung-aurait-enfin-tranche-sur-le-design-de-leurs-appareils-photo.html",
-      "publishedAt": "2026-11-17T08:25:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Pour protéger ses clients, Apple ferme la porte aux agents IA sur Mac",
-      "url": "https://www.presse-citron.net/pour-proteger-ses-clients-apple-ferme-la-porte-aux-agents-ia-sur-mac/",
-      "publishedAt": "2026-11-17T08:21:27+00:00"
     },
     {
       "source": "boulet",
