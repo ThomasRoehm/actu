@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T19:20:48.785770+00:00",
+  "generatedAt": "2026-11-19T19:30:57.084685+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:20:48.785770+00:00"
+      "lastSuccessAt": "2026-11-19T19:30:57.084685+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Pikmin 4 sur Nintendo Switch 2 subit un rare review bombing",
+      "url": "https://www.generation-nt.com/actualites/pikmin-4-review-bombing-2084758",
+      "publishedAt": "2026-11-19T19:25:01+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des discussions temporaires dans le Mode IA de Google",
+      "url": "https://www.generation-nt.com/actualites/mode-ia-google-search-discussions-temporaires-2084801",
+      "publishedAt": "2026-11-19T19:05:01+00:00"
+    },
     {
       "source": "numerama",
       "title": "98,3 % de victoires : la puce quantique de Google pulvérise un plafond logique classique",
@@ -3794,12 +3806,6 @@
       "title": "GPT-6.2 arrive dans ChatGPT et Codex : quand choisir Sol et quand passer à Astra ?",
       "url": "https://www.clubic.com/actualite-639757-gpt-6-2-arrive-dans-chatgpt-et-codex-quand-choisir-sol-et-quand-passer-a-astra.html",
       "publishedAt": "2026-11-17T19:43:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Panne des services Apple : iCloud, App Store, Apple Pay touchés par d’importants dysfonctionnements",
-      "url": "https://www.mac4ever.com/divers/199092-panne-des-services-apple-icloud-app-store-apple-pay-touches-par-d-importants-dysfonctionnements",
-      "publishedAt": "2026-11-17T19:26:00+00:00"
     },
     {
       "source": "boulet",
