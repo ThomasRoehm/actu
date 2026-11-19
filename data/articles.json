@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:40:41.456602+00:00",
+  "generatedAt": "2026-11-19T11:50:36.790150+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:40:41.456602+00:00"
+      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Panique chez Meta : l’agent IA Muse serait un véritable cauchemar pour la vie privée des utilisateurs",
+      "url": "https://www.clubic.com/actualite-640030-panique-chez-meta-l-agent-ia-muse-est-un-veritable-cauchemar-pour-la-vie-privee-des-utilisateurs.html",
+      "publishedAt": "2026-11-19T11:44:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Le chargeur MagSafe d'Apple chute à -37% pour le Black Friday : prenez soin de votre nouvel iPhone !",
+      "url": "https://www.mac4ever.com/iphone/199136-le-chargeur-magsafe-d-apple-chute-a-37-pour-le-black-friday-prenez-soin-de-votre-nouvel-iphone",
+      "publishedAt": "2026-11-19T11:41:46+00:00"
+    },
     {
       "source": "jdg",
       "title": "Zoom, HSBC, Ikea, Air France… 178 grands sites ont été victimes d’un malware, et les clients sont les premiers touchés",
@@ -250,6 +262,12 @@
       "publishedAt": "2026-11-19T11:00:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "DeMar DeRozan, l’autre « Joker » des Nuggets",
+      "url": "https://www.basketusa.com/news/958887/demar-derozan-lautre-joker-des-nuggets/",
+      "publishedAt": "2026-11-19T10:56:31+00:00"
+    },
+    {
       "source": "numerama",
       "title": "GTA 6 : records, astuces et secrets dans Leonida, toutes les infos après 24 heures de jeu (EN DIRECT)",
       "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct.html",
@@ -314,12 +332,6 @@
       "title": "Black Friday : OBSBOT casse les prix de ses webcams, avec jusqu'à 40 % de réduction",
       "url": "https://www.clubic.com/actualite-639319-black-friday-obsbot-casse-les-prix-de-ses-webcams-avec-jusqu-a-40-de-reduction.html",
       "publishedAt": "2026-11-19T10:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "DeMar DeRozan, l’autre « Joker » des Nuggets",
-      "url": "https://www.basketusa.com/news/958887/demar-derozan-lautre-joker-des-nuggets/",
-      "publishedAt": "2026-11-19T10:28:31+00:00"
     },
     {
       "source": "numerama",
@@ -3806,12 +3818,6 @@
       "title": "Les cheerleaders NFL : actrices ou figurantes du sport spectacle ?",
       "url": "https://touchdownactu.com/354475/les-cheerleaders-nfl-actrices-ou-figurantes-du-sport-spectacle/",
       "publishedAt": "2026-11-17T12:00:33+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Gigabyte prépare ses PC portables Intel Nova Lake et AMD Zen 6 : une fuite relance l’attente",
-      "url": "https://www.clubic.com/actualite-639649-gigabyte-prepare-ses-pc-portables-intel-nova-lake-et-amd-zen-6-une-fuite-relance-l-attente.html",
-      "publishedAt": "2026-11-17T11:49:00+00:00"
     },
     {
       "source": "boulet",
