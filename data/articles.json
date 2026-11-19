@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:01:10.047311+00:00",
+  "generatedAt": "2026-11-19T15:10:39.526995+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
+      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "GTA 6 : voici comment changer les commandes pour la course à pied",
+      "url": "https://www.journaldugeek.com/2026/11/19/gta-6-voici-comment-changer-les-commandes-pour-la-course-a-pied/",
+      "publishedAt": "2026-11-19T15:02:09+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Microsoft To Do s'arrête en 2027 : par quoi le remplacer sur Mac et iPhone ?",
+      "url": "https://www.mac4ever.com/mac/199145-microsoft-to-do-s-arrete-en-2027-par-quoi-le-remplacer-sur-mac-et-iphone",
+      "publishedAt": "2026-11-19T15:01:00+00:00"
+    },
     {
       "source": "gnt",
       "title": "Smartphone pliant : Google tape du poing sur la table pour les applications Android",
@@ -152,6 +164,12 @@
       "title": "Bye bye le Portugal : cette grande ville française réputée la moins chère attire les retraités",
       "url": "https://www.presse-citron.net/bye-bye-le-portugal-cette-grande-ville-francaise-reputee-la-moins-chere-attire-les-retraites/",
       "publishedAt": "2026-11-19T14:55:37+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : VideoProc Converter AI ravive les vieilles vidéos et photos sur Mac, licence à vie dès 30,95 €",
+      "url": "https://www.macg.co/services/2026/11/black-friday-videoproc-converter-ai-ravive-les-vieilles-videos-et-photos-sur-mac-licence-vie-des-3095-eu-312459",
+      "publishedAt": "2026-11-19T14:53:00+00:00"
     },
     {
       "source": "basketusa",
@@ -290,12 +308,6 @@
       "title": "Un virement de 442 € : des millions de Français reçoivent cette aide de l’État le 15 décembre, êtes-vous concerné ?",
       "url": "https://www.presse-citron.net/un-virement-de-442-e-des-millions-de-francais-recoivent-cette-aide-de-letat-le-15-decembre-etes-vous-concerne/",
       "publishedAt": "2026-11-19T13:57:15+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : VideoProc Converter AI ravive les vieilles vidéos et photos sur Mac, licence à vie dès 30,95 €",
-      "url": "https://www.macg.co/services/2026/11/black-friday-videoproc-converter-ai-ravive-les-vieilles-videos-et-photos-sur-mac-licence-vie-des-3095-eu-312459",
-      "publishedAt": "2026-11-19T13:53:00+00:00"
     },
     {
       "source": "presse",
@@ -1006,6 +1018,12 @@
       "publishedAt": "2026-11-19T09:22:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T09:21:10+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
@@ -1172,12 +1190,6 @@
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
       "publishedAt": "2026-11-19T08:24:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Malgré les pépins, les Rockets gardent leur orbite",
-      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
-      "publishedAt": "2026-11-19T08:21:10+00:00"
     },
     {
       "source": "gnt",
@@ -3824,18 +3836,6 @@
       "title": "Black Friday : Amazon DÉGAINE -35% sur le Google Pixel 11, noté 8/10 dans notre test",
       "url": "https://www.clubic.com/bons-plans-639691-black-friday-amazon-degaine--35-sur-le-google-pixel-11-note-8-10-dans-notre-test.html",
       "publishedAt": "2026-11-17T15:11:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Xiaomi voit triple pour vos lessives et muscle son offensive dans l’électroménager en France",
-      "url": "https://www.clubic.com/actualite-639688-xiaomi-voit-triple-pour-vos-lessives-et-muscle-son-offensive-dans-l-electromenager-en-france.html",
-      "publishedAt": "2026-11-17T15:04:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Renault : deux embauches pour un départ, l'électrique rebat les cartes des usines françaises",
-      "url": "https://www.mac4ever.com/auto/199083-renault-deux-embauches-pour-un-depart-l-electrique-rebat-les-cartes-des-usines-francaises",
-      "publishedAt": "2026-11-17T15:03:00+00:00"
     },
     {
       "source": "boulet",
