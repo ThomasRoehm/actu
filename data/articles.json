@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:40:38.587200+00:00",
+  "generatedAt": "2026-11-19T13:50:37.352676+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
+      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "La CNIL inflige 5 millions d'euros à la Macif pour ses mots de passe stockés en clair",
+      "url": "https://www.mac4ever.com/societe/199139-la-cnil-inflige-5-millions-d-euros-a-la-macif-pour-ses-mots-de-passe-stockes-en-clair",
+      "publishedAt": "2026-11-19T13:48:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "GTA V sur iPhone et Android : à l’heure de GTA 6, Take-Two fait supprimer plus de 600 projets sur GitHub !",
+      "url": "https://www.clubic.com/actualite-640069-gta-v-sur-iphone-et-android-a-l-heure-de-gta-6-take-two-fait-supprimer-plus-de-600-projets-sur-github.html",
+      "publishedAt": "2026-11-19T13:41:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "NVIDIA : des résultats étincelants... et pourtant une action qui recule",
@@ -164,6 +176,12 @@
       "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-19T13:23:37+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:21:57+00:00"
     },
     {
       "source": "gnt",
@@ -3836,12 +3854,6 @@
       "title": "Sony accélère le déploiement de son QSSR (au goût de PS5 Pro) sur PS5 classique",
       "url": "https://www.clubic.com/actualite-639604-sony-accelere-le-deploiement-de-son-qssr-au-gout-de-ps5-pro-sur-ps5-classique.html",
       "publishedAt": "2026-11-17T13:59:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "L'armée chinoise teste un drone qui injecte des antalgiques par fléchette",
-      "url": "https://www.generation-nt.com/actualites/chine-drone-medical-flechette-antalgique-2084558",
-      "publishedAt": "2026-11-17T13:45:01+00:00"
     },
     {
       "source": "boulet",
