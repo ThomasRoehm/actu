@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:20:41.109892+00:00",
+  "generatedAt": "2026-11-19T13:30:54.937372+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:20:41.109892+00:00"
+      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "La Chine réduit les coûts de ses avions de combat J-35 grâce à l'impression 3D au titane",
+      "url": "https://www.generation-nt.com/actualites/metal-chine-reduit-couts-avions-3d-2084767",
+      "publishedAt": "2026-11-19T13:20:01+00:00"
+    },
     {
       "source": "numerama",
       "title": "Sortie de GTA 6 : guides, astuces, secrets et premières découvertes pour tout savoir sur Leonida (EN DIRECT)",
       "url": "https://www.numerama.com/pop-culture/2375431-lancement-de-gta-6-en-direct-guides-astuces-secrets.html",
       "publishedAt": "2026-11-19T13:19:11+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le dîner crypto annuel de Donald Trump vire au fiasco faute de participants",
+      "url": "https://www.generation-nt.com/actualites/cryptomonnaie-diner-gala-donald-trump-fiasco-2084817",
+      "publishedAt": "2026-11-19T13:10:01+00:00"
     },
     {
       "source": "clubic",
@@ -3818,18 +3830,6 @@
       "title": "Nikola Jokic et les Nuggets encore plombés par leurs erreurs",
       "url": "https://www.basketusa.com/news/958251/nikola-jokic-et-les-nuggets-frustres-par-leurs-erreurs/",
       "publishedAt": "2026-11-17T13:32:33+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Cybercab : le taxi sans chauffeur Tesla arrive en Europe, il sera assemblé à 878 km de Paris",
-      "url": "https://www.presse-citron.net/cybercab-le-taxi-sans-chauffeur-tesla-arrive-en-europe-il-sera-assemble-a-878-km-de-paris/",
-      "publishedAt": "2026-11-17T13:27:21+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L'iPhone Air bradé à -26% : aussi premium que le Duo, pour moins de la moitié du prix !",
-      "url": "https://www.mac4ever.com/iphone/199081-l-iphone-air-brade-a-26-aussi-premium-que-le-duo-pour-moins-de-la-moitie-du-prix",
-      "publishedAt": "2026-11-17T13:22:38+00:00"
     },
     {
       "source": "boulet",
