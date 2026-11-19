@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T16:20:40.471731+00:00",
+  "generatedAt": "2026-11-19T16:30:54.503715+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:20:40.471731+00:00"
+      "lastSuccessAt": "2026-11-19T16:30:54.503715+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "300 € de réduction : c'est l'offre Black Friday à ne pas manquer sur ce robot tondeuse ultra performant",
+      "url": "https://www.clubic.com/bons-plans-638179-de-reduction-c-est-l-offre-black-friday-a-ne-pas-manquer-sur-ce-robot-tondeuse-ultra-performant.html",
+      "publishedAt": "2026-11-19T16:30:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Présidentielle 2027 : l'Arcom va chronométrer le temps de parole chez les YouTubeurs",
+      "url": "https://www.mac4ever.com/societe/199151-presidentielle-2027-l-arcom-va-chronometrer-le-temps-de-parole-chez-les-youtubeurs",
+      "publishedAt": "2026-11-19T16:30:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Modèle du monde : Google ouvre l'accès à Genie 4",
+      "url": "https://www.generation-nt.com/actualites/genie-4-modele-silumation-monde-google-ai-ultra-2084805",
+      "publishedAt": "2026-11-19T16:25:01+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-19T16:18:00+00:00"
+      "publishedAt": "2026-11-19T16:24:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -164,6 +182,12 @@
       "title": "Arrêt du permis rose : il ne sera bientôt plus valide, voici la date limite officielle pour le modifier",
       "url": "https://www.presse-citron.net/arret-du-permis-rose-il-ne-sera-bientot-plus-valide-voici-la-date-limite-officielle-pour-le-modifier/",
       "publishedAt": "2026-11-19T16:05:10+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les modèles d'IA désignent régulièrement civils et écoles comme cibles militaires",
+      "url": "https://www.generation-nt.com/actualites/modeles-ia-civils-ecole-cibles-2084762",
+      "publishedAt": "2026-11-19T16:05:01+00:00"
     },
     {
       "source": "jdg",
@@ -472,6 +496,12 @@
       "publishedAt": "2026-11-19T14:02:47+00:00"
     },
     {
+      "source": "tda",
+      "title": "[Podcast] Mock Draft : un top 10 complètement fou !",
+      "url": "https://touchdownactu.com/361436/podcast-mock-draft-un-top-10-completement-fou/",
+      "publishedAt": "2026-11-19T14:00:41+00:00"
+    },
+    {
       "source": "presse",
       "title": "ONU, pétrole, nucléaire : les 4 décisions prises par Trump, Poutine et Xi Jinping",
       "url": "https://www.presse-citron.net/onu-petrole-nucleaire-les-4-decisions-prises-par-trump-poutine-et-xi-jinping/",
@@ -548,6 +578,12 @@
       "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-19T13:23:37+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:21:57+00:00"
     },
     {
       "source": "gnt",
@@ -667,13 +703,7 @@
       "source": "mac4ever",
       "title": "L'iPhone 17 Pro Max chute en promo à 1179€ : son prix le plus bas, 450€ de moins que le 18 Pro Max !",
       "url": "https://www.mac4ever.com/iphone/199140-l-iphone-17-pro-max-chute-en-promo-a-1179-son-prix-le-plus-bas-450-de-moins-que-le-18-pro-max",
-      "publishedAt": "2026-11-19T12:22:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T12:21:57+00:00"
+      "publishedAt": "2026-11-19T12:22:00+00:00"
     },
     {
       "source": "clubic",
@@ -3800,24 +3830,6 @@
       "title": "L’IA va-t-elle menacer les emplois français ? France Travail a interrogé les employeurs pour obtenir une réponse",
       "url": "https://www.presse-citron.net/ia-menace-emplois-france-travail-employeurs/",
       "publishedAt": "2026-11-17T16:31:39+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Amazon Family débarque en France pour le partage d'avantages Prime",
-      "url": "https://www.generation-nt.com/actualites/amazon-family-france-prime-partage-avantages-2084661",
-      "publishedAt": "2026-11-17T16:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Vous voulez réduire votre facture d’électricité ? Zendure propose jusqu’à 880 € de remise pour le Black Friday",
-      "url": "https://www.clubic.com/actualite-639229-vous-voulez-reduire-votre-facture-d-electricite-zendure-propose-jusqu-a-880-de-remise-pour-le-black-friday.html",
-      "publishedAt": "2026-11-17T16:30:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Comment éviter les spoilers de GTA 6, la fin de l’histoire et le destin de Lucia et Jason ?",
-      "url": "https://www.numerama.com/pop-culture/791321-comment-eviter-les-spoilers-de-gta-6-la-fin-de-lhistoire-et-le-destin-de-lucia-et-jason.html",
-      "publishedAt": "2026-11-17T16:23:12+00:00"
     },
     {
       "source": "boulet",
