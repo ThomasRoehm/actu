@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:01:05.488868+00:00",
+  "generatedAt": "2026-11-19T06:10:38.929826+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:01:05.488868+00:00"
+      "lastSuccessAt": "2026-11-19T06:10:38.929826+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "« On ne peut pas les intimider » : comment une seule entreprise française bloque la production des missiles américains, les stocks s’amenuisent dangereusement",
+      "url": "https://www.presse-citron.net/on-ne-peut-pas-les-intimider-comment-une-seule-entreprise-francaise-bloque-la-production-des-missiles-americains-les-stocks-samenuisent-dangereusement/",
+      "publishedAt": "2026-11-19T06:00:50+00:00"
+    },
     {
       "source": "clubic",
       "title": "Qwant, Shadow, EUSP et OVHcloud unissent leurs forces pour bâtir une IA européenne de bout en bout",
@@ -838,6 +844,12 @@
       "publishedAt": "2026-11-18T13:46:34+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:44:28+00:00"
+    },
+    {
       "source": "numerama",
       "title": "La CNIL cache le nom d’une entreprise qui stockait des « mots de passe clients en clair », Grok se charge de la balancer",
       "url": "https://www.numerama.com/cyberguerre/2377761-la-cnil-cache-le-nom-dune-entreprise-qui-stockait-des-mots-de-passe-clients-en-clair-grok-se-charge-de-la-balancer.html",
@@ -1004,12 +1016,6 @@
       "title": "James Bond : c’est sûrement la fin de l’humour pour 007",
       "url": "https://www.numerama.com/pop-culture/2377783-james-bond-cest-surement-la-fin-de-lhumour-pour-007.html",
       "publishedAt": "2026-11-18T12:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:44:28+00:00"
     },
     {
       "source": "korben",
@@ -3710,18 +3716,6 @@
       "title": "Projet de loi NIS 2 : l’Anssi aurait le pouvoir de rendre publiques des cyberattaques",
       "url": "https://www.clubic.com/actualite-639586-projet-de-loi-nis-2-l-anssi-aurait-le-pouvoir-de-rendre-publiques-des-cyberattaques.html",
       "publishedAt": "2026-11-17T06:13:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Windows 11 s'installe sur l'iPhone Duo sans jailbreak grâce à l'IA",
-      "url": "https://www.generation-nt.com/actualites/windows-11-iphone-duo-sans-jailbreak-2084556",
-      "publishedAt": "2026-11-17T06:05:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "On s’est moqué des Google Glass, son successeur est déjà en rupture de stock",
-      "url": "https://www.journaldugeek.com/2026/11/17/on-sest-moque-des-google-glass-son-successeur-est-deja-en-rupture-de-stock/",
-      "publishedAt": "2026-11-17T06:02:38+00:00"
     },
     {
       "source": "boulet",
