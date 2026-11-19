@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:10:39.309105+00:00",
+  "generatedAt": "2026-11-19T08:20:46.724923+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:10:39.309105+00:00"
+      "lastSuccessAt": "2026-11-19T08:20:46.724923+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Julius Randle a honte des Nets",
+      "url": "https://www.basketusa.com/news/958817/julius-randle-est-afflige-par-le-niveau-des-nets/",
+      "publishedAt": "2026-11-19T08:07:28+00:00"
+    },
     {
       "source": "numerama",
       "title": "Guide GTA 6 : comment changer la touche pour la course ?",
@@ -3758,18 +3764,6 @@
       "title": "Pour protéger ses clients, Apple ferme la porte aux agents IA sur Mac",
       "url": "https://www.presse-citron.net/pour-proteger-ses-clients-apple-ferme-la-porte-aux-agents-ia-sur-mac/",
       "publishedAt": "2026-11-17T08:21:27+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La grande purge du Bitcoin annonce-t-elle un plongeon à 40 000 dollars ?",
-      "url": "https://www.generation-nt.com/actualites/bitcoin-cryptomonnaie-valeur-chute-binance-conditions-economiques-2084583",
-      "publishedAt": "2026-11-17T08:20:01+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le hacker à l'origine de la fuite de GTA 6 plaide coupable",
-      "url": "https://www.generation-nt.com/actualites/gta-6-hacker-fuite-plaide-coupable-rockstar-games-2084615",
-      "publishedAt": "2026-11-17T08:12:32+00:00"
     },
     {
       "source": "boulet",
