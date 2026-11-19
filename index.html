@@ -21,7 +21,39 @@
   <a class="skip" href="#feed">Aller aux actualités</a>
   <div class="shell">
     <main>
-      <div class="toolbar"><nav class="tabs" aria-label="Filtrer les actualités"><button class="tab" data-group="BD" aria-pressed="false">BD <span class="tab-count" aria-hidden="true">—</span></button><button class="tab" data-group="Sport" aria-pressed="false">Sport <span class="tab-count" aria-hidden="true">—</span></button><button class="tab active" data-group="Tech" aria-pressed="true">Tech <span class="tab-count" aria-hidden="true">—</span></button></nav><div class="toolbar-status"><span id="updated" role="status" aria-label="Dernière collecte"><span id="updated-time">…</span></span><button class="sources-button" id="show-sources" aria-label="Src — Sources" aria-haspopup="dialog" aria-controls="sources-dialog">Src <span id="source-count">—</span></button></div></div>
+      <div class="toolbar">
+        <nav class="tabs" aria-label="Filtrer les actualités">
+          <button type="button" class="tab" data-group="BD" aria-pressed="false" aria-label="BD" title="BD">
+            <svg class="toolbar-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 6a6 6 0 0 0-4-2H3v14h5a6 6 0 0 1 4 2 6 6 0 0 1 4-2h5V4h-5a6 6 0 0 0-4 2v14"/>
+            </svg>
+            <span class="tab-count" aria-hidden="true">—</span>
+          </button>
+          <button type="button" class="tab" data-group="Sport" aria-pressed="false" aria-label="Sport" title="Sport">
+            <svg class="toolbar-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M8 4h8v6a4 4 0 0 1-8 0V4ZM8 6H4v2a4 4 0 0 0 4 4m8-6h4v2a4 4 0 0 1-4 4m-4 2v6m-4 0h8"/>
+            </svg>
+            <span class="tab-count" aria-hidden="true">—</span>
+          </button>
+          <button type="button" class="tab active" data-group="Tech" aria-pressed="true" aria-label="Tech" title="Tech">
+            <svg class="toolbar-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="6" y="6" width="12" height="12" rx="2"/>
+              <path d="M10 3v3m4-3v3m-4 12v3m4-3v3M3 10h3m-3 4h3m12-4h3m-3 4h3"/>
+              <rect x="10" y="10" width="4" height="4" rx=".5"/>
+            </svg>
+            <span class="tab-count" aria-hidden="true">—</span>
+          </button>
+        </nav>
+        <div class="toolbar-status">
+          <span id="updated" role="status" aria-label="Dernière collecte"><span id="updated-time">…</span></span>
+          <button type="button" class="sources-button" id="show-sources" aria-label="Sources" title="Sources" aria-haspopup="dialog" aria-controls="sources-dialog">
+            <svg class="toolbar-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M9 6h12M9 12h12M9 18h12M3 6h1m-1 6h1m-1 6h1"/>
+            </svg>
+            <span id="source-count">—</span>
+          </button>
+        </div>
+      </div>
       <p id="notice" class="notice" role="status" hidden></p>
       <section id="manga-feed" class="day-section" aria-label="Derniers chapitres des mangas suivis" hidden></section>
       <div id="feed" tabindex="-1" aria-label="Articles et dernières publications BD" aria-busy="true"><div class="empty">Récupération de vos actualités…</div></div>
