@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:20:42.879315+00:00",
+  "generatedAt": "2026-11-19T15:31:07.591571+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,46 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
+      "lastSuccessAt": "2026-11-19T15:31:07.591571+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday BLUETTI : jusqu’à -36 % sur les stations électriques et solaires, et 5 % de plus avec le code Clubic",
+      "url": "https://www.clubic.com/actualite-639547-black-friday-bluetti-jusqu-a--36-sur-les-stations-electriques-et-solaires-et-5-de-plus-avec-le-code-clubic.html",
+      "publishedAt": "2026-11-19T15:30:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Grosses promos sur les montres Garmin : la Fenix 8 dès 574€, son meilleur prix !",
+      "url": "https://www.mac4ever.com/watch/199150-grosses-promos-sur-les-montres-garmin-la-fenix-8-des-574-son-meilleur-prix",
+      "publishedAt": "2026-11-19T15:27:20+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Écoute de l’habitacle et suivi GPS : Volkswagen colmate enfin une inquiétante faille sur ses voitures ID.",
+      "url": "https://www.clubic.com/actualite-640120-ecoute-de-l-habitacle-et-suivi-gps-volkswagen-colmate-enfin-une-inquietante-faille-sur-ses-voitures-id.html",
+      "publishedAt": "2026-11-19T15:26:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Palmer Luckey veut bâtir une plateforme maritime sans lois pour l'industrie américaine",
+      "url": "https://www.generation-nt.com/actualites/palmer-luckey-plateforme-maritime-industrie-2084769",
+      "publishedAt": "2026-11-19T15:25:02+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Les Galaxy Z Fold 8 et Z Flip 8 reçoivent une seconde mise à jour surprise en novembre",
+      "url": "https://www.clubic.com/actualite-640135-les-galaxy-z-fold-8-et-z-flip-8-recoivent-une-seconde-mise-a-jour-surprise-en-novembre.html",
+      "publishedAt": "2026-11-19T15:24:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Anthropic vient de signer la plus grosse entrée en Bourse de tous les temps, faut-il investir ? 5 questions pour tout comprendre",
+      "url": "https://www.presse-citron.net/anthropic-sapprete-a-signer-la-plus-grosse-entree-en-bourse-de-tous-les-temps-faut-il-investir-5-questions-pour-tout-comprendre/",
+      "publishedAt": "2026-11-19T15:23:52+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Claude entre en Bourse : l’IA, nouvelle poule aux œufs d’or ?",
@@ -152,6 +188,12 @@
       "title": "Black Friday Amazon : les Galaxy Buds3 Pro de Samsung passent à 119,99€",
       "url": "https://www.clubic.com/bons-plans-640066-complements-de-choix-pour-un-smartphone-samsung-les-ecouteurs-galaxy-buds3-pro-passent-a-119-99-durant-le-black-friday-amazon.html",
       "publishedAt": "2026-11-19T15:14:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday : les prix des stations d'énergie Oscal en chute libre !",
+      "url": "https://www.generation-nt.com/actualites/oscal-station-energie-batterie-stockage-black-friday-2084827",
+      "publishedAt": "2026-11-19T15:10:02+00:00"
     },
     {
       "source": "jdg",
@@ -254,6 +296,12 @@
       "title": "Apple ose enfin le nom « Black Friday », mais reste très timide sur les offres",
       "url": "https://www.macg.co/aapl/2026/11/apple-ose-enfin-le-nom-black-friday-mais-reste-tres-timide-sur-les-offres-312519",
       "publishedAt": "2026-11-19T14:28:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Test des devolo BE9300 et BE6500, le mesh WiFi 7 que j'installe chez tous mes potes",
+      "url": "https://korben.info/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes.html",
+      "publishedAt": "2026-11-19T14:26:40+00:00"
     },
     {
       "source": "numerama",
@@ -1036,6 +1084,12 @@
       "publishedAt": "2026-11-19T09:22:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T09:21:10+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
@@ -1088,12 +1142,6 @@
       "title": "Black Friday JMGO : des offres exceptionnelles sur les vidéoprojecteurs 4K !",
       "url": "https://www.generation-nt.com/actualites/jmgo-iris-ultra-max-n1s-4k-n3-ultimate-projecteur-black-friday-2084687",
       "publishedAt": "2026-11-19T09:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Anthony Davis soufflé par le talent d’AJ Dybantsa",
-      "url": "https://www.basketusa.com/news/958849/anthony-davis-souffle-par-le-talent-daj-dybantsa/",
-      "publishedAt": "2026-11-19T08:58:51+00:00"
     },
     {
       "source": "jdg",
@@ -1204,12 +1252,6 @@
       "publishedAt": "2026-11-19T08:24:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Malgré les pépins, les Rockets gardent leur orbite",
-      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
-      "publishedAt": "2026-11-19T08:21:10+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Supercalculateurs : la Chine creuse l'écart au sommet du TOP500 face aux États-Unis",
       "url": "https://www.generation-nt.com/actualites/top500-supercalculateur-classement-chine-lineshine-2084784",
@@ -1256,6 +1298,12 @@
       "title": "iPhone 20 Pro : Apple préparerait le retour du titane pour son modèle anniversaire",
       "url": "https://www.clubic.com/actualite-639952-iphone-20-pro-apple-preparerait-le-retour-du-titane-pour-son-modele-anniversaire.html",
       "publishedAt": "2026-11-19T07:59:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Anthony Davis soufflé par le talent d’AJ Dybantsa",
+      "url": "https://www.basketusa.com/news/958849/anthony-davis-souffle-par-le-talent-daj-dybantsa/",
+      "publishedAt": "2026-11-19T07:58:51+00:00"
     },
     {
       "source": "mac4ever",
@@ -1760,12 +1808,6 @@
       "title": "Qobuz débarque enfin sur Apple TV avec son sans perte en 24 bits/192 kHz",
       "url": "https://www.mac4ever.com/audio/199116-qobuz-debarque-enfin-sur-apple-tv-avec-son-sans-perte-en-24-bits-192-khz",
       "publishedAt": "2026-11-18T17:01:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Anthropic s’apprête à signer la plus grosse entrée en Bourse de tous les temps, faut-il investir ? 5 questions pour tout comprendre",
-      "url": "https://www.presse-citron.net/anthropic-sapprete-a-signer-la-plus-grosse-entree-en-bourse-de-tous-les-temps-faut-il-investir-5-questions-pour-tout-comprendre/",
-      "publishedAt": "2026-11-18T17:00:52+00:00"
     },
     {
       "source": "iphon",
@@ -3794,48 +3836,6 @@
       "title": "Les thermostats tado° X à moitié prix pour le Black Friday : économisez sur vos factures cet hiver !",
       "url": "https://www.mac4ever.com/domotique/199086-les-thermostats-tado-x-a-moitie-prix-pour-le-black-friday-economisez-sur-vos-factures-cet-hiver",
       "publishedAt": "2026-11-17T15:35:11+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Podcast] Debrief S10 : les Bengals marquent les esprits !",
-      "url": "https://touchdownactu.com/361444/podcast-debrief-s10-les-bengals-marquent-les-esprits/",
-      "publishedAt": "2026-11-17T15:30:57+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Xiaomi dévoile ses Clip, des écouteurs compatibles avec Localiser d’Apple",
-      "url": "https://www.journaldugeek.com/2026/11/17/xiaomi-clip-les-nouveaux-ecouteurs-de-xiaomi-sont-desormais-compatibles-avec-localiser-dapple/",
-      "publishedAt": "2026-11-17T15:30:54+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Apple sonde l'utilisation de l'IA en santé",
-      "url": "https://www.generation-nt.com/actualites/apple-utilisation-ia-sante-etude-2084619",
-      "publishedAt": "2026-11-17T15:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kelly Oubre Jr. n’oubliera jamais ce que Nick Nurse a fait pour lui",
-      "url": "https://www.basketusa.com/news/958111/kelly-oubre-jr-noubliera-jamais-ce-que-nick-nurse-a-fait-pour-lui/",
-      "publishedAt": "2026-11-17T15:28:05+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Mistral a de la compagnie : une nouvelle IA française vient d’être présentée par OVHcloud",
-      "url": "https://www.presse-citron.net/mistral-a-de-la-compagnie-une-nouvelle-ia-francaise-vient-detre-presentee-par-ovhcloud/",
-      "publishedAt": "2026-11-17T15:26:54+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Vous n’avez pas encore GTA VI sur PS5 ? Voici la boîte à 79,99€ chez Amazon, avant le Black Friday",
-      "url": "https://www.clubic.com/bons-plans-639697-vous-n-avez-pas-encore-gta-vi-sur-ps5-voici-la-boite-a-79-9-chez-amazon-avant-le-black-friday.html",
-      "publishedAt": "2026-11-17T15:25:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "La gamme Kindle en promo pour le Black Friday : jusqu'à -45% !",
-      "url": "https://www.mac4ever.com/ipad/199085-la-gamme-kindle-en-promo-pour-le-black-friday-jusqu-a-45",
-      "publishedAt": "2026-11-17T15:21:18+00:00"
     },
     {
       "source": "boulet",
