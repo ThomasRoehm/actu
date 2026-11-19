@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T17:32:45.431340+00:00",
+  "generatedAt": "2026-11-19T17:40:41.076166+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:32:45.431340+00:00"
+      "lastSuccessAt": "2026-11-19T17:40:41.076166+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Ulule : notre livre sur les 50 ans d’Apple passe à l’impression",
+      "url": "https://www.macg.co/macgeneration/2026/11/ulule-notre-livre-sur-les-50-ans-dapple-passe-limpression-312517",
+      "publishedAt": "2026-11-19T17:30:28+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 bientôt adapté en film ou en série ? La réponse du patron est sans pitié (mais drôle)",
+      "url": "https://www.journaldugeek.com/2026/11/19/gta-6-bientot-adapte-en-film-ou-en-serie-la-reponse-du-patron-est-sans-pitie-mais-drole/",
+      "publishedAt": "2026-11-19T17:30:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "ASUS Agent Computer : ce PC RTX 5060 Ti 16 Go peut-il réduire la facture des agents IA cloud ?",
       "url": "https://www.clubic.com/actualite-639694-asus-agent-computer-ce-pc-rtx-5060-ti-16-go-peut-il-reduire-la-facture-des-agents-ia-cloud.html",
       "publishedAt": "2026-11-19T17:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Ausar Thompson apprend à donner le tempo",
+      "url": "https://www.basketusa.com/news/958691/ausar-thompson-apprend-a-donner-le-tempo/",
+      "publishedAt": "2026-11-19T17:28:49+00:00"
     },
     {
       "source": "gnt",
@@ -158,6 +176,12 @@
       "title": "Legion Go Beam : et si Lenovo faisait enfin baisser le prix des consoles portables ?",
       "url": "https://www.mac4ever.com/gaming/199148-legion-go-beam-et-si-lenovo-faisait-enfin-baisser-le-prix-des-consoles-portables",
       "publishedAt": "2026-11-19T17:10:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Windows 11 va bientôt noter le niveau de sécurité de votre PC",
+      "url": "https://korben.info/windows-baseline-protection.html",
+      "publishedAt": "2026-11-19T17:08:25+00:00"
     },
     {
       "source": "gnt",
