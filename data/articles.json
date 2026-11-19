@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:01:07.185910+00:00",
+  "generatedAt": "2026-11-19T18:10:40.806827+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "jdg",
@@ -41,9 +41,9 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/jdg.png",
-      "ok": false,
-      "error": "IncompleteRead(32095 bytes read)",
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
+      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Ne jetez surtout pas la boîte de GTA 6 : elle vaut déjà de l’argent, même vide !",
+      "url": "https://www.journaldugeek.com/2026/11/19/ne-jetez-surtout-pas-la-boite-de-gta-6-elle-vaut-deja-de-largent-meme-vide/",
+      "publishedAt": "2026-11-19T18:02:30+00:00"
+    },
     {
       "source": "numerama",
       "title": "GTA 6 : être un furry est strictement illégal à Leonida et les chasseurs tirent à vue",
@@ -3794,24 +3800,6 @@
       "title": "Cette appli vous récompense quand vous posez votre téléphone",
       "url": "https://www.clubic.com/actualite-639751-cette-appli-vous-recompense-quand-vous-posez-votre-telephone.html",
       "publishedAt": "2026-11-17T18:15:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Orange, Bouygues, SFR ou Free ? L'ARCEP révèle quel opérateur a le meilleur réseau mobile selon où vous vivez",
-      "url": "https://www.clubic.com/actualite-639748-orange-bouygues-sfr-ou-free-l-arcep-revele-quel-operateur-a-le-meilleur-reseau-mobile-selon-ou-vous-vivez.html",
-      "publishedAt": "2026-11-17T18:06:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Giannis Antetokounmpo : « Les émotions, c’est pour le cinéma »",
-      "url": "https://www.basketusa.com/news/958331/giannis-antetokounmpo-les-emotions-cest-pour-le-cinema/",
-      "publishedAt": "2026-11-17T18:05:48+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Panne Apple : iCloud, l’App Store et Apple Music ne fonctionnent plus, voici ce que l’on sait",
-      "url": "https://www.numerama.com/tech/2377281-une-panne-icloud-prive-des-utilisateurs-de-leur-compte-apple-voici-ce-que-lon-sait.html",
-      "publishedAt": "2026-11-17T18:01:33+00:00"
     },
     {
       "source": "boulet",
