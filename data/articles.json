@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:31:01.033418+00:00",
+  "generatedAt": "2026-11-19T07:40:36.677319+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "tda",
@@ -118,9 +118,9 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/tda.png",
-      "ok": false,
-      "error": "<urlopen error timed out>",
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
+      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Une découverte rarissime : des chercheurs ont retrouvé des traces de sang de dinosaure vieilles de 115 millions d’années",
+      "url": "https://www.presse-citron.net/decouverte-rarissime-chercheurs-retrouve-traces-sang-dinosaure-vieilles-115-millions-dannees/",
+      "publishedAt": "2026-11-19T07:31:31+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Conduite autonome Tesla (FSD) : la France accusée de mener une fronde secrète pour bloquer son homologation",
+      "url": "https://www.numerama.com/vroom/2378361-conduite-autonome-tesla-fsd-la-france-accusee-de-mener-une-fronde-secrete-pour-bloquer-son-homologation.html",
+      "publishedAt": "2026-11-19T07:31:28+00:00"
+    },
     {
       "source": "clubic",
       "title": "-500 € sur le DEEBOT X12S OmniCyclone à l'occasion du Black Friday Ecovacs",
       "url": "https://www.clubic.com/bons-plans-639346-sur-le-deebot-x12s-omnicyclone-a-l-occasion-du-black-friday-ecovacs.html",
       "publishedAt": "2026-11-19T07:30:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "« Danger imminent pour la sécurité publique » : les robotaxis Waymo privés d’autoroute",
+      "url": "https://www.journaldugeek.com/2026/11/19/danger-imminent-pour-la-securite-publique-les-robotaxis-waymo-prives-dautoroute/",
+      "publishedAt": "2026-11-19T07:29:43+00:00"
     },
     {
       "source": "gnt",
@@ -328,6 +346,12 @@
       "publishedAt": "2026-11-19T05:45:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Hawks font tomber la pluie à Oklahoma City",
+      "url": "https://www.basketusa.com/news/958759/les-hawks-font-tomber-la-pluie-a-oklahoma-city/",
+      "publishedAt": "2026-11-19T05:43:07+00:00"
+    },
+    {
       "source": "gnt",
       "title": "La Macif écope de 5 millions d'euros d'amende pour des mots de passe stockés en clair",
       "url": "https://www.generation-nt.com/actualites/macif-amende-mots-passe-clair-2084777",
@@ -350,12 +374,6 @@
       "title": "Giannis Antetokounmpo ne fait aucun cadeau aux Bucks !",
       "url": "https://www.basketusa.com/news/958738/giannis-antetokounmpo-ne-fait-aucun-cadeau-aux-bucks/",
       "publishedAt": "2026-11-19T05:12:56+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Hawks font tomber la pluie à Oklahoma City",
-      "url": "https://www.basketusa.com/news/958759/les-hawks-font-tomber-la-pluie-a-oklahoma-city/",
-      "publishedAt": "2026-11-19T04:43:07+00:00"
     },
     {
       "source": "clubic",
@@ -838,6 +856,12 @@
       "publishedAt": "2026-11-18T15:04:50+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
+      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
+      "publishedAt": "2026-11-18T15:04:05+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Test MSI Prestige N16 Flip AI+ : quand la promesse de l’IA locale prime... sur beaucoup d’autres",
       "url": "https://www.clubic.com/test-produit-636919-test-msi-prestige-n16-flip-ai.html",
@@ -992,12 +1016,6 @@
       "title": "NVIDIA ferme publiquement la porte à un retour de Jensen Huang",
       "url": "https://www.clubic.com/actualite-639862-nvidia-ferme-publiquement-la-porte-a-un-retour-de-jensen-huang.html",
       "publishedAt": "2026-11-18T14:07:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
-      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
-      "publishedAt": "2026-11-18T14:04:05+00:00"
     },
     {
       "source": "presse",
@@ -3728,30 +3746,6 @@
       "title": "Après le Royaume-Uni, les Big tech s'attaquent au Canada qui veut accéder aux données des utilisateurs",
       "url": "https://www.clubic.com/actualite-639550-apres-le-royaume-uni-les-big-tech-s-attaquent-au-canada-qui-veut-acceder-aux-donnees-des-utilisateurs.html",
       "publishedAt": "2026-11-17T07:44:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Apple sera jugé en France pour obsolescence programmée en juin 2027 : que reproche-t-on à l’iPhone ?",
-      "url": "https://www.numerama.com/tech/2375939-apple-sera-juge-en-france-pour-obsolescence-programmee-en-juin-2027-que-reproche-t-on-a-liphone.html",
-      "publishedAt": "2026-11-17T07:40:04+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le vrai visage du Heat se dessine",
-      "url": "https://www.basketusa.com/news/958155/le-vrai-visage-du-heat-se-dessine/",
-      "publishedAt": "2026-11-17T07:39:08+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Riot Games dévoile New Dawn, la plus grande refonte de LoL depuis 17 ans",
-      "url": "https://www.journaldugeek.com/2026/11/17/riot-games-devoile-new-dawn-la-plus-grande-refonte-de-lol-depuis-17-ans/",
-      "publishedAt": "2026-11-17T07:33:17+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le responsable du piratage massif de GTA 6 plaide coupable",
-      "url": "https://www.numerama.com/pop-culture/2375937-le-responsable-du-piratage-massif-de-gta-6-plaide-coupable.html",
-      "publishedAt": "2026-11-17T07:31:59+00:00"
     },
     {
       "source": "boulet",
