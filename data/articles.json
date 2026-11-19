@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:50:47.161257+00:00",
+  "generatedAt": "2026-11-19T08:01:02.799102+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
+      "lastSuccessAt": "2026-11-19T08:01:02.799102+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "iPhone 20 Pro : Apple préparerait le retour du titane pour son modèle anniversaire",
+      "url": "https://www.clubic.com/actualite-639952-iphone-20-pro-apple-preparerait-le-retour-du-titane-pour-son-modele-anniversaire.html",
+      "publishedAt": "2026-11-19T07:59:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Jusqu'à -76% sur les abonnements Adobe Creative Cloud pour le Black Friday !",
+      "url": "https://www.mac4ever.com/mac/199124-jusqu-a-76-sur-les-abonnements-adobe-creative-cloud-pour-le-black-friday",
+      "publishedAt": "2026-11-19T07:57:16+00:00"
+    },
     {
       "source": "iphon",
       "title": "iPhone 18 de base : la vraie date de sortie fuite enfin",
       "url": "https://www.iphon.fr/post/fuite-iphone-18-standard-date-sortie",
       "publishedAt": "2026-11-19T07:49:49+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "La pénurie de DRAM pousse Apple vers un accord inédit avec Samsung",
+      "url": "https://www.generation-nt.com/actualites/penurie-dram-apple-accord-samsung-2084772",
+      "publishedAt": "2026-11-19T07:45:01+00:00"
     },
     {
       "source": "basketusa",
@@ -3734,18 +3752,6 @@
       "title": "iOS 27.3 : Apple ajoute une reconnaissance faciale inédite à l'iPhone Duo",
       "url": "https://www.clubic.com/actualite-639562-ios-27-3-apple-ajoute-une-reconnaissance-faciale-inedite-a-l-iphone-duo.html",
       "publishedAt": "2026-11-17T08:02:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Amflow UE : DJI s'attaque au vélo de ville dès 3 099 euros",
-      "url": "https://www.mac4ever.com/mobilite/199073-amflow-ue-dji-s-attaque-au-velo-de-ville-des-3-099-euros",
-      "publishedAt": "2026-11-17T08:00:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iOS 27.3 débarque en bêta 2 : quelles sont les nouveautés ?",
-      "url": "https://www.iphon.fr/post/ios-27-3-quelles-nouveautes",
-      "publishedAt": "2026-11-17T07:55:02+00:00"
     },
     {
       "source": "boulet",
