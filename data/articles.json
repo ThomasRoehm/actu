@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T17:50:52.814624+00:00",
+  "generatedAt": "2026-11-19T18:01:07.185910+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     },
     {
       "id": "jdg",
@@ -41,8 +41,8 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/jdg.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "IncompleteRead(32095 bytes read)",
       "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
     },
     {
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:50:52.814624+00:00"
+      "lastSuccessAt": "2026-11-19T18:01:07.185910+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "GTA 6 : être un furry est strictement illégal à Leonida et les chasseurs tirent à vue",
+      "url": "https://www.numerama.com/pop-culture/2379191-gta-6-etre-un-furry-est-strictement-illegal-a-leonida-et-les-chasseurs-tirent-a-vue.html",
+      "publishedAt": "2026-11-19T18:00:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ce nouveau radar situé sur une route très fréquentée n’est pas signalé par un panneau : il va faire un carnage",
+      "url": "https://www.presse-citron.net/ce-nouveau-radar-situe-sur-une-route-tres-frequentee-nest-pas-signale-par-un-panneau-il-va-faire-un-carnage/",
+      "publishedAt": "2026-11-19T17:53:47+00:00"
+    },
     {
       "source": "tda",
       "title": "[shopping] La collection Chrome des cartes NFL Topps arrive",
@@ -146,6 +158,12 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday Narwal : jusqu’à -64% sur les robots aspirateurs et aspirateurs balais",
+      "url": "https://www.generation-nt.com/actualites/aspirateur-robot-laveur-balai-sans-fil-narwal-black-friday-flow-2-v50-cube-freo-x10-pro-v50-2084829",
+      "publishedAt": "2026-11-19T17:40:01+00:00"
     },
     {
       "source": "macg",
@@ -3794,24 +3812,6 @@
       "title": "Panne Apple : iCloud, l’App Store et Apple Music ne fonctionnent plus, voici ce que l’on sait",
       "url": "https://www.numerama.com/tech/2377281-une-panne-icloud-prive-des-utilisateurs-de-leur-compte-apple-voici-ce-que-lon-sait.html",
       "publishedAt": "2026-11-17T18:01:33+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "À Rome, la fontaine de Trevi perd ses pièces : de 10 à 15 % de moins depuis le nouveau système",
-      "url": "https://www.presse-citron.net/a-rome-la-fontaine-de-trevi-perd-ses-pieces-de-10-a-15-de-moins-depuis-le-nouveau-systeme/",
-      "publishedAt": "2026-11-17T18:00:39+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Cette IA répond presque à vos mails à votre place, et elle est open source",
-      "url": "https://www.clubic.com/actualite-636559-vos-e-mails-s-accumulent-cette-ia-peut-preparer-les-reponses-a-votre-place.html",
-      "publishedAt": "2026-11-17T18:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Privée de puces NVIDIA, la Chine fait travailler ChatGPT et Claude pour entraîner ses IA",
-      "url": "https://www.clubic.com/actualite-639739-privee-de-puces-nvidia-la-chine-fait-travailler-chatgpt-et-claude-pour-entrainer-ses-ia.html",
-      "publishedAt": "2026-11-17T17:57:00+00:00"
     },
     {
       "source": "boulet",
