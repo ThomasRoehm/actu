@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:30:55.118419+00:00",
+  "generatedAt": "2026-11-19T09:40:50.453937+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,46 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:30:55.118419+00:00"
+      "lastSuccessAt": "2026-11-19T09:40:50.453937+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Un retraité a acheté 32 panneaux solaires à quatre entreprises en un an, sa famille dénonce un acharnement",
+      "url": "https://www.clubic.com/actualite-639994-un-retraite-a-achete-32-panneaux-solaires-a-quatre-entreprises-en-un-an-sa-famille-denonce-un-acharnement.html",
+      "publishedAt": "2026-11-19T09:34:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Le DJI Romo P bradé à -53% pour le Black Friday : son meilleur prix !",
+      "url": "https://www.mac4ever.com/domotique/199130-le-dji-romo-p-brade-a-53-pour-le-black-friday-son-meilleur-prix",
+      "publishedAt": "2026-11-19T09:33:25+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "GTA 6 est le jeu le mieux noté de l’histoire : 99/100 sur la référence Metacritic",
+      "url": "https://www.iphon.fr/post/gta-6-jeu-mieux-note-histoire-99-100-reference-metacritic",
+      "publishedAt": "2026-11-19T09:33:17+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : les joueurs des Miami Heat ont reçu un cadeau très spécial de la part de Rockstar",
+      "url": "https://www.journaldugeek.com/2026/11/19/gta-vi-les-joueurs-des-miami-heat-ont-recu-un-cadeau-tres-special-de-la-part-de-rockstar/",
+      "publishedAt": "2026-11-19T09:30:26+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Critiques et cachées depuis 11 ans : l’IA déterre deux failles dans NGINX, le serveur de 225 millions de sites",
+      "url": "https://www.numerama.com/cyberguerre/2378467-critiques-et-cachees-depuis-11-ans-lia-deterre-deux-failles-dans-nginx-le-serveur-de-225-millions-de-sites.html",
+      "publishedAt": "2026-11-19T09:30:12+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Black Friday : LiberNovo casse les prix de ses meilleures chaises ergonomiques (jusqu’à -44%)",
+      "url": "https://www.presse-citron.net/black-friday-libernovo-casse-les-prix-de-ses-meilleures-chaises-ergonomiques-jusqua-44/",
+      "publishedAt": "2026-11-19T09:30:06+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Apple : Amazon lance déjà 10 offres DINGUE, de l’iPhone 17 Pro aux AirPods Pro 3",
@@ -146,6 +182,12 @@
       "title": "Vos applications Windows 11 vont-elles bientôt refuser de démarrer pour des raisons de sécurité ?",
       "url": "https://www.generation-nt.com/actualites/applications-windows-11-refuser-demarrer-2084761",
       "publishedAt": "2026-11-19T09:25:01+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Vous coupez l'historique Gemini ? Google garde tout deux mois quand même",
+      "url": "https://korben.info/vous-coupez-lhistorique-gemini-google-garde-tout-deux-mois-quand-meme.html",
+      "publishedAt": "2026-11-19T09:23:00+00:00"
     },
     {
       "source": "clubic",
