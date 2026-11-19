@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:50:37.657730+00:00",
+  "generatedAt": "2026-11-19T07:01:09.408999+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:50:37.657730+00:00"
+      "lastSuccessAt": "2026-11-19T07:01:09.408999+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Giannis Antetokounmpo sans émotion pour dominer les Bucks",
+      "url": "https://www.basketusa.com/news/958791/le-mvp-de-la-nuit-giannis-antetokounmpo-sans-emotion-pour-dominer-les-bucks/",
+      "publishedAt": "2026-11-19T06:54:58+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Une faille dans Java permet d’exécuter du code à distance, la France lance l'alerte",
+      "url": "https://www.clubic.com/actualite-639964-une-faille-dans-java-permet-d-executer-du-code-a-distance-la-france-lance-l-alerte.html",
+      "publishedAt": "2026-11-19T06:54:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "C’est extrêmement risqué : pourquoi il ne faut surtout pas découper votre carte bancaire périmée ?",
+      "url": "https://www.presse-citron.net/cest-extremement-risque-pourquoi-il-ne-faut-surtout-pas-decouper-votre-carte-bancaire-perimee/",
+      "publishedAt": "2026-11-19T06:52:16+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Raycarb C2®B : la fibre girondine qui paralyse la production américaine de missiles Patriot !",
+      "url": "https://www.generation-nt.com/actualites/fibre-girondine-paralyse-missiles-patriot-2084778",
+      "publishedAt": "2026-11-19T06:50:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Instagram permet enfin de modifier ses Stories après publication, mais avec une limite importante",
@@ -145,7 +169,7 @@
       "source": "presse",
       "title": "Picard : pour faire de belles économies, choisissez ces jours de la semaine pour faire vos courses",
       "url": "https://www.presse-citron.net/picard-pour-faire-de-belles-economies-choisissez-ces-jours-de-la-semaine-pour-faire-vos-courses/",
-      "publishedAt": "2026-11-19T06:43:47+00:00"
+      "publishedAt": "2026-11-19T06:46:47+00:00"
     },
     {
       "source": "macg",
@@ -164,6 +188,12 @@
       "title": "Stats & Highlights | Fin de série pour les Lakers",
       "url": "https://www.basketusa.com/news/958808/stats-highlights-fin-de-serie-pour-les-lakers/",
       "publishedAt": "2026-11-19T06:30:54+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'Ukraine a contourné Starshield avec son propre système pour l'attaque du pont de Crimée",
+      "url": "https://www.generation-nt.com/actualites/ukraine-attaque-pont-crimee-drones-modem-starshield-2084751",
+      "publishedAt": "2026-11-19T06:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -766,6 +796,12 @@
       "publishedAt": "2026-11-18T15:04:50+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
+      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
+      "publishedAt": "2026-11-18T15:04:05+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Test MSI Prestige N16 Flip AI+ : quand la promesse de l’IA locale prime... sur beaucoup d’autres",
       "url": "https://www.clubic.com/test-produit-636919-test-msi-prestige-n16-flip-ai.html",
@@ -922,12 +958,6 @@
       "publishedAt": "2026-11-18T14:07:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
-      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
-      "publishedAt": "2026-11-18T14:04:05+00:00"
-    },
-    {
       "source": "presse",
       "title": "La psychologie est formelle : les personnes qui rangent leur vaisselle le soir avant de dormir ne le font pas pour avoir un logement propre le lendemain",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-rangent-leur-vaisselle-le-soir-avant-de-dormir-ne-le-font-pas-pour-avoir-un-logement-propre-le-lendemain/",
@@ -938,6 +968,18 @@
       "title": "Encore au moins une semaine d’absence pour Kawhi Leonard",
       "url": "https://www.basketusa.com/news/958428/encore-au-moins-une-semaine-dabsence-pour-kawhi-leonard/",
       "publishedAt": "2026-11-18T13:48:51+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:46:34+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:44:28+00:00"
     },
     {
       "source": "numerama",
@@ -1090,12 +1132,6 @@
       "publishedAt": "2026-11-18T12:50:15+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:46:34+00:00"
-    },
-    {
       "source": "iphon",
       "title": "Google Maps : voici comment rouler en Formule 1 sur votre iPhone",
       "url": "https://www.iphon.fr/post/tutoriel-google-maps-astuce-comment-changer-avatar-conduite",
@@ -1106,12 +1142,6 @@
       "title": "James Bond : c’est sûrement la fin de l’humour pour 007",
       "url": "https://www.numerama.com/pop-culture/2377783-james-bond-cest-surement-la-fin-de-lhumour-pour-007.html",
       "publishedAt": "2026-11-18T12:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:44:28+00:00"
     },
     {
       "source": "korben",
@@ -3740,18 +3770,6 @@
       "title": "L’iPhone le plus cher d’Apple va enfin reconnaître votre visage… sous conditions",
       "url": "https://www.journaldugeek.com/2026/11/17/liphone-le-plus-cher-dapple-va-enfin-reconnaitre-votre-visage-sous-conditions/",
       "publishedAt": "2026-11-17T07:02:10+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone 20 Pro : voici deux évolutions importantes",
-      "url": "https://www.iphon.fr/post/iphone-20-pro-2027-fuites-verre-ecran-appareil-photo",
-      "publishedAt": "2026-11-17T06:59:52+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Distributeurs : cette nouvelle règle est désormais obligatoire dans toutes les banques en France",
-      "url": "https://www.presse-citron.net/distributeurs-cette-nouvelle-regle-est-desormais-obligatoire-dans-toutes-les-banques-en-france/",
-      "publishedAt": "2026-11-17T06:51:11+00:00"
     },
     {
       "source": "boulet",
