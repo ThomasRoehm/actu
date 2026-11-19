@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T19:01:12.716101+00:00",
+  "generatedAt": "2026-11-19T19:10:39.358836+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T19:01:12.716101+00:00"
+      "lastSuccessAt": "2026-11-19T19:10:39.358836+00:00"
     }
   ],
   "articles": [
@@ -140,6 +140,12 @@
       "title": "98,3 % de victoires : la puce quantique de Google pulvérise un plafond logique classique",
       "url": "https://www.numerama.com/sciences/2379073-983-de-victoires-la-puce-quantique-de-google-pulverise-un-plafond-logique-classique.html",
       "publishedAt": "2026-11-19T19:00:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Premier de la classe en droit et en fiscalité : la nouvelle IA de Gemini promet des performances XXL à un coût réduit",
+      "url": "https://www.journaldugeek.com/2026/11/19/premier-de-la-classe-en-droit-et-en-fiscalite-la-nouvelle-ia-de-gemini-promet-des-performances-xxl-a-un-cout-reduit/",
+      "publishedAt": "2026-11-19T18:58:56+00:00"
     },
     {
       "source": "clubic",
@@ -304,12 +310,6 @@
       "publishedAt": "2026-11-19T16:55:11+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Black Friday 2026 chez basket4ballers : les meilleures offres et réductions pour les fans de NBA",
-      "url": "https://www.basketusa.com/news/958987/black-friday-2026-chez-basket4ballers-les-meilleures-offres-et-reductions-pour-les-fans-de-nba/",
-      "publishedAt": "2026-11-19T16:55:00+00:00"
-    },
-    {
       "source": "macg",
       "title": "Black Friday : la suite de sécurité Intego ONE pour Mac à 66 € pour deux ans",
       "url": "https://www.macg.co/logiciels/2026/11/black-friday-la-suite-de-securite-intego-one-pour-mac-66-eu-pour-deux-ans-312471",
@@ -428,6 +428,12 @@
       "title": "Panne massive : impôts, Assurance maladie… plusieurs sites officiels inaccessibles ce jeudi",
       "url": "https://www.clubic.com/actualite-640150-panne-massive-impots-assurance-maladie-plusieurs-sites-officiels-inaccessibles-ce-jeudi.html",
       "publishedAt": "2026-11-19T16:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Black Friday 2026 chez basket4ballers : les meilleures offres et réductions pour les fans de NBA",
+      "url": "https://www.basketusa.com/news/958987/black-friday-2026-chez-basket4ballers-les-meilleures-offres-et-reductions-pour-les-fans-de-nba/",
+      "publishedAt": "2026-11-19T15:55:00+00:00"
     },
     {
       "source": "numerama",
@@ -3794,12 +3800,6 @@
       "title": "Panne des services Apple : iCloud, App Store, Apple Pay touchés par d’importants dysfonctionnements",
       "url": "https://www.mac4ever.com/divers/199092-panne-des-services-apple-icloud-app-store-apple-pay-touches-par-d-importants-dysfonctionnements",
       "publishedAt": "2026-11-17T19:26:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Jensen Huang sort du silence et se dit prêt à reprendre les commandes de Nvidia",
-      "url": "https://www.macg.co/ailleurs/2026/11/jensen-huang-sort-du-silence-et-se-dit-pret-reprendre-les-commandes-de-nvidia-312477",
-      "publishedAt": "2026-11-17T19:10:00+00:00"
     },
     {
       "source": "boulet",
