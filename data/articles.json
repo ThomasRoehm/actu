@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:01:05.704759+00:00",
+  "generatedAt": "2026-11-19T13:10:39.401002+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
+      "lastSuccessAt": "2026-11-19T13:10:39.401002+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : ENFIN une promo chez RED by SFR, le forfait 250 Go passe à 12,99€/mois",
+      "url": "https://www.clubic.com/bons-plans-640072-black-friday-enfin-une-promo-chez-red-by-sfr-le-forfait-250-go-passe-de-15-99-a-12-99-par-mois.html",
+      "publishedAt": "2026-11-19T13:10:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Cyberattaque contre la Commission européenne : des données personnelles potentiellement compromises",
+      "url": "https://www.mac4ever.com/securite/199137-cyberattaque-contre-la-commission-europeenne-des-donnees-personnelles-potentiellement-compromises",
+      "publishedAt": "2026-11-19T13:07:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Les Anneaux de pouvoir réinvente l’histoire du plus puissant dragon de Tolkien",
+      "url": "https://www.numerama.com/pop-culture/2378761-les-anneaux-de-pouvoir-reinvente-lhistoire-du-plus-puissant-dragon-de-tolkien.html",
+      "publishedAt": "2026-11-19T13:02:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : le merch est en rupture de stock, mais il existe un moyen de l’obtenir",
+      "url": "https://www.journaldugeek.com/2026/11/19/gta-6-le-merch-est-en-rupture-de-stock-mais-il-existe-un-moyen-de-lobtenir/",
+      "publishedAt": "2026-11-19T13:00:28+00:00"
+    },
     {
       "source": "gnt",
       "title": "Au tour du Figaro de signer avec OpenAI pour ChatGPT",
@@ -3812,36 +3836,6 @@
       "title": "De Xiaomi à BYD, les constructeurs chinois préparent une présence massive à Munich en 2027",
       "url": "https://www.numerama.com/vroom/2376477-de-xiaomi-a-byd-les-constructeurs-chinois-preparent-une-presence-massive-a-munich-en-2027.html",
       "publishedAt": "2026-11-17T13:17:39+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon baisse déjà le prix de 10 TV et vidéoprojecteurs, jusqu’à -40%",
-      "url": "https://www.clubic.com/bons-plans-638875-pour-le-black-friday-amazon-fait-chuter-le-prix-des-tv-mini-led-et-des-videoprojecteurs-xgimi.html",
-      "publishedAt": "2026-11-17T13:06:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Après sa démission de Nvidia, des alliés de Jensen Huang montent une war room pour le faire revenir",
-      "url": "https://www.numerama.com/tech/2375527-apres-sa-demission-de-nvidia-des-allies-de-jensen-huang-montent-une-war-room-pour-le-faire-revenir.html",
-      "publishedAt": "2026-11-17T13:05:32+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Faire signe à une sonde à 26 milliards de kilomètres : c’est absurde, c’est poétique, et c’est ce soir",
-      "url": "https://www.numerama.com/sciences/2374607-faire-signe-a-une-sonde-a-26-milliards-de-kilometres-cest-absurde-cest-poetique-et-cest-ce-soir.html",
-      "publishedAt": "2026-11-17T13:02:38+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "À quelques jours du Black Friday, Amazon offre un énorme cadeau à ses abonnés Prime : voici comment en profiter",
-      "url": "https://www.journaldugeek.com/2026/11/17/a-quelques-jours-du-black-friday-amazon-offre-un-enorme-cadeau-a-ses-abonnes-prime-voici-comment-en-profiter/",
-      "publishedAt": "2026-11-17T13:02:20+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Voyager 1 : 49 ans après son lancement, la sonde de la NASA atteint un jour-lumière de la Terre",
-      "url": "https://www.mac4ever.com/divers/199078-voyager-1-49-ans-apres-son-lancement-la-sonde-de-la-nasa-atteint-un-jour-lumiere-de-la-terre",
-      "publishedAt": "2026-11-17T13:02:00+00:00"
     },
     {
       "source": "boulet",
