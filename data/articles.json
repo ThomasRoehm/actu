@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:30:57.402625+00:00",
+  "generatedAt": "2026-11-19T08:40:39.196099+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:30:57.402625+00:00"
+      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Les Grizzlies s’offrent un record de franchise loin de leurs bases",
+      "url": "https://www.basketusa.com/news/958820/les-grizzlies-soffrent-un-record-de-franchise-loin-de-leurs-bases/",
+      "publishedAt": "2026-11-19T08:32:56+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Voici tout ce qu’Apple pourrait lancer pour les 20 ans de l’iPhone",
+      "url": "https://www.journaldugeek.com/2026/11/19/voici-tout-ce-quapple-pourrait-lancer-pour-les-20-ans-de-liphone/",
+      "publishedAt": "2026-11-19T08:29:42+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Livret A à 8,5 % : ce jour où le taux du produit d’épargne préféré des Français a battu tous les records",
+      "url": "https://www.presse-citron.net/livret-a-a-85-ce-jour-ou-le-taux-du-produit-depargne-prefere-des-francais-a-battu-tous-les-records/",
+      "publishedAt": "2026-11-19T08:29:39+00:00"
+    },
     {
       "source": "clubic",
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
@@ -946,12 +964,6 @@
       "publishedAt": "2026-11-18T15:04:50+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
-      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
-      "publishedAt": "2026-11-18T15:04:05+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Test MSI Prestige N16 Flip AI+ : quand la promesse de l’IA locale prime... sur beaucoup d’autres",
       "url": "https://www.clubic.com/test-produit-636919-test-msi-prestige-n16-flip-ai.html",
@@ -1106,6 +1118,12 @@
       "title": "NVIDIA ferme publiquement la porte à un retour de Jensen Huang",
       "url": "https://www.clubic.com/actualite-639862-nvidia-ferme-publiquement-la-porte-a-un-retour-de-jensen-huang.html",
       "publishedAt": "2026-11-18T14:07:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
+      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
+      "publishedAt": "2026-11-18T14:04:05+00:00"
     },
     {
       "source": "presse",
@@ -3746,12 +3764,6 @@
       "title": "Apple annonce 2 nouvelles saisons pour cette série à succès",
       "url": "https://www.iphon.fr/post/apple-tv-annonce-saison-9-10-slow-horse",
       "publishedAt": "2026-11-17T08:42:54+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Apple confie Apple Pay à cet homme !",
-      "url": "https://www.mac4ever.com/iphone/199067-apple-confie-apple-pay-a-cet-homme",
-      "publishedAt": "2026-11-17T08:32:00+00:00"
     },
     {
       "source": "boulet",
