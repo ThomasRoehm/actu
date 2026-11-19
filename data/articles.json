@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:50:44.558295+00:00",
+  "generatedAt": "2026-11-19T13:01:05.704759+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
+      "lastSuccessAt": "2026-11-19T13:01:05.704759+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Au tour du Figaro de signer avec OpenAI pour ChatGPT",
+      "url": "https://www.generation-nt.com/actualites/figaro-accord-openai-chatgpt-presse-2084802",
+      "publishedAt": "2026-11-19T13:00:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Le tableau La Nuit étoilée de Van Gogh cachait un secret depuis plus d’un siècle : des scientifiques viennent de le trouver",
+      "url": "https://www.presse-citron.net/le-tableau-la-nuit-etoilee-de-van-gogh-cachait-un-secret-depuis-plus-dun-siecle-des-scientifiques-viennent-de-le-trouver/",
+      "publishedAt": "2026-11-19T12:52:09+00:00"
+    },
     {
       "source": "iphon",
       "title": "iPhone 20 : Apple hésite entre ces 4 designs pour 2027",
       "url": "https://www.iphon.fr/post/iphone-20-apple-hesite-entre-4-designs-2027",
       "publishedAt": "2026-11-19T12:48:41+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Pour Tyler Herro, un retour à Miami sous les sifflets",
+      "url": "https://www.basketusa.com/news/958966/pour-tyler-herro-un-retour-a-miami-sous-les-sifflets/",
+      "publishedAt": "2026-11-19T12:48:09+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Genesis AI lève 500 millions de dollars pour ses robots à gants connectés",
+      "url": "https://www.generation-nt.com/actualites/genesis-ai-robots-gants-connectes-2084752",
+      "publishedAt": "2026-11-19T12:45:01+00:00"
     },
     {
       "source": "numerama",
@@ -3818,24 +3842,6 @@
       "title": "Voyager 1 : 49 ans après son lancement, la sonde de la NASA atteint un jour-lumière de la Terre",
       "url": "https://www.mac4ever.com/divers/199078-voyager-1-49-ans-apres-son-lancement-la-sonde-de-la-nasa-atteint-un-jour-lumiere-de-la-terre",
       "publishedAt": "2026-11-17T13:02:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Panne Microsoft 365 : un bug interne vieux de plusieurs mois à l'origine du chaos",
-      "url": "https://www.clubic.com/actualite-639652-panne-microsoft-365-un-bug-interne-vieux-de-plusieurs-mois-a-l-origine-du-chaos.html",
-      "publishedAt": "2026-11-17T13:01:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les drones de livraison d'Amazon exaspèrent de plus en plus de riverains américains",
-      "url": "https://www.generation-nt.com/actualites/livraison-drones-amazon-bruit-riverains-2084593",
-      "publishedAt": "2026-11-17T13:00:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Pour dix grammes de pain manquants, un boulanger a perdu 15 000 € : « maintenant, nous espérons que tous les pains, toutes les balances et tous les esprits seront équilibrés »",
-      "url": "https://www.presse-citron.net/pour-dix-grammes-de-pain-manquants-un-boulanger-a-perdu-15-000-e-maintenant-nous-esperons-que-tous-les-pains-toutes-les-balances-et-tous-les-esprits-seront-equilibres/",
-      "publishedAt": "2026-11-17T12:52:32+00:00"
     },
     {
       "source": "boulet",
