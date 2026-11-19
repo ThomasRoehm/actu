@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T17:01:07.360557+00:00",
+  "generatedAt": "2026-11-19T17:10:46.393615+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T17:01:07.360557+00:00"
+      "lastSuccessAt": "2026-11-19T17:10:46.393615+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Le bac coréen ne rigole pas : zones sans Wifi, inspection des lunettes, utilisation du crayon, tout est fait pour empêcher la triche avec l’intelligence artificielle",
+      "url": "https://www.presse-citron.net/bac-coreen-wifi-lunettes-triche-intelligence-artificielle/",
+      "publishedAt": "2026-11-19T17:02:37+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Faux codes de jeu, cadeaux fictifs : GTA 6 est au centre de dangereuses arnaques en ligne",
+      "url": "https://www.iphon.fr/post/gta-6-faux-codes-jeux-cadeaux-fictifs-arnaques-internet",
+      "publishedAt": "2026-11-19T17:01:49+00:00"
+    },
     {
       "source": "numerama",
       "title": "Son pedigree est déjà bien chargé : c’est quoi ARTEX, l’outil de piratage chinois utilisé contre la Commission européenne ?",
       "url": "https://www.numerama.com/cyberguerre/2379121-son-pedigree-est-deja-bien-charge-cest-quoi-artex-loutil-de-piratage-chinois-utilise-contre-la-commission-europeenne.html",
       "publishedAt": "2026-11-19T17:00:45+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Pistolet à prouts, presse hydraulique et Batmobile : quels jouets geeks acheter à vos enfants à Noël 2026 ?",
+      "url": "https://www.journaldugeek.com/dossier/pistolet-a-prouts-presse-hydraulique-et-batmobile-quels-jouets-geeks-acheter-a-vos-enfants-a-noel-year/",
+      "publishedAt": "2026-11-19T16:55:11+00:00"
     },
     {
       "source": "basketusa",
@@ -646,12 +664,6 @@
       "publishedAt": "2026-11-19T13:23:37+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T13:21:57+00:00"
-    },
-    {
       "source": "gnt",
       "title": "La Chine réduit les coûts de ses avions de combat J-35 grâce à l'impression 3D au titane",
       "url": "https://www.generation-nt.com/actualites/metal-chine-reduit-couts-avions-3d-2084767",
@@ -770,6 +782,12 @@
       "title": "L'iPhone 17 Pro Max chute en promo à 1179€ : son prix le plus bas, 450€ de moins que le 18 Pro Max !",
       "url": "https://www.mac4ever.com/iphone/199140-l-iphone-17-pro-max-chute-en-promo-a-1179-son-prix-le-plus-bas-450-de-moins-que-le-18-pro-max",
       "publishedAt": "2026-11-19T12:22:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T12:21:57+00:00"
     },
     {
       "source": "clubic",
@@ -3782,36 +3800,6 @@
       "title": "Cinq jours après son départ de NVIDIA, Jensen Huang veut déjà reprendre les commandes",
       "url": "https://www.clubic.com/actualite-639742-cinq-jours-apres-son-depart-de-nvidia-jensen-huang-veut-deja-reprendre-les-commandes.html",
       "publishedAt": "2026-11-17T17:11:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le drone W5000 chinois devient le plus grand avion de transport sans pilote",
-      "url": "https://www.generation-nt.com/actualites/drone-w5000-cargo-fret-sans-pilote-vol-inaugural-chine-2084656",
-      "publishedAt": "2026-11-17T17:10:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Amazon Family : une nouvelle façon de partager son abonnement Prime en France",
-      "url": "https://www.macg.co/ailleurs/2026/11/amazon-family-une-nouvelle-facon-de-partager-son-abonnement-prime-en-france-312473",
-      "publishedAt": "2026-11-17T17:02:20+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« Je serais honoré de revenir » : Jensen Huang sort du silence après le scandale chez Nvidia",
-      "url": "https://www.numerama.com/tech/2377211-je-serais-honore-de-revenir-jensen-huang-sort-du-silence-apres-le-scandale-chez-nvidia.html",
-      "publishedAt": "2026-11-17T17:02:15+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Boîtes à histoires : avec IA ou sans écran, quel modèle choisir en 2026 ?",
-      "url": "https://www.journaldugeek.com/dossier/boites-a-histoires-avec-ia-ou-sans-ecran-quel-modele-choisir-en-year/",
-      "publishedAt": "2026-11-17T17:02:06+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "NVIDIA : Trump a vendu pour 1 million de dollars d'action après avoir appris la liaison de Jensen Huang",
-      "url": "https://www.clubic.com/actualite-639709-nvidia-trump-a-vendu-pour-1-million-de-dollars-d-action-apres-avoir-appris-la-liaison-de-jensen-huang.html",
-      "publishedAt": "2026-11-17T17:02:00+00:00"
     },
     {
       "source": "boulet",
