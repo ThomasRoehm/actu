@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:30:54.937372+00:00",
+  "generatedAt": "2026-11-19T13:40:38.587200+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:30:54.937372+00:00"
+      "lastSuccessAt": "2026-11-19T13:40:38.587200+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "NVIDIA : des résultats étincelants... et pourtant une action qui recule",
+      "url": "https://www.clubic.com/actualite-640060-nvidia-des-resultats-intecelants-et-pourtant-une-action-qui-recule.html",
+      "publishedAt": "2026-11-19T13:34:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "480 millions d’aiguilles de cuivre autour de la Terre : l’étrange projet militaire de 1963 qui pollue encore l’espace",
+      "url": "https://www.journaldugeek.com/2026/11/19/480-millions-daiguilles-de-cuivre-autour-de-la-terre-letrange-projet-militaire-de-1963-qui-pollue-encore-lespace/",
+      "publishedAt": "2026-11-19T13:33:19+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Des débuts sans cesse repoussés pour Thomas Sorber…",
+      "url": "https://www.basketusa.com/news/958737/des-debuts-sans-cesse-repousses-pour-thomas-sorber/",
+      "publishedAt": "2026-11-19T13:27:42+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:25:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:23:37+00:00"
+    },
     {
       "source": "gnt",
       "title": "La Chine réduit les coûts de ses avions de combat J-35 grâce à l'impression 3D au titane",
@@ -3812,24 +3842,6 @@
       "title": "L'armée chinoise teste un drone qui injecte des antalgiques par fléchette",
       "url": "https://www.generation-nt.com/actualites/chine-drone-medical-flechette-antalgique-2084558",
       "publishedAt": "2026-11-17T13:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Apple TV 4K 2026 : la puce A19 a un secret qu'Apple s'est bien gardé d'annoncer",
-      "url": "https://www.clubic.com/actualite-639664-apple-tv-4k-2026-la-puce-a19-a-un-secret-qu-apple-s-est-bien-garde-d-annoncer.html",
-      "publishedAt": "2026-11-17T13:34:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "La voiture la plus rapide du monde finit pulvérisée lors d’un essai à grande vitesse",
-      "url": "https://www.journaldugeek.com/2026/11/17/la-voiture-la-plus-rapide-du-monde-finit-pulverisee-lors-dun-essai-a-grande-vitesse/",
-      "publishedAt": "2026-11-17T13:33:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Nikola Jokic et les Nuggets encore plombés par leurs erreurs",
-      "url": "https://www.basketusa.com/news/958251/nikola-jokic-et-les-nuggets-frustres-par-leurs-erreurs/",
-      "publishedAt": "2026-11-17T13:32:33+00:00"
     },
     {
       "source": "boulet",
