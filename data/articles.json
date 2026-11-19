@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:30:54.321731+00:00",
+  "generatedAt": "2026-11-19T18:40:39.590120+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:30:54.321731+00:00"
+      "lastSuccessAt": "2026-11-19T18:40:39.590120+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-19T18:35:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "GTA 6 a pesé plus lourd que Netflix et YouTube réunis sur le réseau de Bouygues Telecom",
+      "url": "https://www.clubic.com/actualite-640168-gta-6-a-pese-plus-lourd-que-netflix-et-youtube-reunis-sur-le-reseau-de-bouygues-telecom.html",
+      "publishedAt": "2026-11-19T18:31:00+00:00"
+    },
     {
       "source": "gnt",
       "title": "Gemini Spark se mue en Tasks et devient gratuit",
@@ -350,12 +362,6 @@
       "title": "Modèle du monde : Google ouvre l'accès à Genie 4",
       "url": "https://www.generation-nt.com/actualites/genie-4-modele-silumation-monde-google-ai-ultra-2084805",
       "publishedAt": "2026-11-19T16:25:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-19T16:24:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -3788,18 +3794,6 @@
       "title": "“NVIDIA a été l’œuvre de ma vie” : Jensen Huang annonce qu’il reprendra les rênes de l’entreprise si le conseil d’administration le lui demande",
       "url": "https://www.journaldugeek.com/2026/11/17/nvidia-a-ete-loeuvre-de-ma-vie-jensen-huang-annonce-quil-reprendra-les-renes-de-lentreprise-si-on-le-lui-demande/",
       "publishedAt": "2026-11-17T18:42:08+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Meilleures promos du jour : caméra Insta360 X3 à 200€, Fire TV Stick HD à 24€, pack Samsung Buds4 à 80€...",
-      "url": "https://www.generation-nt.com/actualites/kindle-colorsoft-iphone-17-pro-max-fire-tv-stick-4k-plus-samsung-galaxy-buds4-ecran-oled-msi-promos-pas-cher-2084680",
-      "publishedAt": "2026-11-17T18:40:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "« C’est peut-être la chose la plus effrayante que j’aie jamais entendue » : un des astronautes d’Artemis II raconte l’une des épreuves les plus difficiles de sa vie avant de décoller pour la Lune",
-      "url": "https://www.journaldugeek.com/2026/11/17/cest-peut-etre-la-chose-la-plus-effrayante-que-jaie-jamais-entendue-astronautes-dartemis-ii-raconte-epreuves-plus-difficiles-vie-avant-decoller-lune/",
-      "publishedAt": "2026-11-17T18:32:18+00:00"
     },
     {
       "source": "boulet",
