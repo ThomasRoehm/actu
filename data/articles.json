@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:50:37.352676+00:00",
+  "generatedAt": "2026-11-19T14:01:05.373031+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T13:50:37.352676+00:00"
+      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday Amazon : notre top 100 des offres de la Black Week, mis à jour toute la journée !",
+      "url": "https://www.clubic.com/bons-plans-639883-black-friday-2026-amazon-lance-sa-black-week-et-ca-commence-fort-avec-ces-100-offres-jusqu-a--67.html",
+      "publishedAt": "2026-11-19T14:00:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Un virement de 442 € : des millions de Français reçoivent cette aide de l’État le 15 décembre, êtes-vous concerné ?",
+      "url": "https://www.presse-citron.net/un-virement-de-442-e-des-millions-de-francais-recoivent-cette-aide-de-letat-le-15-decembre-etes-vous-concerne/",
+      "publishedAt": "2026-11-19T13:57:15+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : VideoProc Converter AI ravive les vieilles vidéos et photos sur Mac, licence à vie dès 30,95 €",
+      "url": "https://www.macg.co/services/2026/11/black-friday-videoproc-converter-ai-ravive-les-vieilles-videos-et-photos-sur-mac-licence-vie-des-3095-eu-312459",
+      "publishedAt": "2026-11-19T13:53:48+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "« Pas une entreprise d’IA sûre » : des experts dézinguent le double discours d’Anthropic, qui cacherait bien son jeu",
+      "url": "https://www.presse-citron.net/pas-une-entreprise-dia-sure-des-experts-dezinguent-le-double-discours-danthropic-qui-cacherait-bien-son-jeu/",
+      "publishedAt": "2026-11-19T13:48:53+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "La CNIL inflige 5 millions d'euros à la Macif pour ses mots de passe stockés en clair",
@@ -142,10 +166,22 @@
       "publishedAt": "2026-11-19T13:48:00+00:00"
     },
     {
+      "source": "jdg",
+      "title": "GTA 6 : Comment obtenir le cloneur de clef ?",
+      "url": "https://www.journaldugeek.com/2026/11/19/gta-6-comment-obtenir-le-cloneur-de-clef/",
+      "publishedAt": "2026-11-19T13:46:44+00:00"
+    },
+    {
       "source": "clubic",
       "title": "GTA V sur iPhone et Android : à l’heure de GTA 6, Take-Two fait supprimer plus de 600 projets sur GitHub !",
       "url": "https://www.clubic.com/actualite-640069-gta-v-sur-iphone-et-android-a-l-heure-de-gta-6-take-two-fait-supprimer-plus-de-600-projets-sur-github.html",
       "publishedAt": "2026-11-19T13:41:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Instagram : vous pouvez enfin éditer vos stories, mais sans traîner",
+      "url": "https://www.generation-nt.com/actualites/instagram-modifier-editer-stories-apres-publication-2084803",
+      "publishedAt": "2026-11-19T13:40:01+00:00"
     },
     {
       "source": "clubic",
@@ -167,21 +203,9 @@
     },
     {
       "source": "basketusa",
-      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T13:25:01+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-19T13:23:37+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T13:21:57+00:00"
     },
     {
       "source": "gnt",
@@ -292,6 +316,12 @@
       "publishedAt": "2026-11-19T12:26:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T12:25:01+00:00"
+    },
+    {
       "source": "iphon",
       "title": "Prisés par les sportifs, les casques et écouteurs Shokz font leur show au Black Friday",
       "url": "https://www.iphon.fr/post/prises-sportifs-casques-ecouteurs-shokz-show-black-friday",
@@ -302,6 +332,12 @@
       "title": "L'iPhone 17 Pro Max chute en promo à 1179€ : son prix le plus bas, 450€ de moins que le 18 Pro Max !",
       "url": "https://www.mac4ever.com/iphone/199140-l-iphone-17-pro-max-chute-en-promo-a-1179-son-prix-le-plus-bas-450-de-moins-que-le-18-pro-max",
       "publishedAt": "2026-11-19T12:22:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T12:21:57+00:00"
     },
     {
       "source": "clubic",
@@ -470,12 +506,6 @@
       "title": "WELOCK U81 ou Touca51 Pro : quelle serrure connectée pour ce Black Friday ?",
       "url": "https://www.generation-nt.com/actualites/welock-u81-touca51-pro-serrure-connectee-black-friday-2084733",
       "publishedAt": "2026-11-19T11:05:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Amazon : les nouvelles offres de la Black Week à saisir aujourd’hui, jusqu’à -67%",
-      "url": "https://www.clubic.com/bons-plans-639883-black-friday-2026-amazon-lance-sa-black-week-et-ca-commence-fort-avec-ces-100-offres-jusqu-a--67.html",
-      "publishedAt": "2026-11-19T11:03:00+00:00"
     },
     {
       "source": "presse",
@@ -3830,30 +3860,6 @@
       "title": "Leclerc fait chuter le prix de GTA 6 à deux jours de sa sortie",
       "url": "https://www.numerama.com/pop-culture/2372707-amazon-fait-chuter-le-prix-de-gta-6-a-deux-jours-de-sa-sortie.html",
       "publishedAt": "2026-11-17T14:01:17+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Siri rationnée sur iOS 27, payer plus pour en avoir plus",
-      "url": "https://korben.info/siri-rationnee-sur-ios-27-payer-plus-pour-en-avoir-plus.html",
-      "publishedAt": "2026-11-17T14:00:39+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Hunger Games : Lever de soleil sur la moisson est-il le meilleur film de la saga ?",
-      "url": "https://www.journaldugeek.com/critique/hunger-games-lever-de-soleil-sur-la-moisson-est-il-le-meilleur-film-de-la-saga/",
-      "publishedAt": "2026-11-17T14:00:03+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La Californie attaque OpenAI pour la prolifération d'agents IA incontrôlables",
-      "url": "https://www.generation-nt.com/actualites/californie-openai-justice-piratage-hugging-face-2084616",
-      "publishedAt": "2026-11-17T14:00:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Sony accélère le déploiement de son QSSR (au goût de PS5 Pro) sur PS5 classique",
-      "url": "https://www.clubic.com/actualite-639604-sony-accelere-le-deploiement-de-son-qssr-au-gout-de-ps5-pro-sur-ps5-classique.html",
-      "publishedAt": "2026-11-17T13:59:00+00:00"
     },
     {
       "source": "boulet",
