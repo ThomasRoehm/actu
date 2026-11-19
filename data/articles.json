@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:20:41.862803+00:00",
+  "generatedAt": "2026-11-19T10:30:53.904771+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,46 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
+      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : OBSBOT casse les prix de ses webcams, avec jusqu'à 40 % de réduction",
+      "url": "https://www.clubic.com/actualite-639319-black-friday-obsbot-casse-les-prix-de-ses-webcams-avec-jusqu-a-40-de-reduction.html",
+      "publishedAt": "2026-11-19T10:30:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Comment fonctionne le mode Photo dans GTA 6 ?",
+      "url": "https://www.numerama.com/pop-culture/2378617-comment-fonctionne-le-mode-photo-dans-gta-6.html",
+      "publishedAt": "2026-11-19T10:25:46+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Samsung prépare un Horizontal Lock pour la caméra selfie, repéré dans la bêta de One UI 9.5",
+      "url": "https://www.clubic.com/actualite-640027-samsung-prepare-un-horizontal-lock-pour-la-camera-selfie-repere-dans-la-beta-de-one-ui-9-5.html",
+      "publishedAt": "2026-11-19T10:22:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone Duo 2 : Apple fait déjà machine arrière sur Face ID ?",
+      "url": "https://www.iphon.fr/post/iphone-duo-2-apple-rumeurs-face-id",
+      "publishedAt": "2026-11-19T10:21:54+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Nous ne pouvons plus dépendre de SpaceX : ce rachat doit donner vie à un géant spatial made in europe",
+      "url": "https://www.clubic.com/actualite-639988-nous-ne-pouvons-plus-dependre-de-spacex-ce-rachat-doit-donner-vie-a-un-geant-spatial-made-in-europe.html",
+      "publishedAt": "2026-11-19T10:21:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Voyager 1 franchit officiellement le cap d'un jour-lumière malgré une panne de télémétrie !",
+      "url": "https://www.generation-nt.com/actualites/voyager-1-sonde-spatiale-jour-lumiere-panne-telemetrie-2084813",
+      "publishedAt": "2026-11-19T10:20:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Google ajoute un mode privé à sa recherche IA : voici ce qu’il garde pendant 24 heures",
@@ -154,6 +190,12 @@
       "publishedAt": "2026-11-19T10:16:00+00:00"
     },
     {
+      "source": "korben",
+      "title": "Des IA ciblent des civils dès qu'on leur dit que c'est un jeu",
+      "url": "https://korben.info/des-ia-ciblent-des-civils-des-quon-leur-dit-que-cest-un-jeu.html",
+      "publishedAt": "2026-11-19T10:13:06+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Comment acheter une voiture dans GTA 6 ? Rockstar a changé les règles",
       "url": "https://www.journaldugeek.com/2026/11/19/comment-acheter-une-voiture-dans-gta-6/",
@@ -164,6 +206,12 @@
       "title": "L’entrée en Bourse d’Anthropic (Claude) pourrait faire des milliers de millionnaires, et les gagnants ne sont pas forcément ceux qu’on croit",
       "url": "https://www.numerama.com/tech/2378523-lentree-en-bourse-danthropic-claude-pourrait-faire-des-milliers-de-millionnaires-et-les-gagnants-ne-sont-pas-forcement-ceux-quon-croit.html",
       "publishedAt": "2026-11-19T10:12:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Cdiscount Mobile : 3 mois à 0 € sur les forfaits 1 Go, 10 Go et 100 Go 5G !",
+      "url": "https://www.generation-nt.com/actualites/forfait-mobile-cdiscount-pas-cher-100-5g-10-1-go-bouygues-telecom-sans-engagement-2084810",
+      "publishedAt": "2026-11-19T10:10:01+00:00"
     },
     {
       "source": "clubic",
@@ -334,12 +382,6 @@
       "publishedAt": "2026-11-19T09:22:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Malgré les pépins, les Rockets gardent leur orbite",
-      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
-      "publishedAt": "2026-11-19T09:21:10+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
@@ -500,6 +542,12 @@
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
       "publishedAt": "2026-11-19T08:24:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T08:21:10+00:00"
     },
     {
       "source": "gnt",
@@ -3764,36 +3812,6 @@
       "title": "Malgré son rachat imminent, SFR lance une nouvelle box fibre avec du Wi-Fi 7",
       "url": "https://www.numerama.com/tech/2376435-malgre-son-rachat-imminent-sfr-lance-une-nouvelle-box-fibre-avec-du-wi-fi-7.html",
       "publishedAt": "2026-11-17T10:31:09+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La Air Jordan 41 fait coup double",
-      "url": "https://www.basketusa.com/news/958249/la-air-jordan-41-fait-coup-double/",
-      "publishedAt": "2026-11-17T10:30:14+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "SFR rattrape enfin ses concurrents avec sa nouvelle Box 10 en Wi-Fi 7",
-      "url": "https://www.clubic.com/actualite-639631-sfr-rattrape-enfin-ses-concurrents-avec-sa-nouvelle-box-10-en-wi-fi-7.html",
-      "publishedAt": "2026-11-17T10:26:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Home Assistant lance un boîtier à 59 € pour connecter vos anciens appareils plutôt que les remplacer",
-      "url": "https://www.clubic.com/actualite-639622-home-assistant-lance-un-boitier-a-59-pour-connecter-vos-anciens-appareils-plutot-que-les-remplacer.html",
-      "publishedAt": "2026-11-17T10:23:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "L’iPhone Duo est de retour en stock pour une livraison à la date parfaite",
-      "url": "https://www.iphon.fr/post/iphone-duo-retour-stock-livraison-date-parfaite",
-      "publishedAt": "2026-11-17T10:22:56+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Si vous avez boudé Marvel’s Wolverine au prix fort, Amazon fait déjà fondre son prix",
-      "url": "https://www.numerama.com/pop-culture/2376217-si-vous-avez-boude-marvels-wolverine-au-prix-fort-amazon-fait-deja-fondre-son-prix.html",
-      "publishedAt": "2026-11-17T10:22:36+00:00"
     },
     {
       "source": "boulet",
