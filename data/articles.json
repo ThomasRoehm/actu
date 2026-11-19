@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:50:51.178123+00:00",
+  "generatedAt": "2026-11-19T10:01:05.476586+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,45 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T09:50:51.178123+00:00"
+      "lastSuccessAt": "2026-11-19T10:01:05.476586+00:00"
     }
   ],
   "articles": [
     {
       "source": "numerama",
+      "title": "Vaccin contre la leucémie : une nouvelle piste sérieuse émerge, avec 41 % de risque de décès en moins",
+      "url": "https://www.numerama.com/sciences/2378551-vaccin-contre-la-leucemie-une-nouvelle-piste-serieuse-emerge-avec-41-de-risque-de-deces-en-moins.html",
+      "publishedAt": "2026-11-19T09:58:39+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Nos anciens ne changeaient pas une fenêtre qui laisse rentrer le froid, ils faisaient cette réparation à moins de 10 €",
+      "url": "https://www.presse-citron.net/nos-anciens-ne-changeaient-pas-une-fenetre-qui-laisse-rentrer-le-froid-ils-faisaient-cette-reparation-a-moins-de-10-e/",
+      "publishedAt": "2026-11-19T09:53:19+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Amazon casse le prix de la Switch 2 pour le Black Friday : console, Zelda Ocarina of Time et Joy-Con 2 en promo",
+      "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
+      "publishedAt": "2026-11-19T09:51:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Instagram permet enfin de modifier une Story après sa publication !",
+      "url": "https://www.mac4ever.com/iphone/199123-instagram-permet-enfin-de-modifier-une-story-apres-sa-publication",
+      "publishedAt": "2026-11-19T09:51:00+00:00"
+    },
+    {
+      "source": "numerama",
       "title": "Ginny & Georgia saison 4 : Netflix fait tomber la date de sortie et de premières images",
       "url": "https://www.numerama.com/pop-culture/2378451-ginny-georgia-saison-4-netflix-fait-tomber-la-date-de-sortie-et-de-premieres-images.html",
       "publishedAt": "2026-11-19T09:50:06+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Gemini 4 a désormais droit à une version Neon",
+      "url": "https://www.generation-nt.com/actualites/google-gemini-4-neon-modele-ia-2084799",
+      "publishedAt": "2026-11-19T09:46:36+00:00"
     },
     {
       "source": "basketusa",
@@ -3782,24 +3812,6 @@
       "title": "Ce laser est plus puissant que toutes les centrales électriques du monde réunies, et il est européen",
       "url": "https://www.journaldugeek.com/2026/11/17/ce-laser-est-plus-puissant-que-toutes-les-centrales-electriques-du-monde-reunies-et-il-est-europeen/",
       "publishedAt": "2026-11-17T10:02:50+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Ocean : Brad Pitt lâche une mauvaise nouvelle sur la suite avec Clooney et Matt Damon",
-      "url": "https://www.numerama.com/pop-culture/2376057-ocean-brad-pitt-lache-une-mauvaise-nouvelle-sur-la-suite-avec-clooney-et-matt-damon.html",
-      "publishedAt": "2026-11-17T09:57:46+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Vous avez visité le site d’Air France, Transavia, IKEA ou HSBC le 16 novembre ? Un malware voleur de CB y était caché, voici ce qu’il faut vérifier",
-      "url": "https://www.numerama.com/cyberguerre/2376253-vous-avez-visite-le-site-dair-france-transavia-ikea-ou-hsbc-le-16-novembre-un-malware-voleur-de-cb-y-etait-cache-voici-ce-quil-faut-verifier.html",
-      "publishedAt": "2026-11-17T09:55:18+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Une générosité assez peu connue : Kylian Mbappé donne 100% de ses gains en équipe de France à des associations",
-      "url": "https://www.presse-citron.net/une-generosite-assez-peu-connue-kylian-mbappe-donne-100-de-ses-gains-en-equipe-de-france-a-des-associations/",
-      "publishedAt": "2026-11-17T09:52:39+00:00"
     },
     {
       "source": "boulet",
