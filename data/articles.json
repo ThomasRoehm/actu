@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:40:36.677319+00:00",
+  "generatedAt": "2026-11-19T07:50:47.161257+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:40:36.677319+00:00"
+      "lastSuccessAt": "2026-11-19T07:50:47.161257+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "iPhone 18 de base : la vraie date de sortie fuite enfin",
+      "url": "https://www.iphon.fr/post/fuite-iphone-18-standard-date-sortie",
+      "publishedAt": "2026-11-19T07:49:49+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Cette fois, il n’y a pas eu de miracle pour les Lakers",
+      "url": "https://www.basketusa.com/news/958846/cette-fois-il-ny-a-pas-eu-de-miracle-pour-les-lakers/",
+      "publishedAt": "2026-11-19T07:43:46+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Apple annonce les 45 finalistes pour son App Store Award",
+      "url": "https://www.clubic.com/actualite-639931-apple-annonce-les-45-finalistes-pour-son-app-store-award.html",
+      "publishedAt": "2026-11-19T07:43:00+00:00"
+    },
     {
       "source": "presse",
       "title": "Une découverte rarissime : des chercheurs ont retrouvé des traces de sang de dinosaure vieilles de 115 millions d’années",
@@ -3728,24 +3746,6 @@
       "title": "iOS 27.3 débarque en bêta 2 : quelles sont les nouveautés ?",
       "url": "https://www.iphon.fr/post/ios-27-3-quelles-nouveautes",
       "publishedAt": "2026-11-17T07:55:02+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "De l'iPhone des 20 ans aux lunettes connectées : 18 nouveautés matérielles attendues chez Apple en 2027",
-      "url": "https://www.macg.co/aapl/2026/11/de-liphone-des-20-ans-aux-lunettes-connectees-18-nouveautes-materielles-attendues-chez-apple-en-2027-312449",
-      "publishedAt": "2026-11-17T07:46:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Douze cœurs véloces et gros cache, la contre-attaque d'Intel s'organise autour de Razor Lake !",
-      "url": "https://www.generation-nt.com/actualites/intel-douze-coeurs-gros-cache-2084585",
-      "publishedAt": "2026-11-17T07:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Après le Royaume-Uni, les Big tech s'attaquent au Canada qui veut accéder aux données des utilisateurs",
-      "url": "https://www.clubic.com/actualite-639550-apres-le-royaume-uni-les-big-tech-s-attaquent-au-canada-qui-veut-acceder-aux-donnees-des-utilisateurs.html",
-      "publishedAt": "2026-11-17T07:44:00+00:00"
     },
     {
       "source": "boulet",
