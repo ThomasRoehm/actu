@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:10:41.545723+00:00",
+  "generatedAt": "2026-11-19T11:20:49.948728+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:10:41.545723+00:00"
+      "lastSuccessAt": "2026-11-19T11:20:49.948728+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Apple TV accueille 6 films cultes seulement pendant une durée limitée",
+      "url": "https://www.iphon.fr/post/apple-tv-accueille-6-films-cultes-seulement-pendant-une-duree-limitee",
+      "publishedAt": "2026-11-19T11:13:36+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Samsung Galaxy : vous pourrez bientôt prêter votre téléphone sans donner accès à toutes vos applis",
+      "url": "https://www.clubic.com/actualite-640012-one-ui-9-5-relie-le-verrouillage-d-apps-de-samsung-au-privacy-display-du-galaxy-s26-ultra.html",
+      "publishedAt": "2026-11-19T11:12:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "On a débridé GTA 6 à 60 FPS : Vice City n’a jamais été aussi fluide",
@@ -170,6 +182,12 @@
       "title": "Le pack Instantané Insta360 Ace Pro 2 à -21% pour le Black Friday : -120€, son meilleur prix !",
       "url": "https://www.mac4ever.com/divers/199135-le-pack-instantane-insta360-ace-pro-2-a-21-pour-le-black-friday-120-son-meilleur-prix",
       "publishedAt": "2026-11-19T11:01:48+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[Course au MVP] S10 : le retour de Super Patrick",
+      "url": "https://touchdownactu.com/361556/course-au-mvp-s10-le-retour-de-super-patrick/",
+      "publishedAt": "2026-11-19T11:00:13+00:00"
     },
     {
       "source": "jdg",
@@ -362,6 +380,12 @@
       "title": "GTA 6 : on connait l’actrice derrière Lucia, mais les joueurs sont en colère",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-on-connait-lactrice-derriere-lucia-mais-les-joueurs-sont-en-colere/",
       "publishedAt": "2026-11-19T10:01:59+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[shopping] Les pulls de Noël sont arrivés sur le NFL Shop",
+      "url": "https://touchdownactu.com/361562/shopping-les-pulls-de-noel-sont-arrives-sur-le-nfl-shop/",
+      "publishedAt": "2026-11-19T10:00:09+00:00"
     },
     {
       "source": "numerama",
@@ -632,6 +656,12 @@
       "title": "Les Grizzlies s’offrent un record de franchise loin de leurs bases",
       "url": "https://www.basketusa.com/news/958820/les-grizzlies-soffrent-un-record-de-franchise-loin-de-leurs-bases/",
       "publishedAt": "2026-11-19T08:32:56+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[Preview] Semaine 11 (jeudi) : soupe à la grimace à Houston",
+      "url": "https://touchdownactu.com/361345/preview-semaine-11-jeudi-soupe-a-la-grimace-a-houston/",
+      "publishedAt": "2026-11-19T08:30:05+00:00"
     },
     {
       "source": "gnt",
@@ -3776,36 +3806,6 @@
       "title": "À Memphis, le bonheur est dans la passe",
       "url": "https://www.basketusa.com/news/958230/a-memphis-le-bonheur-est-dans-la-passe/",
       "publishedAt": "2026-11-17T11:24:05+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "La souris ergonomique Logitech Lift bradée à moitié prix pour le Black Friday !",
-      "url": "https://www.mac4ever.com/mac/199077-la-souris-ergonomique-logitech-lift-bradee-a-moitie-prix-pour-le-black-friday",
-      "publishedAt": "2026-11-17T11:20:11+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Washington verrouille l'accès à distance aux puces américaines face à Pékin",
-      "url": "https://www.generation-nt.com/actualites/intelligence-artificielle-acces-puces-ia-distant-blocage-chine-2084632",
-      "publishedAt": "2026-11-17T11:20:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple fête les 30 ans de Pokémon avec des cadeaux sur iPhone",
-      "url": "https://www.iphon.fr/post/apple-fete-30-ans-pokemon-cadeaux-iphone",
-      "publishedAt": "2026-11-17T11:14:40+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le site Boulanger tombe en panne en plein Black Friday : ce que l’on sait",
-      "url": "https://www.numerama.com/tech/2376611-le-site-boulanger-tombe-en-panne-en-plein-black-friday-ce-que-lon-sait.html",
-      "publishedAt": "2026-11-17T11:11:51+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Black Friday : chez Revolut, Apple Pay et Google Pay talonnent désormais la carte bancaire",
-      "url": "https://www.numerama.com/tech/2376513-black-friday-chez-revolut-apple-pay-et-google-pay-talonnent-desormais-la-carte-bancaire.html",
-      "publishedAt": "2026-11-17T11:10:58+00:00"
     },
     {
       "source": "boulet",
