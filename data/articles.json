@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:01:05.373031+00:00",
+  "generatedAt": "2026-11-19T14:10:39.934533+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:01:05.373031+00:00"
+      "lastSuccessAt": "2026-11-19T14:10:39.934533+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Keyonte George monte en température avec le Jazz",
+      "url": "https://www.basketusa.com/news/958852/keyonte-george-monte-en-temperature-avec-le-jazz/",
+      "publishedAt": "2026-11-19T14:03:16+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Le marathon le plus absurde de l’année se court chez IKEA avec une médaille en kit",
+      "url": "https://www.journaldugeek.com/2026/11/19/le-marathon-le-plus-absurde-de-lannee-se-court-chez-ikea-avec-une-medaille-en-kit/",
+      "publishedAt": "2026-11-19T14:02:48+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Finalement, l'iMac OLED pourrait ne jamais voir le jour",
+      "url": "https://www.macg.co/materiel/2026/11/finalement-limac-oled-pourrait-ne-jamais-voir-le-jour-312515",
+      "publishedAt": "2026-11-19T14:02:47+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "ONU, pétrole, nucléaire : les 4 décisions prises par Trump, Poutine et Xi Jinping",
+      "url": "https://www.presse-citron.net/onu-petrole-nucleaire-les-4-decisions-prises-par-trump-poutine-et-xi-jinping/",
+      "publishedAt": "2026-11-19T14:00:39+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Amazon : notre top 100 des offres de la Black Week, mis à jour toute la journée !",
@@ -151,7 +175,7 @@
       "source": "macg",
       "title": "Black Friday : VideoProc Converter AI ravive les vieilles vidéos et photos sur Mac, licence à vie dès 30,95 €",
       "url": "https://www.macg.co/services/2026/11/black-friday-videoproc-converter-ai-ravive-les-vieilles-videos-et-photos-sur-mac-licence-vie-des-3095-eu-312459",
-      "publishedAt": "2026-11-19T13:53:48+00:00"
+      "publishedAt": "2026-11-19T13:53:00+00:00"
     },
     {
       "source": "presse",
@@ -203,9 +227,21 @@
     },
     {
       "source": "basketusa",
+      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:25:01+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-19T13:23:37+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:21:57+00:00"
     },
     {
       "source": "gnt",
@@ -316,12 +352,6 @@
       "publishedAt": "2026-11-19T12:26:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T12:25:01+00:00"
-    },
-    {
       "source": "iphon",
       "title": "Prisés par les sportifs, les casques et écouteurs Shokz font leur show au Black Friday",
       "url": "https://www.iphon.fr/post/prises-sportifs-casques-ecouteurs-shokz-show-black-friday",
@@ -332,12 +362,6 @@
       "title": "L'iPhone 17 Pro Max chute en promo à 1179€ : son prix le plus bas, 450€ de moins que le 18 Pro Max !",
       "url": "https://www.mac4ever.com/iphone/199140-l-iphone-17-pro-max-chute-en-promo-a-1179-son-prix-le-plus-bas-450-de-moins-que-le-18-pro-max",
       "publishedAt": "2026-11-19T12:22:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T12:21:57+00:00"
     },
     {
       "source": "clubic",
@@ -3842,24 +3866,6 @@
       "title": "Le MacBook Pro OLED crée des vertiges et des maux de tête : voici quelle serait la cause",
       "url": "https://www.iphon.fr/post/macbook-pro-oled-cree-vertiges-maux-tete-voici-quelle-serait-cause",
       "publishedAt": "2026-11-17T14:17:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Ime Udoka ne cherche pas d’excuse après la déroute des Rockets",
-      "url": "https://www.basketusa.com/news/958236/ime-udoka-ne-cherche-pas-dexcuse-apres-la-deroute-des-rockets/",
-      "publishedAt": "2026-11-17T14:06:20+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iOS 27.3 : Apple pourrait encore modifier l'apparence de Liquid Glass sur l'iPhone",
-      "url": "https://www.mac4ever.com/iphone/199079-ios-27-3-apple-pourrait-encore-modifier-l-apparence-de-liquid-glass-sur-l-iphone",
-      "publishedAt": "2026-11-17T14:02:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Leclerc fait chuter le prix de GTA 6 à deux jours de sa sortie",
-      "url": "https://www.numerama.com/pop-culture/2372707-amazon-fait-chuter-le-prix-de-gta-6-a-deux-jours-de-sa-sortie.html",
-      "publishedAt": "2026-11-17T14:01:17+00:00"
     },
     {
       "source": "boulet",
