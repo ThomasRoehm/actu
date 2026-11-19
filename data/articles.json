@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:50:36.790150+00:00",
+  "generatedAt": "2026-11-19T12:01:05.736156+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T11:50:36.790150+00:00"
+      "lastSuccessAt": "2026-11-19T12:01:05.736156+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Annoncée début octobre, l’Alexa Tablet 8 d’Amazon est déjà à moitié prix pour le Black Friday : 114,99€",
+      "url": "https://www.clubic.com/bons-plans-640051-annoncee-debut-octobre-l-alexa-tablet-8-d-amazon-est-deja-a-moitie-prix-pour-le-black-friday-114-99.html",
+      "publishedAt": "2026-11-19T12:00:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : comment se faire de l’argent le plus facilement possible ?",
+      "url": "https://www.journaldugeek.com/2026/11/19/gta-6-comment-se-faire-de-largent-le-plus-facilement-possible/",
+      "publishedAt": "2026-11-19T11:50:48+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Valoran : entre précision tactique, agents variés et skins qui font la différence",
+      "url": "https://www.generation-nt.com/actualites/valoran-precision-tactique-agents-skins-2084793",
+      "publishedAt": "2026-11-19T11:50:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Panique chez Meta : l’agent IA Muse serait un véritable cauchemar pour la vie privée des utilisateurs",
@@ -146,6 +164,12 @@
       "title": "Le chargeur MagSafe d'Apple chute à -37% pour le Black Friday : prenez soin de votre nouvel iPhone !",
       "url": "https://www.mac4ever.com/iphone/199136-le-chargeur-magsafe-d-apple-chute-a-37-pour-le-black-friday-prenez-soin-de-votre-nouvel-iphone",
       "publishedAt": "2026-11-19T11:41:46+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday Fosi Audio : les meilleures offres sur les DAC et amplis casque",
+      "url": "https://www.generation-nt.com/actualites/fosi-audio-black-friday-k7-dac-ampli-casque-carte-son-externe-c3-lecteur-cd-disc-nano-merak-ecouteurs-im3-im4-hifi-2084735",
+      "publishedAt": "2026-11-19T11:40:01+00:00"
     },
     {
       "source": "jdg",
@@ -586,12 +610,6 @@
       "publishedAt": "2026-11-19T09:22:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Malgré les pépins, les Rockets gardent leur orbite",
-      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
-      "publishedAt": "2026-11-19T09:21:10+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
@@ -758,6 +776,12 @@
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
       "publishedAt": "2026-11-19T08:24:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T08:21:10+00:00"
     },
     {
       "source": "gnt",
@@ -3806,18 +3830,6 @@
       "title": "Une deuxième lune tourne actuellement autour de la Terre : des astronomes viennent de confirmer son existence",
       "url": "https://www.presse-citron.net/deuxieme-lune-tourne-autour-terre-astronomes-confirmer-existence/",
       "publishedAt": "2026-11-17T12:02:09+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Dernière chance pour ce job de rêve : plus de 100 000€ pour jouer à GTA 6 !",
-      "url": "https://www.journaldugeek.com/2026/11/17/derniere-chance-pour-ce-job-de-reve-plus-de-100-000e-pour-jouer-a-gta-6/",
-      "publishedAt": "2026-11-17T12:00:53+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Les cheerleaders NFL : actrices ou figurantes du sport spectacle ?",
-      "url": "https://touchdownactu.com/354475/les-cheerleaders-nfl-actrices-ou-figurantes-du-sport-spectacle/",
-      "publishedAt": "2026-11-17T12:00:33+00:00"
     },
     {
       "source": "boulet",
