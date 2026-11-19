@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:20:38.370226+00:00",
+  "generatedAt": "2026-11-19T07:31:01.033418+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     },
     {
       "id": "tda",
@@ -118,8 +118,8 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/tda.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "<urlopen error timed out>",
       "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
+      "lastSuccessAt": "2026-11-19T07:31:01.033418+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "-500 € sur le DEEBOT X12S OmniCyclone à l'occasion du Black Friday Ecovacs",
+      "url": "https://www.clubic.com/bons-plans-639346-sur-le-deebot-x12s-omnicyclone-a-l-occasion-du-black-friday-ecovacs.html",
+      "publishedAt": "2026-11-19T07:30:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Java4Shell expose les serveurs mondiaux à une faille critique découverte par IA",
+      "url": "https://www.generation-nt.com/actualites/java-java4shell-faille-vulnerabilite-serveurs-2084782",
+      "publishedAt": "2026-11-19T07:20:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jayson Tatum a le sentiment d’avoir tout gâché !",
+      "url": "https://www.basketusa.com/news/958830/jayson-tatum-a-le-sentiment-davoir-tout-gache/",
+      "publishedAt": "2026-11-19T07:19:13+00:00"
+    },
     {
       "source": "clubic",
       "title": "Vos applications Windows 11 pourront bientôt refuser de démarrer si votre PC n'est pas assez sécurisé",
@@ -3734,24 +3752,6 @@
       "title": "Le responsable du piratage massif de GTA 6 plaide coupable",
       "url": "https://www.numerama.com/pop-culture/2375937-le-responsable-du-piratage-massif-de-gta-6-plaide-coupable.html",
       "publishedAt": "2026-11-17T07:31:59+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Voici trois raisons de choisir ce VPN suisse pour le Black Friday 2026",
-      "url": "https://www.clubic.com/bons-plans-635998-voici-trois-raisons-de-choisir-ce-vpn-suisse-pour-le-black-friday-2026.html",
-      "publishedAt": "2026-11-17T07:30:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Netflix : même sans pub, vous pourriez avoir droit à la réclame",
-      "url": "https://www.journaldugeek.com/2026/11/17/netflix-meme-sans-pub-vous-pourriez-avoir-droit-a-la-reclame/",
-      "publishedAt": "2026-11-17T07:29:40+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Apple Intelligence : pour utiliser davantage l’IA, il faudra gonfler son forfait iCloud+",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-intelligence-pour-utiliser-davantage-lia-il-faudra-gonfler-son-forfait-icloud-312447",
-      "publishedAt": "2026-11-17T07:24:00+00:00"
     },
     {
       "source": "boulet",
