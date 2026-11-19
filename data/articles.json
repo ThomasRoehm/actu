@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T16:40:40.936614+00:00",
+  "generatedAt": "2026-11-19T16:50:40.448004+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T16:40:40.936614+00:00"
+      "lastSuccessAt": "2026-11-19T16:50:40.448004+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Cette IA gratuite pourrait bien vous faire passer des fêtes de fin d'année du tonnerre !",
+      "url": "https://www.clubic.com/actualite-635509-cette-ia-gratuite-pourrait-bien-vous-faire-passer-des-fetes-de-fin-d-annee-du-tonnerre.html",
+      "publishedAt": "2026-11-19T16:45:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Black Friday : les meilleures offres ce jeudi 19 novembre (EN DIRECT)",
@@ -3788,48 +3794,6 @@
       "title": "The Batman 3 menacé ? Robert Pattinson ne serait plus engagé pour la suite",
       "url": "https://www.numerama.com/pop-culture/2377129-the-batman-3-menace-robert-pattinson-ne-serait-plus-engage-pour-la-suite.html",
       "publishedAt": "2026-11-17T16:56:37+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le Mac mini M6 est déjà en promo : -100€, le bon plan Apple du moment !",
-      "url": "https://www.mac4ever.com/mac/199089-le-mac-mini-m6-est-deja-en-promo-100-le-bon-plan-apple-du-moment",
-      "publishedAt": "2026-11-17T16:50:11+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Décevant, le HomeView fait de la publicité aux écrans de Google malgré lui",
-      "url": "https://www.clubic.com/actualite-639730-decevant-le-homeview-fait-de-la-publicite-aux-ecrans-de-google-malgre-lui.html",
-      "publishedAt": "2026-11-17T16:47:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Des neurones humains cultivés en laboratoire guident les réactions d'un robot humanoïde",
-      "url": "https://www.generation-nt.com/actualites/iris-neurones-humains-controle-robot-2084592",
-      "publishedAt": "2026-11-17T16:45:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Europe : un lancement pour 2027 de plus en plus incertain",
-      "url": "https://www.basketusa.com/news/958385/nba-europe-un-lancement-en-2027-de-plus-en-plus-incertain/",
-      "publishedAt": "2026-11-17T16:43:42+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pour le Black Friday, les prises ultra design Komult sont à −25 % avec ce code promo",
-      "url": "https://www.clubic.com/bons-plans-639013-pour-le-black-friday-les-prises-ultra-design-komult-sont-a-25-avec-ce-code-promo.html",
-      "publishedAt": "2026-11-17T16:41:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : Amazon frappe fort sur les aspirateurs laveurs et les robots, 9 modèles déjà en promotion",
-      "url": "https://www.clubic.com/bons-plans-638713-black-friday-amazon-le-top-7-des-meilleurs-aspirateurs-a-saisir-jusqu-a--42.html",
-      "publishedAt": "2026-11-17T16:41:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Deux écrans incurvés ultra-larges de 49 et 37,5\" à prix ultra-abordable chez JAPANNEXT",
-      "url": "https://www.mac4ever.com/mac/199087-japannext-deux-ecrans-incurves-ultra-larges-de-49-et-37-5-pouces-a-prix-abordable",
-      "publishedAt": "2026-11-17T16:41:00+00:00"
     },
     {
       "source": "boulet",
