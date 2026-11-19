@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:30:53.904771+00:00",
+  "generatedAt": "2026-11-19T10:40:47.749446+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:30:53.904771+00:00"
+      "lastSuccessAt": "2026-11-19T10:40:47.749446+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Les robots piscine Aiper en promo pour le Black Friday : équipez-vous au meilleur prix !",
+      "url": "https://www.mac4ever.com/divers/199131-les-robots-piscine-aiper-en-promo-pour-le-black-friday-equipez-vous-au-meilleur-prix",
+      "publishedAt": "2026-11-19T10:39:38+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "1,8 million de mots de passe en clair : la Macif écope d’une amende de 5 millions d’euros pour une erreur de débutant",
+      "url": "https://www.journaldugeek.com/2026/11/19/18-million-de-mots-de-passe-en-clair-la-macif-ecope-dune-amende-de-5-millions-deuros-pour-une-erreur-de-debutant/",
+      "publishedAt": "2026-11-19T10:31:58+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Warren Spector félicite Rockstar, mais espère que GTA 6 sera le dernier de son genre",
+      "url": "https://www.presse-citron.net/warren-spector-felicite-rockstar-mais-espere-que-gta-6-sera-le-dernier-de-son-genre/",
+      "publishedAt": "2026-11-19T10:30:43+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : OBSBOT casse les prix de ses webcams, avec jusqu'à 40 % de réduction",
       "url": "https://www.clubic.com/actualite-639319-black-friday-obsbot-casse-les-prix-de-ses-webcams-avec-jusqu-a-40-de-reduction.html",
       "publishedAt": "2026-11-19T10:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "DeMar DeRozan, l’autre « Joker » des Nuggets",
+      "url": "https://www.basketusa.com/news/958887/demar-derozan-lautre-joker-des-nuggets/",
+      "publishedAt": "2026-11-19T10:28:31+00:00"
     },
     {
       "source": "numerama",
@@ -3776,42 +3800,6 @@
       "title": "Google Maps planifie enfin vos vacances à votre place !",
       "url": "https://www.generation-nt.com/actualites/google-maps-planifie-vacances-ia-2084594",
       "publishedAt": "2026-11-17T10:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Amazon : -50% sur l’écran OLED incurvé de 45\" de LG, juste avant GTA VI",
-      "url": "https://www.clubic.com/bons-plans-639637-black-friday-amazon--50-sur-l-ecran-oled-incurve-de-45-de-lg-juste-avant-gta-vi.html",
-      "publishedAt": "2026-11-17T10:39:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Après 50 ans dans l'espace, Voyager 1 s’apprête à franchir une première historique : 1 jour-lumière de la Terre",
-      "url": "https://www.clubic.com/actualite-639610-apres-50-ans-dans-l-espace-voyager-1-s-apprete-a-franchir-une-premiere-historique-1-jour-lumiere-de-la-terre.html",
-      "publishedAt": "2026-11-17T10:36:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Pas de 5G dans le MacBook Pro OLED : comment connecter son Mac partout avec l'iPhone",
-      "url": "https://www.macg.co/services/2026/11/pas-de-5g-dans-le-macbook-pro-oled-comment-connecter-son-mac-partout-avec-liphone-312333",
-      "publishedAt": "2026-11-17T10:33:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Pokémon fête ses 30 ans : Apple réserve des petites surprises aux utilisateurs d’iPhone",
-      "url": "https://www.mac4ever.com/iphone/199069-pokemon-fete-ses-30-ans-apple-reserve-des-petites-surprises-aux-utilisateurs-d-iphone",
-      "publishedAt": "2026-11-17T10:33:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : le hacker derrière la fuite de 2022 plaide coupable, trois jours avant la sortie du jeu",
-      "url": "https://www.journaldugeek.com/2026/11/17/gta-6-le-hacker-derriere-la-fuite-de-2022-plaide-coupable-trois-jours-avant-la-sortie-du-jeu/",
-      "publishedAt": "2026-11-17T10:31:49+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Malgré son rachat imminent, SFR lance une nouvelle box fibre avec du Wi-Fi 7",
-      "url": "https://www.numerama.com/tech/2376435-malgre-son-rachat-imminent-sfr-lance-une-nouvelle-box-fibre-avec-du-wi-fi-7.html",
-      "publishedAt": "2026-11-17T10:31:09+00:00"
     },
     {
       "source": "boulet",
