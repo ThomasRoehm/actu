@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:31:01.668360+00:00",
+  "generatedAt": "2026-11-19T14:40:41.687200+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
+      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "🔴 Urgence : c’est quoi le « plan Orsec », activé par la France dans le Pas-de-Calais ?",
+      "url": "https://www.presse-citron.net/%f0%9f%94%b4-urgence-cest-quoi-le-plan-orsec-active-par-la-france-dans-le-pas-de-calais/",
+      "publishedAt": "2026-11-19T14:34:24+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Si votre mot de passe est dans cette liste, changez-le tout de suite !",
+      "url": "https://www.journaldugeek.com/2026/11/19/si-votre-mot-de-passe-est-dans-cette-liste-changez-le-tout-de-suite/",
+      "publishedAt": "2026-11-19T14:33:47+00:00"
+    },
     {
       "source": "numerama",
       "title": "GTA 6 : la carte interactive ultime pour découvrir les secrets de Leonida",
       "url": "https://www.numerama.com/pop-culture/2378989-gta-6-la-carte-interactive-ultime-pour-decouvrir-les-secrets-de-leonida.html",
       "publishedAt": "2026-11-19T14:30:03+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Apple ose enfin le nom « Black Friday », mais reste très timide sur les offres",
+      "url": "https://www.macg.co/aapl/2026/11/apple-ose-enfin-le-nom-black-friday-mais-reste-tres-timide-sur-les-offres-312519",
+      "publishedAt": "2026-11-19T14:28:55+00:00"
     },
     {
       "source": "numerama",
@@ -928,12 +946,6 @@
       "publishedAt": "2026-11-19T09:22:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Malgré les pépins, les Rockets gardent leur orbite",
-      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
-      "publishedAt": "2026-11-19T09:21:10+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
@@ -1100,6 +1112,12 @@
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
       "publishedAt": "2026-11-19T08:24:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T08:21:10+00:00"
     },
     {
       "source": "gnt",
@@ -3812,30 +3830,6 @@
       "title": "Vos requêtes ChatGPT polluent autant que le Danemark entier",
       "url": "https://korben.info/vos-requetes-chatgpt-polluent-autant-que-le-danemark-entier.html",
       "publishedAt": "2026-11-17T14:41:57+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Xiaomi renouvelle ses montres et écouteurs, avec une nouveauté bienvenue pour payer au poignet",
-      "url": "https://www.clubic.com/actualite-639673-xiaomi-renouvelle-ses-montres-et-ecouteurs-avec-une-nouveaute-bienvenue-pour-payer-au-poignet.html",
-      "publishedAt": "2026-11-17T14:40:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Espace client de Carrefour Banque bloqué : voici comment accéder au service pendant l’interruption",
-      "url": "https://www.presse-citron.net/espace-client-de-carrefour-banque-bloque-voici-comment-acceder-au-service-pendant-linterruption/",
-      "publishedAt": "2026-11-17T14:33:41+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Voyager 1 atteint un jour-lumière de la Terre : à 26 milliards de km de la Terre, cela aurait pris 28 250 ans en voiture",
-      "url": "https://www.numerama.com/sciences/2376733-voyager-1-atteint-un-jour-lumiere-de-la-terre-a-26-milliards-de-km-de-la-terre-cela-aurait-pris-28-250-ans-en-voiture.html",
-      "publishedAt": "2026-11-17T14:32:57+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "L'iPhone Duo gagne enfin la reconnaissance faciale qui lui manquait",
-      "url": "https://korben.info/liphone-duo-gagne-enfin-la-reconnaissance-faciale-qui-lui-manquait.html",
-      "publishedAt": "2026-11-17T14:32:34+00:00"
     },
     {
       "source": "boulet",
