@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:10:40.806827+00:00",
+  "generatedAt": "2026-11-19T18:20:38.352884+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T18:10:40.806827+00:00"
+      "lastSuccessAt": "2026-11-19T18:20:38.352884+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Les Pacers en galère pour défendre à 3-pts",
+      "url": "https://www.basketusa.com/news/959006/les-pacers-peinent-a-defendre-a-3-pts/",
+      "publishedAt": "2026-11-19T18:06:08+00:00"
+    },
     {
       "source": "jdg",
       "title": "Ne jetez surtout pas la boîte de GTA 6 : elle vaut déjà de l’argent, même vide !",
@@ -1402,12 +1408,6 @@
       "publishedAt": "2026-11-19T09:22:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Malgré les pépins, les Rockets gardent leur orbite",
-      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
-      "publishedAt": "2026-11-19T09:21:10+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
@@ -1574,6 +1574,12 @@
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
       "publishedAt": "2026-11-19T08:24:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T08:21:10+00:00"
     },
     {
       "source": "gnt",
@@ -3782,24 +3788,6 @@
       "title": "« C’est peut-être la chose la plus effrayante que j’aie jamais entendue » : un des astronautes d’Artemis II raconte l’une des épreuves les plus difficiles de sa vie avant de décoller pour la Lune",
       "url": "https://www.journaldugeek.com/2026/11/17/cest-peut-etre-la-chose-la-plus-effrayante-que-jaie-jamais-entendue-astronautes-dartemis-ii-raconte-epreuves-plus-difficiles-vie-avant-decoller-lune/",
       "publishedAt": "2026-11-17T18:32:18+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "On connaît aujourd'hui les métiers les plus touchés par l'IA. Le vôtre est-il dans la liste ?",
-      "url": "https://www.clubic.com/actualite-639745-on-connait-aujourd-hui-les-metiers-les-plus-touches-par-l-ia-le-votre-est-il-dans-la-liste.html",
-      "publishedAt": "2026-11-17T18:18:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un bidouilleur réussit à faire tourner Doom sur l'écran d'une clé USB",
-      "url": "https://www.generation-nt.com/actualites/doom-ecran-cle-usb-2084565",
-      "publishedAt": "2026-11-17T18:15:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Cette appli vous récompense quand vous posez votre téléphone",
-      "url": "https://www.clubic.com/actualite-639751-cette-appli-vous-recompense-quand-vous-posez-votre-telephone.html",
-      "publishedAt": "2026-11-17T18:15:00+00:00"
     },
     {
       "source": "boulet",
