@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:30:56.201385+00:00",
+  "generatedAt": "2026-11-19T06:40:37.263601+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T06:30:56.201385+00:00"
+      "lastSuccessAt": "2026-11-19T06:40:37.263601+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Stats & Highlights | Fin de série pour les Lakers",
+      "url": "https://www.basketusa.com/news/958808/stats-highlights-fin-de-serie-pour-les-lakers/",
+      "publishedAt": "2026-11-19T06:30:54+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Un seul VPN gratuit pour tous vos appareils : Avast VPN, une solution pour tout votre foyer ?",
+      "url": "https://www.clubic.com/bons-plans-638905-un-seul-vpn-gratuit-pour-tous-vos-appareils-avast-vpn-la-solution-ideale-pour-votre-foyer.html",
+      "publishedAt": "2026-11-19T06:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Après AMD, des utilisateurs de Nvidia signalent des écritures sur leur SSD",
+      "url": "https://www.clubic.com/actualite-639970-apres-amd-des-utilisateurs-de-nvidia-signalent-des-ecritures-sur-leur-ssd.html",
+      "publishedAt": "2026-11-19T06:30:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Google Wallet débarque sur iPhone, mais sans sa fonction la plus utile",
+      "url": "https://www.journaldugeek.com/2026/11/19/google-wallet-debarque-sur-iphone-mais-sans-sa-fonction-la-plus-utile/",
+      "publishedAt": "2026-11-19T06:29:45+00:00"
+    },
     {
       "source": "numerama",
       "title": "Dossier mobile et accoudoirs articulés : ce que propose cette chaise Sihoo à 385,39 euros pour le Black Friday [Sponso]",
@@ -221,12 +245,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Avec un grand Cooper Flagg, les Mavs enfoncent les Warriors",
-      "url": "https://www.basketusa.com/news/958748/avec-un-grand-cooper-flagg-les-mavericks-enfoncent-les-warriors/",
-      "publishedAt": "2026-11-19T05:23:41+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "À Orlando, les Sixers ont encore été les rois du « comeback »",
       "url": "https://www.basketusa.com/news/958751/a-orlando-les-sixers-ont-encore-ete-les-rois-du-comeback/",
       "publishedAt": "2026-11-19T05:19:54+00:00"
@@ -236,6 +254,12 @@
       "title": "Giannis Antetokounmpo ne fait aucun cadeau aux Bucks !",
       "url": "https://www.basketusa.com/news/958738/giannis-antetokounmpo-ne-fait-aucun-cadeau-aux-bucks/",
       "publishedAt": "2026-11-19T05:12:56+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Avec un grand Cooper Flagg, les Mavs enfoncent les Warriors",
+      "url": "https://www.basketusa.com/news/958748/avec-un-grand-cooper-flagg-les-mavericks-enfoncent-les-warriors/",
+      "publishedAt": "2026-11-19T04:23:41+00:00"
     },
     {
       "source": "clubic",
@@ -718,6 +742,12 @@
       "publishedAt": "2026-11-18T15:04:50+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
+      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
+      "publishedAt": "2026-11-18T15:04:05+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Test MSI Prestige N16 Flip AI+ : quand la promesse de l’IA locale prime... sur beaucoup d’autres",
       "url": "https://www.clubic.com/test-produit-636919-test-msi-prestige-n16-flip-ai.html",
@@ -874,12 +904,6 @@
       "publishedAt": "2026-11-18T14:07:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
-      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
-      "publishedAt": "2026-11-18T14:04:05+00:00"
-    },
-    {
       "source": "presse",
       "title": "La psychologie est formelle : les personnes qui rangent leur vaisselle le soir avant de dormir ne le font pas pour avoir un logement propre le lendemain",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-rangent-leur-vaisselle-le-soir-avant-de-dormir-ne-le-font-pas-pour-avoir-un-logement-propre-le-lendemain/",
@@ -914,6 +938,12 @@
       "title": "Microsoft Defender va pouvoir protéger les systèmes vulnérables sans attendre l'installation d'un correctif",
       "url": "https://www.clubic.com/actualite-639865-microsoft-defender-va-pouvoir-proteger-les-systemes-vulnerables-sans-attendre-l-installation-d-un-correctif.html",
       "publishedAt": "2026-11-18T13:43:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:42:31+00:00"
     },
     {
       "source": "gnt",
@@ -1070,12 +1100,6 @@
       "title": "Puces d'IA, Washington coupe l'accès à distance de la Chine",
       "url": "https://korben.info/puces-dia-washington-coupe-lacces-a-distance-de-la-chine.html",
       "publishedAt": "2026-11-18T12:43:07+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:42:31+00:00"
     },
     {
       "source": "numerama",
