@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:13:25.232151+00:00",
+  "generatedAt": "2026-11-19T07:20:38.370226+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T07:13:25.232151+00:00"
+      "lastSuccessAt": "2026-11-19T07:20:38.370226+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Vos applications Windows 11 pourront bientôt refuser de démarrer si votre PC n'est pas assez sécurisé",
+      "url": "https://www.clubic.com/actualite-639913-vos-applications-windows-11-pourront-bientot-refuser-de-demarrer-si-votre-pc-n-est-pas-assez-securise.html",
+      "publishedAt": "2026-11-19T07:14:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "L’Europe dort-elle pendant la révolution de l’IA ? 59 experts veulent un électrochoc",
+      "url": "https://www.mac4ever.com/ia/199121-l-europe-dort-elle-pendant-la-revolution-de-l-ia-59-experts-veulent-un-electrochoc",
+      "publishedAt": "2026-11-19T07:14:00+00:00"
+    },
     {
       "source": "iphon",
       "title": "Téléchargez les fonds d’écran “Grand Theft Auto: Cupertino” pour fêter la sortie de GTA VI",
       "url": "https://www.iphon.fr/post/sortie-gta-vi-fonds-ecran-mac-iphone",
       "publishedAt": "2026-11-19T07:03:04+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "nginx2root - Votre nginx est-il vraiment exposé ?",
+      "url": "https://korben.info/nginx2root-faille-http2.html",
+      "publishedAt": "2026-11-19T06:57:06+00:00"
     },
     {
       "source": "basketusa",
@@ -802,12 +820,6 @@
       "publishedAt": "2026-11-18T15:04:50+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
-      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
-      "publishedAt": "2026-11-18T15:04:05+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Test MSI Prestige N16 Flip AI+ : quand la promesse de l’IA locale prime... sur beaucoup d’autres",
       "url": "https://www.clubic.com/test-produit-636919-test-msi-prestige-n16-flip-ai.html",
@@ -964,6 +976,12 @@
       "publishedAt": "2026-11-18T14:07:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
+      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
+      "publishedAt": "2026-11-18T14:04:05+00:00"
+    },
+    {
       "source": "presse",
       "title": "La psychologie est formelle : les personnes qui rangent leur vaisselle le soir avant de dormir ne le font pas pour avoir un logement propre le lendemain",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-rangent-leur-vaisselle-le-soir-avant-de-dormir-ne-le-font-pas-pour-avoir-un-logement-propre-le-lendemain/",
@@ -974,18 +992,6 @@
       "title": "Encore au moins une semaine d’absence pour Kawhi Leonard",
       "url": "https://www.basketusa.com/news/958428/encore-au-moins-une-semaine-dabsence-pour-kawhi-leonard/",
       "publishedAt": "2026-11-18T13:48:51+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T13:46:34+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T13:44:28+00:00"
     },
     {
       "source": "numerama",
@@ -1138,6 +1144,12 @@
       "publishedAt": "2026-11-18T12:50:15+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T12:46:34+00:00"
+    },
+    {
       "source": "iphon",
       "title": "Google Maps : voici comment rouler en Formule 1 sur votre iPhone",
       "url": "https://www.iphon.fr/post/tutoriel-google-maps-astuce-comment-changer-avatar-conduite",
@@ -1148,6 +1160,12 @@
       "title": "James Bond : c’est sûrement la fin de l’humour pour 007",
       "url": "https://www.numerama.com/pop-culture/2377783-james-bond-cest-surement-la-fin-de-lhumour-pour-007.html",
       "publishedAt": "2026-11-18T12:45:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T12:44:28+00:00"
     },
     {
       "source": "korben",
@@ -3734,24 +3752,6 @@
       "title": "Apple Intelligence : pour utiliser davantage l’IA, il faudra gonfler son forfait iCloud+",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-intelligence-pour-utiliser-davantage-lia-il-faudra-gonfler-son-forfait-icloud-312447",
       "publishedAt": "2026-11-17T07:24:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Quand les constructeurs allemands faiblissent, Tesla met des milliards dans Giga Berlin pour le Cybercab",
-      "url": "https://www.generation-nt.com/actualites/tesla-giga-berlin-usine-investissement-production-cybercab-2084587",
-      "publishedAt": "2026-11-17T07:20:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Terrence Shannon Jr. survole les débats",
-      "url": "https://www.basketusa.com/news/958177/le-mvp-de-la-nuit-terrence-shannon-jr-survole-les-debats/",
-      "publishedAt": "2026-11-17T07:16:30+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le cap des 200 000 apps compatibles avec l'iPhone Duo est franchi",
-      "url": "https://www.mac4ever.com/iphone/199068-le-cap-des-200-000-apps-compatibles-avec-l-iphone-duo-est-franchi",
-      "publishedAt": "2026-11-17T07:14:00+00:00"
     },
     {
       "source": "boulet",
