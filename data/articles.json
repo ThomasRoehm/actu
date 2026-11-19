@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:40:41.687200+00:00",
+  "generatedAt": "2026-11-19T14:50:40.143469+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:40:41.687200+00:00"
+      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "FSD Tesla : la France aurait écrit aux 27 pour faire voter non",
+      "url": "https://www.mac4ever.com/auto/199142-fsd-tesla-la-france-aurait-ecrit-aux-27-pour-faire-voter-non",
+      "publishedAt": "2026-11-19T14:49:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Un mois après le chaos PHP2Shell, que vaut vraiment la nouvelle alerte critique de PHP ?",
+      "url": "https://www.numerama.com/cyberguerre/2378991-un-mois-apres-le-chaos-php2shell-que-vaut-vraiment-la-nouvelle-alerte-critique-de-php.html",
+      "publishedAt": "2026-11-19T14:47:06+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "TSMC et Samsung suspendent des livraisons de puces vers la Chine",
+      "url": "https://www.clubic.com/actualite-640084-tsmc-et-samsung-suspendent-des-livraisons-de-puce-vers-la-chine.html",
+      "publishedAt": "2026-11-19T14:47:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Des milliers de satellites-miroirs pour renvoyer la lumière du Soleil : le premier va officiellement décoller",
+      "url": "https://www.clubic.com/actualite-640078-des-milliers-de-satellites-miroirs-pour-renvoyer-la-lumiere-du-soleil-le-premier-va-officiellement-decoller.html",
+      "publishedAt": "2026-11-19T14:42:00+00:00"
+    },
     {
       "source": "presse",
       "title": "🔴 Urgence : c’est quoi le « plan Orsec », activé par la France dans le Pas-de-Calais ?",
@@ -157,7 +181,7 @@
       "source": "macg",
       "title": "Apple ose enfin le nom « Black Friday », mais reste très timide sur les offres",
       "url": "https://www.macg.co/aapl/2026/11/apple-ose-enfin-le-nom-black-friday-mais-reste-tres-timide-sur-les-offres-312519",
-      "publishedAt": "2026-11-19T14:28:55+00:00"
+      "publishedAt": "2026-11-19T14:28:00+00:00"
     },
     {
       "source": "numerama",
@@ -287,6 +311,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:25:01+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-19T13:23:37+00:00"
@@ -404,12 +434,6 @@
       "title": "Black Friday : quel smartphone choisir chez Amazon ? Notre tri de 6 offres, dès 113€",
       "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
       "publishedAt": "2026-11-19T12:26:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T12:25:01+00:00"
     },
     {
       "source": "iphon",
@@ -946,6 +970,12 @@
       "publishedAt": "2026-11-19T09:22:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T09:21:10+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
@@ -1112,12 +1142,6 @@
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
       "publishedAt": "2026-11-19T08:24:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Malgré les pépins, les Rockets gardent leur orbite",
-      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
-      "publishedAt": "2026-11-19T08:21:10+00:00"
     },
     {
       "source": "gnt",
@@ -3806,30 +3830,6 @@
       "title": "Nique Clifford assume son échec à Sacramento",
       "url": "https://www.basketusa.com/news/958107/nique-clifford-assume-son-echec-a-sacramento/",
       "publishedAt": "2026-11-17T14:50:53+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Fnac : le drone DJI Mini 5 Pro Fly More Combo à 999,99€ + Osmo Pocket 3 offerte !",
-      "url": "https://www.generation-nt.com/actualites/drone-dji-mini-5-pro-fly-more-combo-4k-hdr-radiocommande-rc-2-camera-osmo-pocket-3-fnac-black-friday-2084637",
-      "publishedAt": "2026-11-17T14:50:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Panne Microsoft : on sait enfin pourquoi Teams s’en est sorti alors qu’Outlook sombrait",
-      "url": "https://www.numerama.com/tech/2376825-panne-microsoft-on-sait-enfin-pourquoi-teams-sen-est-sorti-alors-quoutlook-sombrait.html",
-      "publishedAt": "2026-11-17T14:44:19+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Free publie déjà une nouvelle mise à jour de sécurité pour les Freebox, la cinquième en onze jours",
-      "url": "https://www.clubic.com/actualite-639661-free-publie-deja-une-nouvelle-mise-a-jour-de-securite-pour-les-freebox-la-cinquieme-en-onze-jours.html",
-      "publishedAt": "2026-11-17T14:42:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Vos requêtes ChatGPT polluent autant que le Danemark entier",
-      "url": "https://korben.info/vos-requetes-chatgpt-polluent-autant-que-le-danemark-entier.html",
-      "publishedAt": "2026-11-17T14:41:57+00:00"
     },
     {
       "source": "boulet",
