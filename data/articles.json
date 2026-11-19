@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:40:39.196099+00:00",
+  "generatedAt": "2026-11-19T08:50:38.171522+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T08:40:39.196099+00:00"
+      "lastSuccessAt": "2026-11-19T08:50:38.171522+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Notre sélection des meilleurs chargeurs en promo pour le Black Friday : jusqu'à -42% !",
+      "url": "https://www.mac4ever.com/iphone/199127-notre-selection-des-meilleurs-chargeurs-en-promo-pour-le-black-friday-jusqu-a-42",
+      "publishedAt": "2026-11-19T08:47:16+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "OpenAI aurait perdu le contrôle de ses agents IA... plus de 80 fois",
+      "url": "https://www.clubic.com/actualite-639985-openai-aurait-perdu-le-controle-de-ses-agents-ia-plus-de-80-fois.html",
+      "publishedAt": "2026-11-19T08:44:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "La cause du grave échec de la fusée Vulcan Centaur est presque une bonne nouvelle pour Blue Origin",
+      "url": "https://www.numerama.com/sciences/2378443-la-cause-du-grave-echec-de-la-fusee-vulcan-centaur-est-presque-une-bonne-nouvelle-pour-blue-origin.html",
+      "publishedAt": "2026-11-19T08:43:35+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iOS 27.3 : une fonctionnalité disparue fait son grand retour !",
+      "url": "https://www.iphon.fr/post/ios-27-3-retour-effet-flou-iphone-liquid-glass",
+      "publishedAt": "2026-11-19T08:42:43+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Les Grizzlies s’offrent un record de franchise loin de leurs bases",
@@ -224,12 +248,6 @@
       "title": "La pénurie de DRAM pousse Apple vers un accord inédit avec Samsung",
       "url": "https://www.generation-nt.com/actualites/penurie-dram-apple-accord-samsung-2084772",
       "publishedAt": "2026-11-19T07:45:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Cette fois, il n’y a pas eu de miracle pour les Lakers",
-      "url": "https://www.basketusa.com/news/958846/cette-fois-il-ny-a-pas-eu-de-miracle-pour-les-lakers/",
-      "publishedAt": "2026-11-19T07:43:46+00:00"
     },
     {
       "source": "clubic",
@@ -340,6 +358,12 @@
       "publishedAt": "2026-11-19T06:46:47+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Cette fois, il n’y a pas eu de miracle pour les Lakers",
+      "url": "https://www.basketusa.com/news/958846/cette-fois-il-ny-a-pas-eu-de-miracle-pour-les-lakers/",
+      "publishedAt": "2026-11-19T06:43:46+00:00"
+    },
+    {
       "source": "macg",
       "title": "Anthropic détrône SpaceX avec la plus grosse introduction en bourse de l’histoire",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/anthropic-detrone-spacex-avec-la-plus-grosse-introduction-en-bourse-de-lhistoire-312503",
@@ -418,12 +442,6 @@
       "publishedAt": "2026-11-19T06:12:33+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Sans Ty Jerome, les Grizzlies restent invincibles à l’extérieur",
-      "url": "https://www.basketusa.com/news/958774/sans-ty-jerome-les-grizzlies-restent-invincibles-a-lexterieur/",
-      "publishedAt": "2026-11-19T06:05:21+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Quad9 quitte la France et Cloudflare tacle la mauvaise approche judiciaire",
       "url": "https://www.generation-nt.com/actualites/quad9-quitte-france-cloudflare-justice-2084754",
@@ -488,6 +506,12 @@
       "title": "Giannis Antetokounmpo ne fait aucun cadeau aux Bucks !",
       "url": "https://www.basketusa.com/news/958738/giannis-antetokounmpo-ne-fait-aucun-cadeau-aux-bucks/",
       "publishedAt": "2026-11-19T05:12:56+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Sans Ty Jerome, les Grizzlies restent invincibles à l’extérieur",
+      "url": "https://www.basketusa.com/news/958774/sans-ty-jerome-les-grizzlies-restent-invincibles-a-lexterieur/",
+      "publishedAt": "2026-11-19T05:05:21+00:00"
     },
     {
       "source": "clubic",
@@ -3746,24 +3770,6 @@
       "title": "Piratage des frigos dans les supermarchés : la France présente sa riposte, elle passera par l’intermédiaire de l’Union européenne",
       "url": "https://www.presse-citron.net/piratage-des-frigos-dans-les-supermarches-la-france-presente-sa-riposte-elle-passera-par-lintermediaire-de-lunion-europeenne/",
       "publishedAt": "2026-11-17T08:54:25+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "AMD prépare Siren Halo, un processeur hybride dopé à la GDDR7",
-      "url": "https://www.generation-nt.com/actualites/amd-siren-halo-processeur-gddr7-2084591",
-      "publishedAt": "2026-11-17T08:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Brave nettoie maintenant les trackers des photos de Facebook et Instagram",
-      "url": "https://www.clubic.com/actualite-639556-brave-nettoie-maintenant-les-trackers-de-facebook-et-instagram.html",
-      "publishedAt": "2026-11-17T08:44:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple annonce 2 nouvelles saisons pour cette série à succès",
-      "url": "https://www.iphon.fr/post/apple-tv-annonce-saison-9-10-slow-horse",
-      "publishedAt": "2026-11-17T08:42:54+00:00"
     },
     {
       "source": "boulet",
