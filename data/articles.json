@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:40:39.452018+00:00",
+  "generatedAt": "2026-11-19T12:50:44.558295+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:40:39.452018+00:00"
+      "lastSuccessAt": "2026-11-19T12:50:44.558295+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "iPhone 20 : Apple hésite entre ces 4 designs pour 2027",
+      "url": "https://www.iphon.fr/post/iphone-20-apple-hesite-entre-4-designs-2027",
+      "publishedAt": "2026-11-19T12:48:41+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Comment sauver son bateau dans GTA 6 s’il est bloqué sur la terre ferme ?",
+      "url": "https://www.numerama.com/pop-culture/2378749-comment-sauver-son-bateau-dans-gta-6-sil-est-bloque-sur-la-terre-ferme.html",
+      "publishedAt": "2026-11-19T12:45:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Vous n'avez pas de boite de jeu GTA 6 ? Voici l'astuce qui vous permet d'en avoir une sans bouger de chez soi",
@@ -706,6 +718,12 @@
       "publishedAt": "2026-11-19T09:22:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T09:21:10+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
@@ -872,12 +890,6 @@
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
       "publishedAt": "2026-11-19T08:24:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Malgré les pépins, les Rockets gardent leur orbite",
-      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
-      "publishedAt": "2026-11-19T08:21:10+00:00"
     },
     {
       "source": "gnt",
@@ -3824,24 +3836,6 @@
       "title": "Pour dix grammes de pain manquants, un boulanger a perdu 15 000 € : « maintenant, nous espérons que tous les pains, toutes les balances et tous les esprits seront équilibrés »",
       "url": "https://www.presse-citron.net/pour-dix-grammes-de-pain-manquants-un-boulanger-a-perdu-15-000-e-maintenant-nous-esperons-que-tous-les-pains-toutes-les-balances-et-tous-les-esprits-seront-equilibres/",
       "publishedAt": "2026-11-17T12:52:32+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Les vagues de chaleur font-elles chuter le nombre de bébés en France ?",
-      "url": "https://www.numerama.com/sciences/2376429-la-canicule-fait-elle-vraiment-moins-naitre-des-bebes-ce-que-deux-etudes-europeennes-prouvent-et-ce-quelles-ratent.html",
-      "publishedAt": "2026-11-17T12:50:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Gêné par son orteil, Evan Mobley reste sur le flanc",
-      "url": "https://www.basketusa.com/news/958117/gene-par-son-orteil-evan-mobley-reste-sur-le-flanc/",
-      "publishedAt": "2026-11-17T12:49:54+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple bientôt condamnée en France ? La date du procès est connue",
-      "url": "https://www.iphon.fr/post/apple-france-justice-obsolescence-programme",
-      "publishedAt": "2026-11-17T12:45:16+00:00"
     },
     {
       "source": "boulet",
