@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:20:46.739912+00:00",
+  "generatedAt": "2026-11-19T14:31:01.668360+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:20:46.739912+00:00"
+      "lastSuccessAt": "2026-11-19T14:31:01.668360+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "GTA 6 : la carte interactive ultime pour découvrir les secrets de Leonida",
+      "url": "https://www.numerama.com/pop-culture/2378989-gta-6-la-carte-interactive-ultime-pour-decouvrir-les-secrets-de-leonida.html",
+      "publishedAt": "2026-11-19T14:30:03+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Starlink bridé, pont de Crimée détruit : l’Ukraine a trouvé un moyen ingénieux de bien diriger ses missiles",
+      "url": "https://www.numerama.com/tech/2378957-starlink-bride-pont-de-crimee-detruit-lukraine-a-trouve-un-moyen-ingenieux-de-bien-diriger-ses-missiles.html",
+      "publishedAt": "2026-11-19T14:21:28+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday Week Cdiscount : jusqu'à -50 % + 25 € offerts aux 2 000 premiers avec un code promo",
+      "url": "https://www.generation-nt.com/actualites/black-friday-week-cdiscount-ecran-gaming-viewsonic-montre-garmin-vivoactive-5-iphone-14-airfryer-ninja-aspirateur-tineco-2084820",
+      "publishedAt": "2026-11-19T14:20:01+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "ChatGPT transcrit votre voix en direct et sans limite de durée, même en gratuit",
@@ -152,6 +170,12 @@
       "title": "Apple pourrait annuler l’iMac OLED pour ces deux raisons majeures",
       "url": "https://www.clubic.com/actualite-640090-apple-pourrait-annuler-l-imac-oled-pour-ces-deux-raisons-majeures.html",
       "publishedAt": "2026-11-19T14:11:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "PancakeSlicer rend l'impression 3D non-planaire gratuite et accessible sur trois axes",
+      "url": "https://www.generation-nt.com/actualites/pancakeslicer-impression-non-planaire-gratuite-2084764",
+      "publishedAt": "2026-11-19T14:05:01+00:00"
     },
     {
       "source": "basketusa",
@@ -242,12 +266,6 @@
       "title": "Des débuts sans cesse repoussés pour Thomas Sorber…",
       "url": "https://www.basketusa.com/news/958737/des-debuts-sans-cesse-repousses-pour-thomas-sorber/",
       "publishedAt": "2026-11-19T13:27:42+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T13:25:01+00:00"
     },
     {
       "source": "basketusa",
@@ -368,6 +386,12 @@
       "title": "Black Friday : quel smartphone choisir chez Amazon ? Notre tri de 6 offres, dès 113€",
       "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
       "publishedAt": "2026-11-19T12:26:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T12:25:01+00:00"
     },
     {
       "source": "iphon",
@@ -3812,48 +3836,6 @@
       "title": "L'iPhone Duo gagne enfin la reconnaissance faciale qui lui manquait",
       "url": "https://korben.info/liphone-duo-gagne-enfin-la-reconnaissance-faciale-qui-lui-manquait.html",
       "publishedAt": "2026-11-17T14:32:34+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Apple TV 4K : Apple double la mémoire, mais la garde pour elle",
-      "url": "https://www.mac4ever.com/tv/199082-apple-tv-4k-apple-double-la-memoire-mais-la-garde-pour-elle",
-      "publishedAt": "2026-11-17T14:31:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Le Xiaomi 18 Pro Max est officiel : c’est quoi cet étrange téléphone avec deux écrans ?",
-      "url": "https://www.presse-citron.net/le-xiaomi-18-pro-max-est-officiel-cest-quoi-cet-etrange-telephone-avec-deux-ecrans/",
-      "publishedAt": "2026-11-17T14:30:35+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Test Xiaomi 18 Pro Max : deux écrans, c’est mieux ?",
-      "url": "https://www.journaldugeek.com/test/test-xiaomi-18-pro-max-deux-ecrans-cest-mieux/",
-      "publishedAt": "2026-11-17T14:30:27+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Comment une simple imprimante 3D peut-elle concevoir des tissus vivants ?",
-      "url": "https://www.generation-nt.com/actualites/comment-imprimante-fabrique-tissus-vivants-2084566",
-      "publishedAt": "2026-11-17T14:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Xiaomi 18 Pro : un deuxième écran pour détourner les regards d'Apple et Samsung",
-      "url": "https://www.clubic.com/actualite-639646-xiaomi-18-pro-un-deuxieme-ecran-pour-detourner-les-regards-d-apple-et-samsung.html",
-      "publishedAt": "2026-11-17T14:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Amazon n'attend pas le Black Friday et fait chuter le prix de l’iPhone 17 Pro Max",
-      "url": "https://www.clubic.com/bons-plans-638482-amazon-n-attend-pas-le-black-friday-et-fait-chuter-le-prix-de-l-iphone-17-pro-max.html",
-      "publishedAt": "2026-11-17T14:26:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "James Bond : il y a 16 ans, Robert Pattinson pensait qu’il ferait un « très mauvais » James Bond",
-      "url": "https://www.numerama.com/pop-culture/2376765-james-bond-il-y-a-16-ans-robert-pattinson-pensait-quil-ferait-un-tres-mauvais-james-bond.html",
-      "publishedAt": "2026-11-17T14:21:17+00:00"
     },
     {
       "source": "boulet",
