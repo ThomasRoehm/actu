@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:50:40.143469+00:00",
+  "generatedAt": "2026-11-19T15:01:10.047311+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T14:50:40.143469+00:00"
+      "lastSuccessAt": "2026-11-19T15:01:10.047311+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Smartphone pliant : Google tape du poing sur la table pour les applications Android",
+      "url": "https://www.generation-nt.com/actualites/smartphone-pliant-application-android-google-play-2084828",
+      "publishedAt": "2026-11-19T15:00:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-19T14:58:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Bye bye le Portugal : cette grande ville française réputée la moins chère attire les retraités",
+      "url": "https://www.presse-citron.net/bye-bye-le-portugal-cette-grande-ville-francaise-reputee-la-moins-chere-attire-les-retraites/",
+      "publishedAt": "2026-11-19T14:55:37+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La WNBA veut récupérer les 16 % de son capital vendus en 2022",
+      "url": "https://www.basketusa.com/news/959046/la-wnba-veut-recuperer-les-16-de-son-capital-vendus-en-2022/",
+      "publishedAt": "2026-11-19T14:51:05+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Google Play va bloquer les apps non adaptées aux pliables et tablettes Android dès avril 2027",
+      "url": "https://www.clubic.com/actualite-639997-google-play-va-bloquer-les-apps-non-adaptees-aux-pliables-et-tablettes-android-des-avril-2027.html",
+      "publishedAt": "2026-11-19T14:51:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "FSD Tesla : la France aurait écrit aux 27 pour faire voter non",
@@ -152,6 +182,12 @@
       "title": "TSMC et Samsung suspendent des livraisons de puces vers la Chine",
       "url": "https://www.clubic.com/actualite-640084-tsmc-et-samsung-suspendent-des-livraisons-de-puce-vers-la-chine.html",
       "publishedAt": "2026-11-19T14:47:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Pendant qu'AMD s'expose à OpenAI, Elon Musk ferme la porte chez SpaceX",
+      "url": "https://www.generation-nt.com/actualites/amd-expose-openai-musk-spacex-2084766",
+      "publishedAt": "2026-11-19T14:45:01+00:00"
     },
     {
       "source": "clubic",
@@ -970,12 +1006,6 @@
       "publishedAt": "2026-11-19T09:22:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Malgré les pépins, les Rockets gardent leur orbite",
-      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
-      "publishedAt": "2026-11-19T09:21:10+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
@@ -1142,6 +1172,12 @@
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
       "publishedAt": "2026-11-19T08:24:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T08:21:10+00:00"
     },
     {
       "source": "gnt",
@@ -3800,36 +3836,6 @@
       "title": "Renault : deux embauches pour un départ, l'électrique rebat les cartes des usines françaises",
       "url": "https://www.mac4ever.com/auto/199083-renault-deux-embauches-pour-un-depart-l-electrique-rebat-les-cartes-des-usines-francaises",
       "publishedAt": "2026-11-17T15:03:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Tapez « Robert Pattinson » dans Google",
-      "url": "https://www.numerama.com/pop-culture/2376779-tapez-robert-pattinson-dans-google.html",
-      "publishedAt": "2026-11-17T15:00:57+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "La Chine laisse tout le monde sur le carreau : son avion 100 % électrique réalise un vol historique",
-      "url": "https://www.presse-citron.net/la-chine-laisse-tout-le-monde-sur-le-carreau-son-avion-100-electrique-realise-un-vol-historique/",
-      "publishedAt": "2026-11-17T15:00:40+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Promo : le Mac mini M6 à 939 €, des réductions aussi sur les versions 512 Go et M5 Pro",
-      "url": "https://www.macg.co/mac/2026/11/promo-le-mac-mini-m6-939-eu-des-reductions-aussi-sur-les-versions-512-go-et-m5-pro-312467",
-      "publishedAt": "2026-11-17T14:55:16+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Heure pleine/creuse : les horaires ont changé, 15 millions de foyers sont concernés",
-      "url": "https://www.presse-citron.net/heure-pleine-creuse-les-horaires-ont-change-15-millions-de-foyers-sont-concernes/",
-      "publishedAt": "2026-11-17T14:52:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Nique Clifford assume son échec à Sacramento",
-      "url": "https://www.basketusa.com/news/958107/nique-clifford-assume-son-echec-a-sacramento/",
-      "publishedAt": "2026-11-17T14:50:53+00:00"
     },
     {
       "source": "boulet",
