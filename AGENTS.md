@@ -10,6 +10,7 @@
 ## Architecture
 
 - Site statique HTML/CSS/JavaScript sans framework ni étape de compilation.
+- Cible navigateur : Safari sur Mac, iPhone et iPad. Vérifier les changements d’interface sous WebKit.
 - `index.html`, `style.css`, `app.js` : interface et rechargement des données publiées.
 - `sources.json` : sources d’actualités ; `mangas.json` : sélection MangaKatana.
 - `scripts/collect.py` et `scripts/mangas.py` : collecte Python standard, sans paquet externe.

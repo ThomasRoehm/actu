@@ -1,24 +1,19 @@
-// Tests navigateur optionnels : nécessitent Playwright, sans dépendance pour le site.
-const { chromium, webkit } = require("playwright");
+// Tests WebKit optionnels avec Playwright, sans dépendance pour le site.
+const { webkit } = require("playwright");
 const fs = require("fs"),
   path = require("path"),
   assert = require("assert/strict");
 const root = path.resolve(__dirname, "..");
 (async () => {
-  for (const engine of ["chromium", "webkit"]) {
-    const b = await (engine === "webkit"
-      ? webkit.launch({
-          executablePath: process.env.ACTU_WEBKIT_EXECUTABLE,
-          headless: true,
-        })
-      : chromium.launch({
-          executablePath: process.env.ACTU_CHROMIUM_EXECUTABLE,
-          headless: true,
-          args: ["--no-sandbox"],
-        }));
+  const b = await webkit.launch({
+    executablePath: process.env.ACTU_WEBKIT_EXECUTABLE,
+    headless: true,
+  });
+  try {
     const p = await b.newPage({ viewport: { width: 390, height: 844 } });
     const errors = [];
     p.on("pageerror", (e) => errors.push(e.message));
+    let newsRequests = 0, mangaRequests = 0;
     let failNews = false,
       failMangas = false;
     let data = {
@@ -47,10 +42,12 @@ const root = path.resolve(__dirname, "..");
       let u = new URL(r.request().url()),
         f = path.join(root, u.pathname === "/" ? "index.html" : u.pathname);
       if (u.pathname === "/data/articles.json") {
+        newsRequests++;
         if (failNews) return r.abort();
         return r.fulfill({ json: data });
       }
       if (u.pathname === "/data/mangas.json") {
+        mangaRequests++;
         if (failMangas) return r.abort();
         return r.fulfill({
           json: {
@@ -89,6 +86,12 @@ const root = path.resolve(__dirname, "..");
     });
     await p.goto("http://actu.test/");
     await p.waitForFunction(() => state.data && state.mangas);
+    const nextNewsRequest = newsRequests + 1;
+    const nextMangaRequest = mangaRequests + 1;
+    await p.evaluate(() => dispatchEvent(new PageTransitionEvent("pageshow", { persisted: true })));
+    await p.waitForFunction(() => !state.loading && !state.mangaLoading);
+    assert.equal(newsRequests, nextNewsRequest);
+    assert.equal(mangaRequests, nextMangaRequest);
     failNews = true;
     await p.evaluate(() => load());
     assert.match(
@@ -247,6 +250,10 @@ const root = path.resolve(__dirname, "..");
       /1 article/,
     );
     await p.keyboard.press("Escape");
+    await p.waitForFunction(() => document.activeElement.id === "show-sources");
+    await p.locator("#show-sources").click();
+    await p.mouse.click(1, 1);
+    await p.waitForFunction(() => !document.querySelector("dialog").open && document.activeElement.id === "show-sources");
     await pageClock(boundary + 3000);
     await p.evaluate(() => render());
     assert.equal(
@@ -281,9 +288,9 @@ const root = path.resolve(__dirname, "..");
 
     assert.deepEqual(errors, []);
     console.log(
-      engine,
-      "partial failures, recovery, inserted/removed article, focus, scroll and manga fallback: OK",
+      "WebKit: history restore, partial failures, recovery, dialog, focus, scroll and manga fallback: OK",
     );
+  } finally {
     await b.close();
   }
 })();

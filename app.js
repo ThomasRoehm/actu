@@ -121,7 +121,8 @@ function articleLink(entry, sources, previous) {
   const article = manga || entry.article;
   const source = manga ? (mangaSources.get(manga.source) || mangaSources.get('mangakatana')) : sources.get(article.source);
   const key = safeUrl(manga ? article.pageUrl || article.url : article.url);
-  const signature = JSON.stringify([article, source.id, source.name, source.icon, mangaDate(manga || {})]);
+  const displayed = entry.displayed;
+  const signature = JSON.stringify([article, source.id, source.name, source.icon, displayed]);
   const existing = previous.get(key);
   if (existing && rowSignatures.get(existing) === signature) return existing;
   const link = element('a', manga ? 'article manga-article' : 'article');
@@ -133,7 +134,6 @@ function articleLink(entry, sources, previous) {
   link.target = '_blank';
   link.rel = 'noopener noreferrer';
   const label = destination.name + (manga && !manga.ok ? ' · à vérifier' : '');
-  const displayed = manga ? mangaDate(manga) : null;
   const time = element(manga ? 'span' : 'time', 'article-time', manga ? (displayed ? `${displayed.observed ? 'Repéré le ' : ''}${displayed.date.toLocaleDateString('fr-FR')}` : 'Date inconnue') : clockFormat.format(entry.date));
   if (!manga) time.dateTime = article.publishedAt;
   if (displayed?.observed) time.title = `Date annoncée par ${source.name} : ${manga.publishedDate}. Chapitre déjà disponible lors de la collecte.`;
@@ -151,12 +151,11 @@ async function fetchData(path) {
   return response.json();
 }
 
-// Les dates de mangas ne comportent pas d’heure : elles restent au jour local.
-function feedEntries(articles, mangas) {
-  return [
-    ...articles.map((article) => ({ article, date: new Date(article.publishedAt) })),
-    ...mangas.map((manga) => ({ manga, date: mangaDate(manga)?.date || null })),
-  ].sort((first, second) => (second.date?.getTime() ?? -Infinity) - (first.date?.getTime() ?? -Infinity));
+// Les articles sont déjà triés. Seuls les mangas doivent être intercalés.
+function feedEntries(articles, mangaEntries) {
+  const entries = articles.map((article) => ({ article, date: new Date(article.publishedAt) }));
+  if (!mangaEntries.length) return entries;
+  return entries.concat(mangaEntries).sort((first, second) => (second.date?.getTime() ?? -Infinity) - (first.date?.getTime() ?? -Infinity));
 }
 
 async function loadMangas() {
@@ -181,10 +180,20 @@ function readingPosition() {
   const focused = document.activeElement?.closest('#feed .article');
   const visible = [];
   if (scrollY > 0) {
-    for (const row of byId('feed').querySelectorAll('.article')) {
+    const rows = byId('feed').querySelectorAll('.article');
+    // Les lignes se succèdent verticalement : chercher la première visible.
+    let start = 0;
+    let end = rows.length;
+    while (start < end) {
+      const middle = Math.floor((start + end) / 2);
+      if (rows[middle].getBoundingClientRect().bottom <= 0) start = middle + 1;
+      else end = middle;
+    }
+    for (let index = start; index < rows.length; index++) {
+      const row = rows[index];
       const box = row.getBoundingClientRect();
       if (box.top >= innerHeight) break;
-      if (box.bottom > 0) visible.push({ key: row.dataset.key, top: box.top });
+      visible.push({ key: row.dataset.key, top: box.top });
     }
   }
   return { visible, top: scrollY, focus: focused?.dataset.key };
@@ -230,12 +239,15 @@ function viewModel(now) {
     groups[group].push(article);
     if (new Date(article.publishedAt).toLocaleDateString('fr-FR') === today) counts[group]++;
   }
-  for (const manga of state.mangas || []) {
+  const mangaEntries = (state.mangas || []).map(manga => {
     const observed = Date.parse(manga.firstSeenAt || manga.lastSuccessAt);
     if (observed > now) until = Math.min(until, observed);
-    if (mangaDate(manga)?.date.toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD++;
-  }
-  return cachedView = { version, revision: (cachedView?.revision || 0) + 1, time: now, until, sources, articles, today, counts, groups };
+    const displayed = mangaDate(manga);
+    const date = displayed?.date || null;
+    if (date?.toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD++;
+    return { manga, date, displayed };
+  });
+  return cachedView = { version, revision: (cachedView?.revision || 0) + 1, time: now, until, sources, articles, today, counts, groups, mangaEntries };
 }
 
 function render(preservePosition = true) {
@@ -248,7 +260,7 @@ function render(preservePosition = true) {
       return;
     }
     const now = Date.now();
-    const { sources, articles, today, counts, groups, revision } = viewModel(now);
+    const { sources, articles, today, counts, groups, mangaEntries, revision } = viewModel(now);
     tabs.forEach((button) => {
       const group = button.dataset.group;
       button.querySelector('.tab-count').textContent = counts[group];
@@ -265,11 +277,10 @@ function render(preservePosition = true) {
     byId('notice').hidden = !state.newsError && !failed && !stale;
     byId('notice').textContent = [state.newsError ? 'Actualisation des actualités impossible. Les dernières données connues restent affichées ; réessai automatique.' : '', stale ? 'La collecte a du retard. Les actualités de plus de 48 heures sont masquées, sauf les dernières publications BD.' : '', failed ? `${failed} source${failed > 1 ? 's' : ''} temporairement indisponible${failed > 1 ? 's' : ''}. Détails dans « Sources » ; les articles sont conservés pendant 48 heures, sans expiration pour la dernière publication BD.` : ''].filter(Boolean).join(' ');
     renderSources(state.data.sources, articles, revision);
-    const mangas = state.group === 'BD' ? state.mangas || [] : [];
     const feedKey = `${revision}:${state.group}`;
     if (renderCache.feed === feedKey) return;
     renderCache.feed = feedKey;
-    const entries = feedEntries(filtered, mangas);
+    const entries = feedEntries(filtered, state.group === 'BD' ? mangaEntries : []);
     const feed = byId('feed');
     const previous = new Map([...feed.querySelectorAll('.article')].map(row => [row.dataset.key, row]));
     const fragment = document.createDocumentFragment();
@@ -337,7 +348,12 @@ tabs.forEach((button) => button.addEventListener('click', () => {
   tabs.forEach((tab) => { const active = tab === button; tab.classList.toggle('active', active); tab.setAttribute('aria-pressed', String(active)); });
   render(false);
 }));
-byId('show-sources').addEventListener('click', () => { byId('sources-dialog').showModal(); render(); });
+byId('show-sources').addEventListener('click', ({ currentTarget }) => {
+  // Safari ne donne pas forcément le focus au bouton lors d’un clic.
+  currentTarget.focus({ preventScroll: true });
+  byId('sources-dialog').showModal();
+  render();
+});
 byId('close-sources').addEventListener('click', () => byId('sources-dialog').close());
 // Safari antérieur à closedby : seul un geste commencé ET terminé dehors ferme.
 if (!('closedBy' in HTMLDialogElement.prototype)) {
@@ -354,8 +370,14 @@ if (!('closedBy' in HTMLDialogElement.prototype)) {
   });
   dialog.addEventListener('pointercancel', () => { pressedOutside = false; });
 }
-document.addEventListener('visibilitychange', () => { if (!document.hidden) { load(); loadMangas(); } });
+function refreshData() {
+  load();
+  loadMangas();
+}
+
+document.addEventListener('visibilitychange', () => { if (!document.hidden) refreshData(); });
+// Un retour par l’historique peut restaurer la page depuis le cache de Safari.
+window.addEventListener('pageshow', (event) => { if (event.persisted && !document.hidden) refreshData(); });
 setInterval(() => { if (!document.hidden) render(); }, 60000);
-setInterval(() => { if (!document.hidden) { load(); loadMangas(); } }, 300000);
-load();
-loadMangas();
+setInterval(() => { if (!document.hidden) refreshData(); }, 300000);
+refreshData();
