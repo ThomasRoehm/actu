@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:10:40.434854+00:00",
+  "generatedAt": "2026-11-19T10:20:41.862803+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     },
     {
       "id": "boulet",
@@ -131,14 +131,50 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T10:10:40.434854+00:00"
+      "lastSuccessAt": "2026-11-19T10:20:41.862803+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "Google ajoute un mode privé à sa recherche IA : voici ce qu’il garde pendant 24 heures",
+      "url": "https://www.clubic.com/actualite-640009-une-question-trop-personnelle-pour-votre-historique-le-mode-ia-de-google-a-desormais-son-propre-mode-prive.html",
+      "publishedAt": "2026-11-19T10:18:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "GTA 6 est là : Amazon casse les prix des jeux et accessoires PS5 avant le Black Friday, jusqu’à -50%",
+      "url": "https://www.clubic.com/bons-plans-639805-toujours-pas-de-ps5-avant-la-sortie-de-gta-vi-demain-elle-est-de-nouveau-chez-amazon-a-649-99.html",
+      "publishedAt": "2026-11-19T10:17:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : CyberGhost, le VPN N°1 chez Clubic, passe sous les 2 € par mois avec 83 % de réduction !",
+      "url": "https://www.clubic.com/actualite-640024-black-friday-cyberghost-le-vpn-n-1-chez-clubic-passe-sous-les-2-par-mois-avec-83-de-reduction.html",
+      "publishedAt": "2026-11-19T10:16:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Comment acheter une voiture dans GTA 6 ? Rockstar a changé les règles",
+      "url": "https://www.journaldugeek.com/2026/11/19/comment-acheter-une-voiture-dans-gta-6/",
+      "publishedAt": "2026-11-19T10:12:52+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "L’entrée en Bourse d’Anthropic (Claude) pourrait faire des milliers de millionnaires, et les gagnants ne sont pas forcément ceux qu’on croit",
+      "url": "https://www.numerama.com/tech/2378523-lentree-en-bourse-danthropic-claude-pourrait-faire-des-milliers-de-millionnaires-et-les-gagnants-ne-sont-pas-forcement-ceux-quon-croit.html",
+      "publishedAt": "2026-11-19T10:12:00+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "Orange veut remplacer le premier téléphone de vos enfants par une montre à 68 euros",
       "url": "https://www.clubic.com/actualite-640021-orange-veut-remplacer-le-premier-telephone-de-vos-enfants-par-une-montre-a-68-euros.html",
+      "publishedAt": "2026-11-19T10:10:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Waymo retire ses robotaxis de toutes les autoroutes après deux incidents en Californie",
+      "url": "https://www.mac4ever.com/auto/199132-waymo-retire-ses-robotaxis-de-toutes-les-autoroutes-apres-deux-incidents-en-californie",
       "publishedAt": "2026-11-19T10:10:00+00:00"
     },
     {
@@ -2200,12 +2236,6 @@
       "publishedAt": "2026-11-18T09:12:23+00:00"
     },
     {
-      "source": "clubic",
-      "title": "GTA 6 sort demain et toujours pas de PS5 ? Amazon la propose de nouveau à 649,99€, et 6 offres gaming jusqu’à -50%",
-      "url": "https://www.clubic.com/bons-plans-639805-toujours-pas-de-ps5-avant-la-sortie-de-gta-vi-demain-elle-est-de-nouveau-chez-amazon-a-649-99.html",
-      "publishedAt": "2026-11-18T09:11:00+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Elle permet de pirater Jira sans mot de passe : c’est quoi Java4Shell, la faille qui inquiète les autorités américaines ?",
       "url": "https://www.numerama.com/cyberguerre/2377453-elle-permet-de-pirater-jira-sans-mot-de-passe-cest-quoi-java4shell-la-faille-qui-inquiete-les-autorites-americaines.html",
@@ -3764,48 +3794,6 @@
       "title": "Si vous avez boudé Marvel’s Wolverine au prix fort, Amazon fait déjà fondre son prix",
       "url": "https://www.numerama.com/pop-culture/2376217-si-vous-avez-boude-marvels-wolverine-au-prix-fort-amazon-fait-deja-fondre-son-prix.html",
       "publishedAt": "2026-11-17T10:22:36+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "L’Iran réfléchit à lancer une « bombe sale », déclare le renseignement américain",
-      "url": "https://www.presse-citron.net/liran-reflechit-a-lancer-une-bombe-sale-declare-le-renseignement-americain/",
-      "publishedAt": "2026-11-17T10:20:05+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Jensen Huang écarté de Nvidia malgré le soutien massif de Donald Trump et d'Elon Musk",
-      "url": "https://www.generation-nt.com/actualites/nvidia-jensen-huang-retour-ceo-petition-rejet-2084627",
-      "publishedAt": "2026-11-17T10:20:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Qwen4-Max : l'astuce géniale d'Alibaba pour booster son IA sans faire exploser les calculs",
-      "url": "https://www.clubic.com/actualite-639613-qwen4-max-l-astuce-geniale-d-alibaba-pour-booster-son-ia-sans-faire-exploser-les-calculs.html",
-      "publishedAt": "2026-11-17T10:17:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Starship : une vidéo au ralenti montre la capture inédite du vaisseau par SpaceX",
-      "url": "https://www.numerama.com/sciences/2376183-starship-une-video-au-ralenti-montre-la-capture-inedite-du-vaisseau-par-spacex.html",
-      "publishedAt": "2026-11-17T10:15:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Windows 11 27H2 : une première référence découverte dans les fichiers du système",
-      "url": "https://www.clubic.com/actualite-639628-windows-11-27h2-une-premiere-reference-decouverte-dans-les-fichiers-du-systeme.html",
-      "publishedAt": "2026-11-17T10:12:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Microsoft explique sa panne géante : un bug dormait depuis juillet",
-      "url": "https://www.mac4ever.com/divers/199075-microsoft-explique-sa-panne-geante-un-bug-dormait-depuis-juillet",
-      "publishedAt": "2026-11-17T10:12:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Paris-Tokyo en 3 heures : un avion hypersonique réussit un premier test à Mach 5 (5 400 km/h) !",
-      "url": "https://www.journaldugeek.com/2026/11/17/paris-tokyo-en-3-heures-un-avion-hypersonique-reussit-un-premier-test-a-mach-5-5-400-km-h/",
-      "publishedAt": "2026-11-17T10:11:01+00:00"
     },
     {
       "source": "boulet",
