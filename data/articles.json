@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:50:40.280093+00:00",
+  "generatedAt": "2026-11-19T16:01:06.553861+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
+      "lastSuccessAt": "2026-11-19T16:01:06.553861+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "Panne massive : impôts, Assurance maladie… plusieurs sites officiels inaccessibles ce jeudi",
+      "url": "https://www.clubic.com/actualite-640150-panne-massive-impots-assurance-maladie-plusieurs-sites-officiels-inaccessibles-ce-jeudi.html",
+      "publishedAt": "2026-11-19T16:00:00+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-19T15:47:00+00:00"
+      "publishedAt": "2026-11-19T15:55:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Marre des miles dans GTA 6 ? On peut changer les unités de mesure",
+      "url": "https://www.numerama.com/pop-culture/2379115-marre-des-miles-dans-gta-6-on-peut-changer-les-unites-de-mesure.html",
+      "publishedAt": "2026-11-19T15:53:45+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "La Commission européenne victime d'une cyberattaque",
+      "url": "https://www.clubic.com/actualite-640126-la-commission-europeenne-victime-d-une-cyberattaque.html",
+      "publishedAt": "2026-11-19T15:51:00+00:00"
     },
     {
       "source": "iphon",
@@ -160,6 +178,12 @@
       "publishedAt": "2026-11-19T15:43:00+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Mauvaise nouvelle pour Microsoft To Do",
+      "url": "https://www.generation-nt.com/actualites/microsoft-to-do-fin-planner-wunderlist-2084837",
+      "publishedAt": "2026-11-19T15:41:46+00:00"
+    },
+    {
       "source": "presse",
       "title": "Retraites : la pension de 14 millions de Français vient d’être augmentée, voici de combien",
       "url": "https://www.presse-citron.net/retraites-la-pension-de-14-millions-de-francais-vient-detre-augmentee-voici-de-combien/",
@@ -176,6 +200,12 @@
       "title": "Black Friday : le Magic Trackpad dès 98 €, un tarif inédit",
       "url": "https://www.macg.co/materiel/2026/11/black-friday-le-magic-trackpad-des-98-eu-un-tarif-inedit-312521",
       "publishedAt": "2026-11-19T15:34:44+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dans la grisaille des Pelicans, Jordan Poole retrouve des minutes mais pas encore le sourire",
+      "url": "https://www.basketusa.com/news/958952/dans-la-grisaille-des-pelicans-jordan-poole-retrouve-des-minutes-mais-pas-encore-le-sourire/",
+      "publishedAt": "2026-11-19T15:32:03+00:00"
     },
     {
       "source": "numerama",
@@ -334,12 +364,6 @@
       "publishedAt": "2026-11-19T14:33:47+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Dans la grisaille des Pelicans, Jordan Poole retrouve des minutes mais pas encore le sourire",
-      "url": "https://www.basketusa.com/news/958952/dans-la-grisaille-des-pelicans-jordan-poole-retrouve-des-minutes-mais-pas-encore-le-sourire/",
-      "publishedAt": "2026-11-19T14:32:03+00:00"
-    },
-    {
       "source": "numerama",
       "title": "GTA 6 : la carte interactive ultime pour découvrir les secrets de Leonida",
       "url": "https://www.numerama.com/pop-culture/2378989-gta-6-la-carte-interactive-ultime-pour-decouvrir-les-secrets-de-leonida.html",
@@ -473,9 +497,15 @@
     },
     {
       "source": "basketusa",
-      "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T13:23:37+00:00"
+      "title": "Des débuts sans cesse repoussés pour Thomas Sorber…",
+      "url": "https://www.basketusa.com/news/958737/des-debuts-sans-cesse-repousses-pour-thomas-sorber/",
+      "publishedAt": "2026-11-19T13:27:42+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:25:01+00:00"
     },
     {
       "source": "basketusa",
@@ -580,12 +610,6 @@
       "publishedAt": "2026-11-19T12:30:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Des débuts sans cesse repoussés pour Thomas Sorber…",
-      "url": "https://www.basketusa.com/news/958737/des-debuts-sans-cesse-repousses-pour-thomas-sorber/",
-      "publishedAt": "2026-11-19T12:27:42+00:00"
-    },
-    {
       "source": "presse",
       "title": "Quels sont les pays les plus obsédés par GTA VI ? Un classement situe la France en deuxième position",
       "url": "https://www.presse-citron.net/obsedes-gta-vi-classement-france-deuxieme/",
@@ -599,9 +623,9 @@
     },
     {
       "source": "basketusa",
-      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T12:25:01+00:00"
+      "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T12:23:37+00:00"
     },
     {
       "source": "iphon",
@@ -710,6 +734,12 @@
       "title": "Zoom, HSBC, Ikea, Air France… 178 grands sites ont été victimes d’un malware, et les clients sont les premiers touchés",
       "url": "https://www.journaldugeek.com/2026/11/19/zoom-hsbc-ikea-air-france-178-grands-sites-ont-ete-victimes-dun-malware-et-les-clients-sont-les-premiers-touches/",
       "publishedAt": "2026-11-19T11:30:29+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Josh Hart en pleine bataille avec lui-même",
+      "url": "https://www.basketusa.com/news/958668/josh-hart-en-pleine-bataille-avec-lui-meme/",
+      "publishedAt": "2026-11-19T11:30:21+00:00"
     },
     {
       "source": "mac4ever",
@@ -872,12 +902,6 @@
       "title": "Warren Spector félicite Rockstar, mais espère que GTA 6 sera le dernier de son genre",
       "url": "https://www.presse-citron.net/warren-spector-felicite-rockstar-mais-espere-que-gta-6-sera-le-dernier-de-son-genre/",
       "publishedAt": "2026-11-19T10:30:43+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Josh Hart en pleine bataille avec lui-même",
-      "url": "https://www.basketusa.com/news/958668/josh-hart-en-pleine-bataille-avec-lui-meme/",
-      "publishedAt": "2026-11-19T10:30:21+00:00"
     },
     {
       "source": "clubic",
@@ -3812,24 +3836,6 @@
       "title": "C’est quoi la «sérialisation» cette méthode utilisée par Apple qui pourrait lui coûter des millions d’euros ?",
       "url": "https://www.journaldugeek.com/2026/11/17/serialisation-methode-apple-couter-millions-euros/",
       "publishedAt": "2026-11-17T16:01:11+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un monde sous-marin 3D tient dans 96 Ko grâce à Fable 5.2",
-      "url": "https://www.generation-nt.com/actualites/fable-cree-ocean-3d-navigateur-2084564",
-      "publishedAt": "2026-11-17T16:00:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Amazon Prime se partage désormais à deux en France, et sans payer un euro de plus",
-      "url": "https://www.clubic.com/actualite-639685-amazon-prime-se-partage-desormais-a-deux-en-france-et-sans-payer-un-euro-de-plus.html",
-      "publishedAt": "2026-11-17T15:56:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Cybercab : Tesla investit 3 milliards à Berlin pour un robotaxi encore interdit en Europe",
-      "url": "https://www.mac4ever.com/auto/199084-cybercab-tesla-investit-3-milliards-a-berlin-pour-un-robotaxi-encore-interdit-en-europe",
-      "publishedAt": "2026-11-17T15:54:00+00:00"
     },
     {
       "source": "boulet",
