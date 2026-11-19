@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:50:35.754102+00:00",
+  "generatedAt": "2026-11-19T00:01:05.759499+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-18T23:50:35.754102+00:00"
+      "lastSuccessAt": "2026-11-19T00:01:05.759499+00:00"
     }
   ],
   "articles": [
@@ -616,6 +616,12 @@
       "publishedAt": "2026-11-18T15:04:50+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
+      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
+      "publishedAt": "2026-11-18T15:04:05+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Test MSI Prestige N16 Flip AI+ : quand la promesse de l’IA locale prime... sur beaucoup d’autres",
       "url": "https://www.clubic.com/test-produit-636919-test-msi-prestige-n16-flip-ai.html",
@@ -772,12 +778,6 @@
       "publishedAt": "2026-11-18T14:07:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "JJ Redick veut des explications sur une étonnante règle NBA",
-      "url": "https://www.basketusa.com/news/958670/jj-redick-veut-des-explications-sur-une-etonnante-regle-nba/",
-      "publishedAt": "2026-11-18T14:04:05+00:00"
-    },
-    {
       "source": "presse",
       "title": "La psychologie est formelle : les personnes qui rangent leur vaisselle le soir avant de dormir ne le font pas pour avoir un logement propre le lendemain",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-rangent-leur-vaisselle-le-soir-avant-de-dormir-ne-le-font-pas-pour-avoir-un-logement-propre-le-lendemain/",
@@ -794,6 +794,12 @@
       "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-18T13:46:34+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:44:28+00:00"
     },
     {
       "source": "numerama",
@@ -962,12 +968,6 @@
       "title": "James Bond : c’est sûrement la fin de l’humour pour 007",
       "url": "https://www.numerama.com/pop-culture/2377783-james-bond-cest-surement-la-fin-de-lhumour-pour-007.html",
       "publishedAt": "2026-11-18T12:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:44:28+00:00"
     },
     {
       "source": "korben",
@@ -1276,6 +1276,12 @@
       "publishedAt": "2026-11-18T10:30:31+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "GTA VI se prépare aussi à prendre d’assaut la NBA",
+      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
+      "publishedAt": "2026-11-18T10:30:26+00:00"
+    },
+    {
       "source": "numerama",
       "title": "La sonde Voyager 1 est à 25,9 milliards de km de la Terre : à quoi cette distance correspond-elle vraiment ?",
       "url": "https://www.numerama.com/sciences/2376733-la-sonde-voyager-1-est-a-259-milliards-de-km-de-la-terre-a-quoi-cette-distance-correspond-elle-vraiment.html",
@@ -1496,12 +1502,6 @@
       "title": "Cyberattaque : près de 180 sites visés, dont Air France, IKEA, ZOOM et la BBC",
       "url": "https://www.mac4ever.com/securite/199098-cyberattaque-pres-de-180-sites-vises-dont-air-france-ikea-zoom-et-la-bbc",
       "publishedAt": "2026-11-18T09:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "GTA VI se prépare aussi à prendre d’assaut la NBA",
-      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
-      "publishedAt": "2026-11-18T09:30:26+00:00"
     },
     {
       "source": "presse",
