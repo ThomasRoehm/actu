@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:40:39.579857+00:00",
+  "generatedAt": "2026-11-19T05:50:39.096580+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T05:40:39.579857+00:00"
+      "lastSuccessAt": "2026-11-19T05:50:39.096580+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "La CNIL inflige 5 millions d’euros d’amende à la Macif",
+      "url": "https://www.clubic.com/actualite-639955-la-cnil-inflige-5-millions-d-euros-d-amende-a-macif-vie.html",
+      "publishedAt": "2026-11-19T05:45:00+00:00"
+    },
     {
       "source": "gnt",
       "title": "La Macif écope de 5 millions d'euros d'amende pour des mots de passe stockés en clair",
@@ -143,7 +149,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Avec un grand Cooper Flagg, les Mavericks enfoncent les Warriors",
+      "title": "Avec un grand Cooper Flagg, les Mavs enfoncent les Warriors",
       "url": "https://www.basketusa.com/news/958748/avec-un-grand-cooper-flagg-les-mavericks-enfoncent-les-warriors/",
       "publishedAt": "2026-11-19T05:23:41+00:00"
     },
@@ -832,6 +838,12 @@
       "publishedAt": "2026-11-18T13:43:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-18T13:42:31+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Des algorithmes de droits d'auteur censurent une artiste au profit de vidéos générées par IA",
       "url": "https://www.generation-nt.com/actualites/algorithmes-censure-artiste-videos-ia-2084669",
@@ -992,12 +1004,6 @@
       "title": "Puces d'IA, Washington coupe l'accès à distance de la Chine",
       "url": "https://korben.info/puces-dia-washington-coupe-lacces-a-distance-de-la-chine.html",
       "publishedAt": "2026-11-18T12:43:07+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:42:31+00:00"
     },
     {
       "source": "numerama",
@@ -3716,18 +3722,6 @@
       "title": "À Boston, le collectif du Magic se paye les Celtics !",
       "url": "https://www.basketusa.com/news/958014/a-boston-le-collectif-du-magic-soffre-les-celtics/",
       "publishedAt": "2026-11-17T05:57:39+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "L'institut de sondages Ipsos confirme une intrusion dans son système informatique",
-      "url": "https://www.clubic.com/actualite-639574-ipsos-confirme-une-intrusion-dans-son-systeme-informatique.html",
-      "publishedAt": "2026-11-17T05:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Pelicans se vengent méchamment des Warriors",
-      "url": "https://www.basketusa.com/news/958141/les-pelicans-se-vengent-mechamment-des-warriors/",
-      "publishedAt": "2026-11-17T05:44:57+00:00"
     },
     {
       "source": "boulet",
