@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:40:44.631176+00:00",
+  "generatedAt": "2026-11-19T15:50:40.280093+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:40:44.631176+00:00"
+      "lastSuccessAt": "2026-11-19T15:50:40.280093+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-19T15:47:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iOS 27.3 : 3 nouveautés discrètes, mais pourtant très utiles",
+      "url": "https://www.iphon.fr/post/ios-27-3-nouveautes-discretes-utiles",
+      "publishedAt": "2026-11-19T15:45:19+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Tesla n’est plus la seule lanterne rouge du contrôle technique allemand, une électrique chinoise l’y rejoint",
+      "url": "https://www.numerama.com/vroom/2379075-tesla-nest-plus-la-seule-lanterne-rouge-du-controle-technique-allemand-une-electrique-chinoise-ly-rejoint.html",
+      "publishedAt": "2026-11-19T15:45:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Apple Music Radio dépasse les 50 millions d'auditeurs par mois, selon Zane Lowe",
+      "url": "https://www.mac4ever.com/audio/199143-apple-music-radio-depasse-les-50-millions-d-auditeurs-par-mois-selon-zane-lowe",
+      "publishedAt": "2026-11-19T15:43:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Retraites : la pension de 14 millions de Français vient d’être augmentée, voici de combien",
+      "url": "https://www.presse-citron.net/retraites-la-pension-de-14-millions-de-francais-vient-detre-augmentee-voici-de-combien/",
+      "publishedAt": "2026-11-19T15:38:55+00:00"
+    },
     {
       "source": "numerama",
       "title": "Où trouver la maison de GTA San Andreas dans GTA 6 ?",
@@ -238,12 +268,6 @@
       "publishedAt": "2026-11-19T15:00:01+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-19T14:58:00+00:00"
-    },
-    {
       "source": "presse",
       "title": "Bye bye le Portugal : cette grande ville française réputée la moins chère attire les retraités",
       "url": "https://www.presse-citron.net/bye-bye-le-portugal-cette-grande-ville-francaise-reputee-la-moins-chere-attire-les-retraites/",
@@ -308,6 +332,12 @@
       "title": "Si votre mot de passe est dans cette liste, changez-le tout de suite !",
       "url": "https://www.journaldugeek.com/2026/11/19/si-votre-mot-de-passe-est-dans-cette-liste-changez-le-tout-de-suite/",
       "publishedAt": "2026-11-19T14:33:47+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dans la grisaille des Pelicans, Jordan Poole retrouve des minutes mais pas encore le sourire",
+      "url": "https://www.basketusa.com/news/958952/dans-la-grisaille-des-pelicans-jordan-poole-retrouve-des-minutes-mais-pas-encore-le-sourire/",
+      "publishedAt": "2026-11-19T14:32:03+00:00"
     },
     {
       "source": "numerama",
@@ -443,18 +473,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Des débuts sans cesse repoussés pour Thomas Sorber…",
-      "url": "https://www.basketusa.com/news/958737/des-debuts-sans-cesse-repousses-pour-thomas-sorber/",
-      "publishedAt": "2026-11-19T13:27:42+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T13:25:01+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-19T13:23:37+00:00"
@@ -562,6 +580,12 @@
       "publishedAt": "2026-11-19T12:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Des débuts sans cesse repoussés pour Thomas Sorber…",
+      "url": "https://www.basketusa.com/news/958737/des-debuts-sans-cesse-repousses-pour-thomas-sorber/",
+      "publishedAt": "2026-11-19T12:27:42+00:00"
+    },
+    {
       "source": "presse",
       "title": "Quels sont les pays les plus obsédés par GTA VI ? Un classement situe la France en deuxième position",
       "url": "https://www.presse-citron.net/obsedes-gta-vi-classement-france-deuxieme/",
@@ -572,6 +596,12 @@
       "title": "Black Friday : quel smartphone choisir chez Amazon ? Notre tri de 6 offres, dès 113€",
       "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
       "publishedAt": "2026-11-19T12:26:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T12:25:01+00:00"
     },
     {
       "source": "iphon",
@@ -601,7 +631,7 @@
       "source": "macg",
       "title": "Email : Apple va-t-elle enfin sortir JMAP de l’ombre ?",
       "url": "https://www.macg.co/logiciels/2026/11/email-apple-va-t-elle-enfin-sortir-jmap-de-lombre-312513",
-      "publishedAt": "2026-11-19T12:14:02+00:00"
+      "publishedAt": "2026-11-19T12:14:00+00:00"
     },
     {
       "source": "basketusa",
@@ -680,12 +710,6 @@
       "title": "Zoom, HSBC, Ikea, Air France… 178 grands sites ont été victimes d’un malware, et les clients sont les premiers touchés",
       "url": "https://www.journaldugeek.com/2026/11/19/zoom-hsbc-ikea-air-france-178-grands-sites-ont-ete-victimes-dun-malware-et-les-clients-sont-les-premiers-touches/",
       "publishedAt": "2026-11-19T11:30:29+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Josh Hart en pleine bataille avec lui-même",
-      "url": "https://www.basketusa.com/news/958668/josh-hart-en-pleine-bataille-avec-lui-meme/",
-      "publishedAt": "2026-11-19T11:30:21+00:00"
     },
     {
       "source": "mac4ever",
@@ -848,6 +872,12 @@
       "title": "Warren Spector félicite Rockstar, mais espère que GTA 6 sera le dernier de son genre",
       "url": "https://www.presse-citron.net/warren-spector-felicite-rockstar-mais-espere-que-gta-6-sera-le-dernier-de-son-genre/",
       "publishedAt": "2026-11-19T10:30:43+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Josh Hart en pleine bataille avec lui-même",
+      "url": "https://www.basketusa.com/news/958668/josh-hart-en-pleine-bataille-avec-lui-meme/",
+      "publishedAt": "2026-11-19T10:30:21+00:00"
     },
     {
       "source": "clubic",
@@ -1168,6 +1198,12 @@
       "publishedAt": "2026-11-19T09:00:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Anthony Davis soufflé par le talent d’AJ Dybantsa",
+      "url": "https://www.basketusa.com/news/958849/anthony-davis-souffle-par-le-talent-daj-dybantsa/",
+      "publishedAt": "2026-11-19T08:58:51+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Une nouvelle IA française (qui n’est pas de Mistral) arrive : voici ce qu’il faut savoir sur Olala mini 7A1B d’OVHcloud",
       "url": "https://www.journaldugeek.com/2026/11/19/une-nouvelle-ia-francaise-qui-nest-pas-de-mistral-arrive-voici-ce-quil-faut-savoir-sur-olala-mini-7a1b-dovhcloud/",
@@ -1322,12 +1358,6 @@
       "title": "iPhone 20 Pro : Apple préparerait le retour du titane pour son modèle anniversaire",
       "url": "https://www.clubic.com/actualite-639952-iphone-20-pro-apple-preparerait-le-retour-du-titane-pour-son-modele-anniversaire.html",
       "publishedAt": "2026-11-19T07:59:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Anthony Davis soufflé par le talent d’AJ Dybantsa",
-      "url": "https://www.basketusa.com/news/958849/anthony-davis-souffle-par-le-talent-daj-dybantsa/",
-      "publishedAt": "2026-11-19T07:58:51+00:00"
     },
     {
       "source": "mac4ever",
@@ -3800,48 +3830,6 @@
       "title": "Cybercab : Tesla investit 3 milliards à Berlin pour un robotaxi encore interdit en Europe",
       "url": "https://www.mac4ever.com/auto/199084-cybercab-tesla-investit-3-milliards-a-berlin-pour-un-robotaxi-encore-interdit-en-europe",
       "publishedAt": "2026-11-17T15:54:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Project Zero de Google durcit les délais de divulgation",
-      "url": "https://www.generation-nt.com/actualites/project-zero-google-delai-divulgation-vulnerabilites-grace-2084620",
-      "publishedAt": "2026-11-17T15:50:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Black Friday : moins de 700 € pour un vélo électrique pensé pour la ville",
-      "url": "https://www.numerama.com/vroom/2376725-black-friday-moins-de-700-e-pour-un-velo-electrique-pense-pour-la-ville.html",
-      "publishedAt": "2026-11-17T15:49:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone Duo : le cap des 200 000 applications optimisées vient d’être franchi",
-      "url": "https://www.iphon.fr/post/iphone-duo-cap-200-000-applications-optimisees-franchi",
-      "publishedAt": "2026-11-17T15:47:12+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Test Acer Googlebook 14 : Google veut concurrencer Windows avec Android, mais le compte n'y est pas",
-      "url": "https://www.clubic.com/test-produit-636922-test-acer-googlebook-14-google-veut-concurrencer-windows-avec-android-mais-le-compte-n-y-est-pas.html",
-      "publishedAt": "2026-11-17T15:46:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Le Problème à trois corps : enfin une date pour la saison 2 sur Netflix !",
-      "url": "https://www.journaldugeek.com/2026/11/17/le-probleme-a-trois-corps-enfin-une-date-pour-la-saison-2-sur-netflix/",
-      "publishedAt": "2026-11-17T15:45:18+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Ce dessin vieux de 70 ans prouve que Robert Pattinson était fait pour le rôle de James Bond",
-      "url": "https://www.numerama.com/pop-culture/2376881-ce-dessin-vieux-de-70-ans-prouve-que-robert-pattinson-etait-fait-pour-le-role-de-james-bond.html",
-      "publishedAt": "2026-11-17T15:45:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "OpenAI au tribunal pour des IA incontrôlables",
-      "url": "https://korben.info/openai-au-tribunal-pour-des-ia-incontrolables.html",
-      "publishedAt": "2026-11-17T15:44:12+00:00"
     },
     {
       "source": "boulet",
