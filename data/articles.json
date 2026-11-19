@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:10:39.526995+00:00",
+  "generatedAt": "2026-11-19T15:20:42.879315+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T15:10:39.526995+00:00"
+      "lastSuccessAt": "2026-11-19T15:20:42.879315+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Claude entre en Bourse : l’IA, nouvelle poule aux œufs d’or ?",
+      "url": "https://www.mac4ever.com/ia/199144-claude-entre-en-bourse-l-ia-nouvelle-poule-aux-oeufs-d-or",
+      "publishedAt": "2026-11-19T15:16:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Gemini 4 Neon : le nouveau modèle IA de Google promet plus de vitesse et de puissance",
+      "url": "https://www.clubic.com/actualite-640117-gemini-4-neon-le-nouveau-modele-ia-de-google-promet-plus-de-vitesse-et-de-puissance.html",
+      "publishedAt": "2026-11-19T15:15:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Amazon : les Galaxy Buds3 Pro de Samsung passent à 119,99€",
+      "url": "https://www.clubic.com/bons-plans-640066-complements-de-choix-pour-un-smartphone-samsung-les-ecouteurs-galaxy-buds3-pro-passent-a-119-99-durant-le-black-friday-amazon.html",
+      "publishedAt": "2026-11-19T15:14:00+00:00"
+    },
     {
       "source": "jdg",
       "title": "GTA 6 : voici comment changer les commandes pour la course à pied",
@@ -1018,12 +1036,6 @@
       "publishedAt": "2026-11-19T09:22:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Malgré les pépins, les Rockets gardent leur orbite",
-      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
-      "publishedAt": "2026-11-19T09:21:10+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Comment bien réparer la maison dans GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
@@ -1190,6 +1202,12 @@
       "title": "L’iPhone Air de 256 Go voit son prix baisser de 26% chez Amazon à quelques jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639982-l-iphone-air-de-256-go-voit-son-prix-baisser-de-26-a-quelques-jours-du-black-friday.html",
       "publishedAt": "2026-11-19T08:24:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Malgré les pépins, les Rockets gardent leur orbite",
+      "url": "https://www.basketusa.com/news/958860/malgre-les-pepins-les-rockets-gardent-leur-orbite/",
+      "publishedAt": "2026-11-19T08:21:10+00:00"
     },
     {
       "source": "gnt",
@@ -3818,24 +3836,6 @@
       "title": "La gamme Kindle en promo pour le Black Friday : jusqu'à -45% !",
       "url": "https://www.mac4ever.com/ipad/199085-la-gamme-kindle-en-promo-pour-le-black-friday-jusqu-a-45",
       "publishedAt": "2026-11-17T15:21:18+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Xiaomi muscle sa petite montre connectée, et son bracelet star récupère enfin le NFC",
-      "url": "https://www.journaldugeek.com/2026/11/17/xiaomi-muscle-sa-petite-montre-connectee-et-son-bracelet-star-recupere-enfin-le-nfc-en-france/",
-      "publishedAt": "2026-11-17T15:15:36+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un prototype d'hoverboard miniature lévite au-dessus du cuivre grâce à une batterie",
-      "url": "https://www.generation-nt.com/actualites/22v-prototype-hoverboard-cuivre-batterie-2084590",
-      "publishedAt": "2026-11-17T15:15:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon DÉGAINE -35% sur le Google Pixel 11, noté 8/10 dans notre test",
-      "url": "https://www.clubic.com/bons-plans-639691-black-friday-amazon-degaine--35-sur-le-google-pixel-11-note-8-10-dans-notre-test.html",
-      "publishedAt": "2026-11-17T15:11:00+00:00"
     },
     {
       "source": "boulet",
