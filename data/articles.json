@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:20:39.770616+00:00",
+  "generatedAt": "2026-11-19T12:30:56.072643+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,57 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-19T12:20:39.770616+00:00"
+      "lastSuccessAt": "2026-11-19T12:30:56.072643+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Grand Canyon : on comprend enfin pourquoi un milliard d’années de roches manquent à l’appel",
+      "url": "https://www.numerama.com/sciences/2378479-grand-canyon-on-comprend-enfin-pourquoi-un-milliard-dannees-de-roches-manquent-a-lappel.html",
+      "publishedAt": "2026-11-19T12:30:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Appli Android mal adaptée aux pliables ? Plus de mise à jour dès 2027",
+      "url": "https://www.mac4ever.com/iphone/199138-appli-android-mal-adaptee-aux-pliables-plus-de-mise-a-jour-des-2027",
+      "publishedAt": "2026-11-19T12:30:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Quels sont les pays les plus obsédés par GTA VI ? Un classement situe la France en deuxième position",
+      "url": "https://www.presse-citron.net/obsedes-gta-vi-classement-france-deuxieme/",
+      "publishedAt": "2026-11-19T12:26:07+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : quel smartphone choisir chez Amazon ? Notre tri de 6 offres, dès 113€",
+      "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
+      "publishedAt": "2026-11-19T12:26:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Prisés par les sportifs, les casques et écouteurs Shokz font leur show au Black Friday",
+      "url": "https://www.iphon.fr/post/prises-sportifs-casques-ecouteurs-shokz-show-black-friday",
+      "publishedAt": "2026-11-19T12:23:36+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "L'iPhone 17 Pro Max chute en promo à 1179€ : son prix le plus bas, 450€ de moins que le 18 Pro Max !",
+      "url": "https://www.mac4ever.com/iphone/199140-l-iphone-17-pro-max-chute-en-promo-a-1179-son-prix-le-plus-bas-450-de-moins-que-le-18-pro-max",
+      "publishedAt": "2026-11-19T12:22:36+00:00"
+    },
     {
       "source": "clubic",
       "title": "Un mystérieux boîtier repéré sur le bureau d’un DJ dévoile le premier appareil IA de Nothing",
       "url": "https://www.clubic.com/actualite-640057-un-mysterieux-boitier-repere-sur-le-bureau-d-un-dj-devoile-le-premier-appareil-ia-de-nothing.html",
       "publishedAt": "2026-11-19T12:16:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Une alerte critique frappe encore PHP et impose une mise à jour d'urgence pour tous les serveurs",
+      "url": "https://www.generation-nt.com/actualites/php-faille-critique-vulnerabilite-mise-jour-serveur-2084822",
+      "publishedAt": "2026-11-19T12:15:01+00:00"
     },
     {
       "source": "macg",
@@ -152,6 +194,12 @@
       "title": "VJ Edgecombe a déjà le goût des moments chauds",
       "url": "https://www.basketusa.com/news/958913/vj-edgecombe-a-deja-le-gout-des-moments-chauds/",
       "publishedAt": "2026-11-19T12:12:04+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Six ans de prison fédérale pour le cerveau britannique d'une fraude crypto à 11,6 millions !",
+      "url": "https://www.generation-nt.com/actualites/prison-federale-cerveau-fraude-crypto-2084771",
+      "publishedAt": "2026-11-19T12:05:01+00:00"
     },
     {
       "source": "presse",
@@ -3800,30 +3848,6 @@
       "title": "Après des décennies d’absence, une navette spatiale pourrait faire son grand retour dès 2027",
       "url": "https://www.numerama.com/sciences/2376245-apres-des-decennies-dabsence-la-navette-spatiale-pourrait-faire-son-retour-des-lannee-prochaine.html",
       "publishedAt": "2026-11-17T12:31:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "GTA 6 : de nouvelles images du jeu dévoilées par… la chaîne météo",
-      "url": "https://www.presse-citron.net/gta-6-de-nouvelles-images-du-jeu-devoilees-par-la-chaine-meteo/",
-      "publishedAt": "2026-11-17T12:30:30+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Google Maps reçoit sa plus grande mise à jour en 10 ans : voici les nouveautés à découvrir dès maintenant",
-      "url": "https://www.journaldugeek.com/2026/11/17/google-maps-recoit-plus-grande-mise-a-jour-10-ans-voici-nouveautes-decouvrir-maintenant/",
-      "publishedAt": "2026-11-17T12:30:25+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Quand l'outil censé optimiser votre site web sur les iPhone offre vos données aux pirates",
-      "url": "https://www.generation-nt.com/actualites/optmizely-faille-piratage-vol-donnees-cryptomonnaies-2084638",
-      "publishedAt": "2026-11-17T12:25:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Notre top 5 des casques en promo au Black Friday",
-      "url": "https://www.iphon.fr/post/notre-top-5-des-casques-en-promo-au-black-friday",
-      "publishedAt": "2026-11-17T12:22:33+00:00"
     },
     {
       "source": "boulet",
