@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:40:37.707855+00:00",
+  "generatedAt": "2026-11-20T06:50:38.392099+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:40:37.707855+00:00"
+      "lastSuccessAt": "2026-11-20T06:50:38.392099+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday Amazon : les 100 meilleures offres de la Black Week, mises à jour toute la journée !",
+      "url": "https://www.clubic.com/bons-plans-639883-black-friday-2026-amazon-lance-sa-black-week-et-ca-commence-fort-avec-ces-100-offres-jusqu-a--67.html",
+      "publishedAt": "2026-11-20T06:45:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
+      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
+      "publishedAt": "2026-11-20T06:44:06+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise pour contrer la hausse du prix du carburant",
+      "url": "https://www.presse-citron.net/limiter-la-vitesse-sur-les-autoroutes-a-80-km-h-ca-se-precise-pour-contrer-la-hausse-du-prix-du-carburant/",
+      "publishedAt": "2026-11-20T06:35:10+00:00"
+    },
     {
       "source": "clubic",
       "title": "Le directeur technique de Ledger annonce son départ après neuf ans",
@@ -158,12 +176,6 @@
       "title": "L’iMac avec écran OLED risque de se faire attendre",
       "url": "https://www.journaldugeek.com/2026/11/20/limac-avec-ecran-oled-risque-de-se-faire-attendre/",
       "publishedAt": "2026-11-20T06:28:21+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Damian Lillard et Jrue Holiday au bon souvenir de Milwaukee…",
-      "url": "https://www.basketusa.com/news/959188/damian-lillard-et-jrue-holiday-se-rappellent-au-bon-souvenir-de-milwaukee/",
-      "publishedAt": "2026-11-20T06:23:45+00:00"
     },
     {
       "source": "mac4ever",
@@ -212,6 +224,12 @@
       "title": "Visa confirme une fuite de données liée à un prestataire en Asie-Pacifique",
       "url": "https://www.generation-nt.com/actualites/visa-fuite-donnees-prestataire-asie-2084845",
       "publishedAt": "2026-11-20T05:30:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Damian Lillard et Jrue Holiday au bon souvenir de Milwaukee…",
+      "url": "https://www.basketusa.com/news/959188/damian-lillard-et-jrue-holiday-se-rappellent-au-bon-souvenir-de-milwaukee/",
+      "publishedAt": "2026-11-20T05:23:45+00:00"
     },
     {
       "source": "basketusa",
@@ -676,12 +694,6 @@
       "publishedAt": "2026-11-19T15:34:44+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Dans la grisaille des Pelicans, Jordan Poole retrouve des minutes mais pas encore le sourire",
-      "url": "https://www.basketusa.com/news/958952/dans-la-grisaille-des-pelicans-jordan-poole-retrouve-des-minutes-mais-pas-encore-le-sourire/",
-      "publishedAt": "2026-11-19T15:32:03+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Horizon Zero Dawn Remastered sur PS5 tombe à un prix difficile à ignorer",
       "url": "https://www.numerama.com/tech/2379089-horizon-zero-dawn-remastered-sur-ps5-tombe-a-un-prix-difficile-a-ignorer.html",
@@ -838,6 +850,12 @@
       "publishedAt": "2026-11-19T14:33:47+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Dans la grisaille des Pelicans, Jordan Poole retrouve des minutes mais pas encore le sourire",
+      "url": "https://www.basketusa.com/news/958952/dans-la-grisaille-des-pelicans-jordan-poole-retrouve-des-minutes-mais-pas-encore-le-sourire/",
+      "publishedAt": "2026-11-19T14:32:03+00:00"
+    },
+    {
       "source": "numerama",
       "title": "GTA 6 : la carte interactive ultime pour découvrir les secrets de Leonida",
       "url": "https://www.numerama.com/pop-culture/2378989-gta-6-la-carte-interactive-ultime-pour-decouvrir-les-secrets-de-leonida.html",
@@ -920,12 +938,6 @@
       "title": "ONU, pétrole, nucléaire : les 4 décisions prises par Trump, Poutine et Xi Jinping",
       "url": "https://www.presse-citron.net/onu-petrole-nucleaire-les-4-decisions-prises-par-trump-poutine-et-xi-jinping/",
       "publishedAt": "2026-11-19T14:00:39+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Amazon : notre top 100 des offres de la Black Week, mis à jour toute la journée !",
-      "url": "https://www.clubic.com/bons-plans-639883-black-friday-2026-amazon-lance-sa-black-week-et-ca-commence-fort-avec-ces-100-offres-jusqu-a--67.html",
-      "publishedAt": "2026-11-19T14:00:00+00:00"
     },
     {
       "source": "presse",
@@ -1186,6 +1198,12 @@
       "publishedAt": "2026-11-19T11:50:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Pour Tyler Herro, un retour sous les sifflets à Miami",
+      "url": "https://www.basketusa.com/news/958966/pour-tyler-herro-un-retour-a-miami-sous-les-sifflets/",
+      "publishedAt": "2026-11-19T11:48:09+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Panique chez Meta : l’agent IA Muse serait un véritable cauchemar pour la vie privée des utilisateurs",
       "url": "https://www.clubic.com/actualite-640030-panique-chez-meta-l-agent-ia-muse-est-un-veritable-cauchemar-pour-la-vie-privee-des-utilisateurs.html",
@@ -1322,12 +1340,6 @@
       "title": "GTA 6 : records, astuces et secrets dans Leonida, toutes les infos après 24 heures de jeu (EN DIRECT)",
       "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct.html",
       "publishedAt": "2026-11-19T10:54:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Pour Tyler Herro, un retour sous les sifflets à Miami",
-      "url": "https://www.basketusa.com/news/958966/pour-tyler-herro-un-retour-a-miami-sous-les-sifflets/",
-      "publishedAt": "2026-11-19T10:48:09+00:00"
     },
     {
       "source": "jdg",
@@ -3818,18 +3830,6 @@
       "title": "Impôt : après les piscines, le Fisc a décidé de cibler ces deux constructions très répandues chez les Français",
       "url": "https://www.presse-citron.net/impot-apres-les-piscines-le-fisc-a-decide-de-cibler-ces-deux-constructions-tres-repandues-chez-les-francais/",
       "publishedAt": "2026-11-18T06:53:18+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Grosse inquiétude autour de Dylan Harper",
-      "url": "https://www.basketusa.com/news/958457/grosse-inquietude-autour-de-dylan-harper/",
-      "publishedAt": "2026-11-18T06:50:35+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
-      "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
-      "publishedAt": "2026-11-18T06:50:01+00:00"
     },
     {
       "source": "boulet",
