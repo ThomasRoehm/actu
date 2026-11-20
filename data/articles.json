@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T21:30:55.490190+00:00",
+  "generatedAt": "2026-11-20T21:40:39.517732+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T21:30:55.490190+00:00"
+      "lastSuccessAt": "2026-11-20T21:40:39.517732+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "Daniel Jones viré par les Colts",
+      "url": "https://touchdownactu.com/361669/daniel-jones-vire-par-les-colts/",
+      "publishedAt": "2026-11-20T21:37:33+00:00"
+    },
     {
       "source": "macg",
       "title": "Trump veut taxer les centres de données à l’étranger : quelqu’un lui explique comment fonctionne Internet ?",
@@ -754,12 +760,6 @@
       "publishedAt": "2026-11-20T13:30:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Sixers sont-ils trop dépendants de leurs fins de match ?",
-      "url": "https://www.basketusa.com/news/959320/les-sixers-sont-ils-trop-dependants-de-leurs-fins-de-match/",
-      "publishedAt": "2026-11-20T13:27:48+00:00"
-    },
-    {
       "source": "korben",
       "title": "Anthropic entre en Bourse et dépasse brièvement les 2 000 milliards de dollars",
       "url": "https://korben.info/anthropic-entre-en-bourse-et-depasse-brievement-les-2-000-milliards-de-dollars.html",
@@ -854,6 +854,12 @@
       "title": "AMD Zen 6 : Les PC portables servis au CES, mais les futurs Ryzen de bureau retardés ?",
       "url": "https://www.clubic.com/actualite-640261-amd-zen-6-les-pc-portables-servis-au-ces-mais-les-futurs-ryzen-de-bureau-retardes.html",
       "publishedAt": "2026-11-20T12:35:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Sixers sont-ils trop dépendants de leurs fins de match ?",
+      "url": "https://www.basketusa.com/news/959320/les-sixers-sont-ils-trop-dependants-de-leurs-fins-de-match/",
+      "publishedAt": "2026-11-20T12:27:48+00:00"
     },
     {
       "source": "presse",
