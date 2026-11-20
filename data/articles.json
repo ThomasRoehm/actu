@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:01:10.990965+00:00",
+  "generatedAt": "2026-11-20T08:10:41.127162+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
+      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Après les États-Unis, l’Europe veut aussi son TikTok sans la Chine",
+      "url": "https://www.journaldugeek.com/2026/11/20/apres-les-etats-unis-leurope-veut-aussi-son-tiktok-sans-la-chine/",
+      "publishedAt": "2026-11-20T08:02:53+00:00"
+    },
     {
       "source": "gnt",
       "title": "Rowenta X-Force Silence 20.80 : l'aspirateur balai qui allie puissance extrême et discrétion absolue",
@@ -149,7 +155,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau Monsieur “Double-Double” de la NBA",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
       "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
       "publishedAt": "2026-11-20T07:53:08+00:00"
     },
@@ -382,12 +388,6 @@
       "publishedAt": "2026-11-20T05:30:02+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Knicks se font peur mais résistent au retour des Wolves",
-      "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
-      "publishedAt": "2026-11-20T05:17:08+00:00"
-    },
-    {
       "source": "macg",
       "title": "Pas touche à Apple Intelligence : Cupertino tente de bloquer sa suppression",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/pas-touche-apple-intelligence-cupertino-tente-de-bloquer-sa-suppression-312531",
@@ -404,6 +404,12 @@
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
       "publishedAt": "2026-11-20T04:43:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Knicks se font peur mais résistent au retour des Wolves",
+      "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
+      "publishedAt": "2026-11-20T04:17:08+00:00"
     },
     {
       "source": "macg",
@@ -466,6 +472,12 @@
       "publishedAt": "2026-11-19T19:48:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T19:40:51+00:00"
+    },
+    {
       "source": "macg",
       "title": "Test du MacBook Pro M6 : plus rapide, mais pas plus excitant",
       "url": "https://www.macg.co/tests/2026/11/test-du-macbook-pro-m6-plus-rapide-mais-pas-plus-excitant-312511",
@@ -512,12 +524,6 @@
       "title": "Une PlayStation 4 jailbreakée exécute un modèle IA de 9 milliards de paramètres à 43 tokens par seconde",
       "url": "https://www.generation-nt.com/actualites/playstation-jailbreak-ia-43-tokens-2084773",
       "publishedAt": "2026-11-19T18:45:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T18:40:51+00:00"
     },
     {
       "source": "jdg",
@@ -3812,30 +3818,6 @@
       "title": "Blizzard n’avait pas vu ça depuis 15 ans : WoW Forever n’avait pas rassemblé autant de joueurs sur le jeu depuis l’époque de Cataclysm",
       "url": "https://www.numerama.com/pop-culture/2377331-blizzard-navait-pas-vu-ca-depuis-15-ans-wow-forever-navait-pas-rassemble-autant-de-joueurs-sur-le-jeu-depuis-lepoque-de-cataclysm.html",
       "publishedAt": "2026-11-18T08:10:50+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : oubliez le chaos total, vous ne pourrez pas tout faire dès le début du jeu",
-      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-oubliez-le-chaos-total-vous-ne-pourrez-pas-tout-faire-des-le-debut-du-jeu/",
-      "publishedAt": "2026-11-18T08:10:06+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Instagram relance Direct, une messagerie qu'il avait déjà enterrée en 2019",
-      "url": "https://www.mac4ever.com/web/199097-instagram-relance-direct-une-messagerie-qu-il-avait-deja-enterree-en-2019",
-      "publishedAt": "2026-11-18T08:10:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | C’était Kobe Bryant déguisé en Quentin Grimes",
-      "url": "https://www.basketusa.com/news/958521/le-mvp-de-la-nuit-cetait-kobe-bryant-deguise-en-quentin-grimes/",
-      "publishedAt": "2026-11-18T08:03:41+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Copier des vidéos sur Instagram va devenir un peu moins facile",
-      "url": "https://www.journaldugeek.com/2026/11/18/copier-des-videos-sur-instagram-va-devenir-un-peu-moins-facile/",
-      "publishedAt": "2026-11-18T08:02:10+00:00"
     },
     {
       "source": "boulet",
