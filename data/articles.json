@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T18:10:38.892528+00:00",
+  "generatedAt": "2026-11-20T18:20:41.817526+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T18:10:38.892528+00:00"
+      "lastSuccessAt": "2026-11-20T18:20:41.817526+00:00"
     }
   ],
   "articles": [
@@ -398,6 +398,12 @@
       "title": "GTA 6 : un pirate diffuse 209 Go du jeu, mais injouable sur PC",
       "url": "https://www.mac4ever.com/gaming/199176-gta-6-un-pirate-diffuse-209-go-du-jeu-mais-injouable-sur-pc",
       "publishedAt": "2026-11-20T16:01:00+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[Podcast] Fantasy S11 : quand on aime Jahmyr Gibbs, on ne compte pas",
+      "url": "https://touchdownactu.com/361649/podcast-fantasy-s11-quand-on-aime-jahmyr-gibbs-on-ne-compte-pas/",
+      "publishedAt": "2026-11-20T16:00:33+00:00"
     },
     {
       "source": "numerama",
@@ -706,6 +712,12 @@
       "publishedAt": "2026-11-20T13:30:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Sixers sont-ils trop dépendants de leurs fins de match ?",
+      "url": "https://www.basketusa.com/news/959320/les-sixers-sont-ils-trop-dependants-de-leurs-fins-de-match/",
+      "publishedAt": "2026-11-20T13:27:48+00:00"
+    },
+    {
       "source": "korben",
       "title": "Anthropic entre en Bourse et dépasse brièvement les 2 000 milliards de dollars",
       "url": "https://korben.info/anthropic-entre-en-bourse-et-depasse-brievement-les-2-000-milliards-de-dollars.html",
@@ -788,12 +800,6 @@
       "title": "AMD Zen 6 : Les PC portables servis au CES, mais les futurs Ryzen de bureau retardés ?",
       "url": "https://www.clubic.com/actualite-640261-amd-zen-6-les-pc-portables-servis-au-ces-mais-les-futurs-ryzen-de-bureau-retardes.html",
       "publishedAt": "2026-11-20T12:35:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Sixers sont-ils trop dépendants de leurs fins de match ?",
-      "url": "https://www.basketusa.com/news/959320/les-sixers-sont-ils-trop-dependants-de-leurs-fins-de-match/",
-      "publishedAt": "2026-11-20T12:27:48+00:00"
     },
     {
       "source": "presse",
@@ -3722,30 +3728,6 @@
       "title": "Jusqu’à -600 € : Zenbook, Vivobook, TUF... les meilleures offres PC ASUS du Black Friday 2026",
       "url": "https://www.generation-nt.com/actualites/pc-portable-asus-zenbook-14-vivobook-x17-tuf-gaming-a17-a16-black-friday-pas-cher-2084780",
       "publishedAt": "2026-11-18T18:30:01+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Instagram déploie un bouclier contre le vol de contenus et l'IA",
-      "url": "https://www.generation-nt.com/actualites/instagram-protection-contenus-ia-copies-createurs-2084783",
-      "publishedAt": "2026-11-18T18:20:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Pas fan de GTA ? Le prix de Battlefield 6 s’effondre sur PS5",
-      "url": "https://www.numerama.com/tech/2378167-pas-fan-de-gta-le-prix-de-battlefield-6-seffondre-sur-ps5.html",
-      "publishedAt": "2026-11-18T18:15:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Suno génère maintenant des clips vidéo pour ses chansons IA, et ses procès empirent",
-      "url": "https://www.mac4ever.com/ia/199120-suno-genere-maintenant-des-clips-video-pour-ses-chansons-ia-et-ses-proces-empirent",
-      "publishedAt": "2026-11-18T18:15:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Timing terrible: le PlayStation Network flanche à quelques heures de la sortie de GTA 6",
-      "url": "https://www.numerama.com/pop-culture/2378315-timing-terrible-le-playstation-network-flanche-a-quelques-heures-de-la-sortie-de-gta-6.html",
-      "publishedAt": "2026-11-18T18:12:00+00:00"
     },
     {
       "source": "boulet",
