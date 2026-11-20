@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:50:39.384731+00:00",
+  "generatedAt": "2026-11-20T15:01:10.085382+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
+      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Google a une copie d'internet pour les agents IA de Chrome",
+      "url": "https://www.generation-nt.com/actualites/google-faux-internet-agents-ia-chrome-dimension-miroir-2084875",
+      "publishedAt": "2026-11-20T15:00:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jalen Green a appris à vivre avec les rumeurs",
+      "url": "https://www.basketusa.com/news/959390/jalen-green-a-appris-a-vivre-avec-les-rumeurs/",
+      "publishedAt": "2026-11-20T14:54:53+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Les Anneaux de pouvoir fait-elle vraiment n’importe quoi avec les Nazgûl ?",
+      "url": "https://www.journaldugeek.com/2026/11/20/les-anneaux-de-pouvoir-vient-elle-vraiment-de-trahir-tolkien/",
+      "publishedAt": "2026-11-20T14:53:48+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Moteur Puretech : cet outil à 13 € va sauver votre voiture, voici comment",
+      "url": "https://www.presse-citron.net/moteur-puretech-cet-outil-a-13-e-va-sauver-votre-voiture-voici-comment/",
+      "publishedAt": "2026-11-20T14:51:48+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "On ne verra jamais les scènes coupées de L’Odyssée",
+      "url": "https://www.numerama.com/pop-culture/2379933-pourquoi-on-ne-verra-jamais-les-scenes-coupees-de-lodyssee.html",
+      "publishedAt": "2026-11-20T14:49:51+00:00"
+    },
     {
       "source": "clubic",
       "title": "GTA 6 jouable sur PC d’ici une semaine ? Un groupe affirme avoir récupéré des fichiers Xbox",
@@ -142,10 +172,16 @@
       "publishedAt": "2026-11-20T14:49:00+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Le Pentagone organise un duel d'armes laser contre des cibles drones",
+      "url": "https://www.generation-nt.com/actualites/pentagone-duel-armes-laser-drones-2084842",
+      "publishedAt": "2026-11-20T14:45:01+00:00"
+    },
+    {
       "source": "macg",
       "title": "Apple ferme ses forums aujourd’hui : comment sauvegarder leur contenu avant qu’il ne soit trop tard ?",
       "url": "https://www.macg.co/aapl/2026/11/apple-ferme-ses-forums-aujourdhui-comment-sauvegarder-leur-contenu-avant-quil-ne-soit-trop-tard-312549",
-      "publishedAt": "2026-11-20T14:43:05+00:00"
+      "publishedAt": "2026-11-20T14:43:00+00:00"
     },
     {
       "source": "presse",
@@ -170,6 +206,12 @@
       "title": "Critique Hunger Games : Lever de soleil sur la moisson est-il le meilleur film de la saga ?",
       "url": "https://www.journaldugeek.com/critique/hunger-games-lever-de-soleil-sur-la-moisson-est-il-le-meilleur-film-de-la-saga/",
       "publishedAt": "2026-11-20T14:33:03+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Apple veut aussi son agent IA",
+      "url": "https://www.generation-nt.com/actualites/apple-agent-ia-agentique-2084874",
+      "publishedAt": "2026-11-20T14:30:01+00:00"
     },
     {
       "source": "presse",
@@ -328,6 +370,12 @@
       "publishedAt": "2026-11-20T12:50:55+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T12:48:05+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
       "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
@@ -422,12 +470,6 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T11:48:05+00:00"
     },
     {
       "source": "basketusa",
@@ -578,6 +620,12 @@
       "title": "Darty baisse de 200 € l’écran Samsung Odyssey OLED G9 de 49 pouces pour le Black Friday",
       "url": "https://www.numerama.com/tech/2379685-darty-baisse-de-200-e-lecran-samsung-odyssey-oled-g9-de-49-pouces-pour-le-black-friday.html",
       "publishedAt": "2026-11-20T10:43:20+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Paolo Banchero veut éviter de faire la même erreur que Franz Wagner",
+      "url": "https://www.basketusa.com/news/959231/paolo-banchero-ne-veut-pas-faire-la-meme-erreur-que-franz-wagner/",
+      "publishedAt": "2026-11-20T10:43:19+00:00"
     },
     {
       "source": "iphon",
@@ -782,12 +830,6 @@
       "title": "Microsoft va fermer son gestionnaire de tâches To Do, sans le remplacer",
       "url": "https://www.clubic.com/actualite-640144-microsoft-va-fermer-son-gestionnaire-de-taches-to-do-sans-le-remplacer.html",
       "publishedAt": "2026-11-20T09:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Paolo Banchero veut éviter de faire la même erreur que Franz Wagner",
-      "url": "https://www.basketusa.com/news/959231/paolo-banchero-ne-veut-pas-faire-la-meme-erreur-que-franz-wagner/",
-      "publishedAt": "2026-11-20T09:43:19+00:00"
     },
     {
       "source": "mac4ever",
@@ -1114,12 +1156,6 @@
       "publishedAt": "2026-11-20T07:34:31+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Chris Finch furieux après un coup de sifflet qui coûte cher aux Wolves",
-      "url": "https://www.basketusa.com/news/959197/chris-finch-furieux-apres-un-coup-de-sifflet-qui-coute-cher-aux-wolves/",
-      "publishedAt": "2026-11-20T07:30:02+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Black Friday : GEEKOM fait fondre le prix de ses mini-PC, jusqu’à 200 € de remise",
       "url": "https://www.clubic.com/actualite-639838-black-friday-geekom-fait-fondre-le-prix-de-ses-mini-pc-jusqu-a-200-de-remise.html",
@@ -1226,6 +1262,12 @@
       "title": "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise pour contrer la hausse du prix du carburant",
       "url": "https://www.presse-citron.net/limiter-la-vitesse-sur-les-autoroutes-a-80-km-h-ca-se-precise-pour-contrer-la-hausse-du-prix-du-carburant/",
       "publishedAt": "2026-11-20T06:35:10+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chris Finch furieux après un coup de sifflet qui coûte cher aux Wolves",
+      "url": "https://www.basketusa.com/news/959197/chris-finch-furieux-apres-un-coup-de-sifflet-qui-coute-cher-aux-wolves/",
+      "publishedAt": "2026-11-20T06:30:02+00:00"
     },
     {
       "source": "gnt",
@@ -3680,24 +3722,6 @@
       "title": "WhatsApp sauvegarde enfin vos discussions sans passer par Google Drive",
       "url": "https://www.mac4ever.com/divers/199109-whatsapp-sauvegarde-enfin-vos-discussions-sans-passer-par-google-drive",
       "publishedAt": "2026-11-18T15:04:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Française des Jeux : voici les dix jeux où il y a le plus de gagnants",
-      "url": "https://www.presse-citron.net/francaise-des-jeux-voici-les-dix-jeux-ou-il-y-a-le-plus-de-gagnants/",
-      "publishedAt": "2026-11-18T15:00:48+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Podcast] Preview S11 : Brock Purdy à l’épreuve Brian Flores",
-      "url": "https://touchdownactu.com/361551/podcast-preview-s11-brock-purdy-a-lepreuve-brian-flores/",
-      "publishedAt": "2026-11-18T15:00:08+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 n’est pas parfait : ce que lui reprochent les tests les plus sévères",
-      "url": "https://www.numerama.com/pop-culture/2378089-gta-6-nest-pas-parfait-ce-que-lui-reprochent-les-tests-les-plus-severes.html",
-      "publishedAt": "2026-11-18T14:55:01+00:00"
     },
     {
       "source": "boulet",
