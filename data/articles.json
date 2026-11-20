@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T13:01:07.741308+00:00",
+  "generatedAt": "2026-11-20T13:10:45.753243+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
+      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Scandale Jensen Huang : la Californie ouvre une enquête sur Nvidia et ses \"liens\" avec la Chine",
+      "url": "https://www.mac4ever.com/ia/199159-scandale-jensen-huang-la-californie-ouvre-une-enquete-sur-nvidia-et-ses-liens-avec-la-chine",
+      "publishedAt": "2026-11-20T13:02:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Après la cyberattaque de la Commission Européenne, la France se prépare au pire",
+      "url": "https://www.journaldugeek.com/2026/11/20/apres-la-cyberattaque-de-la-commission-europeenne-la-france-se-prepare-au-pire/",
+      "publishedAt": "2026-11-20T13:01:52+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Microsoft Edge prépare un mode de protection extrême contre les cyberattaques",
+      "url": "https://www.clubic.com/actualite-640282-microsoft-edge-prepare-un-mode-de-protection-extreme-contre-les-cyberattaques.html",
+      "publishedAt": "2026-11-20T13:01:00+00:00"
+    },
     {
       "source": "presse",
       "title": "Fini l’ouverture à 8h30 : Lidl change les horaires de ses magasins, les clients vont adorer",
@@ -1127,15 +1145,15 @@
     },
     {
       "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T04:50:03+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
       "publishedAt": "2026-11-20T04:43:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T03:50:03+00:00"
     },
     {
       "source": "macg",
@@ -1234,12 +1252,6 @@
       "publishedAt": "2026-11-19T18:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T18:40:51+00:00"
-    },
-    {
       "source": "jdg",
       "title": "GTA 6 nommé aux Game Awards 2026 avant même sa sortie, comment c’est possible ?",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
@@ -1304,6 +1316,12 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T17:40:51+00:00"
     },
     {
       "source": "gnt",
@@ -3704,30 +3722,6 @@
       "title": "iPhone 18 et iPhone Air 2 : chez Apple, il n’y a plus de saison pour les iPhone !",
       "url": "https://www.mac4ever.com/iphone/199105-iphone-18-et-iphone-air-2-chez-apple-il-n-y-a-plus-de-saison-pour-les-iphone",
       "publishedAt": "2026-11-18T13:11:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 a-t-il tiré un trait sur les « services » des trottoirs de Vice City ?",
-      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-a-t-il-tire-un-trait-sur-les-services-des-trottoirs-de-vice-city/",
-      "publishedAt": "2026-11-18T13:09:38+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 a-t-il tiré un trait sur “le plus vieux métier du monde” de Vice City ?",
-      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-a-t-il-tire-un-trait-sur-le-plus-vieux-metier-du-monde-de-vice-city/",
-      "publishedAt": "2026-11-18T13:09:38+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Quelle est la meilleure assurance vie en ligne en 2026 ? Frais, fonds euros, supports : on fait le tri",
-      "url": "https://www.journaldugeek.com/2026/11/18/quelle-est-la-meilleure-assurance-vie-en-ligne-en-2026-frais-fonds-euros-supports-on-fait-le-tri/",
-      "publishedAt": "2026-11-18T13:07:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Où placer son épargne dans une banque mobile en 2026 ? Livret ou compte à terme, le match chez Hello bank!",
-      "url": "https://www.presse-citron.net/ou-placer-son-epargne-dans-une-banque-mobile-en-2026-livret-ou-compte-a-terme-le-match-chez-hello-bank/",
-      "publishedAt": "2026-11-18T13:06:16+00:00"
     },
     {
       "source": "boulet",
