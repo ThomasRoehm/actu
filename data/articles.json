@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T13:10:45.753243+00:00",
+  "generatedAt": "2026-11-20T13:20:43.588584+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:10:45.753243+00:00"
+      "lastSuccessAt": "2026-11-20T13:20:43.588584+00:00"
     }
   ],
   "articles": [
@@ -892,12 +892,6 @@
       "publishedAt": "2026-11-20T07:54:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T07:53:08+00:00"
-    },
-    {
       "source": "iphon",
       "title": "App Store Awards : voici les meilleures apps iPhone de 2026",
       "url": "https://www.iphon.fr/post/apple-app-store-awards-applications-nominees",
@@ -1016,6 +1010,12 @@
       "title": "La psychologie est formelle : les personnes qui laissent leurs notifications en non lues ont une façon bien à elles de gérer les interactions sociales",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-laissent-leurs-notifications-en-non-lues-ont-une-facon-bien-a-elles-de-gerer-les-interactions-sociales/",
       "publishedAt": "2026-11-20T06:54:08+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T06:53:08+00:00"
     },
     {
       "source": "korben",
@@ -1145,15 +1145,15 @@
     },
     {
       "source": "basketusa",
-      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
-      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
-      "publishedAt": "2026-11-20T04:43:01+00:00"
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T04:50:03+00:00"
     },
     {
       "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T03:50:03+00:00"
+      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
+      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
+      "publishedAt": "2026-11-20T04:43:01+00:00"
     },
     {
       "source": "macg",
@@ -1252,6 +1252,12 @@
       "publishedAt": "2026-11-19T18:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T18:40:51+00:00"
+    },
+    {
       "source": "jdg",
       "title": "GTA 6 nommé aux Game Awards 2026 avant même sa sortie, comment c’est possible ?",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
@@ -1316,12 +1322,6 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T17:40:51+00:00"
     },
     {
       "source": "gnt",
@@ -3692,36 +3692,6 @@
       "title": "GTA 6 : Free muscle son réseau pour faire face au lancement",
       "url": "https://www.clubic.com/actualite-639856-gta-iv-free-muscle-son-reseau-pour-faire-face-au-lancement.html",
       "publishedAt": "2026-11-18T13:22:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Rue du Commerce célèbre le Black Friday avec de belles remises sur le high-tech, la mobilité et la maison",
-      "url": "https://www.generation-nt.com/actualites/rue-commerce-promos-pas-cher-black-friday-chaise-bureau-sihoo-trottinette-electrique-kukirin-g2-ultra-xiaomi-17t-pro-2084729",
-      "publishedAt": "2026-11-18T13:20:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Promo : le MacBook Neo descend à 742 €, le MacBook Air M5 à 1 199 €",
-      "url": "https://www.macg.co/materiel/2026/11/promo-le-macbook-neo-descend-742-eu-le-macbook-air-m5-1-199-eu-312495",
-      "publishedAt": "2026-11-18T13:19:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "WoW Forever : Blizzard suspend des comptes après l’exploitation d’un bug à 100 pièces d’or par heure",
-      "url": "https://www.numerama.com/pop-culture/2377535-wow-forever-blizzard-suspend-des-comptes-apres-lexploitation-dun-bug-a-100-pieces-dor-par-heure.html",
-      "publishedAt": "2026-11-18T13:17:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jayson Tatum n’a toujours pas digéré son rôle aux JO 2024",
-      "url": "https://www.basketusa.com/news/958419/jayson-tatum-na-toujours-pas-digere-son-role-aux-jo-2024/",
-      "publishedAt": "2026-11-18T13:11:37+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iPhone 18 et iPhone Air 2 : chez Apple, il n’y a plus de saison pour les iPhone !",
-      "url": "https://www.mac4ever.com/iphone/199105-iphone-18-et-iphone-air-2-chez-apple-il-n-y-a-plus-de-saison-pour-les-iphone",
-      "publishedAt": "2026-11-18T13:11:00+00:00"
     },
     {
       "source": "boulet",
