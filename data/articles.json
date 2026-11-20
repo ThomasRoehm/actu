@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:20:43.444373+00:00",
+  "generatedAt": "2026-11-20T07:30:52.861698+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
+      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : GEEKOM fait fondre le prix de ses mini-PC, jusqu’à 200 € de remise",
+      "url": "https://www.clubic.com/actualite-639838-black-friday-geekom-fait-fondre-le-prix-de-ses-mini-pc-jusqu-a-200-de-remise.html",
+      "publishedAt": "2026-11-20T07:30:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Voici le guide officiel ultime de GTA 6",
+      "url": "https://www.numerama.com/pop-culture/2379385-voici-le-guide-officiel-ultime-de-gta-6.html",
+      "publishedAt": "2026-11-20T07:24:19+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Selon l'IEA, l'appétit électrique de l'IA menace de saturer les réseaux mondiaux d'ici 2030",
+      "url": "https://www.generation-nt.com/actualites/iea-rapport-datacenter-consommation-electricite-2084852",
+      "publishedAt": "2026-11-20T07:20:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "LG, Samsung, Sony, Philips : les TV OLED CHUTENT jusqu’à -40% pour le Black Friday",
@@ -3818,24 +3836,6 @@
       "title": "James Bond vient-il de tuer le Batman de Robert Pattinson ?",
       "url": "https://www.journaldugeek.com/2026/11/18/james-bond-vient-il-de-tuer-le-batman-de-robert-pattinson/",
       "publishedAt": "2026-11-18T07:34:50+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Cocorico ! La fintech tricolore Qonto obtient son agrément bancaire : elle passe dans une nouvelle dimension",
-      "url": "https://www.presse-citron.net/cocorico-la-fintech-tricolore-qonto-obtient-son-agrement-bancaire-elle-passe-dans-une-nouvelle-dimension/",
-      "publishedAt": "2026-11-18T07:30:06+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "En 2026, des gens ont encore ce mot de passe hallucinant",
-      "url": "https://www.numerama.com/cyberguerre/2377337-en-2026-des-gens-ont-encore-ce-mot-de-passe-hallucinant.html",
-      "publishedAt": "2026-11-18T07:23:09+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "iPhone 20 Pro : de nouvelles images confirment le design incurvé de l'écran",
-      "url": "https://www.clubic.com/actualite-639769-iphone-20-pro-de-nouvelles-images-confirment-le-design-incurve-de-l-ecran.html",
-      "publishedAt": "2026-11-18T07:22:00+00:00"
     },
     {
       "source": "boulet",
