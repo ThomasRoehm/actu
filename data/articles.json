@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:30:52.861698+00:00",
+  "generatedAt": "2026-11-20T07:40:41.242176+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:30:52.861698+00:00"
+      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Gemini apprend à son tour à contrôler le Mac en langage naturel",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/gemini-apprend-son-tour-controler-le-mac-en-langage-naturel-312535",
+      "publishedAt": "2026-11-20T07:34:31+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chris Finch furieux après un coup de sifflet qui coûte cher aux Wolves",
+      "url": "https://www.basketusa.com/news/959197/chris-finch-furieux-apres-un-coup-de-sifflet-qui-coute-cher-aux-wolves/",
+      "publishedAt": "2026-11-20T07:30:02+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : GEEKOM fait fondre le prix de ses mini-PC, jusqu’à 200 € de remise",
@@ -3830,12 +3842,6 @@
       "title": "Lumo Desktop : l’IA de Proton se connecte à vos fichiers, à vos applications et à un calendrier de tâches",
       "url": "https://www.clubic.com/actualite-639667-proton-desktop.html",
       "publishedAt": "2026-11-18T07:43:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "James Bond vient-il de tuer le Batman de Robert Pattinson ?",
-      "url": "https://www.journaldugeek.com/2026/11/18/james-bond-vient-il-de-tuer-le-batman-de-robert-pattinson/",
-      "publishedAt": "2026-11-18T07:34:50+00:00"
     },
     {
       "source": "boulet",
