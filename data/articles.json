@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:20:41.749214+00:00",
+  "generatedAt": "2026-11-20T09:30:58.643132+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:20:41.749214+00:00"
+      "lastSuccessAt": "2026-11-20T09:30:58.643132+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "La mémoire DDR6 double la cadence à 14,4 GT/s dans un format réduit de 44 %",
+      "url": "https://www.generation-nt.com/actualites/memoire-ddr6-double-cadence-reduite-2084854",
+      "publishedAt": "2026-11-20T09:25:01+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Google va lancer ses serveurs IA dans l'espace en 2029, avec la fusée de Bezos",
+      "url": "https://www.mac4ever.com/ia/199162-google-va-lancer-ses-serveurs-ia-dans-l-espace-en-2029-avec-la-fusee-de-bezos",
+      "publishedAt": "2026-11-20T09:25:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "« Coût par élimination » : à 16 ans, il convainc Y Combinator de financer ses missiles guidés par IA",
+      "url": "https://www.numerama.com/tech/2379483-cout-par-elimination-a-16-ans-il-convainc-y-combinator-de-financer-ses-missiles-guides-par-ia.html",
+      "publishedAt": "2026-11-20T09:20:31+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "La dernière version macOS de ChatGPT plante au démarrage si vous avez un fond d’écran animé",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/la-derniere-version-macos-de-chatgpt-plante-au-demarrage-si-vous-avez-un-fond-decran-anime-312537",
+      "publishedAt": "2026-11-20T09:20:26+00:00"
+    },
     {
       "source": "clubic",
       "title": "Un enfant de 10 ans seul dans un VTC ? Uber lance le test Uber Kids",
@@ -146,6 +170,12 @@
       "title": "La manette PS5 en promo à -20% pour le Black Friday : balles neuves pour GTA VI !",
       "url": "https://www.mac4ever.com/gaming/199166-la-manette-ps5-en-promo-a-20-pour-le-black-friday-balles-neuves-pour-gta-vi",
       "publishedAt": "2026-11-20T09:16:29+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Elon Musk accuse (encore) Volodymyr Zelensky de mentir sur les restrictions satellites en Ukraine",
+      "url": "https://www.generation-nt.com/actualites/elon-musk-starlink-restriction-satellite-mensonge-zelensky-ukraine-2084867",
+      "publishedAt": "2026-11-20T09:15:01+00:00"
     },
     {
       "source": "clubic",
@@ -161,7 +191,7 @@
     },
     {
       "source": "mac4ever",
-      "title": "Opposé à l'IA générative, le responsable de la photo sur iPhone s'en va",
+      "title": "Opposé à l'IA générative, le responsable de la photo sur iPhone quitte Apple",
       "url": "https://www.mac4ever.com/iphone/199165-oppose-a-l-ia-generative-le-responsable-de-la-photo-sur-iphone-s-en-va",
       "publishedAt": "2026-11-20T09:10:00+00:00"
     },
@@ -352,12 +382,6 @@
       "publishedAt": "2026-11-20T07:54:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T07:53:08+00:00"
-    },
-    {
       "source": "iphon",
       "title": "App Store Awards : voici les meilleures apps iPhone de 2026",
       "url": "https://www.iphon.fr/post/apple-app-store-awards-applications-nominees",
@@ -476,6 +500,12 @@
       "title": "La psychologie est formelle : les personnes qui laissent leurs notifications en non lues ont une façon bien à elles de gérer les interactions sociales",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-laissent-leurs-notifications-en-non-lues-ont-une-facon-bien-a-elles-de-gerer-les-interactions-sociales/",
       "publishedAt": "2026-11-20T06:54:08+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T06:53:08+00:00"
     },
     {
       "source": "korben",
@@ -605,15 +635,15 @@
     },
     {
       "source": "basketusa",
-      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
-      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
-      "publishedAt": "2026-11-20T04:43:01+00:00"
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T04:50:03+00:00"
     },
     {
       "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T03:50:03+00:00"
+      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
+      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
+      "publishedAt": "2026-11-20T04:43:01+00:00"
     },
     {
       "source": "macg",
@@ -718,6 +748,12 @@
       "publishedAt": "2026-11-19T18:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T18:40:51+00:00"
+    },
+    {
       "source": "jdg",
       "title": "GTA 6 nommé aux Game Awards 2026 avant même sa sortie, comment c’est possible ?",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
@@ -782,12 +818,6 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T17:40:51+00:00"
     },
     {
       "source": "gnt",
@@ -3824,36 +3854,6 @@
       "title": "Cyberattaque : près de 180 sites visés, dont Air France, IKEA, ZOOM et la BBC",
       "url": "https://www.mac4ever.com/securite/199098-cyberattaque-pres-de-180-sites-vises-dont-air-france-ikea-zoom-et-la-bbc",
       "publishedAt": "2026-11-18T09:31:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "SFR lance la Box 10 : le très haut débit et le Wi-Fi 7 pour tout le monde ?",
-      "url": "https://www.presse-citron.net/sfr-lance-la-box-10-le-tres-haut-debit-et-le-wi-fi-7-pour-tout-le-monde/",
-      "publishedAt": "2026-11-18T09:30:15+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Ce routeur Wi-Fi 7 ressemble à un livre, et c’est une excellente idée",
-      "url": "https://www.journaldugeek.com/2026/11/18/ce-routeur-wi-fi-7-ressemble-a-un-livre-et-cest-une-excellente-idee/",
-      "publishedAt": "2026-11-18T09:30:06+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les robotaxis de Waymo quittent les autoroutes",
-      "url": "https://www.generation-nt.com/actualites/waymo-robotaxis-retrait-autoroutes-securite-californie-2084713",
-      "publishedAt": "2026-11-18T09:30:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Black Friday 2026 : notre live des vraies bonnes affaires, à J-9 du grand jour",
-      "url": "https://www.numerama.com/tech/2374925-black-friday-2026-notre-live-des-vraies-bonnes-affaires-a-j-9-du-grand-jour.html",
-      "publishedAt": "2026-11-18T09:26:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La Jordan Tatum 5 passe au Laser",
-      "url": "https://www.basketusa.com/news/958435/la-jordan-tatum-5-passe-au-laser/",
-      "publishedAt": "2026-11-18T09:24:39+00:00"
     },
     {
       "source": "boulet",
