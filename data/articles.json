@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:50:51.373258+00:00",
+  "generatedAt": "2026-11-20T09:01:09.623246+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:50:51.373258+00:00"
+      "lastSuccessAt": "2026-11-20T09:01:09.623246+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Avec la dernière mise à jour de Windows 11, Microsoft dépoussière plusieurs fonctions historiques, et il était temps",
+      "url": "https://www.clubic.com/actualite-640219-avec-la-derniere-mise-a-jour-de-windows-11-microsoft-depoussiere-plusieurs-fonctions-historiques-et-il-etait-temps.html",
+      "publishedAt": "2026-11-20T08:57:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Une nouvelle pépite du web sous pavillon européen : l’italien Bending Spoons va racheter Mailchimp pour 3,68 milliards de dollars",
+      "url": "https://www.presse-citron.net/italien-bending-spoons-racheter-mailchimp/",
+      "publishedAt": "2026-11-20T08:51:48+00:00"
+    },
     {
       "source": "clubic",
       "title": "Un vrai éclair l'entrée en Bourse d'Anthropic, qui lève 81 milliards, avant que l'action ne redescende",
@@ -148,22 +160,34 @@
       "publishedAt": "2026-11-20T08:46:20+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Maladroit à ses débuts, Cameron Boozer gagne en efficacité",
+      "url": "https://www.basketusa.com/news/959215/maladroit-a-ses-debuts-cameron-boozer-gagne-en-efficacite/",
+      "publishedAt": "2026-11-20T08:45:44+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Microsoft défie Claude et ChatGPT avec ses nouveaux modèles de code à bas prix",
+      "url": "https://www.generation-nt.com/actualites/microsoft-defie-claude-chatgpt-code-2084834",
+      "publishedAt": "2026-11-20T08:45:01+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Les radios d'Apple Music rassemblent maintenant 50 millions d'audiophiles par mois",
       "url": "https://www.clubic.com/actualite-640132-apple-music-rassemble-maintenant-50-millions-d-audiophiles-par-mois.html",
       "publishedAt": "2026-11-20T08:44:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Maladroit à ses débuts, Cameron Boozer gagne en efficacité",
-      "url": "https://www.basketusa.com/news/959215/maladroit-a-ses-debuts-cameron-boozer-gagne-en-efficacite/",
-      "publishedAt": "2026-11-20T08:43:44+00:00"
-    },
-    {
       "source": "numerama",
       "title": "GTA 6 pousse tellement l’immersion qu’on a tous nos petites routines",
       "url": "https://www.numerama.com/pop-culture/2379409-gta-6-pousse-tellement-limmersion-quon-a-tous-nos-petites-routines.html",
       "publishedAt": "2026-11-20T08:42:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Vladimir Poutine veut recevoir les dirigeants européens à Moscou mais pose ses conditions pour les négociations de paix",
+      "url": "https://www.presse-citron.net/vladimir-poutine-veut-recevoir-les-dirigeants-europeens-a-moscou-mais-pose-ses-conditions-pour-les-negociations-de-paix/",
+      "publishedAt": "2026-11-20T08:41:44+00:00"
     },
     {
       "source": "iphon",
@@ -200,6 +224,12 @@
       "title": "La fin d’une époque pour Android : Google change les règles sur les installations d’applications",
       "url": "https://www.journaldugeek.com/2026/11/20/la-fin-dune-epoque-pour-android-google-change-les-regles-sur-les-installations-dapplications/",
       "publishedAt": "2026-11-20T08:32:31+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Anthropic s'envole à Wall Street avec une valorisation vertigineuse",
+      "url": "https://www.generation-nt.com/actualites/anthropic-entree-bourse-nasdaq-intelligence-artificielle-action-2084871",
+      "publishedAt": "2026-11-20T08:30:01+00:00"
     },
     {
       "source": "gnt",
@@ -400,12 +430,6 @@
       "publishedAt": "2026-11-20T06:45:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
-      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
-      "publishedAt": "2026-11-20T06:44:06+00:00"
-    },
-    {
       "source": "presse",
       "title": "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise pour contrer la hausse du prix du carburant",
       "url": "https://www.presse-citron.net/limiter-la-vitesse-sur-les-autoroutes-a-80-km-h-ca-se-precise-pour-contrer-la-hausse-du-prix-du-carburant/",
@@ -484,6 +508,12 @@
       "publishedAt": "2026-11-20T06:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
+      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
+      "publishedAt": "2026-11-20T05:44:06+00:00"
+    },
+    {
       "source": "macg",
       "title": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code-312533",
@@ -523,7 +553,7 @@
       "source": "basketusa",
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
-      "publishedAt": "2026-11-20T04:43:01+00:00"
+      "publishedAt": "2026-11-20T03:43:01+00:00"
     },
     {
       "source": "macg",
@@ -3818,30 +3848,6 @@
       "title": "Pokémon 30 ans : Apple offre des fonds d’écran gratuits pour l’anniversaire de la licence … mais pas que",
       "url": "https://www.journaldugeek.com/2026/11/18/pokemon-30-ans-apple-offre-des-fonds-decran-gratuits-pour-lanniversaire-de-la-licence-mais-pas-que/",
       "publishedAt": "2026-11-18T09:01:55+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Le journal des Rookies] Emmett Johnson fait oublier Kenneth Walker III",
-      "url": "https://touchdownactu.com/361502/le-journal-des-rookies-emmett-johnson-fait-oublier-kenneth-walker-iii/",
-      "publishedAt": "2026-11-18T09:00:20+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Top 3 du jour : Sonos Arc Ultra à 832€, clavier Corsair K70 CORE TKL à 72€, projecteur Anker Nebula 4K à 879€",
-      "url": "https://www.generation-nt.com/actualites/barre-son-sonos-arc-ultra-corsair-k70-core-tkl-rgb-clavier-gaming-projecteur-anker-nebula-cosmos-4k-se-promos-pas-cher-2084717",
-      "publishedAt": "2026-11-18T09:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "« Voilà à quoi ressemble le basket des Detroit Pistons ! »",
-      "url": "https://www.basketusa.com/news/958508/voila-a-quoi-ressemble-le-basket-des-detroit-pistons/",
-      "publishedAt": "2026-11-18T08:57:26+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "En pleine crise Jensen Huang, Nvidia annonce des résultats financiers spectaculaires",
-      "url": "https://www.presse-citron.net/en-pleine-crise-jensen-huang-nvidia-annonce-des-resultats-financiers-spectaculaires/",
-      "publishedAt": "2026-11-18T08:54:39+00:00"
     },
     {
       "source": "boulet",
