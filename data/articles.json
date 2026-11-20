@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:20:38.633356+00:00",
+  "generatedAt": "2026-11-20T05:30:53.272327+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:20:38.633356+00:00"
+      "lastSuccessAt": "2026-11-20T05:30:53.272327+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Les Knicks souffrent mais enchaînent à Minnesota",
+      "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
+      "publishedAt": "2026-11-20T05:17:08+00:00"
+    },
     {
       "source": "macg",
       "title": "Pas touche à Apple Intelligence : Cupertino tente de bloquer sa suppression",
@@ -188,6 +194,12 @@
       "title": "“Il alimente plus de 225 millions de sites web” : 2 failles critiques ont été trouvées sur Nginx, un autre pilier d’internet",
       "url": "https://www.journaldugeek.com/2026/11/19/il-alimente-plus-de-225-millions-de-sites-web-2-failles-critiques-ont-ete-trouvees-sur-nginx-un-autre-pilier-dinternet/",
       "publishedAt": "2026-11-19T19:56:18+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : VideoProc Converter AI ravive les vieilles vidéos et photos sur Mac, licence à vie dès 30,95 €",
+      "url": "https://www.macg.co/services/2026/11/black-friday-videoproc-converter-ai-ravive-les-vieilles-videos-et-photos-sur-mac-licence-vie-des-3095-eu-312459",
+      "publishedAt": "2026-11-19T19:53:00+00:00"
     },
     {
       "source": "clubic",
@@ -682,12 +694,6 @@
       "publishedAt": "2026-11-19T14:55:37+00:00"
     },
     {
-      "source": "macg",
-      "title": "Black Friday : VideoProc Converter AI ravive les vieilles vidéos et photos sur Mac, licence à vie dès 30,95 €",
-      "url": "https://www.macg.co/services/2026/11/black-friday-videoproc-converter-ai-ravive-les-vieilles-videos-et-photos-sur-mac-licence-vie-des-3095-eu-312459",
-      "publishedAt": "2026-11-19T14:53:00+00:00"
-    },
-    {
       "source": "basketusa",
       "title": "La WNBA veut récupérer les 16 % de son capital vendus en 2022",
       "url": "https://www.basketusa.com/news/959046/la-wnba-veut-recuperer-les-16-de-son-capital-vendus-en-2022/",
@@ -887,9 +893,21 @@
     },
     {
       "source": "basketusa",
+      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:25:01+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-19T13:23:37+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:21:57+00:00"
     },
     {
       "source": "gnt",
@@ -1000,12 +1018,6 @@
       "publishedAt": "2026-11-19T12:26:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T12:25:01+00:00"
-    },
-    {
       "source": "iphon",
       "title": "Prisés par les sportifs, les casques et écouteurs Shokz font leur show au Black Friday",
       "url": "https://www.iphon.fr/post/prises-sportifs-casques-ecouteurs-shokz-show-black-friday",
@@ -1016,12 +1028,6 @@
       "title": "L'iPhone 17 Pro Max chute en promo à 1179€ : son prix le plus bas, 450€ de moins que le 18 Pro Max !",
       "url": "https://www.mac4ever.com/iphone/199140-l-iphone-17-pro-max-chute-en-promo-a-1179-son-prix-le-plus-bas-450-de-moins-que-le-18-pro-max",
       "publishedAt": "2026-11-19T12:22:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T12:21:57+00:00"
     },
     {
       "source": "clubic",
@@ -3836,18 +3842,6 @@
       "title": "Jalen Brunson tire à nouveau les Knicks d’affaire à Toronto",
       "url": "https://www.basketusa.com/news/958430/jalen-brunson-tire-encore-les-knicks-daffaire-a-toronto/",
       "publishedAt": "2026-11-18T05:34:37+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Google détecte la première cyberattaque menée de bout en bout par une IA",
-      "url": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
-      "publishedAt": "2026-11-18T05:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Spurs se fracassent sur le mur des Pistons",
-      "url": "https://www.basketusa.com/news/958439/la-belle-serie-des-spurs-se-fracasse-sur-le-mur-des-pistons/",
-      "publishedAt": "2026-11-18T05:27:04+00:00"
     },
     {
       "source": "boulet",
