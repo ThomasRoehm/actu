@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:01:05.639668+00:00",
+  "generatedAt": "2026-11-20T12:10:41.776362+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
+      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "SSD : les bons repères pour choisir sans se tromper",
+      "url": "https://www.mac4ever.com/mac/199156-ssd-les-bons-reperes-pour-choisir-sans-se-tromper",
+      "publishedAt": "2026-11-20T12:06:04+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Après le pass Navigo sur smartphone, Île-de-France Mobilités ressort une promesse vieille de dix ans",
+      "url": "https://www.journaldugeek.com/2026/11/20/apres-le-pass-navigo-sur-smartphone-ile-de-france-mobilites-ressort-une-promesse-vieille-de-dix-ans/",
+      "publishedAt": "2026-11-20T12:00:26+00:00"
+    },
     {
       "source": "gnt",
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
@@ -958,6 +970,12 @@
       "publishedAt": "2026-11-20T06:28:21+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Damian Lillard et Jrue Holiday au bon souvenir de Milwaukee…",
+      "url": "https://www.basketusa.com/news/959188/damian-lillard-et-jrue-holiday-se-rappellent-au-bon-souvenir-de-milwaukee/",
+      "publishedAt": "2026-11-20T06:23:45+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Apple prépare son propre agent IA capable de contrôler votre Mac et vos applications",
       "url": "https://www.mac4ever.com/ia/199158-apple-prepare-son-propre-agent-ia-capable-de-controler-votre-mac-et-vos-applications",
@@ -1004,12 +1022,6 @@
       "title": "Visa confirme une fuite de données liée à un prestataire en Asie-Pacifique",
       "url": "https://www.generation-nt.com/actualites/visa-fuite-donnees-prestataire-asie-2084845",
       "publishedAt": "2026-11-20T05:30:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Damian Lillard et Jrue Holiday au bon souvenir de Milwaukee…",
-      "url": "https://www.basketusa.com/news/959188/damian-lillard-et-jrue-holiday-se-rappellent-au-bon-souvenir-de-milwaukee/",
-      "publishedAt": "2026-11-20T05:23:45+00:00"
     },
     {
       "source": "basketusa",
@@ -3770,30 +3782,6 @@
       "title": "Starship est déjà la plus grande fusée du monde, sa prochaine itération sera encore plus gigantesque",
       "url": "https://www.clubic.com/actualite-639841-elon-musk-annonce-une-starship-v4-encore-plus-gigantesque-que-la-plus-grande-fusee-du-monde.html",
       "publishedAt": "2026-11-18T12:12:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Payer les élèves pour aller en cours le jour de GTA 6, la fausse bonne idée ?",
-      "url": "https://www.generation-nt.com/actualites/payer-eleves-cours-gta-idee-2084666",
-      "publishedAt": "2026-11-18T12:10:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« L’un des meilleurs jeux jamais créés » : les premiers tests de GTA 6 sont unanimes",
-      "url": "https://www.numerama.com/pop-culture/2377809-lun-des-meilleurs-jeux-jamais-crees-les-premiers-tests-de-gta-6-sont-unanimes.html",
-      "publishedAt": "2026-11-18T12:03:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Fini les injections d’insuline ? Le diabète de type 2 pourrait un jour se traiter grâce à un implant électronique",
-      "url": "https://www.presse-citron.net/fini-injections-dinsuline-diabete-type-2-jour-traiter-grace-implant-electronique/",
-      "publishedAt": "2026-11-18T12:02:58+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Combien de temps faut-il pour traverser la map de GTA 6 en voiture et en avion ? On a chronométré",
-      "url": "https://www.journaldugeek.com/2026/11/18/combien-de-temps-faut-il-pour-traverser-la-map-de-gta-6-en-voiture-et-en-avion-on-a-chronometre/",
-      "publishedAt": "2026-11-18T12:02:44+00:00"
     },
     {
       "source": "boulet",
