@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:40:41.438104+00:00",
+  "generatedAt": "2026-11-20T11:50:38.782396+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:40:41.438104+00:00"
+      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
     }
   ],
   "articles": [
@@ -1013,15 +1013,15 @@
     },
     {
       "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T04:50:03+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
       "publishedAt": "2026-11-20T04:43:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T03:50:03+00:00"
     },
     {
       "source": "macg",
@@ -1120,12 +1120,6 @@
       "publishedAt": "2026-11-19T18:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T18:40:51+00:00"
-    },
-    {
       "source": "jdg",
       "title": "GTA 6 nommé aux Game Awards 2026 avant même sa sortie, comment c’est possible ?",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
@@ -1190,6 +1184,12 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T17:40:51+00:00"
     },
     {
       "source": "gnt",
@@ -3788,30 +3788,6 @@
       "title": "Le fils de Peja Stojakovic plante 46 points pour s’offrir Duke !",
       "url": "https://www.basketusa.com/news/958606/le-fils-de-peja-stojakovic-plante-46-points-face-a-duke/",
       "publishedAt": "2026-11-18T11:53:26+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "L'armée de Terre teste un génial robot terrestre conçu en un an pour porter le barda des soldats",
-      "url": "https://www.clubic.com/actualite-639829-l-armee-de-terre-teste-un-genial-robot-terrestre-concu-en-un-an-pour-porter-le-barda-des-soldats.html",
-      "publishedAt": "2026-11-18T11:46:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 est-il vraiment le meilleur jeu de la décennie ? Les premiers avis sont tombés !",
-      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-est-il-vraiment-le-meilleur-jeu-de-la-decennie-les-premiers-avis-sont-tombes/",
-      "publishedAt": "2026-11-18T11:44:34+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "GTA 6 : les premiers tests sont tombés, est-ce un chef d’œuvre ou un pétard mouillé ?",
-      "url": "https://www.presse-citron.net/gta-6-les-premiers-tests-sont-tombes-est-ce-un-chef-doeuvre-ou-un-petard-mouille/",
-      "publishedAt": "2026-11-18T11:43:06+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "AMD tease une annonce majeure au CES 2027 : Zen 6 enfin dévoilé ?",
-      "url": "https://www.clubic.com/actualite-639823-amd-tease-une-annonce-majeure-au-ces-2027-zen-6-enfin-devoile.html",
-      "publishedAt": "2026-11-18T11:42:00+00:00"
     },
     {
       "source": "boulet",
