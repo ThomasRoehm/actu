@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:10:47.894902+00:00",
+  "generatedAt": "2026-11-20T11:20:38.487616+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:10:47.894902+00:00"
+      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Club Dorothée, Game One, Pokémon : les Geek Days fêtent leurs 10 ans ce week-end à Lille !",
+      "url": "https://www.journaldugeek.com/2026/11/20/club-dorothee-game-one-pokemon-les-geek-days-fetent-leurs-10-ans-ce-week-end-a-lille/",
+      "publishedAt": "2026-11-20T11:15:06+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-20T11:11:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Google met Gemini au premier plan avec la mise à jour de sa recherche",
+      "url": "https://www.clubic.com/actualite-640231-google-met-gemini-au-premier-plan-avec-la-mise-a-jour-de-sa-recherche.html",
+      "publishedAt": "2026-11-20T11:11:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Apple veut déjà transformer Siri AI, pour en faire un outil encore plus complet",
+      "url": "https://www.iphon.fr/post/apple-siri-ai-outil-complet",
+      "publishedAt": "2026-11-20T11:10:42+00:00"
+    },
     {
       "source": "numerama",
       "title": "Votre PC passera-t-il le test ? Windows 11 pourra bientôt bloquer vos applications s’il est jugé mal protégé : voici les conditions",
@@ -148,16 +172,16 @@
       "publishedAt": "2026-11-20T11:09:03+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-20T11:05:00+00:00"
-    },
-    {
       "source": "iphon",
       "title": "iOS 27.3 débarque en bêta 2 publique : quelles sont les nouveautés ?",
       "url": "https://www.iphon.fr/post/ios-27-3-quelles-nouveautes",
       "publishedAt": "2026-11-20T11:03:02+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Comment les guerres ont-elles rapproché les peuples depuis 500 ans ?",
+      "url": "https://www.presse-citron.net/comment-guerres-ont-elles-rapproche-peuples-500-ans/",
+      "publishedAt": "2026-11-20T11:02:58+00:00"
     },
     {
       "source": "jdg",
@@ -1144,12 +1168,6 @@
       "publishedAt": "2026-11-19T17:30:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Ausar Thompson apprend à donner le tempo",
-      "url": "https://www.basketusa.com/news/958691/ausar-thompson-apprend-a-donner-le-tempo/",
-      "publishedAt": "2026-11-19T17:28:49+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Disney+ et Hulu unifient enfin leurs applications en décembre",
       "url": "https://www.generation-nt.com/actualites/disney-plus-hulu-unifient-decembre-2084749",
@@ -1274,6 +1292,12 @@
       "title": "Présidentielle 2027 : l'Arcom va chronométrer le temps de parole chez les YouTubeurs",
       "url": "https://www.mac4ever.com/societe/199151-presidentielle-2027-l-arcom-va-chronometrer-le-temps-de-parole-chez-les-youtubeurs",
       "publishedAt": "2026-11-19T16:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Ausar Thompson apprend à donner le tempo",
+      "url": "https://www.basketusa.com/news/958691/ausar-thompson-apprend-a-donner-le-tempo/",
+      "publishedAt": "2026-11-19T16:28:49+00:00"
     },
     {
       "source": "gnt",
@@ -3776,24 +3800,6 @@
       "title": "GTA 6 réclame jusqu’à 212 Go : pour le Black Friday ce SSD SanDisk 1 To officiel PS5 passe à 259,15€",
       "url": "https://www.clubic.com/bons-plans-639832-gta-6-reclame-jusqu-a-212-go-pour-le-black-friday-ce-ssd-sandisk-1-to-officiel-ps5-passe-a-259-15.html",
       "publishedAt": "2026-11-18T11:25:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le remake de Zelda Ocarina of Time sur PC s'offre un mode coopératif",
-      "url": "https://www.generation-nt.com/actualites/zelda-ocarina-time-remake-pc-coop-2084665",
-      "publishedAt": "2026-11-18T11:20:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Quelle est la durée de vie de GTA 6 ? On a terminé l’histoire, voici notre compteur",
-      "url": "https://www.journaldugeek.com/2026/11/18/quelle-est-la-duree-de-vie-de-gta-6-on-a-termine-lhistoire-voici-notre-compteur/",
-      "publishedAt": "2026-11-18T11:11:42+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Comment récupérer ses anciennes conversations WhatsApp ?",
-      "url": "https://www.iphon.fr/post/comment-recuperer-conversations-whatsapp",
-      "publishedAt": "2026-11-18T11:11:35+00:00"
     },
     {
       "source": "boulet",
