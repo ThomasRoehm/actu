@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:10:39.403452+00:00",
+  "generatedAt": "2026-11-20T10:20:38.841979+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:10:39.403452+00:00"
+      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Le vidéoprojecteur Xgimi MoGo 4 en promo à -31% pour le Black Friday : testé sur Mac4Ever !",
+      "url": "https://www.mac4ever.com/tv/199168-le-videoprojecteur-xgimi-mogo-4-en-promo-a-31-pour-le-black-friday-teste-sur-mac4ever",
+      "publishedAt": "2026-11-20T10:14:02+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Deux fusées américaines clouées au sol, 40 satellites perdus : Amazon n’a qu’un espoir à court terme pour sa constellation, et il s’appelle Ariane 6",
+      "url": "https://www.numerama.com/tech/2379573-deux-fusees-americaines-clouees-au-sol-40-satellites-perdus-amazon-na-quun-espoir-a-court-terme-pour-sa-constellation-et-il-sappelle-ariane-6.html",
+      "publishedAt": "2026-11-20T10:11:54+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : sorti il y a peu, le Google Pixel 11 Pro de 256 Go passe à 899€ chez Amazon",
       "url": "https://www.clubic.com/bons-plans-640225-black-friday-sorti-il-y-a-peu-le-google-pixel-11-pro-de-256-go-passe-a-899-chez-amazon.html",
       "publishedAt": "2026-11-20T10:10:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "« Des téléphones détruits et des données effacées » : après la rencontre entre Trump, Poutine, et Xi, les journalistes se sont pliés à une procédure stricte contre l’espionnage",
+      "url": "https://www.presse-citron.net/des-telephones-detruits-et-des-donnees-effacees-apres-la-rencontre-entre-trump-poutine-et-xi-les-journalistes-se-sont-plies-a-une-procedure-stricte-contre-lespionnage/",
+      "publishedAt": "2026-11-20T10:05:53+00:00"
     },
     {
       "source": "jdg",
@@ -328,12 +346,6 @@
       "publishedAt": "2026-11-20T09:09:51+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Damian Lillard en paix avec son expérience ratée à Milwaukee",
-      "url": "https://www.basketusa.com/news/959219/damian-lillard-en-paix-avec-son-experience-ratee-a-milwaukee/",
-      "publishedAt": "2026-11-20T09:09:37+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Pour le Black Friday : cette TV connectée de 190 cm de diagonale passe à 499€",
       "url": "https://www.clubic.com/bons-plans-640207-xiaomi-tv-f-pro-cette-tv-connectee-de-190-cm-de-diagonale-passe-a-499-pour-le-black-friday.html",
@@ -488,6 +500,12 @@
       "title": "Farcall - Un PC de 1981 qui s'ouvre dans votre terminal",
       "url": "https://korben.info/farcall-emulateur-dos-ssh.html",
       "publishedAt": "2026-11-20T08:10:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Damian Lillard en paix avec son expérience ratée à Milwaukee",
+      "url": "https://www.basketusa.com/news/959219/damian-lillard-en-paix-avec-son-experience-ratee-a-milwaukee/",
+      "publishedAt": "2026-11-20T08:09:37+00:00"
     },
     {
       "source": "jdg",
@@ -652,12 +670,6 @@
       "publishedAt": "2026-11-20T06:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
-      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
-      "publishedAt": "2026-11-20T06:44:06+00:00"
-    },
-    {
       "source": "presse",
       "title": "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise pour contrer la hausse du prix du carburant",
       "url": "https://www.presse-citron.net/limiter-la-vitesse-sur-les-autoroutes-a-80-km-h-ca-se-precise-pour-contrer-la-hausse-du-prix-du-carburant/",
@@ -736,6 +748,12 @@
       "publishedAt": "2026-11-20T06:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
+      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
+      "publishedAt": "2026-11-20T05:44:06+00:00"
+    },
+    {
       "source": "macg",
       "title": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code-312533",
@@ -767,15 +785,15 @@
     },
     {
       "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T04:50:03+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
       "publishedAt": "2026-11-20T04:43:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T03:50:03+00:00"
     },
     {
       "source": "macg",
@@ -874,12 +892,6 @@
       "publishedAt": "2026-11-19T18:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T18:40:51+00:00"
-    },
-    {
       "source": "jdg",
       "title": "GTA 6 nommé aux Game Awards 2026 avant même sa sortie, comment c’est possible ?",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
@@ -944,6 +956,12 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T17:40:51+00:00"
     },
     {
       "source": "gnt",
@@ -3776,36 +3794,6 @@
       "title": "Apple vend désormais des pièces détachées pour l’iPhone Duo, mais attention au prix",
       "url": "https://www.iphon.fr/post/apple-pieces-detachees-iphone-duo-attention-prix",
       "publishedAt": "2026-11-18T10:21:07+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Ça y est, la distance de Voyager 1 avec la Terre est si grande qu’il faut changer d’échelle d’unité pour la mesurer",
-      "url": "https://www.numerama.com/sciences/2352555-ca-y-est-la-distance-de-voyager-1-avec-la-terre-est-si-grande-quil-faut-changer-dechelle-dunite-pour-la-mesurer.html",
-      "publishedAt": "2026-11-18T10:20:03+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Sur Windows 11, Copilot pourra bientôt vous aider à comprendre pourquoi votre PC fait des siennes",
-      "url": "https://www.clubic.com/actualite-639817-sur-windows-11-copilot-pourra-bientot-vous-aider-a-comprendre-pourquoi-votre-pc-fait-des-siennes.html",
-      "publishedAt": "2026-11-18T10:19:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GPT-6.2 Astra et Sol : OpenAI lance ses nouveaux meilleurs modèles la veille de l’IPO d’Anthropic",
-      "url": "https://www.numerama.com/tech/2377531-gpt-6-2-astra-et-sol-openai-lance-ses-nouveaux-meilleurs-modeles-la-veille-de-lipo-danthropic.html",
-      "publishedAt": "2026-11-18T10:17:10+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Voyager 1 devient le premier objet humain à un jour-lumière de la Terre !",
-      "url": "https://www.journaldugeek.com/2026/11/18/voyager-1-devient-le-premier-objet-humain-a-un-jour-lumiere-de-la-terre/",
-      "publishedAt": "2026-11-18T10:16:36+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Avec Rubin HPC, NVIDIA dévoile un monstre de plus de 50 000 cœurs, mais AMD a déjà pris une longueur d’avance",
-      "url": "https://www.clubic.com/actualite-639802-avec-rubin-hpc-nvidia-devoile-un-monstre-de-plus-de-50-000-c-urs-mais-amd-a-deja-pris-une-longueur-d-avance.html",
-      "publishedAt": "2026-11-18T10:11:00+00:00"
     },
     {
       "source": "boulet",
