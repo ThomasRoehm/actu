@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:10:40.972537+00:00",
+  "generatedAt": "2026-11-20T07:20:43.444373+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:10:40.972537+00:00"
+      "lastSuccessAt": "2026-11-20T07:20:43.444373+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "LG, Samsung, Sony, Philips : les TV OLED CHUTENT jusqu’à -40% pour le Black Friday",
+      "url": "https://www.clubic.com/bons-plans-640159-lg-samsung-sony-philips-les-tv-oled-chutent-jusqu-a--40-pour-le-black-friday.html",
+      "publishedAt": "2026-11-20T07:13:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Anthropic dépasse les 2 000 milliards en Bourse, Nvidia mise 10 milliards sur Claude",
@@ -188,6 +194,12 @@
       "title": "La psychologie est formelle : les personnes qui laissent leurs notifications en non lues ont une façon bien à elles de gérer les interactions sociales",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-laissent-leurs-notifications-en-non-lues-ont-une-facon-bien-a-elles-de-gerer-les-interactions-sociales/",
       "publishedAt": "2026-11-20T06:54:08+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Canva vous laisse couper l'IA générative",
+      "url": "https://korben.info/canva-vous-laisse-couper-lia-generative.html",
+      "publishedAt": "2026-11-20T06:46:54+00:00"
     },
     {
       "source": "gnt",
@@ -1264,6 +1276,12 @@
       "publishedAt": "2026-11-19T11:50:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Pour Tyler Herro, un retour sous les sifflets à Miami",
+      "url": "https://www.basketusa.com/news/958966/pour-tyler-herro-un-retour-a-miami-sous-les-sifflets/",
+      "publishedAt": "2026-11-19T11:48:09+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Panique chez Meta : l’agent IA Muse serait un véritable cauchemar pour la vie privée des utilisateurs",
       "url": "https://www.clubic.com/actualite-640030-panique-chez-meta-l-agent-ia-muse-est-un-veritable-cauchemar-pour-la-vie-privee-des-utilisateurs.html",
@@ -1400,12 +1418,6 @@
       "title": "GTA 6 : records, astuces et secrets dans Leonida, toutes les infos après 24 heures de jeu (EN DIRECT)",
       "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct.html",
       "publishedAt": "2026-11-19T10:54:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Pour Tyler Herro, un retour sous les sifflets à Miami",
-      "url": "https://www.basketusa.com/news/958966/pour-tyler-herro-un-retour-a-miami-sous-les-sifflets/",
-      "publishedAt": "2026-11-19T10:48:09+00:00"
     },
     {
       "source": "jdg",
@@ -3824,30 +3836,6 @@
       "title": "iPhone 20 Pro : de nouvelles images confirment le design incurvé de l'écran",
       "url": "https://www.clubic.com/actualite-639769-iphone-20-pro-de-nouvelles-images-confirment-le-design-incurve-de-l-ecran.html",
       "publishedAt": "2026-11-18T07:22:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "L’ancien patron de Wall Street prédit l’implosion de la bulle IA avant 2028, faut-il y croire ?",
-      "url": "https://www.generation-nt.com/actualites/gary-gensler-patron-wall-street-bulle-ia-explosion-prediction-2084677",
-      "publishedAt": "2026-11-18T07:20:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Quentin Grimes (47 points) en sauveur, les Lakers miraculés !",
-      "url": "https://www.basketusa.com/news/958509/quentin-grimes-47-points-en-sauveur-les-lakers-miracules/",
-      "publishedAt": "2026-11-18T07:16:29+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "OpenAI sort GPT‑6.2 de son chapeau pour torpiller l’introduction en Bourse d’Anthropic",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/openai-sort-gpt-62-de-son-chapeau-pour-torpiller-lintroduction-en-bourse-danthropic-312481",
-      "publishedAt": "2026-11-18T07:15:50+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Le Grinch débarque chez Lush pour Noël, et l’odeur est à tomber",
-      "url": "https://www.journaldugeek.com/2026/11/18/le-grinch-debarque-chez-lush-pour-noel-et-lodeur-est-a-tomber/",
-      "publishedAt": "2026-11-18T07:13:02+00:00"
     },
     {
       "source": "boulet",
