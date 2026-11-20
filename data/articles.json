@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:40:48.454603+00:00",
+  "generatedAt": "2026-11-20T12:50:40.907135+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:40:48.454603+00:00"
+      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
+      "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
+      "publishedAt": "2026-11-20T12:48:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Jon McCormack, l’un des pères de la photo sur l’iPhone prend sa retraite",
+      "url": "https://www.iphon.fr/post/photo-iphone-apple-retraite-probleme",
+      "publishedAt": "2026-11-20T12:45:46+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : après Jason et Lucia tout nus, Cyberleek promet la version piratée du jeu complet pour le 23 novembre",
+      "url": "https://www.journaldugeek.com/2026/11/20/gta-6-apres-jason-et-lucia-tout-nus-cyberleek-promet-la-version-piratee-du-jeu-complet-pour-le-23-novembre/",
+      "publishedAt": "2026-11-20T12:41:04+00:00"
+    },
     {
       "source": "clubic",
       "title": "AMD Zen 6 : Les PC portables servis au CES, mais les futurs Ryzen de bureau retardés ?",
@@ -341,7 +359,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Paolo Banchero ne veut pas faire la même erreur que Franz Wagner",
+      "title": "Paolo Banchero veut éviter de faire la même erreur que Franz Wagner",
       "url": "https://www.basketusa.com/news/959231/paolo-banchero-ne-veut-pas-faire-la-meme-erreur-que-franz-wagner/",
       "publishedAt": "2026-11-20T10:43:19+00:00"
     },
@@ -488,6 +506,12 @@
       "title": "Votre iPhone est plein ? Archivez vos photos et vidéos sur Mac ou SSD pour le Black Friday (-62%)",
       "url": "https://www.mac4ever.com/mac/198999-votre-iphone-est-plein-archivez-vos-photos-et-videos-sur-mac-ou-ssd-pour-le-black-friday-62",
       "publishedAt": "2026-11-20T10:01:24+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La adidas A.E. 3 « Aurora » garde le rythme",
+      "url": "https://www.basketusa.com/news/959133/la-adidas-a-e-3-aurora-garde-le-rythme/",
+      "publishedAt": "2026-11-20T09:58:20+00:00"
     },
     {
       "source": "clubic",
@@ -662,12 +686,6 @@
       "title": "741 km d’autonomie et design italien : Lancia sort un SUV électrique ultra-séduisant, à un détail près…",
       "url": "https://www.presse-citron.net/741-km-autonomie-design-italien-lancia-sort-suv-electrique-ultra-seduisant-a-un-detail-pres/",
       "publishedAt": "2026-11-20T09:00:59+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La adidas A.E. 3 « Aurora » garde le rythme",
-      "url": "https://www.basketusa.com/news/959133/la-adidas-a-e-3-aurora-garde-le-rythme/",
-      "publishedAt": "2026-11-20T08:58:20+00:00"
     },
     {
       "source": "clubic",
@@ -1054,12 +1072,6 @@
       "publishedAt": "2026-11-20T06:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
-      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
-      "publishedAt": "2026-11-20T05:44:06+00:00"
-    },
-    {
       "source": "macg",
       "title": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code-312533",
@@ -1091,15 +1103,21 @@
     },
     {
       "source": "basketusa",
-      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
-      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
-      "publishedAt": "2026-11-20T04:43:01+00:00"
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T04:50:03+00:00"
     },
     {
       "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T03:50:03+00:00"
+      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
+      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
+      "publishedAt": "2026-11-20T04:44:06+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
+      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
+      "publishedAt": "2026-11-20T04:43:01+00:00"
     },
     {
       "source": "macg",
@@ -3740,48 +3758,6 @@
       "title": "Le nouveau ChatGPT vient de sortir, il promet des textes plus humains",
       "url": "https://www.journaldugeek.com/2026/11/18/le-nouveau-chatgpt-vient-de-sortir-il-promet-des-textes-plus-humains/",
       "publishedAt": "2026-11-18T12:52:14+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "On a joué à GTA 6 qui sort demain et voici tous nos articles en live",
-      "url": "https://www.journaldugeek.com/2026/11/18/on-a-joue-a-gta-6-qui-sort-demain-et-voici-tous-nos-articles-en-live/",
-      "publishedAt": "2026-11-18T12:50:15+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Denver Nuggets – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958314/denver-nuggets-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:46:34+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Google Maps : voici comment rouler en Formule 1 sur votre iPhone",
-      "url": "https://www.iphon.fr/post/tutoriel-google-maps-astuce-comment-changer-avatar-conduite",
-      "publishedAt": "2026-11-18T12:46:22+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "James Bond : c’est sûrement la fin de l’humour pour 007",
-      "url": "https://www.numerama.com/pop-culture/2377783-james-bond-cest-surement-la-fin-de-lhumour-pour-007.html",
-      "publishedAt": "2026-11-18T12:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Golden State Warriors : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958371/dallas-mavericks-golden-state-warriors-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:44:28+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Puces d'IA, Washington coupe l'accès à distance de la Chine",
-      "url": "https://korben.info/puces-dia-washington-coupe-lacces-a-distance-de-la-chine.html",
-      "publishedAt": "2026-11-18T12:43:07+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958605/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-18T12:42:31+00:00"
     },
     {
       "source": "boulet",
