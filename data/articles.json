@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:40:41.990882+00:00",
+  "generatedAt": "2026-11-20T14:50:39.384731+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:40:41.990882+00:00"
+      "lastSuccessAt": "2026-11-20T14:50:39.384731+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "GTA 6 jouable sur PC d’ici une semaine ? Un groupe affirme avoir récupéré des fichiers Xbox",
+      "url": "https://www.clubic.com/actualite-640321-gta-6-jouable-sur-pc-d-ici-une-semaine-un-groupe-affirme-avoir-recupere-des-fichiers-xbox.html",
+      "publishedAt": "2026-11-20T14:49:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Apple ferme ses forums aujourd’hui : comment sauvegarder leur contenu avant qu’il ne soit trop tard ?",
+      "url": "https://www.macg.co/aapl/2026/11/apple-ferme-ses-forums-aujourdhui-comment-sauvegarder-leur-contenu-avant-quil-ne-soit-trop-tard-312549",
+      "publishedAt": "2026-11-20T14:43:05+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Dix ans après le Brexit, les discussions du rapprochement entre le Royaume-Uni et l’Union européenne commencent",
+      "url": "https://www.presse-citron.net/dix-ans-apres-le-brexit-les-discussions-du-rapprochement-entre-le-royaume-uni-et-lunion-europeenne-commencent/",
+      "publishedAt": "2026-11-20T14:41:18+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "GTA 6 force les joueurs à être gentils avec leur copine, des streamers hurlent au jeu woke",
+      "url": "https://www.mac4ever.com/gaming/199173-gta-6-force-les-joueurs-a-etre-gentils-avec-leur-copine-des-streamers-hurlent-au-jeu-woke",
+      "publishedAt": "2026-11-20T14:41:00+00:00"
+    },
     {
       "source": "jdg",
       "title": "GTA 6 : où trouver la voiture l’Ecplise de Paul Walker en mode Fast and Furious",
@@ -304,12 +328,6 @@
       "publishedAt": "2026-11-20T12:50:55+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:48:05+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
       "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
@@ -326,12 +344,6 @@
       "title": "Jon McCormack, l’un des pères de la photo sur l’iPhone prend sa retraite",
       "url": "https://www.iphon.fr/post/photo-iphone-apple-retraite-probleme",
       "publishedAt": "2026-11-20T12:45:46+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:43:12+00:00"
     },
     {
       "source": "jdg",
@@ -410,6 +422,18 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:48:05+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:43:12+00:00"
     },
     {
       "source": "presse",
@@ -520,6 +544,12 @@
       "publishedAt": "2026-11-20T11:00:42+00:00"
     },
     {
+      "source": "tda",
+      "title": "Matchs NCAA de la semaine : spécial bonnes affaires pour la draft",
+      "url": "https://touchdownactu.com/361054/matchs-ncaa-de-la-semaine-special-bonnes-affaires-pour-la-draft/",
+      "publishedAt": "2026-11-20T11:00:04+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Un arceau, deux baquets et 367 ch : Volkswagen radicalise son ID. Polo GTI",
       "url": "https://www.numerama.com/vroom/2379639-un-arceau-deux-baquets-et-367-ch-volkswagen-radicalise-son-id-polo-gti.html",
@@ -548,12 +578,6 @@
       "title": "Darty baisse de 200 € l’écran Samsung Odyssey OLED G9 de 49 pouces pour le Black Friday",
       "url": "https://www.numerama.com/tech/2379685-darty-baisse-de-200-e-lecran-samsung-odyssey-oled-g9-de-49-pouces-pour-le-black-friday.html",
       "publishedAt": "2026-11-20T10:43:20+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Paolo Banchero veut éviter de faire la même erreur que Franz Wagner",
-      "url": "https://www.basketusa.com/news/959231/paolo-banchero-ne-veut-pas-faire-la-meme-erreur-que-franz-wagner/",
-      "publishedAt": "2026-11-20T10:43:19+00:00"
     },
     {
       "source": "iphon",
@@ -760,6 +784,12 @@
       "publishedAt": "2026-11-20T09:45:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Paolo Banchero veut éviter de faire la même erreur que Franz Wagner",
+      "url": "https://www.basketusa.com/news/959231/paolo-banchero-ne-veut-pas-faire-la-meme-erreur-que-franz-wagner/",
+      "publishedAt": "2026-11-20T09:43:19+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "L'ouvre-porte de garage et portail 1Control compatible CarPlay est en promo pour le Black Friday !",
       "url": "https://www.mac4ever.com/auto/199167-l-ouvre-porte-de-garage-et-portail-1control-compatible-carplay-est-en-promo-pour-le-black-friday",
@@ -794,6 +824,12 @@
       "title": "« Une peau artificielle vivante prête à être greffée sur des patients » : le laboratoire Urgo célèbre une première mondiale",
       "url": "https://www.presse-citron.net/une-peau-artificielle-vivante-prete-a-etre-greffee-sur-des-patients-le-laboratoire-urgo-celebre-une-premiere-mondiale/",
       "publishedAt": "2026-11-20T09:30:36+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[Preview] Semaine 11 : la NFL fait son retour au Mexique",
+      "url": "https://touchdownactu.com/361508/preview-semaine-11-la-nfl-fait-son-retour-au-mexique/",
+      "publishedAt": "2026-11-20T09:30:07+00:00"
     },
     {
       "source": "basketusa",
@@ -1048,12 +1084,6 @@
       "publishedAt": "2026-11-20T07:54:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T07:53:08+00:00"
-    },
-    {
       "source": "iphon",
       "title": "App Store Awards : voici les meilleures apps iPhone de 2026",
       "url": "https://www.iphon.fr/post/apple-app-store-awards-applications-nominees",
@@ -1174,6 +1204,12 @@
       "publishedAt": "2026-11-20T06:54:08+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T06:53:08+00:00"
+    },
+    {
       "source": "korben",
       "title": "Canva vous laisse couper l'IA générative",
       "url": "https://korben.info/canva-vous-laisse-couper-lia-generative.html",
@@ -1264,12 +1300,6 @@
       "publishedAt": "2026-11-20T06:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
-      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
-      "publishedAt": "2026-11-20T05:44:06+00:00"
-    },
-    {
       "source": "macg",
       "title": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code-312533",
@@ -1304,6 +1334,12 @@
       "title": "Victor Wembanyama fait plier les Clippers en fin de match",
       "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
       "publishedAt": "2026-11-20T04:50:03+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
+      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
+      "publishedAt": "2026-11-20T04:44:06+00:00"
     },
     {
       "source": "basketusa",
@@ -3662,36 +3698,6 @@
       "title": "GTA 6 n’est pas parfait : ce que lui reprochent les tests les plus sévères",
       "url": "https://www.numerama.com/pop-culture/2378089-gta-6-nest-pas-parfait-ce-que-lui-reprochent-les-tests-les-plus-severes.html",
       "publishedAt": "2026-11-18T14:55:01+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Nextcloud Office - La suite libre qui se passe du cloud",
-      "url": "https://korben.info/nextcloud-office-desktop.html",
-      "publishedAt": "2026-11-18T14:50:03+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Land Rover perd sa bataille judiciaire contre BYD : les juges ne reconnaissent pas le plagiat du Defender",
-      "url": "https://www.presse-citron.net/land-rover-perd-sa-bataille-judiciaire-contre-byd-les-juges-ne-reconnaissent-pas-le-plagiat-du-defender/",
-      "publishedAt": "2026-11-18T14:49:19+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : attention, vous pourriez rater ce trophée dès le début du jeu !",
-      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-attention-vous-pourriez-rater-ce-trophee-des-le-debut-du-jeu/",
-      "publishedAt": "2026-11-18T14:45:34+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Les enceintes Sonos Era 100 et 300 bradées pour le Black Friday : jusqu'à -34% !",
-      "url": "https://www.mac4ever.com/audio/199112-les-enceintes-sonos-era-100-et-300-bradees-pour-le-black-friday-jusqu-a-34",
-      "publishedAt": "2026-11-18T14:45:25+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Suno ajoute la vidéo à la musique par IA",
-      "url": "https://www.generation-nt.com/actualites/suno-visuals-generation-video-droits-auteur-ia-musique-2084715",
-      "publishedAt": "2026-11-18T14:45:01+00:00"
     },
     {
       "source": "boulet",
