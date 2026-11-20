@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:50:43.059708+00:00",
+  "generatedAt": "2026-11-20T18:01:08.282631+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:50:43.059708+00:00"
+      "lastSuccessAt": "2026-11-20T18:01:08.282631+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-20T17:59:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 a perdu de sa saveur ? Voici la BD qu’il vous faut",
+      "url": "https://www.journaldugeek.com/dossier/american-caper-une-bd-totalement-barge-que-vous-devriez-lire-avant-de-jouer-a-gta-6/",
+      "publishedAt": "2026-11-20T17:50:27+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Ce géant du streaming illégal ferme ses portes",
+      "url": "https://www.generation-nt.com/actualites/dizigom-streaming-illegal-fermeture-2084878",
+      "publishedAt": "2026-11-20T17:50:02+00:00"
+    },
     {
       "source": "clubic",
       "title": "Le Bitcoin connaît une journée cauchemardesque, et passe sous les 60 000 dollars",
@@ -170,6 +188,12 @@
       "title": "Comment El Niño bouleverse le climat : les explications d’un climatologue (VIDÉO)",
       "url": "https://www.numerama.com/sciences/2380449-comment-el-nino-bouleverse-le-climat-les-explications-dun-climatologue-video.html",
       "publishedAt": "2026-11-20T17:35:02+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le réseau PlayStation a subit des pannes majeures lors du lancement de Grand Theft Auto VI",
+      "url": "https://www.generation-nt.com/actualites/reseau-playstation-pannes-gta-vi-2084840",
+      "publishedAt": "2026-11-20T17:35:01+00:00"
     },
     {
       "source": "macg",
@@ -272,12 +296,6 @@
       "title": "Elon Musk investit dans Skydance et relance le débat sur l’avenir de Warner Bros",
       "url": "https://www.journaldugeek.com/2026/11/20/elon-musk-investit-dans-skydance-et-relance-le-debat-sur-lavenir-de-warner-bros/",
       "publishedAt": "2026-11-20T16:34:25+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-20T16:31:00+00:00"
     },
     {
       "source": "gnt",
@@ -724,12 +742,6 @@
       "publishedAt": "2026-11-20T12:51:11+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:48:05+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
       "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
@@ -836,6 +848,12 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:48:05+00:00"
     },
     {
       "source": "presse",
@@ -3734,12 +3752,6 @@
       "title": "SpaceX doit «assumer» ses déchets alors qu’une partie du Starship est tombé au Mexique",
       "url": "https://www.journaldugeek.com/2026/11/18/spacex-dechets-starship-mexique/",
       "publishedAt": "2026-11-18T18:01:41+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Diesel à 2,13 €/L, essence à 1,98 €/L : les prix du carburant sont au plus bas en France depuis le mois d’août",
-      "url": "https://www.presse-citron.net/diesel-a-213-e-l-essence-a-198-e-l-les-prix-du-carburant-sont-au-plus-bas-en-france-depuis-le-mois-daout/",
-      "publishedAt": "2026-11-18T17:54:05+00:00"
     },
     {
       "source": "boulet",
