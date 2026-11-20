@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:01:06.370835+00:00",
+  "generatedAt": "2026-11-20T16:10:37.710039+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,45 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
+      "lastSuccessAt": "2026-11-20T16:10:37.710039+00:00"
     }
   ],
   "articles": [
     {
+      "source": "numerama",
+      "title": "Un Graal des maths tombe : un chercheur d’Anthropic revendique avoir résolu l’hypothèse de Riemann avec l’IA Claude",
+      "url": "https://www.numerama.com/tech/2380265-un-graal-des-maths-tombe-un-chercheur-danthropic-revendique-avoir-resolu-lhypothese-de-riemann-avec-lia-claude.html",
+      "publishedAt": "2026-11-20T16:08:44+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-20T15:53:00+00:00"
+      "publishedAt": "2026-11-20T16:05:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : 10 astuces et conseils pour bien débuter à Vice City sans rien dépenser !",
+      "url": "https://www.journaldugeek.com/dossier/gta-6-10-astuces-et-conseils-pour-bien-debuter-a-vice-city-sans-rien-depenser/",
+      "publishedAt": "2026-11-20T16:02:04+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Boxe fibre : Sosh frappe un grand coup pour le Black Friday",
+      "url": "https://www.clubic.com/actualite-640318-black-friday-sosh-brade-sa-box-fibre-avec-un-cadeau-en-plus.html",
+      "publishedAt": "2026-11-20T16:01:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "GTA 6 : un pirate diffuse 209 Go du jeu, mais injouable sur PC",
+      "url": "https://www.mac4ever.com/gaming/199176-gta-6-un-pirate-diffuse-209-go-du-jeu-mais-injouable-sur-pc",
+      "publishedAt": "2026-11-20T16:01:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Laisseriez-vous votre enfant seul avec un chauffeur de VTC ? Uber en est convaincu : voici Uber Kids",
+      "url": "https://www.presse-citron.net/laisseriez-vous-votre-enfant-seul-avec-un-chauffeur-de-vtc-uber-en-est-convaincu-voici-uber-kids/",
+      "publishedAt": "2026-11-20T16:00:11+00:00"
     },
     {
       "source": "iphon",
@@ -3680,24 +3710,6 @@
       "title": "Bilan Arcep 2026 : quel opérateur mobile offre la meilleure couverture en France en 2026 ?",
       "url": "https://www.generation-nt.com/actualites/arcep-qualite-mobile-reseau-5g-operateurs-telecoms-couverture-france-2084757",
       "publishedAt": "2026-11-18T16:15:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Google Wallet débarque sur iPhone, mais sans le paiement sans contact, et sans la France",
-      "url": "https://www.mac4ever.com/iphone/199114-google-wallet-debarque-sur-iphone-mais-sans-le-paiement-sans-contact-et-sans-la-france",
-      "publishedAt": "2026-11-18T16:10:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : qu’est-ce qu’il se passe quand on essaye de traverser l’océan Atlantique ?",
-      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-quest-ce-quil-se-passe-quand-on-essaye-de-traverser-locean-atlantique/",
-      "publishedAt": "2026-11-18T16:07:55+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Tout ça pour ça ! NVIDIA annulerait la GeForce RTX 5080 24 Go : la GDDR7 est trop chère",
-      "url": "https://www.clubic.com/actualite-639910-tout-ca-pour-ca-nvidia-annulerait-la-geforce-rtx-5080-24-go-la-gddr7-est-trop-chere.html",
-      "publishedAt": "2026-11-18T16:04:00+00:00"
     },
     {
       "source": "boulet",
