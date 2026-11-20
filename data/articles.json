@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T13:30:53.749196+00:00",
+  "generatedAt": "2026-11-20T13:40:43.717440+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:30:53.749196+00:00"
+      "lastSuccessAt": "2026-11-20T13:40:43.717440+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Alerte sur Mars : Perseverance est en panne et son principal relais n’a plus que 2 mois de vie",
+      "url": "https://www.numerama.com/sciences/2379549-alerte-sur-mars-perseverance-est-en-panne-et-son-principal-relais-na-plus-que-2-mois-de-vie.html",
+      "publishedAt": "2026-11-20T13:34:21+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "L’Âge de Glace change de maison : Disney dévoile une bande-annonce qui devrait rassurer les fans",
+      "url": "https://www.journaldugeek.com/2026/11/20/lage-de-glace-change-de-maison-disney-devoile-une-bande-annonce-qui-devrait-rassurer-les-fans/",
+      "publishedAt": "2026-11-20T13:33:09+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Sixers sont-ils trop dépendants de leurs fins de match ?",
+      "url": "https://www.basketusa.com/news/959320/les-sixers-sont-ils-trop-dependants-de-leurs-fins-de-match/",
+      "publishedAt": "2026-11-20T13:27:48+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Anthropic entre en Bourse et dépasse brièvement les 2 000 milliards de dollars",
+      "url": "https://korben.info/anthropic-entre-en-bourse-et-depasse-brievement-les-2-000-milliards-de-dollars.html",
+      "publishedAt": "2026-11-20T13:23:56+00:00"
+    },
     {
       "source": "gnt",
       "title": "Pannes géantes aux États-Unis : le directeur cyber de la Maison-Blanche prend la porte !",
@@ -3692,30 +3716,6 @@
       "title": "Microsoft Defender va pouvoir protéger les systèmes vulnérables sans attendre l'installation d'un correctif",
       "url": "https://www.clubic.com/actualite-639865-microsoft-defender-va-pouvoir-proteger-les-systemes-vulnerables-sans-attendre-l-installation-d-un-correctif.html",
       "publishedAt": "2026-11-18T13:43:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Des algorithmes de droits d'auteur censurent une artiste au profit de vidéos générées par IA",
-      "url": "https://www.generation-nt.com/actualites/algorithmes-censure-artiste-videos-ia-2084669",
-      "publishedAt": "2026-11-18T13:40:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Galaxy Studio : Samsung relance un casque audio dix ans après, face à l'AirPods Max",
-      "url": "https://www.mac4ever.com/audio/199106-galaxy-studio-samsung-relance-un-casque-audio-dix-ans-apres-face-a-l-airpods-max",
-      "publishedAt": "2026-11-18T13:39:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : comment se faire de l’argent le plus facilement possible ?",
-      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-comment-se-faire-de-largent-le-plus-facilement-possible/",
-      "publishedAt": "2026-11-18T13:37:48+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Dernières heures du 11.11 : 16 offres AliExpress dont la Switch 2, le OnePlus Pad 4 et la DJI Osmo Pocket 4P...",
-      "url": "https://www.clubic.com/bons-plans-638680-c-est-le-jour-j-du-11-11-aliexpress-lance-33-offres-tech-jusqu-a-80-moins-cheres-avec-nos-codes.html",
-      "publishedAt": "2026-11-18T13:34:00+00:00"
     },
     {
       "source": "boulet",
