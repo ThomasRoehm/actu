@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:20:40.858343+00:00",
+  "generatedAt": "2026-11-20T14:30:57.058686+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T14:20:40.858343+00:00"
+      "lastSuccessAt": "2026-11-20T14:30:57.058686+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "En plein GTA 6, le monument français du jeu vidéo Ubisoft lance « Motherbrain » et supprime 166 postes",
+      "url": "https://www.presse-citron.net/en-plein-gta-6-le-monument-francais-du-jeu-video-ubisoft-lance-motherbrain-et-supprime-166-postes/",
+      "publishedAt": "2026-11-20T14:21:40+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Les Anneaux de pouvoir : c’est quoi le Thangorodrim, ces volcans de Tolkien où tout a mal tourné pour Galadriel",
+      "url": "https://www.numerama.com/pop-culture/2379923-les-anneaux-de-pouvoir-cest-quoi-le-thangorodrim-ces-volcans-de-tolkien-ou-tout-a-mal-tourne-pour-galadriel.html",
+      "publishedAt": "2026-11-20T14:21:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Le Français Mistral a choisi Singapour pour exporter son IA dite \"souveraine\" en Asie",
@@ -152,6 +164,12 @@
       "title": "Google Wallet sur iPhone : 3 raisons de l’utiliser à la place d’Apple Pay",
       "url": "https://www.iphon.fr/post/google-wallet-iphone-raisons-apple-pay",
       "publishedAt": "2026-11-20T14:15:45+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Microsoft accélère le déploiement de Windows 11 26H2 pendant que les fichiers de 27H2 apparaissent déjà",
+      "url": "https://www.generation-nt.com/actualites/microsoft-accelere-windows-26h2-27h2-2084838",
+      "publishedAt": "2026-11-20T14:15:01+00:00"
     },
     {
       "source": "clubic",
@@ -1234,12 +1252,6 @@
       "publishedAt": "2026-11-20T06:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
-      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
-      "publishedAt": "2026-11-20T05:44:06+00:00"
-    },
-    {
       "source": "macg",
       "title": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code-312533",
@@ -1274,6 +1286,12 @@
       "title": "Victor Wembanyama fait plier les Clippers en fin de match",
       "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
       "publishedAt": "2026-11-20T04:50:03+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
+      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
+      "publishedAt": "2026-11-20T04:44:06+00:00"
     },
     {
       "source": "basketusa",
@@ -3698,24 +3716,6 @@
       "title": "Pour Stephen Curry, son dernier contrat est peut-être déjà signé…",
       "url": "https://www.basketusa.com/news/958421/pour-stephen-curry-son-dernier-contrat-est-peut-etre-deja-signe/",
       "publishedAt": "2026-11-18T14:32:59+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le vrai frein à l’achat d’une voiture électrique n’est pas celui que l’on croit",
-      "url": "https://www.numerama.com/vroom/2377933-le-vrai-frein-a-lachat-dune-voiture-electrique-nest-pas-celui-que-lon-croit.html",
-      "publishedAt": "2026-11-18T14:25:07+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Puces mémoire : l'alliance inattendue pour standardiser la recharge des robots en usine",
-      "url": "https://www.generation-nt.com/actualites/puces-memoire-standard-recharge-robots-2084670",
-      "publishedAt": "2026-11-18T14:25:02+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Plus de place sur votre PC ? Voici comment demander à ChatGPT ou Claude de faire le tri",
-      "url": "https://www.clubic.com/actualite-637789-plus-de-place-sur-votre-pc-voici-comment-demander-a-chatgpt-ou-claude-de-faire-le-tri.html",
-      "publishedAt": "2026-11-18T14:22:00+00:00"
     },
     {
       "source": "boulet",
