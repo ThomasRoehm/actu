@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:50:42.135441+00:00",
+  "generatedAt": "2026-11-20T17:01:08.318011+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:50:42.135441+00:00"
+      "lastSuccessAt": "2026-11-20T17:01:08.318011+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Tesla Model Y : Elon Musk a l'étrange envie de... supprimer le volant !",
+      "url": "https://www.clubic.com/actualite-640366-tesla-model-y-elon-musk-a-l-etrange-envie-de-supprimer-le-volant.html",
+      "publishedAt": "2026-11-20T16:58:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Amazon : les meilleures offres de la Black Week à saisir ce week-end, notre TOP 100 jusqu’à -67%",
+      "url": "https://www.clubic.com/bons-plans-640309-black-friday-amazon-les-meilleures-offres-de-la-black-week-a-saisir-ce-week-end-notre-top-100-jusqu-a--67.html",
+      "publishedAt": "2026-11-20T16:53:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "La fuite de la Lenovo Legion Go Beam annonce une console portable plus simple et moins chère",
+      "url": "https://www.generation-nt.com/actualites/fuite-lenovo-legion-go-beam-2084853",
+      "publishedAt": "2026-11-20T16:50:01+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "L'enceinte XXL Teufel AirPlay 2 en promo pour le Black Friday : profitez du meilleur prix !",
@@ -158,6 +176,12 @@
       "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
       "publishedAt": "2026-11-20T16:31:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday et Cyber Monday Acer 2026 : jusqu’à 50 % de remise et un code promo exclusif",
+      "url": "https://www.generation-nt.com/actualites/acer-black-friday-promos-pc-portable-nitro-aspire-swift-air-go-ai-oled-fixe-bureau-projecteur-ecran-gaming-manette-souris-2084861",
+      "publishedAt": "2026-11-20T16:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -3686,30 +3710,6 @@
       "title": "Jeff Bezos a imposé Robert Pattinson dans le costume de James Bond",
       "url": "https://www.generation-nt.com/actualites/james-bond-robert-pattinson-jeff-bezos-influence-amazon-2084740",
       "publishedAt": "2026-11-18T17:10:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "C’est officiel : voici l’opérateur avec le meilleur réseau mobile en France en 2026",
-      "url": "https://www.iphon.fr/post/officiel-voici-operateur-meilleur-reseau-mobile-france-2026",
-      "publishedAt": "2026-11-18T17:01:06+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Qobuz débarque enfin sur Apple TV avec son sans perte en 24 bits/192 kHz",
-      "url": "https://www.mac4ever.com/audio/199116-qobuz-debarque-enfin-sur-apple-tv-avec-son-sans-perte-en-24-bits-192-khz",
-      "publishedAt": "2026-11-18T17:01:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iCloud+ s’offre une nouvelle fonctionnalité gratuite, voici comment l’utiliser",
-      "url": "https://www.iphon.fr/post/icloud-fonctionnalite-gratuite-utiliser",
-      "publishedAt": "2026-11-18T17:00:22+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Fichiers, le « Google Drive » souverain de l'État, sort de bêta et revendique déjà 150 000 utilisateurs",
-      "url": "https://www.clubic.com/actualite-639859-fichiers-le-google-drive-souverain-de-l-etat-sort-de-beta-et-revendique-deja-150-000-utilisateurs.html",
-      "publishedAt": "2026-11-18T16:55:00+00:00"
     },
     {
       "source": "boulet",
