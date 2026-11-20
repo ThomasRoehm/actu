@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:50:39.445983+00:00",
+  "generatedAt": "2026-11-20T10:01:08.527578+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T09:50:39.445983+00:00"
+      "lastSuccessAt": "2026-11-20T10:01:08.527578+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Après le piratage du fisc et des frigos, Sébastien Lecornu dévoile son plan de cybersécurité pour la France",
+      "url": "https://www.clubic.com/actualite-640228-apres-le-piratage-du-fisc-et-des-frigos-sebastien-lecornu-devoile-son-plan-de-cybersecurite-pour-la-france.html",
+      "publishedAt": "2026-11-20T09:57:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Chiffrement Apple : un tribunal oblige Londres à sortir du silence",
+      "url": "https://www.mac4ever.com/securite/199163-chiffrement-apple-un-tribunal-oblige-londres-a-sortir-du-silence",
+      "publishedAt": "2026-11-20T09:55:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 est déjà jouable à la première personne grâce à cette astuce",
+      "url": "https://www.numerama.com/pop-culture/2379571-gta-6-est-deja-jouable-a-la-premiere-personne-grace-a-cette-astuce.html",
+      "publishedAt": "2026-11-20T09:54:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Black Friday : l’iPhone 17 Pro coûte 20 € de moins que l’iPhone 17 chez ce marchand qui mérite une ovation",
+      "url": "https://www.iphon.fr/post/black-friday-iphone-17-pro-moins-cher-iphone-17",
+      "publishedAt": "2026-11-20T09:51:15+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Apple en promo, c’est rare : Amazon baisse l’iPhone 17 Pro, le MacBook Air M5 et 9 autres produits avant le Black Friday",
+      "url": "https://www.clubic.com/bons-plans-638878-amazon-fait-le-plein-de-promos-apple-avant-le-black-friday-de-l-ipad-au-airpods-pro-3.html",
+      "publishedAt": "2026-11-20T09:50:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Attendez, le chien jet-ski de GTA 6 existe vraiment",
@@ -146,6 +176,12 @@
       "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
       "publishedAt": "2026-11-20T09:46:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "TSMC et Samsung suspendent des puces pour des clients chinois",
+      "url": "https://www.generation-nt.com/actualites/tsmc-samsung-puces-ia-chine-sanctions-2084872",
+      "publishedAt": "2026-11-20T09:45:01+00:00"
     },
     {
       "source": "clubic",
@@ -808,6 +844,12 @@
       "publishedAt": "2026-11-19T18:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T18:40:51+00:00"
+    },
+    {
       "source": "jdg",
       "title": "GTA 6 nommé aux Game Awards 2026 avant même sa sortie, comment c’est possible ?",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
@@ -872,12 +914,6 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T17:40:51+00:00"
     },
     {
       "source": "gnt",
@@ -2060,12 +2096,6 @@
       "title": "Black Friday : LiberNovo casse les prix de ses meilleures chaises ergonomiques (jusqu’à -44%)",
       "url": "https://www.presse-citron.net/black-friday-libernovo-casse-les-prix-de-ses-meilleures-chaises-ergonomiques-jusqua-44/",
       "publishedAt": "2026-11-19T09:30:06+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Apple : Amazon lance déjà 10 offres DINGUE, de l’iPhone 17 Pro aux AirPods Pro 3",
-      "url": "https://www.clubic.com/bons-plans-638878-amazon-fait-le-plein-de-promos-apple-avant-le-black-friday-de-l-ipad-au-airpods-pro-3.html",
-      "publishedAt": "2026-11-19T09:28:00+00:00"
     },
     {
       "source": "gnt",
@@ -3758,84 +3788,6 @@
       "title": "WhatsApp veut vous faire oublier Google Drive, mais son offre gratuite risque de vous laisser sur votre faim",
       "url": "https://www.clubic.com/actualite-639793-whatsapp-veut-vous-faire-oublier-google-drive-mais-son-offre-risque-de-vous-laisser-sur-votre-faim.html",
       "publishedAt": "2026-11-18T10:03:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Avis Avast VPN : un vrai VPN gratuit, et quelques bonnes raisons de tiquer",
-      "url": "https://www.clubic.com/avis-639553-avis-avast-vpn-un-vrai-vpn-gratuit-et-quelques-bonnes-raisons-de-tiquer.html",
-      "publishedAt": "2026-11-18T10:01:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Slow Horses renouvelée jusqu'à la saison 10, du jamais vu chez Apple TV",
-      "url": "https://www.mac4ever.com/tv/199100-slow-horses-renouvelee-jusqu-a-la-saison-10-du-jamais-vu-chez-apple-tv",
-      "publishedAt": "2026-11-18T10:01:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "P’tite Planète : quelles parties du jeu utilisent l’intelligence artificielle ?",
-      "url": "https://www.journaldugeek.com/2026/11/18/ptite-planete-quelles-parties-du-jeu-utilisent-lintelligence-artificielle/",
-      "publishedAt": "2026-11-18T10:00:51+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : l’excellente souris Logitech MX Vertical à 47 €, la Lift à 40 €",
-      "url": "https://www.macg.co/materiel/2026/11/black-friday-lexcellente-souris-logitech-mx-vertical-47-eu-la-lift-40-eu-312485",
-      "publishedAt": "2026-11-18T09:59:11+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : Amazon lance déjà 50 offres tech jusqu’à -73%, avant même le 27 novembre",
-      "url": "https://www.clubic.com/bons-plans-639460-black-friday-2026-amazon-frappe-fort-aujourd-hui-avec-30-offres-tech-du-pixel-11-a-649-a-la-tv-ambilight-a-446.html",
-      "publishedAt": "2026-11-18T09:59:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Depuis 10 ans, le fondateur d’Oculus prépare une base industrielle en pleine mer pour échapper aux règles américaines",
-      "url": "https://www.numerama.com/tech/2377459-depuis-10-ans-le-fondateur-doculus-prepare-une-base-industrielle-en-pleine-mer-pour-echapper-aux-regles-americaines.html",
-      "publishedAt": "2026-11-18T09:58:29+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "WoW Forever : l’astuce pour farmer des golds est stoppée par Blizzard, qui suspend des comptes après l’exploitation d’un bug d’or",
-      "url": "https://www.numerama.com/pop-culture/2377535-wow-forever-lastuce-pour-farmer-des-golds-est-stoppee-par-blizzard-qui-suspend-des-comptes-apres-lexploitation-dun-bug-dor.html",
-      "publishedAt": "2026-11-18T09:58:22+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "« Je vois tout » : le système testé par l'armée de Terre prédit les déplacements ennemis",
-      "url": "https://www.clubic.com/actualite-639799-je-vois-tout-le-systeme-teste-par-l-armee-de-terre-predit-les-deplacements-ennemis.html",
-      "publishedAt": "2026-11-18T09:58:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "L’écran OLED des MacBook Pro peut gêner les personnes sensibles au scintillement",
-      "url": "https://www.macg.co/mac/2026/11/lecran-oled-des-macbook-pro-peut-gener-les-personnes-sensibles-au-scintillement-312487",
-      "publishedAt": "2026-11-18T09:57:48+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Produits illégaux : l'UE accuse Temu de ne pas en faire assez",
-      "url": "https://www.generation-nt.com/actualites/produit-illegaux-temu-dsa-europe-controle-moderation-2084714",
-      "publishedAt": "2026-11-18T09:56:24+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "GTA 6 : congés, vie de couple… on n’en ferait pas un peu trop pour un jeu vidéo ? (Edito)",
-      "url": "https://www.presse-citron.net/gta-6-conges-vie-couple-ferait-trop-pour-jeu-video/",
-      "publishedAt": "2026-11-18T09:56:13+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Si l’un de vos mots de passe est sur ce Top 200, changez-le immédiatement",
-      "url": "https://www.presse-citron.net/si-lun-de-vos-mots-de-passe-est-sur-ce-top-200-changez-le-immediatement/",
-      "publishedAt": "2026-11-18T09:56:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : les joueurs PC privés de cloud gaming, même une Xbox One de 2013 fera mieux !",
-      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-les-joueurs-pc-prives-de-cloud-gaming-meme-une-xbox-one-de-2013-fera-mieux/",
-      "publishedAt": "2026-11-18T09:51:19+00:00"
     },
     {
       "source": "boulet",
