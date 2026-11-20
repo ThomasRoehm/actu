@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:40:41.242176+00:00",
+  "generatedAt": "2026-11-20T07:50:41.250553+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:40:41.242176+00:00"
+      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "App Store Awards : voici les meilleures apps iPhone de 2026",
+      "url": "https://www.iphon.fr/post/apple-app-store-awards-applications-nominees",
+      "publishedAt": "2026-11-20T07:47:39+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Si vous êtes chez Mullvad, pensez à vérifier votre DNS",
+      "url": "https://www.clubic.com/actualite-640093-si-vous-etes-chez-mullvad-pensez-a-verifier-votre-dns.html",
+      "publishedAt": "2026-11-20T07:46:00+00:00"
+    },
     {
       "source": "macg",
       "title": "Gemini apprend à son tour à contrôler le Mac en langage naturel",
@@ -349,7 +361,7 @@
       "source": "macg",
       "title": "Pas touche à Apple Intelligence : Cupertino tente de bloquer sa suppression",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/pas-touche-apple-intelligence-cupertino-tente-de-bloquer-sa-suppression-312531",
-      "publishedAt": "2026-11-20T05:07:34+00:00"
+      "publishedAt": "2026-11-20T05:07:00+00:00"
     },
     {
       "source": "basketusa",
@@ -3812,36 +3824,6 @@
       "title": "GTA 6 : comment suivre le match de NBA entre le Miami Heat et les Milwaukee Bucks ?",
       "url": "https://www.numerama.com/pop-culture/2377351-gta-6-comment-suivre-le-match-de-nba-entre-le-miami-heat-et-les-milwaukee-bucks.html",
       "publishedAt": "2026-11-18T07:52:58+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iOS 27.3 : ces 2 nouveautés arrivent, mais pas pour tout le monde",
-      "url": "https://www.iphon.fr/post/ios-27-3-quotas-apple-intelligence-etendus-abonnement-icloud",
-      "publishedAt": "2026-11-18T07:49:34+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "OpenAI lance un outil gratuit pour bloquer les abus pédopornographiques générés par IA",
-      "url": "https://www.generation-nt.com/actualites/openai-outil-detection-pedopornographie-ia-2084612",
-      "publishedAt": "2026-11-18T07:45:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama regrette un manque d’intelligence des Spurs",
-      "url": "https://www.basketusa.com/news/958492/victor-wembanyama-regrette-un-manque-dintelligence-des-spurs/",
-      "publishedAt": "2026-11-18T07:45:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Piratage chez La Poste : les adresses de 22 millions de Français volées",
-      "url": "https://www.mac4ever.com/securite/199096-piratage-chez-la-poste-les-adresses-de-22-millions-de-francais-volees",
-      "publishedAt": "2026-11-18T07:45:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Lumo Desktop : l’IA de Proton se connecte à vos fichiers, à vos applications et à un calendrier de tâches",
-      "url": "https://www.clubic.com/actualite-639667-proton-desktop.html",
-      "publishedAt": "2026-11-18T07:43:00+00:00"
     },
     {
       "source": "boulet",
