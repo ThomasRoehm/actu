@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:40:39.535393+00:00",
+  "generatedAt": "2026-11-20T10:50:42.252646+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
+      "lastSuccessAt": "2026-11-20T10:50:42.252646+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "PDF, images, musique : ce logiciel gratuit rend la conversion de fichiers trop facile",
+      "url": "https://www.clubic.com/actualite-640237-pdf-images-musique-ce-logiciel-gratuit-rend-la-conversion-de-fichiers-trop-facile.html",
+      "publishedAt": "2026-11-20T10:47:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Darty baisse de 200 € l’écran Samsung Odyssey OLED G9 de 49 pouces pour le Black Friday",
+      "url": "https://www.numerama.com/tech/2379685-darty-baisse-de-200-e-lecran-samsung-odyssey-oled-g9-de-49-pouces-pour-le-black-friday.html",
+      "publishedAt": "2026-11-20T10:43:20+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Paolo Banchero ne veut pas faire la même erreur que Franz Wagner",
+      "url": "https://www.basketusa.com/news/959231/paolo-banchero-ne-veut-pas-faire-la-meme-erreur-que-franz-wagner/",
+      "publishedAt": "2026-11-20T10:43:19+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-20T10:37:00+00:00"
+      "publishedAt": "2026-11-20T10:43:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Elle brille de mille feux : cette Watch Series 11 en or perd pourtant de la valeur au Black Friday (-100 €)",
+      "url": "https://www.iphon.fr/post/watch-series-11-en-or-perd-valeur-black-friday-100-euros",
+      "publishedAt": "2026-11-20T10:41:20+00:00"
     },
     {
       "source": "clubic",
@@ -358,6 +382,12 @@
       "publishedAt": "2026-11-20T09:30:36+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Anthony Edwards ne veut pas précipiter son retour",
+      "url": "https://www.basketusa.com/news/959140/anthony-edwards-ne-veut-pas-precipiter-son-retour/",
+      "publishedAt": "2026-11-20T09:30:03+00:00"
+    },
+    {
       "source": "gnt",
       "title": "La mémoire DDR6 double la cadence à 14,4 GT/s dans un format réduit de 44 %",
       "url": "https://www.generation-nt.com/actualites/memoire-ddr6-double-cadence-reduite-2084854",
@@ -536,12 +566,6 @@
       "title": "La fin d’une époque pour Android : Google change les règles sur les installations d’applications",
       "url": "https://www.journaldugeek.com/2026/11/20/la-fin-dune-epoque-pour-android-google-change-les-regles-sur-les-installations-dapplications/",
       "publishedAt": "2026-11-20T08:32:31+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Anthony Edwards ne veut pas précipiter son retour",
-      "url": "https://www.basketusa.com/news/959140/anthony-edwards-ne-veut-pas-precipiter-son-retour/",
-      "publishedAt": "2026-11-20T08:30:03+00:00"
     },
     {
       "source": "gnt",
@@ -3782,36 +3806,6 @@
       "title": "OVHcloud sort Olala, une IA open source qui se contente de 8 Go de VRAM",
       "url": "https://www.mac4ever.com/ia/199102-ovhcloud-sort-olala-une-ia-open-source-qui-se-contente-de-8-go-de-vram",
       "publishedAt": "2026-11-18T10:51:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Un MacBook à 742 € : ce n’est possible qu’au Black Friday",
-      "url": "https://www.iphon.fr/post/macbook-742-euros-possible-black-friday",
-      "publishedAt": "2026-11-18T10:48:06+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "L’agent IA de Gemini peut désormais appeler le garagiste et prendre rendez-vous à votre place",
-      "url": "https://www.clubic.com/actualite-639820-l-agent-ia-de-gemini-peut-desormais-appeler-le-garagiste-et-prendre-rendez-vous-a-votre-place.html",
-      "publishedAt": "2026-11-18T10:48:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "PS5 : cette mise à jour de dernière minute est obligatoire pour GTA 6",
-      "url": "https://www.journaldugeek.com/2026/11/18/ps5-mise-a-jour-derniere-minute-obligatoire-gta-6/",
-      "publishedAt": "2026-11-18T10:45:40+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Google et Amazon vont détenir près d'un tiers d'Anthropic",
-      "url": "https://www.clubic.com/actualite-639781-google-et-amazon-vont-detenir-pres-d-un-tiers-d-anthropic.html",
-      "publishedAt": "2026-11-18T10:42:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Black Friday : Une Apple Watch Ultra 2 à moins de 550 € ça vous tente ?",
-      "url": "https://www.iphon.fr/post/black-friday-apple-watch-ultra-2-moins-550-euros-ca-vous-tente",
-      "publishedAt": "2026-11-18T10:41:31+00:00"
     },
     {
       "source": "boulet",
