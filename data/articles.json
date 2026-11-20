@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:01:04.786399+00:00",
+  "generatedAt": "2026-11-20T06:10:42.439020+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     },
     {
       "id": "boulet",
@@ -131,21 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
+      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Bientôt la fin des Anneaux de Pouvoir ? Les créateurs nous répondent",
+      "url": "https://www.journaldugeek.com/2026/11/20/bientot-la-fin-des-anneaux-de-pouvoir-les-createurs-nous-repondent/",
+      "publishedAt": "2026-11-20T06:04:34+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Un TikTok européen comme aux États-Unis : cette nouvelle initiative veut briser l’influence chinoise sur le Vieux Continent",
+      "url": "https://www.presse-citron.net/un-tiktok-europeen-comme-aux-etats-unis-cette-nouvelle-initiative-veut-briser-linfluence-chinoise-sur-le-vieux-continent/",
+      "publishedAt": "2026-11-20T06:00:30+00:00"
+    },
     {
       "source": "clubic",
       "title": "Apple préparerait son propre agent IA complet pour concurrencer ChatGPT",
       "url": "https://www.clubic.com/actualite-640186-apple-preparerait-son-propre-agent-ia-complet-pour-concurrencer-chatgpt.html",
       "publishedAt": "2026-11-20T06:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T05:50:03+00:00"
     },
     {
       "source": "macg",
@@ -161,7 +167,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Knicks souffrent mais enchaînent à Minnesota",
+      "title": "Les Knicks se font peur mais résistent au retour des Wolves",
       "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
       "publishedAt": "2026-11-20T05:17:08+00:00"
     },
@@ -170,6 +176,12 @@
       "title": "Pas touche à Apple Intelligence : Cupertino tente de bloquer sa suppression",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/pas-touche-apple-intelligence-cupertino-tente-de-bloquer-sa-suppression-312531",
       "publishedAt": "2026-11-20T05:07:34+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T04:50:03+00:00"
     },
     {
       "source": "basketusa",
@@ -238,12 +250,6 @@
       "publishedAt": "2026-11-19T19:48:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T19:40:51+00:00"
-    },
-    {
       "source": "macg",
       "title": "Test du MacBook Pro M6 : plus rapide, mais pas plus excitant",
       "url": "https://www.macg.co/tests/2026/11/test-du-macbook-pro-m6-plus-rapide-mais-pas-plus-excitant-312511",
@@ -290,6 +296,12 @@
       "title": "Une PlayStation 4 jailbreakée exécute un modèle IA de 9 milliards de paramètres à 43 tokens par seconde",
       "url": "https://www.generation-nt.com/actualites/playstation-jailbreak-ia-43-tokens-2084773",
       "publishedAt": "2026-11-19T18:45:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T18:40:51+00:00"
     },
     {
       "source": "jdg",
@@ -923,9 +935,21 @@
     },
     {
       "source": "basketusa",
+      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:25:01+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Oklahoma City Thunder – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/958961/oklahoma-city-thunder-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-19T13:23:37+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:21:57+00:00"
     },
     {
       "source": "gnt",
@@ -1036,12 +1060,6 @@
       "publishedAt": "2026-11-19T12:26:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Minnesota Timberwolves – New York Knicks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958672/minnesota-timberwolves-new-york-knicks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T12:25:01+00:00"
-    },
-    {
       "source": "iphon",
       "title": "Prisés par les sportifs, les casques et écouteurs Shokz font leur show au Black Friday",
       "url": "https://www.iphon.fr/post/prises-sportifs-casques-ecouteurs-shokz-show-black-friday",
@@ -1052,12 +1070,6 @@
       "title": "L'iPhone 17 Pro Max chute en promo à 1179€ : son prix le plus bas, 450€ de moins que le 18 Pro Max !",
       "url": "https://www.mac4ever.com/iphone/199140-l-iphone-17-pro-max-chute-en-promo-a-1179-son-prix-le-plus-bas-450-de-moins-que-le-18-pro-max",
       "publishedAt": "2026-11-19T12:22:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T12:21:57+00:00"
     },
     {
       "source": "clubic",
@@ -3818,30 +3830,6 @@
       "title": "GTA 6 : comment y jouer dès aujourd’hui à midi, 12 heures avant tout le monde",
       "url": "https://www.journaldugeek.com/2026/11/18/gta-6-comment-y-jouer-des-le-18-novembre-a-midi-12-heures-avant-tout-le-monde/",
       "publishedAt": "2026-11-18T06:12:03+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pour le Black Friday, Amazon fait revenir le pack Blink à -83%, caméra et sonnette à 24,99€",
-      "url": "https://www.clubic.com/bons-plans-639430-black-friday-amazon-fait-revenir-le-pack-blink-a--83-camera-et-sonnette-a-24-99.html",
-      "publishedAt": "2026-11-18T06:10:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Trey Lyles sauve les Wolves sur le fil face aux Blazers",
-      "url": "https://www.basketusa.com/news/958437/trey-lyles-sauve-les-wolves-sur-le-fil-face-aux-blazers/",
-      "publishedAt": "2026-11-18T06:05:48+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "iOS 27.3 introduit des limites quotidiennes pour Siri AI et Apple Intelligence",
-      "url": "https://www.generation-nt.com/actualites/ios-limites-quotidiennes-siri-ai-2084610",
-      "publishedAt": "2026-11-18T06:05:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "American Caper : une BD totalement barge que vous devriez lire avant de jouer à GTA 6",
-      "url": "https://www.journaldugeek.com/dossier/american-caper-une-bd-totalement-barge-que-vous-devriez-lire-avant-de-jouer-a-gta-6/",
-      "publishedAt": "2026-11-18T06:03:27+00:00"
     },
     {
       "source": "boulet",
