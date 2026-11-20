@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:10:41.776362+00:00",
+  "generatedAt": "2026-11-20T12:20:41.251940+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:10:41.776362+00:00"
+      "lastSuccessAt": "2026-11-20T12:20:41.251940+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Présidentielle 2027 : comment l’Arcom encadrera le pluralisme chez certains créateurs de contenus",
+      "url": "https://www.clubic.com/actualite-640279-presidentielle-2027-comment-l-arcom-encadrera-le-pluralisme-chez-certains-createurs-de-contenus.html",
+      "publishedAt": "2026-11-20T12:15:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Que se passe-t-il si on n’a pas l’édition ultime de GTA 6 ?",
+      "url": "https://www.numerama.com/pop-culture/2379649-que-se-passe-t-il-si-on-na-pas-ledition-ultime-de-gta-6.html",
+      "publishedAt": "2026-11-20T12:15:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Scoot Henderson retrouve enfin le sourire",
+      "url": "https://www.basketusa.com/news/959246/scoot-henderson-retrouve-enfin-le-sourire/",
+      "publishedAt": "2026-11-20T12:14:15+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "SSD : les bons repères pour choisir sans se tromper",
       "url": "https://www.mac4ever.com/mac/199156-ssd-les-bons-reperes-pour-choisir-sans-se-tromper",
       "publishedAt": "2026-11-20T12:06:04+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Payer vos courses avec vos tickets-restaurant, c’est bientôt définitif mais avec de nouvelles limites : voici ce qui change",
+      "url": "https://www.presse-citron.net/payer-vos-courses-avec-vos-tickets-restaurant-cest-bientot-definitif-mais-avec-de-nouvelles-limites-voici-ce-qui-change/",
+      "publishedAt": "2026-11-20T12:02:49+00:00"
     },
     {
       "source": "jdg",
@@ -748,12 +772,6 @@
       "publishedAt": "2026-11-20T08:17:59+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Dejounte Murray chez les Suns ? Phoenix pose ses conditions",
-      "url": "https://www.basketusa.com/news/959149/les-suns-interesses-par-dejounte-murray-mais-pas-a-nimporte-quel-prix/",
-      "publishedAt": "2026-11-20T08:17:06+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Gemini peut maintenant utiliser votre Mac à votre place",
       "url": "https://www.mac4ever.com/ia/199160-gemini-peut-maintenant-utiliser-votre-mac-a-votre-place",
@@ -788,6 +806,12 @@
       "title": "Halide 3.4 : l’iPhone Duo profite de fonctions inédites et d'un mode XL sur ses deux écrans",
       "url": "https://www.mac4ever.com/iphone/199155-halide-3-4-l-iphone-duo-profite-de-fonctions-inedites-et-d-un-mode-xl-sur-ses-deux-ecrans",
       "publishedAt": "2026-11-20T07:54:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T07:53:08+00:00"
     },
     {
       "source": "iphon",
@@ -850,6 +874,12 @@
       "publishedAt": "2026-11-20T07:20:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Dejounte Murray chez les Suns ? Phoenix pose ses conditions",
+      "url": "https://www.basketusa.com/news/959149/les-suns-interesses-par-dejounte-murray-mais-pas-a-nimporte-quel-prix/",
+      "publishedAt": "2026-11-20T07:17:06+00:00"
+    },
+    {
       "source": "clubic",
       "title": "LG, Samsung, Sony, Philips : les TV OLED CHUTENT jusqu’à -40% pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-640159-lg-samsung-sony-philips-les-tv-oled-chutent-jusqu-a--40-pour-le-black-friday.html",
@@ -908,12 +938,6 @@
       "title": "La psychologie est formelle : les personnes qui laissent leurs notifications en non lues ont une façon bien à elles de gérer les interactions sociales",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-laissent-leurs-notifications-en-non-lues-ont-une-facon-bien-a-elles-de-gerer-les-interactions-sociales/",
       "publishedAt": "2026-11-20T06:54:08+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T06:53:08+00:00"
     },
     {
       "source": "korben",
@@ -1043,15 +1067,15 @@
     },
     {
       "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T04:50:03+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
       "publishedAt": "2026-11-20T04:43:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T03:50:03+00:00"
     },
     {
       "source": "macg",
@@ -1150,12 +1174,6 @@
       "publishedAt": "2026-11-19T18:45:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T18:40:51+00:00"
-    },
-    {
       "source": "jdg",
       "title": "GTA 6 nommé aux Game Awards 2026 avant même sa sortie, comment c’est possible ?",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
@@ -1220,6 +1238,12 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T17:40:51+00:00"
     },
     {
       "source": "gnt",
@@ -3770,18 +3794,6 @@
       "title": "GTA 6 décroche un 99 sur Metacritic, du jamais vu depuis Zelda Ocarina of Time",
       "url": "https://www.mac4ever.com/gaming/199104-gta-6-decroche-un-99-sur-metacritic-du-jamais-vu-depuis-zelda-ocarina-of-time",
       "publishedAt": "2026-11-18T12:25:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Jensen Huang s'expliquera devant le Congrès en décembre mais n'est plus le bienvenu chez Nvidia",
-      "url": "https://www.generation-nt.com/actualites/nvidia-jensen-huang-audition-congres-decembre-2084682",
-      "publishedAt": "2026-11-18T12:20:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Starship est déjà la plus grande fusée du monde, sa prochaine itération sera encore plus gigantesque",
-      "url": "https://www.clubic.com/actualite-639841-elon-musk-annonce-une-starship-v4-encore-plus-gigantesque-que-la-plus-grande-fusee-du-monde.html",
-      "publishedAt": "2026-11-18T12:12:00+00:00"
     },
     {
       "source": "boulet",
