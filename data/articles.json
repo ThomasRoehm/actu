@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T13:50:39.490529+00:00",
+  "generatedAt": "2026-11-20T14:01:09.716943+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T13:50:39.490529+00:00"
+      "lastSuccessAt": "2026-11-20T14:01:09.716943+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "La Fnac fait baisser le Nothing Phone 4a de 50 € pour le Black Friday, coque et lanière comprises",
+      "url": "https://www.numerama.com/tech/2379693-la-fnac-fait-baisser-le-nothing-phone-4a-de-50-e-pour-le-black-friday-coque-et-laniere-comprises.html",
+      "publishedAt": "2026-11-20T14:00:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des bombardiers russes frôlent Taiwan et violent l'espace aérien japonais avant l'APEC",
+      "url": "https://www.generation-nt.com/actualites/bombardiers-russes-taiwan-japon-apec-2084863",
+      "publishedAt": "2026-11-20T13:50:01+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Le HomeView d'Apple devient nomade avec une simple batterie USB-C",
@@ -158,6 +170,12 @@
       "title": "Vos mots de passe étaient “en clair” chez cet assureur français : la CNIL inflige une amende de 5 millions d’euros",
       "url": "https://www.presse-citron.net/mots-de-passe-en-clair-assureur-francais-cnil/",
       "publishedAt": "2026-11-20T13:32:18+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des incidents avec l'agent IA Muse de Meta inquiètent en interne",
+      "url": "https://www.generation-nt.com/actualites/meta-muse-confidentialite-agent-ia-securite-donnees-2084877",
+      "publishedAt": "2026-11-20T13:30:01+00:00"
     },
     {
       "source": "basketusa",
@@ -395,7 +413,7 @@
     },
     {
       "source": "gnt",
-      "title": "Les États-Unis vendent les premiers baux miniers sous-marins au large des Samoa",
+      "title": "Nodules polymétalliques : les États-Unis vendent les premiers baux miniers sous-marins au large des Samoa",
       "url": "https://www.generation-nt.com/actualites/nodules-polymetalliques-baux-miniers-sous-marins-samoa-2084879",
       "publishedAt": "2026-11-20T11:10:01+00:00"
     },
@@ -772,12 +790,6 @@
       "publishedAt": "2026-11-20T09:09:51+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Damian Lillard en paix avec son expérience ratée à Milwaukee",
-      "url": "https://www.basketusa.com/news/959219/damian-lillard-en-paix-avec-son-experience-ratee-a-milwaukee/",
-      "publishedAt": "2026-11-20T09:09:37+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Pour le Black Friday : cette TV connectée de 190 cm de diagonale passe à 499€",
       "url": "https://www.clubic.com/bons-plans-640207-xiaomi-tv-f-pro-cette-tv-connectee-de-190-cm-de-diagonale-passe-a-499-pour-le-black-friday.html",
@@ -934,6 +946,12 @@
       "publishedAt": "2026-11-20T08:10:36+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Damian Lillard en paix avec son expérience ratée à Milwaukee",
+      "url": "https://www.basketusa.com/news/959219/damian-lillard-en-paix-avec-son-experience-ratee-a-milwaukee/",
+      "publishedAt": "2026-11-20T08:09:37+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Après les États-Unis, l’Europe veut aussi son TikTok sans la Chine",
       "url": "https://www.journaldugeek.com/2026/11/20/apres-les-etats-unis-leurope-veut-aussi-son-tiktok-sans-la-chine/",
@@ -992,12 +1010,6 @@
       "title": "Gemini apprend à son tour à contrôler le Mac en langage naturel",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/gemini-apprend-son-tour-controler-le-mac-en-langage-naturel-312535",
       "publishedAt": "2026-11-20T07:34:31+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chris Finch furieux après un coup de sifflet qui coûte cher aux Wolves",
-      "url": "https://www.basketusa.com/news/959197/chris-finch-furieux-apres-un-coup-de-sifflet-qui-coute-cher-aux-wolves/",
-      "publishedAt": "2026-11-20T07:30:02+00:00"
     },
     {
       "source": "clubic",
@@ -1100,6 +1112,12 @@
       "title": "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise pour contrer la hausse du prix du carburant",
       "url": "https://www.presse-citron.net/limiter-la-vitesse-sur-les-autoroutes-a-80-km-h-ca-se-precise-pour-contrer-la-hausse-du-prix-du-carburant/",
       "publishedAt": "2026-11-20T06:35:10+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chris Finch furieux après un coup de sifflet qui coûte cher aux Wolves",
+      "url": "https://www.basketusa.com/news/959197/chris-finch-furieux-apres-un-coup-de-sifflet-qui-coute-cher-aux-wolves/",
+      "publishedAt": "2026-11-20T06:30:02+00:00"
     },
     {
       "source": "gnt",
