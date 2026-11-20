@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:40:39.290955+00:00",
+  "generatedAt": "2026-11-20T15:50:40.298425+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
+      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Andrew Garfieldet Jude Law sont des magiciens : vous allez adorer cette nouvelle série Apple TV",
+      "url": "https://www.iphon.fr/post/serie-apple-tv-magie-nouveaute",
+      "publishedAt": "2026-11-20T15:45:49+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Album GTA 6 : les CD et vinyles de la bande originale sont sortis, voici où les trouver",
+      "url": "https://www.numerama.com/pop-culture/2334979-album-gta-6-les-cd-et-vinyles-de-la-bande-originale-sont-sortis-voici-ou-les-trouver.html",
+      "publishedAt": "2026-11-20T15:43:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : Amazon casse les prix des appareils Dyson, 7 offres jusqu’à -43%",
+      "url": "https://www.clubic.com/bons-plans-637882-dyson-casse-les-prix-de-ses-aspirateurs-pour-le-black-friday-7-offres-jusqu-a--38.html",
+      "publishedAt": "2026-11-20T15:43:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Panne Microsoft 365 : les excuses sont là",
@@ -146,6 +164,12 @@
       "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
       "publishedAt": "2026-11-20T15:38:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Black Friday : Plaud affiche des offres exceptionnelles sur ses meilleurs produits",
+      "url": "https://www.presse-citron.net/black-friday-plaud-affiche-des-offres-exceptionnelles-sur-ses-meilleurs-produits/",
+      "publishedAt": "2026-11-20T15:34:24+00:00"
     },
     {
       "source": "basketusa",
@@ -3692,12 +3716,6 @@
       "title": "“C’est un véritable changement pour Grand Theft Auto” : GTA 6 sort demain, et sa vraie révolution n’est pas celle qu’on croit",
       "url": "https://www.presse-citron.net/changement-grand-theft-auto-6-revolution/",
       "publishedAt": "2026-11-18T15:53:19+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone 20 : Apple miserait sur un design radicalement différent en 2027",
-      "url": "https://www.iphon.fr/post/iphone-20-design-nouveau-rumeurs",
-      "publishedAt": "2026-11-18T15:45:16+00:00"
     },
     {
       "source": "boulet",
