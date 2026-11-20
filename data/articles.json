@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:10:38.954108+00:00",
+  "generatedAt": "2026-11-20T15:20:41.280260+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
+      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday a encore frappé, mais pas à la porte : la sonnette vidéo Ring 2K passe à 49,99€ sur Amazon",
+      "url": "https://www.clubic.com/bons-plans-640258-le-black-friday-a-encore-frappe-mais-pas-a-la-porte-la-sonnette-video-ring-2k-passe-a-49-99-sur-amazon.html",
+      "publishedAt": "2026-11-20T15:13:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "À une semaine du Black Friday, Amazon casse les prix de ses propres appareils : jusqu’à -83%",
@@ -182,6 +188,12 @@
       "title": "Moteur Puretech : cet outil à 13 € va sauver votre voiture, voici comment",
       "url": "https://www.presse-citron.net/moteur-puretech-cet-outil-a-13-e-va-sauver-votre-voiture-voici-comment/",
       "publishedAt": "2026-11-20T14:51:48+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "ARTEX, l'IA de piratage open source qui a figé la Commission européenne",
+      "url": "https://korben.info/artex-lia-de-piratage-open-source-qui-a-fige-la-commission-europeenne.html",
+      "publishedAt": "2026-11-20T14:50:58+00:00"
     },
     {
       "source": "numerama",
@@ -394,12 +406,6 @@
       "publishedAt": "2026-11-20T12:50:55+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:48:05+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
       "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
@@ -416,12 +422,6 @@
       "title": "Jon McCormack, l’un des pères de la photo sur l’iPhone prend sa retraite",
       "url": "https://www.iphon.fr/post/photo-iphone-apple-retraite-probleme",
       "publishedAt": "2026-11-20T12:45:46+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:43:12+00:00"
     },
     {
       "source": "jdg",
@@ -500,6 +500,18 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:48:05+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:43:12+00:00"
     },
     {
       "source": "presse",
@@ -1150,12 +1162,6 @@
       "publishedAt": "2026-11-20T07:54:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T07:53:08+00:00"
-    },
-    {
       "source": "iphon",
       "title": "App Store Awards : voici les meilleures apps iPhone de 2026",
       "url": "https://www.iphon.fr/post/apple-app-store-awards-applications-nominees",
@@ -1274,6 +1280,12 @@
       "title": "La psychologie est formelle : les personnes qui laissent leurs notifications en non lues ont une façon bien à elles de gérer les interactions sociales",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-laissent-leurs-notifications-en-non-lues-ont-une-facon-bien-a-elles-de-gerer-les-interactions-sociales/",
       "publishedAt": "2026-11-20T06:54:08+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T06:53:08+00:00"
     },
     {
       "source": "korben",
@@ -3692,18 +3704,6 @@
       "title": "Comment Rockstar utilise l'IA pour sauver GTA 6 sur Xbox Series S (mais s'en passe sur PS5 et Series X)",
       "url": "https://www.clubic.com/actualite-639898-comment-rockstar-utilise-l-ia-pour-sauver-gta-6-sur-xbox-series-s-mais-s-en-passe-sur-ps5-et-series-x.html",
       "publishedAt": "2026-11-18T15:26:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Supervision IT, support à distance et cybersécurité : pourquoi la protection du SI passe par les utilisateurs",
-      "url": "https://www.generation-nt.com/actualites/supervision-it-support-distance-cybersecurite-pourquoi-protection-si-utilisateurs-2084763",
-      "publishedAt": "2026-11-18T15:20:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "SFR casse les codes : le Wi-Fi 7 à moins de 37 € par mois avec la nouvelle Box 10 !",
-      "url": "https://www.journaldugeek.com/2026/11/18/sfr-casse-les-codes-le-wi-fi-7-a-moins-de-37-e-par-mois-avec-la-nouvelle-box-10/",
-      "publishedAt": "2026-11-18T15:15:51+00:00"
     },
     {
       "source": "boulet",
