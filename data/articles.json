@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:20:38.841979+00:00",
+  "generatedAt": "2026-11-20T10:30:56.059581+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,63 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:20:38.841979+00:00"
+      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
     }
   ],
   "articles": [
     {
       "source": "mac4ever",
+      "title": "Muse Charm : le gadget IA de Meta à 300 dollars pour se passer d'iPhone",
+      "url": "https://www.mac4ever.com/ia/199164-muse-charm-le-gadget-ia-de-meta-a-300-dollars-pour-se-passer-d-iphone",
+      "publishedAt": "2026-11-20T10:28:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Windows 11 va vous alerter sur les failles de sécurité connues de vos logiciels et pilotes",
+      "url": "https://www.clubic.com/actualite-640246-windows-11-va-vous-alerter-sur-les-failles-de-securite-connues-de-vos-logiciels-et-pilotes.html",
+      "publishedAt": "2026-11-20T10:26:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Microsoft va abandonner son gestionnaire de tâches To Do et ne propose pas de remplaçant",
+      "url": "https://www.macg.co/logiciels/2026/11/microsoft-va-abandonner-son-gestionnaire-des-taches-do-et-ne-propose-pas-de-remplacant-312539",
+      "publishedAt": "2026-11-20T10:26:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Ce vélo électrique n’a ni batterie, ni chargeur, ni prise, et plus de 1 500 exemplaires roulent déjà en France",
+      "url": "https://www.journaldugeek.com/2026/11/20/ce-velo-electrique-na-ni-batterie-ni-chargeur-ni-prise-et-plus-de-1-500-exemplaires-roulent-deja-en-france/",
+      "publishedAt": "2026-11-20T10:24:29+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 sur PC : entre la build Cyberleek et les extractions PS5, la pression s’accentue pour Rockstar",
+      "url": "https://www.numerama.com/pop-culture/2379627-gta-6-sur-pc-entre-la-build-cyberleek-et-les-extractions-ps5-la-pression-saccentue-pour-rockstar.html",
+      "publishedAt": "2026-11-20T10:22:02+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone 18 Pro : il atteint des records de vente, mais tout n’est pas rose chez Apple",
+      "url": "https://www.iphon.fr/post/iphone-18-pro-record-vente-apple",
+      "publishedAt": "2026-11-20T10:20:22+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Nvidia courtise franchement Rene Haas, le patron d'Arm, pour remplacer Jensen Huang",
+      "url": "https://www.generation-nt.com/actualites/nvidia-remplacement-jensen-huang-rene-haas-arm-2084856",
+      "publishedAt": "2026-11-20T10:15:01+00:00"
+    },
+    {
+      "source": "mac4ever",
       "title": "Le vidéoprojecteur Xgimi MoGo 4 en promo à -31% pour le Black Friday : testé sur Mac4Ever !",
       "url": "https://www.mac4ever.com/tv/199168-le-videoprojecteur-xgimi-mogo-4-en-promo-a-31-pour-le-black-friday-teste-sur-mac4ever",
       "publishedAt": "2026-11-20T10:14:02+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "GTA 6 a pesé jusqu’à 40 % du trafic chez Bouygues Telecom, et ce n’est même pas le plus fou",
+      "url": "https://www.presse-citron.net/gta-6-trafic-chez-bouygues-telecom/",
+      "publishedAt": "2026-11-20T10:12:32+00:00"
     },
     {
       "source": "numerama",
@@ -158,6 +206,12 @@
       "title": "« Des téléphones détruits et des données effacées » : après la rencontre entre Trump, Poutine, et Xi, les journalistes se sont pliés à une procédure stricte contre l’espionnage",
       "url": "https://www.presse-citron.net/des-telephones-detruits-et-des-donnees-effacees-apres-la-rencontre-entre-trump-poutine-et-xi-les-journalistes-se-sont-plies-a-une-procedure-stricte-contre-lespionnage/",
       "publishedAt": "2026-11-20T10:05:53+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le Flipper One cartonne sur Kickstarter avec un ordinateur de poche Linux à 364 euros",
+      "url": "https://www.generation-nt.com/actualites/flipper-one-kickstarter-ordinateur-linux-2084832",
+      "publishedAt": "2026-11-20T10:05:01+00:00"
     },
     {
       "source": "jdg",
@@ -182,6 +236,12 @@
       "title": "Après le piratage du fisc et des frigos, Sébastien Lecornu dévoile son plan de cybersécurité pour la France",
       "url": "https://www.clubic.com/actualite-640228-apres-le-piratage-du-fisc-et-des-frigos-sebastien-lecornu-devoile-son-plan-de-cybersecurite-pour-la-france.html",
       "publishedAt": "2026-11-20T09:57:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-20T09:56:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -218,12 +278,6 @@
       "title": "Attendez, le chien jet-ski de GTA 6 existe vraiment",
       "url": "https://www.numerama.com/pop-culture/2379519-attendez-le-chien-jet-ski-de-gta-6-existe-vraiment.html",
       "publishedAt": "2026-11-20T09:49:53+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-20T09:46:00+00:00"
     },
     {
       "source": "gnt",
@@ -272,12 +326,6 @@
       "title": "« Une peau artificielle vivante prête à être greffée sur des patients » : le laboratoire Urgo célèbre une première mondiale",
       "url": "https://www.presse-citron.net/une-peau-artificielle-vivante-prete-a-etre-greffee-sur-des-patients-le-laboratoire-urgo-celebre-une-premiere-mondiale/",
       "publishedAt": "2026-11-20T09:30:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Anthony Edwards ne veut pas précipiter son retour",
-      "url": "https://www.basketusa.com/news/959140/anthony-edwards-ne-veut-pas-precipiter-son-retour/",
-      "publishedAt": "2026-11-20T09:30:03+00:00"
     },
     {
       "source": "gnt",
@@ -344,6 +392,12 @@
       "title": "Black Friday pCloud - Plans à vie, Photos AI, Docs et NAS #sponso",
       "url": "https://korben.info/pcloud-black-friday-2026.html",
       "publishedAt": "2026-11-20T09:09:51+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Damian Lillard en paix avec son expérience ratée à Milwaukee",
+      "url": "https://www.basketusa.com/news/959219/damian-lillard-en-paix-avec-son-experience-ratee-a-milwaukee/",
+      "publishedAt": "2026-11-20T09:09:37+00:00"
     },
     {
       "source": "clubic",
@@ -460,6 +514,12 @@
       "publishedAt": "2026-11-20T08:32:31+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Anthony Edwards ne veut pas précipiter son retour",
+      "url": "https://www.basketusa.com/news/959140/anthony-edwards-ne-veut-pas-precipiter-son-retour/",
+      "publishedAt": "2026-11-20T08:30:03+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Anthropic s'envole à Wall Street avec une valorisation vertigineuse",
       "url": "https://www.generation-nt.com/actualites/anthropic-entree-bourse-nasdaq-intelligence-artificielle-action-2084871",
@@ -500,12 +560,6 @@
       "title": "Farcall - Un PC de 1981 qui s'ouvre dans votre terminal",
       "url": "https://korben.info/farcall-emulateur-dos-ssh.html",
       "publishedAt": "2026-11-20T08:10:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Damian Lillard en paix avec son expérience ratée à Milwaukee",
-      "url": "https://www.basketusa.com/news/959219/damian-lillard-en-paix-avec-son-experience-ratee-a-milwaukee/",
-      "publishedAt": "2026-11-20T08:09:37+00:00"
     },
     {
       "source": "jdg",
@@ -3752,48 +3806,6 @@
       "title": "La panne mondiale d’Outlook a failli empoisonner des baigneurs en Allemagne",
       "url": "https://www.journaldugeek.com/2026/11/18/la-panne-mondiale-doutlook-a-failli-empoisonner-des-baigneurs-en-allemagne/",
       "publishedAt": "2026-11-18T10:33:36+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "GTA 6 : congés, hype, FOMO… pourquoi l’enthousiasme autour du jeu est justifié (Edito)",
-      "url": "https://www.presse-citron.net/gta-6-conges-hype-fomo-pourquoi-lenthousiasme-autour-du-jeu-est-justifie-edito/",
-      "publishedAt": "2026-11-18T10:30:31+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "GTA VI se prépare aussi à prendre d’assaut la NBA",
-      "url": "https://www.basketusa.com/news/958237/gta-vi-va-aussi-prendre-dassaut-la-nba/",
-      "publishedAt": "2026-11-18T10:30:26+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La sonde Voyager 1 est à 25,9 milliards de km de la Terre : à quoi cette distance correspond-elle vraiment ?",
-      "url": "https://www.numerama.com/sciences/2376733-la-sonde-voyager-1-est-a-259-milliards-de-km-de-la-terre-a-quoi-cette-distance-correspond-elle-vraiment.html",
-      "publishedAt": "2026-11-18T10:28:14+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Avengers Doomsday va marquer une grande première chez Marvel en termes de violence",
-      "url": "https://www.numerama.com/pop-culture/2377527-avengers-doomsday-va-marquer-une-grande-premiere-chez-marvel-en-terme-de-violence.html",
-      "publishedAt": "2026-11-18T10:27:31+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Qui sera élu jeu de l’année 2026 entre GTA 6 et The Legend of Zelda: Ocarina of Time ?",
-      "url": "https://www.numerama.com/pop-culture/2377457-qui-sera-elu-jeu-de-lannee-2026-entre-gta-6-et-the-legend-of-zelda-ocarina-of-time.html",
-      "publishedAt": "2026-11-18T10:23:30+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Comment jouer à GTA 6 en avance et ne pas attendre minuit ?",
-      "url": "https://www.numerama.com/pop-culture/2374917-comment-jouer-a-gta-6-en-avance-et-ne-pas-attendre-minuit.html",
-      "publishedAt": "2026-11-18T10:23:12+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple vend désormais des pièces détachées pour l’iPhone Duo, mais attention au prix",
-      "url": "https://www.iphon.fr/post/apple-pieces-detachees-iphone-duo-attention-prix",
-      "publishedAt": "2026-11-18T10:21:07+00:00"
     },
     {
       "source": "boulet",
