@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:50:36.595066+00:00",
+  "generatedAt": "2026-11-20T06:01:04.786399+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
+      "lastSuccessAt": "2026-11-20T06:01:04.786399+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Apple préparerait son propre agent IA complet pour concurrencer ChatGPT",
+      "url": "https://www.clubic.com/actualite-640186-apple-preparerait-son-propre-agent-ia-complet-pour-concurrencer-chatgpt.html",
+      "publishedAt": "2026-11-20T06:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T05:50:03+00:00"
+    },
     {
       "source": "macg",
       "title": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code-312533",
       "publishedAt": "2026-11-20T05:35:05+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Visa confirme une fuite de données liée à un prestataire en Asie-Pacifique",
+      "url": "https://www.generation-nt.com/actualites/visa-fuite-donnees-prestataire-asie-2084845",
+      "publishedAt": "2026-11-20T05:30:02+00:00"
     },
     {
       "source": "basketusa",
@@ -155,7 +173,7 @@
     },
     {
       "source": "basketusa",
-      "title": "A Memphis, les Warriors terminent leur “road trip” par une nouvelle correction",
+      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
       "publishedAt": "2026-11-20T04:43:01+00:00"
     },
@@ -220,6 +238,12 @@
       "publishedAt": "2026-11-19T19:48:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T19:40:51+00:00"
+    },
+    {
       "source": "macg",
       "title": "Test du MacBook Pro M6 : plus rapide, mais pas plus excitant",
       "url": "https://www.macg.co/tests/2026/11/test-du-macbook-pro-m6-plus-rapide-mais-pas-plus-excitant-312511",
@@ -266,12 +290,6 @@
       "title": "Une PlayStation 4 jailbreakée exécute un modèle IA de 9 milliards de paramètres à 43 tokens par seconde",
       "url": "https://www.generation-nt.com/actualites/playstation-jailbreak-ia-43-tokens-2084773",
       "publishedAt": "2026-11-19T18:45:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T18:40:51+00:00"
     },
     {
       "source": "jdg",
@@ -3824,30 +3842,6 @@
       "title": "American Caper : une BD totalement barge que vous devriez lire avant de jouer à GTA 6",
       "url": "https://www.journaldugeek.com/dossier/american-caper-une-bd-totalement-barge-que-vous-devriez-lire-avant-de-jouer-a-gta-6/",
       "publishedAt": "2026-11-18T06:03:27+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "J’ai testé le Google Pixel 11 Pro pendant deux mois : a-t-il détrôné mes smartphones préférés ?",
-      "url": "https://www.presse-citron.net/google-pixel-11-pro-test/",
-      "publishedAt": "2026-11-18T06:00:28+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Piratage de comptes à l’ère de l’IA : ces petits réflexes qui peuvent vous éviter de gros ennuis",
-      "url": "https://www.clubic.com/actualite-638299-piratage-de-comptes-a-l-ere-de-l-ia-ces-petits-reflexes-qui-peuvent-vous-eviter-de-gros-ennuis.html",
-      "publishedAt": "2026-11-18T06:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Roblox fait l’objet de près de 200 poursuites liées à des accusations d’exploitation sexuelle de mineurs",
-      "url": "https://www.clubic.com/actualite-639775-roblox-fait-l-objet-de-pres-de-200-poursuites-liees-a-des-accusations-d-exploitation-sexuelle-de-mineurs.html",
-      "publishedAt": "2026-11-18T06:00:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Nvidia répond aux espoirs de retour de Jensen Huang : c’est non.",
-      "url": "https://www.macg.co/ailleurs/2026/11/nvidia-repond-aux-espoirs-de-retour-de-jensen-huang-cest-non-312479",
-      "publishedAt": "2026-11-18T06:00:00+00:00"
     },
     {
       "source": "boulet",
