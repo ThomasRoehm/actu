@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:10:42.439020+00:00",
+  "generatedAt": "2026-11-20T06:20:39.860117+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:10:42.439020+00:00"
+      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Apple prépare son propre agent IA capable de contrôler votre Mac et vos applications",
+      "url": "https://www.mac4ever.com/ia/199158-apple-prepare-son-propre-agent-ia-capable-de-controler-votre-mac-et-vos-applications",
+      "publishedAt": "2026-11-20T06:17:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Fibre en campagne : pourquoi les élus préparent un recours contre l’Arcep",
+      "url": "https://www.clubic.com/actualite-640177-fibre-en-campagne-pourquoi-les-elus-preparent-un-recours-contre-l-arcep.html",
+      "publishedAt": "2026-11-20T06:16:00+00:00"
+    },
     {
       "source": "jdg",
       "title": "Bientôt la fin des Anneaux de Pouvoir ? Les créateurs nous répondent",
@@ -181,13 +193,13 @@
       "source": "basketusa",
       "title": "Victor Wembanyama fait plier les Clippers en fin de match",
       "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T04:50:03+00:00"
+      "publishedAt": "2026-11-20T03:50:03+00:00"
     },
     {
       "source": "basketusa",
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
-      "publishedAt": "2026-11-20T04:43:01+00:00"
+      "publishedAt": "2026-11-20T03:43:01+00:00"
     },
     {
       "source": "macg",
@@ -946,12 +958,6 @@
       "publishedAt": "2026-11-19T13:23:37+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T13:21:57+00:00"
-    },
-    {
       "source": "gnt",
       "title": "La Chine réduit les coûts de ses avions de combat J-35 grâce à l'impression 3D au titane",
       "url": "https://www.generation-nt.com/actualites/metal-chine-reduit-couts-avions-3d-2084767",
@@ -1070,6 +1076,12 @@
       "title": "L'iPhone 17 Pro Max chute en promo à 1179€ : son prix le plus bas, 450€ de moins que le 18 Pro Max !",
       "url": "https://www.mac4ever.com/iphone/199140-l-iphone-17-pro-max-chute-en-promo-a-1179-son-prix-le-plus-bas-450-de-moins-que-le-18-pro-max",
       "publishedAt": "2026-11-19T12:22:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T12:21:57+00:00"
     },
     {
       "source": "clubic",
@@ -3812,24 +3824,6 @@
       "title": "Avec ses 40 points, Brice Sensabaugh délivre enfin le Jazz",
       "url": "https://www.basketusa.com/news/958444/avec-ses-40-points-brice-sensabaugh-delivre-enfin-le-jazz/",
       "publishedAt": "2026-11-18T06:28:35+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Nvidia dans la tourmente : Jensen Huang veut (bien) revenir, la SEC ouvre une enquête !",
-      "url": "https://www.mac4ever.com/ia/199094-nvidia-dans-la-tourmente-jensen-huang-veut-bien-revenir-la-sec-ouvre-une-enquete",
-      "publishedAt": "2026-11-18T06:19:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Telegram sur Android a renforcé sa sécurité mais des chercheurs ont contourné le nouveau filtre",
-      "url": "https://www.clubic.com/actualite-639778-deux-failles-rce-zero-click-menaceraient-openssh-des-chercheurs-alertent-sur-un-risque-critique.html",
-      "publishedAt": "2026-11-18T06:15:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : comment y jouer dès aujourd’hui à midi, 12 heures avant tout le monde",
-      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-comment-y-jouer-des-le-18-novembre-a-midi-12-heures-avant-tout-le-monde/",
-      "publishedAt": "2026-11-18T06:12:03+00:00"
     },
     {
       "source": "boulet",
