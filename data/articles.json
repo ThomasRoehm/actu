@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:30:53.581386+00:00",
+  "generatedAt": "2026-11-20T17:40:40.548627+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
+      "lastSuccessAt": "2026-11-20T17:40:40.548627+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Comment El Niño bouleverse le climat : les explications d’un climatologue (VIDÉO)",
+      "url": "https://www.numerama.com/sciences/2380449-comment-el-nino-bouleverse-le-climat-les-explications-dun-climatologue-video.html",
+      "publishedAt": "2026-11-20T17:35:02+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : le Magic Keyboard étendu avec Touch ID à 137 €, un prix record",
+      "url": "https://www.macg.co/materiel/2026/11/black-friday-le-magic-keyboard-etendu-avec-touch-id-137-eu-un-prix-record-312553",
+      "publishedAt": "2026-11-20T17:33:27+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Quand sortira GTA 6 sur PC ?",
+      "url": "https://www.journaldugeek.com/2026/11/20/pour-quand-la-sortie-de-gta-6-sur-pc/",
+      "publishedAt": "2026-11-20T17:32:33+00:00"
+    },
     {
       "source": "clubic",
       "title": "Gravity IA : un PC à base de RTX 5060 Ti est-il un bon client pour l’IA locale ?",
@@ -682,12 +700,6 @@
       "publishedAt": "2026-11-20T12:50:55+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:48:05+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
       "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
@@ -776,6 +788,12 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:48:05+00:00"
     },
     {
       "source": "basketusa",
@@ -1432,12 +1450,6 @@
       "publishedAt": "2026-11-20T07:54:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T07:53:08+00:00"
-    },
-    {
       "source": "iphon",
       "title": "App Store Awards : voici les meilleures apps iPhone de 2026",
       "url": "https://www.iphon.fr/post/apple-app-store-awards-applications-nominees",
@@ -1550,6 +1562,12 @@
       "title": "La psychologie est formelle : les personnes qui laissent leurs notifications en non lues ont une façon bien à elles de gérer les interactions sociales",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-laissent-leurs-notifications-en-non-lues-ont-une-facon-bien-a-elles-de-gerer-les-interactions-sociales/",
       "publishedAt": "2026-11-20T06:54:08+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T06:53:08+00:00"
     },
     {
       "source": "korben",
@@ -3704,18 +3722,6 @@
       "title": "Tyler Herro et Bam Adebayo ne se parlent toujours pas…",
       "url": "https://www.basketusa.com/news/958713/tyler-herro-et-bam-adebayo-ne-se-parlent-toujours-pas/",
       "publishedAt": "2026-11-18T17:49:29+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "L'OTAN s'allie à OpenAI pour muscler sa cyberdéfense",
-      "url": "https://www.generation-nt.com/actualites/openai-otan-cyberdefense-ia-vulnerabilite-2084712",
-      "publishedAt": "2026-11-18T17:40:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "À cause de Starlink, les satellites sont désormais plus nombreux que les étoiles visibles au-dessus de nombreuses villes",
-      "url": "https://www.journaldugeek.com/2026/11/18/cause-starlink-satellites-plus-nombreux-etoiles-visibles-au-dessus-nombreuses-villes/",
-      "publishedAt": "2026-11-18T17:33:29+00:00"
     },
     {
       "source": "boulet",
