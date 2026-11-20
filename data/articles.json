@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:20:41.280260+00:00",
+  "generatedAt": "2026-11-20T15:31:05.968828+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:20:41.280260+00:00"
+      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : Shokz casse le prix de ses écouteurs sans-fil (dont son modèle à conduction osseuse)",
+      "url": "https://www.clubic.com/actualite-639337-black-friday-shokz-casse-le-prix-de-ses-ecouteurs-sans-fil-dont-son-modele-a-conduction-osseuse.html",
+      "publishedAt": "2026-11-20T15:30:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Où écouter la bande originale de GTA 6 en streaming avec Justice et Dua Lipa ?",
+      "url": "https://www.numerama.com/pop-culture/2380051-ou-ecouter-la-bande-originale-de-gta-6-en-streaming-avec-justice-et-dua-lipa.html",
+      "publishedAt": "2026-11-20T15:29:59+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "La JAXA annule la mission vers 1998 KY26 et redirige Hayabusa2 suite à une panne moteur",
+      "url": "https://www.generation-nt.com/actualites/jaxa-annule-mission-1998-ky26-2084851",
+      "publishedAt": "2026-11-20T15:25:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Le Black Friday a encore frappé, mais pas à la porte : la sonnette vidéo Ring 2K passe à 49,99€ sur Amazon",
@@ -406,6 +424,12 @@
       "publishedAt": "2026-11-20T12:50:55+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T12:48:05+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
       "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
@@ -422,6 +446,12 @@
       "title": "Jon McCormack, l’un des pères de la photo sur l’iPhone prend sa retraite",
       "url": "https://www.iphon.fr/post/photo-iphone-apple-retraite-probleme",
       "publishedAt": "2026-11-20T12:45:46+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T12:43:12+00:00"
     },
     {
       "source": "jdg",
@@ -500,18 +530,6 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T11:48:05+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T11:43:12+00:00"
     },
     {
       "source": "presse",
@@ -910,12 +928,6 @@
       "publishedAt": "2026-11-20T09:30:07+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Anthony Edwards ne veut pas précipiter son retour",
-      "url": "https://www.basketusa.com/news/959140/anthony-edwards-ne-veut-pas-precipiter-son-retour/",
-      "publishedAt": "2026-11-20T09:30:03+00:00"
-    },
-    {
       "source": "gnt",
       "title": "La mémoire DDR6 double la cadence à 14,4 GT/s dans un format réduit de 44 %",
       "url": "https://www.generation-nt.com/actualites/memoire-ddr6-double-cadence-reduite-2084854",
@@ -1096,6 +1108,12 @@
       "publishedAt": "2026-11-20T08:32:31+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Anthony Edwards ne veut pas précipiter son retour",
+      "url": "https://www.basketusa.com/news/959140/anthony-edwards-ne-veut-pas-precipiter-son-retour/",
+      "publishedAt": "2026-11-20T08:30:03+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Anthropic s'envole à Wall Street avec une valorisation vertigineuse",
       "url": "https://www.generation-nt.com/actualites/anthropic-entree-bourse-nasdaq-intelligence-artificielle-action-2084871",
@@ -1160,6 +1178,12 @@
       "title": "Halide 3.4 : l’iPhone Duo profite de fonctions inédites et d'un mode XL sur ses deux écrans",
       "url": "https://www.mac4ever.com/iphone/199155-halide-3-4-l-iphone-duo-profite-de-fonctions-inedites-et-d-un-mode-xl-sur-ses-deux-ecrans",
       "publishedAt": "2026-11-20T07:54:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T07:53:08+00:00"
     },
     {
       "source": "iphon",
@@ -1280,12 +1304,6 @@
       "title": "La psychologie est formelle : les personnes qui laissent leurs notifications en non lues ont une façon bien à elles de gérer les interactions sociales",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-laissent-leurs-notifications-en-non-lues-ont-une-facon-bien-a-elles-de-gerer-les-interactions-sociales/",
       "publishedAt": "2026-11-20T06:54:08+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T06:53:08+00:00"
     },
     {
       "source": "korben",
@@ -3686,24 +3704,6 @@
       "title": "Fausse réunion Zoom : l'arnaque géante qui a permis de voler des millions dévoilée par le FBI",
       "url": "https://www.clubic.com/actualite-639877-fausse-reunion-zoom-l-arnaque-geante-qui-a-permis-de-voler-des-millions-devoilee-par-le-fbi.html",
       "publishedAt": "2026-11-18T15:33:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Windows 11 : Copilot pourra résoudre vos pannes PC",
-      "url": "https://www.generation-nt.com/actualites/windows-11-problemes-pc-copilot-actions-microsoft-2084709",
-      "publishedAt": "2026-11-18T15:30:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Pénurie de RAM : Apple prête à s'engager pour cinq ans avec Samsung",
-      "url": "https://www.macg.co/aapl/2026/11/penurie-de-ram-apple-prete-sengager-pour-cinq-ans-avec-samsung-312497",
-      "publishedAt": "2026-11-18T15:28:18+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Comment Rockstar utilise l'IA pour sauver GTA 6 sur Xbox Series S (mais s'en passe sur PS5 et Series X)",
-      "url": "https://www.clubic.com/actualite-639898-comment-rockstar-utilise-l-ia-pour-sauver-gta-6-sur-xbox-series-s-mais-s-en-passe-sur-ps5-et-series-x.html",
-      "publishedAt": "2026-11-18T15:26:00+00:00"
     },
     {
       "source": "boulet",
