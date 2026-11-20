@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:20:38.487616+00:00",
+  "generatedAt": "2026-11-20T11:30:53.147116+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:20:38.487616+00:00"
+      "lastSuccessAt": "2026-11-20T11:30:53.147116+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "La France et les États-Unis ont manœuvré ensemble autour d’un satellite « compétiteur » : les révélations du chef d’état-major",
+      "url": "https://www.presse-citron.net/france-etats-unis-manoeuvre-autour-satellite-competiteur-revelations-chef-etat-major/",
+      "publishedAt": "2026-11-20T11:16:38+00:00"
+    },
     {
       "source": "jdg",
       "title": "Club Dorothée, Game One, Pokémon : les Geek Days fêtent leurs 10 ans ce week-end à Lille !",
@@ -158,6 +164,12 @@
       "title": "Apple veut déjà transformer Siri AI, pour en faire un outil encore plus complet",
       "url": "https://www.iphon.fr/post/apple-siri-ai-outil-complet",
       "publishedAt": "2026-11-20T11:10:42+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les États-Unis vendent les premiers baux miniers sous-marins au large des Samoa",
+      "url": "https://www.generation-nt.com/actualites/nodules-polymetalliques-baux-miniers-sous-marins-samoa-2084879",
+      "publishedAt": "2026-11-20T11:10:01+00:00"
     },
     {
       "source": "numerama",
@@ -509,7 +521,7 @@
     },
     {
       "source": "gnt",
-      "title": "Elon Musk accuse (encore) Volodymyr Zelensky de mentir sur les restrictions satellites en Ukraine",
+      "title": "Elon Musk accuse (encore) Volodymyr Zelensky de mentir sur les restrictions de Starlink en Ukraine",
       "url": "https://www.generation-nt.com/actualites/elon-musk-starlink-restriction-satellite-mensonge-zelensky-ukraine-2084867",
       "publishedAt": "2026-11-20T09:15:01+00:00"
     },
@@ -718,6 +730,12 @@
       "publishedAt": "2026-11-20T07:54:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T07:53:08+00:00"
+    },
+    {
       "source": "iphon",
       "title": "App Store Awards : voici les meilleures apps iPhone de 2026",
       "url": "https://www.iphon.fr/post/apple-app-store-awards-applications-nominees",
@@ -773,7 +791,7 @@
     },
     {
       "source": "gnt",
-      "title": "Selon l'IEA, l'appétit électrique de l'IA menace de saturer les réseaux mondiaux d'ici 2030",
+      "title": "IEA : l'appétit électrique de l'IA menace de saturer les réseaux mondiaux dès 2030",
       "url": "https://www.generation-nt.com/actualites/iea-rapport-datacenter-consommation-electricite-2084852",
       "publishedAt": "2026-11-20T07:20:01+00:00"
     },
@@ -838,12 +856,6 @@
       "publishedAt": "2026-11-20T06:54:08+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T06:53:08+00:00"
-    },
-    {
       "source": "korben",
       "title": "Canva vous laisse couper l'IA générative",
       "url": "https://korben.info/canva-vous-laisse-couper-lia-generative.html",
@@ -869,7 +881,7 @@
     },
     {
       "source": "gnt",
-      "title": "La Commission européenne ciblée par une offensive numérique menée avec l'IA",
+      "title": "La Commission européenne visée par une offensive numérique menée avec l'IA, des services mis à l'arrêt",
       "url": "https://www.generation-nt.com/actualites/commission-europeenne-cyberattaque-intelligence-artificielle-2084849",
       "publishedAt": "2026-11-20T06:30:01+00:00"
     },
@@ -1168,6 +1180,12 @@
       "publishedAt": "2026-11-19T17:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Ausar Thompson apprend à donner le tempo",
+      "url": "https://www.basketusa.com/news/958691/ausar-thompson-apprend-a-donner-le-tempo/",
+      "publishedAt": "2026-11-19T17:28:49+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Disney+ et Hulu unifient enfin leurs applications en décembre",
       "url": "https://www.generation-nt.com/actualites/disney-plus-hulu-unifient-decembre-2084749",
@@ -1292,12 +1310,6 @@
       "title": "Présidentielle 2027 : l'Arcom va chronométrer le temps de parole chez les YouTubeurs",
       "url": "https://www.mac4ever.com/societe/199151-presidentielle-2027-l-arcom-va-chronometrer-le-temps-de-parole-chez-les-youtubeurs",
       "publishedAt": "2026-11-19T16:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Ausar Thompson apprend à donner le tempo",
-      "url": "https://www.basketusa.com/news/958691/ausar-thompson-apprend-a-donner-le-tempo/",
-      "publishedAt": "2026-11-19T16:28:49+00:00"
     },
     {
       "source": "gnt",
@@ -3776,30 +3788,6 @@
       "title": "Attention ! GTA 6 ne fonctionnera pas sur votre PS5 si vous ne téléchargez pas cette mise à jour que Sony vient de publier",
       "url": "https://www.presse-citron.net/gta-6-ps5-mise-a-jour-sony/",
       "publishedAt": "2026-11-18T11:32:58+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Power ranking S10 : les Chargers libérés",
-      "url": "https://touchdownactu.com/361519/power-ranking-s10-les-chargers-liberes/",
-      "publishedAt": "2026-11-18T11:30:11+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le MacBook Air M5 fait son Black Friday : toutes les configurations à prix réduit à la Fnac !",
-      "url": "https://www.generation-nt.com/actualites/fnac-black-friday-macbook-air-m5-pas-cher-2084655",
-      "publishedAt": "2026-11-18T11:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : quel mini PC choisir chez Amazon ? Nos 7 offres du jour, avec 16 à 32 Go de RAM",
-      "url": "https://www.clubic.com/bons-plans-638575-pre-black-friday-amazon-5-mini-pc-en-promotion-jusqu-a--32-des-197-16.html",
-      "publishedAt": "2026-11-18T11:27:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "GTA 6 réclame jusqu’à 212 Go : pour le Black Friday ce SSD SanDisk 1 To officiel PS5 passe à 259,15€",
-      "url": "https://www.clubic.com/bons-plans-639832-gta-6-reclame-jusqu-a-212-go-pour-le-black-friday-ce-ssd-sandisk-1-to-officiel-ps5-passe-a-259-15.html",
-      "publishedAt": "2026-11-18T11:25:00+00:00"
     },
     {
       "source": "boulet",
