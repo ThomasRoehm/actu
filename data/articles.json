@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:10:41.127162+00:00",
+  "generatedAt": "2026-11-20T08:20:42.366430+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:10:41.127162+00:00"
+      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday Boulanger : jusqu’à 899 € de moins sur 13 offres tech, à J-8 du 27 novembre",
+      "url": "https://www.clubic.com/bons-plans-639232-black-friday-2026-boulanger-lance-deja-13-offres-tech-jusqu-a--45-rien-que-ca.html",
+      "publishedAt": "2026-11-20T08:19:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Dans GTA 6, tout est permis… sauf tromper Lucia et Jason, et ça fait jaser",
+      "url": "https://www.numerama.com/pop-culture/2379407-dans-gta-6-tout-est-permis-sauf-tromper-lucia-et-jason-et-ca-fait-jaser.html",
+      "publishedAt": "2026-11-20T08:17:59+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Gemini peut maintenant utiliser votre Mac à votre place",
+      "url": "https://www.mac4ever.com/ia/199160-gemini-peut-maintenant-utiliser-votre-mac-a-votre-place",
+      "publishedAt": "2026-11-20T08:12:00+00:00"
+    },
     {
       "source": "jdg",
       "title": "Après les États-Unis, l’Europe veut aussi son TikTok sans la Chine",
@@ -146,6 +164,12 @@
       "title": "Rowenta X-Force Silence 20.80 : l'aspirateur balai qui allie puissance extrême et discrétion absolue",
       "url": "https://www.generation-nt.com/actualites/aspirateur-sans-fil-balai-rowenta-x-force-silence-20-80-rh9e74e0-2083722",
       "publishedAt": "2026-11-20T08:00:01+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Faire tourner une RTX 5060 sous Windows 7, à vos risques et périls",
+      "url": "https://korben.info/directx-12-windows-7-wddm2win7.html",
+      "publishedAt": "2026-11-20T07:55:56+00:00"
     },
     {
       "source": "mac4ever",
@@ -388,6 +412,12 @@
       "publishedAt": "2026-11-20T05:30:02+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Knicks se font peur mais résistent au retour des Wolves",
+      "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
+      "publishedAt": "2026-11-20T05:17:08+00:00"
+    },
+    {
       "source": "macg",
       "title": "Pas touche à Apple Intelligence : Cupertino tente de bloquer sa suppression",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/pas-touche-apple-intelligence-cupertino-tente-de-bloquer-sa-suppression-312531",
@@ -404,12 +434,6 @@
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
       "publishedAt": "2026-11-20T04:43:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Knicks se font peur mais résistent au retour des Wolves",
-      "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
-      "publishedAt": "2026-11-20T04:17:08+00:00"
     },
     {
       "source": "macg",
@@ -3794,30 +3818,6 @@
       "title": "YouTube va désormais deviner combien vous êtes sur le canapé et ses compteurs vont grimper",
       "url": "https://www.clubic.com/actualite-639784-youtube-va-desormais-deviner-combien-vous-etes-sur-le-canape-et-ses-compteurs-vont-grimper.html",
       "publishedAt": "2026-11-18T08:24:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Après un scandale, la Corée du Sud traque les lunettes connectées aux concours nationaux",
-      "url": "https://www.generation-nt.com/actualites/lunettes-connectees-triche-examen-verification-2084548",
-      "publishedAt": "2026-11-18T08:20:01+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Test de la batterie Jackery SolarVault 3 Pro Max : le stockage résidentiel hybride",
-      "url": "https://www.generation-nt.com/tests/test-jackery-solarvault-3-pro-max-2080336",
-      "publishedAt": "2026-11-18T08:15:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Pokémon a 30 ans et Apple offre des fonds d'écran iPhone",
-      "url": "https://korben.info/pokemon-a-30-ans-et-apple-offre-des-fonds-decran-iphone.html",
-      "publishedAt": "2026-11-18T08:11:55+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Blizzard n’avait pas vu ça depuis 15 ans : WoW Forever n’avait pas rassemblé autant de joueurs sur le jeu depuis l’époque de Cataclysm",
-      "url": "https://www.numerama.com/pop-culture/2377331-blizzard-navait-pas-vu-ca-depuis-15-ans-wow-forever-navait-pas-rassemble-autant-de-joueurs-sur-le-jeu-depuis-lepoque-de-cataclysm.html",
-      "publishedAt": "2026-11-18T08:10:50+00:00"
     },
     {
       "source": "boulet",
