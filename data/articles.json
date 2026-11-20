@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:20:40.920372+00:00",
+  "generatedAt": "2026-11-20T16:31:00.167779+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T16:20:40.920372+00:00"
+      "lastSuccessAt": "2026-11-20T16:31:00.167779+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : Bitdefender Total Security à -63 % pour protéger jusqu’à 5 appareils",
+      "url": "https://www.clubic.com/actualite-639394-black-friday-bitdefender-total-security-a--63-pour-proteger-jusqu-a-5-appareils.html",
+      "publishedAt": "2026-11-20T16:30:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Ce purificateur change de couleur en fonction de la qualité de l’air, et il baisse de prix pour le Black Friday",
+      "url": "https://www.numerama.com/tech/2340843-ce-nouveau-purificateur-change-de-couleur-selon-la-qualite-de-lair-que-vous-respirez-et-son-prix-baisse-deja.html",
+      "publishedAt": "2026-11-20T16:22:07+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Les AirPods 5 en promo : le modèle haut de gamme au prix de l'entrée de gamme !",
+      "url": "https://www.mac4ever.com/audio/199182-les-airpods-5-en-promo-le-modele-haut-de-gamme-au-prix-de-l-entree-de-gamme",
+      "publishedAt": "2026-11-20T16:21:47+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Volkswagen dépose le nom ID. Up pour sa petite électrique à 20 000 euros",
@@ -152,6 +170,12 @@
       "title": "Le 20 novembre 1993, Shaquille O’Neal signait un triple-double d’anthologie",
       "url": "https://www.basketusa.com/news/530947/le-20-novembre-1993-shaquille-oneal-realisait-un-triple-double-danthologie/",
       "publishedAt": "2026-11-20T16:15:33+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "GrapheneOS accuse toujours Google de vouloir anéantir les systèmes Android alternatifs",
+      "url": "https://www.generation-nt.com/actualites/graphene-os-systeme-exploitation-android-alternative-monopole-google-2084892",
+      "publishedAt": "2026-11-20T16:15:01+00:00"
     },
     {
       "source": "clubic",
@@ -176,6 +200,12 @@
       "title": "Un Graal des maths tombe : un chercheur d’Anthropic revendique avoir résolu l’hypothèse de Riemann avec l’IA Claude",
       "url": "https://www.numerama.com/tech/2380265-un-graal-des-maths-tombe-un-chercheur-danthropic-revendique-avoir-resolu-lhypothese-de-riemann-avec-lia-claude.html",
       "publishedAt": "2026-11-20T16:08:44+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "SpaceX devra assumer la facture des débris du Starship échoués au Mexique",
+      "url": "https://www.generation-nt.com/actualites/spacex-debris-starship-plage-mexique-2084862",
+      "publishedAt": "2026-11-20T16:05:01+00:00"
     },
     {
       "source": "jdg",
@@ -550,6 +580,12 @@
       "publishedAt": "2026-11-20T12:50:55+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T12:48:05+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
       "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
@@ -650,12 +686,6 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T11:48:05+00:00"
     },
     {
       "source": "presse",
@@ -3704,36 +3734,6 @@
       "title": "Jusqu’à 10 % plus cher : cette enseigne très connue est la pire pour faire ses courses !",
       "url": "https://www.journaldugeek.com/2026/11/18/jusqua-10-plus-cher-cette-enseigne-tres-connue-est-la-pire-pour-faire-ses-courses/",
       "publishedAt": "2026-11-18T16:32:05+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Rencontre en ligne : Happn fait appel au ministère de la Justice, l’application ajoute un onglet « je suis victime »",
-      "url": "https://www.presse-citron.net/rencontres-en-ligne-happn-fait-appel-au-ministere-de-la-justice-lapplication-ajoute-un-onglet-je-suis-victime/",
-      "publishedAt": "2026-11-18T16:30:57+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "YouTube gonfle le nombre de vues affichées",
-      "url": "https://www.generation-nt.com/actualites/youtube-co-views-compteur-vues-television-audience-2084738",
-      "publishedAt": "2026-11-18T16:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Lisez vos livres électroniques en couleurs : la Kobo Libra Colour passe à 239,99 € chez Fnac durant le Black Friday",
-      "url": "https://www.clubic.com/bons-plans-638059-lisez-vos-livres-electroniques-en-couleurs-la-kobo-libra-colour-passe-a-239-99-chez-fnac-durant-le-black-friday.html",
-      "publishedAt": "2026-11-18T16:30:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Voyager 1 est à un jour-lumière de la Terre",
-      "url": "https://korben.info/voyager-1-est-a-un-jour-lumiere-de-la-terre.html",
-      "publishedAt": "2026-11-18T16:29:23+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Josh Giddey perd trop de ballons… et sa place sur le terrain",
-      "url": "https://www.basketusa.com/news/958367/lucide-josh-giddey-reconnait-etre-dans-le-dur/",
-      "publishedAt": "2026-11-18T16:25:36+00:00"
     },
     {
       "source": "boulet",
