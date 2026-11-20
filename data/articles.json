@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:40:42.384283+00:00",
+  "generatedAt": "2026-11-20T05:50:36.595066+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T05:40:42.384283+00:00"
+      "lastSuccessAt": "2026-11-20T05:50:36.595066+00:00"
     }
   ],
   "articles": [
@@ -152,6 +152,12 @@
       "title": "Pas touche à Apple Intelligence : Cupertino tente de bloquer sa suppression",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/pas-touche-apple-intelligence-cupertino-tente-de-bloquer-sa-suppression-312531",
       "publishedAt": "2026-11-20T05:07:34+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "A Memphis, les Warriors terminent leur “road trip” par une nouvelle correction",
+      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
+      "publishedAt": "2026-11-20T04:43:01+00:00"
     },
     {
       "source": "macg",
@@ -214,12 +220,6 @@
       "publishedAt": "2026-11-19T19:48:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T19:40:51+00:00"
-    },
-    {
       "source": "macg",
       "title": "Test du MacBook Pro M6 : plus rapide, mais pas plus excitant",
       "url": "https://www.macg.co/tests/2026/11/test-du-macbook-pro-m6-plus-rapide-mais-pas-plus-excitant-312511",
@@ -266,6 +266,12 @@
       "title": "Une PlayStation 4 jailbreakée exécute un modèle IA de 9 milliards de paramètres à 43 tokens par seconde",
       "url": "https://www.generation-nt.com/actualites/playstation-jailbreak-ia-43-tokens-2084773",
       "publishedAt": "2026-11-19T18:45:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T18:40:51+00:00"
     },
     {
       "source": "jdg",
@@ -904,12 +910,6 @@
       "publishedAt": "2026-11-19T13:23:37+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T13:21:57+00:00"
-    },
-    {
       "source": "gnt",
       "title": "La Chine réduit les coûts de ses avions de combat J-35 grâce à l'impression 3D au titane",
       "url": "https://www.generation-nt.com/actualites/metal-chine-reduit-couts-avions-3d-2084767",
@@ -1034,6 +1034,12 @@
       "title": "L'iPhone 17 Pro Max chute en promo à 1179€ : son prix le plus bas, 450€ de moins que le 18 Pro Max !",
       "url": "https://www.mac4ever.com/iphone/199140-l-iphone-17-pro-max-chute-en-promo-a-1179-son-prix-le-plus-bas-450-de-moins-que-le-18-pro-max",
       "publishedAt": "2026-11-19T12:22:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T12:21:57+00:00"
     },
     {
       "source": "clubic",
