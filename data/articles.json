@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:20:39.860117+00:00",
+  "generatedAt": "2026-11-20T06:30:52.673187+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T06:20:39.860117+00:00"
+      "lastSuccessAt": "2026-11-20T06:30:52.673187+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le directeur technique de Ledger annonce son départ après neuf ans",
+      "url": "https://www.clubic.com/actualite-640180-le-directeur-technique-de-ledger-annonce-son-depart-apres-neuf-ans.html",
+      "publishedAt": "2026-11-20T06:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : ce robot aspirateur-laveur Lefant chute à moins de 200 € (soit plus de -70 % !)",
+      "url": "https://www.clubic.com/bons-plans-639373-black-friday-ce-robot-aspirateur-laveur-lefant-chute-a-moins-de-200-soit-plus-de--70.html",
+      "publishedAt": "2026-11-20T06:30:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise face à la hausse du prix du carburant",
+      "url": "https://www.presse-citron.net/limiter-la-vitesse-sur-les-autoroutes-a-80-km-h-ca-se-precise-face-a-la-hausse-du-prix-du-carburant/",
+      "publishedAt": "2026-11-20T06:29:10+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Damian Lillard et Jrue Holiday se rappellent au bon souvenir de Milwaukee…",
+      "url": "https://www.basketusa.com/news/959188/damian-lillard-et-jrue-holiday-se-rappellent-au-bon-souvenir-de-milwaukee/",
+      "publishedAt": "2026-11-20T06:23:45+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Apple prépare son propre agent IA capable de contrôler votre Mac et vos applications",
@@ -146,6 +170,12 @@
       "title": "Fibre en campagne : pourquoi les élus préparent un recours contre l’Arcep",
       "url": "https://www.clubic.com/actualite-640177-fibre-en-campagne-pourquoi-les-elus-preparent-un-recours-contre-l-arcep.html",
       "publishedAt": "2026-11-20T06:16:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Microsoft s'excuse et explique l'origine de la panne mondiale d'Outlook",
+      "url": "https://www.generation-nt.com/actualites/microsoft-explique-panne-mondiale-outlook-2084844",
+      "publishedAt": "2026-11-20T06:05:01+00:00"
     },
     {
       "source": "jdg",
@@ -262,6 +292,12 @@
       "publishedAt": "2026-11-19T19:48:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T19:40:51+00:00"
+    },
+    {
       "source": "macg",
       "title": "Test du MacBook Pro M6 : plus rapide, mais pas plus excitant",
       "url": "https://www.macg.co/tests/2026/11/test-du-macbook-pro-m6-plus-rapide-mais-pas-plus-excitant-312511",
@@ -308,12 +344,6 @@
       "title": "Une PlayStation 4 jailbreakée exécute un modèle IA de 9 milliards de paramètres à 43 tokens par seconde",
       "url": "https://www.generation-nt.com/actualites/playstation-jailbreak-ia-43-tokens-2084773",
       "publishedAt": "2026-11-19T18:45:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T18:40:51+00:00"
     },
     {
       "source": "jdg",
@@ -958,6 +988,12 @@
       "publishedAt": "2026-11-19T13:23:37+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-19T13:21:57+00:00"
+    },
+    {
       "source": "gnt",
       "title": "La Chine réduit les coûts de ses avions de combat J-35 grâce à l'impression 3D au titane",
       "url": "https://www.generation-nt.com/actualites/metal-chine-reduit-couts-avions-3d-2084767",
@@ -1078,12 +1114,6 @@
       "publishedAt": "2026-11-19T12:22:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Chicago Bulls – Washington Wizards : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/958967/chicago-bulls-washington-wizards-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-19T12:21:57+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Un mystérieux boîtier repéré sur le bureau d’un DJ dévoile le premier appareil IA de Nothing",
       "url": "https://www.clubic.com/actualite-640057-un-mysterieux-boitier-repere-sur-le-bureau-d-un-dj-devoile-le-premier-appareil-ia-de-nothing.html",
@@ -1148,12 +1178,6 @@
       "title": "Valoran : entre précision tactique, agents variés et skins qui font la différence",
       "url": "https://www.generation-nt.com/actualites/valoran-precision-tactique-agents-skins-2084793",
       "publishedAt": "2026-11-19T11:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Pour Tyler Herro, un retour sous les sifflets à Miami",
-      "url": "https://www.basketusa.com/news/958966/pour-tyler-herro-un-retour-a-miami-sous-les-sifflets/",
-      "publishedAt": "2026-11-19T11:48:09+00:00"
     },
     {
       "source": "clubic",
@@ -1292,6 +1316,12 @@
       "title": "GTA 6 : records, astuces et secrets dans Leonida, toutes les infos après 24 heures de jeu (EN DIRECT)",
       "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct.html",
       "publishedAt": "2026-11-19T10:54:38+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Pour Tyler Herro, un retour sous les sifflets à Miami",
+      "url": "https://www.basketusa.com/news/958966/pour-tyler-herro-un-retour-a-miami-sous-les-sifflets/",
+      "publishedAt": "2026-11-19T10:48:09+00:00"
     },
     {
       "source": "jdg",
@@ -3794,36 +3824,6 @@
       "title": "Crazy Taxi World Tour dévoile l'Inde comme ultime destination internationale",
       "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-inde-2084611",
       "publishedAt": "2026-11-18T06:50:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Cet acteur veut sa trilogie Marvel, mais pas sûr que vous soyez d’accord",
-      "url": "https://www.journaldugeek.com/2026/11/18/cet-acteur-veut-sa-trilogie-marvel-mais-pas-sur-que-vous-soyez-daccord/",
-      "publishedAt": "2026-11-18T06:30:18+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Azeez Al-Shaair absent, les Browns promus : les 8 infos NFL du mercredi",
-      "url": "https://touchdownactu.com/361540/azeez-al-shaair-absent-les-browns-promus-les-7-infos-nfl-du-mercredi/",
-      "publishedAt": "2026-11-18T06:30:14+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Affaire Megaspeed : l'enquête criminelle qui bouscule l'industrie des semi-conducteurs",
-      "url": "https://www.generation-nt.com/actualites/nvidia-megaspeed-puces-ia-restrictions-contournement-enquete-2084659",
-      "publishedAt": "2026-11-18T06:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Gemini gardera vos chats temporaires deux mois au lieu de 72 h",
-      "url": "https://www.clubic.com/actualite-639763-gemini-gardera-vos-chats-temporaires-deux-mois-au-lieu-de-72-h.html",
-      "publishedAt": "2026-11-18T06:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Avec ses 40 points, Brice Sensabaugh délivre enfin le Jazz",
-      "url": "https://www.basketusa.com/news/958444/avec-ses-40-points-brice-sensabaugh-delivre-enfin-le-jazz/",
-      "publishedAt": "2026-11-18T06:28:35+00:00"
     },
     {
       "source": "boulet",
