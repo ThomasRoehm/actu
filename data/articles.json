@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:30:55.319166+00:00",
+  "generatedAt": "2026-11-20T08:40:40.779699+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
+      "lastSuccessAt": "2026-11-20T08:40:40.779699+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "Puka Nacua suspendu : les 5 infos NFL du vendredi",
+      "url": "https://touchdownactu.com/361645/puka-nacua-suspendu-les-5-infos-nfl-du-vendredi/",
+      "publishedAt": "2026-11-20T08:39:34+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "BYD installe un volant pliant et rétractable sur un modèle de série",
+      "url": "https://www.numerama.com/vroom/2379411-byd-installe-un-volant-pliant-et-retractable-sur-un-modele-de-serie.html",
+      "publishedAt": "2026-11-20T08:39:31+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Black Friday : les offres immanquables du jour sont ici (EN DIRECT)",
+      "url": "https://www.numerama.com/tech/2374925-black-friday-les-meilleures-offres-en-direct.html",
+      "publishedAt": "2026-11-20T08:36:13+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "La fin d’une époque pour Android : Google change les règles sur les installations d’applications",
+      "url": "https://www.journaldugeek.com/2026/11/20/la-fin-dune-epoque-pour-android-google-change-les-regles-sur-les-installations-dapplications/",
+      "publishedAt": "2026-11-20T08:32:31+00:00"
+    },
     {
       "source": "gnt",
       "title": "Le gouvernement français réorganise sa défense face à des cyberattaques historiques",
@@ -155,7 +179,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Suns intéressés par Dejounte Murray, mais pas à n’importe quel prix",
+      "title": "Dejounte Murray chez les Suns ? Phoenix pose ses conditions",
       "url": "https://www.basketusa.com/news/959149/les-suns-interesses-par-dejounte-murray-mais-pas-a-nimporte-quel-prix/",
       "publishedAt": "2026-11-20T08:17:06+00:00"
     },
@@ -164,6 +188,12 @@
       "title": "Gemini peut maintenant utiliser votre Mac à votre place",
       "url": "https://www.mac4ever.com/ia/199160-gemini-peut-maintenant-utiliser-votre-mac-a-votre-place",
       "publishedAt": "2026-11-20T08:12:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Farcall - Un PC de 1981 qui s'ouvre dans votre terminal",
+      "url": "https://korben.info/farcall-emulateur-dos-ssh.html",
+      "publishedAt": "2026-11-20T08:10:36+00:00"
     },
     {
       "source": "jdg",
@@ -328,6 +358,12 @@
       "publishedAt": "2026-11-20T06:45:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
+      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
+      "publishedAt": "2026-11-20T06:44:06+00:00"
+    },
+    {
       "source": "presse",
       "title": "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise pour contrer la hausse du prix du carburant",
       "url": "https://www.presse-citron.net/limiter-la-vitesse-sur-les-autoroutes-a-80-km-h-ca-se-precise-pour-contrer-la-hausse-du-prix-du-carburant/",
@@ -406,12 +442,6 @@
       "publishedAt": "2026-11-20T06:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
-      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
-      "publishedAt": "2026-11-20T05:44:06+00:00"
-    },
-    {
       "source": "macg",
       "title": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code-312533",
@@ -422,6 +452,12 @@
       "title": "Visa confirme une fuite de données liée à un prestataire en Asie-Pacifique",
       "url": "https://www.generation-nt.com/actualites/visa-fuite-donnees-prestataire-asie-2084845",
       "publishedAt": "2026-11-20T05:30:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Knicks se font peur mais résistent au retour des Wolves",
+      "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
+      "publishedAt": "2026-11-20T05:17:08+00:00"
     },
     {
       "source": "tda",
@@ -437,21 +473,15 @@
     },
     {
       "source": "basketusa",
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T04:50:03+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
       "publishedAt": "2026-11-20T04:43:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Knicks se font peur mais résistent au retour des Wolves",
-      "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
-      "publishedAt": "2026-11-20T04:17:08+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T03:50:03+00:00"
     },
     {
       "source": "macg",
@@ -3794,30 +3824,6 @@
       "title": "Pourquoi l'ex-président d'Apple s’apprête à vendre pour 32 millions de dollars en actions",
       "url": "https://www.mac4ever.com/divers/199093-pourquoi-l-ex-president-d-apple-s-apprete-a-vendre-pour-32-millions-de-dollars-en-actions",
       "publishedAt": "2026-11-18T08:42:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "GTA 6 sort à minuit : mettez votre PS5 à jour dès maintenant",
-      "url": "https://www.clubic.com/actualite-639790-gta-6-sort-a-minuit-mettez-votre-ps5-a-jour-des-maintenant.html",
-      "publishedAt": "2026-11-18T08:37:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Après un flop en Europe, la marque officielle du Parti chinois brade son prestige avec un SUV à 35 000 €",
-      "url": "https://www.numerama.com/vroom/2377329-apres-un-flop-en-europe-la-marque-officielle-du-parti-chinois-brade-son-prestige-avec-un-suv-a-35-000-e.html",
-      "publishedAt": "2026-11-18T08:33:15+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "La Chine vient de faire voler un avion-cargo géant autonome : le W5000, un aéronef capable de transporter 5 tonnes de fret sur 2 600 km",
-      "url": "https://www.presse-citron.net/chine-voler-avion-cargo-geant-autonome-w5000-aeronef-capable-transporter-5-tonnes-fret-2-600-km/",
-      "publishedAt": "2026-11-18T08:32:16+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Brice Sensabaugh, 25 points en un quart-temps pour soulager Utah",
-      "url": "https://www.basketusa.com/news/958483/brice-sensabaugh-25-points-en-un-quart-temps-pour-soulager-le-jazz/",
-      "publishedAt": "2026-11-18T08:31:07+00:00"
     },
     {
       "source": "boulet",
