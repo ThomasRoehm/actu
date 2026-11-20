@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:20:39.525584+00:00",
+  "generatedAt": "2026-11-20T17:30:53.581386+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T17:20:39.525584+00:00"
+      "lastSuccessAt": "2026-11-20T17:30:53.581386+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Gravity IA : un PC à base de RTX 5060 Ti est-il un bon client pour l’IA locale ?",
+      "url": "https://www.clubic.com/actualite-640288-gravity-ia-un-pc-a-base-de-rtx-5060-ti-est-il-un-bon-client-pour-l-ia-locale.html",
+      "publishedAt": "2026-11-20T17:30:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Aiarty Image Enhancer – Restaurez et agrandissez vos photos grâce à l’IA (-52 % + 2 cadeaux offerts)",
+      "url": "https://www.mac4ever.com/mac/198969-aiarty-image-enhancer-restaurez-et-agrandissez-vos-photos-grace-a-l-ia-52-2-cadeaux-offerts",
+      "publishedAt": "2026-11-20T17:30:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "La France va pouvoir produire 150 000 obus de 155 mm par an, cinq fois plus qu'en 2022",
@@ -146,6 +158,12 @@
       "title": "Musk se trouve « assez idiot » d'avoir dépensé 474 millions pour le camp Trump",
       "url": "https://www.mac4ever.com/societe/199180-musk-se-trouve-assez-idiot-d-avoir-depense-474-millions-pour-le-camp-trump",
       "publishedAt": "2026-11-20T17:12:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday Week Amazon : notre top 25 des meilleures offres à ne pas rater !",
+      "url": "https://www.generation-nt.com/actualites/amazon-black-friday-week-promos-pas-cher-casque-jbl-alexa-tablette-tv-samsung-oled-montre-garmin-station-anker-solix-casque-meta-2084885",
+      "publishedAt": "2026-11-20T17:10:01+00:00"
     },
     {
       "source": "clubic",
@@ -676,22 +694,10 @@
       "publishedAt": "2026-11-20T12:48:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "New York Knicks – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959347/new-york-knicks-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:46:56+00:00"
-    },
-    {
       "source": "iphon",
       "title": "Jon McCormack, l’un des pères de la photo sur l’iPhone prend sa retraite",
       "url": "https://www.iphon.fr/post/photo-iphone-apple-retraite-probleme",
       "publishedAt": "2026-11-20T12:45:46+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:43:12+00:00"
     },
     {
       "source": "jdg",
@@ -770,6 +776,18 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "New York Knicks – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959347/new-york-knicks-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:46:56+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:43:12+00:00"
     },
     {
       "source": "presse",
@@ -3698,24 +3716,6 @@
       "title": "À cause de Starlink, les satellites sont désormais plus nombreux que les étoiles visibles au-dessus de nombreuses villes",
       "url": "https://www.journaldugeek.com/2026/11/18/cause-starlink-satellites-plus-nombreux-etoiles-visibles-au-dessus-nombreuses-villes/",
       "publishedAt": "2026-11-18T17:33:29+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "W5000 : la Chine fait voler le premier avion-cargo sans pilote de 5 tonnes",
-      "url": "https://www.mac4ever.com/divers/199118-w5000-la-chine-fait-voler-le-premier-avion-cargo-sans-pilote-de-5-tonnes",
-      "publishedAt": "2026-11-18T17:26:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Ils pensent télécharger GTA 6 gratuitement pour PC, c’était un virus : attention, les pièges se multiplient",
-      "url": "https://www.presse-citron.net/telecharger-gta-6-gratuitement-pour-pc-piege-virus/",
-      "publishedAt": "2026-11-18T17:25:59+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La startup de robots soldats soutenue par Eric Trump ne paie plus ses employés",
-      "url": "https://www.generation-nt.com/actualites/robot-soldat-eric-trump-salaires-impayes-2084674",
-      "publishedAt": "2026-11-18T17:25:01+00:00"
     },
     {
       "source": "boulet",
