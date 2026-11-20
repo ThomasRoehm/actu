@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:31:05.968828+00:00",
+  "generatedAt": "2026-11-20T15:40:39.290955+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:31:05.968828+00:00"
+      "lastSuccessAt": "2026-11-20T15:40:39.290955+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Panne Microsoft 365 : les excuses sont là",
+      "url": "https://www.mac4ever.com/divers/199175-panne-microsoft-365-les-excuses-sont-la",
+      "publishedAt": "2026-11-20T15:39:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-20T15:38:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Après 260 jours d’absence, Yanic Konan-Niederhäuser retrouve les parquets",
+      "url": "https://www.basketusa.com/news/959225/apres-260-jours-dabsence-yanic-konan-niederhauser-retrouve-les-parquets/",
+      "publishedAt": "2026-11-20T15:32:08+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Erreur CE-108255-1 sur GTA 6 : comment régler le crash sur PS5 ?",
+      "url": "https://www.journaldugeek.com/2026/11/20/erreur-ce-108255-1-sur-gta-6-comment-regler-le-crash-sur-ps5/",
+      "publishedAt": "2026-11-20T15:31:44+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : Shokz casse le prix de ses écouteurs sans-fil (dont son modèle à conduction osseuse)",
@@ -152,6 +176,12 @@
       "title": "La JAXA annule la mission vers 1998 KY26 et redirige Hayabusa2 suite à une panne moteur",
       "url": "https://www.generation-nt.com/actualites/jaxa-annule-mission-1998-ky26-2084851",
       "publishedAt": "2026-11-20T15:25:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Piratage confirmé : si vous utilisez cette app dédiée aux voitures électriques, vous êtes potentiellement concerné",
+      "url": "https://www.presse-citron.net/piratage-app-voitures-electriques/",
+      "publishedAt": "2026-11-20T15:23:37+00:00"
     },
     {
       "source": "clubic",
@@ -587,12 +617,6 @@
     },
     {
       "source": "clubic",
-      "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-20T11:11:00+00:00"
-    },
-    {
-      "source": "clubic",
       "title": "Google met Gemini au premier plan avec la mise à jour de sa recherche",
       "url": "https://www.clubic.com/actualite-640231-google-met-gemini-au-premier-plan-avec-la-mise-a-jour-de-sa-recherche.html",
       "publishedAt": "2026-11-20T11:11:00+00:00"
@@ -928,6 +952,12 @@
       "publishedAt": "2026-11-20T09:30:07+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Anthony Edwards ne veut pas précipiter son retour",
+      "url": "https://www.basketusa.com/news/959140/anthony-edwards-ne-veut-pas-precipiter-son-retour/",
+      "publishedAt": "2026-11-20T09:30:03+00:00"
+    },
+    {
       "source": "gnt",
       "title": "La mémoire DDR6 double la cadence à 14,4 GT/s dans un format réduit de 44 %",
       "url": "https://www.generation-nt.com/actualites/memoire-ddr6-double-cadence-reduite-2084854",
@@ -1106,12 +1136,6 @@
       "title": "La fin d’une époque pour Android : Google change les règles sur les installations d’applications",
       "url": "https://www.journaldugeek.com/2026/11/20/la-fin-dune-epoque-pour-android-google-change-les-regles-sur-les-installations-dapplications/",
       "publishedAt": "2026-11-20T08:32:31+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Anthony Edwards ne veut pas précipiter son retour",
-      "url": "https://www.basketusa.com/news/959140/anthony-edwards-ne-veut-pas-precipiter-son-retour/",
-      "publishedAt": "2026-11-20T08:30:03+00:00"
     },
     {
       "source": "gnt",
@@ -3674,36 +3698,6 @@
       "title": "iPhone 20 : Apple miserait sur un design radicalement différent en 2027",
       "url": "https://www.iphon.fr/post/iphone-20-design-nouveau-rumeurs",
       "publishedAt": "2026-11-18T15:45:16+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Quel casque ou quels écouteurs sans fil choisir pour Black Friday ? 10 offres Amazon dès 26,99 €",
-      "url": "https://www.clubic.com/bons-plans-639181-black-friday-amazon-9-casques-et-ecouteurs-en-promo-de-26-99-a-499.html",
-      "publishedAt": "2026-11-18T15:40:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Microsoft, Apple, banques et FAA : les États-Unis victimes d’une cyberattaque coordonnée ?",
-      "url": "https://www.mac4ever.com/securite/199111-microsoft-apple-banques-et-faa-les-etats-unis-victimes-d-une-cyberattaque-coordonnee",
-      "publishedAt": "2026-11-18T15:39:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Black Friday : 3 indispensables de DREO pour passer l’hiver au chaud",
-      "url": "https://www.presse-citron.net/black-friday-3-indispensables-de-dreo-pour-passer-lhiver-au-chaud/",
-      "publishedAt": "2026-11-18T15:36:49+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Est-ce que les aliens sont dans GTA 6 ?",
-      "url": "https://www.journaldugeek.com/2026/11/18/est-ce-que-les-aliens-sont-dans-gta-6/",
-      "publishedAt": "2026-11-18T15:34:12+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Fausse réunion Zoom : l'arnaque géante qui a permis de voler des millions dévoilée par le FBI",
-      "url": "https://www.clubic.com/actualite-639877-fausse-reunion-zoom-l-arnaque-geante-qui-a-permis-de-voler-des-millions-devoilee-par-le-fbi.html",
-      "publishedAt": "2026-11-18T15:33:00+00:00"
     },
     {
       "source": "boulet",
