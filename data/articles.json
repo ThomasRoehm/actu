@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:30:56.059581+00:00",
+  "generatedAt": "2026-11-20T10:40:39.535393+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T10:30:56.059581+00:00"
+      "lastSuccessAt": "2026-11-20T10:40:39.535393+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-20T10:37:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Amazon : les 100 offres les plus DINGUES de la Black Week, jusqu’à -67%, mises à jour toute la journée !",
+      "url": "https://www.clubic.com/bons-plans-639883-black-friday-2026-amazon-lance-sa-black-week-et-ca-commence-fort-avec-ces-100-offres-jusqu-a--67.html",
+      "publishedAt": "2026-11-20T10:37:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Black Friday : Rheidon baisse les prix de ses chargeurs pour voiture électrique",
+      "url": "https://www.mac4ever.com/auto/199052-black-friday-rheidon-baisse-les-prix-de-ses-chargeurs-pour-voiture-electrique",
+      "publishedAt": "2026-11-20T10:36:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Le Mac Studio M5 Max déjà en promo : économisez 300€ par rapport à l'Apple Store !",
+      "url": "https://www.mac4ever.com/mac/199169-le-mac-studio-m5-max-deja-en-promo-economisez-300-par-rapport-a-l-apple-store",
+      "publishedAt": "2026-11-20T10:32:17+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : voici la liste complète des 55 trophées (même les trophées masqués)",
+      "url": "https://www.journaldugeek.com/2026/11/20/gta-6-voici-la-liste-complete-des-55-trophees-meme-les-trophees-masques/",
+      "publishedAt": "2026-11-20T10:30:50+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Muse Charm : le gadget IA de Meta à 300 dollars pour se passer d'iPhone",
@@ -164,6 +194,12 @@
       "title": "GTA 6 sur PC : entre la build Cyberleek et les extractions PS5, la pression s’accentue pour Rockstar",
       "url": "https://www.numerama.com/pop-culture/2379627-gta-6-sur-pc-entre-la-build-cyberleek-et-les-extractions-ps5-la-pression-saccentue-pour-rockstar.html",
       "publishedAt": "2026-11-20T10:22:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Matas Buzelis retrouve des couleurs avec l’absence de Caleb Wilson",
+      "url": "https://www.basketusa.com/news/959265/matas-buzelis-retrouve-des-couleurs-avec-labsence-de-caleb-wilson/",
+      "publishedAt": "2026-11-20T10:21:08+00:00"
     },
     {
       "source": "iphon",
@@ -236,12 +272,6 @@
       "title": "Après le piratage du fisc et des frigos, Sébastien Lecornu dévoile son plan de cybersécurité pour la France",
       "url": "https://www.clubic.com/actualite-640228-apres-le-piratage-du-fisc-et-des-frigos-sebastien-lecornu-devoile-son-plan-de-cybersecurite-pour-la-france.html",
       "publishedAt": "2026-11-20T09:57:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures offres tech tout au long de la journée",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-20T09:56:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -368,12 +398,6 @@
       "title": "Elon Musk accuse (encore) Volodymyr Zelensky de mentir sur les restrictions satellites en Ukraine",
       "url": "https://www.generation-nt.com/actualites/elon-musk-starlink-restriction-satellite-mensonge-zelensky-ukraine-2084867",
       "publishedAt": "2026-11-20T09:15:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : les promos pleuvent toujours chez Amazon, voici les 100 qui valent vraiment le coup",
-      "url": "https://www.clubic.com/bons-plans-639883-black-friday-2026-amazon-lance-sa-black-week-et-ca-commence-fort-avec-ces-100-offres-jusqu-a--67.html",
-      "publishedAt": "2026-11-20T09:15:00+00:00"
     },
     {
       "source": "numerama",
@@ -724,6 +748,12 @@
       "publishedAt": "2026-11-20T06:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
+      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
+      "publishedAt": "2026-11-20T06:44:06+00:00"
+    },
+    {
       "source": "presse",
       "title": "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise pour contrer la hausse du prix du carburant",
       "url": "https://www.presse-citron.net/limiter-la-vitesse-sur-les-autoroutes-a-80-km-h-ca-se-precise-pour-contrer-la-hausse-du-prix-du-carburant/",
@@ -802,12 +832,6 @@
       "publishedAt": "2026-11-20T06:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
-      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
-      "publishedAt": "2026-11-20T05:44:06+00:00"
-    },
-    {
       "source": "macg",
       "title": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code-312533",
@@ -839,15 +863,15 @@
     },
     {
       "source": "basketusa",
-      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
-      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
-      "publishedAt": "2026-11-20T04:43:01+00:00"
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T04:50:03+00:00"
     },
     {
       "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T03:50:03+00:00"
+      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
+      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
+      "publishedAt": "2026-11-20T04:43:01+00:00"
     },
     {
       "source": "macg",
@@ -946,6 +970,12 @@
       "publishedAt": "2026-11-19T18:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T18:40:51+00:00"
+    },
+    {
       "source": "jdg",
       "title": "GTA 6 nommé aux Game Awards 2026 avant même sa sortie, comment c’est possible ?",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
@@ -1010,12 +1040,6 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T17:40:51+00:00"
     },
     {
       "source": "gnt",
@@ -3788,24 +3812,6 @@
       "title": "Black Friday : Une Apple Watch Ultra 2 à moins de 550 € ça vous tente ?",
       "url": "https://www.iphon.fr/post/black-friday-apple-watch-ultra-2-moins-550-euros-ca-vous-tente",
       "publishedAt": "2026-11-18T10:41:31+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« La mauvaise approche » : Cloudflare tacle la justice française, qui pousse le résolveur DNS Quad9 à quitter le pays",
-      "url": "https://www.numerama.com/tech/2377419-la-mauvaise-approche-cloudflare-tacle-la-justice-francaise-qui-pousse-le-resolveur-dns-quad9-a-quitter-le-pays.html",
-      "publishedAt": "2026-11-18T10:39:45+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Sony déploie un correctif PS5 d'urgence juste avant la sortie de GTA 6",
-      "url": "https://www.generation-nt.com/actualites/sony-correctif-ps5-gta-6-2084664",
-      "publishedAt": "2026-11-18T10:35:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "La panne mondiale d’Outlook a failli empoisonner des baigneurs en Allemagne",
-      "url": "https://www.journaldugeek.com/2026/11/18/la-panne-mondiale-doutlook-a-failli-empoisonner-des-baigneurs-en-allemagne/",
-      "publishedAt": "2026-11-18T10:33:36+00:00"
     },
     {
       "source": "boulet",
