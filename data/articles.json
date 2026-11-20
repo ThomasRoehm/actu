@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:50:40.298425+00:00",
+  "generatedAt": "2026-11-20T16:01:06.370835+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:50:40.298425+00:00"
+      "lastSuccessAt": "2026-11-20T16:01:06.370835+00:00"
     }
   ],
   "articles": [
     {
+      "source": "clubic",
+      "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-20T15:53:00+00:00"
+    },
+    {
       "source": "iphon",
-      "title": "Andrew Garfieldet Jude Law sont des magiciens : vous allez adorer cette nouvelle série Apple TV",
+      "title": "Andrew Garfield et Jude Law sont des magiciens : vous allez adorer cette nouvelle série Apple TV",
       "url": "https://www.iphon.fr/post/serie-apple-tv-magie-nouveaute",
       "publishedAt": "2026-11-20T15:45:49+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Muse Charm serait un gadget IA à 300 dollars",
+      "url": "https://www.generation-nt.com/actualites/muse-charm-gadget-ia-prix-meta-2084876",
+      "publishedAt": "2026-11-20T15:45:01+00:00"
     },
     {
       "source": "numerama",
@@ -158,12 +170,6 @@
       "title": "Panne Microsoft 365 : les excuses sont là",
       "url": "https://www.mac4ever.com/divers/199175-panne-microsoft-365-les-excuses-sont-la",
       "publishedAt": "2026-11-20T15:39:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : les meilleures promos à saisir ce vendredi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-20T15:38:00+00:00"
     },
     {
       "source": "presse",
@@ -187,6 +193,12 @@
       "source": "clubic",
       "title": "Black Friday : Shokz casse le prix de ses écouteurs sans-fil (dont son modèle à conduction osseuse)",
       "url": "https://www.clubic.com/actualite-639337-black-friday-shokz-casse-le-prix-de-ses-ecouteurs-sans-fil-dont-son-modele-a-conduction-osseuse.html",
+      "publishedAt": "2026-11-20T15:30:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Ulule : notre livre sur les 50 ans d’Apple passe à l’impression",
+      "url": "https://www.macg.co/macgeneration/2026/11/ulule-notre-livre-sur-les-50-ans-dapple-passe-limpression-312517",
       "publishedAt": "2026-11-20T15:30:00+00:00"
     },
     {
@@ -982,6 +994,12 @@
       "publishedAt": "2026-11-20T09:30:03+00:00"
     },
     {
+      "source": "clubic",
+      "title": "Black Friday : 9 offres de FOLIE sur les PC portables chez Amazon, jusqu’à -40%",
+      "url": "https://www.clubic.com/bons-plans-638686-black-friday-amazon-baisse-le-prix-de-6-pc-portables-du-hp-17-pouces-au-lenovo-yoga-oled.html",
+      "publishedAt": "2026-11-20T09:29:00+00:00"
+    },
+    {
       "source": "gnt",
       "title": "La mémoire DDR6 double la cadence à 14,4 GT/s dans un format réduit de 44 %",
       "url": "https://www.generation-nt.com/actualites/memoire-ddr6-double-cadence-reduite-2084854",
@@ -1273,12 +1291,6 @@
       "source": "clubic",
       "title": "Black Friday : GEEKOM fait fondre le prix de ses mini-PC, jusqu’à 200 € de remise",
       "url": "https://www.clubic.com/actualite-639838-black-friday-geekom-fait-fondre-le-prix-de-ses-mini-pc-jusqu-a-200-de-remise.html",
-      "publishedAt": "2026-11-20T07:30:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Ulule : notre livre sur les 50 ans d’Apple passe à l’impression",
-      "url": "https://www.macg.co/macgeneration/2026/11/ulule-notre-livre-sur-les-50-ans-dapple-passe-limpression-312517",
       "publishedAt": "2026-11-20T07:30:00+00:00"
     },
     {
@@ -3686,36 +3698,6 @@
       "title": "Tout ça pour ça ! NVIDIA annulerait la GeForce RTX 5080 24 Go : la GDDR7 est trop chère",
       "url": "https://www.clubic.com/actualite-639910-tout-ca-pour-ca-nvidia-annulerait-la-geforce-rtx-5080-24-go-la-gddr7-est-trop-chere.html",
       "publishedAt": "2026-11-18T16:04:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "GTA 6 sur PS5 : une mise à jour obligatoire à faire avant de jouer, même préchargé",
-      "url": "https://www.mac4ever.com/gaming/199115-gta-6-sur-ps5-une-mise-a-jour-obligatoire-a-faire-avant-de-jouer-meme-precharge",
-      "publishedAt": "2026-11-18T16:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : Amazon frappe fort avec 50 offres tech jusqu’à -73 %, rien que ça !",
-      "url": "https://www.clubic.com/bons-plans-639826-black-friday-2026-notre-top-50-des-meilleures-offres-amazon-avant-le-jour-j.html",
-      "publishedAt": "2026-11-18T15:57:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Daniss Jenkins dynamise aussi le cinq majeur des Pistons",
-      "url": "https://www.basketusa.com/news/958551/daniss-jenkins-dynamise-egalement-le-cinq-majeur-des-pistons/",
-      "publishedAt": "2026-11-18T15:56:28+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "EA confie Battlefield à un autre ancien patron de Call of Duty",
-      "url": "https://www.generation-nt.com/actualites/ea-battlefield-patron-call-duty-2084672",
-      "publishedAt": "2026-11-18T15:55:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "“C’est un véritable changement pour Grand Theft Auto” : GTA 6 sort demain, et sa vraie révolution n’est pas celle qu’on croit",
-      "url": "https://www.presse-citron.net/changement-grand-theft-auto-6-revolution/",
-      "publishedAt": "2026-11-18T15:53:19+00:00"
     },
     {
       "source": "boulet",
