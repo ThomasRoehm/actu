@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:01:10.085382+00:00",
+  "generatedAt": "2026-11-20T15:10:38.954108+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T15:01:10.085382+00:00"
+      "lastSuccessAt": "2026-11-20T15:10:38.954108+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "À une semaine du Black Friday, Amazon casse les prix de ses propres appareils : jusqu’à -83%",
+      "url": "https://www.clubic.com/bons-plans-639421-black-friday-2026-amazon-casse-les-prix-de-ses-propres-appareils-10-offres-jusqu-a--83-des-maintenant.html",
+      "publishedAt": "2026-11-20T15:10:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Ce chargeur 140W est bradé à 60€ (-33%) pour le Black Friday : parfait pour vos Mac, iPad, iPhone !",
+      "url": "https://www.mac4ever.com/iphone/199177-ce-chargeur-140w-est-brade-a-60-33-pour-le-black-friday-parfait-pour-vos-mac-ipad-iphone",
+      "publishedAt": "2026-11-20T15:09:21+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Jude Law et Andrew Garfield font de la magie sur Apple TV",
+      "url": "https://www.mac4ever.com/tv/199170-jude-law-et-andrew-garfield-font-de-la-magie-sur-apple-tv",
+      "publishedAt": "2026-11-20T15:06:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : un fast-food va reproduire le même burger avec 7 steaks que dans le jeu",
+      "url": "https://www.journaldugeek.com/2026/11/20/gta-6-un-fast-food-va-reproduire-le-meme-burger-avec-7-steaks-que-dans-le-jeu/",
+      "publishedAt": "2026-11-20T15:02:45+00:00"
+    },
     {
       "source": "gnt",
       "title": "Google a une copie d'internet pour les agents IA de Chrome",
@@ -394,6 +418,12 @@
       "publishedAt": "2026-11-20T12:45:46+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T12:43:12+00:00"
+    },
+    {
       "source": "jdg",
       "title": "GTA 6 : après Jason et Lucia tout nus, Cyberleek promet la version piratée du jeu complet pour le 23 novembre",
       "url": "https://www.journaldugeek.com/2026/11/20/gta-6-apres-jason-et-lucia-tout-nus-cyberleek-promet-la-version-piratee-du-jeu-complet-pour-le-23-novembre/",
@@ -470,12 +500,6 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T11:43:12+00:00"
     },
     {
       "source": "presse",
@@ -1126,6 +1150,12 @@
       "publishedAt": "2026-11-20T07:54:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T07:53:08+00:00"
+    },
+    {
       "source": "iphon",
       "title": "App Store Awards : voici les meilleures apps iPhone de 2026",
       "url": "https://www.iphon.fr/post/apple-app-store-awards-applications-nominees",
@@ -1154,6 +1184,12 @@
       "title": "Gemini apprend à son tour à contrôler le Mac en langage naturel",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/gemini-apprend-son-tour-controler-le-mac-en-langage-naturel-312535",
       "publishedAt": "2026-11-20T07:34:31+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chris Finch furieux après un coup de sifflet qui coûte cher aux Wolves",
+      "url": "https://www.basketusa.com/news/959197/chris-finch-furieux-apres-un-coup-de-sifflet-qui-coute-cher-aux-wolves/",
+      "publishedAt": "2026-11-20T07:30:02+00:00"
     },
     {
       "source": "clubic",
@@ -1240,12 +1276,6 @@
       "publishedAt": "2026-11-20T06:54:08+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T06:53:08+00:00"
-    },
-    {
       "source": "korben",
       "title": "Canva vous laisse couper l'IA générative",
       "url": "https://korben.info/canva-vous-laisse-couper-lia-generative.html",
@@ -1262,12 +1292,6 @@
       "title": "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise pour contrer la hausse du prix du carburant",
       "url": "https://www.presse-citron.net/limiter-la-vitesse-sur-les-autoroutes-a-80-km-h-ca-se-precise-pour-contrer-la-hausse-du-prix-du-carburant/",
       "publishedAt": "2026-11-20T06:35:10+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chris Finch furieux après un coup de sifflet qui coûte cher aux Wolves",
-      "url": "https://www.basketusa.com/news/959197/chris-finch-furieux-apres-un-coup-de-sifflet-qui-coute-cher-aux-wolves/",
-      "publishedAt": "2026-11-20T06:30:02+00:00"
     },
     {
       "source": "gnt",
@@ -3680,48 +3704,6 @@
       "title": "SFR casse les codes : le Wi-Fi 7 à moins de 37 € par mois avec la nouvelle Box 10 !",
       "url": "https://www.journaldugeek.com/2026/11/18/sfr-casse-les-codes-le-wi-fi-7-a-moins-de-37-e-par-mois-avec-la-nouvelle-box-10/",
       "publishedAt": "2026-11-18T15:15:51+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "SkillEvaluator - Vos skills IA ont peut-être un YAML pété ?",
-      "url": "https://korben.info/skillevaluator-nvidia-skills-agents.html",
-      "publishedAt": "2026-11-18T15:10:16+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Amazon Family arrive en France : partager Prime avec un adulte de son foyer, sans supplément ni partage de mot de passe",
-      "url": "https://www.numerama.com/tech/2377467-amazon-family-arrive-en-france-partager-prime-avec-un-adulte-de-son-foyer-sans-supplement-ni-partage-de-mot-de-passe.html",
-      "publishedAt": "2026-11-18T15:10:06+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le dioxyde de carbone pourrait remplacer l'eau de votre lave-linge",
-      "url": "https://www.generation-nt.com/actualites/co2-remplace-eau-lave-linge-2084671",
-      "publishedAt": "2026-11-18T15:10:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Comment acheter une voiture dans GTA 6 ?",
-      "url": "https://www.journaldugeek.com/2026/11/18/comment-acheter-une-voiture-dans-gta-6/",
-      "publishedAt": "2026-11-18T15:07:52+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Cet écran Japannext à 649 euros peut remplacer vos deux moniteurs",
-      "url": "https://korben.info/cet-ecran-japannext-a-649-euros-peut-remplacer-vos-deux-moniteurs.html",
-      "publishedAt": "2026-11-18T15:04:50+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Test MSI Prestige N16 Flip AI+ : quand la promesse de l’IA locale prime... sur beaucoup d’autres",
-      "url": "https://www.clubic.com/test-produit-636919-test-msi-prestige-n16-flip-ai.html",
-      "publishedAt": "2026-11-18T15:04:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "WhatsApp sauvegarde enfin vos discussions sans passer par Google Drive",
-      "url": "https://www.mac4ever.com/divers/199109-whatsapp-sauvegarde-enfin-vos-discussions-sans-passer-par-google-drive",
-      "publishedAt": "2026-11-18T15:04:00+00:00"
     },
     {
       "source": "boulet",
