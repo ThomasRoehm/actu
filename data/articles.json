@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:50:40.907135+00:00",
+  "generatedAt": "2026-11-20T13:01:07.741308+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T12:50:40.907135+00:00"
+      "lastSuccessAt": "2026-11-20T13:01:07.741308+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Fini l’ouverture à 8h30 : Lidl change les horaires de ses magasins, les clients vont adorer",
+      "url": "https://www.presse-citron.net/fini-louverture-a-8h30-lidl-change-les-horaires-de-ses-magasins-les-clients-vont-adorer/",
+      "publishedAt": "2026-11-20T12:51:11+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Raptors devront aussi faire sans RJ Barrett",
+      "url": "https://www.basketusa.com/news/959148/les-raptors-devront-aussi-faire-sans-rj-barrett/",
+      "publishedAt": "2026-11-20T12:50:55+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
@@ -152,6 +164,12 @@
       "title": "GTA 6 : après Jason et Lucia tout nus, Cyberleek promet la version piratée du jeu complet pour le 23 novembre",
       "url": "https://www.journaldugeek.com/2026/11/20/gta-6-apres-jason-et-lucia-tout-nus-cyberleek-promet-la-version-piratee-du-jeu-complet-pour-le-23-novembre/",
       "publishedAt": "2026-11-20T12:41:04+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Pixmania lance sa Black Week : jusqu’à 50 € offerts sur la tech et le gaming",
+      "url": "https://www.generation-nt.com/actualites/pixmania-promos-black-friday-week-pc-gamer-deepgaming-ecran-oled-tv-samsung-camera-insta360-luna-ultra-aspirateur-dyson-2084880",
+      "publishedAt": "2026-11-20T12:40:01+00:00"
     },
     {
       "source": "clubic",
@@ -604,6 +622,12 @@
       "publishedAt": "2026-11-20T09:30:36+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Anthony Edwards ne veut pas précipiter son retour",
+      "url": "https://www.basketusa.com/news/959140/anthony-edwards-ne-veut-pas-precipiter-son-retour/",
+      "publishedAt": "2026-11-20T09:30:03+00:00"
+    },
+    {
       "source": "gnt",
       "title": "La mémoire DDR6 double la cadence à 14,4 GT/s dans un format réduit de 44 %",
       "url": "https://www.generation-nt.com/actualites/memoire-ddr6-double-cadence-reduite-2084854",
@@ -784,12 +808,6 @@
       "publishedAt": "2026-11-20T08:32:31+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Anthony Edwards ne veut pas précipiter son retour",
-      "url": "https://www.basketusa.com/news/959140/anthony-edwards-ne-veut-pas-precipiter-son-retour/",
-      "publishedAt": "2026-11-20T08:30:03+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Anthropic s'envole à Wall Street avec une valorisation vertigineuse",
       "url": "https://www.generation-nt.com/actualites/anthropic-entree-bourse-nasdaq-intelligence-artificielle-action-2084871",
@@ -854,6 +872,12 @@
       "title": "Halide 3.4 : l’iPhone Duo profite de fonctions inédites et d'un mode XL sur ses deux écrans",
       "url": "https://www.mac4ever.com/iphone/199155-halide-3-4-l-iphone-duo-profite-de-fonctions-inedites-et-d-un-mode-xl-sur-ses-deux-ecrans",
       "publishedAt": "2026-11-20T07:54:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T07:53:08+00:00"
     },
     {
       "source": "iphon",
@@ -976,12 +1000,6 @@
       "publishedAt": "2026-11-20T06:54:08+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T06:53:08+00:00"
-    },
-    {
       "source": "korben",
       "title": "Canva vous laisse couper l'IA générative",
       "url": "https://korben.info/canva-vous-laisse-couper-lia-generative.html",
@@ -1072,6 +1090,12 @@
       "publishedAt": "2026-11-20T06:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
+      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
+      "publishedAt": "2026-11-20T05:44:06+00:00"
+    },
+    {
       "source": "macg",
       "title": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code-312533",
@@ -1106,12 +1130,6 @@
       "title": "Victor Wembanyama fait plier les Clippers en fin de match",
       "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
       "publishedAt": "2026-11-20T04:50:03+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
-      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
-      "publishedAt": "2026-11-20T04:44:06+00:00"
     },
     {
       "source": "basketusa",
@@ -3710,54 +3728,6 @@
       "title": "Où placer son épargne dans une banque mobile en 2026 ? Livret ou compte à terme, le match chez Hello bank!",
       "url": "https://www.presse-citron.net/ou-placer-son-epargne-dans-une-banque-mobile-en-2026-livret-ou-compte-a-terme-le-match-chez-hello-bank/",
       "publishedAt": "2026-11-18T13:06:16+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Windows 11 : Microsoft Defender va surveiller ce que les pirates glissent dans votre presse-papiers",
-      "url": "https://www.clubic.com/actualite-639844-windows-11-microsoft-defender-va-surveiller-ce-que-les-pirates-glissent-dans-votre-presse-papiers.html",
-      "publishedAt": "2026-11-18T13:01:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "L’IA trouve les failles vraiment trop vite : Anthropic et Google sonnent la fin des 90 jours de grâce avant la divulgation",
-      "url": "https://www.numerama.com/tech/2377793-lia-trouve-les-failles-vraiment-trop-vite-anthropic-et-google-sonnent-la-fin-des-90-jours-de-grace-avant-la-divulgation.html",
-      "publishedAt": "2026-11-18T13:01:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Les fusées européennes se réveillent enfin : le fleuron PLD Space signe un contrat clé avant son vol inaugural",
-      "url": "https://www.presse-citron.net/les-fusees-europeennes-se-reveillent-enfin-le-fleuron-pld-space-signe-un-contrat-cle-avant-son-vol-inaugural/",
-      "publishedAt": "2026-11-18T13:00:17+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "K&F CONCEPT M3 : l'outil malin pour le nettoyage au quotidien - Promo Black Friday !",
-      "url": "https://www.generation-nt.com/actualites/ketf-concept-m3-souffleur-aspirateur-nettoyage-2084448",
-      "publishedAt": "2026-11-18T13:00:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "2 500 € de plus qu’une Citroën Ami : j’ai testé la Linktour Alumi, la sans-permis chinoise bien équipée",
-      "url": "https://www.numerama.com/vroom/2376761-2-500-e-de-plus-quune-citroen-ami-jai-teste-la-linktour-alumi-la-sans-permis-chinoise-bien-equipee.html",
-      "publishedAt": "2026-11-18T13:00:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un commerçant piège une console de jeu pour éliminer son rival",
-      "url": "https://www.generation-nt.com/actualites/commercant-piege-console-eliminer-rival-2084668",
-      "publishedAt": "2026-11-18T12:55:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "GTA VI décroche 99/100 sur Metacritic et rejoint enfin le seul jeu qui régnait depuis 28 ans",
-      "url": "https://www.clubic.com/actualite-639847-gta-vi-decroche-99-100-sur-metacritic-et-rejoint-enfin-le-seul-jeu-qui-regnait-depuis-28-ans.html",
-      "publishedAt": "2026-11-18T12:53:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Le nouveau ChatGPT vient de sortir, il promet des textes plus humains",
-      "url": "https://www.journaldugeek.com/2026/11/18/le-nouveau-chatgpt-vient-de-sortir-il-promet-des-textes-plus-humains/",
-      "publishedAt": "2026-11-18T12:52:14+00:00"
     },
     {
       "source": "boulet",
