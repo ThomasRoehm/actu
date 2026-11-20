@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:20:42.366430+00:00",
+  "generatedAt": "2026-11-20T08:30:55.319166+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T08:20:42.366430+00:00"
+      "lastSuccessAt": "2026-11-20T08:30:55.319166+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Le gouvernement français réorganise sa défense face à des cyberattaques historiques",
+      "url": "https://www.generation-nt.com/actualites/france-cyberattaque-intelligence-artificielle-reponse-lecornu-2084860",
+      "publishedAt": "2026-11-20T08:20:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Boulanger : jusqu’à 899 € de moins sur 13 offres tech, à J-8 du 27 novembre",
@@ -146,6 +152,12 @@
       "title": "Dans GTA 6, tout est permis… sauf tromper Lucia et Jason, et ça fait jaser",
       "url": "https://www.numerama.com/pop-culture/2379407-dans-gta-6-tout-est-permis-sauf-tromper-lucia-et-jason-et-ca-fait-jaser.html",
       "publishedAt": "2026-11-20T08:17:59+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Suns intéressés par Dejounte Murray, mais pas à n’importe quel prix",
+      "url": "https://www.basketusa.com/news/959149/les-suns-interesses-par-dejounte-murray-mais-pas-a-nimporte-quel-prix/",
+      "publishedAt": "2026-11-20T08:17:06+00:00"
     },
     {
       "source": "mac4ever",
@@ -193,7 +205,7 @@
       "source": "macg",
       "title": "Apple Watch ou montre GPS de sport : comment bien choisir quand on court avec un iPhone",
       "url": "https://www.macg.co/services/2026/11/apple-watch-ou-montre-gps-de-sport-comment-bien-choisir-quand-court-avec-un-iphone-312143",
-      "publishedAt": "2026-11-20T07:47:04+00:00"
+      "publishedAt": "2026-11-20T07:47:00+00:00"
     },
     {
       "source": "clubic",
@@ -257,7 +269,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Plus de peur que de mal pour Dylan Harper",
+      "title": "Finalement plus de peur que de mal pour Dylan Harper",
       "url": "https://www.basketusa.com/news/959142/plus-de-peur-que-de-mal-pour-dylan-harper/",
       "publishedAt": "2026-11-20T07:02:28+00:00"
     },
@@ -314,12 +326,6 @@
       "title": "Black Friday Amazon : les 100 meilleures offres de la Black Week, mises à jour toute la journée !",
       "url": "https://www.clubic.com/bons-plans-639883-black-friday-2026-amazon-lance-sa-black-week-et-ca-commence-fort-avec-ces-100-offres-jusqu-a--67.html",
       "publishedAt": "2026-11-20T06:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
-      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
-      "publishedAt": "2026-11-20T06:44:06+00:00"
     },
     {
       "source": "presse",
@@ -400,6 +406,12 @@
       "publishedAt": "2026-11-20T06:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Victor Wembanyama crée le « shunk »",
+      "url": "https://www.basketusa.com/news/959175/le-mvp-de-la-nuit-victor-wembanyama-cree-le-shunk/",
+      "publishedAt": "2026-11-20T05:44:06+00:00"
+    },
+    {
       "source": "macg",
       "title": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code-312533",
@@ -412,10 +424,10 @@
       "publishedAt": "2026-11-20T05:30:02+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Knicks se font peur mais résistent au retour des Wolves",
-      "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
-      "publishedAt": "2026-11-20T05:17:08+00:00"
+      "source": "tda",
+      "title": "Texans – Colts (26-3) : les Colts étaient sûrement sur GTA VI",
+      "url": "https://touchdownactu.com/361652/texans-colts-26-3-les-colts-etaient-surement-sur-gta-vi/",
+      "publishedAt": "2026-11-20T05:13:01+00:00"
     },
     {
       "source": "macg",
@@ -425,15 +437,21 @@
     },
     {
       "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T04:50:03+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
       "publishedAt": "2026-11-20T04:43:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Knicks se font peur mais résistent au retour des Wolves",
+      "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
+      "publishedAt": "2026-11-20T04:17:08+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T03:50:03+00:00"
     },
     {
       "source": "macg",
@@ -496,12 +514,6 @@
       "publishedAt": "2026-11-19T19:48:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T19:40:51+00:00"
-    },
-    {
       "source": "macg",
       "title": "Test du MacBook Pro M6 : plus rapide, mais pas plus excitant",
       "url": "https://www.macg.co/tests/2026/11/test-du-macbook-pro-m6-plus-rapide-mais-pas-plus-excitant-312511",
@@ -548,6 +560,12 @@
       "title": "Une PlayStation 4 jailbreakée exécute un modèle IA de 9 milliards de paramètres à 43 tokens par seconde",
       "url": "https://www.generation-nt.com/actualites/playstation-jailbreak-ia-43-tokens-2084773",
       "publishedAt": "2026-11-19T18:45:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T18:40:51+00:00"
     },
     {
       "source": "jdg",
@@ -3800,24 +3818,6 @@
       "title": "Brice Sensabaugh, 25 points en un quart-temps pour soulager Utah",
       "url": "https://www.basketusa.com/news/958483/brice-sensabaugh-25-points-en-un-quart-temps-pour-soulager-le-jazz/",
       "publishedAt": "2026-11-18T08:31:07+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : attention, PlayStation ne rigole pas avec ceux qui utilisent l’astuce pour y jouer plus tôt",
-      "url": "https://www.journaldugeek.com/2026/11/18/gta-6-attention-playstation-ne-rigole-pas-avec-ceux-qui-utilisent-lastuce-pour-y-jouer-plus-tot/",
-      "publishedAt": "2026-11-18T08:30:30+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "OpenAI lance GPT-6.2 Astra et Sol avec des prix en baisse",
-      "url": "https://www.generation-nt.com/actualites/openai-gpt-6-2-astra-sol-tarification-2084711",
-      "publishedAt": "2026-11-18T08:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "YouTube va désormais deviner combien vous êtes sur le canapé et ses compteurs vont grimper",
-      "url": "https://www.clubic.com/actualite-639784-youtube-va-desormais-deviner-combien-vous-etes-sur-le-canape-et-ses-compteurs-vont-grimper.html",
-      "publishedAt": "2026-11-18T08:24:00+00:00"
     },
     {
       "source": "boulet",
