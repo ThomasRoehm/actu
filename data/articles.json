@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:50:41.250553+00:00",
+  "generatedAt": "2026-11-20T08:01:10.990965+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T07:50:41.250553+00:00"
+      "lastSuccessAt": "2026-11-20T08:01:10.990965+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Rowenta X-Force Silence 20.80 : l'aspirateur balai qui allie puissance extrême et discrétion absolue",
+      "url": "https://www.generation-nt.com/actualites/aspirateur-sans-fil-balai-rowenta-x-force-silence-20-80-rh9e74e0-2083722",
+      "publishedAt": "2026-11-20T08:00:01+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Halide 3.4 : l’iPhone Duo profite de fonctions inédites et d'un mode XL sur ses deux écrans",
+      "url": "https://www.mac4ever.com/iphone/199155-halide-3-4-l-iphone-duo-profite-de-fonctions-inedites-et-d-un-mode-xl-sur-ses-deux-ecrans",
+      "publishedAt": "2026-11-20T07:54:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau Monsieur “Double-Double” de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T07:53:08+00:00"
+    },
     {
       "source": "iphon",
       "title": "App Store Awards : voici les meilleures apps iPhone de 2026",
@@ -142,10 +160,22 @@
       "publishedAt": "2026-11-20T07:47:39+00:00"
     },
     {
+      "source": "macg",
+      "title": "Apple Watch ou montre GPS de sport : comment bien choisir quand on court avec un iPhone",
+      "url": "https://www.macg.co/services/2026/11/apple-watch-ou-montre-gps-de-sport-comment-bien-choisir-quand-court-avec-un-iphone-312143",
+      "publishedAt": "2026-11-20T07:47:04+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Si vous êtes chez Mullvad, pensez à vérifier votre DNS",
       "url": "https://www.clubic.com/actualite-640093-si-vous-etes-chez-mullvad-pensez-a-verifier-votre-dns.html",
       "publishedAt": "2026-11-20T07:46:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'IA a provoqué des pannes massives chez Apple, les banques et la NSA",
+      "url": "https://www.generation-nt.com/actualites/ia-pannes-massives-banques-nsa-2084839",
+      "publishedAt": "2026-11-20T07:45:01+00:00"
     },
     {
       "source": "macg",
@@ -436,12 +466,6 @@
       "publishedAt": "2026-11-19T19:48:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T19:40:51+00:00"
-    },
-    {
       "source": "macg",
       "title": "Test du MacBook Pro M6 : plus rapide, mais pas plus excitant",
       "url": "https://www.macg.co/tests/2026/11/test-du-macbook-pro-m6-plus-rapide-mais-pas-plus-excitant-312511",
@@ -488,6 +512,12 @@
       "title": "Une PlayStation 4 jailbreakée exécute un modèle IA de 9 milliards de paramètres à 43 tokens par seconde",
       "url": "https://www.generation-nt.com/actualites/playstation-jailbreak-ia-43-tokens-2084773",
       "publishedAt": "2026-11-19T18:45:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T18:40:51+00:00"
     },
     {
       "source": "jdg",
@@ -3806,24 +3836,6 @@
       "title": "Copier des vidéos sur Instagram va devenir un peu moins facile",
       "url": "https://www.journaldugeek.com/2026/11/18/copier-des-videos-sur-instagram-va-devenir-un-peu-moins-facile/",
       "publishedAt": "2026-11-18T08:02:10+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "GTA 6 est un véritable phénomène en France : un joueur sur quatre a posé des congés",
-      "url": "https://www.presse-citron.net/gta-6-est-un-veritable-phenomene-en-france-un-joueur-sur-quatre-a-pose-des-conges/",
-      "publishedAt": "2026-11-18T08:00:24+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Sortie de GTA 6 en direct : toutes les informations, les astuces et les chiffres",
-      "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct-toutes-les-informations-les-astuces-et-les-chiffres.html",
-      "publishedAt": "2026-11-18T07:54:19+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 : comment suivre le match de NBA entre le Miami Heat et les Milwaukee Bucks ?",
-      "url": "https://www.numerama.com/pop-culture/2377351-gta-6-comment-suivre-le-match-de-nba-entre-le-miami-heat-et-les-milwaukee-bucks.html",
-      "publishedAt": "2026-11-18T07:52:58+00:00"
     },
     {
       "source": "boulet",
