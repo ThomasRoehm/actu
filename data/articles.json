@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:50:38.782396+00:00",
+  "generatedAt": "2026-11-20T12:01:05.639668+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-20T11:50:38.782396+00:00"
+      "lastSuccessAt": "2026-11-20T12:01:05.639668+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
+      "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
+      "publishedAt": "2026-11-20T11:50:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "La guerre se rapproche : un missile russe frappe la Pologne, les habitants appelés à se mettre à l’abri",
+      "url": "https://www.presse-citron.net/la-guerre-se-rapproche-un-missile-russe-frappe-la-pologne-les-habitants-appeles-a-se-mettre-a-labri/",
+      "publishedAt": "2026-11-20T11:42:22+00:00"
+    },
     {
       "source": "numerama",
       "title": "L’Italie autorise le FSD de Tesla, pendant que la France fait de la résistance",
       "url": "https://www.numerama.com/vroom/2379809-litalie-autorise-le-fsd-de-tesla-pendant-que-la-france-fait-de-la-resistance.html",
       "publishedAt": "2026-11-20T11:38:13+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Huawei Watch Air : une montre en titane de 6,9 mm d'une finesse inédite",
+      "url": "https://www.generation-nt.com/actualites/huawei-watch-air-titane-finesse-2084857",
+      "publishedAt": "2026-11-20T11:35:02+00:00"
     },
     {
       "source": "clubic",
@@ -760,12 +778,6 @@
       "publishedAt": "2026-11-20T07:54:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
-      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
-      "publishedAt": "2026-11-20T07:53:08+00:00"
-    },
-    {
       "source": "iphon",
       "title": "App Store Awards : voici les meilleures apps iPhone de 2026",
       "url": "https://www.iphon.fr/post/apple-app-store-awards-applications-nominees",
@@ -886,6 +898,12 @@
       "publishedAt": "2026-11-20T06:54:08+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Karl-Anthony Towns, le nouveau « Monsieur Double-Double » de la NBA",
+      "url": "https://www.basketusa.com/news/959213/karl-anthony-towns-le-nouveau-monsieur-double-double-de-la-nba/",
+      "publishedAt": "2026-11-20T06:53:08+00:00"
+    },
+    {
       "source": "korben",
       "title": "Canva vous laisse couper l'IA générative",
       "url": "https://korben.info/canva-vous-laisse-couper-lia-generative.html",
@@ -940,12 +958,6 @@
       "publishedAt": "2026-11-20T06:28:21+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Damian Lillard et Jrue Holiday au bon souvenir de Milwaukee…",
-      "url": "https://www.basketusa.com/news/959188/damian-lillard-et-jrue-holiday-se-rappellent-au-bon-souvenir-de-milwaukee/",
-      "publishedAt": "2026-11-20T06:23:45+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Apple prépare son propre agent IA capable de contrôler votre Mac et vos applications",
       "url": "https://www.mac4ever.com/ia/199158-apple-prepare-son-propre-agent-ia-capable-de-controler-votre-mac-et-vos-applications",
@@ -995,6 +1007,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Damian Lillard et Jrue Holiday au bon souvenir de Milwaukee…",
+      "url": "https://www.basketusa.com/news/959188/damian-lillard-et-jrue-holiday-se-rappellent-au-bon-souvenir-de-milwaukee/",
+      "publishedAt": "2026-11-20T05:23:45+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Les Knicks se font peur mais résistent au retour des Wolves",
       "url": "https://www.basketusa.com/news/959152/les-knicks-souffrent-mais-enchainent-a-minnesota/",
       "publishedAt": "2026-11-20T05:17:08+00:00"
@@ -1013,15 +1031,15 @@
     },
     {
       "source": "basketusa",
-      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
-      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
-      "publishedAt": "2026-11-20T04:43:01+00:00"
+      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
+      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
+      "publishedAt": "2026-11-20T04:50:03+00:00"
     },
     {
       "source": "basketusa",
-      "title": "Victor Wembanyama fait plier les Clippers en fin de match",
-      "url": "https://www.basketusa.com/news/959166/victor-wembanyama-fait-plier-les-clippers-en-fin-de-match/",
-      "publishedAt": "2026-11-20T03:50:03+00:00"
+      "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
+      "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
+      "publishedAt": "2026-11-20T04:43:01+00:00"
     },
     {
       "source": "macg",
@@ -1120,6 +1138,12 @@
       "publishedAt": "2026-11-19T18:45:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
+      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
+      "publishedAt": "2026-11-19T18:40:51+00:00"
+    },
+    {
       "source": "jdg",
       "title": "GTA 6 nommé aux Game Awards 2026 avant même sa sortie, comment c’est possible ?",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
@@ -1184,12 +1208,6 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs face aux Clippers",
-      "url": "https://www.basketusa.com/news/959129/programme-du-soir-victor-wembanyama-et-les-spurs-face-aux-clippers/",
-      "publishedAt": "2026-11-19T17:40:51+00:00"
     },
     {
       "source": "gnt",
@@ -3776,18 +3794,6 @@
       "title": "Combien de temps faut-il pour traverser la map de GTA 6 en voiture et en avion ? On a chronométré",
       "url": "https://www.journaldugeek.com/2026/11/18/combien-de-temps-faut-il-pour-traverser-la-map-de-gta-6-en-voiture-et-en-avion-on-a-chronometre/",
       "publishedAt": "2026-11-18T12:02:44+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "6 111 tirs laser, 0,6 millimètre de précision : la solution britannique aux satellites fantômes vient d’être validée",
-      "url": "https://www.numerama.com/sciences/2377469-cette-start-up-veut-installer-des-miroirs-sur-les-satellites-pour-lutter-contre-les-debris-spatiaux.html",
-      "publishedAt": "2026-11-18T12:01:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le fils de Peja Stojakovic plante 46 points pour s’offrir Duke !",
-      "url": "https://www.basketusa.com/news/958606/le-fils-de-peja-stojakovic-plante-46-points-face-a-duke/",
-      "publishedAt": "2026-11-18T11:53:26+00:00"
     },
     {
       "source": "boulet",
