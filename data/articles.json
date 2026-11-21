@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:40:40.091341+00:00",
+  "generatedAt": "2026-11-21T13:50:39.453606+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:40:40.091341+00:00"
+      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday d'Amazon n'a pas encore commencé, mais ces 100 offres font déjà fondre les prix",
+      "url": "https://www.clubic.com/bons-plans-640309-black-friday-amazon-les-meilleures-offres-de-la-black-week-a-saisir-ce-week-end-notre-top-100-jusqu-a--67.html",
+      "publishedAt": "2026-11-21T13:48:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-21T13:45:00+00:00"
+    },
     {
       "source": "jdg",
       "title": "GTA 6 : comment assister à l’attaque des aliens en OVNI ?",
@@ -320,12 +332,6 @@
       "title": "L’Italie autorise le FSD de Tesla avant le vote européen",
       "url": "https://www.clubic.com/actualite-640402-l-italie-autorise-le-fsd-de-tesla-avant-le-vote-europeen.html",
       "publishedAt": "2026-11-21T10:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-21T10:23:00+00:00"
     },
     {
       "source": "gnt",
@@ -532,12 +538,6 @@
       "publishedAt": "2026-11-21T08:07:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Caleb Wilson ne s’inquiète pas de ses fractures à répétition",
-      "url": "https://www.basketusa.com/news/959469/caleb-wilson-ne-sinquiete-pas-de-ses-fractures-a-repetition/",
-      "publishedAt": "2026-11-21T08:06:02+00:00"
-    },
-    {
       "source": "jdg",
       "title": "GTA 6 : Mandy est-elle une énorme psychopathe ? Vous avez sûrement raté ces indices",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-mandy-est-elle-une-enorme-psychopathe-vous-avez-surement-rate-ces-indices/",
@@ -592,6 +592,12 @@
       "publishedAt": "2026-11-21T07:10:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Caleb Wilson ne s’inquiète pas de ses fractures à répétition",
+      "url": "https://www.basketusa.com/news/959469/caleb-wilson-ne-sinquiete-pas-de-ses-fractures-a-repetition/",
+      "publishedAt": "2026-11-21T07:06:02+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Ras-le-bol de l'IA générative ? Canva permet enfin de couper l'interrupteur (ou presque)",
       "url": "https://www.clubic.com/actualite-640099-ras-le-bol-de-l-ia-generative-canva-permet-enfin-de-couper-l-interrupteur-ou-presque.html",
@@ -613,12 +619,6 @@
       "source": "clubic",
       "title": "Avast VPN gratuit ou Avast Premium VPN : quelles différences et quelle version choisir ?",
       "url": "https://www.clubic.com/actualite-639247-avast-vpn-gratuit-ou-avast-premium-vpn-quelles-differences-et-quelle-version-choisir.html",
-      "publishedAt": "2026-11-21T07:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Amazon : jusqu’à 750€ de remise ce week-end, voici notre TOP 100 des offres de la Black Week",
-      "url": "https://www.clubic.com/bons-plans-640309-black-friday-amazon-les-meilleures-offres-de-la-black-week-a-saisir-ce-week-end-notre-top-100-jusqu-a--67.html",
       "publishedAt": "2026-11-21T07:00:00+00:00"
     },
     {
@@ -3002,30 +3002,6 @@
       "title": "Un virement de 442 € : des millions de Français reçoivent cette aide de l’État le 15 décembre, êtes-vous concerné ?",
       "url": "https://www.presse-citron.net/un-virement-de-442-e-des-millions-de-francais-recoivent-cette-aide-de-letat-le-15-decembre-etes-vous-concerne/",
       "publishedAt": "2026-11-19T13:57:15+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "« Pas une entreprise d’IA sûre » : des experts dézinguent le double discours d’Anthropic, qui cacherait bien son jeu",
-      "url": "https://www.presse-citron.net/pas-une-entreprise-dia-sure-des-experts-dezinguent-le-double-discours-danthropic-qui-cacherait-bien-son-jeu/",
-      "publishedAt": "2026-11-19T13:48:53+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "La CNIL inflige 5 millions d'euros à la Macif pour ses mots de passe stockés en clair",
-      "url": "https://www.mac4ever.com/societe/199139-la-cnil-inflige-5-millions-d-euros-a-la-macif-pour-ses-mots-de-passe-stockes-en-clair",
-      "publishedAt": "2026-11-19T13:48:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : Comment obtenir le cloneur de clef ?",
-      "url": "https://www.journaldugeek.com/2026/11/19/gta-6-comment-obtenir-le-cloneur-de-clef/",
-      "publishedAt": "2026-11-19T13:46:44+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "GTA V sur iPhone et Android : à l’heure de GTA 6, Take-Two fait supprimer plus de 600 projets sur GitHub !",
-      "url": "https://www.clubic.com/actualite-640069-gta-v-sur-iphone-et-android-a-l-heure-de-gta-6-take-two-fait-supprimer-plus-de-600-projets-sur-github.html",
-      "publishedAt": "2026-11-19T13:41:00+00:00"
     },
     {
       "source": "boulet",
