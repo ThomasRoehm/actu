@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:30:53.125979+00:00",
+  "generatedAt": "2026-11-21T07:40:39.439145+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
+      "lastSuccessAt": "2026-11-21T07:40:39.439145+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : une promo vous tente ? Ce prompt IA vérifie le prix et cherche moins cher ailleurs",
+      "url": "https://www.clubic.com/actualite-640222-black-friday-une-promo-vous-tente-ce-prompt-ia-verifie-le-prix-et-cherche-moins-cher-ailleurs.html",
+      "publishedAt": "2026-11-21T07:32:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Test Shark AquaReach Premium : un aspirateur laveur qui s’attaque aussi aux escaliers",
@@ -3542,24 +3548,6 @@
       "title": "Apple annonce les 45 finalistes pour son App Store Award",
       "url": "https://www.clubic.com/actualite-639931-apple-annonce-les-45-finalistes-pour-son-app-store-award.html",
       "publishedAt": "2026-11-19T07:43:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Nouvelles failles critiques PHP, faut-il flipper pour votre site ?",
-      "url": "https://korben.info/nouvelles-failles-critiques-php-faut-il-flipper-pour-votre-site.html",
-      "publishedAt": "2026-11-19T07:39:21+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Une découverte rarissime : des chercheurs ont retrouvé des traces de sang de dinosaure vieilles de 115 millions d’années",
-      "url": "https://www.presse-citron.net/decouverte-rarissime-chercheurs-retrouve-traces-sang-dinosaure-vieilles-115-millions-dannees/",
-      "publishedAt": "2026-11-19T07:31:31+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Conduite autonome Tesla (FSD) : la France accusée de mener une fronde secrète pour bloquer son homologation",
-      "url": "https://www.numerama.com/vroom/2378361-conduite-autonome-tesla-fsd-la-france-accusee-de-mener-une-fronde-secrete-pour-bloquer-son-homologation.html",
-      "publishedAt": "2026-11-19T07:31:28+00:00"
     },
     {
       "source": "boulet",
