@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:30:55.246269+00:00",
+  "generatedAt": "2026-11-21T15:40:47.366513+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
+      "lastSuccessAt": "2026-11-21T15:40:47.366513+00:00"
     }
   ],
   "articles": [
@@ -628,6 +628,12 @@
       "publishedAt": "2026-11-21T08:00:39+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Brandon Ingram va enfin faire ses grands débuts avec les Clippers",
+      "url": "https://www.basketusa.com/news/959434/brandon-ingram-va-enfin-faire-ses-grands-debuts-avec-les-clippers/",
+      "publishedAt": "2026-11-21T07:41:20+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday : une promo vous tente ? Ce prompt IA vérifie le prix et cherche moins cher ailleurs",
       "url": "https://www.clubic.com/actualite-640222-black-friday-une-promo-vous-tente-ce-prompt-ia-verifie-le-prix-et-cherche-moins-cher-ailleurs.html",
@@ -698,12 +704,6 @@
       "title": "Stats & Highlights | Franz Wagner climatise Brooklyn",
       "url": "https://www.basketusa.com/news/959491/stats-highlights-franz-wagner-climatise-brooklyn/",
       "publishedAt": "2026-11-21T06:52:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Brandon Ingram va enfin faire ses grands débuts avec les Clippers",
-      "url": "https://www.basketusa.com/news/959434/brandon-ingram-va-enfin-faire-ses-grands-debuts-avec-les-clippers/",
-      "publishedAt": "2026-11-21T06:41:20+00:00"
     },
     {
       "source": "basketusa",
@@ -2804,36 +2804,6 @@
       "title": "Mauvaise nouvelle pour Microsoft To Do",
       "url": "https://www.generation-nt.com/actualites/microsoft-to-do-fin-planner-wunderlist-2084837",
       "publishedAt": "2026-11-19T15:41:46+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Retraites : la pension de 14 millions de Français vient d’être augmentée, voici de combien",
-      "url": "https://www.presse-citron.net/retraites-la-pension-de-14-millions-de-francais-vient-detre-augmentee-voici-de-combien/",
-      "publishedAt": "2026-11-19T15:38:55+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Où trouver la maison de GTA San Andreas dans GTA 6 ?",
-      "url": "https://www.numerama.com/pop-culture/2378997-ou-trouver-la-maison-de-gta-san-andreas-dans-gta-6.html",
-      "publishedAt": "2026-11-19T15:35:07+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : le Magic Trackpad dès 98 €, un tarif inédit",
-      "url": "https://www.macg.co/materiel/2026/11/black-friday-le-magic-trackpad-des-98-eu-un-tarif-inedit-312521",
-      "publishedAt": "2026-11-19T15:34:44+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dans la grisaille des Pelicans, Jordan Poole retrouve des minutes mais pas encore le sourire",
-      "url": "https://www.basketusa.com/news/958952/dans-la-grisaille-des-pelicans-jordan-poole-retrouve-des-minutes-mais-pas-encore-le-sourire/",
-      "publishedAt": "2026-11-19T15:32:03+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Horizon Zero Dawn Remastered sur PS5 tombe à un prix difficile à ignorer",
-      "url": "https://www.numerama.com/tech/2379089-horizon-zero-dawn-remastered-sur-ps5-tombe-a-un-prix-difficile-a-ignorer.html",
-      "publishedAt": "2026-11-19T15:31:13+00:00"
     },
     {
       "source": "boulet",
