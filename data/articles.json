@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T08:40:40.389865+00:00",
+  "generatedAt": "2026-11-21T08:50:37.796851+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
+      "lastSuccessAt": "2026-11-21T08:50:37.796851+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "Black Friday 2026 : les meilleures offres à ne pas manquer ce samedi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-21T08:47:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 : guides, astuces et trouvailles, tout savoir sur le jeu (EN DIRECT)",
+      "url": "https://www.numerama.com/pop-culture/2375431-lancement-de-gta-6-en-direct-guides-astuces-secrets.html",
+      "publishedAt": "2026-11-21T08:45:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "iPhone, Pixel, Redmi… les prix baissent déjà sur ces 7 smartphones chez Amazon pour le Black Friday",
+      "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
+      "publishedAt": "2026-11-21T08:44:00+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "TV OLED : voici 10 modèles DINGUES jusqu’à -40% à 6 jours du Black Friday",
       "url": "https://www.clubic.com/bons-plans-640159-lg-samsung-sony-philips-les-tv-oled-chutent-jusqu-a--40-pour-le-black-friday.html",
       "publishedAt": "2026-11-21T08:36:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Aday Mara grandit très vite au Thunder",
+      "url": "https://www.basketusa.com/news/959519/aday-mara-grandit-tres-vite-au-thunder/",
+      "publishedAt": "2026-11-21T08:33:34+00:00"
     },
     {
       "source": "clubic",
@@ -164,12 +188,6 @@
       "title": "Fire TV Stick : Amazon casse les prix au Black Friday avec des remises de FOLIE (-55%)",
       "url": "https://www.journaldugeek.com/bon-plan/fire-tv-stick-amazon-casse-les-prix-au-black-friday-avec-des-remises-de-folie-55/",
       "publishedAt": "2026-11-21T08:28:36+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : les meilleures offres à ne pas manquer ce samedi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-21T08:28:00+00:00"
     },
     {
       "source": "clubic",
@@ -310,18 +328,6 @@
       "publishedAt": "2026-11-21T06:52:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Encore un miracle pour les Lakers face aux Kings",
-      "url": "https://www.basketusa.com/news/959483/encore-un-miracle-pour-les-lakers-face-aux-kings/",
-      "publishedAt": "2026-11-21T06:37:59+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Nuggets font plier les Rockets dans le « money-time »",
-      "url": "https://www.basketusa.com/news/959406/les-nuggets-font-plier-les-rockets-dans-le-money-time/",
-      "publishedAt": "2026-11-21T06:20:21+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Harry Potter : les baguettes de la série font déjà débat chez les fans",
       "url": "https://www.journaldugeek.com/2026/11/21/harry-potter-les-baguettes-de-la-serie-risquent-de-faire-debat-chez-les-fans/",
@@ -341,9 +347,21 @@
     },
     {
       "source": "basketusa",
+      "title": "Encore un miracle pour les Lakers face aux Kings",
+      "url": "https://www.basketusa.com/news/959483/encore-un-miracle-pour-les-lakers-face-aux-kings/",
+      "publishedAt": "2026-11-21T05:37:59+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Les Raptors font tomber Detroit !",
       "url": "https://www.basketusa.com/news/959446/les-raptors-font-tomber-les-pistons/",
       "publishedAt": "2026-11-21T05:35:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Nuggets font plier les Rockets dans le « money-time »",
+      "url": "https://www.basketusa.com/news/959406/les-nuggets-font-plier-les-rockets-dans-le-money-time/",
+      "publishedAt": "2026-11-21T05:20:21+00:00"
     },
     {
       "source": "basketusa",
@@ -364,6 +382,12 @@
       "publishedAt": "2026-11-20T20:15:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
+      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
+      "publishedAt": "2026-11-20T19:30:23+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Programme Artemis : pour préparer ses prochaines missions lunaires, la NASA vient de tester l’un des moteurs les plus puissants de sa fusée SLS",
       "url": "https://www.journaldugeek.com/2026/11/20/programme-artemis-preparer-prochaines-missions-lunaires-nasa-tester-lun-moteurs-plus-puissants-fusee-sls/",
@@ -380,12 +404,6 @@
       "title": "Offre flash Fnac : jusqu’à -40 % sur une sélection Apple + 10 € offerts tous les 100 € pour les adhérents",
       "url": "https://www.generation-nt.com/actualites/fnac-promos-black-friday-iphone-reconditionne-16-17-pro-max-ipad-pro-m4-m2-2084895",
       "publishedAt": "2026-11-20T18:40:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
-      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
-      "publishedAt": "2026-11-20T18:30:23+00:00"
     },
     {
       "source": "numerama",
@@ -1013,12 +1031,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Raptors devront aussi faire sans RJ Barrett",
-      "url": "https://www.basketusa.com/news/959148/les-raptors-devront-aussi-faire-sans-rj-barrett/",
-      "publishedAt": "2026-11-20T12:50:55+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-20T12:48:05+00:00"
@@ -1118,6 +1130,12 @@
       "title": "Après le pass Navigo sur smartphone, Île-de-France Mobilités ressort une promesse vieille de dix ans",
       "url": "https://www.journaldugeek.com/2026/11/20/apres-le-pass-navigo-sur-smartphone-ile-de-france-mobilites-ressort-une-promesse-vieille-de-dix-ans/",
       "publishedAt": "2026-11-20T12:00:26+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Raptors devront aussi faire sans RJ Barrett",
+      "url": "https://www.basketusa.com/news/959148/les-raptors-devront-aussi-faire-sans-rj-barrett/",
+      "publishedAt": "2026-11-20T11:50:55+00:00"
     },
     {
       "source": "gnt",
@@ -1568,12 +1586,6 @@
       "title": "Elon Musk accuse (encore) Volodymyr Zelensky de mentir sur les restrictions de Starlink en Ukraine",
       "url": "https://www.generation-nt.com/actualites/elon-musk-starlink-restriction-satellite-mensonge-zelensky-ukraine-2084867",
       "publishedAt": "2026-11-20T09:15:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 : guides, astuces et trouvailles, tout savoir sur le jeu (EN DIRECT)",
-      "url": "https://www.numerama.com/pop-culture/2375431-lancement-de-gta-6-en-direct-guides-astuces-secrets.html",
-      "publishedAt": "2026-11-20T09:10:38+00:00"
     },
     {
       "source": "mac4ever",
@@ -2860,12 +2872,6 @@
       "publishedAt": "2026-11-19T12:26:07+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday : quel smartphone choisir chez Amazon ? Notre tri de 6 offres, dès 113€",
-      "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
-      "publishedAt": "2026-11-19T12:26:00+00:00"
-    },
-    {
       "source": "iphon",
       "title": "Prisés par les sportifs, les casques et écouteurs Shokz font leur show au Black Friday",
       "url": "https://www.iphon.fr/post/prises-sportifs-casques-ecouteurs-shokz-show-black-friday",
@@ -3476,42 +3482,6 @@
       "title": "Quel SSD acheter pendant le Black Friday ? Nos 9 offres en promo chez Amazon et la Fnac, du PC à la PS5",
       "url": "https://www.clubic.com/bons-plans-639244-black-friday-les-ssd-samsung-et-crucial-enfin-en-baisse-chez-la-fnac-et-boulanger.html",
       "publishedAt": "2026-11-19T08:51:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Notre sélection des meilleurs chargeurs en promo pour le Black Friday : jusqu'à -42% !",
-      "url": "https://www.mac4ever.com/iphone/199127-notre-selection-des-meilleurs-chargeurs-en-promo-pour-le-black-friday-jusqu-a-42",
-      "publishedAt": "2026-11-19T08:47:16+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Unreal Tournament 2004 est de retour !",
-      "url": "https://korben.info/unreal-tournament-2004-navigateur.html",
-      "publishedAt": "2026-11-19T08:47:16+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Amazon et Google vont détenir près de 30 % d'Anthropic après son entrée en bourse",
-      "url": "https://www.generation-nt.com/actualites/amazon-google-tiers-anthropic-bourse-2084753",
-      "publishedAt": "2026-11-19T08:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "OpenAI aurait perdu le contrôle de ses agents IA... plus de 80 fois",
-      "url": "https://www.clubic.com/actualite-639985-openai-aurait-perdu-le-controle-de-ses-agents-ia-plus-de-80-fois.html",
-      "publishedAt": "2026-11-19T08:44:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La cause du grave échec de la fusée Vulcan Centaur est presque une bonne nouvelle pour Blue Origin",
-      "url": "https://www.numerama.com/sciences/2378443-la-cause-du-grave-echec-de-la-fusee-vulcan-centaur-est-presque-une-bonne-nouvelle-pour-blue-origin.html",
-      "publishedAt": "2026-11-19T08:43:35+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iOS 27.3 : une fonctionnalité disparue fait son grand retour !",
-      "url": "https://www.iphon.fr/post/ios-27-3-retour-effet-flou-iphone-liquid-glass",
-      "publishedAt": "2026-11-19T08:42:43+00:00"
     },
     {
       "source": "boulet",
