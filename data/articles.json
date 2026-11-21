@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:40:39.053692+00:00",
+  "generatedAt": "2026-11-21T12:50:38.300712+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:40:39.053692+00:00"
+      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday Switch 2 : n’attendez pas le 27, Amazon baisse déjà la console, les packs et les manettes",
+      "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
+      "publishedAt": "2026-11-21T12:45:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Un studio provençal lance son jeu de pétanque sur smartphone",
@@ -182,6 +188,12 @@
       "title": "Jeux iPhone : PUB Mobile Flash, brown, Thrifty Business, il y a du lourd cette semaine sur l’App Store",
       "url": "https://www.iphon.fr/post/meilleurs-jeux-iphone-ipad-semaines-47-2026",
       "publishedAt": "2026-11-21T11:06:37+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[80’s Mania] Howie Long : Caveman",
+      "url": "https://touchdownactu.com/360703/80s-mania-howie-long-caveman/",
+      "publishedAt": "2026-11-21T11:00:39+00:00"
     },
     {
       "source": "jdg",
@@ -556,6 +568,12 @@
       "publishedAt": "2026-11-21T06:37:59+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Nuggets font plier les Rockets dans le « money-time »",
+      "url": "https://www.basketusa.com/news/959406/les-nuggets-font-plier-les-rockets-dans-le-money-time/",
+      "publishedAt": "2026-11-21T06:20:21+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Harry Potter : les baguettes de la série font déjà débat chez les fans",
       "url": "https://www.journaldugeek.com/2026/11/21/harry-potter-les-baguettes-de-la-serie-risquent-de-faire-debat-chez-les-fans/",
@@ -578,12 +596,6 @@
       "title": "Les Raptors font tomber Detroit !",
       "url": "https://www.basketusa.com/news/959446/les-raptors-font-tomber-les-pistons/",
       "publishedAt": "2026-11-21T05:35:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Nuggets font plier les Rockets dans le « money-time »",
-      "url": "https://www.basketusa.com/news/959406/les-nuggets-font-plier-les-rockets-dans-le-money-time/",
-      "publishedAt": "2026-11-21T05:20:21+00:00"
     },
     {
       "source": "basketusa",
@@ -2609,12 +2621,6 @@
     },
     {
       "source": "clubic",
-      "title": "Amazon casse le prix de la Switch 2 pour le Black Friday : console, Zelda Ocarina of Time et Joy-Con 2 en promo",
-      "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
-      "publishedAt": "2026-11-19T16:02:00+00:00"
-    },
-    {
-      "source": "clubic",
       "title": "Panne massive : impôts, Assurance maladie… plusieurs sites officiels inaccessibles ce jeudi",
       "url": "https://www.clubic.com/actualite-640150-panne-massive-impots-assurance-maladie-plusieurs-sites-officiels-inaccessibles-ce-jeudi.html",
       "publishedAt": "2026-11-19T16:00:00+00:00"
@@ -3038,24 +3044,6 @@
       "title": "Le tableau La Nuit étoilée de Van Gogh cachait un secret depuis plus d’un siècle : des scientifiques viennent de le trouver",
       "url": "https://www.presse-citron.net/le-tableau-la-nuit-etoilee-de-van-gogh-cachait-un-secret-depuis-plus-dun-siecle-des-scientifiques-viennent-de-le-trouver/",
       "publishedAt": "2026-11-19T12:52:09+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone 20 : Apple hésite entre ces 4 designs pour 2027",
-      "url": "https://www.iphon.fr/post/iphone-20-apple-hesite-entre-4-designs-2027",
-      "publishedAt": "2026-11-19T12:48:41+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Genesis AI lève 500 millions de dollars pour ses robots à gants connectés",
-      "url": "https://www.generation-nt.com/actualites/genesis-ai-robots-gants-connectes-2084752",
-      "publishedAt": "2026-11-19T12:45:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Comment sauver son bateau dans GTA 6 s’il est bloqué sur la terre ferme ?",
-      "url": "https://www.numerama.com/pop-culture/2378749-comment-sauver-son-bateau-dans-gta-6-sil-est-bloque-sur-la-terre-ferme.html",
-      "publishedAt": "2026-11-19T12:45:00+00:00"
     },
     {
       "source": "boulet",
