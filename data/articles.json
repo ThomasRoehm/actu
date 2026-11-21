@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:10:44.966563+00:00",
+  "generatedAt": "2026-11-21T10:20:40.281272+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:10:44.966563+00:00"
+      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-21T10:18:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Scottie Barnes a le dernier mot face à son « frère » Cade Cunningham",
+      "url": "https://www.basketusa.com/news/959549/scottie-barnes-a-le-dernier-mot-face-a-son-frere-cade-cunningham/",
+      "publishedAt": "2026-11-21T10:13:51+00:00"
+    },
     {
       "source": "clubic",
       "title": "À partir de quand un devoir fait avec ChatGPT devient-il de la triche ?",
@@ -146,12 +158,6 @@
       "title": "250 Go Voyage 5G : ce forfait RED est à moins de 13 € par mois !",
       "url": "https://www.iphon.fr/post/250-go-voyage-5g-forfait-red-moins-13-euros-par-mois",
       "publishedAt": "2026-11-21T10:02:13+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-21T10:02:00+00:00"
     },
     {
       "source": "jdg",
@@ -3290,48 +3296,6 @@
       "title": "Nous ne pouvons plus dépendre de SpaceX : ce rachat doit donner vie à un géant spatial made in europe",
       "url": "https://www.clubic.com/actualite-639988-nous-ne-pouvons-plus-dependre-de-spacex-ce-rachat-doit-donner-vie-a-un-geant-spatial-made-in-europe.html",
       "publishedAt": "2026-11-19T10:21:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Voyager 1 franchit officiellement le cap d'un jour-lumière malgré une panne de télémétrie !",
-      "url": "https://www.generation-nt.com/actualites/voyager-1-sonde-spatiale-jour-lumiere-panne-telemetrie-2084813",
-      "publishedAt": "2026-11-19T10:20:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Google ajoute un mode privé à sa recherche IA : voici ce qu’il garde pendant 24 heures",
-      "url": "https://www.clubic.com/actualite-640009-une-question-trop-personnelle-pour-votre-historique-le-mode-ia-de-google-a-desormais-son-propre-mode-prive.html",
-      "publishedAt": "2026-11-19T10:18:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "GTA 6 est là : Amazon casse les prix des jeux et accessoires PS5 avant le Black Friday, jusqu’à -50%",
-      "url": "https://www.clubic.com/bons-plans-639805-toujours-pas-de-ps5-avant-la-sortie-de-gta-vi-demain-elle-est-de-nouveau-chez-amazon-a-649-99.html",
-      "publishedAt": "2026-11-19T10:17:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : CyberGhost, le VPN N°1 chez Clubic, passe sous les 2 € par mois avec 83 % de réduction !",
-      "url": "https://www.clubic.com/actualite-640024-black-friday-cyberghost-le-vpn-n-1-chez-clubic-passe-sous-les-2-par-mois-avec-83-de-reduction.html",
-      "publishedAt": "2026-11-19T10:16:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Des IA ciblent des civils dès qu'on leur dit que c'est un jeu",
-      "url": "https://korben.info/des-ia-ciblent-des-civils-des-quon-leur-dit-que-cest-un-jeu.html",
-      "publishedAt": "2026-11-19T10:13:06+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Comment acheter une voiture dans GTA 6 ? Rockstar a changé les règles",
-      "url": "https://www.journaldugeek.com/2026/11/19/comment-acheter-une-voiture-dans-gta-6/",
-      "publishedAt": "2026-11-19T10:12:52+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "L’entrée en Bourse d’Anthropic (Claude) pourrait faire des milliers de millionnaires, et les gagnants ne sont pas forcément ceux qu’on croit",
-      "url": "https://www.numerama.com/tech/2378523-lentree-en-bourse-danthropic-claude-pourrait-faire-des-milliers-de-millionnaires-et-les-gagnants-ne-sont-pas-forcement-ceux-quon-croit.html",
-      "publishedAt": "2026-11-19T10:12:00+00:00"
     },
     {
       "source": "boulet",
