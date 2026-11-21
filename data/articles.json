@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:10:37.055571+00:00",
+  "generatedAt": "2026-11-21T09:20:38.058496+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:10:37.055571+00:00"
+      "lastSuccessAt": "2026-11-21T09:20:38.058496+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "L’humain contre-attaque sur l’hypothèse de Riemann : un chercheur aurait craqué l’énigme avant l’IA Claude",
+      "url": "https://www.numerama.com/sciences/2380525-lhumain-contre-attaque-sur-lhypothese-de-riemann-un-chercheur-aurait-craque-lenigme-avant-lia-claude.html",
+      "publishedAt": "2026-11-21T09:18:08+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Downie ou 4K Video Downloader Plus : quel téléchargeur vidéo choisir sur Mac avant le Black Friday ?",
+      "url": "https://www.macg.co/services/2026/11/downie-ou-4k-video-downloader-plus-quel-telechargeur-video-choisir-sur-mac-avant-le-black-friday-312145",
+      "publishedAt": "2026-11-21T09:10:36+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Hunger Games : explication de la fin de Lever de soleil sur la moisson",
+      "url": "https://www.journaldugeek.com/2026/11/21/hunger-games-explication-de-la-fin-de-lever-de-soleil-sur-la-moisson/",
+      "publishedAt": "2026-11-21T09:02:19+00:00"
+    },
     {
       "source": "iphon",
       "title": "iPhone Air 2 : son design déjà révélé avec une surprise au dos de l’appareil",
@@ -400,6 +418,12 @@
       "publishedAt": "2026-11-20T20:15:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
+      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
+      "publishedAt": "2026-11-20T19:30:23+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Programme Artemis : pour préparer ses prochaines missions lunaires, la NASA vient de tester l’un des moteurs les plus puissants de sa fusée SLS",
       "url": "https://www.journaldugeek.com/2026/11/20/programme-artemis-preparer-prochaines-missions-lunaires-nasa-tester-lun-moteurs-plus-puissants-fusee-sls/",
@@ -416,12 +440,6 @@
       "title": "Offre flash Fnac : jusqu’à -40 % sur une sélection Apple + 10 € offerts tous les 100 € pour les adhérents",
       "url": "https://www.generation-nt.com/actualites/fnac-promos-black-friday-iphone-reconditionne-16-17-pro-max-ipad-pro-m4-m2-2084895",
       "publishedAt": "2026-11-20T18:40:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
-      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
-      "publishedAt": "2026-11-20T18:30:23+00:00"
     },
     {
       "source": "numerama",
@@ -1054,6 +1072,12 @@
       "publishedAt": "2026-11-20T12:50:55+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T12:48:05+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
       "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
@@ -1154,12 +1178,6 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T11:48:05+00:00"
     },
     {
       "source": "presse",
@@ -3410,18 +3428,6 @@
       "title": "Black Friday Samsung : le Galaxy S26 FE est à 519€ chez Amazon : une offre du Black Week qui mérite le détour",
       "url": "https://www.clubic.com/bons-plans-640003-le-samsung-galaxy-s26-fe-a-519-chez-amazon-voici-une-offre-du-black-friday-qui-merite-le-detour.html",
       "publishedAt": "2026-11-19T09:22:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Comment bien réparer la maison dans GTA 6 ?",
-      "url": "https://www.numerama.com/pop-culture/2378463-comment-bien-reparer-la-maison-dans-gta-6.html",
-      "publishedAt": "2026-11-19T09:15:42+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Black Friday : coup d’envoi de la Black Friday Week, les promos s’enchaînent chez Amazon, Fnac, Boulanger",
-      "url": "https://www.numerama.com/tech/2374925-black-friday-coup-denvoi-de-la-black-friday-week-les-promos-senchainent-chez-amazon-fnac-boulanger.html",
-      "publishedAt": "2026-11-19T09:11:06+00:00"
     },
     {
       "source": "boulet",
