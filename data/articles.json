@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:40:41.056873+00:00",
+  "generatedAt": "2026-11-21T16:50:40.111919+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:40:41.056873+00:00"
+      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Les 3 bonnes nouvelles de la semaine",
+      "url": "https://www.presse-citron.net/les-3-bonnes-nouvelles-de-la-semaine-137/",
+      "publishedAt": "2026-11-21T16:45:55+00:00"
+    },
     {
       "source": "gnt",
       "title": "L'intelligence artificielle dévoile les théories secrètes des manuscrits du mathématicien Kurt Gödel",
@@ -376,12 +382,6 @@
       "publishedAt": "2026-11-21T12:10:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Kings misent tout sur l’apprentissage de Darius Acuff Jr.",
-      "url": "https://www.basketusa.com/news/959557/les-kings-misent-tout-sur-lapprentissage-de-darius-acuff-jr/",
-      "publishedAt": "2026-11-21T12:07:48+00:00"
-    },
-    {
       "source": "jdg",
       "title": "GTA 6 : Où trouver le Bigfoot et le rencontrer ?",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-ou-trouver-le-bigfoot-et-le-rencontrer/",
@@ -398,6 +398,12 @@
       "title": "Des smartphones traquent désormais les pontes de moustiques grâce à l'IA",
       "url": "https://www.generation-nt.com/actualites/smartphones-traquent-pontes-moustiques-ia-2084634",
       "publishedAt": "2026-11-21T11:10:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Kings misent tout sur l’apprentissage de Darius Acuff Jr.",
+      "url": "https://www.basketusa.com/news/959557/les-kings-misent-tout-sur-lapprentissage-de-darius-acuff-jr/",
+      "publishedAt": "2026-11-21T11:07:48+00:00"
     },
     {
       "source": "clubic",
@@ -2732,24 +2738,6 @@
       "title": "L'iMac OLED risque d'être annulé, les dalles coûtent trop cher pour Apple",
       "url": "https://www.mac4ever.com/mac/199147-l-imac-oled-risque-d-etre-annule-les-dalles-coutent-trop-cher-pour-apple",
       "publishedAt": "2026-11-19T16:51:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pour le Black Friday, l’aspirateur-robot laveur Roborock Qrevo 2 Pro passe à 360,99€ chez Amazon",
-      "url": "https://www.clubic.com/bons-plans-640075-black-friday-l-aspirateur-robot-laveur-roborock-qrevo-2-pro-passe-a-360-99-chez-amazon.html",
-      "publishedAt": "2026-11-19T16:50:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Grindr lance Edge, son abonnement mondial à 120 dollars par mois",
-      "url": "https://www.generation-nt.com/actualites/grindr-lance-edge-abonnement-mondial-2084768",
-      "publishedAt": "2026-11-19T16:45:02+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Cette IA gratuite pourrait bien vous faire passer des fêtes de fin d'année du tonnerre !",
-      "url": "https://www.clubic.com/actualite-635509-cette-ia-gratuite-pourrait-bien-vous-faire-passer-des-fetes-de-fin-d-annee-du-tonnerre.html",
-      "publishedAt": "2026-11-19T16:45:00+00:00"
     },
     {
       "source": "boulet",
