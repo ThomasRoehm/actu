@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:01:05.563921+00:00",
+  "generatedAt": "2026-11-21T07:10:40.829311+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     },
     {
       "id": "boulet",
@@ -131,14 +131,38 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:01:05.563921+00:00"
+      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "Ras-le-bol de l'IA générative ? Canva permet enfin de couper l'interrupteur (ou presque)",
+      "url": "https://www.clubic.com/actualite-640099-ras-le-bol-de-l-ia-generative-canva-permet-enfin-de-couper-l-interrupteur-ou-presque.html",
+      "publishedAt": "2026-11-21T07:01:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Sortie de veille : le nouveau visage surprise de l’iPhone Duo",
+      "url": "https://www.macg.co/podcasts/2026/11/sortie-de-veille-le-nouveau-visage-surprise-de-liphone-duo-312545",
+      "publishedAt": "2026-11-21T07:00:39+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "J’ai testé le nouveau Dell XPS 14 et je pense que la MacBook Air a encore de beaux jours devant lui",
+      "url": "https://www.presse-citron.net/dell-xps-14-2026-test/",
+      "publishedAt": "2026-11-21T07:00:29+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "Avast VPN gratuit ou Avast Premium VPN : quelles différences et quelle version choisir ?",
       "url": "https://www.clubic.com/actualite-639247-avast-vpn-gratuit-ou-avast-premium-vpn-quelles-differences-et-quelle-version-choisir.html",
+      "publishedAt": "2026-11-21T07:00:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Amazon : jusqu’à 750€ de remise ce week-end, voici notre TOP 100 des offres de la Black Week",
+      "url": "https://www.clubic.com/bons-plans-640309-black-friday-amazon-les-meilleures-offres-de-la-black-week-a-saisir-ce-week-end-notre-top-100-jusqu-a--67.html",
       "publishedAt": "2026-11-21T07:00:00+00:00"
     },
     {
@@ -214,12 +238,6 @@
       "publishedAt": "2026-11-20T20:15:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
-      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
-      "publishedAt": "2026-11-20T19:30:23+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Programme Artemis : pour préparer ses prochaines missions lunaires, la NASA vient de tester l’un des moteurs les plus puissants de sa fusée SLS",
       "url": "https://www.journaldugeek.com/2026/11/20/programme-artemis-preparer-prochaines-missions-lunaires-nasa-tester-lun-moteurs-plus-puissants-fusee-sls/",
@@ -236,6 +254,12 @@
       "title": "Offre flash Fnac : jusqu’à -40 % sur une sélection Apple + 10 € offerts tous les 100 € pour les adhérents",
       "url": "https://www.generation-nt.com/actualites/fnac-promos-black-friday-iphone-reconditionne-16-17-pro-max-ipad-pro-m4-m2-2084895",
       "publishedAt": "2026-11-20T18:40:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
+      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
+      "publishedAt": "2026-11-20T18:30:23+00:00"
     },
     {
       "source": "numerama",
@@ -302,6 +326,12 @@
       "title": "Le Magic Keyboard avec Touch ID en promo à son prix le plus bas (-31%) pour le Black Friday !",
       "url": "https://www.mac4ever.com/mac/199184-le-magic-keyboard-avec-touch-id-en-promo-a-son-prix-le-plus-bas-31-pour-le-black-friday",
       "publishedAt": "2026-11-20T17:41:37+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dillon Brooks peut attaquer avec les remplaçants de Phoenix",
+      "url": "https://www.basketusa.com/news/959358/dillon-brooks-peut-attaquer-avec-les-remplacants-de-phoenix/",
+      "publishedAt": "2026-11-20T17:41:22+00:00"
     },
     {
       "source": "numerama",
@@ -388,12 +418,6 @@
       "publishedAt": "2026-11-20T16:58:00+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday Amazon : les meilleures offres de la Black Week à saisir ce week-end, notre TOP 100 jusqu’à -67%",
-      "url": "https://www.clubic.com/bons-plans-640309-black-friday-amazon-les-meilleures-offres-de-la-black-week-a-saisir-ce-week-end-notre-top-100-jusqu-a--67.html",
-      "publishedAt": "2026-11-20T16:53:00+00:00"
-    },
-    {
       "source": "gnt",
       "title": "La fuite de la Lenovo Legion Go Beam annonce une console portable plus simple et moins chère",
       "url": "https://www.generation-nt.com/actualites/fuite-lenovo-legion-go-beam-2084853",
@@ -410,12 +434,6 @@
       "title": "Pourquoi l’affiche du film sur OpenAI ressemble-t-elle à une image ratée par IA ?",
       "url": "https://www.mac4ever.com/ia/199178-pourquoi-l-affiche-du-film-sur-openai-ressemble-t-elle-a-une-image-ratee-par-ia",
       "publishedAt": "2026-11-20T16:42:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dillon Brooks peut attaquer avec les remplaçants de Phoenix",
-      "url": "https://www.basketusa.com/news/959358/dillon-brooks-peut-attaquer-avec-les-remplacants-de-phoenix/",
-      "publishedAt": "2026-11-20T16:41:22+00:00"
     },
     {
       "source": "jdg",
@@ -646,6 +664,12 @@
       "publishedAt": "2026-11-20T15:00:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Jalen Green a appris à vivre avec les rumeurs",
+      "url": "https://www.basketusa.com/news/959390/jalen-green-a-appris-a-vivre-avec-les-rumeurs/",
+      "publishedAt": "2026-11-20T14:54:53+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Les Anneaux de pouvoir fait-elle vraiment n’importe quoi avec les Nazgûl ?",
       "url": "https://www.journaldugeek.com/2026/11/20/les-anneaux-de-pouvoir-vient-elle-vraiment-de-trahir-tolkien/",
@@ -784,12 +808,6 @@
       "publishedAt": "2026-11-20T14:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Jalen Green a appris à vivre avec les rumeurs",
-      "url": "https://www.basketusa.com/news/959390/jalen-green-a-appris-a-vivre-avec-les-rumeurs/",
-      "publishedAt": "2026-11-20T13:54:53+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Des bombardiers russes frôlent Taiwan et violent l'espace aérien japonais avant l'APEC",
       "url": "https://www.generation-nt.com/actualites/bombardiers-russes-taiwan-japon-apec-2084863",
@@ -880,12 +898,6 @@
       "publishedAt": "2026-11-20T12:50:55+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:48:05+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
       "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
@@ -902,12 +914,6 @@
       "title": "Jon McCormack, l’un des pères de la photo sur l’iPhone prend sa retraite",
       "url": "https://www.iphon.fr/post/photo-iphone-apple-retraite-probleme",
       "publishedAt": "2026-11-20T12:45:46+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:43:12+00:00"
     },
     {
       "source": "jdg",
@@ -986,6 +992,18 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:48:05+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:43:12+00:00"
     },
     {
       "source": "presse",
@@ -3560,12 +3578,6 @@
       "title": "L’Europe dort-elle pendant la révolution de l’IA ? 59 experts veulent un électrochoc",
       "url": "https://www.mac4ever.com/ia/199121-l-europe-dort-elle-pendant-la-revolution-de-l-ia-59-experts-veulent-un-electrochoc",
       "publishedAt": "2026-11-19T07:14:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Téléchargez les fonds d’écran “Grand Theft Auto: Cupertino” pour fêter la sortie de GTA VI",
-      "url": "https://www.iphon.fr/post/sortie-gta-vi-fonds-ecran-mac-iphone",
-      "publishedAt": "2026-11-19T07:03:04+00:00"
     },
     {
       "source": "boulet",
