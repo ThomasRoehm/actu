@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:01:15.949823+00:00",
+  "generatedAt": "2026-11-21T15:10:47.267070+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     },
     {
       "id": "tda",
@@ -118,8 +118,8 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/tda.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "<urlopen error timed out>",
       "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
     },
     {
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:01:15.949823+00:00"
+      "lastSuccessAt": "2026-11-21T15:10:47.267070+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "iPhone Duo vs Galaxy Z Fold 8 : qui est le meilleur pliant en 2026 ?",
+      "url": "https://www.iphon.fr/post/iphone-duo-samsung-galaxy-z-fold-8",
+      "publishedAt": "2026-11-21T15:03:23+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Meta voudrait vous faire payer 300 $ pour parler à un porte-clés",
+      "url": "https://www.journaldugeek.com/2026/11/21/meta-voudrait-vous-faire-payer-300-pour-parler-a-un-porte-cles/",
+      "publishedAt": "2026-11-21T15:00:19+00:00"
+    },
     {
       "source": "macg",
       "title": "Chargemap victime d'une fuite de données : les anciens utilisateurs aussi concernés",
@@ -158,6 +170,12 @@
       "title": "Faut-il mettre fin à Dragon Quest sans Akira Toriyama ?",
       "url": "https://www.numerama.com/pop-culture/2377107-faut-il-mettre-fin-a-dragon-quest-sans-akira-toriyama.html",
       "publishedAt": "2026-11-21T14:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
+      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
+      "publishedAt": "2026-11-21T14:12:27+00:00"
     },
     {
       "source": "gnt",
@@ -202,12 +220,6 @@
       "publishedAt": "2026-11-21T13:14:30+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
-      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
-      "publishedAt": "2026-11-21T13:12:27+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Des briques de régolithe façon Lego pour les bases lunaires",
       "url": "https://www.generation-nt.com/actualites/briques-lego-regolithe-base-lunaire-2084571",
@@ -245,6 +257,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T12:47:41+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "San Antonio Spurs – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959607/san-antonio-spurs-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-21T12:45:48+00:00"
@@ -254,6 +272,12 @@
       "title": "Black Friday Switch 2 : n’attendez pas le 27, Amazon baisse déjà la console, les packs et les manettes",
       "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
       "publishedAt": "2026-11-21T12:45:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Miami Heat – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959611/miami-heat-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T12:43:29+00:00"
     },
     {
       "source": "clubic",
@@ -278,18 +302,6 @@
       "title": "GTA 6 : Où trouver le Bigfoot et le rencontrer ?",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-ou-trouver-le-bigfoot-et-le-rencontrer/",
       "publishedAt": "2026-11-21T12:02:43+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T11:47:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Miami Heat – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959611/miami-heat-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T11:43:29+00:00"
     },
     {
       "source": "basketusa",
@@ -2870,18 +2882,6 @@
       "title": "Black Friday Amazon : les Galaxy Buds3 Pro de Samsung passent à 119,99€",
       "url": "https://www.clubic.com/bons-plans-640066-complements-de-choix-pour-un-smartphone-samsung-les-ecouteurs-galaxy-buds3-pro-passent-a-119-99-durant-le-black-friday-amazon.html",
       "publishedAt": "2026-11-19T15:14:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday : les prix des stations d'énergie Oscal en chute libre !",
-      "url": "https://www.generation-nt.com/actualites/oscal-station-energie-batterie-stockage-black-friday-2084827",
-      "publishedAt": "2026-11-19T15:10:02+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : voici comment changer les commandes pour la course à pied",
-      "url": "https://www.journaldugeek.com/2026/11/19/gta-6-voici-comment-changer-les-commandes-pour-la-course-a-pied/",
-      "publishedAt": "2026-11-19T15:02:09+00:00"
     },
     {
       "source": "boulet",
