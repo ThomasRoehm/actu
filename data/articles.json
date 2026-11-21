@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:50:38.300712+00:00",
+  "generatedAt": "2026-11-21T13:01:03.633149+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T12:50:38.300712+00:00"
+      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Au Heat, Giannis Antetokounmpo apprend à dominer autrement",
+      "url": "https://www.basketusa.com/news/959544/au-heat-giannis-antetokounmpo-apprend-a-dominer-autrement/",
+      "publishedAt": "2026-11-21T12:49:21+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Switch 2 : n’attendez pas le 27, Amazon baisse déjà la console, les packs et les manettes",
@@ -215,7 +221,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Ime Udoka pointe la fragilité mentale des Rockets",
+      "title": "Ime Udoka peste contre la fragilité mentale des Rockets",
       "url": "https://www.basketusa.com/news/959533/ime-udoka-pointe-la-fragilite-mentale-des-rockets/",
       "publishedAt": "2026-11-21T10:50:24+00:00"
     },
@@ -3026,24 +3032,6 @@
       "title": "Les Anneaux de pouvoir réinvente l’histoire du plus puissant dragon de Tolkien",
       "url": "https://www.numerama.com/pop-culture/2378761-les-anneaux-de-pouvoir-reinvente-lhistoire-du-plus-puissant-dragon-de-tolkien.html",
       "publishedAt": "2026-11-19T13:02:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : le merch est en rupture de stock, mais il existe un moyen de l’obtenir",
-      "url": "https://www.journaldugeek.com/2026/11/19/gta-6-le-merch-est-en-rupture-de-stock-mais-il-existe-un-moyen-de-lobtenir/",
-      "publishedAt": "2026-11-19T13:00:28+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Au tour du Figaro de signer avec OpenAI pour ChatGPT",
-      "url": "https://www.generation-nt.com/actualites/figaro-accord-openai-chatgpt-presse-2084802",
-      "publishedAt": "2026-11-19T13:00:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Le tableau La Nuit étoilée de Van Gogh cachait un secret depuis plus d’un siècle : des scientifiques viennent de le trouver",
-      "url": "https://www.presse-citron.net/le-tableau-la-nuit-etoilee-de-van-gogh-cachait-un-secret-depuis-plus-dun-siecle-des-scientifiques-viennent-de-le-trouver/",
-      "publishedAt": "2026-11-19T12:52:09+00:00"
     },
     {
       "source": "boulet",
