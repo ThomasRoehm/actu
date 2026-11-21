@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:50:40.111919+00:00",
+  "generatedAt": "2026-11-21T17:01:07.347065+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:50:40.111919+00:00"
+      "lastSuccessAt": "2026-11-21T17:01:07.347065+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "YouTube proche d’un accord à 3 milliards sur l’addiction des ados",
+      "url": "https://www.clubic.com/actualite-640432-youtube-proche-d-un-accord-a-3-milliards-sur-l-addiction-des-ados.html",
+      "publishedAt": "2026-11-21T17:00:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Black Friday : les promos App Store apps et jeux à ne pas manquer ce week-end",
+      "url": "https://www.iphon.fr/post/apps-gratuites-iphone-ipad-ios",
+      "publishedAt": "2026-11-21T16:59:07+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday PS5 : console, jeux, manettes, les offres qui valent vraiment le coup",
+      "url": "https://www.clubic.com/bons-plans-640420-black-friday-ps5-console-jeux-manettes-les-offres-qui-valent-vraiment-le-coup.html",
+      "publishedAt": "2026-11-21T16:59:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-21T16:57:00+00:00"
+    },
     {
       "source": "presse",
       "title": "Les 3 bonnes nouvelles de la semaine",
@@ -242,12 +266,6 @@
       "title": "Chargemap victime d'une fuite de données : les anciens utilisateurs aussi concernés",
       "url": "https://www.macg.co/services/2026/11/chargemap-victime-dune-fuite-de-donnees-les-anciens-utilisateurs-aussi-concernes-312561",
       "publishedAt": "2026-11-21T14:54:55+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-21T14:48:00+00:00"
     },
     {
       "source": "presse",
@@ -2702,42 +2720,6 @@
       "title": "Faux codes de jeu, cadeaux fictifs : GTA 6 est au centre de dangereuses arnaques en ligne",
       "url": "https://www.iphon.fr/post/gta-6-faux-codes-jeux-cadeaux-fictifs-arnaques-internet",
       "publishedAt": "2026-11-19T17:01:49+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Son pedigree est déjà bien chargé : c’est quoi ARTEX, l’outil de piratage chinois utilisé contre la Commission européenne ?",
-      "url": "https://www.numerama.com/cyberguerre/2379121-son-pedigree-est-deja-bien-charge-cest-quoi-artex-loutil-de-piratage-chinois-utilise-contre-la-commission-europeenne.html",
-      "publishedAt": "2026-11-19T17:00:45+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Pistolet à prouts, presse hydraulique et Batmobile : quels jouets geeks acheter à vos enfants à Noël 2026 ?",
-      "url": "https://www.journaldugeek.com/dossier/pistolet-a-prouts-presse-hydraulique-et-batmobile-quels-jouets-geeks-acheter-a-vos-enfants-a-noel-year/",
-      "publishedAt": "2026-11-19T16:55:11+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : la suite de sécurité Intego ONE pour Mac à 66 € pour deux ans",
-      "url": "https://www.macg.co/logiciels/2026/11/black-friday-la-suite-de-securite-intego-one-pour-mac-66-eu-pour-deux-ans-312471",
-      "publishedAt": "2026-11-19T16:55:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Black Friday 2026 chez basket4ballers : les meilleures offres et réductions pour les fans de NBA",
-      "url": "https://www.basketusa.com/news/958987/black-friday-2026-chez-basket4ballers-les-meilleures-offres-et-reductions-pour-les-fans-de-nba/",
-      "publishedAt": "2026-11-19T16:55:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Droits voisins : Google et les plateformes n'ont plus d'excuse, la loi est définitivement adoptée",
-      "url": "https://www.clubic.com/actualite-640108-droits-voisins-google-et-les-plateformes-n-ont-plus-d-excuse-la-loi-est-definitivement-adoptee.html",
-      "publishedAt": "2026-11-19T16:53:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L'iMac OLED risque d'être annulé, les dalles coûtent trop cher pour Apple",
-      "url": "https://www.mac4ever.com/mac/199147-l-imac-oled-risque-d-etre-annule-les-dalles-coutent-trop-cher-pour-apple",
-      "publishedAt": "2026-11-19T16:51:00+00:00"
     },
     {
       "source": "boulet",
