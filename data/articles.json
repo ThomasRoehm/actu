@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:20:43.093551+00:00",
+  "generatedAt": "2026-11-21T17:30:56.427932+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:20:43.093551+00:00"
+      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : pourquoi acheter une TV géante alors que ces vidéoprojecteurs laser 4K Hisense sont en promo ?",
+      "url": "https://www.clubic.com/actualite-638605-black-friday-pourquoi-acheter-une-tv-geante-alors-que-ces-videoprojecteurs-laser-4k-hisense-sont-en-promo.html",
+      "publishedAt": "2026-11-21T17:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-21T17:22:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Deux Tesla en FSD bloquées, les mauvais élèves du contrôle technique allemand et les freins à l’achat : le récap Vroom de la semaine",
@@ -146,6 +158,12 @@
       "title": "Le Black Friday d'Amazon n'a pas encore commencé, mais ces 100 offres font déjà fondre les prix",
       "url": "https://www.clubic.com/bons-plans-640309-black-friday-amazon-les-meilleures-offres-de-la-black-week-a-saisir-ce-week-end-notre-top-100-jusqu-a--67.html",
       "publishedAt": "2026-11-21T17:13:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des canyons sous-marins anciens ont préservé les plus vieux animaux terrestres",
+      "url": "https://www.generation-nt.com/actualites/canyons-sous-marins-anciens-animaux-2084743",
+      "publishedAt": "2026-11-21T17:10:01+00:00"
     },
     {
       "source": "macg",
@@ -176,12 +194,6 @@
       "title": "Black Friday PS5 : console, jeux, manettes, les offres qui valent vraiment le coup",
       "url": "https://www.clubic.com/bons-plans-640420-black-friday-ps5-console-jeux-manettes-les-offres-qui-valent-vraiment-le-coup.html",
       "publishedAt": "2026-11-21T16:59:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-21T16:57:00+00:00"
     },
     {
       "source": "korben",
@@ -322,12 +334,6 @@
       "publishedAt": "2026-11-21T14:31:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
-      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
-      "publishedAt": "2026-11-21T14:12:27+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Des scientifiques enferment des volontaires dans le noir face à un miroir pour traquer les spectres",
       "url": "https://www.generation-nt.com/actualites/scientifiques-miroir-traquer-spectres-2084636",
@@ -362,6 +368,12 @@
       "title": "🔴 Des rafales jusqu’à 180 km/h : une très violente tempête déferle sur la France ce dimanche",
       "url": "https://www.presse-citron.net/%f0%9f%94%b4-des-rafales-jusqua-180-km-h-une-tres-violente-tempete-deferle-sur-la-france-ce-dimanche/",
       "publishedAt": "2026-11-21T13:14:30+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
+      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
+      "publishedAt": "2026-11-21T13:12:27+00:00"
     },
     {
       "source": "gnt",
@@ -2690,30 +2702,6 @@
       "title": "Black Friday Narwal : jusqu’à -64% sur les robots aspirateurs et aspirateurs balais",
       "url": "https://www.generation-nt.com/actualites/aspirateur-robot-laveur-balai-sans-fil-narwal-black-friday-flow-2-v50-cube-freo-x10-pro-v50-2084829",
       "publishedAt": "2026-11-19T17:40:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 bientôt adapté en film ou en série ? La réponse du patron est sans pitié (mais drôle)",
-      "url": "https://www.journaldugeek.com/2026/11/19/gta-6-bientot-adapte-en-film-ou-en-serie-la-reponse-du-patron-est-sans-pitie-mais-drole/",
-      "publishedAt": "2026-11-19T17:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "ASUS Agent Computer : ce PC RTX 5060 Ti 16 Go peut-il réduire la facture des agents IA cloud ?",
-      "url": "https://www.clubic.com/actualite-639694-asus-agent-computer-ce-pc-rtx-5060-ti-16-go-peut-il-reduire-la-facture-des-agents-ia-cloud.html",
-      "publishedAt": "2026-11-19T17:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Ausar Thompson apprend à donner le tempo",
-      "url": "https://www.basketusa.com/news/958691/ausar-thompson-apprend-a-donner-le-tempo/",
-      "publishedAt": "2026-11-19T17:28:49+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Disney+ et Hulu unifient enfin leurs applications en décembre",
-      "url": "https://www.generation-nt.com/actualites/disney-plus-hulu-unifient-decembre-2084749",
-      "publishedAt": "2026-11-19T17:25:01+00:00"
     },
     {
       "source": "boulet",
