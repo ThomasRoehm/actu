@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T08:01:02.995401+00:00",
+  "generatedAt": "2026-11-21T08:10:46.756252+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
+      "lastSuccessAt": "2026-11-21T08:10:46.756252+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Couper le chauffage ou allumer la chambre : la domotique Shelly lance son Black Friday avec 10 offres [Sponso]",
+      "url": "https://www.numerama.com/tech/2376187-couper-le-chauffage-ou-allumer-la-chambre-la-domotique-shelly-lance-son-black-friday-avec-10-offres.html",
+      "publishedAt": "2026-11-21T08:08:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : optimisez votre Wi-Fi grâce au routeur Amazon eero 7 disponible pour moins de 140€",
+      "url": "https://www.clubic.com/bons-plans-640297-black-friday-optimisez-votre-wi-fi-grace-au-routeur-amazon-eero-7-disponible-pour-moins-de-140.html",
+      "publishedAt": "2026-11-21T08:07:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : Mandy est-elle une énorme psychopathe ? Vous avez sûrement raté ces indices",
+      "url": "https://www.journaldugeek.com/2026/11/21/gta-6-mandy-est-elle-une-enorme-psychopathe-vous-avez-surement-rate-ces-indices/",
+      "publishedAt": "2026-11-21T08:00:41+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Notre livre dépasse les 80 000 € : l'impression est lancée, cap sur les 100 000 €",
+      "url": "https://www.macg.co/macgeneration/2026/11/notre-livre-depasse-les-80-000-eu-limpression-est-lancee-cap-sur-les-100-000-eu-312557",
+      "publishedAt": "2026-11-21T08:00:39+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Brandon Ingram va enfin faire ses grands débuts avec les Clippers",
@@ -245,12 +269,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Shai Gilgeous-Alexander (40 points) punit les Pelicans",
-      "url": "https://www.basketusa.com/news/959467/shai-gilgeous-alexander-40-points-punit-les-pelicans/",
-      "publishedAt": "2026-11-21T05:58:57+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Les Raptors font tomber Detroit !",
       "url": "https://www.basketusa.com/news/959446/les-raptors-font-tomber-les-pistons/",
       "publishedAt": "2026-11-21T05:35:36+00:00"
@@ -260,6 +278,12 @@
       "title": "James Harden prend feu : 51 points face aux Pacers !",
       "url": "https://www.basketusa.com/news/959456/james-harden-prend-feu-51-points-face-aux-pacers/",
       "publishedAt": "2026-11-21T05:14:19+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Shai Gilgeous-Alexander (40 points) punit les Pelicans",
+      "url": "https://www.basketusa.com/news/959467/shai-gilgeous-alexander-40-points-punit-les-pelicans/",
+      "publishedAt": "2026-11-21T04:58:57+00:00"
     },
     {
       "source": "tda",
@@ -364,12 +388,6 @@
       "publishedAt": "2026-11-20T17:41:37+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Dillon Brooks peut attaquer avec les remplaçants de Phoenix",
-      "url": "https://www.basketusa.com/news/959358/dillon-brooks-peut-attaquer-avec-les-remplacants-de-phoenix/",
-      "publishedAt": "2026-11-20T17:41:22+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Comment El Niño bouleverse le climat : les explications d’un climatologue (VIDÉO)",
       "url": "https://www.numerama.com/sciences/2380449-comment-el-nino-bouleverse-le-climat-les-explications-dun-climatologue-video.html",
@@ -470,6 +488,12 @@
       "title": "Pourquoi l’affiche du film sur OpenAI ressemble-t-elle à une image ratée par IA ?",
       "url": "https://www.mac4ever.com/ia/199178-pourquoi-l-affiche-du-film-sur-openai-ressemble-t-elle-a-une-image-ratee-par-ia",
       "publishedAt": "2026-11-20T16:42:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dillon Brooks peut attaquer avec les remplaçants de Phoenix",
+      "url": "https://www.basketusa.com/news/959358/dillon-brooks-peut-attaquer-avec-les-remplacants-de-phoenix/",
+      "publishedAt": "2026-11-20T16:41:22+00:00"
     },
     {
       "source": "jdg",
@@ -700,12 +724,6 @@
       "publishedAt": "2026-11-20T15:00:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Jalen Green a appris à vivre avec les rumeurs",
-      "url": "https://www.basketusa.com/news/959390/jalen-green-a-appris-a-vivre-avec-les-rumeurs/",
-      "publishedAt": "2026-11-20T14:54:53+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Les Anneaux de pouvoir fait-elle vraiment n’importe quoi avec les Nazgûl ?",
       "url": "https://www.journaldugeek.com/2026/11/20/les-anneaux-de-pouvoir-vient-elle-vraiment-de-trahir-tolkien/",
@@ -844,6 +862,12 @@
       "publishedAt": "2026-11-20T14:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Jalen Green a appris à vivre avec les rumeurs",
+      "url": "https://www.basketusa.com/news/959390/jalen-green-a-appris-a-vivre-avec-les-rumeurs/",
+      "publishedAt": "2026-11-20T13:54:53+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Des bombardiers russes frôlent Taiwan et violent l'espace aérien japonais avant l'APEC",
       "url": "https://www.generation-nt.com/actualites/bombardiers-russes-taiwan-japon-apec-2084863",
@@ -926,18 +950,6 @@
       "title": "Fini l’ouverture à 8h30 : Lidl change les horaires de ses magasins, les clients vont adorer",
       "url": "https://www.presse-citron.net/fini-louverture-a-8h30-lidl-change-les-horaires-de-ses-magasins-les-clients-vont-adorer/",
       "publishedAt": "2026-11-20T12:51:11+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Raptors devront aussi faire sans RJ Barrett",
-      "url": "https://www.basketusa.com/news/959148/les-raptors-devront-aussi-faire-sans-rj-barrett/",
-      "publishedAt": "2026-11-20T12:50:55+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:48:05+00:00"
     },
     {
       "source": "mac4ever",
@@ -1030,10 +1042,22 @@
       "publishedAt": "2026-11-20T12:00:26+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Raptors devront aussi faire sans RJ Barrett",
+      "url": "https://www.basketusa.com/news/959148/les-raptors-devront-aussi-faire-sans-rj-barrett/",
+      "publishedAt": "2026-11-20T11:50:55+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:48:05+00:00"
     },
     {
       "source": "basketusa",
@@ -3488,36 +3512,6 @@
       "title": "Supercalculateurs : la Chine creuse l'écart au sommet du TOP500 face aux États-Unis",
       "url": "https://www.generation-nt.com/actualites/top500-supercalculateur-classement-chine-lineshine-2084784",
       "publishedAt": "2026-11-19T08:20:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Julius Randle a honte des Nets",
-      "url": "https://www.basketusa.com/news/958817/julius-randle-est-afflige-par-le-niveau-des-nets/",
-      "publishedAt": "2026-11-19T08:07:28+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Guide GTA 6 : comment changer la touche pour la course ?",
-      "url": "https://www.numerama.com/pop-culture/2378379-guide-gta-6-comment-changer-la-touche-pour-la-course.html",
-      "publishedAt": "2026-11-19T08:02:58+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "One UI 9.5 : Samsung prépare une grosse mise à jour pour ses Galaxy, voici ce qui va changer",
-      "url": "https://www.journaldugeek.com/2026/11/19/one-ui-9-5-samsung-prepare-une-grosse-mise-a-jour-pour-ses-galaxy-voici-ce-qui-va-changer/",
-      "publishedAt": "2026-11-19T08:02:56+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Dallas et les Feux de l’amour : les 11 infos NFL du jeudi",
-      "url": "https://touchdownactu.com/361603/dallas-et-les-feux-de-lamour-les-11-infos-nfl-du-jeudi/",
-      "publishedAt": "2026-11-19T08:02:52+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Face à l’IA, le Cambridge Dictionary choisit « Humain » comme mot de l’année 2026",
-      "url": "https://www.mac4ever.com/ia/199122-face-a-l-ia-le-cambridge-dictionary-choisit-humain-comme-mot-de-l-annee-2026",
-      "publishedAt": "2026-11-19T08:02:00+00:00"
     },
     {
       "source": "boulet",
