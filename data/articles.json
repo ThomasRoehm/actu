@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:01:03.633149+00:00",
+  "generatedAt": "2026-11-21T13:10:41.268762+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:01:03.633149+00:00"
+      "lastSuccessAt": "2026-11-21T13:10:41.268762+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "PFAS, substances toxiques, plastiques : Apple fait mieux que tout le monde",
+      "url": "https://www.iphon.fr/post/pfas-toxiques-platiques-apple-monde",
+      "publishedAt": "2026-11-21T13:03:11+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Vous passez trop de temps devant les écrans et vous vous sentez stressé ? Cette scientifique explique pourquoi la nature peut vous aider à recharger vos batteries",
+      "url": "https://www.presse-citron.net/vous-passez-trop-temps-ecrans-vous-sentez-stresse-scientifique-explique-pourquoi-nature-aider-recharger-batteries/",
+      "publishedAt": "2026-11-21T13:02:36+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Les Anneaux de pouvoir saison 3 : les petits secrets du générique, qui délaisse les énigmes cachées",
+      "url": "https://www.numerama.com/pop-culture/2376969-les-anneaux-de-pouvoir-saison-3-les-petits-secrets-du-generique-qui-abandonne-les-enigmes-cachees.html",
+      "publishedAt": "2026-11-21T13:02:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Au Heat, Giannis Antetokounmpo apprend à dominer autrement",
@@ -167,7 +185,7 @@
     },
     {
       "source": "jdg",
-      "title": "GTA 6 : Où trouver le BigFoot et le rencontrer ?",
+      "title": "GTA 6 : Où trouver le Bigfoot et le rencontrer ?",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-ou-trouver-le-bigfoot-et-le-rencontrer/",
       "publishedAt": "2026-11-21T12:02:43+00:00"
     },
@@ -3008,30 +3026,6 @@
       "title": "La Chine réduit les coûts de ses avions de combat J-35 grâce à l'impression 3D au titane",
       "url": "https://www.generation-nt.com/actualites/metal-chine-reduit-couts-avions-3d-2084767",
       "publishedAt": "2026-11-19T13:20:01+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le dîner crypto annuel de Donald Trump vire au fiasco faute de participants",
-      "url": "https://www.generation-nt.com/actualites/cryptomonnaie-diner-gala-donald-trump-fiasco-2084817",
-      "publishedAt": "2026-11-19T13:10:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : ENFIN une promo chez RED by SFR, le forfait 250 Go passe à 12,99€/mois",
-      "url": "https://www.clubic.com/bons-plans-640072-black-friday-enfin-une-promo-chez-red-by-sfr-le-forfait-250-go-passe-de-15-99-a-12-99-par-mois.html",
-      "publishedAt": "2026-11-19T13:10:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Cyberattaque contre la Commission européenne : des données personnelles potentiellement compromises",
-      "url": "https://www.mac4ever.com/securite/199137-cyberattaque-contre-la-commission-europeenne-des-donnees-personnelles-potentiellement-compromises",
-      "publishedAt": "2026-11-19T13:07:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Les Anneaux de pouvoir réinvente l’histoire du plus puissant dragon de Tolkien",
-      "url": "https://www.numerama.com/pop-culture/2378761-les-anneaux-de-pouvoir-reinvente-lhistoire-du-plus-puissant-dragon-de-tolkien.html",
-      "publishedAt": "2026-11-19T13:02:00+00:00"
     },
     {
       "source": "boulet",
