@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:10:46.891485+00:00",
+  "generatedAt": "2026-11-21T06:20:38.657269+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
+      "lastSuccessAt": "2026-11-21T06:20:38.657269+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Harry Potter : les baguettes de la série font déjà débat chez les fans",
+      "url": "https://www.journaldugeek.com/2026/11/21/harry-potter-les-baguettes-de-la-serie-risquent-de-faire-debat-chez-les-fans/",
+      "publishedAt": "2026-11-21T06:02:37+00:00"
+    },
     {
       "source": "macg",
       "title": "Toutes les puces M6 ne se valent pas : l'iMac M6 est (un peu) plus lent que le Mac mini et le MacBook Pro",
@@ -3620,30 +3626,6 @@
       "title": "Google Wallet débarque sur iPhone, mais sans sa fonction la plus utile",
       "url": "https://www.journaldugeek.com/2026/11/19/google-wallet-debarque-sur-iphone-mais-sans-sa-fonction-la-plus-utile/",
       "publishedAt": "2026-11-19T06:29:45+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Dossier mobile et accoudoirs articulés : ce que propose cette chaise Sihoo à 385,39 euros pour le Black Friday [Sponso]",
-      "url": "https://www.numerama.com/tech/2366343-dossier-mobile-et-accoudoirs-articules-ce-que-propose-cette-chaise-sihoo-a-38539-euros-pour-le-black-friday.html",
-      "publishedAt": "2026-11-19T06:18:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iPhone Duo 2 : pourquoi Apple ne serait pas encore prête à passer à Face ID",
-      "url": "https://www.mac4ever.com/iphone/199119-iphone-duo-2-pourquoi-apple-ne-serait-pas-encore-prete-a-passer-a-face-id",
-      "publishedAt": "2026-11-19T06:17:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Un faux Elon Musk promettait de doubler les cryptos des spectateurs",
-      "url": "https://www.clubic.com/actualite-639967-un-faux-elon-musk-promettait-de-doubler-les-cryptos-des-spectateurs.html",
-      "publishedAt": "2026-11-19T06:15:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jamal Murray terrasse les Celtics dans les dernières secondes",
-      "url": "https://www.basketusa.com/news/958782/jamal-murray-terrasse-les-celtics-dans-les-dernieres-secondes/",
-      "publishedAt": "2026-11-19T06:12:33+00:00"
     },
     {
       "source": "boulet",
