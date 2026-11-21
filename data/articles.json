@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:10:47.840369+00:00",
+  "generatedAt": "2026-11-21T20:20:40.442902+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T20:10:47.840369+00:00"
+      "lastSuccessAt": "2026-11-21T20:20:40.442902+00:00"
     }
   ],
   "articles": [
@@ -490,12 +490,6 @@
       "publishedAt": "2026-11-21T12:45:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Miami Heat – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959611/miami-heat-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T12:43:29+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Un studio provençal lance son jeu de pétanque sur smartphone",
       "url": "https://www.clubic.com/actualite-640393-un-studio-provencal-lance-son-jeu-de-petanque-sur-smartphone.html",
@@ -518,6 +512,12 @@
       "title": "GTA 6 : Où trouver le Bigfoot et le rencontrer ?",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-ou-trouver-le-bigfoot-et-le-rencontrer/",
       "publishedAt": "2026-11-21T12:02:43+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Miami Heat – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959611/miami-heat-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T11:43:29+00:00"
     },
     {
       "source": "basketusa",
@@ -2612,12 +2612,6 @@
       "title": "La Commission européenne attaquée à coups d’IA : ARTEX, le logiciel de cybersécurité qui a mal tourné",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/la-commission-europeenne-attaquee-coups-dia-artex-le-logiciel-de-cybersecurite-qui-mal-tourne-312525",
       "publishedAt": "2026-11-19T20:30:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Sans l’aide de Rockstar, des scientifiques ont réussi à noyer une ville de GTA",
-      "url": "https://www.numerama.com/sciences/2379021-sans-laide-de-rockstar-des-scientifiques-ont-reussi-a-noyer-une-ville-de-gta.html",
-      "publishedAt": "2026-11-19T20:15:00+00:00"
     },
     {
       "source": "boulet",
