@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:31:03.312473+00:00",
+  "generatedAt": "2026-11-21T10:40:39.632962+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
+      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
     }
   ],
   "articles": [
@@ -224,12 +224,6 @@
       "title": "Piratage de courtiers en or : le parquet de Paris annonce dix mises en examen",
       "url": "https://www.clubic.com/actualite-640399-piratage-de-courtiers-en-or-le-parquet-de-paris-annonce-dix-mises-en-examen.html",
       "publishedAt": "2026-11-21T09:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le coup de gueule salutaire de JJ Redick",
-      "url": "https://www.basketusa.com/news/959505/le-coup-de-gueule-salutaire-de-jj-redick/",
-      "publishedAt": "2026-11-21T09:22:39+00:00"
     },
     {
       "source": "numerama",
@@ -326,6 +320,12 @@
       "title": "Cyberattaques russes : des journalistes et un député français visés par une nouvelle campagne de phishing",
       "url": "https://www.clubic.com/actualite-640396-cyberattaques-russes-des-journalistes-et-un-depute-francais-vises-par-une-nouvelle-campagne-de-phishing.html",
       "publishedAt": "2026-11-21T08:26:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le coup de gueule salutaire de JJ Redick",
+      "url": "https://www.basketusa.com/news/959505/le-coup-de-gueule-salutaire-de-jj-redick/",
+      "publishedAt": "2026-11-21T08:22:39+00:00"
     },
     {
       "source": "mac4ever",
@@ -3260,18 +3260,6 @@
       "title": "Cette alternative open source à Google Maps passe à la 3D avec plein de nouveautés",
       "url": "https://www.clubic.com/actualite-639916-cette-alternative-open-source-a-google-maps-passe-a-la-3d-avec-plein-de-nouveautes.html",
       "publishedAt": "2026-11-19T10:42:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Les robots piscine Aiper en promo pour le Black Friday : équipez-vous au meilleur prix !",
-      "url": "https://www.mac4ever.com/divers/199131-les-robots-piscine-aiper-en-promo-pour-le-black-friday-equipez-vous-au-meilleur-prix",
-      "publishedAt": "2026-11-19T10:39:38+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "1,8 million de mots de passe en clair : la Macif écope d’une amende de 5 millions d’euros pour une erreur de débutant",
-      "url": "https://www.journaldugeek.com/2026/11/19/18-million-de-mots-de-passe-en-clair-la-macif-ecope-dune-amende-de-5-millions-deuros-pour-une-erreur-de-debutant/",
-      "publishedAt": "2026-11-19T10:31:58+00:00"
     },
     {
       "source": "boulet",
