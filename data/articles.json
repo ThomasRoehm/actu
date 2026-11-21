@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:30:56.427932+00:00",
+  "generatedAt": "2026-11-21T17:40:38.235324+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T17:30:56.427932+00:00"
+      "lastSuccessAt": "2026-11-21T17:40:38.235324+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Test de la Kindle Ube : plus petite et plus jolie, même avec pubs",
+      "url": "https://www.journaldugeek.com/test/test-de-la-kindle-ube-plus-petite-et-plus-jolie-meme-avec-pubs/",
+      "publishedAt": "2026-11-21T17:30:42+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : pourquoi acheter une TV géante alors que ces vidéoprojecteurs laser 4K Hisense sont en promo ?",
@@ -2696,12 +2702,6 @@
       "title": "TikTok : l'Allemagne et l'Autriche veulent un propriétaire européen",
       "url": "https://www.mac4ever.com/divers/199149-tiktok-l-allemagne-et-l-autriche-veulent-un-proprietaire-europeen",
       "publishedAt": "2026-11-19T17:47:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Narwal : jusqu’à -64% sur les robots aspirateurs et aspirateurs balais",
-      "url": "https://www.generation-nt.com/actualites/aspirateur-robot-laveur-balai-sans-fil-narwal-black-friday-flow-2-v50-cube-freo-x10-pro-v50-2084829",
-      "publishedAt": "2026-11-19T17:40:01+00:00"
     },
     {
       "source": "boulet",
