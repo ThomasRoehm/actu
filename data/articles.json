@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:50:39.453606+00:00",
+  "generatedAt": "2026-11-21T14:01:04.449252+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T13:50:39.453606+00:00"
+      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-21T13:58:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Le Black Friday d'Amazon n'a pas encore commencé, mais ces 100 offres font déjà fondre les prix",
@@ -142,10 +148,10 @@
       "publishedAt": "2026-11-21T13:48:00+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-21T13:45:00+00:00"
+      "source": "jdg",
+      "title": "Test xTool C1 Color Cutter : une vraie alternative à Cricut, et bien plus complète !",
+      "url": "https://www.journaldugeek.com/test/test-xtool-c1-color-cutter-une-vraie-alternative-a-cricut-et-bien-plus-complete/",
+      "publishedAt": "2026-11-21T13:47:46+00:00"
     },
     {
       "source": "jdg",
@@ -2984,24 +2990,6 @@
       "title": "Finalement, l'iMac OLED pourrait ne jamais voir le jour",
       "url": "https://www.macg.co/materiel/2026/11/finalement-limac-oled-pourrait-ne-jamais-voir-le-jour-312515",
       "publishedAt": "2026-11-19T14:02:47+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Podcast] Mock Draft : un top 10 complètement fou !",
-      "url": "https://touchdownactu.com/361436/podcast-mock-draft-un-top-10-completement-fou/",
-      "publishedAt": "2026-11-19T14:00:41+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "ONU, pétrole, nucléaire : les 4 décisions prises par Trump, Poutine et Xi Jinping",
-      "url": "https://www.presse-citron.net/onu-petrole-nucleaire-les-4-decisions-prises-par-trump-poutine-et-xi-jinping/",
-      "publishedAt": "2026-11-19T14:00:39+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Un virement de 442 € : des millions de Français reçoivent cette aide de l’État le 15 décembre, êtes-vous concerné ?",
-      "url": "https://www.presse-citron.net/un-virement-de-442-e-des-millions-de-francais-recoivent-cette-aide-de-letat-le-15-decembre-etes-vous-concerne/",
-      "publishedAt": "2026-11-19T13:57:15+00:00"
     },
     {
       "source": "boulet",
