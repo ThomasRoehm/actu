@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:10:42.495487+00:00",
+  "generatedAt": "2026-11-21T14:20:41.434040+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
+      "lastSuccessAt": "2026-11-21T14:20:41.434040+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Apple veut que son IA prenne le contrôle de votre Mac",
+      "url": "https://www.journaldugeek.com/2026/11/21/apple-veut-que-son-ia-prenne-le-controle-de-votre-mac/",
+      "publishedAt": "2026-11-21T14:03:57+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
@@ -209,6 +215,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T12:47:41+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "San Antonio Spurs – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959607/san-antonio-spurs-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-21T12:45:48+00:00"
@@ -248,12 +260,6 @@
       "title": "GTA 6 : Où trouver le Bigfoot et le rencontrer ?",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-ou-trouver-le-bigfoot-et-le-rencontrer/",
       "publishedAt": "2026-11-21T12:02:43+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T11:47:41+00:00"
     },
     {
       "source": "basketusa",
@@ -2942,30 +2948,6 @@
       "title": "Starlink bridé, pont de Crimée détruit : l’Ukraine a trouvé un moyen ingénieux de bien diriger ses missiles",
       "url": "https://www.numerama.com/tech/2378957-starlink-bride-pont-de-crimee-detruit-lukraine-a-trouve-un-moyen-ingenieux-de-bien-diriger-ses-missiles.html",
       "publishedAt": "2026-11-19T14:21:28+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Week Cdiscount : jusqu'à -50 % + 25 € offerts aux 2 000 premiers avec un code promo",
-      "url": "https://www.generation-nt.com/actualites/black-friday-week-cdiscount-ecran-gaming-viewsonic-montre-garmin-vivoactive-5-iphone-14-airfryer-ninja-aspirateur-tineco-2084820",
-      "publishedAt": "2026-11-19T14:20:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "ChatGPT transcrit votre voix en direct et sans limite de durée, même en gratuit",
-      "url": "https://www.mac4ever.com/ia/199141-chatgpt-transcrit-votre-voix-en-direct-et-sans-limite-de-duree-meme-en-gratuit",
-      "publishedAt": "2026-11-19T14:20:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple Music Radio : la solution pour écouter de la musique gratuitement sans publicité",
-      "url": "https://www.iphon.fr/post/apple-music-radio-succes-populaire",
-      "publishedAt": "2026-11-19T14:16:07+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Apple pourrait annuler l’iMac OLED pour ces deux raisons majeures",
-      "url": "https://www.clubic.com/actualite-640090-apple-pourrait-annuler-l-imac-oled-pour-ces-deux-raisons-majeures.html",
-      "publishedAt": "2026-11-19T14:11:00+00:00"
     },
     {
       "source": "boulet",
