@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:50:43.450297+00:00",
+  "generatedAt": "2026-11-21T10:01:12.059000+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:50:43.450297+00:00"
+      "lastSuccessAt": "2026-11-21T10:01:12.059000+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Amazon brade d’énormes sets Lego pour le Black Friday : voici notre top 5",
+      "url": "https://www.numerama.com/pop-culture/2379973-amazon-brade-denormes-sets-lego-pour-le-black-friday.html",
+      "publishedAt": "2026-11-21T10:00:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-21T09:59:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Emissions de CO2 : la terre sature en silence pendant que l'océan étouffe sous nos rejets",
+      "url": "https://www.generation-nt.com/actualites/saturation-carbone-terre-oceans-climat-2084575",
+      "publishedAt": "2026-11-21T09:50:01+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "iPhone, Mac, Apple Watch… La Fnac offre 10 € tous les 100 € d'achat beaucoup de produits Apple pour le Black Friday",
+      "url": "https://www.macg.co/materiel/2026/11/iphone-mac-apple-watch-la-fnac-offre-10-eu-tous-les-100-eu-dachat-beaucoup-de-produits-apple-pour-le-black-friday-312559",
+      "publishedAt": "2026-11-21T09:48:51+00:00"
+    },
     {
       "source": "numerama",
       "title": "Maman, j’ai raté l’avion : 34 ans après, Macaulay Culkin accepte enfin un nouveau film, c’est officiel",
@@ -148,10 +172,10 @@
       "publishedAt": "2026-11-21T09:41:27+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday 2026 : les meilleures offres à ne pas manquer ce samedi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-21T09:37:00+00:00"
+      "source": "gnt",
+      "title": "La Poste Mobile joue les prolongations : 200 Go en 5G à 11,99 €/mois avec carte SIM gratuite jusqu’au 29/11",
+      "url": "https://www.generation-nt.com/actualites/forfait-mobile-pas-cher-poste-mobile-200-go-5g-sans-engagement-bouygues-telecom-carte-sim-offerte-2084843",
+      "publishedAt": "2026-11-21T09:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -719,7 +743,7 @@
     },
     {
       "source": "jdg",
-      "title": "GTA 6 : 10 astuces et conseils pour bien débuter à Vice City sans rien dépenser !",
+      "title": "GTA 6 : 10 astuces et conseils pour bien débuter à Vice City",
       "url": "https://www.journaldugeek.com/dossier/gta-6-10-astuces-et-conseils-pour-bien-debuter-a-vice-city-sans-rien-depenser/",
       "publishedAt": "2026-11-20T16:02:04+00:00"
     },
@@ -3332,30 +3356,6 @@
       "title": "GTA 6 : on connait l’actrice derrière Lucia, mais les joueurs sont en colère",
       "url": "https://www.journaldugeek.com/2026/11/19/gta-6-on-connait-lactrice-derriere-lucia-mais-les-joueurs-sont-en-colere/",
       "publishedAt": "2026-11-19T10:01:59+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[shopping] Les pulls de Noël sont arrivés sur le NFL Shop",
-      "url": "https://touchdownactu.com/361562/shopping-les-pulls-de-noel-sont-arrives-sur-le-nfl-shop/",
-      "publishedAt": "2026-11-19T10:00:09+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Vaccin contre la leucémie : une nouvelle piste sérieuse émerge, avec 41 % de risque de décès en moins",
-      "url": "https://www.numerama.com/sciences/2378551-vaccin-contre-la-leucemie-une-nouvelle-piste-serieuse-emerge-avec-41-de-risque-de-deces-en-moins.html",
-      "publishedAt": "2026-11-19T09:58:39+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Nos anciens ne changeaient pas une fenêtre qui laisse rentrer le froid, ils faisaient cette réparation à moins de 10 €",
-      "url": "https://www.presse-citron.net/nos-anciens-ne-changeaient-pas-une-fenetre-qui-laisse-rentrer-le-froid-ils-faisaient-cette-reparation-a-moins-de-10-e/",
-      "publishedAt": "2026-11-19T09:53:19+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Instagram permet enfin de modifier une Story après sa publication !",
-      "url": "https://www.mac4ever.com/iphone/199123-instagram-permet-enfin-de-modifier-une-story-apres-sa-publication",
-      "publishedAt": "2026-11-19T09:51:00+00:00"
     },
     {
       "source": "boulet",
