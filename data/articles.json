@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:30:54.139677+00:00",
+  "generatedAt": "2026-11-21T14:40:41.405856+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:30:54.139677+00:00"
+      "lastSuccessAt": "2026-11-21T14:40:41.405856+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-21T14:38:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Faut-il mettre fin à Dragon Quest sans Akira Toriyama ?",
+      "url": "https://www.numerama.com/pop-culture/2377107-faut-il-mettre-fin-a-dragon-quest-sans-akira-toriyama.html",
+      "publishedAt": "2026-11-21T14:31:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
@@ -152,12 +164,6 @@
       "title": "Apple veut que son IA prenne le contrôle de votre Mac",
       "url": "https://www.journaldugeek.com/2026/11/21/apple-veut-que-son-ia-prenne-le-controle-de-votre-mac/",
       "publishedAt": "2026-11-21T14:03:57+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-21T13:58:00+00:00"
     },
     {
       "source": "clubic",
@@ -653,6 +659,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Stats & Highlights | Franz Wagner climatise Brooklyn",
+      "url": "https://www.basketusa.com/news/959491/stats-highlights-franz-wagner-climatise-brooklyn/",
+      "publishedAt": "2026-11-21T06:52:01+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Encore un miracle pour les Lakers face aux Kings",
       "url": "https://www.basketusa.com/news/959483/encore-un-miracle-pour-les-lakers-face-aux-kings/",
       "publishedAt": "2026-11-21T06:37:59+00:00"
@@ -680,12 +692,6 @@
       "title": "Shai Gilgeous-Alexander (40 points) punit les Pelicans",
       "url": "https://www.basketusa.com/news/959467/shai-gilgeous-alexander-40-points-punit-les-pelicans/",
       "publishedAt": "2026-11-21T05:58:57+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Stats & Highlights | Franz Wagner climatise Brooklyn",
-      "url": "https://www.basketusa.com/news/959491/stats-highlights-franz-wagner-climatise-brooklyn/",
-      "publishedAt": "2026-11-21T05:52:01+00:00"
     },
     {
       "source": "basketusa",
@@ -2924,18 +2930,6 @@
       "title": "Des milliers de satellites-miroirs pour renvoyer la lumière du Soleil : le premier va officiellement décoller",
       "url": "https://www.clubic.com/actualite-640078-des-milliers-de-satellites-miroirs-pour-renvoyer-la-lumiere-du-soleil-le-premier-va-officiellement-decoller.html",
       "publishedAt": "2026-11-19T14:42:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "🔴 Urgence : c’est quoi le « plan Orsec », activé par la France dans le Pas-de-Calais ?",
-      "url": "https://www.presse-citron.net/%f0%9f%94%b4-urgence-cest-quoi-le-plan-orsec-active-par-la-france-dans-le-pas-de-calais/",
-      "publishedAt": "2026-11-19T14:34:24+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Si votre mot de passe est dans cette liste, changez-le tout de suite !",
-      "url": "https://www.journaldugeek.com/2026/11/19/si-votre-mot-de-passe-est-dans-cette-liste-changez-le-tout-de-suite/",
-      "publishedAt": "2026-11-19T14:33:47+00:00"
     },
     {
       "source": "boulet",
