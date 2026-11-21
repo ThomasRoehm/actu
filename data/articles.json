@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:20:39.136089+00:00",
+  "generatedAt": "2026-11-21T16:30:54.089406+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T16:20:39.136089+00:00"
+      "lastSuccessAt": "2026-11-21T16:30:54.089406+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "L'intelligence artificielle dévoile les théories secrètes des manuscrits du mathématicien Kurt Gödel",
+      "url": "https://www.generation-nt.com/actualites/kurt-godel-theoreme-manuscrit-intelligence-artificielle-claude-2084600",
+      "publishedAt": "2026-11-21T16:30:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : le robot aspirateur laveur Eureka J15 Max Ultra perd plus de la moitié de son prix",
+      "url": "https://www.clubic.com/bons-plans-640096-black-friday-le-robot-aspirateur-laveur-eureka-j15-max-ultra-perd-plus-de-la-moitie-de-son-prix.html",
+      "publishedAt": "2026-11-21T16:30:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Claude aide un chercheur à proposer une preuve de l’hypothèse de Riemann",
@@ -244,12 +256,6 @@
       "publishedAt": "2026-11-21T14:31:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
-      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
-      "publishedAt": "2026-11-21T14:12:27+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Des scientifiques enferment des volontaires dans le noir face à un miroir pour traquer les spectres",
       "url": "https://www.generation-nt.com/actualites/scientifiques-miroir-traquer-spectres-2084636",
@@ -292,6 +298,12 @@
       "publishedAt": "2026-11-21T13:14:30+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
+      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
+      "publishedAt": "2026-11-21T13:12:27+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Des briques de régolithe façon Lego pour les bases lunaires",
       "url": "https://www.generation-nt.com/actualites/briques-lego-regolithe-base-lunaire-2084571",
@@ -329,12 +341,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T12:47:41+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "San Antonio Spurs – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959607/san-antonio-spurs-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-21T12:45:48+00:00"
@@ -344,12 +350,6 @@
       "title": "Black Friday Switch 2 : n’attendez pas le 27, Amazon baisse déjà la console, les packs et les manettes",
       "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
       "publishedAt": "2026-11-21T12:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Miami Heat – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959611/miami-heat-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T12:43:29+00:00"
     },
     {
       "source": "clubic",
@@ -368,6 +368,18 @@
       "title": "GTA 6 : Où trouver le Bigfoot et le rencontrer ?",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-ou-trouver-le-bigfoot-et-le-rencontrer/",
       "publishedAt": "2026-11-21T12:02:43+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T11:47:41+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Miami Heat – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959611/miami-heat-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T11:43:29+00:00"
     },
     {
       "source": "basketusa",
@@ -2750,30 +2762,6 @@
       "title": "Frapper n’importe quelle cible depuis l’espace : l’Europe a désormais son projet d’arme orbitale",
       "url": "https://www.numerama.com/tech/2378535-frapper-nimporte-quelle-cible-depuis-lespace-leurope-a-desormais-son-projet-darme-orbitale.html",
       "publishedAt": "2026-11-19T16:32:20+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : peut-on rentrer dans tous les bâtiments ? Et pour quoi faire ?",
-      "url": "https://www.journaldugeek.com/2026/11/19/gta-6-peut-on-rentrer-dans-tous-les-batiments-et-pour-quoi-faire/",
-      "publishedAt": "2026-11-19T16:30:54+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "300 € de réduction : c'est l'offre Black Friday à ne pas manquer sur ce robot tondeuse ultra performant",
-      "url": "https://www.clubic.com/bons-plans-638179-de-reduction-c-est-l-offre-black-friday-a-ne-pas-manquer-sur-ce-robot-tondeuse-ultra-performant.html",
-      "publishedAt": "2026-11-19T16:30:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Présidentielle 2027 : l'Arcom va chronométrer le temps de parole chez les YouTubeurs",
-      "url": "https://www.mac4ever.com/societe/199151-presidentielle-2027-l-arcom-va-chronometrer-le-temps-de-parole-chez-les-youtubeurs",
-      "publishedAt": "2026-11-19T16:30:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Modèle du monde : Google ouvre l'accès à Genie 4",
-      "url": "https://www.generation-nt.com/actualites/genie-4-modele-silumation-monde-google-ai-ultra-2084805",
-      "publishedAt": "2026-11-19T16:25:01+00:00"
     },
     {
       "source": "boulet",
