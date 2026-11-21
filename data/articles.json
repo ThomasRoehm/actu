@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:01:06.712982+00:00",
+  "generatedAt": "2026-11-21T06:10:46.891485+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T06:01:06.712982+00:00"
+      "lastSuccessAt": "2026-11-21T06:10:46.891485+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Toutes les puces M6 ne se valent pas : l'iMac M6 est (un peu) plus lent que le Mac mini et le MacBook Pro",
+      "url": "https://www.macg.co/mac/2026/11/toutes-les-puces-m6-ne-se-valent-pas-limac-m6-est-un-peu-plus-lent-que-le-mac-mini-et-le-macbook-pro-312547",
+      "publishedAt": "2026-11-21T06:00:52+00:00"
+    },
     {
       "source": "clubic",
       "title": "Mettez à niveau les logiciels votre ordinateur à petit prix durant ce Black Friday (Office, Windows)",
@@ -143,7 +149,13 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Raptors font tomber les Pistons !",
+      "title": "Shai Gilgeous-Alexander (40 points) punit les Pelicans",
+      "url": "https://www.basketusa.com/news/959467/shai-gilgeous-alexander-40-points-punit-les-pelicans/",
+      "publishedAt": "2026-11-21T05:58:57+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Raptors font tomber Detroit !",
       "url": "https://www.basketusa.com/news/959446/les-raptors-font-tomber-les-pistons/",
       "publishedAt": "2026-11-21T05:35:36+00:00"
     },
@@ -412,6 +424,12 @@
       "publishedAt": "2026-11-20T16:18:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le 20 novembre 1993, Shaquille O’Neal signait un triple-double d’anthologie",
+      "url": "https://www.basketusa.com/news/530947/le-20-novembre-1993-shaquille-oneal-realisait-un-triple-double-danthologie/",
+      "publishedAt": "2026-11-20T16:15:33+00:00"
+    },
+    {
       "source": "gnt",
       "title": "GrapheneOS accuse toujours Google de vouloir anéantir les systèmes Android alternatifs",
       "url": "https://www.generation-nt.com/actualites/graphene-os-systeme-exploitation-android-alternative-monopole-google-2084892",
@@ -554,12 +572,6 @@
       "title": "Piratage confirmé : si vous utilisez cette app dédiée aux voitures électriques, vous êtes potentiellement concerné",
       "url": "https://www.presse-citron.net/piratage-app-voitures-electriques/",
       "publishedAt": "2026-11-20T15:23:37+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le 20 novembre 1993, Shaquille O’Neal signait un triple-double d’anthologie",
-      "url": "https://www.basketusa.com/news/530947/le-20-novembre-1993-shaquille-oneal-realisait-un-triple-double-danthologie/",
-      "publishedAt": "2026-11-20T15:15:33+00:00"
     },
     {
       "source": "clubic",
@@ -3632,24 +3644,6 @@
       "title": "Jamal Murray terrasse les Celtics dans les dernières secondes",
       "url": "https://www.basketusa.com/news/958782/jamal-murray-terrasse-les-celtics-dans-les-dernieres-secondes/",
       "publishedAt": "2026-11-19T06:12:33+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Sans Ty Jerome, les Grizzlies restent invincibles à l’extérieur",
-      "url": "https://www.basketusa.com/news/958774/sans-ty-jerome-les-grizzlies-restent-invincibles-a-lexterieur/",
-      "publishedAt": "2026-11-19T06:05:21+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Quad9 quitte la France et Cloudflare tacle la mauvaise approche judiciaire",
-      "url": "https://www.generation-nt.com/actualites/quad9-quitte-france-cloudflare-justice-2084754",
-      "publishedAt": "2026-11-19T06:05:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Les Anneaux de pouvoir vient-elle vraiment de trahir Tolkien ?",
-      "url": "https://www.journaldugeek.com/2026/11/19/les-anneaux-de-pouvoir-vient-elle-vraiment-de-trahir-tolkien/",
-      "publishedAt": "2026-11-19T06:03:48+00:00"
     },
     {
       "source": "boulet",
