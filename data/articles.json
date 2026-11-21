@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:01:04.449252+00:00",
+  "generatedAt": "2026-11-21T14:10:42.495487+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T14:01:04.449252+00:00"
+      "lastSuccessAt": "2026-11-21T14:10:42.495487+00:00"
     }
   ],
   "articles": [
@@ -209,12 +209,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T12:47:41+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "San Antonio Spurs – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959607/san-antonio-spurs-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-21T12:45:48+00:00"
@@ -254,6 +248,12 @@
       "title": "GTA 6 : Où trouver le Bigfoot et le rencontrer ?",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-ou-trouver-le-bigfoot-et-le-rencontrer/",
       "publishedAt": "2026-11-21T12:02:43+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T11:47:41+00:00"
     },
     {
       "source": "basketusa",
@@ -544,6 +544,12 @@
       "publishedAt": "2026-11-21T08:07:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Caleb Wilson ne s’inquiète pas de ses fractures à répétition",
+      "url": "https://www.basketusa.com/news/959469/caleb-wilson-ne-sinquiete-pas-de-ses-fractures-a-repetition/",
+      "publishedAt": "2026-11-21T08:06:02+00:00"
+    },
+    {
       "source": "jdg",
       "title": "GTA 6 : Mandy est-elle une énorme psychopathe ? Vous avez sûrement raté ces indices",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-mandy-est-elle-une-enorme-psychopathe-vous-avez-surement-rate-ces-indices/",
@@ -596,12 +602,6 @@
       "title": "L'Homme de Rødhals témoigne du basculement vers l'agriculture",
       "url": "https://www.generation-nt.com/actualites/homme-rodhals-neolitique-mesolithique-agriculture-2084597",
       "publishedAt": "2026-11-21T07:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Caleb Wilson ne s’inquiète pas de ses fractures à répétition",
-      "url": "https://www.basketusa.com/news/959469/caleb-wilson-ne-sinquiete-pas-de-ses-fractures-a-repetition/",
-      "publishedAt": "2026-11-21T07:06:02+00:00"
     },
     {
       "source": "clubic",
@@ -2966,30 +2966,6 @@
       "title": "Apple pourrait annuler l’iMac OLED pour ces deux raisons majeures",
       "url": "https://www.clubic.com/actualite-640090-apple-pourrait-annuler-l-imac-oled-pour-ces-deux-raisons-majeures.html",
       "publishedAt": "2026-11-19T14:11:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "PancakeSlicer rend l'impression 3D non-planaire gratuite et accessible sur trois axes",
-      "url": "https://www.generation-nt.com/actualites/pancakeslicer-impression-non-planaire-gratuite-2084764",
-      "publishedAt": "2026-11-19T14:05:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Keyonte George monte en température avec le Jazz",
-      "url": "https://www.basketusa.com/news/958852/keyonte-george-monte-en-temperature-avec-le-jazz/",
-      "publishedAt": "2026-11-19T14:03:16+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Le marathon le plus absurde de l’année se court chez IKEA avec une médaille en kit",
-      "url": "https://www.journaldugeek.com/2026/11/19/le-marathon-le-plus-absurde-de-lannee-se-court-chez-ikea-avec-une-medaille-en-kit/",
-      "publishedAt": "2026-11-19T14:02:48+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Finalement, l'iMac OLED pourrait ne jamais voir le jour",
-      "url": "https://www.macg.co/materiel/2026/11/finalement-limac-oled-pourrait-ne-jamais-voir-le-jour-312515",
-      "publishedAt": "2026-11-19T14:02:47+00:00"
     },
     {
       "source": "boulet",
