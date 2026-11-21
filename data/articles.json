@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T21:50:39.459405+00:00",
+  "generatedAt": "2026-11-21T22:01:00.961922+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T21:50:39.459405+00:00"
+      "lastSuccessAt": "2026-11-21T22:01:00.961922+00:00"
     }
   ],
   "articles": [
@@ -548,6 +548,12 @@
       "title": "Des smartphones traquent désormais les pontes de moustiques grâce à l'IA",
       "url": "https://www.generation-nt.com/actualites/smartphones-traquent-pontes-moustiques-ia-2084634",
       "publishedAt": "2026-11-21T11:10:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Etsy va réécrire sa clause sur l'IA après le départ de vendeurs",
+      "url": "https://www.clubic.com/actualite-640453-etsy-va-reecrire-sa-clause-sur-lia-apres-le-depart-de-vendeurs.html",
+      "publishedAt": "2026-11-21T11:10:00+00:00"
     },
     {
       "source": "clubic",
@@ -2606,12 +2612,6 @@
       "title": "À Memphis, les Warriors achèvent un road trip cauchemardesque",
       "url": "https://www.basketusa.com/news/959173/a-memphis-les-warriors-terminent-leur-road-trip-par-une-nouvelle-correction/",
       "publishedAt": "2026-11-20T04:43:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "John Ternus veut accélérer, tout en gardant Johny Srouji loin de Nvidia",
-      "url": "https://www.macg.co/aapl/2026/11/john-ternus-veut-accelerer-tout-en-gardant-johny-srouji-loin-de-nvidia-312527",
-      "publishedAt": "2026-11-19T22:00:00+00:00"
     },
     {
       "source": "boulet",
