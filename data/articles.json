@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:50:46.184440+00:00",
+  "generatedAt": "2026-11-21T08:01:02.995401+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:50:46.184440+00:00"
+      "lastSuccessAt": "2026-11-21T08:01:02.995401+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Brandon Ingram va enfin faire ses grands débuts avec les Clippers",
+      "url": "https://www.basketusa.com/news/959434/brandon-ingram-va-enfin-faire-ses-grands-debuts-avec-les-clippers/",
+      "publishedAt": "2026-11-21T07:41:20+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : une promo vous tente ? Ce prompt IA vérifie le prix et cherche moins cher ailleurs",
       "url": "https://www.clubic.com/actualite-640222-black-friday-une-promo-vous-tente-ce-prompt-ia-verifie-le-prix-et-cherche-moins-cher-ailleurs.html",
       "publishedAt": "2026-11-21T07:32:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Montez le son : Teufel casse les prix sur neuf références audio pour le Black Friday",
+      "url": "https://www.generation-nt.com/actualites/teufel-black-friday-amazon-chaine-hi-fi-enceinte-colonne-streaming-home-cinema-radio-dab-tuner-2084884",
+      "publishedAt": "2026-11-21T07:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -262,12 +274,6 @@
       "publishedAt": "2026-11-20T20:15:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
-      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
-      "publishedAt": "2026-11-20T19:30:23+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Programme Artemis : pour préparer ses prochaines missions lunaires, la NASA vient de tester l’un des moteurs les plus puissants de sa fusée SLS",
       "url": "https://www.journaldugeek.com/2026/11/20/programme-artemis-preparer-prochaines-missions-lunaires-nasa-tester-lun-moteurs-plus-puissants-fusee-sls/",
@@ -284,6 +290,12 @@
       "title": "Offre flash Fnac : jusqu’à -40 % sur une sélection Apple + 10 € offerts tous les 100 € pour les adhérents",
       "url": "https://www.generation-nt.com/actualites/fnac-promos-black-friday-iphone-reconditionne-16-17-pro-max-ipad-pro-m4-m2-2084895",
       "publishedAt": "2026-11-20T18:40:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
+      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
+      "publishedAt": "2026-11-20T18:30:23+00:00"
     },
     {
       "source": "numerama",
@@ -946,12 +958,6 @@
       "publishedAt": "2026-11-20T12:45:46+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T12:43:12+00:00"
-    },
-    {
       "source": "jdg",
       "title": "GTA 6 : après Jason et Lucia tout nus, Cyberleek promet la version piratée du jeu complet pour le 23 novembre",
       "url": "https://www.journaldugeek.com/2026/11/20/gta-6-apres-jason-et-lucia-tout-nus-cyberleek-promet-la-version-piratee-du-jeu-complet-pour-le-23-novembre/",
@@ -1028,6 +1034,12 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T11:43:12+00:00"
     },
     {
       "source": "presse",
@@ -3506,24 +3518,6 @@
       "title": "Face à l’IA, le Cambridge Dictionary choisit « Humain » comme mot de l’année 2026",
       "url": "https://www.mac4ever.com/ia/199122-face-a-l-ia-le-cambridge-dictionary-choisit-humain-comme-mot-de-l-annee-2026",
       "publishedAt": "2026-11-19T08:02:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Droits à l’image, gestion douteuse et adieux ratés : Lionel Messi serait en guerre contre la sélection argentine",
-      "url": "https://www.presse-citron.net/droits-a-limage-gestion-douteuse-et-adieux-rates-lionel-messi-serait-en-guerre-contre-la-selection-argentine/",
-      "publishedAt": "2026-11-19T08:00:12+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "iPhone 20 Pro : Apple préparerait le retour du titane pour son modèle anniversaire",
-      "url": "https://www.clubic.com/actualite-639952-iphone-20-pro-apple-preparerait-le-retour-du-titane-pour-son-modele-anniversaire.html",
-      "publishedAt": "2026-11-19T07:59:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Jusqu'à -76% sur les abonnements Adobe Creative Cloud pour le Black Friday !",
-      "url": "https://www.mac4ever.com/mac/199124-jusqu-a-76-sur-les-abonnements-adobe-creative-cloud-pour-le-black-friday",
-      "publishedAt": "2026-11-19T07:57:16+00:00"
     },
     {
       "source": "boulet",
