@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:20:37.938643+00:00",
+  "generatedAt": "2026-11-21T07:30:53.125979+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
+      "lastSuccessAt": "2026-11-21T07:30:53.125979+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Test Shark AquaReach Premium : un aspirateur laveur qui s’attaque aussi aux escaliers",
+      "url": "https://www.clubic.com/test-produit-639895-test-shark-aquareach.html",
+      "publishedAt": "2026-11-21T07:30:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Toutes les puces M6 ne se valent pas : l'iMac M6 est (un peu) plus lent que le Mac mini et le MacBook Pro",
+      "url": "https://www.macg.co/mac/2026/11/toutes-les-puces-m6-ne-se-valent-pas-limac-m6-est-un-peu-plus-lent-que-le-mac-mini-et-le-macbook-pro-312547",
+      "publishedAt": "2026-11-21T07:12:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Le MVP de la nuit | James Harden dépasse Kobe Bryant",
       "url": "https://www.basketusa.com/news/959508/le-mvp-de-la-nuit-james-harden-depasse-kobe-bryant/",
       "publishedAt": "2026-11-21T07:10:32+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'Homme de Rødhals témoigne du basculement vers l'agriculture",
+      "url": "https://www.generation-nt.com/actualites/homme-rodhals-neolitique-mesolithique-agriculture-2084597",
+      "publishedAt": "2026-11-21T07:10:01+00:00"
     },
     {
       "source": "clubic",
@@ -200,12 +218,6 @@
       "title": "Harry Potter : les baguettes de la série font déjà débat chez les fans",
       "url": "https://www.journaldugeek.com/2026/11/21/harry-potter-les-baguettes-de-la-serie-risquent-de-faire-debat-chez-les-fans/",
       "publishedAt": "2026-11-21T06:02:37+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Toutes les puces M6 ne se valent pas : l'iMac M6 est (un peu) plus lent que le Mac mini et le MacBook Pro",
-      "url": "https://www.macg.co/mac/2026/11/toutes-les-puces-m6-ne-se-valent-pas-limac-m6-est-un-peu-plus-lent-que-le-mac-mini-et-le-macbook-pro-312547",
-      "publishedAt": "2026-11-21T06:00:52+00:00"
     },
     {
       "source": "clubic",
@@ -3548,18 +3560,6 @@
       "title": "Conduite autonome Tesla (FSD) : la France accusée de mener une fronde secrète pour bloquer son homologation",
       "url": "https://www.numerama.com/vroom/2378361-conduite-autonome-tesla-fsd-la-france-accusee-de-mener-une-fronde-secrete-pour-bloquer-son-homologation.html",
       "publishedAt": "2026-11-19T07:31:28+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "-500 € sur le DEEBOT X12S OmniCyclone à l'occasion du Black Friday Ecovacs",
-      "url": "https://www.clubic.com/bons-plans-639346-sur-le-deebot-x12s-omnicyclone-a-l-occasion-du-black-friday-ecovacs.html",
-      "publishedAt": "2026-11-19T07:30:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "« Danger imminent pour la sécurité publique » : les robotaxis Waymo privés d’autoroute",
-      "url": "https://www.journaldugeek.com/2026/11/19/danger-imminent-pour-la-securite-publique-les-robotaxis-waymo-prives-dautoroute/",
-      "publishedAt": "2026-11-19T07:29:43+00:00"
     },
     {
       "source": "boulet",
