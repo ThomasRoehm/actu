@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T08:30:53.950651+00:00",
+  "generatedAt": "2026-11-21T08:40:40.389865+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T08:30:53.950651+00:00"
+      "lastSuccessAt": "2026-11-21T08:40:40.389865+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "TV OLED : voici 10 modèles DINGUES jusqu’à -40% à 6 jours du Black Friday",
+      "url": "https://www.clubic.com/bons-plans-640159-lg-samsung-sony-philips-les-tv-oled-chutent-jusqu-a--40-pour-le-black-friday.html",
+      "publishedAt": "2026-11-21T08:36:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Votre fournisseur VPN peut déchiffrer le tunnel qui protège votre trafic, mais peut-il vraiment en lire le contenu ?",
+      "url": "https://www.clubic.com/dossier-640381-votre-fournisseur-vpn-peut-dechiffrer-le-tunnel-qui-protege-votre-trafic-mais-peut-il-vraiment-en-lire-le-contenu.html",
+      "publishedAt": "2026-11-21T08:31:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "GTA 6 : tétraplégique, il joue sans manette uniquement par la pensée",
       "url": "https://www.numerama.com/pop-culture/2380513-gta-6-tetraplegique-il-joue-sans-manette-uniquement-par-la-pensee.html",
       "publishedAt": "2026-11-21T08:29:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "À -41%, cet Air Fryer Ninja ne se fait pas épargner par Amazon au Black Friday",
+      "url": "https://www.presse-citron.net/a-41-cet-air-fryer-ninja-ne-se-fait-pas-epargner-par-amazon-au-black-friday/",
+      "publishedAt": "2026-11-21T08:28:41+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Fire TV Stick : Amazon casse les prix au Black Friday avec des remises de FOLIE (-55%)",
+      "url": "https://www.journaldugeek.com/bon-plan/fire-tv-stick-amazon-casse-les-prix-au-black-friday-avec-des-remises-de-folie-55/",
+      "publishedAt": "2026-11-21T08:28:36+00:00"
     },
     {
       "source": "clubic",
@@ -1802,12 +1826,6 @@
       "title": "IEA : l'appétit électrique de l'IA menace de saturer les réseaux mondiaux dès 2030",
       "url": "https://www.generation-nt.com/actualites/iea-rapport-datacenter-consommation-electricite-2084852",
       "publishedAt": "2026-11-20T07:20:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "LG, Samsung, Sony, Philips : les TV OLED CHUTENT jusqu’à -40% pour le Black Friday",
-      "url": "https://www.clubic.com/bons-plans-640159-lg-samsung-sony-philips-les-tv-oled-chutent-jusqu-a--40-pour-le-black-friday.html",
-      "publishedAt": "2026-11-20T07:13:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -3494,12 +3512,6 @@
       "title": "iOS 27.3 : une fonctionnalité disparue fait son grand retour !",
       "url": "https://www.iphon.fr/post/ios-27-3-retour-effet-flou-iphone-liquid-glass",
       "publishedAt": "2026-11-19T08:42:43+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Grizzlies s’offrent un record de franchise loin de leurs bases",
-      "url": "https://www.basketusa.com/news/958820/les-grizzlies-soffrent-un-record-de-franchise-loin-de-leurs-bases/",
-      "publishedAt": "2026-11-19T08:32:56+00:00"
     },
     {
       "source": "boulet",
