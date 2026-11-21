@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:20:40.281272+00:00",
+  "generatedAt": "2026-11-21T10:31:03.312473+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:20:40.281272+00:00"
+      "lastSuccessAt": "2026-11-21T10:31:03.312473+00:00"
     }
   ],
   "articles": [
     {
+      "source": "mac4ever",
+      "title": "La Twingo électrique passe devant la R5 et prend la tête des ventes en France",
+      "url": "https://www.mac4ever.com/auto/199186-la-twingo-electrique-passe-devant-la-r5-et-prend-la-tete-des-ventes-en-france",
+      "publishedAt": "2026-11-21T10:30:47+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "L’Italie autorise le FSD de Tesla avant le vote européen",
+      "url": "https://www.clubic.com/actualite-640402-l-italie-autorise-le-fsd-de-tesla-avant-le-vote-europeen.html",
+      "publishedAt": "2026-11-21T10:30:00+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday : les meilleures offres à ne pas manquer ce samedi en DIRECT",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-21T10:18:00+00:00"
+      "publishedAt": "2026-11-21T10:23:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Ce qui se passe dans GTA 6 doit rester dans le jeu vidéo !",
+      "url": "https://www.generation-nt.com/actualites/gta6-rester-jeu-video-2084902",
+      "publishedAt": "2026-11-21T10:20:01+00:00"
     },
     {
       "source": "basketusa",
@@ -3254,48 +3272,6 @@
       "title": "1,8 million de mots de passe en clair : la Macif écope d’une amende de 5 millions d’euros pour une erreur de débutant",
       "url": "https://www.journaldugeek.com/2026/11/19/18-million-de-mots-de-passe-en-clair-la-macif-ecope-dune-amende-de-5-millions-deuros-pour-une-erreur-de-debutant/",
       "publishedAt": "2026-11-19T10:31:58+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Warren Spector félicite Rockstar, mais espère que GTA 6 sera le dernier de son genre",
-      "url": "https://www.presse-citron.net/warren-spector-felicite-rockstar-mais-espere-que-gta-6-sera-le-dernier-de-son-genre/",
-      "publishedAt": "2026-11-19T10:30:43+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : OBSBOT casse les prix de ses webcams, avec jusqu'à 40 % de réduction",
-      "url": "https://www.clubic.com/actualite-639319-black-friday-obsbot-casse-les-prix-de-ses-webcams-avec-jusqu-a-40-de-reduction.html",
-      "publishedAt": "2026-11-19T10:30:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Comment fonctionne le mode Photo dans GTA 6 ?",
-      "url": "https://www.numerama.com/pop-culture/2378617-comment-fonctionne-le-mode-photo-dans-gta-6.html",
-      "publishedAt": "2026-11-19T10:25:46+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Samsung prépare un Horizontal Lock pour la caméra selfie, repéré dans la bêta de One UI 9.5",
-      "url": "https://www.clubic.com/actualite-640027-samsung-prepare-un-horizontal-lock-pour-la-camera-selfie-repere-dans-la-beta-de-one-ui-9-5.html",
-      "publishedAt": "2026-11-19T10:22:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone Duo 2 : Apple fait déjà machine arrière sur Face ID ?",
-      "url": "https://www.iphon.fr/post/iphone-duo-2-apple-rumeurs-face-id",
-      "publishedAt": "2026-11-19T10:21:54+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Quelqu'un vit peut-être votre vie en ce moment. Comment ne plus perdre votre identité ? #sponso",
-      "url": "https://korben.info/comment-ne-plus-perdre-votre-identite.html",
-      "publishedAt": "2026-11-19T10:21:33+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Nous ne pouvons plus dépendre de SpaceX : ce rachat doit donner vie à un géant spatial made in europe",
-      "url": "https://www.clubic.com/actualite-639988-nous-ne-pouvons-plus-dependre-de-spacex-ce-rachat-doit-donner-vie-a-un-geant-spatial-made-in-europe.html",
-      "publishedAt": "2026-11-19T10:21:00+00:00"
     },
     {
       "source": "boulet",
