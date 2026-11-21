@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:40:39.632962+00:00",
+  "generatedAt": "2026-11-21T10:50:39.922825+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T10:40:39.632962+00:00"
+      "lastSuccessAt": "2026-11-21T10:50:39.922825+00:00"
     }
   ],
   "articles": [
@@ -520,12 +520,6 @@
       "publishedAt": "2026-11-20T20:15:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
-      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
-      "publishedAt": "2026-11-20T19:30:23+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Programme Artemis : pour préparer ses prochaines missions lunaires, la NASA vient de tester l’un des moteurs les plus puissants de sa fusée SLS",
       "url": "https://www.journaldugeek.com/2026/11/20/programme-artemis-preparer-prochaines-missions-lunaires-nasa-tester-lun-moteurs-plus-puissants-fusee-sls/",
@@ -542,6 +536,12 @@
       "title": "Offre flash Fnac : jusqu’à -40 % sur une sélection Apple + 10 € offerts tous les 100 € pour les adhérents",
       "url": "https://www.generation-nt.com/actualites/fnac-promos-black-friday-iphone-reconditionne-16-17-pro-max-ipad-pro-m4-m2-2084895",
       "publishedAt": "2026-11-20T18:40:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
+      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
+      "publishedAt": "2026-11-20T18:30:23+00:00"
     },
     {
       "source": "numerama",
@@ -3224,42 +3224,6 @@
       "title": "GTA 6 : records, astuces et secrets dans Leonida, toutes les infos après 24 heures de jeu (EN DIRECT)",
       "url": "https://www.numerama.com/pop-culture/2375431-sortie-de-gta-6-en-direct.html",
       "publishedAt": "2026-11-19T10:54:38+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Elon Musk va perdre son record : Anthropic prépare la plus grande introduction en Bourse de tous les temps",
-      "url": "https://www.journaldugeek.com/2026/11/19/elon-musk-va-perdre-son-record-anthropic-prepare-la-plus-grande-introduction-en-bourse-de-tous-les-temps/",
-      "publishedAt": "2026-11-19T10:47:05+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Rappel massif chez BMW : 720 000 automobilistes priés de stationner à l'extérieur !",
-      "url": "https://www.generation-nt.com/actualites/rappel-bmw-automobilistes-stationner-exterieur-2084776",
-      "publishedAt": "2026-11-19T10:45:01+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Google AI Ultra inclut maintenant YouTube Premium pour toute la famille",
-      "url": "https://korben.info/google-ai-ultra-inclut-maintenant-youtube-premium-pour-toute-la-famille.html",
-      "publishedAt": "2026-11-19T10:44:58+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Jusqu’à 150 € d’amende : ces objets seront interdits dans les TGV dans moins d’un mois",
-      "url": "https://www.journaldugeek.com/2026/11/19/jusqua-150-e-damende-ces-objets-seront-interdits-dans-les-tgv-dans-moins-dun-mois/",
-      "publishedAt": "2026-11-19T10:44:35+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L'Ukraine détruit le pont de Crimée sans Starlink, grâce à des drones relais",
-      "url": "https://www.mac4ever.com/divers/199133-l-ukraine-detruit-le-pont-de-crimee-sans-starlink-grace-a-des-drones-relais",
-      "publishedAt": "2026-11-19T10:43:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Cette alternative open source à Google Maps passe à la 3D avec plein de nouveautés",
-      "url": "https://www.clubic.com/actualite-639916-cette-alternative-open-source-a-google-maps-passe-a-la-3d-avec-plein-de-nouveautes.html",
-      "publishedAt": "2026-11-19T10:42:00+00:00"
     },
     {
       "source": "boulet",
