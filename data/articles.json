@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:10:40.829311+00:00",
+  "generatedAt": "2026-11-21T07:20:37.938643+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T07:10:40.829311+00:00"
+      "lastSuccessAt": "2026-11-21T07:20:37.938643+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | James Harden dépasse Kobe Bryant",
+      "url": "https://www.basketusa.com/news/959508/le-mvp-de-la-nuit-james-harden-depasse-kobe-bryant/",
+      "publishedAt": "2026-11-21T07:10:32+00:00"
+    },
     {
       "source": "clubic",
       "title": "Ras-le-bol de l'IA générative ? Canva permet enfin de couper l'interrupteur (ou presque)",
@@ -238,6 +244,12 @@
       "publishedAt": "2026-11-20T20:15:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
+      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
+      "publishedAt": "2026-11-20T19:30:23+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Programme Artemis : pour préparer ses prochaines missions lunaires, la NASA vient de tester l’un des moteurs les plus puissants de sa fusée SLS",
       "url": "https://www.journaldugeek.com/2026/11/20/programme-artemis-preparer-prochaines-missions-lunaires-nasa-tester-lun-moteurs-plus-puissants-fusee-sls/",
@@ -254,12 +266,6 @@
       "title": "Offre flash Fnac : jusqu’à -40 % sur une sélection Apple + 10 € offerts tous les 100 € pour les adhérents",
       "url": "https://www.generation-nt.com/actualites/fnac-promos-black-friday-iphone-reconditionne-16-17-pro-max-ipad-pro-m4-m2-2084895",
       "publishedAt": "2026-11-20T18:40:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
-      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
-      "publishedAt": "2026-11-20T18:30:23+00:00"
     },
     {
       "source": "numerama",
@@ -898,6 +904,12 @@
       "publishedAt": "2026-11-20T12:50:55+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T12:48:05+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Amazon contre New York : 5 dollars de plus par colis si la ville protège ses livreurs",
       "url": "https://www.mac4ever.com/divers/199171-amazon-contre-new-york-5-dollars-de-plus-par-colis-si-la-ville-protege-ses-livreurs",
@@ -914,6 +926,12 @@
       "title": "Jon McCormack, l’un des pères de la photo sur l’iPhone prend sa retraite",
       "url": "https://www.iphon.fr/post/photo-iphone-apple-retraite-probleme",
       "publishedAt": "2026-11-20T12:45:46+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-20T12:43:12+00:00"
     },
     {
       "source": "jdg",
@@ -992,18 +1010,6 @@
       "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
       "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
       "publishedAt": "2026-11-20T11:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Sacramento Kings : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959062/los-angeles-lakers-sacramento-kings-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T11:48:05+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Philadelphie 76ers – Milwaukee Bucks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959342/philadelphie-76ers-milwaukee-bucks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-20T11:43:12+00:00"
     },
     {
       "source": "presse",
@@ -3554,30 +3560,6 @@
       "title": "« Danger imminent pour la sécurité publique » : les robotaxis Waymo privés d’autoroute",
       "url": "https://www.journaldugeek.com/2026/11/19/danger-imminent-pour-la-securite-publique-les-robotaxis-waymo-prives-dautoroute/",
       "publishedAt": "2026-11-19T07:29:43+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Java4Shell expose les serveurs mondiaux à une faille critique découverte par IA",
-      "url": "https://www.generation-nt.com/actualites/java-java4shell-faille-vulnerabilite-serveurs-2084782",
-      "publishedAt": "2026-11-19T07:20:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jayson Tatum a le sentiment d’avoir tout gâché !",
-      "url": "https://www.basketusa.com/news/958830/jayson-tatum-a-le-sentiment-davoir-tout-gache/",
-      "publishedAt": "2026-11-19T07:19:13+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Vos applications Windows 11 pourront bientôt refuser de démarrer si votre PC n'est pas assez sécurisé",
-      "url": "https://www.clubic.com/actualite-639913-vos-applications-windows-11-pourront-bientot-refuser-de-demarrer-si-votre-pc-n-est-pas-assez-securise.html",
-      "publishedAt": "2026-11-19T07:14:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L’Europe dort-elle pendant la révolution de l’IA ? 59 experts veulent un électrochoc",
-      "url": "https://www.mac4ever.com/ia/199121-l-europe-dort-elle-pendant-la-revolution-de-l-ia-59-experts-veulent-un-electrochoc",
-      "publishedAt": "2026-11-19T07:14:00+00:00"
     },
     {
       "source": "boulet",
