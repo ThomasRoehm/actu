@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:20:39.403809+00:00",
+  "generatedAt": "2026-11-21T15:30:55.246269+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T15:20:39.403809+00:00"
+      "lastSuccessAt": "2026-11-21T15:30:55.246269+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "BenQ iScreenBar : enfin une barre lumineuse qui s’accorde avec l’iMac",
+      "url": "https://www.clubic.com/actualite-634573-iscreenbar-enfin-une-barre-lumineuse-qui-s-accorde-avec-l-imac.html",
+      "publishedAt": "2026-11-21T15:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Des tielles à Sète aux candidats à la présidentielle, tout le monde a surfé sur GTA 6",
+      "url": "https://www.clubic.com/actualite-640417-des-tielles-a-sete-aux-candidats-a-la-presidentielle-tout-le-monde-a-surfe-sur-la-vague-gta-6.html",
+      "publishedAt": "2026-11-21T15:25:00+00:00"
+    },
     {
       "source": "iphon",
       "title": "iPhone Duo vs Galaxy Z Fold 8 : qui est le meilleur pliant en 2026 ?",
@@ -146,6 +158,12 @@
       "title": "Meta voudrait vous faire payer 300 $ pour parler à un porte-clés",
       "url": "https://www.journaldugeek.com/2026/11/21/meta-voudrait-vous-faire-payer-300-pour-parler-a-un-porte-cles/",
       "publishedAt": "2026-11-21T15:00:19+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les corneilles des villes sont plus méfiantes que leurs cousines des champs",
+      "url": "https://www.generation-nt.com/actualites/corneille-adaptation-urbaine-comportement-neophobie-2084688",
+      "publishedAt": "2026-11-21T15:00:01+00:00"
     },
     {
       "source": "macg",
@@ -521,7 +539,7 @@
     },
     {
       "source": "clubic",
-      "title": "TV OLED : voici 10 modèles DINGUES jusqu’à -40% à 6 jours du Black Friday",
+      "title": "TV OLED Black Friday 2026 : les 8 offres qui valent vraiment le coup, expliquées par nos tests",
       "url": "https://www.clubic.com/bons-plans-640159-lg-samsung-sony-philips-les-tv-oled-chutent-jusqu-a--40-pour-le-black-friday.html",
       "publishedAt": "2026-11-21T08:36:00+00:00"
     },
@@ -2816,54 +2834,6 @@
       "title": "Horizon Zero Dawn Remastered sur PS5 tombe à un prix difficile à ignorer",
       "url": "https://www.numerama.com/tech/2379089-horizon-zero-dawn-remastered-sur-ps5-tombe-a-un-prix-difficile-a-ignorer.html",
       "publishedAt": "2026-11-19T15:31:13+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "P’tite Planète : à quoi ressemble vraiment le multijoueur ?",
-      "url": "https://www.journaldugeek.com/2026/11/19/ptite-planete-a-quoi-ressemble-vraiment-le-multijoueur/",
-      "publishedAt": "2026-11-19T15:30:55+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday BLUETTI : jusqu’à -36 % sur les stations électriques et solaires, et 5 % de plus avec le code Clubic",
-      "url": "https://www.clubic.com/actualite-639547-black-friday-bluetti-jusqu-a--36-sur-les-stations-electriques-et-solaires-et-5-de-plus-avec-le-code-clubic.html",
-      "publishedAt": "2026-11-19T15:30:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Grosses promos sur les montres Garmin : la Fenix 8 dès 574€, son meilleur prix !",
-      "url": "https://www.mac4ever.com/watch/199150-grosses-promos-sur-les-montres-garmin-la-fenix-8-des-574-son-meilleur-prix",
-      "publishedAt": "2026-11-19T15:27:20+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Écoute de l’habitacle et suivi GPS : Volkswagen colmate enfin une inquiétante faille sur ses voitures ID.",
-      "url": "https://www.clubic.com/actualite-640120-ecoute-de-l-habitacle-et-suivi-gps-volkswagen-colmate-enfin-une-inquietante-faille-sur-ses-voitures-id.html",
-      "publishedAt": "2026-11-19T15:26:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Palmer Luckey veut bâtir une plateforme maritime sans lois pour l'industrie américaine",
-      "url": "https://www.generation-nt.com/actualites/palmer-luckey-plateforme-maritime-industrie-2084769",
-      "publishedAt": "2026-11-19T15:25:02+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Les Galaxy Z Fold 8 et Z Flip 8 reçoivent une seconde mise à jour surprise en novembre",
-      "url": "https://www.clubic.com/actualite-640135-les-galaxy-z-fold-8-et-z-flip-8-recoivent-une-seconde-mise-a-jour-surprise-en-novembre.html",
-      "publishedAt": "2026-11-19T15:24:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Anthropic vient de signer la plus grosse entrée en Bourse de tous les temps, faut-il investir ? 5 questions pour tout comprendre",
-      "url": "https://www.presse-citron.net/anthropic-sapprete-a-signer-la-plus-grosse-entree-en-bourse-de-tous-les-temps-faut-il-investir-5-questions-pour-tout-comprendre/",
-      "publishedAt": "2026-11-19T15:23:52+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Anthropic (Claude) entre en Bourse à 110 $ et 1 800 milliards de capitalisation, la plus grosse IPO de l’histoire : l’évolution en direct",
-      "url": "https://www.presse-citron.net/anthropic-entre-bourse-1500-capitalisation-plus-grosse-ipo-histoire-evolution-direct-a-signer-la-plus-grosse-entree-en-bourse-de-tous-les-temps-faut-il-investir-5-questions-pour-tout-comprendre/",
-      "publishedAt": "2026-11-19T15:23:52+00:00"
     },
     {
       "source": "boulet",
