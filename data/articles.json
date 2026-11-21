@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:30:53.697721+00:00",
+  "generatedAt": "2026-11-21T05:40:38.203670+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T05:30:53.697721+00:00"
+      "lastSuccessAt": "2026-11-21T05:40:38.203670+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Les Raptors font tomber les Pistons !",
+      "url": "https://www.basketusa.com/news/959446/les-raptors-font-tomber-les-pistons/",
+      "publishedAt": "2026-11-21T05:35:36+00:00"
+    },
     {
       "source": "basketusa",
       "title": "James Harden prend feu : 51 points face aux Pacers !",
@@ -508,12 +514,6 @@
       "publishedAt": "2026-11-20T15:34:24+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Après 260 jours d’absence, Yanic Konan-Niederhäuser retrouve les parquets",
-      "url": "https://www.basketusa.com/news/959225/apres-260-jours-dabsence-yanic-konan-niederhauser-retrouve-les-parquets/",
-      "publishedAt": "2026-11-20T15:32:08+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Erreur CE-108255-1 sur GTA 6 : comment régler le crash sur PS5 ?",
       "url": "https://www.journaldugeek.com/2026/11/20/erreur-ce-108255-1-sur-gta-6-comment-regler-le-crash-sur-ps5/",
@@ -656,6 +656,12 @@
       "title": "Critique Hunger Games : Lever de soleil sur la moisson est-il le meilleur film de la saga ?",
       "url": "https://www.journaldugeek.com/critique/hunger-games-lever-de-soleil-sur-la-moisson-est-il-le-meilleur-film-de-la-saga/",
       "publishedAt": "2026-11-20T14:33:03+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Après 260 jours d’absence, Yanic Konan-Niederhäuser retrouve les parquets",
+      "url": "https://www.basketusa.com/news/959225/apres-260-jours-dabsence-yanic-konan-niederhauser-retrouve-les-parquets/",
+      "publishedAt": "2026-11-20T14:32:08+00:00"
     },
     {
       "source": "gnt",
