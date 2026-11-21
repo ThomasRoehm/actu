@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:20:40.747249+00:00",
+  "generatedAt": "2026-11-21T11:30:55.039989+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:20:40.747249+00:00"
+      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Des smartphones traquent désormais les pontes de moustiques grâce à l'IA",
+      "url": "https://www.generation-nt.com/actualites/smartphones-traquent-pontes-moustiques-ia-2084634",
+      "publishedAt": "2026-11-21T11:10:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Apple : Amazon lance 13 offres jusqu’à -29 %, de l’iPhone 17 Pro au MacBook Air M5",
@@ -460,6 +466,12 @@
       "publishedAt": "2026-11-21T07:12:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | James Harden dépasse Kobe Bryant",
+      "url": "https://www.basketusa.com/news/959508/le-mvp-de-la-nuit-james-harden-depasse-kobe-bryant/",
+      "publishedAt": "2026-11-21T07:10:32+00:00"
+    },
+    {
       "source": "gnt",
       "title": "L'Homme de Rødhals témoigne du basculement vers l'agriculture",
       "url": "https://www.generation-nt.com/actualites/homme-rodhals-neolitique-mesolithique-agriculture-2084597",
@@ -520,12 +532,6 @@
       "publishedAt": "2026-11-21T06:20:21+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | James Harden dépasse Kobe Bryant",
-      "url": "https://www.basketusa.com/news/959508/le-mvp-de-la-nuit-james-harden-depasse-kobe-bryant/",
-      "publishedAt": "2026-11-21T06:10:32+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Harry Potter : les baguettes de la série font déjà débat chez les fans",
       "url": "https://www.journaldugeek.com/2026/11/21/harry-potter-les-baguettes-de-la-serie-risquent-de-faire-debat-chez-les-fans/",
@@ -553,7 +559,7 @@
       "source": "basketusa",
       "title": "James Harden prend feu : 51 points face aux Pacers !",
       "url": "https://www.basketusa.com/news/959456/james-harden-prend-feu-51-points-face-aux-pacers/",
-      "publishedAt": "2026-11-21T04:14:19+00:00"
+      "publishedAt": "2026-11-21T05:14:19+00:00"
     },
     {
       "source": "macg",
@@ -574,6 +580,12 @@
       "publishedAt": "2026-11-20T20:15:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
+      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
+      "publishedAt": "2026-11-20T19:30:23+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Programme Artemis : pour préparer ses prochaines missions lunaires, la NASA vient de tester l’un des moteurs les plus puissants de sa fusée SLS",
       "url": "https://www.journaldugeek.com/2026/11/20/programme-artemis-preparer-prochaines-missions-lunaires-nasa-tester-lun-moteurs-plus-puissants-fusee-sls/",
@@ -590,12 +602,6 @@
       "title": "Offre flash Fnac : jusqu’à -40 % sur une sélection Apple + 10 € offerts tous les 100 € pour les adhérents",
       "url": "https://www.generation-nt.com/actualites/fnac-promos-black-friday-iphone-reconditionne-16-17-pro-max-ipad-pro-m4-m2-2084895",
       "publishedAt": "2026-11-20T18:40:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Neuf matchs de NBA Cup, avec un choc Rockets – Nuggets",
-      "url": "https://www.basketusa.com/news/959417/programme-du-soir-neuf-matchs-de-nba-cup-avec-un-choc-rockets-nuggets/",
-      "publishedAt": "2026-11-20T18:30:23+00:00"
     },
     {
       "source": "numerama",
@@ -3152,36 +3158,6 @@
       "title": "Black Friday Fosi Audio : les meilleures offres sur les DAC et amplis casque",
       "url": "https://www.generation-nt.com/actualites/fosi-audio-black-friday-k7-dac-ampli-casque-carte-son-externe-c3-lecteur-cd-disc-nano-merak-ecouteurs-im3-im4-hifi-2084735",
       "publishedAt": "2026-11-19T11:40:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Zoom, HSBC, Ikea, Air France… 178 grands sites ont été victimes d’un malware, et les clients sont les premiers touchés",
-      "url": "https://www.journaldugeek.com/2026/11/19/zoom-hsbc-ikea-air-france-178-grands-sites-ont-ete-victimes-dun-malware-et-les-clients-sont-les-premiers-touches/",
-      "publishedAt": "2026-11-19T11:30:29+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Josh Hart en pleine bataille avec lui-même",
-      "url": "https://www.basketusa.com/news/958668/josh-hart-en-pleine-bataille-avec-lui-meme/",
-      "publishedAt": "2026-11-19T11:30:21+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Nvidia augmente tout le monde pour faire oublier le départ de Jensen Huang",
-      "url": "https://www.mac4ever.com/divers/199134-nvidia-augmente-tout-le-monde-pour-faire-oublier-le-depart-de-jensen-huang",
-      "publishedAt": "2026-11-19T11:29:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Frontignan teste la riposte de la France face aux attaques hybrides et cyberattaques",
-      "url": "https://www.generation-nt.com/actualites/frontignan-riposte-attaques-hybrides-france-2084774",
-      "publishedAt": "2026-11-19T11:25:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Amazon : un grand classique des casques à réduction de bruit passe à -43%",
-      "url": "https://www.clubic.com/bons-plans-640018-black-friday-amazon-un-grand-classique-des-casques-a-reduction-de-bruit-passe-a-43.html",
-      "publishedAt": "2026-11-19T11:24:00+00:00"
     },
     {
       "source": "boulet",
