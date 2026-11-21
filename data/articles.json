@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:50:37.635627+00:00",
+  "generatedAt": "2026-11-21T19:01:11.042052+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T18:50:37.635627+00:00"
+      "lastSuccessAt": "2026-11-21T19:01:11.042052+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "korben",
+      "title": "Windows NT 4.0 sur un Raspberry Pi, c'est inutile donc indispensable",
+      "url": "https://korben.info/pint-windows-nt-raspberry-pi.html",
+      "publishedAt": "2026-11-21T18:34:10+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Apple met bien de l'OLED dans ses iPad alors pourquoi pas dans l'iMac ?",
+      "url": "https://www.generation-nt.com/actualites/apple-imac-oled-abandon-marge-cout-fabrication-2084865",
+      "publishedAt": "2026-11-21T18:30:01+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Plex lâche TheTVDB",
+      "url": "https://korben.info/plex-abandonne-thetvdb.html",
+      "publishedAt": "2026-11-21T18:19:38+00:00"
+    },
     {
       "source": "numerama",
       "title": "James Bond : on a classé les films de Daniel Craig du pire au meilleur pour célébrer Robert Pattinson",
@@ -2636,18 +2654,6 @@
       "title": "Des discussions temporaires dans le Mode IA de Google",
       "url": "https://www.generation-nt.com/actualites/mode-ia-google-search-discussions-temporaires-2084801",
       "publishedAt": "2026-11-19T19:05:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "98,3 % de victoires : la puce quantique de Google pulvérise un plafond logique classique",
-      "url": "https://www.numerama.com/sciences/2379073-983-de-victoires-la-puce-quantique-de-google-pulverise-un-plafond-logique-classique.html",
-      "publishedAt": "2026-11-19T19:00:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Premier de la classe en droit et en fiscalité : la nouvelle IA de Gemini promet des performances XXL à un coût réduit",
-      "url": "https://www.journaldugeek.com/2026/11/19/premier-de-la-classe-en-droit-et-en-fiscalite-la-nouvelle-ia-de-gemini-promet-des-performances-xxl-a-un-cout-reduit/",
-      "publishedAt": "2026-11-19T18:58:56+00:00"
     },
     {
       "source": "boulet",
