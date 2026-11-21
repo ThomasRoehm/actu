@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:30:54.075395+00:00",
+  "generatedAt": "2026-11-21T09:40:46.318861+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T09:30:54.075395+00:00"
+      "lastSuccessAt": "2026-11-21T09:40:46.318861+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 : les meilleures offres à ne pas manquer ce samedi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-21T09:37:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Piratage de courtiers en or : le parquet de Paris annonce dix mises en examen",
@@ -182,12 +188,6 @@
       "title": "BepiColombo arrive enfin autour de Mercure après huit ans de voyage",
       "url": "https://www.generation-nt.com/actualites/bepicolombo-arrive-mercure-huit-ans-2084888",
       "publishedAt": "2026-11-21T09:00:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : les meilleures offres à ne pas manquer ce samedi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-21T08:59:00+00:00"
     },
     {
       "source": "basketusa",
@@ -3380,36 +3380,6 @@
       "title": "Mots de passe : les internautes privilégient toujours la simplicité",
       "url": "https://www.clubic.com/actualite-639925-mots-de-passe-les-internaute-privilegient-toujours-la-simplicite.html",
       "publishedAt": "2026-11-19T09:42:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "PHP : une nouvelle mise à jour critique arrive, moins d’un mois après la dernière alerte",
-      "url": "https://www.macg.co/ailleurs/2026/11/php-une-nouvelle-mise-jour-critique-arrive-moins-dun-mois-apres-la-derniere-alerte-312507",
-      "publishedAt": "2026-11-19T09:39:58+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Creator Studio : iWork se dote d’un assistant et s’ouvre à MCP, Pixelmator Pro retouche les images à la demande",
-      "url": "https://www.macg.co/logiciels/2026/11/creator-studio-iwork-se-dote-dun-assistant-et-souvre-mcp-pixelmator-pro-retouche-les-images-la-demande-312509",
-      "publishedAt": "2026-11-19T09:38:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Un retraité a acheté 32 panneaux solaires à quatre entreprises en un an, sa famille dénonce un acharnement",
-      "url": "https://www.clubic.com/actualite-639994-un-retraite-a-achete-32-panneaux-solaires-a-quatre-entreprises-en-un-an-sa-famille-denonce-un-acharnement.html",
-      "publishedAt": "2026-11-19T09:34:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le DJI Romo P bradé à -53% pour le Black Friday : son meilleur prix !",
-      "url": "https://www.mac4ever.com/domotique/199130-le-dji-romo-p-brade-a-53-pour-le-black-friday-son-meilleur-prix",
-      "publishedAt": "2026-11-19T09:33:25+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "GTA 6 est le jeu le mieux noté de l’histoire : 99/100 sur la référence Metacritic",
-      "url": "https://www.iphon.fr/post/gta-6-jeu-mieux-note-histoire-99-100-reference-metacritic",
-      "publishedAt": "2026-11-19T09:33:17+00:00"
     },
     {
       "source": "boulet",
