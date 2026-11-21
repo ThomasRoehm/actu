@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:30:55.039989+00:00",
+  "generatedAt": "2026-11-21T11:40:41.350215+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-21T11:30:55.039989+00:00"
+      "lastSuccessAt": "2026-11-21T11:40:41.350215+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Tyrese Haliburton obligé de patienter deux semaines supplémentaires",
+      "url": "https://www.basketusa.com/news/959436/tyrese-haliburton-oblige-de-patienter-deux-semaines-supplementaires/",
+      "publishedAt": "2026-11-21T11:34:45+00:00"
+    },
     {
       "source": "gnt",
       "title": "Des smartphones traquent désormais les pontes de moustiques grâce à l'IA",
@@ -170,12 +176,6 @@
       "title": "Chase confirme un vol de données, Visa et Mastercard frappés aussi",
       "url": "https://korben.info/chase-confirme-un-vol-de-donnees-visa-et-mastercard-frappes-aussi.html",
       "publishedAt": "2026-11-21T10:50:49+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Ime Udoka pointe la fragilité mentale des Rockets",
-      "url": "https://www.basketusa.com/news/959533/ime-udoka-pointe-la-fragilite-mentale-des-rockets/",
-      "publishedAt": "2026-11-21T10:50:24+00:00"
     },
     {
       "source": "korben",
@@ -248,6 +248,12 @@
       "title": "Amazon brade d’énormes sets Lego pour le Black Friday : voici notre top 5",
       "url": "https://www.numerama.com/pop-culture/2379973-amazon-brade-denormes-sets-lego-pour-le-black-friday.html",
       "publishedAt": "2026-11-21T10:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Ime Udoka pointe la fragilité mentale des Rockets",
+      "url": "https://www.basketusa.com/news/959533/ime-udoka-pointe-la-fragilite-mentale-des-rockets/",
+      "publishedAt": "2026-11-21T09:50:24+00:00"
     },
     {
       "source": "gnt",
@@ -725,7 +731,7 @@
     },
     {
       "source": "jdg",
-      "title": "Test xTool C1 Color Cutter : une très bonne alternative à Cricut !",
+      "title": "Test xTool C1 Color Cutter : réalisez toute votre décoration de Noël avec !",
       "url": "https://www.journaldugeek.com/test/test-xtool-c1-color-cutter-une-tres-bonne-alternative-a-cricut/",
       "publishedAt": "2026-11-20T17:03:46+00:00"
     },
@@ -3152,12 +3158,6 @@
       "title": "Le chargeur MagSafe d'Apple chute à -37% pour le Black Friday : prenez soin de votre nouvel iPhone !",
       "url": "https://www.mac4ever.com/iphone/199136-le-chargeur-magsafe-d-apple-chute-a-37-pour-le-black-friday-prenez-soin-de-votre-nouvel-iphone",
       "publishedAt": "2026-11-19T11:41:46+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Fosi Audio : les meilleures offres sur les DAC et amplis casque",
-      "url": "https://www.generation-nt.com/actualites/fosi-audio-black-friday-k7-dac-ampli-casque-carte-son-externe-c3-lecteur-cd-disc-nano-merak-ecouteurs-im3-im4-hifi-2084735",
-      "publishedAt": "2026-11-19T11:40:01+00:00"
     },
     {
       "source": "boulet",
