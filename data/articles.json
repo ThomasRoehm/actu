@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T16:10:39.392132+00:00",
+  "generatedAt": "2026-11-22T16:20:39.426628+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:10:39.392132+00:00"
+      "lastSuccessAt": "2026-11-22T16:20:39.426628+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Test Cleaner One Pro de Trend Micro",
+      "url": "https://www.mac4ever.com/mac/199193-test-cleaner-one-pro-de-trend-micro",
+      "publishedAt": "2026-11-22T16:16:20+00:00"
+    },
     {
       "source": "jdg",
       "title": "Chez Sacrebleu, baisser la lumière sans téléphone coûte 1.700 $, mais c’est la classe",
@@ -1796,36 +1802,6 @@
       "title": "Les AirPods 5 en promo : le modèle haut de gamme au prix de l'entrée de gamme !",
       "url": "https://www.mac4ever.com/audio/199182-les-airpods-5-en-promo-le-modele-haut-de-gamme-au-prix-de-l-entree-de-gamme",
       "publishedAt": "2026-11-20T16:21:47+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Volkswagen dépose le nom ID. Up pour sa petite électrique à 20 000 euros",
-      "url": "https://www.mac4ever.com/auto/199181-volkswagen-depose-le-nom-id-up-pour-sa-petite-electrique-a-20-000-euros",
-      "publishedAt": "2026-11-20T16:20:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le 20 novembre 1993, Shaquille O’Neal signait un triple-double d’anthologie",
-      "url": "https://www.basketusa.com/news/530947/le-20-novembre-1993-shaquille-oneal-realisait-un-triple-double-danthologie/",
-      "publishedAt": "2026-11-20T16:15:33+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "GrapheneOS accuse toujours Google de vouloir anéantir les systèmes Android alternatifs",
-      "url": "https://www.generation-nt.com/actualites/graphene-os-systeme-exploitation-android-alternative-monopole-google-2084892",
-      "publishedAt": "2026-11-20T16:15:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "BepiColombo doit entrer en orbite autour de Mercure ce samedi",
-      "url": "https://www.clubic.com/actualite-640273-bepicolombo-doit-entrer-en-orbite-autour-de-mercure-samedi-21-novembre.html",
-      "publishedAt": "2026-11-20T16:15:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 : 25 millions de ventes, 2,36 milliards de dollars… les chiffres fous de son lancement",
-      "url": "https://www.numerama.com/pop-culture/2380025-gta-6-25-millions-de-ventes-236-milliards-de-dollars-les-chiffres-fous-de-son-lancement.html",
-      "publishedAt": "2026-11-20T16:15:00+00:00"
     },
     {
       "source": "boulet",
