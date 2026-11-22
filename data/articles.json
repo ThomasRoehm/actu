@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:40:37.159091+00:00",
+  "generatedAt": "2026-11-22T14:50:38.840286+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T14:40:37.159091+00:00"
+      "lastSuccessAt": "2026-11-22T14:50:38.840286+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Marre de GTA 6 ? Forever Ago est le jeu parfait, il vous propose un road trip contemplatif émouvant",
+      "url": "https://www.presse-citron.net/marre-de-gta-6-forever-ago-est-le-jeu-parfait-il-vous-propose-un-road-trip-contemplatif-emouvant/",
+      "publishedAt": "2026-11-22T14:45:11+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Les rumeurs de retard des Ryzen Zen 6 d'AMD démenties : l'espoir d’un lancement avant l'été",
+      "url": "https://www.clubic.com/actualite-640468-les-rumeurs-de-retard-des-ryzen-zen-6-d-amd-dementies-l-espoir-d-un-lancement-avant-l-ete.html",
+      "publishedAt": "2026-11-22T14:43:00+00:00"
+    },
     {
       "source": "iphon",
       "title": "Les AirPods Pro 3 tombent à 188 € pour le Black Friday !",
@@ -1892,36 +1904,6 @@
       "title": "ARTEX, l'IA de piratage open source qui a figé la Commission européenne",
       "url": "https://korben.info/artex-lia-de-piratage-open-source-qui-a-fige-la-commission-europeenne.html",
       "publishedAt": "2026-11-20T14:50:58+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "On ne verra jamais les scènes coupées de L’Odyssée",
-      "url": "https://www.numerama.com/pop-culture/2379933-pourquoi-on-ne-verra-jamais-les-scenes-coupees-de-lodyssee.html",
-      "publishedAt": "2026-11-20T14:49:51+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "GTA 6 jouable sur PC d’ici une semaine ? Un groupe affirme avoir récupéré des fichiers Xbox",
-      "url": "https://www.clubic.com/actualite-640321-gta-6-jouable-sur-pc-d-ici-une-semaine-un-groupe-affirme-avoir-recupere-des-fichiers-xbox.html",
-      "publishedAt": "2026-11-20T14:49:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le Pentagone organise un duel d'armes laser contre des cibles drones",
-      "url": "https://www.generation-nt.com/actualites/pentagone-duel-armes-laser-drones-2084842",
-      "publishedAt": "2026-11-20T14:45:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Dix ans après le Brexit, les discussions du rapprochement entre le Royaume-Uni et l’Union européenne commencent",
-      "url": "https://www.presse-citron.net/dix-ans-apres-le-brexit-les-discussions-du-rapprochement-entre-le-royaume-uni-et-lunion-europeenne-commencent/",
-      "publishedAt": "2026-11-20T14:41:18+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "GTA 6 force les joueurs à être gentils avec leur copine, des streamers hurlent au jeu woke",
-      "url": "https://www.mac4ever.com/gaming/199173-gta-6-force-les-joueurs-a-etre-gentils-avec-leur-copine-des-streamers-hurlent-au-jeu-woke",
-      "publishedAt": "2026-11-20T14:41:00+00:00"
     },
     {
       "source": "boulet",
