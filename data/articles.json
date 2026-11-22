@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T15:01:07.699179+00:00",
+  "generatedAt": "2026-11-22T15:10:37.533356+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:01:07.699179+00:00"
+      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Les 11 meilleures coques haut de gamme, pour un iPhone protégé avec chic",
+      "url": "https://www.iphon.fr/post/selection-meilleures-coques-iphone-haut-gamme",
+      "publishedAt": "2026-11-22T15:03:03+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Les créatrices de Matrix veulent récupérer les droits des films",
+      "url": "https://www.journaldugeek.com/2026/11/22/les-creatrices-de-matrix-veulent-recuperer-les-droits-des-films/",
+      "publishedAt": "2026-11-22T15:00:22+00:00"
+    },
     {
       "source": "presse",
       "title": "Marre de GTA 6 ? Forever Ago est le jeu parfait, il vous propose un road trip contemplatif émouvant",
@@ -1850,30 +1862,6 @@
       "title": "Le Black Friday a encore frappé, mais pas à la porte : la sonnette vidéo Ring 2K passe à 49,99€ sur Amazon",
       "url": "https://www.clubic.com/bons-plans-640258-le-black-friday-a-encore-frappe-mais-pas-a-la-porte-la-sonnette-video-ring-2k-passe-a-49-99-sur-amazon.html",
       "publishedAt": "2026-11-20T15:13:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "À une semaine du Black Friday, Amazon casse les prix de ses propres appareils : jusqu’à -83%",
-      "url": "https://www.clubic.com/bons-plans-639421-black-friday-2026-amazon-casse-les-prix-de-ses-propres-appareils-10-offres-jusqu-a--83-des-maintenant.html",
-      "publishedAt": "2026-11-20T15:10:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Ce chargeur 140W est bradé à 60€ (-33%) pour le Black Friday : parfait pour vos Mac, iPad, iPhone !",
-      "url": "https://www.mac4ever.com/iphone/199177-ce-chargeur-140w-est-brade-a-60-33-pour-le-black-friday-parfait-pour-vos-mac-ipad-iphone",
-      "publishedAt": "2026-11-20T15:09:21+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Jude Law et Andrew Garfield font de la magie sur Apple TV",
-      "url": "https://www.mac4ever.com/tv/199170-jude-law-et-andrew-garfield-font-de-la-magie-sur-apple-tv",
-      "publishedAt": "2026-11-20T15:06:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : un fast-food va reproduire le même burger avec 7 steaks que dans le jeu",
-      "url": "https://www.journaldugeek.com/2026/11/20/gta-6-un-fast-food-va-reproduire-le-meme-burger-avec-7-steaks-que-dans-le-jeu/",
-      "publishedAt": "2026-11-20T15:02:45+00:00"
     },
     {
       "source": "boulet",
