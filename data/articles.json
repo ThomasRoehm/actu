@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T10:30:58.720228+00:00",
+  "generatedAt": "2026-11-22T10:40:39.224503+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "mac4ever",
@@ -85,9 +85,9 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/mac4ever.png",
-      "ok": false,
-      "error": "The read operation timed out",
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
+      "lastSuccessAt": "2026-11-22T10:40:39.224503+00:00"
     }
   ],
   "articles": [
@@ -152,6 +152,12 @@
       "title": "Les radiotélescopes révèlent les secrets d'un duo de naines rouges",
       "url": "https://www.generation-nt.com/actualites/dg-cvn-naines-rouges-astronomie-2084785",
       "publishedAt": "2026-11-22T10:10:01+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Robots tueurs : l'ONU se donne jusqu'à 2028 pour écrire des règles",
+      "url": "https://www.mac4ever.com/divers/199190-robots-tueurs-l-onu-se-donne-jusqu-a-2028-pour-ecrire-des-regles",
+      "publishedAt": "2026-11-22T10:10:00+00:00"
     },
     {
       "source": "basketusa",
@@ -199,12 +205,6 @@
       "source": "gnt",
       "title": "Un peigne électrique chinois accélère la repousse des cheveux à près de 100 % chez la souris",
       "url": "https://www.generation-nt.com/actualites/peigne-electrique-repousse-cheveux-souris-2084742",
-      "publishedAt": "2026-11-22T09:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jouer sa 20e saison NBA est « surréaliste » pour Al Horford",
-      "url": "https://www.basketusa.com/news/959733/jouer-sa-20e-saison-nba-est-surrealiste-pour-al-horford/",
       "publishedAt": "2026-11-22T09:10:01+00:00"
     },
     {
@@ -278,6 +278,12 @@
       "title": "Black Friday 2026 : Amazon casse les prix de 8 montres GPS Suunto, Garmin et Amazfit jusqu’à -40%",
       "url": "https://www.clubic.com/bons-plans-638989-black-friday-top-7-des-meilleures-montres-connectees-a-saisir-chez-garmin-suunto-ou-amazfit.html",
       "publishedAt": "2026-11-22T08:15:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jouer sa 20e saison NBA est « surréaliste » pour Al Horford",
+      "url": "https://www.basketusa.com/news/959733/jouer-sa-20e-saison-nba-est-surrealiste-pour-al-horford/",
+      "publishedAt": "2026-11-22T08:10:01+00:00"
     },
     {
       "source": "gnt",
@@ -526,12 +532,6 @@
       "publishedAt": "2026-11-21T17:22:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "En NBA Cup, les Suns jouent jusqu’à la dernière seconde",
-      "url": "https://www.basketusa.com/news/959631/en-nba-cup-les-suns-jouent-jusqua-la-derniere-seconde/",
-      "publishedAt": "2026-11-21T17:21:49+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Deux Tesla en FSD bloquées, les mauvais élèves du contrôle technique allemand et les freins à l’achat : le récap Vroom de la semaine",
       "url": "https://www.numerama.com/vroom/2380109-deux-tesla-en-fsd-bloquees-les-mauvais-eleves-du-controle-technique-allemand-et-les-freins-a-lachat-le-recap-vroom-de-la-semaine.html",
@@ -596,6 +596,12 @@
       "title": "Black Friday : le robot aspirateur laveur Eureka J15 Max Ultra perd plus de la moitié de son prix",
       "url": "https://www.clubic.com/bons-plans-640096-black-friday-le-robot-aspirateur-laveur-eureka-j15-max-ultra-perd-plus-de-la-moitie-de-son-prix.html",
       "publishedAt": "2026-11-21T16:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "En NBA Cup, les Suns jouent jusqu’à la dernière seconde",
+      "url": "https://www.basketusa.com/news/959631/en-nba-cup-les-suns-jouent-jusqua-la-derniere-seconde/",
+      "publishedAt": "2026-11-21T16:21:49+00:00"
     },
     {
       "source": "clubic",
@@ -712,12 +718,6 @@
       "publishedAt": "2026-11-21T14:31:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
-      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
-      "publishedAt": "2026-11-21T14:12:27+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Des scientifiques enferment des volontaires dans le noir face à un miroir pour traquer les spectres",
       "url": "https://www.generation-nt.com/actualites/scientifiques-miroir-traquer-spectres-2084636",
@@ -752,6 +752,12 @@
       "title": "🔴 Des rafales jusqu’à 180 km/h : une très violente tempête déferle sur la France ce dimanche",
       "url": "https://www.presse-citron.net/%f0%9f%94%b4-des-rafales-jusqua-180-km-h-une-tres-violente-tempete-deferle-sur-la-france-ce-dimanche/",
       "publishedAt": "2026-11-21T13:14:30+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
+      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
+      "publishedAt": "2026-11-21T13:12:27+00:00"
     },
     {
       "source": "gnt",
@@ -2162,36 +2168,6 @@
       "title": "Elle brille de mille feux : cette Watch Series 11 en or perd pourtant de la valeur au Black Friday (-100 €)",
       "url": "https://www.iphon.fr/post/watch-series-11-en-or-perd-valeur-black-friday-100-euros",
       "publishedAt": "2026-11-20T10:41:20+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Amazon : les 100 offres les plus DINGUES de la Black Week, jusqu’à -67%, mises à jour toute la journée !",
-      "url": "https://www.clubic.com/bons-plans-639883-black-friday-2026-amazon-lance-sa-black-week-et-ca-commence-fort-avec-ces-100-offres-jusqu-a--67.html",
-      "publishedAt": "2026-11-20T10:37:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Signal bloque les captures pour tenir Gemini et Siri à distance",
-      "url": "https://korben.info/signal-bloque-captures-ecran-ia.html",
-      "publishedAt": "2026-11-20T10:36:02+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Black Friday : Rheidon baisse les prix de ses chargeurs pour voiture électrique",
-      "url": "https://www.mac4ever.com/auto/199052-black-friday-rheidon-baisse-les-prix-de-ses-chargeurs-pour-voiture-electrique",
-      "publishedAt": "2026-11-20T10:36:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday : la PlayPop 8 fait le plein de jeux et baisse son prix",
-      "url": "https://www.generation-nt.com/actualites/playpop-8-console-jeu-blackview-sans-manette-black-friday-2084484",
-      "publishedAt": "2026-11-20T10:32:39+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le Mac Studio M5 Max déjà en promo : économisez 300€ par rapport à l'Apple Store !",
-      "url": "https://www.mac4ever.com/mac/199169-le-mac-studio-m5-max-deja-en-promo-economisez-300-par-rapport-a-l-apple-store",
-      "publishedAt": "2026-11-20T10:32:17+00:00"
     },
     {
       "source": "boulet",
