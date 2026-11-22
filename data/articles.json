@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:40:45.796623+00:00",
+  "generatedAt": "2026-11-22T06:50:37.963247+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:40:45.796623+00:00"
+      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "À la TV ce soir : 3 films à regarder ce dimanche",
+      "url": "https://www.presse-citron.net/a-la-tv-ce-soir-3-films-a-regarder-ce-dimanche-146/",
+      "publishedAt": "2026-11-22T06:45:56+00:00"
+    },
     {
       "source": "clubic",
       "title": "ChatGPT, iPhone, navigateur : découvrez comment ESET étend sa protection aux nouveaux usages numériques",
@@ -163,7 +169,7 @@
       "source": "basketusa",
       "title": "Victor Wembanyama démolit les Pelicans : 50 points, 19 rebonds !",
       "url": "https://www.basketusa.com/news/959659/victor-wembanyama-demolit-les-pelicans-50-points-19-rebonds/",
-      "publishedAt": "2026-11-22T04:15:00+00:00"
+      "publishedAt": "2026-11-22T05:15:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -2510,18 +2516,6 @@
       "title": "La psychologie est formelle : les personnes qui laissent leurs notifications en non lues ont une façon bien à elles de gérer les interactions sociales",
       "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-laissent-leurs-notifications-en-non-lues-ont-une-facon-bien-a-elles-de-gerer-les-interactions-sociales/",
       "publishedAt": "2026-11-20T06:54:08+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Canva vous laisse couper l'IA générative",
-      "url": "https://korben.info/canva-vous-laisse-couper-lia-generative.html",
-      "publishedAt": "2026-11-20T06:46:54+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "USA : Attention, les banques refusent déjà d'assumer les pertes liées aux agents IA !",
-      "url": "https://www.generation-nt.com/actualites/banques-refusent-pertes-agents-ia-2084848",
-      "publishedAt": "2026-11-20T06:45:01+00:00"
     },
     {
       "source": "boulet",
