@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T07:30:54.862458+00:00",
+  "generatedAt": "2026-11-22T07:40:39.335463+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "tda",
@@ -118,9 +118,9 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/tda.png",
-      "ok": false,
-      "error": "<urlopen error timed out>",
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
+      "lastSuccessAt": "2026-11-22T07:40:39.335463+00:00"
     }
   ],
   "articles": [
@@ -520,6 +520,12 @@
       "publishedAt": "2026-11-21T14:31:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
+      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
+      "publishedAt": "2026-11-21T14:12:27+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Des scientifiques enferment des volontaires dans le noir face à un miroir pour traquer les spectres",
       "url": "https://www.generation-nt.com/actualites/scientifiques-miroir-traquer-spectres-2084636",
@@ -556,12 +562,6 @@
       "publishedAt": "2026-11-21T13:14:30+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
-      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
-      "publishedAt": "2026-11-21T13:12:27+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Des briques de régolithe façon Lego pour les bases lunaires",
       "url": "https://www.generation-nt.com/actualites/briques-lego-regolithe-base-lunaire-2084571",
@@ -596,6 +596,12 @@
       "title": "Au Heat, Giannis Antetokounmpo apprend à dominer autrement",
       "url": "https://www.basketusa.com/news/959544/au-heat-giannis-antetokounmpo-apprend-a-dominer-autrement/",
       "publishedAt": "2026-11-21T12:49:21+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T12:47:41+00:00"
     },
     {
       "source": "basketusa",
@@ -638,12 +644,6 @@
       "title": "GTA 6 : Où trouver le Bigfoot et le rencontrer ?",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-ou-trouver-le-bigfoot-et-le-rencontrer/",
       "publishedAt": "2026-11-21T12:02:43+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T11:47:41+00:00"
     },
     {
       "source": "basketusa",
@@ -2492,12 +2492,6 @@
       "title": "L'IA a provoqué des pannes massives chez Apple, les banques et la NSA",
       "url": "https://www.generation-nt.com/actualites/ia-pannes-massives-banques-nsa-2084839",
       "publishedAt": "2026-11-20T07:45:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Gemini apprend à son tour à contrôler le Mac en langage naturel",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/gemini-apprend-son-tour-controler-le-mac-en-langage-naturel-312535",
-      "publishedAt": "2026-11-20T07:34:31+00:00"
     },
     {
       "source": "boulet",
