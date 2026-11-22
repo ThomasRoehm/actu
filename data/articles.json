@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T05:50:38.560523+00:00",
+  "generatedAt": "2026-11-22T06:01:02.344196+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T05:50:38.560523+00:00"
+      "lastSuccessAt": "2026-11-22T06:01:02.344196+00:00"
     }
   ],
   "articles": [
@@ -154,6 +154,12 @@
       "publishedAt": "2026-11-21T22:39:39+00:00"
     },
     {
+      "source": "macg",
+      "title": "Notre livre dépasse les 80 000 € : l'impression est lancée, cap sur les 100 000 €",
+      "url": "https://www.macg.co/macgeneration/2026/11/notre-livre-depasse-les-80-000-eu-limpression-est-lancee-cap-sur-les-100-000-eu-312557",
+      "publishedAt": "2026-11-21T21:00:00+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "iMac vs Mac Mini, lequel choisir ?⎜ORLM-607",
       "url": "https://www.mac4ever.com/mac/199188-imac-vs-mac-mini-lequel-choisir-orlm-607",
@@ -161,7 +167,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Sixers survivent aux 50 points de Tyler Herro !",
+      "title": "Les Sixers survivent aux 50 points de Tyler Herro…",
       "url": "https://www.basketusa.com/news/959645/les-sixers-survivent-aux-50-points-de-tyler-herro/",
       "publishedAt": "2026-11-21T20:43:01+00:00"
     },
@@ -364,12 +370,6 @@
       "publishedAt": "2026-11-21T15:42:38+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Sparks proches d’une vente historique à 705 millions de dollars",
-      "url": "https://www.basketusa.com/news/959591/les-sparks-proches-dune-vente-historique-a-705-millions-de-dollars/",
-      "publishedAt": "2026-11-21T15:36:02+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Une seule bombe atomique en orbite pourrait-elle éteindre tous nos satellites ?",
       "url": "https://www.generation-nt.com/actualites/explosion-nucleaire-espace-destruction-satellites-estimation-2084598",
@@ -422,6 +422,12 @@
       "title": "90 % des dos-d’âne sont non-conformes en France : le gouvernement va légaliser ces ralentisseurs",
       "url": "https://www.presse-citron.net/90-des-dos-dane-sont-non-conformes-en-france-le-gouvernement-va-legaliser-ces-ralentisseurs/",
       "publishedAt": "2026-11-21T14:45:42+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Sparks proches d’une vente historique à 705 millions de dollars",
+      "url": "https://www.basketusa.com/news/959591/les-sparks-proches-dune-vente-historique-a-705-millions-de-dollars/",
+      "publishedAt": "2026-11-21T14:36:02+00:00"
     },
     {
       "source": "numerama",
@@ -854,12 +860,6 @@
       "title": "GTA 6 : Mandy est-elle une énorme psychopathe ? Vous avez sûrement raté ces indices",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-mandy-est-elle-une-enorme-psychopathe-vous-avez-surement-rate-ces-indices/",
       "publishedAt": "2026-11-21T08:00:41+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Notre livre dépasse les 80 000 € : l'impression est lancée, cap sur les 100 000 €",
-      "url": "https://www.macg.co/macgeneration/2026/11/notre-livre-depasse-les-80-000-eu-limpression-est-lancee-cap-sur-les-100-000-eu-312557",
-      "publishedAt": "2026-11-21T08:00:39+00:00"
     },
     {
       "source": "basketusa",
@@ -2570,18 +2570,6 @@
       "title": "Bientôt la fin des Anneaux de Pouvoir ? Les créateurs nous répondent",
       "url": "https://www.journaldugeek.com/2026/11/20/bientot-la-fin-des-anneaux-de-pouvoir-les-createurs-nous-repondent/",
       "publishedAt": "2026-11-20T06:04:34+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Un TikTok européen comme aux États-Unis : cette nouvelle initiative veut briser l’influence chinoise sur le Vieux Continent",
-      "url": "https://www.presse-citron.net/un-tiktok-europeen-comme-aux-etats-unis-cette-nouvelle-initiative-veut-briser-linfluence-chinoise-sur-le-vieux-continent/",
-      "publishedAt": "2026-11-20T06:00:30+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Apple préparerait son propre agent IA complet pour concurrencer ChatGPT",
-      "url": "https://www.clubic.com/actualite-640186-apple-preparerait-son-propre-agent-ia-complet-pour-concurrencer-chatgpt.html",
-      "publishedAt": "2026-11-20T06:00:00+00:00"
     },
     {
       "source": "boulet",
