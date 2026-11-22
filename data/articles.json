@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:30:59.706670+00:00",
+  "generatedAt": "2026-11-22T12:40:44.036932+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T12:30:59.706670+00:00"
+      "lastSuccessAt": "2026-11-22T12:40:44.036932+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "« Internet cessera de fonctionner sans explication » : attention, le service Quad9 coupe en France ce mardi, vérifiez si vous l’utilisez",
+      "url": "https://www.numerama.com/tech/2379931-internet-cessera-de-fonctionner-sans-explication-attention-le-service-quad9-coupe-en-france-ce-mardi-verifiez-si-vous-lutilisez.html",
+      "publishedAt": "2026-11-22T12:31:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Landry Shamet, le « sixième titulaire » des Knicks",
@@ -622,6 +628,12 @@
       "publishedAt": "2026-11-21T17:22:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "En NBA Cup, les Suns jouent jusqu’à la dernière seconde",
+      "url": "https://www.basketusa.com/news/959631/en-nba-cup-les-suns-jouent-jusqua-la-derniere-seconde/",
+      "publishedAt": "2026-11-21T17:21:49+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Deux Tesla en FSD bloquées, les mauvais élèves du contrôle technique allemand et les freins à l’achat : le récap Vroom de la semaine",
       "url": "https://www.numerama.com/vroom/2380109-deux-tesla-en-fsd-bloquees-les-mauvais-eleves-du-controle-technique-allemand-et-les-freins-a-lachat-le-recap-vroom-de-la-semaine.html",
@@ -686,12 +698,6 @@
       "title": "Black Friday : le robot aspirateur laveur Eureka J15 Max Ultra perd plus de la moitié de son prix",
       "url": "https://www.clubic.com/bons-plans-640096-black-friday-le-robot-aspirateur-laveur-eureka-j15-max-ultra-perd-plus-de-la-moitie-de-son-prix.html",
       "publishedAt": "2026-11-21T16:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "En NBA Cup, les Suns jouent jusqu’à la dernière seconde",
-      "url": "https://www.basketusa.com/news/959631/en-nba-cup-les-suns-jouent-jusqua-la-derniere-seconde/",
-      "publishedAt": "2026-11-21T16:21:49+00:00"
     },
     {
       "source": "clubic",
@@ -2030,18 +2036,6 @@
       "title": "GTA 6 : après Jason et Lucia tout nus, Cyberleek promet la version piratée du jeu complet pour le 23 novembre",
       "url": "https://www.journaldugeek.com/2026/11/20/gta-6-apres-jason-et-lucia-tout-nus-cyberleek-promet-la-version-piratee-du-jeu-complet-pour-le-23-novembre/",
       "publishedAt": "2026-11-20T12:41:04+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Pixmania lance sa Black Week : jusqu’à 50 € offerts sur la tech et le gaming",
-      "url": "https://www.generation-nt.com/actualites/pixmania-promos-black-friday-week-pc-gamer-deepgaming-ecran-oled-tv-samsung-camera-insta360-luna-ultra-aspirateur-dyson-2084880",
-      "publishedAt": "2026-11-20T12:40:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "AMD Zen 6 : Les PC portables servis au CES, mais les futurs Ryzen de bureau retardés ?",
-      "url": "https://www.clubic.com/actualite-640261-amd-zen-6-les-pc-portables-servis-au-ces-mais-les-futurs-ryzen-de-bureau-retardes.html",
-      "publishedAt": "2026-11-20T12:35:00+00:00"
     },
     {
       "source": "boulet",
