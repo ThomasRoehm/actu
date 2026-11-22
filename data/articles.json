@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:30:52.080071+00:00",
+  "generatedAt": "2026-11-22T17:40:46.202032+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T17:30:52.080071+00:00"
+      "lastSuccessAt": "2026-11-22T17:40:46.202032+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Sept membres d’un canal masculiniste sur Telegram jugés à Paris",
+      "url": "https://www.clubic.com/actualite-640483-sept-membres-d-un-canal-masculiniste-sur-telegram-juges-a-paris.html",
+      "publishedAt": "2026-11-22T17:35:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday LG : jusqu’à 300 € de remise sur 3 TV OLED et Mini LED pour jouer dans les meilleures conditions",
@@ -1736,24 +1742,6 @@
       "title": "Dillon Brooks peut attaquer avec les remplaçants de Phoenix",
       "url": "https://www.basketusa.com/news/959358/dillon-brooks-peut-attaquer-avec-les-remplacants-de-phoenix/",
       "publishedAt": "2026-11-20T17:41:22+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Comment El Niño bouleverse le climat : les explications d’un climatologue (VIDÉO)",
-      "url": "https://www.numerama.com/sciences/2380449-comment-el-nino-bouleverse-le-climat-les-explications-dun-climatologue-video.html",
-      "publishedAt": "2026-11-20T17:35:02+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le réseau PlayStation a subit des pannes majeures lors du lancement de Grand Theft Auto VI",
-      "url": "https://www.generation-nt.com/actualites/reseau-playstation-pannes-gta-vi-2084840",
-      "publishedAt": "2026-11-20T17:35:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Quand sortira GTA 6 sur PC ?",
-      "url": "https://www.journaldugeek.com/2026/11/20/pour-quand-la-sortie-de-gta-6-sur-pc/",
-      "publishedAt": "2026-11-20T17:32:33+00:00"
     },
     {
       "source": "boulet",
