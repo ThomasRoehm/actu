@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:50:37.963247+00:00",
+  "generatedAt": "2026-11-22T07:01:05.037551+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T06:50:37.963247+00:00"
+      "lastSuccessAt": "2026-11-22T07:01:05.037551+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday Amazon : les meilleures offres de la Black Week à saisir ce week-end, notre TOP 100 jusqu’à -67%",
+      "url": "https://www.clubic.com/bons-plans-640309-black-friday-amazon-les-meilleures-offres-de-la-black-week-a-saisir-ce-week-end-notre-top-100-jusqu-a--67.html",
+      "publishedAt": "2026-11-22T07:00:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Nvidia : quand Jensen Huang humiliait Arthur Mensch en public",
+      "url": "https://www.macg.co/video/2026/11/nvidia-quand-jensen-huang-humiliait-arthur-mensch-en-public-312565",
+      "publishedAt": "2026-11-22T06:50:05+00:00"
+    },
     {
       "source": "presse",
       "title": "À la TV ce soir : 3 films à regarder ce dimanche",
       "url": "https://www.presse-citron.net/a-la-tv-ce-soir-3-films-a-regarder-ce-dimanche-146/",
       "publishedAt": "2026-11-22T06:45:56+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Keegan Murray peut enfin allumer le « Beam » des Kings !",
+      "url": "https://www.basketusa.com/news/959670/keegan-murray-peut-enfin-allumer-le-beam-des-kings/",
+      "publishedAt": "2026-11-22T06:43:03+00:00"
     },
     {
       "source": "clubic",
@@ -268,22 +286,10 @@
       "publishedAt": "2026-11-21T17:22:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "En NBA Cup, les Suns jouent jusqu’à la dernière seconde",
-      "url": "https://www.basketusa.com/news/959631/en-nba-cup-les-suns-jouent-jusqua-la-derniere-seconde/",
-      "publishedAt": "2026-11-21T17:21:49+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Deux Tesla en FSD bloquées, les mauvais élèves du contrôle technique allemand et les freins à l’achat : le récap Vroom de la semaine",
       "url": "https://www.numerama.com/vroom/2380109-deux-tesla-en-fsd-bloquees-les-mauvais-eleves-du-controle-technique-allemand-et-les-freins-a-lachat-le-recap-vroom-de-la-semaine.html",
       "publishedAt": "2026-11-21T17:20:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Black Friday d'Amazon n'a pas encore commencé, mais ces 100 offres font déjà fondre les prix",
-      "url": "https://www.clubic.com/bons-plans-640309-black-friday-amazon-les-meilleures-offres-de-la-black-week-a-saisir-ce-week-end-notre-top-100-jusqu-a--67.html",
-      "publishedAt": "2026-11-21T17:13:00+00:00"
     },
     {
       "source": "gnt",
@@ -344,6 +350,12 @@
       "title": "Black Friday : le robot aspirateur laveur Eureka J15 Max Ultra perd plus de la moitié de son prix",
       "url": "https://www.clubic.com/bons-plans-640096-black-friday-le-robot-aspirateur-laveur-eureka-j15-max-ultra-perd-plus-de-la-moitie-de-son-prix.html",
       "publishedAt": "2026-11-21T16:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "En NBA Cup, les Suns jouent jusqu’à la dernière seconde",
+      "url": "https://www.basketusa.com/news/959631/en-nba-cup-les-suns-jouent-jusqua-la-derniere-seconde/",
+      "publishedAt": "2026-11-21T16:21:49+00:00"
     },
     {
       "source": "clubic",
@@ -460,12 +472,6 @@
       "publishedAt": "2026-11-21T14:31:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
-      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
-      "publishedAt": "2026-11-21T14:12:27+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Des scientifiques enferment des volontaires dans le noir face à un miroir pour traquer les spectres",
       "url": "https://www.generation-nt.com/actualites/scientifiques-miroir-traquer-spectres-2084636",
@@ -500,6 +506,12 @@
       "title": "🔴 Des rafales jusqu’à 180 km/h : une très violente tempête déferle sur la France ce dimanche",
       "url": "https://www.presse-citron.net/%f0%9f%94%b4-des-rafales-jusqua-180-km-h-une-tres-violente-tempete-deferle-sur-la-france-ce-dimanche/",
       "publishedAt": "2026-11-21T13:14:30+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
+      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
+      "publishedAt": "2026-11-21T13:12:27+00:00"
     },
     {
       "source": "gnt",
@@ -538,28 +550,10 @@
       "publishedAt": "2026-11-21T12:49:21+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T12:47:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "San Antonio Spurs – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959607/san-antonio-spurs-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T12:45:48+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Black Friday Switch 2 : n’attendez pas le 27, Amazon baisse déjà la console, les packs et les manettes",
       "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
       "publishedAt": "2026-11-21T12:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Miami Heat – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959611/miami-heat-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T12:43:29+00:00"
     },
     {
       "source": "clubic",
@@ -584,6 +578,24 @@
       "title": "GTA 6 : Où trouver le Bigfoot et le rencontrer ?",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-ou-trouver-le-bigfoot-et-le-rencontrer/",
       "publishedAt": "2026-11-21T12:02:43+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T11:47:41+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "San Antonio Spurs – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959607/san-antonio-spurs-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T11:45:48+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Miami Heat – Oklahoma City Thunder : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959611/miami-heat-oklahoma-city-thunder-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T11:43:29+00:00"
     },
     {
       "source": "basketusa",
@@ -2486,36 +2498,6 @@
       "title": "Black Friday Roborock : jusqu’à 500 € de réduction et des robots laveurs dès 299,99 € [Sponso]",
       "url": "https://www.numerama.com/tech/2371093-black-friday-roborock-jusqua-500-e-de-reduction-et-des-robots-laveurs-des-29999-e.html",
       "publishedAt": "2026-11-20T07:02:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Top Achat : jusqu'à 500 € de remise sur des PC gaming 1440p !",
-      "url": "https://www.generation-nt.com/actualites/pc-gamer-gaming-black-friday-top-achat-2084826",
-      "publishedAt": "2026-11-20T07:00:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Black Friday FlexiSpot : jusqu'à 320€ de remise et des commandes 100% remboursées !",
-      "url": "https://www.mac4ever.com/divers/198971-black-friday-flexispot-jusqu-a-320-de-remise-et-des-commandes-100-remboursees",
-      "publishedAt": "2026-11-20T06:59:40+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple met aujourd’hui fin à ce service historique vieux de 28 ans",
-      "url": "https://www.iphon.fr/post/fermeture-forums-apple-support-community-assistance",
-      "publishedAt": "2026-11-20T06:58:50+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "L'armée française commande 72 000 fusils HK416F de plus, et cette fois avec des silencieux",
-      "url": "https://www.clubic.com/actualite-640183-l-armee-francaise-commande-72-000-fusils-hk416f-de-plus-et-cette-fois-avec-des-silencieux.html",
-      "publishedAt": "2026-11-20T06:57:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "La psychologie est formelle : les personnes qui laissent leurs notifications en non lues ont une façon bien à elles de gérer les interactions sociales",
-      "url": "https://www.presse-citron.net/la-psychologie-est-formelle-les-personnes-qui-laissent-leurs-notifications-en-non-lues-ont-une-facon-bien-a-elles-de-gerer-les-interactions-sociales/",
-      "publishedAt": "2026-11-20T06:54:08+00:00"
     },
     {
       "source": "boulet",
