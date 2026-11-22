@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T15:10:37.533356+00:00",
+  "generatedAt": "2026-11-22T15:20:40.030970+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:10:37.533356+00:00"
+      "lastSuccessAt": "2026-11-22T15:20:40.030970+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Land Rover fait interdire la BYD Ti7 en Europe, trop proche du Defender",
+      "url": "https://www.mac4ever.com/auto/199192-land-rover-fait-interdire-la-byd-ti7-en-europe-trop-proche-du-defender",
+      "publishedAt": "2026-11-22T15:17:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Mike Conley rappelle qu’il n’est pas qu’un mentor",
+      "url": "https://www.basketusa.com/news/959774/mike-conley-rappelle-quil-nest-pas-quun-mentor/",
+      "publishedAt": "2026-11-22T15:12:31+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Et si demain, vous ne payiez plus vos logiciels, mais les agents IA qui les utilisent ? Le pari d'OVHcloud face à Microsoft et Google",
+      "url": "https://www.clubic.com/dossier-640330-et-si-demain-vous-ne-payiez-plus-vos-logiciels-mais-les-agents-ia-qui-les-utilisent-le-pari-d-ovhcloud-face-a-microsoft-et-google.html",
+      "publishedAt": "2026-11-22T15:12:00+00:00"
+    },
     {
       "source": "iphon",
       "title": "Les 11 meilleures coques haut de gamme, pour un iPhone protégé avec chic",
@@ -176,6 +194,18 @@
       "title": "Il y a 76 ans, les Pistons triomphent des Lakers sur le score de… 19-18",
       "url": "https://www.basketusa.com/news/459099/le-22-novembre-1950-les-pistons-battaient-les-lakers-sur-le-score-de-19-18/",
       "publishedAt": "2026-11-22T14:30:38+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Chicago Bulls – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959635/chicago-bulls-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-22T14:28:03+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959810/philadelphie-76ers-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-22T14:26:41+00:00"
     },
     {
       "source": "gnt",
@@ -430,6 +460,12 @@
       "publishedAt": "2026-11-22T09:10:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Jouer sa 20e saison NBA est « surréaliste » pour Al Horford",
+      "url": "https://www.basketusa.com/news/959733/jouer-sa-20e-saison-nba-est-surrealiste-pour-al-horford/",
+      "publishedAt": "2026-11-22T09:10:01+00:00"
+    },
+    {
       "source": "clubic",
       "title": "NVIDIA déploie un correctif pour stopper les écritures excessives sur les SSD",
       "url": "https://www.clubic.com/actualite-640456-nvidia-deploie-un-correctif-pour-stopper-les-ecritures-excessives-sur-les-ssd.html",
@@ -440,6 +476,12 @@
       "title": "Piratage de GTA 6, IPO d’Anthropic et Face Unlock sur iPhone Duo — le récap tech de la semaine",
       "url": "https://www.numerama.com/pop-culture/2380403-piratage-de-gta-6-ipo-danthropic-et-face-unlock-sur-iphone-duo-le-recap-tech-de-la-semaine.html",
       "publishedAt": "2026-11-22T09:07:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Test Cleaner One Pro de Trend Micro",
+      "url": "https://www.mac4ever.com/mac/198919-test-cleaner-one-pro",
+      "publishedAt": "2026-11-22T09:05:00+00:00"
     },
     {
       "source": "jdg",
@@ -494,12 +536,6 @@
       "title": "Black Friday 2026 : Amazon casse les prix de 8 montres GPS Suunto, Garmin et Amazfit jusqu’à -40%",
       "url": "https://www.clubic.com/bons-plans-638989-black-friday-top-7-des-meilleures-montres-connectees-a-saisir-chez-garmin-suunto-ou-amazfit.html",
       "publishedAt": "2026-11-22T08:15:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jouer sa 20e saison NBA est « surréaliste » pour Al Horford",
-      "url": "https://www.basketusa.com/news/959733/jouer-sa-20e-saison-nba-est-surrealiste-pour-al-horford/",
-      "publishedAt": "2026-11-22T08:10:01+00:00"
     },
     {
       "source": "gnt",
@@ -1856,12 +1892,6 @@
       "title": "Piratage confirmé : si vous utilisez cette app dédiée aux voitures électriques, vous êtes potentiellement concerné",
       "url": "https://www.presse-citron.net/piratage-app-voitures-electriques/",
       "publishedAt": "2026-11-20T15:23:37+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Black Friday a encore frappé, mais pas à la porte : la sonnette vidéo Ring 2K passe à 49,99€ sur Amazon",
-      "url": "https://www.clubic.com/bons-plans-640258-le-black-friday-a-encore-frappe-mais-pas-a-la-porte-la-sonnette-video-ring-2k-passe-a-49-99-sur-amazon.html",
-      "publishedAt": "2026-11-20T15:13:00+00:00"
     },
     {
       "source": "boulet",
