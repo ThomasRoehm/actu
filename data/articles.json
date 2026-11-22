@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T08:01:09.516549+00:00",
+  "generatedAt": "2026-11-22T08:10:45.378065+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:01:09.516549+00:00"
+      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Ces 7 films ont inspiré GTA 6 et vous devez absolument les voir",
+      "url": "https://www.journaldugeek.com/dossier/ces-7-films-ont-inspire-gta-6-et-vous-devez-absolument-les-voir/",
+      "publishedAt": "2026-11-22T08:04:41+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le buzzer-beater de la confiance pour Mikal Bridges",
+      "url": "https://www.basketusa.com/news/959674/le-buzzer-beater-de-la-confiance-pour-mikal-bridges/",
+      "publishedAt": "2026-11-22T07:57:03+00:00"
+    },
     {
       "source": "numerama",
       "title": "Les ambitions de DS et Alpine se heurtent au mur de la réalité",
@@ -2456,18 +2468,6 @@
       "title": "Gemini peut maintenant utiliser votre Mac à votre place",
       "url": "https://www.mac4ever.com/ia/199160-gemini-peut-maintenant-utiliser-votre-mac-a-votre-place",
       "publishedAt": "2026-11-20T08:12:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Farcall - Un PC de 1981 qui s'ouvre dans votre terminal",
-      "url": "https://korben.info/farcall-emulateur-dos-ssh.html",
-      "publishedAt": "2026-11-20T08:10:36+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Après les États-Unis, l’Europe veut aussi son TikTok sans la Chine",
-      "url": "https://www.journaldugeek.com/2026/11/20/apres-les-etats-unis-leurope-veut-aussi-son-tiktok-sans-la-chine/",
-      "publishedAt": "2026-11-20T08:02:53+00:00"
     },
     {
       "source": "boulet",
