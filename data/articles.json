@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T15:30:56.922272+00:00",
+  "generatedAt": "2026-11-22T15:40:38.765182+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T15:30:56.922272+00:00"
+      "lastSuccessAt": "2026-11-22T15:40:38.765182+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : Amazon casse les prix de 12 TV et vidéoprojecteurs, jusqu’à -41%",
+      "url": "https://www.clubic.com/bons-plans-636760-boulanger-n-attend-pas-le-27-novembre-et-lance-son-black-friday-sur-les-tv-oled-et-mini-led.html",
+      "publishedAt": "2026-11-22T15:36:00+00:00"
+    },
     {
       "source": "gnt",
       "title": "Des poissons coralliens déjouent les sombres prédictions climatiques",
@@ -152,6 +158,12 @@
       "title": "Lancement de GTA 6, Codes de triches, série Harry Potter qui se fait humilier, le recap Pop Culture de la semaine",
       "url": "https://www.numerama.com/tech/2380111-lancement-de-gta-6-codes-de-triches-serie-harry-potter-qui-se-fait-humilier-le-recap-pop-culture-de-la-semaine.html",
       "publishedAt": "2026-11-22T15:30:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "À la TV ce soir : 3 films à regarder ce dimanche 22 novembre 2026",
+      "url": "https://www.journaldugeek.com/2026/11/22/a-la-tv-ce-soir-3-films-a-regarder-ce-dimanche-22-novembre-2026/",
+      "publishedAt": "2026-11-22T15:28:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -221,9 +233,21 @@
     },
     {
       "source": "basketusa",
+      "title": "Chicago Bulls – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959635/chicago-bulls-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-22T14:28:03+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Philadelphie 76ers – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959810/philadelphie-76ers-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-22T14:26:41+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Houston Rockets – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959815/houston-rockets-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-22T14:24:03+00:00"
     },
     {
       "source": "gnt",
@@ -266,12 +290,6 @@
       "title": "[NCAA] Semaine 12 : Indiana en danger, terminé pour Ohio State, Utah seul invaincu",
       "url": "https://touchdownactu.com/361681/ncaa-semaine-12-indiana-en-danger-termine-pour-ohio-state-utah-seul-invaincu/",
       "publishedAt": "2026-11-22T13:34:09+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chicago Bulls – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959635/chicago-bulls-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-22T13:28:03+00:00"
     },
     {
       "source": "gnt",
@@ -1862,30 +1880,6 @@
       "title": "Black Friday : Amazon casse les prix des appareils Dyson, 7 offres jusqu’à -43%",
       "url": "https://www.clubic.com/bons-plans-637882-dyson-casse-les-prix-de-ses-aspirateurs-pour-le-black-friday-7-offres-jusqu-a--38.html",
       "publishedAt": "2026-11-20T15:43:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Panne Microsoft 365 : les excuses sont là",
-      "url": "https://www.mac4ever.com/divers/199175-panne-microsoft-365-les-excuses-sont-la",
-      "publishedAt": "2026-11-20T15:39:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Black Friday : Plaud affiche des offres exceptionnelles sur ses meilleurs produits",
-      "url": "https://www.presse-citron.net/black-friday-plaud-affiche-des-offres-exceptionnelles-sur-ses-meilleurs-produits/",
-      "publishedAt": "2026-11-20T15:34:24+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Après 260 jours d’absence, Yanic Konan-Niederhäuser retrouve les parquets",
-      "url": "https://www.basketusa.com/news/959225/apres-260-jours-dabsence-yanic-konan-niederhauser-retrouve-les-parquets/",
-      "publishedAt": "2026-11-20T15:32:08+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Erreur CE-108255-1 sur GTA 6 : comment régler le crash sur PS5 ?",
-      "url": "https://www.journaldugeek.com/2026/11/20/erreur-ce-108255-1-sur-gta-6-comment-regler-le-crash-sur-ps5/",
-      "publishedAt": "2026-11-20T15:31:44+00:00"
     },
     {
       "source": "boulet",
