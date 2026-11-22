@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T07:10:41.490813+00:00",
+  "generatedAt": "2026-11-22T07:20:42.894151+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:10:41.490813+00:00"
+      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Black Friday : jusqu'à 38 % de réduction sur les serrures connectées WELOCK !",
+      "url": "https://www.mac4ever.com/domotique/199161-black-friday-jusqu-a-38-de-reduction-sur-les-serrures-connectees-welock",
+      "publishedAt": "2026-11-22T07:20:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Le MVP de la nuit | Fallait pas fâcher Wemby !",
@@ -2492,12 +2498,6 @@
       "title": "Voici le guide officiel ultime de GTA 6",
       "url": "https://www.numerama.com/pop-culture/2379385-voici-le-guide-officiel-ultime-de-gta-6.html",
       "publishedAt": "2026-11-20T07:24:19+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "IEA : l'appétit électrique de l'IA menace de saturer les réseaux mondiaux dès 2030",
-      "url": "https://www.generation-nt.com/actualites/iea-rapport-datacenter-consommation-electricite-2084852",
-      "publishedAt": "2026-11-20T07:20:01+00:00"
     },
     {
       "source": "boulet",
