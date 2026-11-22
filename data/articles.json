@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:50:37.082445+00:00",
+  "generatedAt": "2026-11-22T14:01:02.067618+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T13:50:37.082445+00:00"
+      "lastSuccessAt": "2026-11-22T14:01:02.067618+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "On a ouvert Règne Delta, l’extension Pokémon qui fait du bien après la folie des 30 ans",
+      "url": "https://www.numerama.com/pop-culture/2378763-on-a-ouvert-regne-delta-lextension-pokemon-qui-fait-du-bien-apres-la-folie-des-30-ans.html",
+      "publishedAt": "2026-11-22T14:00:00+00:00"
+    },
     {
       "source": "tda",
       "title": "Colts : on ne reverra plus Alec Pierce en 2026",
@@ -358,12 +364,6 @@
       "publishedAt": "2026-11-22T09:10:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Jouer sa 20e saison NBA est « surréaliste » pour Al Horford",
-      "url": "https://www.basketusa.com/news/959733/jouer-sa-20e-saison-nba-est-surrealiste-pour-al-horford/",
-      "publishedAt": "2026-11-22T09:10:01+00:00"
-    },
-    {
       "source": "clubic",
       "title": "NVIDIA déploie un correctif pour stopper les écritures excessives sur les SSD",
       "url": "https://www.clubic.com/actualite-640456-nvidia-deploie-un-correctif-pour-stopper-les-ecritures-excessives-sur-les-ssd.html",
@@ -428,6 +428,12 @@
       "title": "Black Friday 2026 : Amazon casse les prix de 8 montres GPS Suunto, Garmin et Amazfit jusqu’à -40%",
       "url": "https://www.clubic.com/bons-plans-638989-black-friday-top-7-des-meilleures-montres-connectees-a-saisir-chez-garmin-suunto-ou-amazfit.html",
       "publishedAt": "2026-11-22T08:15:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jouer sa 20e saison NBA est « surréaliste » pour Al Horford",
+      "url": "https://www.basketusa.com/news/959733/jouer-sa-20e-saison-nba-est-surrealiste-pour-al-horford/",
+      "publishedAt": "2026-11-22T08:10:01+00:00"
     },
     {
       "source": "gnt",
@@ -1952,12 +1958,6 @@
       "title": "YOMY, ce robot français sert la pâtée de votre chat sans frigo et il reconnaît même sa tête !",
       "url": "https://www.journaldugeek.com/2026/11/20/yomy-ce-robot-francais-sert-la-patee-de-votre-chat-sans-frigo-et-il-reconnait-meme-sa-tete/",
       "publishedAt": "2026-11-20T14:03:47+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La Fnac fait baisser le Nothing Phone 4a de 50 € pour le Black Friday, coque et lanière comprises",
-      "url": "https://www.numerama.com/tech/2379693-la-fnac-fait-baisser-le-nothing-phone-4a-de-50-e-pour-le-black-friday-coque-et-laniere-comprises.html",
-      "publishedAt": "2026-11-20T14:00:00+00:00"
     },
     {
       "source": "boulet",
