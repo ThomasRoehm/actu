@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T08:10:45.378065+00:00",
+  "generatedAt": "2026-11-22T08:20:39.467357+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T08:10:45.378065+00:00"
+      "lastSuccessAt": "2026-11-22T08:20:39.467357+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Road-trip en Smart #3 Brabus sur 3000Km : sous-cotée, cette petite voiture électrique ?",
+      "url": "https://www.mac4ever.com/auto/198977-road-trip-en-smart-3-brabus-sur-3000km-sous-cotee-cette-petite-voiture-electrique",
+      "publishedAt": "2026-11-22T08:18:54+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 : Amazon casse les prix de 8 montres GPS Suunto, Garmin et Amazfit jusqu’à -40%",
+      "url": "https://www.clubic.com/bons-plans-638989-black-friday-top-7-des-meilleures-montres-connectees-a-saisir-chez-garmin-suunto-ou-amazfit.html",
+      "publishedAt": "2026-11-22T08:15:00+00:00"
+    },
     {
       "source": "jdg",
       "title": "Ces 7 films ont inspiré GTA 6 et vous devez absolument les voir",
@@ -146,6 +158,12 @@
       "title": "Le buzzer-beater de la confiance pour Mikal Bridges",
       "url": "https://www.basketusa.com/news/959674/le-buzzer-beater-de-la-confiance-pour-mikal-bridges/",
       "publishedAt": "2026-11-22T07:57:03+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Washington laisse Nvidia vendre 879 000 puces d'IA à des géants chinois liés à l'armée",
+      "url": "https://korben.info/washington-laisse-nvidia-vendre-879-000-puces-dia-a-des-geants-chinois-lies-a-larmee.html",
+      "publishedAt": "2026-11-22T07:56:34+00:00"
     },
     {
       "source": "numerama",
@@ -271,7 +289,7 @@
       "source": "basketusa",
       "title": "Victor Wembanyama démolit les Pelicans : 50 points, 19 rebonds !",
       "url": "https://www.basketusa.com/news/959659/victor-wembanyama-demolit-les-pelicans-50-points-19-rebonds/",
-      "publishedAt": "2026-11-22T05:15:00+00:00"
+      "publishedAt": "2026-11-22T04:15:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -2438,36 +2456,6 @@
       "title": "Anthropic s'envole à Wall Street avec une valorisation vertigineuse",
       "url": "https://www.generation-nt.com/actualites/anthropic-entree-bourse-nasdaq-intelligence-artificielle-action-2084871",
       "publishedAt": "2026-11-20T08:30:01+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le gouvernement français réorganise sa défense face à des cyberattaques historiques",
-      "url": "https://www.generation-nt.com/actualites/france-cyberattaque-intelligence-artificielle-reponse-lecornu-2084860",
-      "publishedAt": "2026-11-20T08:20:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Boulanger : jusqu’à 899 € de moins sur 13 offres tech, à J-8 du 27 novembre",
-      "url": "https://www.clubic.com/bons-plans-639232-black-friday-2026-boulanger-lance-deja-13-offres-tech-jusqu-a--45-rien-que-ca.html",
-      "publishedAt": "2026-11-20T08:19:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Dans GTA 6, tout est permis… sauf tromper Lucia et Jason, et ça fait jaser",
-      "url": "https://www.numerama.com/pop-culture/2379407-dans-gta-6-tout-est-permis-sauf-tromper-lucia-et-jason-et-ca-fait-jaser.html",
-      "publishedAt": "2026-11-20T08:17:59+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dejounte Murray chez les Suns ? Phoenix pose ses conditions",
-      "url": "https://www.basketusa.com/news/959149/les-suns-interesses-par-dejounte-murray-mais-pas-a-nimporte-quel-prix/",
-      "publishedAt": "2026-11-20T08:17:06+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Gemini peut maintenant utiliser votre Mac à votre place",
-      "url": "https://www.mac4ever.com/ia/199160-gemini-peut-maintenant-utiliser-votre-mac-a-votre-place",
-      "publishedAt": "2026-11-20T08:12:00+00:00"
     },
     {
       "source": "boulet",
