@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T07:20:42.894151+00:00",
+  "generatedAt": "2026-11-22T07:30:54.862458+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     },
     {
       "id": "tda",
@@ -118,8 +118,8 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/tda.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "<urlopen error timed out>",
       "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
     },
     {
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T07:20:42.894151+00:00"
+      "lastSuccessAt": "2026-11-22T07:30:54.862458+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Meta réévalue son objectif zéro émission nette pour 2030 avec l’essor de l’IA",
+      "url": "https://www.clubic.com/actualite-640441-meta-reevalue-son-objectif-zero-emission-nette-pour-2030-avec-l-essor-de-l-ia.html",
+      "publishedAt": "2026-11-22T07:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Samsung fait chuter le prix de ses TV Micro RGB pour le Black Friday : R95H ou R85H, lequel choisir ?",
+      "url": "https://www.clubic.com/actualite-640048-samsung-fait-chuter-le-prix-de-ses-tv-micro-rgb-pour-le-black-friday-r95h-ou-r85h-lequel-choisir.html",
+      "publishedAt": "2026-11-22T07:30:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Black Friday : jusqu'à 38 % de réduction sur les serrures connectées WELOCK !",
       "url": "https://www.mac4ever.com/domotique/199161-black-friday-jusqu-a-38-de-reduction-sur-les-serrures-connectees-welock",
       "publishedAt": "2026-11-22T07:20:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Mises à jour et téléchargements de la semaine",
+      "url": "https://www.generation-nt.com/actualites/logiciel-gratuit-software-free-telecharger-download-mise-jour-update-2084899",
+      "publishedAt": "2026-11-22T07:10:01+00:00"
     },
     {
       "source": "basketusa",
@@ -502,12 +520,6 @@
       "publishedAt": "2026-11-21T14:31:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
-      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
-      "publishedAt": "2026-11-21T14:12:27+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Des scientifiques enferment des volontaires dans le noir face à un miroir pour traquer les spectres",
       "url": "https://www.generation-nt.com/actualites/scientifiques-miroir-traquer-spectres-2084636",
@@ -544,6 +556,12 @@
       "publishedAt": "2026-11-21T13:14:30+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
+      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
+      "publishedAt": "2026-11-21T13:12:27+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Des briques de régolithe façon Lego pour les bases lunaires",
       "url": "https://www.generation-nt.com/actualites/briques-lego-regolithe-base-lunaire-2084571",
@@ -578,12 +596,6 @@
       "title": "Au Heat, Giannis Antetokounmpo apprend à dominer autrement",
       "url": "https://www.basketusa.com/news/959544/au-heat-giannis-antetokounmpo-apprend-a-dominer-autrement/",
       "publishedAt": "2026-11-21T12:49:21+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-21T12:47:41+00:00"
     },
     {
       "source": "basketusa",
@@ -626,6 +638,12 @@
       "title": "GTA 6 : Où trouver le Bigfoot et le rencontrer ?",
       "url": "https://www.journaldugeek.com/2026/11/21/gta-6-ou-trouver-le-bigfoot-et-le-rencontrer/",
       "publishedAt": "2026-11-21T12:02:43+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-21T11:47:41+00:00"
     },
     {
       "source": "basketusa",
@@ -2480,24 +2498,6 @@
       "title": "Gemini apprend à son tour à contrôler le Mac en langage naturel",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/gemini-apprend-son-tour-controler-le-mac-en-langage-naturel-312535",
       "publishedAt": "2026-11-20T07:34:31+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chris Finch furieux après un coup de sifflet qui coûte cher aux Wolves",
-      "url": "https://www.basketusa.com/news/959197/chris-finch-furieux-apres-un-coup-de-sifflet-qui-coute-cher-aux-wolves/",
-      "publishedAt": "2026-11-20T07:30:02+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : GEEKOM fait fondre le prix de ses mini-PC, jusqu’à 200 € de remise",
-      "url": "https://www.clubic.com/actualite-639838-black-friday-geekom-fait-fondre-le-prix-de-ses-mini-pc-jusqu-a-200-de-remise.html",
-      "publishedAt": "2026-11-20T07:30:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Voici le guide officiel ultime de GTA 6",
-      "url": "https://www.numerama.com/pop-culture/2379385-voici-le-guide-officiel-ultime-de-gta-6.html",
-      "publishedAt": "2026-11-20T07:24:19+00:00"
     },
     {
       "source": "boulet",
