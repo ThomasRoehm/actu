@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:40:36.956987+00:00",
+  "generatedAt": "2026-11-22T11:50:39.620611+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T11:40:36.956987+00:00"
+      "lastSuccessAt": "2026-11-22T11:50:39.620611+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 : 7 tablettes en promo chez Amazon, la Fnac et Boulanger, jusqu’à -38%",
+      "url": "https://www.clubic.com/bons-plans-639220-black-friday-ipad-lenovo-samsung-les-tablettes-en-promo-chez-amazon-la-fnac-et-boulanger-de-139-a-457.html",
+      "publishedAt": "2026-11-22T11:40:00+00:00"
+    },
     {
       "source": "iphon",
       "title": "On le trouvait trop cher, le dernier Mac Mini M6 perd jusqu’à 160 € au Black Friday",
@@ -280,12 +286,6 @@
       "publishedAt": "2026-11-22T09:10:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Jouer sa 20e saison NBA est « surréaliste » pour Al Horford",
-      "url": "https://www.basketusa.com/news/959733/jouer-sa-20e-saison-nba-est-surrealiste-pour-al-horford/",
-      "publishedAt": "2026-11-22T09:10:01+00:00"
-    },
-    {
       "source": "clubic",
       "title": "NVIDIA déploie un correctif pour stopper les écritures excessives sur les SSD",
       "url": "https://www.clubic.com/actualite-640456-nvidia-deploie-un-correctif-pour-stopper-les-ecritures-excessives-sur-les-ssd.html",
@@ -350,6 +350,12 @@
       "title": "Black Friday 2026 : Amazon casse les prix de 8 montres GPS Suunto, Garmin et Amazfit jusqu’à -40%",
       "url": "https://www.clubic.com/bons-plans-638989-black-friday-top-7-des-meilleures-montres-connectees-a-saisir-chez-garmin-suunto-ou-amazfit.html",
       "publishedAt": "2026-11-22T08:15:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jouer sa 20e saison NBA est « surréaliste » pour Al Horford",
+      "url": "https://www.basketusa.com/news/959733/jouer-sa-20e-saison-nba-est-surrealiste-pour-al-horford/",
+      "publishedAt": "2026-11-22T08:10:01+00:00"
     },
     {
       "source": "gnt",
@@ -598,12 +604,6 @@
       "publishedAt": "2026-11-21T17:22:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "En NBA Cup, les Suns jouent jusqu’à la dernière seconde",
-      "url": "https://www.basketusa.com/news/959631/en-nba-cup-les-suns-jouent-jusqua-la-derniere-seconde/",
-      "publishedAt": "2026-11-21T17:21:49+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Deux Tesla en FSD bloquées, les mauvais élèves du contrôle technique allemand et les freins à l’achat : le récap Vroom de la semaine",
       "url": "https://www.numerama.com/vroom/2380109-deux-tesla-en-fsd-bloquees-les-mauvais-eleves-du-controle-technique-allemand-et-les-freins-a-lachat-le-recap-vroom-de-la-semaine.html",
@@ -670,6 +670,12 @@
       "publishedAt": "2026-11-21T16:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "En NBA Cup, les Suns jouent jusqu’à la dernière seconde",
+      "url": "https://www.basketusa.com/news/959631/en-nba-cup-les-suns-jouent-jusqua-la-derniere-seconde/",
+      "publishedAt": "2026-11-21T16:21:49+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Claude aide un chercheur à proposer une preuve de l’hypothèse de Riemann",
       "url": "https://www.clubic.com/actualite-640423-claude-aide-un-chercheur-a-proposer-une-preuve-de-l-hypothese-de-riemann.html",
@@ -686,12 +692,6 @@
       "title": "Downie ou 4K Video Downloader Plus : quel téléchargeur vidéo choisir sur Mac avant le Black Friday ?",
       "url": "https://www.macg.co/services/2026/11/downie-ou-4k-video-downloader-plus-quel-telechargeur-video-choisir-sur-mac-avant-le-black-friday-312145",
       "publishedAt": "2026-11-21T16:10:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Wolves et les Grizzlies en compétition pour passer à l’Est en cas d’expansion",
-      "url": "https://www.basketusa.com/news/959622/les-wolves-et-les-grizzlies-en-competition-pour-passer-a-lest-en-cas-dexpansion/",
-      "publishedAt": "2026-11-21T16:05:27+00:00"
     },
     {
       "source": "numerama",
@@ -740,6 +740,12 @@
       "title": "Des tielles à Sète aux candidats à la présidentielle, tout le monde a surfé sur GTA 6",
       "url": "https://www.clubic.com/actualite-640417-des-tielles-a-sete-aux-candidats-a-la-presidentielle-tout-le-monde-a-surfe-sur-la-vague-gta-6.html",
       "publishedAt": "2026-11-21T15:25:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Wolves et les Grizzlies en compétition pour passer à l’Est en cas d’expansion",
+      "url": "https://www.basketusa.com/news/959622/les-wolves-et-les-grizzlies-en-competition-pour-passer-a-lest-en-cas-dexpansion/",
+      "publishedAt": "2026-11-21T15:05:27+00:00"
     },
     {
       "source": "iphon",
@@ -2072,18 +2078,6 @@
       "title": "Après le pass Navigo sur smartphone, Île-de-France Mobilités ressort une promesse vieille de dix ans",
       "url": "https://www.journaldugeek.com/2026/11/20/apres-le-pass-navigo-sur-smartphone-ile-de-france-mobilites-ressort-une-promesse-vieille-de-dix-ans/",
       "publishedAt": "2026-11-20T12:00:26+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Bouygues Telecom sort une Bbox Black Friday à 29,99€ + mise en service offerte jusqu'au 30/11 !",
-      "url": "https://www.generation-nt.com/actualites/bouygues-telecom-bbox-black-friday-box-fibre-pas-cher-haut-debit-decodeur-tv-4k-wifi-6e-2084812",
-      "publishedAt": "2026-11-20T11:50:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "La guerre se rapproche : un missile russe frappe la Pologne, les habitants appelés à se mettre à l’abri",
-      "url": "https://www.presse-citron.net/la-guerre-se-rapproche-un-missile-russe-frappe-la-pologne-les-habitants-appeles-a-se-mettre-a-labri/",
-      "publishedAt": "2026-11-20T11:42:22+00:00"
     },
     {
       "source": "boulet",
