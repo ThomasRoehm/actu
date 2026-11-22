@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T16:30:53.054411+00:00",
+  "generatedAt": "2026-11-22T16:40:37.863325+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T16:30:53.054411+00:00"
+      "lastSuccessAt": "2026-11-22T16:40:37.863325+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Tesla passe au FSD v15 avec une visualisation 3D inédite et des promesses de sécurité (mais évidemment pas en Europe)",
+      "url": "https://www.macg.co/mobilites/2026/11/tesla-passe-au-fsd-v15-avec-une-visualisation-3d-inedite-et-des-promesses-de-securite-mais-evidemment-pas-en-europe-312571",
+      "publishedAt": "2026-11-22T16:30:13+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : CyberGhost VPN chute à 1,99 €/mois (soit plus de 83 % de remise !)",
       "url": "https://www.clubic.com/bons-plans-640204-black-friday-cyberghost-vpn-chute-a-1-99-mois-soit-plus-de-83-de-remise.html",
       "publishedAt": "2026-11-22T16:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La folie GTA VI rapporte 1,5 million de dollars au Heat",
+      "url": "https://www.basketusa.com/news/959804/la-folie-gta-vi-rapporte-15-million-de-dollars-au-heat/",
+      "publishedAt": "2026-11-22T16:27:40+00:00"
     },
     {
       "source": "mac4ever",
@@ -1784,12 +1796,6 @@
       "title": "Pourquoi l’affiche du film sur OpenAI ressemble-t-elle à une image ratée par IA ?",
       "url": "https://www.mac4ever.com/ia/199178-pourquoi-l-affiche-du-film-sur-openai-ressemble-t-elle-a-une-image-ratee-par-ia",
       "publishedAt": "2026-11-20T16:42:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Elon Musk investit dans Skydance et relance le débat sur l’avenir de Warner Bros",
-      "url": "https://www.journaldugeek.com/2026/11/20/elon-musk-investit-dans-skydance-et-relance-le-debat-sur-lavenir-de-warner-bros/",
-      "publishedAt": "2026-11-20T16:34:25+00:00"
     },
     {
       "source": "boulet",
