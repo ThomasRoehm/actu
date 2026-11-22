@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T10:20:39.101979+00:00",
+  "generatedAt": "2026-11-22T10:30:58.720228+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     },
     {
       "id": "mac4ever",
@@ -85,8 +85,8 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/mac4ever.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "The read operation timed out",
       "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
     },
     {
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T10:20:39.101979+00:00"
+      "lastSuccessAt": "2026-11-22T10:30:58.720228+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : le Samsung Galaxy S26 Ultra de 256 Go passe à 1 039 € chez Joybuy",
+      "url": "https://www.clubic.com/bons-plans-640201-black-friday-le-samsung-galaxy-s26-ultra-de-256-go-passe-a-1-039-chez-joybuy.html",
+      "publishedAt": "2026-11-22T10:27:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Switch 2 : n’attendez pas le 27, Amazon baisse déjà la console, les packs et les manettes",
+      "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
+      "publishedAt": "2026-11-22T10:23:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les radiotélescopes révèlent les secrets d'un duo de naines rouges",
+      "url": "https://www.generation-nt.com/actualites/dg-cvn-naines-rouges-astronomie-2084785",
+      "publishedAt": "2026-11-22T10:10:01+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Le Herro malheureux d’une soirée à 50 points",
@@ -776,12 +794,6 @@
       "title": "San Antonio Spurs – New Orleans Pelicans : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959607/san-antonio-spurs-new-orleans-pelicans-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-21T12:45:48+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Switch 2 : n’attendez pas le 27, Amazon baisse déjà la console, les packs et les manettes",
-      "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
-      "publishedAt": "2026-11-21T12:45:00+00:00"
     },
     {
       "source": "basketusa",
@@ -1478,12 +1490,6 @@
       "title": "Volkswagen dépose le nom ID. Up pour sa petite électrique à 20 000 euros",
       "url": "https://www.mac4ever.com/auto/199181-volkswagen-depose-le-nom-id-up-pour-sa-petite-electrique-a-20-000-euros",
       "publishedAt": "2026-11-20T16:20:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : le Samsung Galaxy S26 Ultra de 256 Go passe à 1 039 € chez Joybuy",
-      "url": "https://www.clubic.com/bons-plans-640201-black-friday-le-samsung-galaxy-s26-ultra-de-256-go-passe-a-1-039-chez-joybuy.html",
-      "publishedAt": "2026-11-20T16:18:00+00:00"
     },
     {
       "source": "basketusa",
@@ -2186,54 +2192,6 @@
       "title": "Le Mac Studio M5 Max déjà en promo : économisez 300€ par rapport à l'Apple Store !",
       "url": "https://www.mac4ever.com/mac/199169-le-mac-studio-m5-max-deja-en-promo-economisez-300-par-rapport-a-l-apple-store",
       "publishedAt": "2026-11-20T10:32:17+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : voici la liste complète des 55 trophées (même les trophées masqués)",
-      "url": "https://www.journaldugeek.com/2026/11/20/gta-6-voici-la-liste-complete-des-55-trophees-meme-les-trophees-masques/",
-      "publishedAt": "2026-11-20T10:30:50+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday E.Leclerc : le coup d'envoi est donné jusqu'au 30 novembre !",
-      "url": "https://www.generation-nt.com/actualites/leclerc-promos-black-friday-station-electrique-fossibot-aspirateur-tineco-rowenta-moulinex-cookeo-manette-dualsense-chaise-sihoo-2084833",
-      "publishedAt": "2026-11-20T10:30:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Muse Charm : le gadget IA de Meta à 300 dollars pour se passer d'iPhone",
-      "url": "https://www.mac4ever.com/ia/199164-muse-charm-le-gadget-ia-de-meta-a-300-dollars-pour-se-passer-d-iphone",
-      "publishedAt": "2026-11-20T10:28:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Windows 11 va vous alerter sur les failles de sécurité connues de vos logiciels et pilotes",
-      "url": "https://www.clubic.com/actualite-640246-windows-11-va-vous-alerter-sur-les-failles-de-securite-connues-de-vos-logiciels-et-pilotes.html",
-      "publishedAt": "2026-11-20T10:26:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Microsoft va abandonner son gestionnaire de tâches To Do et ne propose pas de remplaçant",
-      "url": "https://www.macg.co/logiciels/2026/11/microsoft-va-abandonner-son-gestionnaire-des-taches-do-et-ne-propose-pas-de-remplacant-312539",
-      "publishedAt": "2026-11-20T10:26:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Ce vélo électrique n’a ni batterie, ni chargeur, ni prise, et plus de 1 500 exemplaires roulent déjà en France",
-      "url": "https://www.journaldugeek.com/2026/11/20/ce-velo-electrique-na-ni-batterie-ni-chargeur-ni-prise-et-plus-de-1-500-exemplaires-roulent-deja-en-france/",
-      "publishedAt": "2026-11-20T10:24:29+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 sur PC : entre la build Cyberleek et les extractions PS5, la pression s’accentue pour Rockstar",
-      "url": "https://www.numerama.com/pop-culture/2379627-gta-6-sur-pc-entre-la-build-cyberleek-et-les-extractions-ps5-la-pression-saccentue-pour-rockstar.html",
-      "publishedAt": "2026-11-20T10:22:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Matas Buzelis retrouve des couleurs avec l’absence de Caleb Wilson",
-      "url": "https://www.basketusa.com/news/959265/matas-buzelis-retrouve-des-couleurs-avec-labsence-de-caleb-wilson/",
-      "publishedAt": "2026-11-20T10:21:08+00:00"
     },
     {
       "source": "boulet",
