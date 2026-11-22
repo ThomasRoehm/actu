@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T09:50:41.331856+00:00",
+  "generatedAt": "2026-11-22T10:01:02.885781+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T09:50:41.331856+00:00"
+      "lastSuccessAt": "2026-11-22T10:01:02.885781+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Florence Pugh, Kristen Stewart… Quelle James Bond girl pour accompagner Robert Pattinson ?",
+      "url": "https://www.numerama.com/pop-culture/2380049-quelle-james-bond-girl-pour-accompagner-robert-pattinson.html",
+      "publishedAt": "2026-11-22T10:00:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Pas de panique aux Celtics malgré une troisième défaite de suite",
       "url": "https://www.basketusa.com/news/959705/pas-de-panique-aux-celtics-malgre-une-3e-defaite-de-suite/",
       "publishedAt": "2026-11-22T09:36:11+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday RED by SFR : le forfait Voyage 250 Go en 5G chute à 12,99 €/mois jusqu’au 30/11",
+      "url": "https://www.generation-nt.com/actualites/red-by-sfr-forfait-mobile-sans-engagement-pas-cher-black-friday-250-go-5g-voyage-international-2084855",
+      "publishedAt": "2026-11-22T09:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -212,6 +224,12 @@
       "title": "À Minnesota, LaMelo Ball « défend vraiment ! »",
       "url": "https://www.basketusa.com/news/959685/a-minnesota-lamelo-ball-defend-vraiment/",
       "publishedAt": "2026-11-22T08:45:32+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Kings savourent enfin leur première victoire à domicile",
+      "url": "https://www.basketusa.com/news/959695/les-kings-savourent-enfin-leur-premiere-victoire-a-domicile/",
+      "publishedAt": "2026-11-22T08:21:32+00:00"
     },
     {
       "source": "mac4ever",
@@ -290,12 +308,6 @@
       "title": "Samsung fait chuter le prix de ses TV Micro RGB pour le Black Friday : R95H ou R85H, lequel choisir ?",
       "url": "https://www.clubic.com/actualite-640048-samsung-fait-chuter-le-prix-de-ses-tv-micro-rgb-pour-le-black-friday-r95h-ou-r85h-lequel-choisir.html",
       "publishedAt": "2026-11-22T07:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Kings savourent enfin leur première victoire à domicile",
-      "url": "https://www.basketusa.com/news/959695/les-kings-savourent-enfin-leur-premiere-victoire-a-domicile/",
-      "publishedAt": "2026-11-22T07:21:32+00:00"
     },
     {
       "source": "mac4ever",
@@ -2264,42 +2276,6 @@
       "title": "Votre iPhone est plein ? Archivez vos photos et vidéos sur Mac ou SSD pour le Black Friday (-62%)",
       "url": "https://www.mac4ever.com/mac/198999-votre-iphone-est-plein-archivez-vos-photos-et-videos-sur-mac-ou-ssd-pour-le-black-friday-62",
       "publishedAt": "2026-11-20T10:01:24+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La adidas A.E. 3 « Aurora » garde le rythme",
-      "url": "https://www.basketusa.com/news/959133/la-adidas-a-e-3-aurora-garde-le-rythme/",
-      "publishedAt": "2026-11-20T09:58:20+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Après le piratage du fisc et des frigos, Sébastien Lecornu dévoile son plan de cybersécurité pour la France",
-      "url": "https://www.clubic.com/actualite-640228-apres-le-piratage-du-fisc-et-des-frigos-sebastien-lecornu-devoile-son-plan-de-cybersecurite-pour-la-france.html",
-      "publishedAt": "2026-11-20T09:57:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Chiffrement Apple : un tribunal oblige Londres à sortir du silence",
-      "url": "https://www.mac4ever.com/securite/199163-chiffrement-apple-un-tribunal-oblige-londres-a-sortir-du-silence",
-      "publishedAt": "2026-11-20T09:55:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 est déjà jouable à la première personne grâce à cette astuce",
-      "url": "https://www.numerama.com/pop-culture/2379571-gta-6-est-deja-jouable-a-la-premiere-personne-grace-a-cette-astuce.html",
-      "publishedAt": "2026-11-20T09:54:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Carte bancaire : adieu le code à 4 chiffres, voici la technique qui le remplace dès aujourd’hui en France",
-      "url": "https://www.presse-citron.net/carte-bancaire-adieu-le-code-a-4-chiffres-voici-la-technique-qui-le-remplace-des-aujourdhui-en-france/",
-      "publishedAt": "2026-11-20T09:51:22+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Black Friday : l’iPhone 17 Pro coûte 20 € de moins que l’iPhone 17 chez ce marchand qui mérite une ovation",
-      "url": "https://www.iphon.fr/post/black-friday-iphone-17-pro-moins-cher-iphone-17",
-      "publishedAt": "2026-11-20T09:51:15+00:00"
     },
     {
       "source": "boulet",
