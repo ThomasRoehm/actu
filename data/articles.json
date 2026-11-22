@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:50:39.977521+00:00",
+  "generatedAt": "2026-11-22T20:01:04.843324+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-22T19:50:39.977521+00:00"
+      "lastSuccessAt": "2026-11-22T20:01:04.843324+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Apple va vite, mais la concurrence encore plus et c’est un souci : la semaine Apple",
+      "url": "https://www.macg.co/aapl/2026/11/apple-va-vite-mais-la-concurrence-encore-plus-et-cest-un-souci-la-semaine-apple-312575",
+      "publishedAt": "2026-11-22T19:50:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Cade Cunningham et les Pistons à l’affiche dès 21h30",
+      "url": "https://www.basketusa.com/news/959832/programme-du-soir-cade-cunningham-et-les-pistons-a-laffiche-des-21h30/",
+      "publishedAt": "2026-11-22T19:30:38+00:00"
+    },
     {
       "source": "clubic",
       "title": "Amazon frappe fort pour le Black Friday avec le Google Pixel 11 qui perd 400 € sur son prix",
@@ -388,6 +400,12 @@
       "publishedAt": "2026-11-22T14:26:41+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Houston Rockets – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959815/houston-rockets-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-22T14:24:03+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Des scientifiques réussissent à cultiver des pommes de terre dans du sol lunaire simulé",
       "url": "https://www.generation-nt.com/actualites/pommes-terre-sol-lunaire-simule-2084889",
@@ -428,12 +446,6 @@
       "title": "[NCAA] Semaine 12 : Indiana en danger, terminé pour Ohio State, Utah seul invaincu",
       "url": "https://touchdownactu.com/361681/ncaa-semaine-12-indiana-en-danger-termine-pour-ohio-state-utah-seul-invaincu/",
       "publishedAt": "2026-11-22T13:34:09+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Houston Rockets – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959815/houston-rockets-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-22T13:24:03+00:00"
     },
     {
       "source": "gnt",
