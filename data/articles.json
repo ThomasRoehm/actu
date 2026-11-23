@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:10:40.879142+00:00",
+  "generatedAt": "2026-11-23T16:20:37.824928+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
+      "lastSuccessAt": "2026-11-23T16:20:37.824928+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday coupe le cordon : la souris gaming sans fil Logitech G502 X PLUS passe à 79,99€ chez Amazon",
+      "url": "https://www.clubic.com/bons-plans-640552-le-black-friday-coupe-le-cordon-la-souris-gaming-sans-fil-logitech-g502-x-plus-passe-a-79-99-chez-amazon.html",
+      "publishedAt": "2026-11-23T16:15:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Sauvegardes cassées, missions bloquées... GTA 6 reçoit son premier patch depuis sa sortie sur PS5 et Xbox",
@@ -154,10 +160,22 @@
       "publishedAt": "2026-11-23T16:06:02+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Coup dur pour Nolan Traoré, sur le flanc au moins deux mois !",
+      "url": "https://www.basketusa.com/news/961044/coup-dur-pour-nolan-traore-sur-le-flanc-au-moins-deux-mois/",
+      "publishedAt": "2026-11-23T16:04:45+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Kodak SlideTag : allez-vous craquer pour ce mini cadre photo numérique qui sert aussi de tracker ?",
       "url": "https://www.mac4ever.com/culture/199219-kodak-slidetag-allez-vous-craquer-pour-ce-mini-cadre-photo-numerique-qui-sert-aussi-de-tracker",
       "publishedAt": "2026-11-23T16:02:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "En Chine l’arrivée des panneaux solaires a même fait reculer le désert",
+      "url": "https://www.journaldugeek.com/2026/11/23/en-chine-larrivee-des-panneaux-solaires-a-meme-fait-reculer-le-desert/",
+      "publishedAt": "2026-11-23T16:01:07+00:00"
     },
     {
       "source": "presse",
@@ -539,12 +557,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Walter Clayton Jr. a trouvé son point de chute à Dallas",
-      "url": "https://www.basketusa.com/news/959860/walter-clayton-jr-a-trouve-son-point-de-chute-a-dallas/",
-      "publishedAt": "2026-11-23T13:27:58+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
       "publishedAt": "2026-11-23T13:25:21+00:00"
@@ -656,6 +668,12 @@
       "title": "Black Friday : 10 € de remise sur UPDF 3.0, l'éditeur PDF qui fait aussi signer vos contrats",
       "url": "https://www.macg.co/services/2026/11/black-friday-10-eu-de-remise-sur-updf-30-lediteur-pdf-qui-fait-aussi-signer-vos-contrats-312569",
       "publishedAt": "2026-11-23T12:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Walter Clayton Jr. a trouvé son point de chute à Dallas",
+      "url": "https://www.basketusa.com/news/959860/walter-clayton-jr-a-trouve-son-point-de-chute-a-dallas/",
+      "publishedAt": "2026-11-23T12:27:58+00:00"
     },
     {
       "source": "macg",
@@ -1384,6 +1402,12 @@
       "publishedAt": "2026-11-23T08:02:41+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Gabe Vincent vient renforcer les Kings",
+      "url": "https://www.basketusa.com/news/959853/gabe-vincent-vient-renforcer-les-kings/",
+      "publishedAt": "2026-11-23T07:57:17+00:00"
+    },
+    {
       "source": "korben",
       "title": "Data centers, l'Irlande en avale 22 % de son électricité et dit stop",
       "url": "https://korben.info/data-centers-lirlande-en-avale-22-de-son-electricite-et-dit-stop.html",
@@ -1472,12 +1496,6 @@
       "title": "Après les dérapages de ses IA, OpenAI veut pouvoir les arrêter plus vite",
       "url": "https://www.journaldugeek.com/2026/11/23/apres-les-derapages-de-ses-ia-openai-veut-pouvoir-les-arreter-plus-vite/",
       "publishedAt": "2026-11-23T06:57:59+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Gabe Vincent vient renforcer les Kings",
-      "url": "https://www.basketusa.com/news/959853/gabe-vincent-vient-renforcer-les-kings/",
-      "publishedAt": "2026-11-23T06:57:17+00:00"
     },
     {
       "source": "korben",
@@ -2546,18 +2564,6 @@
       "title": "Black Friday : le robot aspirateur laveur Eureka J15 Max Ultra perd plus de la moitié de son prix",
       "url": "https://www.clubic.com/bons-plans-640096-black-friday-le-robot-aspirateur-laveur-eureka-j15-max-ultra-perd-plus-de-la-moitie-de-son-prix.html",
       "publishedAt": "2026-11-21T16:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Claude aide un chercheur à proposer une preuve de l’hypothèse de Riemann",
-      "url": "https://www.clubic.com/actualite-640423-claude-aide-un-chercheur-a-proposer-une-preuve-de-l-hypothese-de-riemann.html",
-      "publishedAt": "2026-11-21T16:15:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Apple ferme ses forums aujourd’hui : comment sauvegarder leur contenu avant qu’il ne soit trop tard ?",
-      "url": "https://www.macg.co/aapl/2026/11/apple-ferme-ses-forums-aujourdhui-comment-sauvegarder-leur-contenu-avant-quil-ne-soit-trop-tard-312549",
-      "publishedAt": "2026-11-21T16:12:08+00:00"
     },
     {
       "source": "boulet",
