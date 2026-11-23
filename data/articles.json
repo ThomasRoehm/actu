@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:40:42.921616+00:00",
+  "generatedAt": "2026-11-23T13:50:38.533958+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T13:40:42.921616+00:00"
+      "lastSuccessAt": "2026-11-23T13:50:38.533958+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Suivez en direct le 10e tir de la fusée Ariane 6 dans sa version surpuissante pour lancer 36 satellites d’un coup",
+      "url": "https://www.numerama.com/sciences/2375399-suivez-en-direct-le-10e-tir-de-la-fusee-ariane-6-dans-sa-version-surpuissante-pour-lancer-36-satellites-dun-coup.html",
+      "publishedAt": "2026-11-23T13:49:42+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "GTA 7 : et si la suite arrivait bien plus vite que prévu ?",
+      "url": "https://www.mac4ever.com/gaming/199220-gta-7-et-si-la-suite-arrivait-bien-plus-vite-que-prevu",
+      "publishedAt": "2026-11-23T13:46:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "L'Apple Watch Ultra 4 est déjà en promo : -90€ par rapport à l'Apple Store, son meilleur prix !",
+      "url": "https://www.mac4ever.com/watch/199222-l-apple-watch-ultra-4-est-deja-en-promo-90-par-rapport-a-l-apple-store-son-meilleur-prix",
+      "publishedAt": "2026-11-23T13:45:10+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Samsung : un grand bouleversement en vue dans la gamme de montres connectées ?",
+      "url": "https://www.clubic.com/actualite-640600-samsung-un-grand-bouleversement-en-vue-dans-la-gamme-de-montres-connectees.html",
+      "publishedAt": "2026-11-23T13:44:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday PS5 : console, jeux, manettes, les offres qui valent vraiment le coup",
@@ -164,6 +188,12 @@
       "title": "GTA VI sur Nintendo Switch 2 : Digital Foundry juge le portage impossible !",
       "url": "https://www.generation-nt.com/actualites/gta-vi-switch-digital-foundry-2084921",
       "publishedAt": "2026-11-23T13:25:01+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Signal empêche les IA de lire vos messages par-dessus votre épaule",
+      "url": "https://korben.info/signal-empeche-les-ia-de-lire-vos-messages-par-dessus-votre-epaule.html",
+      "publishedAt": "2026-11-23T13:21:48+00:00"
     },
     {
       "source": "clubic",
@@ -242,6 +272,12 @@
       "title": "Kim Jong Un change d’approche : fini la suprématie en Corée du Nord, « la situation actuelle entraîne un changement important dans notre compréhension de la souveraineté »",
       "url": "https://www.presse-citron.net/kim-jong-un-change-dapproche-fini-la-suprematie-en-coree-du-nord-la-situation-actuelle-entraine-un-changement-important-dans-notre-comprehension-de-la-souverainete/",
       "publishedAt": "2026-11-23T12:30:45+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : 10 € de remise sur UPDF 3.0, l'éditeur PDF qui fait aussi signer vos contrats",
+      "url": "https://www.macg.co/services/2026/11/black-friday-10-eu-de-remise-sur-updf-30-lediteur-pdf-qui-fait-aussi-signer-vos-contrats-312569",
+      "publishedAt": "2026-11-23T12:30:00+00:00"
     },
     {
       "source": "macg",
@@ -979,7 +1015,7 @@
       "source": "macg",
       "title": "Alors que ChatGPT Classic va disparaître, OpenAI tâtonne toujours avec sa nouvelle app unifiée",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/alors-que-chatgpt-classic-va-disparaitre-openai-tatonne-toujours-avec-sa-nouvelle-app-unifiee-312583",
-      "publishedAt": "2026-11-23T08:03:53+00:00"
+      "publishedAt": "2026-11-23T08:03:00+00:00"
     },
     {
       "source": "jdg",
@@ -1250,12 +1286,6 @@
       "title": "Les Hawks renversent les Pistons avec un 18-0 dévastateur",
       "url": "https://www.basketusa.com/news/959851/les-hawks-renversent-les-pistons-avec-un-18-0-devastateur/",
       "publishedAt": "2026-11-22T23:35:37+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : 10 € de remise sur UPDF 3.0, l'éditeur PDF qui fait aussi signer vos contrats",
-      "url": "https://www.macg.co/services/2026/11/black-friday-10-eu-de-remise-sur-updf-30-lediteur-pdf-qui-fait-aussi-signer-vos-contrats-312569",
-      "publishedAt": "2026-11-22T22:30:00+00:00"
     },
     {
       "source": "tda",
@@ -2282,12 +2312,6 @@
       "title": "Apple veut que son IA prenne le contrôle de votre Mac",
       "url": "https://www.journaldugeek.com/2026/11/21/apple-veut-que-son-ia-prenne-le-controle-de-votre-mac/",
       "publishedAt": "2026-11-21T14:03:57+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Test xTool C1 Color Cutter : une vraie alternative à Cricut, et bien plus complète !",
-      "url": "https://www.journaldugeek.com/test/test-xtool-c1-color-cutter-une-vraie-alternative-a-cricut-et-bien-plus-complete/",
-      "publishedAt": "2026-11-21T13:47:46+00:00"
     },
     {
       "source": "boulet",
