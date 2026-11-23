@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:30:57.245358+00:00",
+  "generatedAt": "2026-11-23T16:40:39.965210+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:30:57.245358+00:00"
+      "lastSuccessAt": "2026-11-23T16:40:39.965210+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday fait son cinéma : ce vidéoprojecteur XGIMI MoGo 4 Laser passe à 599€ sur Amazon avec tous ses accessoires",
+      "url": "https://www.clubic.com/bons-plans-640630-le-black-friday-fait-son-cinema-ce-videoprojecteur-xgimi-mogo-4-laser-passe-a-599-sur-amazon-avec-tous-ses-accessoires.html",
+      "publishedAt": "2026-11-23T16:40:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Pas d’usine, des dettes et du maïs : le fiasco de la supercar chinoise Hongqi S9",
+      "url": "https://www.numerama.com/vroom/2382947-pas-dusine-des-dettes-et-du-mais-le-fiasco-de-la-supercar-chinoise-hongqi-s9.html",
+      "publishedAt": "2026-11-23T16:39:45+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Galaxy Watch : et si Samsung sautait carrément l'année 2027 ?",
+      "url": "https://www.mac4ever.com/watch/199228-galaxy-watch-et-si-samsung-sautait-carrement-l-annee-2027",
+      "publishedAt": "2026-11-23T16:35:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?",
+      "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html",
+      "publishedAt": "2026-11-23T16:32:54+00:00"
+    },
     {
       "source": "jdg",
       "title": "Mais pourquoi Avengers Doomsday a l’air si moche ?",
@@ -164,6 +188,12 @@
       "title": "Coup de théâtre : Jensen Huang est de retour aux manettes de Nvidia",
       "url": "https://www.generation-nt.com/actualites/jensen-huang-nvidia-retour-patron-ceo-2084970",
       "publishedAt": "2026-11-23T16:25:01+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Un patient Neuralink joue à GTA 6 par la pensée, sans toucher une manette",
+      "url": "https://korben.info/un-patient-neuralink-joue-a-gta-6-par-la-pensee-sans-toucher-une-manette.html",
+      "publishedAt": "2026-11-23T16:16:59+00:00"
     },
     {
       "source": "clubic",
