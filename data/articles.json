@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T05:50:36.970031+00:00",
+  "generatedAt": "2026-11-23T06:01:05.262359+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T05:50:36.970031+00:00"
+      "lastSuccessAt": "2026-11-23T06:01:05.262359+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Une cyberattaque frappe le CHU de Guadeloupe en plein déménagement",
+      "url": "https://www.clubic.com/actualite-640504-guadeloupe-le-chu-frappe-par-une-cyberattaque-massive-le-plan-blanc-declenche.html",
+      "publishedAt": "2026-11-23T06:00:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Google a repéré des pirates qui laissent l’IA trouver et exploiter des failles",
+      "url": "https://www.clubic.com/actualite-640495-google-a-repere-des-pirates-qui-laissent-l-ia-trouver-et-exploiter-des-failles.html",
+      "publishedAt": "2026-11-23T06:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "En triple double, Bam Adebayo se prend pour Giannis face au Thunder",
+      "url": "https://www.basketusa.com/news/959894/en-triple-double-bam-adebayo-se-prend-pour-giannis-face-au-thunder/",
+      "publishedAt": "2026-11-23T05:45:19+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Les Warriors respirent mieux, les Celtics s’enfoncent",
       "url": "https://www.basketusa.com/news/959896/les-warriors-respirent-mieux-les-celtics-senfoncent/",
       "publishedAt": "2026-11-23T05:34:41+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Signal s'attaque aux agents IA qui lisent vos discussions privées !",
+      "url": "https://www.generation-nt.com/actualites/signal-bloque-captures-assistants-ia-2084906",
+      "publishedAt": "2026-11-23T05:30:01+00:00"
     },
     {
       "source": "basketusa",
@@ -214,12 +238,6 @@
       "publishedAt": "2026-11-22T18:02:06+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "LeBron James veut que les Sixers apprennent à mieux gagner",
-      "url": "https://www.basketusa.com/news/959836/lebron-james-veut-que-les-sixers-apprennent-a-mieux-gagner/",
-      "publishedAt": "2026-11-22T17:51:06+00:00"
-    },
-    {
       "source": "macg",
       "title": "La Magic Mouse d'Apple chute à 40,03 € chez Amazon Allemagne",
       "url": "https://www.macg.co/materiel/2026/11/la-magic-mouse-dapple-chute-4003-eu-chez-amazon-allemagne-312573",
@@ -275,9 +293,9 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Blazers n’en peuvent plus de courir après le score",
-      "url": "https://www.basketusa.com/news/959805/les-blazers-nen-peuvent-plus-de-courir-apres-le-score/",
-      "publishedAt": "2026-11-22T17:03:21+00:00"
+      "title": "LeBron James veut que les Sixers apprennent à mieux gagner",
+      "url": "https://www.basketusa.com/news/959836/lebron-james-veut-que-les-sixers-apprennent-a-mieux-gagner/",
+      "publishedAt": "2026-11-22T16:51:06+00:00"
     },
     {
       "source": "clubic",
@@ -326,6 +344,12 @@
       "title": "Chez Sacrebleu, baisser la lumière sans téléphone coûte 1.700 $, mais c’est la classe",
       "url": "https://www.journaldugeek.com/2026/11/22/chez-sacrebleu-baisser-la-lumiere-sans-telephone-coute-1-700-mais-cest-la-classe/",
       "publishedAt": "2026-11-22T16:04:10+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Blazers n’en peuvent plus de courir après le score",
+      "url": "https://www.basketusa.com/news/959805/les-blazers-nen-peuvent-plus-de-courir-apres-le-score/",
+      "publishedAt": "2026-11-22T16:03:21+00:00"
     },
     {
       "source": "clubic",
@@ -616,6 +640,12 @@
       "publishedAt": "2026-11-22T10:53:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Aux Clippers, l’attaque plombe la défense",
+      "url": "https://www.basketusa.com/news/959725/aux-clippers-lattaque-plombe-la-defense/",
+      "publishedAt": "2026-11-22T10:41:42+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday Amazon : les meilleures offres de la Black Week à saisir ce week-end, notre TOP 100 jusqu’à -67%",
       "url": "https://www.clubic.com/bons-plans-640309-black-friday-amazon-les-meilleures-offres-de-la-black-week-a-saisir-ce-week-end-notre-top-100-jusqu-a--67.html",
@@ -668,12 +698,6 @@
       "title": "Florence Pugh, Kristen Stewart… Quelle James Bond girl pour accompagner Robert Pattinson ?",
       "url": "https://www.numerama.com/pop-culture/2380049-quelle-james-bond-girl-pour-accompagner-robert-pattinson.html",
       "publishedAt": "2026-11-22T10:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Aux Clippers, l’attaque plombe la défense",
-      "url": "https://www.basketusa.com/news/959725/aux-clippers-lattaque-plombe-la-defense/",
-      "publishedAt": "2026-11-22T09:41:42+00:00"
     },
     {
       "source": "basketusa",
@@ -1718,18 +1742,6 @@
       "title": "Harry Potter : les baguettes de la série font déjà débat chez les fans",
       "url": "https://www.journaldugeek.com/2026/11/21/harry-potter-les-baguettes-de-la-serie-risquent-de-faire-debat-chez-les-fans/",
       "publishedAt": "2026-11-21T06:02:37+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Mettez à niveau les logiciels votre ordinateur à petit prix durant ce Black Friday (Office, Windows)",
-      "url": "https://www.clubic.com/bons-plans-638188-mettez-a-niveau-les-logiciels-votre-ordinateur-a-petit-prix-durant-ce-black-friday-office-windows.html",
-      "publishedAt": "2026-11-21T06:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Shai Gilgeous-Alexander (40 points) punit les Pelicans",
-      "url": "https://www.basketusa.com/news/959467/shai-gilgeous-alexander-40-points-punit-les-pelicans/",
-      "publishedAt": "2026-11-21T05:58:57+00:00"
     },
     {
       "source": "boulet",
