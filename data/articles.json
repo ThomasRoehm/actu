@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T17:01:10.762244+00:00",
+  "generatedAt": "2026-11-23T17:10:42.006109+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:01:10.762244+00:00"
+      "lastSuccessAt": "2026-11-23T17:10:42.006109+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "GTA 6 : pourquoi vos armes disparaissent (et la règle d’or pour ne plus jamais les perdre)",
+      "url": "https://www.numerama.com/pop-culture/2383153-gta-6-pourquoi-vos-armes-disparaissent-et-la-regle-dor-pour-ne-plus-jamais-les-perdre.html",
+      "publishedAt": "2026-11-23T17:04:40+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Écriture excessive sur les SSD : le correctif de NVIDIA aurait besoin d'un... nouveau correctif !",
+      "url": "https://www.clubic.com/actualite-640660-ecriture-excessive-sur-les-ssd-le-correctif-de-nvidia-aurait-besoin-d-un-nouveau-correctif.html",
+      "publishedAt": "2026-11-23T17:04:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "La brique Lego date de 1958 mais son histoire la plus folle s’écrit en 2026 : les ventes explosent, une nouvelle usine européenne ouvre",
+      "url": "https://www.presse-citron.net/la-brique-lego-date-de-1958-mais-son-histoire-la-plus-folle-secrit-en-2026-les-ventes-explosent-une-nouvelle-usine-europeenne-ouvre/",
+      "publishedAt": "2026-11-23T17:00:39+00:00"
+    },
     {
       "source": "jdg",
       "title": "Critique Hunger Games : la Ballade du serpent et de l’oiseau chanteur, l’adaptation de trop ?",
@@ -230,6 +248,12 @@
       "title": "Coup de théâtre : Jensen Huang est de retour aux manettes de Nvidia",
       "url": "https://www.generation-nt.com/actualites/jensen-huang-nvidia-retour-patron-ceo-2084970",
       "publishedAt": "2026-11-23T16:25:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Les regards se tournent vers P vs NP : après Riemann, l’IA s’attaque à une autre énigme à un million de dollars",
+      "url": "https://www.numerama.com/tech/2382757-les-regards-se-tournent-vers-p-vs-np-apres-riemann-lia-sattaque-a-une-autre-enigme-a-un-million-de-dollars.html",
+      "publishedAt": "2026-11-23T16:25:00+00:00"
     },
     {
       "source": "korben",
@@ -682,6 +706,12 @@
       "publishedAt": "2026-11-23T13:25:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/960064/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-23T13:23:48+00:00"
+    },
+    {
       "source": "korben",
       "title": "Signal empêche les IA de lire vos messages par-dessus votre épaule",
       "url": "https://korben.info/signal-empeche-les-ia-de-lire-vos-messages-par-dessus-votre-epaule.html",
@@ -782,12 +812,6 @@
       "title": "WheelClick prend le relais pour le « clic molette » sur trackpad et Magic Mouse",
       "url": "https://www.macg.co/logiciels/2026/11/wheelclick-prend-le-relais-pour-le-clic-molette-sur-trackpad-et-magic-mouse-312597",
       "publishedAt": "2026-11-23T12:26:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/960064/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-23T12:23:48+00:00"
     },
     {
       "source": "iphon",
@@ -2618,24 +2642,6 @@
       "title": "Deux Tesla en FSD bloquées, les mauvais élèves du contrôle technique allemand et les freins à l’achat : le récap Vroom de la semaine",
       "url": "https://www.numerama.com/vroom/2380109-deux-tesla-en-fsd-bloquees-les-mauvais-eleves-du-controle-technique-allemand-et-les-freins-a-lachat-le-recap-vroom-de-la-semaine.html",
       "publishedAt": "2026-11-21T17:20:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Des canyons sous-marins anciens ont préservé les plus vieux animaux terrestres",
-      "url": "https://www.generation-nt.com/actualites/canyons-sous-marins-anciens-animaux-2084743",
-      "publishedAt": "2026-11-21T17:10:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "La suite Adobe Creative Cloud et Photoshop deviennent beaucoup plus accessibles pour le Black Friday (jusqu’à -80 %)",
-      "url": "https://www.macg.co/logiciels/2026/11/la-suite-adobe-creative-cloud-et-photoshop-deviennent-beaucoup-plus-accessibles-pour-le-black-friday-jusqua-80-312563",
-      "publishedAt": "2026-11-21T17:03:25+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "BBC, CNN, Zoom, Air France… Ces sites très populaires ont distribué des logiciels malveillants",
-      "url": "https://www.journaldugeek.com/2026/11/21/bbc-cnn-zoom-air-france-ces-sites-tres-populaires-ont-distribue-des-logiciels-malveillants/",
-      "publishedAt": "2026-11-21T17:01:43+00:00"
     },
     {
       "source": "boulet",
