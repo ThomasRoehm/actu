@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T09:10:49.484065+00:00",
+  "generatedAt": "2026-11-23T09:20:46.860916+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T09:10:49.484065+00:00"
+      "lastSuccessAt": "2026-11-23T09:20:46.860916+00:00"
     }
   ],
   "articles": [
@@ -140,6 +140,12 @@
       "title": "Burger King note ses employés avec une IA, l'un d'eux s'est mis à parler comme un robot",
       "url": "https://www.mac4ever.com/iphone/199201-iphone-duo-des-complications-facon-apple-watch-se-cachent-dans-ios-27-1",
       "publishedAt": "2026-11-23T09:10:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La LeBron XXIV est arrivée !",
+      "url": "https://www.basketusa.com/news/959871/la-lebron-xxiv-est-arrivee/",
+      "publishedAt": "2026-11-23T09:03:40+00:00"
     },
     {
       "source": "jdg",
@@ -1874,12 +1880,6 @@
       "title": "Le coup de gueule salutaire de JJ Redick",
       "url": "https://www.basketusa.com/news/959505/le-coup-de-gueule-salutaire-de-jj-redick/",
       "publishedAt": "2026-11-21T09:22:39+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "L’humain contre-attaque sur l’hypothèse de Riemann : un chercheur aurait craqué l’énigme avant l’IA Claude",
-      "url": "https://www.numerama.com/sciences/2380525-lhumain-contre-attaque-sur-lhypothese-de-riemann-un-chercheur-aurait-craque-lenigme-avant-lia-claude.html",
-      "publishedAt": "2026-11-21T09:18:08+00:00"
     },
     {
       "source": "boulet",
