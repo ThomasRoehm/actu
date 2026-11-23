@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:30:59.426974+00:00",
+  "generatedAt": "2026-11-23T08:40:40.373841+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:30:59.426974+00:00"
+      "lastSuccessAt": "2026-11-23T08:40:40.373841+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Les scènes de sexe de GTA 6 ont représenté un gros défi pour Rockstar",
+      "url": "https://www.numerama.com/pop-culture/2382249-les-scenes-de-sexe-de-gta-6-ont-represente-un-gros-defi-pour-rockstar.html",
+      "publishedAt": "2026-11-23T08:39:58+00:00"
+    },
     {
       "source": "clubic",
       "title": "SNCF Connect écrit à ses clients pour les prévenir d'une arnaque qui peut faire des dégâts",
@@ -508,6 +514,12 @@
       "publishedAt": "2026-11-22T18:02:06+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "LeBron James veut que les Sixers apprennent à mieux gagner",
+      "url": "https://www.basketusa.com/news/959836/lebron-james-veut-que-les-sixers-apprennent-a-mieux-gagner/",
+      "publishedAt": "2026-11-22T17:51:06+00:00"
+    },
+    {
       "source": "macg",
       "title": "La Magic Mouse d'Apple chute à 40,03 € chez Amazon Allemagne",
       "url": "https://www.macg.co/materiel/2026/11/la-magic-mouse-dapple-chute-4003-eu-chez-amazon-allemagne-312573",
@@ -566,12 +578,6 @@
       "title": "Les Blazers n’en peuvent plus de courir après le score",
       "url": "https://www.basketusa.com/news/959805/les-blazers-nen-peuvent-plus-de-courir-apres-le-score/",
       "publishedAt": "2026-11-22T17:03:21+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James veut que les Sixers apprennent à mieux gagner",
-      "url": "https://www.basketusa.com/news/959836/lebron-james-veut-que-les-sixers-apprennent-a-mieux-gagner/",
-      "publishedAt": "2026-11-22T16:51:06+00:00"
     },
     {
       "source": "clubic",
@@ -731,12 +737,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Philadelphie 76ers – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959810/philadelphie-76ers-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-22T14:26:41+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Houston Rockets – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959815/houston-rockets-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-22T14:24:03+00:00"
@@ -782,6 +782,12 @@
       "title": "[NCAA] Semaine 12 : Indiana en danger, terminé pour Ohio State, Utah seul invaincu",
       "url": "https://touchdownactu.com/361681/ncaa-semaine-12-indiana-en-danger-termine-pour-ohio-state-utah-seul-invaincu/",
       "publishedAt": "2026-11-22T13:34:09+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959810/philadelphie-76ers-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-22T13:26:41+00:00"
     },
     {
       "source": "gnt",
@@ -1832,24 +1838,6 @@
       "title": "iPhone, Pixel, Redmi… les prix baissent déjà sur ces 7 smartphones chez Amazon pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-638968-black-friday-iphone-pixel-redmi-les-prix-baissent-deja-sur-ces-7-smartphones-chez-amazon.html",
       "publishedAt": "2026-11-21T08:44:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "TV OLED Black Friday 2026 : les 8 offres qui valent vraiment le coup, expliquées par nos tests",
-      "url": "https://www.clubic.com/bons-plans-640159-lg-samsung-sony-philips-les-tv-oled-chutent-jusqu-a--40-pour-le-black-friday.html",
-      "publishedAt": "2026-11-21T08:36:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Aday Mara grandit très vite au Thunder",
-      "url": "https://www.basketusa.com/news/959519/aday-mara-grandit-tres-vite-au-thunder/",
-      "publishedAt": "2026-11-21T08:33:34+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Votre fournisseur VPN peut déchiffrer le tunnel qui protège votre trafic, mais peut-il vraiment en lire le contenu ?",
-      "url": "https://www.clubic.com/dossier-640381-votre-fournisseur-vpn-peut-dechiffrer-le-tunnel-qui-protege-votre-trafic-mais-peut-il-vraiment-en-lire-le-contenu.html",
-      "publishedAt": "2026-11-21T08:31:00+00:00"
     },
     {
       "source": "boulet",
