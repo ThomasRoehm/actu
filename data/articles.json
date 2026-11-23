@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:50:38.941188+00:00",
+  "generatedAt": "2026-11-23T15:01:10.751595+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
+      "lastSuccessAt": "2026-11-23T15:01:10.751595+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "🔴 Nvidia annonce le retour de Jensen Huang au poste de CEO, l’action bondit immédiatement",
+      "url": "https://www.presse-citron.net/surprise-nvidia-annonce-le-retour-de-jensen-huang-au-poste-de-ceo/",
+      "publishedAt": "2026-11-23T14:51:02+00:00"
+    },
     {
       "source": "numerama",
       "title": "La carte Avantage de la SNCF tombe en promo dès aujourd’hui pour le Black Friday",
@@ -146,6 +152,12 @@
       "title": "GTA 6 vient de sortir son premier patch, qu’est ce qu’il change ?",
       "url": "https://www.journaldugeek.com/2026/11/23/gta-6-vient-de-sortir-son-premier-patch-quest-ce-quil-change/",
       "publishedAt": "2026-11-23T14:43:29+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "AMDLSS5 2.5 accélère le rendu neuronal sur Radeon de 60 % avec la génération de trames 6x",
+      "url": "https://www.generation-nt.com/actualites/amdlss5-rendu-neuronal-radeon-6x-2084922",
+      "publishedAt": "2026-11-23T14:40:01+00:00"
     },
     {
       "source": "numerama",
@@ -236,12 +248,6 @@
       "title": "Sept masculinistes jugés à Paris, Telegram a livré leurs données à la justice",
       "url": "https://www.mac4ever.com/societe/199221-sept-masculinistes-juges-a-paris-telegram-a-livre-leurs-donnees-a-la-justice",
       "publishedAt": "2026-11-23T14:10:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Surprise ! Nvidia annonce le retour de Jensen Huang au poste de CEO",
-      "url": "https://www.presse-citron.net/surprise-nvidia-annonce-le-retour-de-jensen-huang-au-poste-de-ceo/",
-      "publishedAt": "2026-11-23T14:08:02+00:00"
     },
     {
       "source": "gnt",
@@ -1246,12 +1252,6 @@
       "publishedAt": "2026-11-23T07:37:34+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Draymond Green a remis les Warriors sur les bons rails",
-      "url": "https://www.basketusa.com/news/959935/draymond-green-a-remis-les-warriors-sur-les-bons-rails/",
-      "publishedAt": "2026-11-23T07:30:56+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Votre hébergement Web souverain vous est proposé à - 93 % de réduction pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-640087-votre-hebergement-web-souverain-vous-est-propose-a---93-de-reduction-pour-le-black-friday.html",
@@ -1346,6 +1346,12 @@
       "title": "Black Friday : NordVPN frappe fort avec 78 % de réduction et son VPN dès 2,99 €/mois !",
       "url": "https://www.clubic.com/actualite-640036-black-friday-nordvpn-frappe-fort-avec-78-de-reduction-et-son-vpn-des-2-99-mois.html",
       "publishedAt": "2026-11-23T06:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Draymond Green a remis les Warriors sur les bons rails",
+      "url": "https://www.basketusa.com/news/959935/draymond-green-a-remis-les-warriors-sur-les-bons-rails/",
+      "publishedAt": "2026-11-23T06:30:56+00:00"
     },
     {
       "source": "clubic",
@@ -2450,30 +2456,6 @@
       "title": "iPhone Duo vs Galaxy Z Fold 8 : lequel est le meilleur pliant en 2026 ?",
       "url": "https://www.iphon.fr/post/iphone-duo-samsung-galaxy-z-fold-8",
       "publishedAt": "2026-11-21T15:03:23+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Meta voudrait vous faire payer 300 $ pour parler à un porte-clés",
-      "url": "https://www.journaldugeek.com/2026/11/21/meta-voudrait-vous-faire-payer-300-pour-parler-a-un-porte-cles/",
-      "publishedAt": "2026-11-21T15:00:19+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les corneilles des villes sont plus méfiantes que leurs cousines des champs",
-      "url": "https://www.generation-nt.com/actualites/corneille-adaptation-urbaine-comportement-neophobie-2084688",
-      "publishedAt": "2026-11-21T15:00:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : la suite de sécurité Intego ONE pour Mac à 66 € pour deux ans",
-      "url": "https://www.macg.co/logiciels/2026/11/black-friday-la-suite-de-securite-intego-one-pour-mac-66-eu-pour-deux-ans-312471",
-      "publishedAt": "2026-11-21T14:55:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Chargemap victime d'une fuite de données : les anciens utilisateurs aussi concernés",
-      "url": "https://www.macg.co/services/2026/11/chargemap-victime-dune-fuite-de-donnees-les-anciens-utilisateurs-aussi-concernes-312561",
-      "publishedAt": "2026-11-21T14:54:00+00:00"
     },
     {
       "source": "boulet",
