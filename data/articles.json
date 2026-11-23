@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T10:20:47.615692+00:00",
+  "generatedAt": "2026-11-23T10:30:55.377233+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:20:47.615692+00:00"
+      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 : CleanMyMac passe à -30 % pour nettoyer et optimiser votre Mac",
+      "url": "https://www.clubic.com/actualite-640123-black-friday-2026-cleanmymac-passe-a--30-pour-nettoyer-et-optimiser-votre-mac.html",
+      "publishedAt": "2026-11-23T10:30:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Waymo rappelle des robotaxis après leur interdiction sur les autoroutes",
+      "url": "https://www.generation-nt.com/actualites/waymo-rappel-robotaxis-autoroutes-correctifs-2084932",
+      "publishedAt": "2026-11-23T10:27:53+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Svi Mykhailiuk, une main chaude qui a failli brûler Dallas",
+      "url": "https://www.basketusa.com/news/960010/svi-mykhailiuk-une-main-chaude-qui-a-failli-bruler-dallas/",
+      "publishedAt": "2026-11-23T10:24:30+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "GTA 6 bat un record insolite : le jeu bat Netflix et YouTube réunis",
+      "url": "https://www.iphon.fr/post/gta-6-bat-record-insolite-jamais-vu-operateurs-telephoniques-francais",
+      "publishedAt": "2026-11-23T10:22:17+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : les meilleures offres à ne pas manquer ce lundi en DIRECT",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-23T10:21:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Apple : idéal pour installer une IA locale, ce Mac mini M6 profite de 160€ de remise chez Amazon",
@@ -146,12 +176,6 @@
       "title": "La caméra DJI Action 4 bradée à 179€ pour le Black Friday !",
       "url": "https://www.mac4ever.com/divers/199213-la-camera-dji-action-4-bradee-a-179-pour-le-black-friday",
       "publishedAt": "2026-11-23T10:17:55+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : les meilleures offres à ne pas manquer ce lundi en DIRECT",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-23T10:17:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -176,6 +200,12 @@
       "title": "Anthropic : une panne est en cours sur les modèles de Claude",
       "url": "https://www.numerama.com/tech/2382463-anthropic-une-panne-est-en-cours-sur-les-modeles-de-claude.html",
       "publishedAt": "2026-11-23T10:05:37+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Plex supprime le support de TheTVDB dès le 3 décembre et agace ses utilisateurs",
+      "url": "https://www.generation-nt.com/actualites/plex-supprime-support-thetvdb-decembre-2084912",
+      "publishedAt": "2026-11-23T10:05:01+00:00"
     },
     {
       "source": "jdg",
@@ -2012,18 +2042,6 @@
       "title": "Découverte de deux nouvelles espèces de singes hurleurs en Amazonie",
       "url": "https://www.generation-nt.com/actualites/singes-hurleurs-nouvelles-especes-amazonie-biodiversite-2084601",
       "publishedAt": "2026-11-21T10:40:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "La Twingo électrique passe devant la R5 et prend la tête des ventes en France",
-      "url": "https://www.mac4ever.com/auto/199186-la-twingo-electrique-passe-devant-la-r5-et-prend-la-tete-des-ventes-en-france",
-      "publishedAt": "2026-11-21T10:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "L’Italie autorise le FSD de Tesla avant le vote européen",
-      "url": "https://www.clubic.com/actualite-640402-l-italie-autorise-le-fsd-de-tesla-avant-le-vote-europeen.html",
-      "publishedAt": "2026-11-21T10:30:00+00:00"
     },
     {
       "source": "boulet",
