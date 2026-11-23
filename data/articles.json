@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:01:05.750295+00:00",
+  "generatedAt": "2026-11-23T07:10:41.213410+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "mac4ever",
@@ -85,9 +85,9 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/mac4ever.png",
-      "ok": false,
-      "error": "Flux sans entrée reconnue",
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
+      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "GTA VI : un patient doté d’un implant Neuralink joue par la pensée !",
+      "url": "https://www.mac4ever.com/gaming/199195-gta-vi-un-patient-dote-d-un-implant-neuralink-joue-par-la-pensee",
+      "publishedAt": "2026-11-23T07:09:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : jusqu’à 20 % de réduction sur le Mac mini M6",
+      "url": "https://www.macg.co/mac/2026/11/black-friday-jusqua-20-de-reduction-sur-le-mac-mini-m6-312579",
+      "publishedAt": "2026-11-23T07:05:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Licencié la veille de la sortie de GTA 6, un prétendu ingénieur accuse Rockstar d'espionner les joueurs",
+      "url": "https://www.clubic.com/actualite-640486-licencie-la-veille-de-la-sortie-de-gta-6-un-pretendu-ingenieur-accuse-rockstar-d-espionner-les-joueurs.html",
+      "publishedAt": "2026-11-23T07:01:00+00:00"
+    },
     {
       "source": "jdg",
       "title": "Après les dérapages de ses IA, OpenAI veut pouvoir les arrêter plus vite",
       "url": "https://www.journaldugeek.com/2026/11/23/apres-les-derapages-de-ses-ia-openai-veut-pouvoir-les-arreter-plus-vite/",
       "publishedAt": "2026-11-23T06:57:59+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ce n’est pas une arnaque : 8 millions de Français perdront leur argent s’ils ignorent cet appel de leur banquier",
+      "url": "https://www.presse-citron.net/ce-nest-pas-une-arnaque-8-millions-de-francais-perdront-leur-argent-sils-ignorent-cet-appel-de-leur-banquier/",
+      "publishedAt": "2026-11-23T06:52:57+00:00"
     },
     {
       "source": "presse",
@@ -200,6 +224,12 @@
       "title": "Stats & Highlights | Utah frôle le comeback de l’année",
       "url": "https://www.basketusa.com/news/959924/stats-highlights-utah-frole-le-comeback-de-lannee/",
       "publishedAt": "2026-11-23T06:23:54+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "iPhone 18, iPhone AIr 2, MacBook Neo 2, iPad Pro M6... Apple prépare du lourd pour début 2027",
+      "url": "https://www.mac4ever.com/divers/199194-iphone-18-iphone-air-2-macbook-neo-2-ipad-pro-m6-apple-prepare-du-lourd-pour-debut-2027",
+      "publishedAt": "2026-11-23T06:23:00+00:00"
     },
     {
       "source": "macg",
@@ -316,16 +346,16 @@
       "publishedAt": "2026-11-22T19:50:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Cade Cunningham et les Pistons à l’affiche dès 21h30",
-      "url": "https://www.basketusa.com/news/959832/programme-du-soir-cade-cunningham-et-les-pistons-a-laffiche-des-21h30/",
-      "publishedAt": "2026-11-22T19:30:38+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Amazon frappe fort pour le Black Friday avec le Google Pixel 11 qui perd 400 € sur son prix",
       "url": "https://www.clubic.com/bons-plans-640489-amazon-frappe-fort-pour-le-black-friday-avec-le-google-pixel-11-qui-perd-400-sur-son-prix.html",
       "publishedAt": "2026-11-22T18:56:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Cade Cunningham et les Pistons à l’affiche dès 21h30",
+      "url": "https://www.basketusa.com/news/959832/programme-du-soir-cade-cunningham-et-les-pistons-a-laffiche-des-21h30/",
+      "publishedAt": "2026-11-22T18:30:38+00:00"
     },
     {
       "source": "gnt",
@@ -1778,18 +1808,6 @@
       "title": "Toutes les puces M6 ne se valent pas : l'iMac M6 est (un peu) plus lent que le Mac mini et le MacBook Pro",
       "url": "https://www.macg.co/mac/2026/11/toutes-les-puces-m6-ne-se-valent-pas-limac-m6-est-un-peu-plus-lent-que-le-mac-mini-et-le-macbook-pro-312547",
       "publishedAt": "2026-11-21T07:12:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | James Harden dépasse Kobe Bryant",
-      "url": "https://www.basketusa.com/news/959508/le-mvp-de-la-nuit-james-harden-depasse-kobe-bryant/",
-      "publishedAt": "2026-11-21T07:10:32+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "L'Homme de Rødhals témoigne du basculement vers l'agriculture",
-      "url": "https://www.generation-nt.com/actualites/homme-rodhals-neolitique-mesolithique-agriculture-2084597",
-      "publishedAt": "2026-11-21T07:10:01+00:00"
     },
     {
       "source": "boulet",
