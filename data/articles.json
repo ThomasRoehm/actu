@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T10:40:47.039812+00:00",
+  "generatedAt": "2026-11-23T10:50:42.412808+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,46 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
+      "lastSuccessAt": "2026-11-23T10:50:42.412808+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Microsoft commence à tourner la page des applications 32 bits et change ses règles de compatibilité",
+      "url": "https://www.clubic.com/actualite-640546-microsoft-commence-a-tourner-la-page-des-applications-32-bits-et-change-ses-regles-de-compatibilite.html",
+      "publishedAt": "2026-11-23T10:48:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Windows 11 : Microsoft permet d’additionner la mémoire de plusieurs PC en USB4 pour faire tourner de grosses IA",
+      "url": "https://www.clubic.com/actualite-640519-windows-11-microsoft-permet-d-additionner-la-memoire-de-plusieurs-pc-en-usb4-pour-faire-tourner-de-grosses-ia.html",
+      "publishedAt": "2026-11-23T10:48:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "« On fait ce qu’on peut avec les outils qu’on a » : Signal part en guerre contre deux agents IA d’Apple et Google",
+      "url": "https://www.numerama.com/cyberguerre/2382355-on-fait-ce-quon-peut-avec-les-outils-quon-a-signal-part-en-guerre-contre-deux-agents-ia-dapple-et-google.html",
+      "publishedAt": "2026-11-23T10:45:43+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Comment réparer sa voiture gratuitement dans GTA 6 ?",
+      "url": "https://www.numerama.com/pop-culture/2382343-comment-reparer-sa-voiture-gratuitement-dans-gta-6.html",
+      "publishedAt": "2026-11-23T10:45:42+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Google peine à rentabiliser son IA, et Apple pourrait en faire les frais",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/google-peine-rentabiliser-son-ia-et-apple-pourrait-en-faire-les-frais-312595",
+      "publishedAt": "2026-11-23T10:42:08+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "À 4 jours du Black Friday, Amazon glisse Zelda: Ocarina of Time avec la Switch 2 pour 509,98€",
+      "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
+      "publishedAt": "2026-11-23T10:41:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "« La superintelligence est en train d’arriver » : après Riemann, le patron de l’IA chez Meta appelle à ne pas lui céder les commandes",
@@ -178,6 +214,12 @@
       "publishedAt": "2026-11-23T10:24:30+00:00"
     },
     {
+      "source": "korben",
+      "title": "Claude a-t-il vraiment résolu l'hypothèse de Riemann, 167 ans après ?",
+      "url": "https://korben.info/claude-a-t-il-vraiment-resolu-lhypothese-de-riemann-167-ans-apres.html",
+      "publishedAt": "2026-11-23T10:23:00+00:00"
+    },
+    {
       "source": "iphon",
       "title": "GTA 6 bat un record insolite : le jeu bat Netflix et YouTube réunis",
       "url": "https://www.iphon.fr/post/gta-6-bat-record-insolite-jamais-vu-operateurs-telephoniques-francais",
@@ -200,6 +242,12 @@
       "title": "La caméra DJI Action 4 bradée à 179€ pour le Black Friday !",
       "url": "https://www.mac4ever.com/divers/199213-la-camera-dji-action-4-bradee-a-179-pour-le-black-friday",
       "publishedAt": "2026-11-23T10:17:55+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Cambodge - Mon premier voyage en Asie",
+      "url": "https://korben.info/cambodge-voyage-phnom-penh-francophonie.html",
+      "publishedAt": "2026-11-23T10:13:38+00:00"
     },
     {
       "source": "mac4ever",
@@ -418,6 +466,12 @@
       "publishedAt": "2026-11-23T09:10:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "La LeBron XXIV est arrivée !",
+      "url": "https://www.basketusa.com/news/959871/la-lebron-xxiv-est-arrivee/",
+      "publishedAt": "2026-11-23T09:03:40+00:00"
+    },
+    {
       "source": "jdg",
       "title": "GTA 6 pour PC : en attendant sa sortie, ne tombez pas dans ces pièges",
       "url": "https://www.journaldugeek.com/2026/11/23/gta-6-pour-pc-en-attendant-sa-sortie-ne-tombez-pas-dans-ces-pieges/",
@@ -560,12 +614,6 @@
       "title": "Alors que ChatGPT Classic va disparaître, OpenAI tâtonne toujours avec sa nouvelle app unifiée",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/alors-que-chatgpt-classic-va-disparaitre-openai-tatonne-toujours-avec-sa-nouvelle-app-unifiee-312583",
       "publishedAt": "2026-11-23T08:03:53+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La LeBron XXIV est arrivée !",
-      "url": "https://www.basketusa.com/news/959871/la-lebron-xxiv-est-arrivee/",
-      "publishedAt": "2026-11-23T08:03:40+00:00"
     },
     {
       "source": "jdg",
@@ -1312,12 +1360,6 @@
       "publishedAt": "2026-11-22T10:27:00+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday Switch 2 : n’attendez pas le 27, Amazon baisse déjà la console, les packs et les manettes",
-      "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
-      "publishedAt": "2026-11-22T10:23:00+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Les radiotélescopes révèlent les secrets d'un duo de naines rouges",
       "url": "https://www.generation-nt.com/actualites/dg-cvn-naines-rouges-astronomie-2084785",
@@ -2042,24 +2084,6 @@
       "title": "Chase confirme un vol de données, Visa et Mastercard frappés aussi",
       "url": "https://korben.info/chase-confirme-un-vol-de-donnees-visa-et-mastercard-frappes-aussi.html",
       "publishedAt": "2026-11-21T10:50:49+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Ime Udoka peste contre la fragilité mentale des Rockets",
-      "url": "https://www.basketusa.com/news/959533/ime-udoka-pointe-la-fragilite-mentale-des-rockets/",
-      "publishedAt": "2026-11-21T10:50:24+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Un Russe accusé d'avoir espionné les employés de Palantir depuis un café de Palo Alto",
-      "url": "https://korben.info/un-russe-accuse-davoir-espionne-les-employes-de-palantir-depuis-un-cafe-de-palo-alto.html",
-      "publishedAt": "2026-11-21T10:49:26+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Héritage : vous pouvez récupérer l’argent des comptes bancaires sans passer par un notaire si vous respectez ces conditions",
-      "url": "https://www.presse-citron.net/heritage-vous-pouvez-recuperer-largent-des-comptes-bancaires-sans-passer-par-un-notaire-si-vous-respectez-ces-conditions/",
-      "publishedAt": "2026-11-21T10:45:46+00:00"
     },
     {
       "source": "boulet",
