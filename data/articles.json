@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:50:39.529823+00:00",
+  "generatedAt": "2026-11-23T09:01:06.097012+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:50:39.529823+00:00"
+      "lastSuccessAt": "2026-11-23T09:01:06.097012+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "0,09 € le kilowattheure chez Auchan : Le Plein dégaine la recharge la moins chère de France pour Noël",
+      "url": "https://www.numerama.com/vroom/2382279-009-e-le-kilowattheure-chez-auchan-le-plein-degaine-la-recharge-la-moins-chere-de-france-pour-noel.html",
+      "publishedAt": "2026-11-23T08:58:21+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : Amazon CASSE encore le prix de l'iPhone 17 Pro Max, qui tombe à 1 359€",
+      "url": "https://www.clubic.com/bons-plans-638482-amazon-n-attend-pas-le-black-friday-et-fait-chuter-le-prix-de-l-iphone-17-pro-max.html",
+      "publishedAt": "2026-11-23T08:53:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Black Friday (EN DIRECT) : à J-4, les meilleures offres continuent de s’empiler sur Amazon, Fnac et Boulanger",
+      "url": "https://www.numerama.com/tech/2374925-black-friday-en-direct-a-j-4-les-meilleures-offres-continuent-de-sempiler-sur-amazon-fnac-et-boulanger.html",
+      "publishedAt": "2026-11-23T08:52:51+00:00"
+    },
     {
       "source": "numerama",
       "title": "GTA 6 : Mandy cacherait un terrible secret, et les fans commencent à avoir des soupçons",
@@ -148,6 +166,12 @@
       "publishedAt": "2026-11-23T08:47:16+00:00"
     },
     {
+      "source": "gnt",
+      "title": "GTA 6 bouscule déjà le calendrier de la PlayStation 6 et de la prochaine Xbox",
+      "url": "https://www.generation-nt.com/actualites/gta-6-calendrier-ps6-xbox-2084923",
+      "publishedAt": "2026-11-23T08:45:01+00:00"
+    },
+    {
       "source": "iphon",
       "title": "MacBook Neo 2 : on connaît sa principale nouveauté",
       "url": "https://www.iphon.fr/post/macbook-neo-2-on-connait-principale-nouveaute",
@@ -158,6 +182,12 @@
       "title": "Plex a trouvé le moyen de rendre ses utilisateurs encore plus furieux",
       "url": "https://www.clubic.com/actualite-640474-plex-a-trouve-le-moyen-de-rendre-ses-utilisateurs-encore-plus-furieux.html",
       "publishedAt": "2026-11-23T08:44:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "« Allô Boston, on a un problème » : la pire série des Celtics depuis cinq ans !",
+      "url": "https://www.basketusa.com/news/959951/allo-boston-on-a-un-probleme-la-pire-serie-depuis-cinq-ans/",
+      "publishedAt": "2026-11-23T08:41:05+00:00"
     },
     {
       "source": "mac4ever",
@@ -773,12 +803,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Philadelphie 76ers – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959810/philadelphie-76ers-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-22T14:26:41+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Houston Rockets – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959815/houston-rockets-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-22T14:24:03+00:00"
@@ -824,6 +848,12 @@
       "title": "[NCAA] Semaine 12 : Indiana en danger, terminé pour Ohio State, Utah seul invaincu",
       "url": "https://touchdownactu.com/361681/ncaa-semaine-12-indiana-en-danger-termine-pour-ohio-state-utah-seul-invaincu/",
       "publishedAt": "2026-11-22T13:34:09+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Philadelphie 76ers – Portland Trail Blazers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959810/philadelphie-76ers-portland-trail-blazers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-22T13:26:41+00:00"
     },
     {
       "source": "gnt",
@@ -1838,24 +1868,6 @@
       "title": "iPhone Air 2 : son design déjà révélé avec une surprise au dos de l’appareil",
       "url": "https://www.iphon.fr/post/iphone-18-air-dummy-images",
       "publishedAt": "2026-11-21T09:01:29+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "On vous emmène chez PLD Space, pépite européenne des fusées (Reportage)",
-      "url": "https://www.presse-citron.net/on-vous-emmene-chez-pld-space-pepite-europeenne-des-fusees-reportage/",
-      "publishedAt": "2026-11-21T09:00:36+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "BepiColombo arrive enfin autour de Mercure après huit ans de voyage",
-      "url": "https://www.generation-nt.com/actualites/bepicolombo-arrive-mercure-huit-ans-2084888",
-      "publishedAt": "2026-11-21T09:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Moritz Wagner a détesté affronter son petit frère",
-      "url": "https://www.basketusa.com/news/959500/moritz-wagner-a-deteste-affronter-son-petit-frere/",
-      "publishedAt": "2026-11-21T08:58:54+00:00"
     },
     {
       "source": "boulet",
