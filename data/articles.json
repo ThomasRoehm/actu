@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:10:41.213410+00:00",
+  "generatedAt": "2026-11-23T07:20:40.562557+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:10:41.213410+00:00"
+      "lastSuccessAt": "2026-11-23T07:20:40.562557+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Sans Giannis, Bam Adebayo reprend les commandes au Heat",
+      "url": "https://www.basketusa.com/news/959900/sans-giannis-bam-adebayo-reprend-les-commandes-au-heat/",
+      "publishedAt": "2026-11-23T07:11:39+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "GTA VI : un patient doté d’un implant Neuralink joue par la pensée !",
@@ -158,6 +164,12 @@
       "title": "Après les dérapages de ses IA, OpenAI veut pouvoir les arrêter plus vite",
       "url": "https://www.journaldugeek.com/2026/11/23/apres-les-derapages-de-ses-ia-openai-veut-pouvoir-les-arreter-plus-vite/",
       "publishedAt": "2026-11-23T06:57:59+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Apple recrute pour un agent IA qui utilisera votre Mac à votre place",
+      "url": "https://korben.info/apple-recrute-pour-un-agent-ia-qui-utilisera-votre-mac-a-votre-place.html",
+      "publishedAt": "2026-11-23T06:56:15+00:00"
     },
     {
       "source": "presse",
@@ -346,16 +358,16 @@
       "publishedAt": "2026-11-22T19:50:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Cade Cunningham et les Pistons à l’affiche dès 21h30",
+      "url": "https://www.basketusa.com/news/959832/programme-du-soir-cade-cunningham-et-les-pistons-a-laffiche-des-21h30/",
+      "publishedAt": "2026-11-22T19:30:38+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Amazon frappe fort pour le Black Friday avec le Google Pixel 11 qui perd 400 € sur son prix",
       "url": "https://www.clubic.com/bons-plans-640489-amazon-frappe-fort-pour-le-black-friday-avec-le-google-pixel-11-qui-perd-400-sur-son-prix.html",
       "publishedAt": "2026-11-22T18:56:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Cade Cunningham et les Pistons à l’affiche dès 21h30",
-      "url": "https://www.basketusa.com/news/959832/programme-du-soir-cade-cunningham-et-les-pistons-a-laffiche-des-21h30/",
-      "publishedAt": "2026-11-22T18:30:38+00:00"
     },
     {
       "source": "gnt",
@@ -1802,12 +1814,6 @@
       "title": "Test Shark AquaReach Premium : un aspirateur laveur qui s’attaque aussi aux escaliers",
       "url": "https://www.clubic.com/test-produit-639895-test-shark-aquareach.html",
       "publishedAt": "2026-11-21T07:30:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Toutes les puces M6 ne se valent pas : l'iMac M6 est (un peu) plus lent que le Mac mini et le MacBook Pro",
-      "url": "https://www.macg.co/mac/2026/11/toutes-les-puces-m6-ne-se-valent-pas-limac-m6-est-un-peu-plus-lent-que-le-mac-mini-et-le-macbook-pro-312547",
-      "publishedAt": "2026-11-21T07:12:00+00:00"
     },
     {
       "source": "boulet",
