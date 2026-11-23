@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T06:50:39.203882+00:00",
+  "generatedAt": "2026-11-23T07:01:05.750295+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     },
     {
       "id": "mac4ever",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:50:39.203882+00:00"
+      "lastSuccessAt": "2026-11-23T07:01:05.750295+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Après les dérapages de ses IA, OpenAI veut pouvoir les arrêter plus vite",
+      "url": "https://www.journaldugeek.com/2026/11/23/apres-les-derapages-de-ses-ia-openai-veut-pouvoir-les-arreter-plus-vite/",
+      "publishedAt": "2026-11-23T06:57:59+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "500 000 kilomètres sans panne : c’est la voiture la plus solide d’après les contrôleurs techniques interrogés",
+      "url": "https://www.presse-citron.net/500-000-kilometres-sans-panne-cest-la-voiture-la-plus-solide-dapres-les-controleurs-techniques-interroges/",
+      "publishedAt": "2026-11-23T06:45:38+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Synology corrige deux vulnérabilités critiques sur ses NAS sous DSM",
+      "url": "https://www.generation-nt.com/actualites/synology-corrige-vulnerabilites-critiques-dsm-2084914",
+      "publishedAt": "2026-11-23T06:45:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les MVP de la nuit | Le monstre à deux têtes des Nuggets a encore frappé",
+      "url": "https://www.basketusa.com/news/959905/les-mvp-de-la-nuit-le-monstre-a-deux-tetes-des-nuggets-a-encore-frappe/",
+      "publishedAt": "2026-11-23T06:42:31+00:00"
+    },
     {
       "source": "presse",
       "title": "Un dinosaure à plumes a été découvert en Chine, remettant en question les théories sur l’évolution du vol chez les oiseaux et leurs ancêtres",
@@ -268,6 +292,12 @@
       "publishedAt": "2026-11-22T23:35:37+00:00"
     },
     {
+      "source": "macg",
+      "title": "Black Friday : 10 € de remise sur UPDF 3.0, l'éditeur PDF qui fait aussi signer vos contrats",
+      "url": "https://www.macg.co/services/2026/11/black-friday-10-eu-de-remise-sur-updf-30-lediteur-pdf-qui-fait-aussi-signer-vos-contrats-312569",
+      "publishedAt": "2026-11-22T22:30:00+00:00"
+    },
+    {
       "source": "tda",
       "title": "NFL semaine 11 : Les Giants s’offrent les Jaguars, les Chiefs se baladent",
       "url": "https://touchdownactu.com/361717/nfl-semaine-11-les-chiefs-se-baladent-dallas-en-mode-destruction/",
@@ -296,12 +326,6 @@
       "title": "Amazon frappe fort pour le Black Friday avec le Google Pixel 11 qui perd 400 € sur son prix",
       "url": "https://www.clubic.com/bons-plans-640489-amazon-frappe-fort-pour-le-black-friday-avec-le-google-pixel-11-qui-perd-400-sur-son-prix.html",
       "publishedAt": "2026-11-22T18:56:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : 10 € de remise sur UPDF 3.0, l'éditeur PDF qui fait aussi signer vos contrats",
-      "url": "https://www.macg.co/services/2026/11/black-friday-10-eu-de-remise-sur-updf-30-lediteur-pdf-qui-fait-aussi-signer-vos-contrats-312569",
-      "publishedAt": "2026-11-22T18:30:05+00:00"
     },
     {
       "source": "gnt",
@@ -1766,42 +1790,6 @@
       "title": "L'Homme de Rødhals témoigne du basculement vers l'agriculture",
       "url": "https://www.generation-nt.com/actualites/homme-rodhals-neolitique-mesolithique-agriculture-2084597",
       "publishedAt": "2026-11-21T07:10:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Ras-le-bol de l'IA générative ? Canva permet enfin de couper l'interrupteur (ou presque)",
-      "url": "https://www.clubic.com/actualite-640099-ras-le-bol-de-l-ia-generative-canva-permet-enfin-de-couper-l-interrupteur-ou-presque.html",
-      "publishedAt": "2026-11-21T07:01:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Sortie de veille : le nouveau visage surprise de l’iPhone Duo",
-      "url": "https://www.macg.co/podcasts/2026/11/sortie-de-veille-le-nouveau-visage-surprise-de-liphone-duo-312545",
-      "publishedAt": "2026-11-21T07:00:39+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "J’ai testé le nouveau Dell XPS 14 et je pense que la MacBook Air a encore de beaux jours devant lui",
-      "url": "https://www.presse-citron.net/dell-xps-14-2026-test/",
-      "publishedAt": "2026-11-21T07:00:29+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Avast VPN gratuit ou Avast Premium VPN : quelles différences et quelle version choisir ?",
-      "url": "https://www.clubic.com/actualite-639247-avast-vpn-gratuit-ou-avast-premium-vpn-quelles-differences-et-quelle-version-choisir.html",
-      "publishedAt": "2026-11-21T07:00:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "WhatsApp supprime une limite qui pourrait perturber certaines discussions",
-      "url": "https://www.iphon.fr/post/whatsapp-augmente-nombre-participants-max-conversation-groupe",
-      "publishedAt": "2026-11-21T06:54:45+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Stats & Highlights | Franz Wagner climatise Brooklyn",
-      "url": "https://www.basketusa.com/news/959491/stats-highlights-franz-wagner-climatise-brooklyn/",
-      "publishedAt": "2026-11-21T06:52:01+00:00"
     },
     {
       "source": "boulet",
