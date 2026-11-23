@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T20:10:40.327582+00:00",
+  "generatedAt": "2026-11-23T20:20:40.201191+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T20:10:40.327582+00:00"
+      "lastSuccessAt": "2026-11-23T20:20:40.201191+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "49ers : Brandon Aiyuk est officiellement coupé",
+      "url": "https://touchdownactu.com/361788/49ers-brandon-aiyuk-est-officiellement-coupe/",
+      "publishedAt": "2026-11-23T20:19:21+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "NO SPEAKER : cet utilitaire fait parler et chanter le trackpad de votre MacBook",
+      "url": "https://www.macg.co/logiciels/2026/11/no-speaker-cet-utilitaire-fait-parler-et-chanter-le-trackpad-de-votre-macbook-312605",
+      "publishedAt": "2026-11-23T20:15:53+00:00"
+    },
     {
       "source": "numerama",
       "title": "Anthropic lance Claude Ship, un outil qui veut valider votre code à la place de vos collègues",
@@ -236,6 +248,12 @@
       "title": "La Poste signe son premier accord sur l'IA, et l'algorithme ne pourra pas décider à la place des postiers",
       "url": "https://www.clubic.com/actualite-640651-la-poste-signe-son-premier-accord-sur-l-ia-et-l-algorithme-ne-pourra-pas-decider-a-la-place-des-postiers.html",
       "publishedAt": "2026-11-23T17:32:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
+      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
+      "publishedAt": "2026-11-23T17:31:53+00:00"
     },
     {
       "source": "clubic",
@@ -350,12 +368,6 @@
       "title": "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?",
       "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html",
       "publishedAt": "2026-11-23T16:32:54+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
-      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
-      "publishedAt": "2026-11-23T16:31:53+00:00"
     },
     {
       "source": "jdg",
@@ -1330,12 +1342,6 @@
       "publishedAt": "2026-11-23T10:01:51+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Josh Giddey répond avec orgueil aux choix de Tiago Splitter",
-      "url": "https://www.basketusa.com/news/959955/josh-giddey-repond-avec-orgueil-aux-choix-de-tiago-splitter/",
-      "publishedAt": "2026-11-23T09:58:15+00:00"
-    },
-    {
       "source": "presse",
       "title": "Les distributeurs tirent leur révérence en France : voici ce qui les remplace dès aujourd’hui",
       "url": "https://www.presse-citron.net/les-distributeurs-tirent-leur-reverence-en-france-voici-ce-qui-les-remplace-des-aujourdhui/",
@@ -1538,6 +1544,12 @@
       "title": "0,09 € le kilowattheure chez Auchan : Le Plein dégaine la recharge la moins chère de France pour Noël",
       "url": "https://www.numerama.com/vroom/2382279-009-e-le-kilowattheure-chez-auchan-le-plein-degaine-la-recharge-la-moins-chere-de-france-pour-noel.html",
       "publishedAt": "2026-11-23T08:58:21+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Josh Giddey répond avec orgueil aux choix de Tiago Splitter",
+      "url": "https://www.basketusa.com/news/959955/josh-giddey-repond-avec-orgueil-aux-choix-de-tiago-splitter/",
+      "publishedAt": "2026-11-23T08:58:15+00:00"
     },
     {
       "source": "presse",
