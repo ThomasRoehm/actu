@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:40:39.619102+00:00",
+  "generatedAt": "2026-11-23T14:50:38.941188+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:40:39.619102+00:00"
+      "lastSuccessAt": "2026-11-23T14:50:38.941188+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "La carte Avantage de la SNCF tombe en promo dès aujourd’hui pour le Black Friday",
+      "url": "https://www.numerama.com/vroom/2382351-la-carte-avantage-de-la-sncf-tombe-en-promo-des-aujourdhui-pour-le-black-friday.html",
+      "publishedAt": "2026-11-23T14:45:08+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 vient de sortir son premier patch, qu’est ce qu’il change ?",
+      "url": "https://www.journaldugeek.com/2026/11/23/gta-6-vient-de-sortir-son-premier-patch-quest-ce-quil-change/",
+      "publishedAt": "2026-11-23T14:43:29+00:00"
+    },
     {
       "source": "numerama",
       "title": "Un bug permet de jouer à GTA 6 à 60 fps (mais ne testez pas)",
@@ -2462,12 +2474,6 @@
       "title": "Chargemap victime d'une fuite de données : les anciens utilisateurs aussi concernés",
       "url": "https://www.macg.co/services/2026/11/chargemap-victime-dune-fuite-de-donnees-les-anciens-utilisateurs-aussi-concernes-312561",
       "publishedAt": "2026-11-21T14:54:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "90 % des dos-d’âne sont non-conformes en France : le gouvernement va légaliser ces ralentisseurs",
-      "url": "https://www.presse-citron.net/90-des-dos-dane-sont-non-conformes-en-france-le-gouvernement-va-legaliser-ces-ralentisseurs/",
-      "publishedAt": "2026-11-21T14:45:42+00:00"
     },
     {
       "source": "boulet",
