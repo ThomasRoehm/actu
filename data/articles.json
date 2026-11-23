@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T17:40:38.864930+00:00",
+  "generatedAt": "2026-11-23T17:50:40.901633+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:40:38.864930+00:00"
+      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Vous codez votre site avec Claude ? Pour le Black Friday, o2switch l'héberge à 0,99€ HT par mois",
+      "url": "https://www.clubic.com/bons-plans-640624-vous-codez-votre-site-avec-claude-pour-le-black-friday-o2switch-l-heberge-a-0-99-ht-par-mois.html",
+      "publishedAt": "2026-11-23T17:45:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "La Poste signe son premier accord sur l'IA, et l'algorithme ne pourra pas décider à la place des postiers",
@@ -731,12 +737,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Walter Clayton Jr. a trouvé son point de chute à Dallas",
-      "url": "https://www.basketusa.com/news/959860/walter-clayton-jr-a-trouve-son-point-de-chute-a-dallas/",
-      "publishedAt": "2026-11-23T13:27:58+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
       "publishedAt": "2026-11-23T13:25:21+00:00"
@@ -848,6 +848,12 @@
       "title": "Black Friday : 10 € de remise sur UPDF 3.0, l'éditeur PDF qui fait aussi signer vos contrats",
       "url": "https://www.macg.co/services/2026/11/black-friday-10-eu-de-remise-sur-updf-30-lediteur-pdf-qui-fait-aussi-signer-vos-contrats-312569",
       "publishedAt": "2026-11-23T12:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Walter Clayton Jr. a trouvé son point de chute à Dallas",
+      "url": "https://www.basketusa.com/news/959860/walter-clayton-jr-a-trouve-son-point-de-chute-a-dallas/",
+      "publishedAt": "2026-11-23T12:27:58+00:00"
     },
     {
       "source": "macg",
@@ -2648,12 +2654,6 @@
       "title": "James Bond : on a classé les films de Daniel Craig du pire au meilleur pour célébrer Robert Pattinson",
       "url": "https://www.numerama.com/pop-culture/2379985-james-bond-on-a-classe-les-films-de-daniel-craig-du-pire-au-meilleur-film-pour-feter-robert-pattinson.html",
       "publishedAt": "2026-11-21T18:10:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Les Sixers affrontent les Bucks dès 19h00",
-      "url": "https://www.basketusa.com/news/959602/programme-du-soir-les-sixers-affrontent-les-bucks-des-19h00/",
-      "publishedAt": "2026-11-21T17:50:22+00:00"
     },
     {
       "source": "boulet",
