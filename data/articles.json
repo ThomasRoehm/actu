@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:30:54.292732+00:00",
+  "generatedAt": "2026-11-23T07:40:38.986803+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T07:30:54.292732+00:00"
+      "lastSuccessAt": "2026-11-23T07:40:38.986803+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Draymond Green a remis les Warriors sur les bons rails",
+      "url": "https://www.basketusa.com/news/959935/draymond-green-a-remis-les-warriors-sur-les-bons-rails/",
+      "publishedAt": "2026-11-23T07:30:56+00:00"
+    },
     {
       "source": "clubic",
       "title": "Votre hébergement Web souverain vous est proposé à - 93 % de réduction pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-640087-votre-hebergement-web-souverain-vous-est-propose-a---93-de-reduction-pour-le-black-friday.html",
       "publishedAt": "2026-11-23T07:30:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Voici à quoi l’iPhone 18 plus abordable devrait ressembler",
+      "url": "https://www.journaldugeek.com/2026/11/23/voici-a-quoi-liphone-18-plus-abordable-devrait-ressembler/",
+      "publishedAt": "2026-11-23T07:29:10+00:00"
     },
     {
       "source": "gnt",
@@ -1814,12 +1826,6 @@
       "title": "Brandon Ingram va enfin faire ses grands débuts avec les Clippers",
       "url": "https://www.basketusa.com/news/959434/brandon-ingram-va-enfin-faire-ses-grands-debuts-avec-les-clippers/",
       "publishedAt": "2026-11-21T07:41:20+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : une promo vous tente ? Ce prompt IA vérifie le prix et cherche moins cher ailleurs",
-      "url": "https://www.clubic.com/actualite-640222-black-friday-une-promo-vous-tente-ce-prompt-ia-verifie-le-prix-et-cherche-moins-cher-ailleurs.html",
-      "publishedAt": "2026-11-21T07:32:00+00:00"
     },
     {
       "source": "boulet",
