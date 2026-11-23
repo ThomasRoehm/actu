@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T17:50:40.901633+00:00",
+  "generatedAt": "2026-11-23T18:01:09.532751+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T17:50:40.901633+00:00"
+      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Londres rouvre ses portes aux jeunes européens : voici les quotas discutés, 10 ans après le Brexit",
+      "url": "https://www.presse-citron.net/londres-rouvre-ses-portes-aux-jeunes-europeens-voici-les-quotas-discutes-10-ans-apres-le-brexit/",
+      "publishedAt": "2026-11-23T17:53:44+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures offres tech du lundi 23 novembre",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-23T17:53:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Fractionner sa marche quotidienne stabilise mieux la glycémie qu'une longue séance",
+      "url": "https://www.generation-nt.com/actualites/fractionner-marche-stabilise-glycemie-2084919",
+      "publishedAt": "2026-11-23T17:45:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Vous codez votre site avec Claude ? Pour le Black Friday, o2switch l'héberge à 0,99€ HT par mois",
@@ -146,12 +164,6 @@
       "title": "La Poste signe son premier accord sur l'IA, et l'algorithme ne pourra pas décider à la place des postiers",
       "url": "https://www.clubic.com/actualite-640651-la-poste-signe-son-premier-accord-sur-l-ia-et-l-algorithme-ne-pourra-pas-decider-a-la-place-des-postiers.html",
       "publishedAt": "2026-11-23T17:32:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
-      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
-      "publishedAt": "2026-11-23T17:31:53+00:00"
     },
     {
       "source": "clubic",
@@ -266,6 +278,12 @@
       "title": "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?",
       "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html",
       "publishedAt": "2026-11-23T16:32:54+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
+      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
+      "publishedAt": "2026-11-23T16:31:53+00:00"
     },
     {
       "source": "jdg",
@@ -464,12 +482,6 @@
       "title": "Black Friday Switch 2 : n’attendez pas le 27, Amazon baisse déjà la console, les packs et les manettes",
       "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
       "publishedAt": "2026-11-23T15:20:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures offres tech du lundi 23 novembre",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-23T15:19:00+00:00"
     },
     {
       "source": "presse",
@@ -737,6 +749,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Walter Clayton Jr. a trouvé son point de chute à Dallas",
+      "url": "https://www.basketusa.com/news/959860/walter-clayton-jr-a-trouve-son-point-de-chute-a-dallas/",
+      "publishedAt": "2026-11-23T13:27:58+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
       "publishedAt": "2026-11-23T13:25:21+00:00"
@@ -848,12 +866,6 @@
       "title": "Black Friday : 10 € de remise sur UPDF 3.0, l'éditeur PDF qui fait aussi signer vos contrats",
       "url": "https://www.macg.co/services/2026/11/black-friday-10-eu-de-remise-sur-updf-30-lediteur-pdf-qui-fait-aussi-signer-vos-contrats-312569",
       "publishedAt": "2026-11-23T12:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Walter Clayton Jr. a trouvé son point de chute à Dallas",
-      "url": "https://www.basketusa.com/news/959860/walter-clayton-jr-a-trouve-son-point-de-chute-a-dallas/",
-      "publishedAt": "2026-11-23T12:27:58+00:00"
     },
     {
       "source": "macg",
