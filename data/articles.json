@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T10:30:55.377233+00:00",
+  "generatedAt": "2026-11-23T10:40:47.039812+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T10:30:55.377233+00:00"
+      "lastSuccessAt": "2026-11-23T10:40:47.039812+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "« La superintelligence est en train d’arriver » : après Riemann, le patron de l’IA chez Meta appelle à ne pas lui céder les commandes",
+      "url": "https://www.numerama.com/tech/2382285-la-superintelligence-est-en-train-darriver-apres-riemann-le-patron-de-lia-chez-meta-appelle-a-ne-pas-lui-ceder-les-commandes.html",
+      "publishedAt": "2026-11-23T10:40:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Coup d'arrêt à Kourou, Ariane 6 reporte son 10e vol, prévu pour Amazon Leo, en raison d'un problème technique",
+      "url": "https://www.clubic.com/actualite-640540-coup-d-arret-a-kourou-ariane-6-reporte-son-10e-vol-prevu-pour-amazon-leo-en-raison-d-un-probleme-technique.html",
+      "publishedAt": "2026-11-23T10:32:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Le pire est-il à craindre ? La Russie s’apprêterait à lancer un satellite doté d’une charge nucléaire",
+      "url": "https://www.presse-citron.net/le-pire-est-il-a-craindre-la-russie-sappreterait-a-lancer-un-satellite-dote-dune-charge-nucleaire/",
+      "publishedAt": "2026-11-23T10:30:58+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Maman, j’ai raté l’avion va accoucher d’une nouvelle suite avec le retour de Macaulay Culkin !",
+      "url": "https://www.journaldugeek.com/2026/11/23/maman-jai-rate-lavion-va-accoucher-dune-nouvelle-suite-avec-le-retour-de-macaulay-culkin/",
+      "publishedAt": "2026-11-23T10:30:26+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday 2026 : CleanMyMac passe à -30 % pour nettoyer et optimiser votre Mac",
@@ -394,12 +418,6 @@
       "publishedAt": "2026-11-23T09:10:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "La LeBron XXIV est arrivée !",
-      "url": "https://www.basketusa.com/news/959871/la-lebron-xxiv-est-arrivee/",
-      "publishedAt": "2026-11-23T09:03:40+00:00"
-    },
-    {
       "source": "jdg",
       "title": "GTA 6 pour PC : en attendant sa sortie, ne tombez pas dans ces pièges",
       "url": "https://www.journaldugeek.com/2026/11/23/gta-6-pour-pc-en-attendant-sa-sortie-ne-tombez-pas-dans-ces-pieges/",
@@ -542,6 +560,12 @@
       "title": "Alors que ChatGPT Classic va disparaître, OpenAI tâtonne toujours avec sa nouvelle app unifiée",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/alors-que-chatgpt-classic-va-disparaitre-openai-tatonne-toujours-avec-sa-nouvelle-app-unifiee-312583",
       "publishedAt": "2026-11-23T08:03:53+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La LeBron XXIV est arrivée !",
+      "url": "https://www.basketusa.com/news/959871/la-lebron-xxiv-est-arrivee/",
+      "publishedAt": "2026-11-23T08:03:40+00:00"
     },
     {
       "source": "jdg",
@@ -2036,12 +2060,6 @@
       "title": "Héritage : vous pouvez récupérer l’argent des comptes bancaires sans passer par un notaire si vous respectez ces conditions",
       "url": "https://www.presse-citron.net/heritage-vous-pouvez-recuperer-largent-des-comptes-bancaires-sans-passer-par-un-notaire-si-vous-respectez-ces-conditions/",
       "publishedAt": "2026-11-21T10:45:46+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Découverte de deux nouvelles espèces de singes hurleurs en Amazonie",
-      "url": "https://www.generation-nt.com/actualites/singes-hurleurs-nouvelles-especes-amazonie-biodiversite-2084601",
-      "publishedAt": "2026-11-21T10:40:01+00:00"
     },
     {
       "source": "boulet",
