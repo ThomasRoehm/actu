@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:01:09.532751+00:00",
+  "generatedAt": "2026-11-23T18:10:52.219760+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T18:01:09.532751+00:00"
+      "lastSuccessAt": "2026-11-23T18:10:52.219760+00:00"
     }
   ],
   "articles": [
@@ -164,6 +164,12 @@
       "title": "La Poste signe son premier accord sur l'IA, et l'algorithme ne pourra pas décider à la place des postiers",
       "url": "https://www.clubic.com/actualite-640651-la-poste-signe-son-premier-accord-sur-l-ia-et-l-algorithme-ne-pourra-pas-decider-a-la-place-des-postiers.html",
       "publishedAt": "2026-11-23T17:32:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
+      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
+      "publishedAt": "2026-11-23T17:31:53+00:00"
     },
     {
       "source": "clubic",
@@ -278,12 +284,6 @@
       "title": "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?",
       "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html",
       "publishedAt": "2026-11-23T16:32:54+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
-      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
-      "publishedAt": "2026-11-23T16:31:53+00:00"
     },
     {
       "source": "jdg",
@@ -778,12 +778,6 @@
       "publishedAt": "2026-11-23T13:21:48+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Washington Wizards – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/960072/washington-wizards-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-23T13:20:43+00:00"
-    },
-    {
       "source": "clubic",
       "title": "OpenAI : voici comment l'entreprise veut freiner le développement de l’IA",
       "url": "https://www.clubic.com/actualite-640594-openai-voici-comment-l-entreprise-veut-freiner-le-developpement-de-l-ia.html",
@@ -878,6 +872,12 @@
       "title": "Amazon brade les AirTags pendant le Black Friday : économisez 55 € en en achetant 4 d’un coup !",
       "url": "https://www.iphon.fr/post/amazon-brade-airtags-black-friday-economisez-55-euros-4-un-coup",
       "publishedAt": "2026-11-23T12:22:32+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Washington Wizards – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/960072/washington-wizards-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-23T12:20:43+00:00"
     },
     {
       "source": "numerama",
@@ -2660,12 +2660,6 @@
       "title": "Plex lâche TheTVDB",
       "url": "https://korben.info/plex-abandonne-thetvdb.html",
       "publishedAt": "2026-11-21T18:19:38+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "James Bond : on a classé les films de Daniel Craig du pire au meilleur pour célébrer Robert Pattinson",
-      "url": "https://www.numerama.com/pop-culture/2379985-james-bond-on-a-classe-les-films-de-daniel-craig-du-pire-au-meilleur-film-pour-feter-robert-pattinson.html",
-      "publishedAt": "2026-11-21T18:10:00+00:00"
     },
     {
       "source": "boulet",
