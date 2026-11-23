@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:10:41.795657+00:00",
+  "generatedAt": "2026-11-23T14:20:40.209855+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,57 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T14:10:41.795657+00:00"
+      "lastSuccessAt": "2026-11-23T14:20:40.209855+00:00"
     }
   ],
   "articles": [
     {
       "source": "mac4ever",
+      "title": "Nvidia : Jensen Huang réintégré à l’unanimité par le conseil d’administration !",
+      "url": "https://www.mac4ever.com/ia/199224-nvidia-jensen-huang-reintegre-a-l-unanimite-par-le-conseil-d-administration",
+      "publishedAt": "2026-11-23T14:20:09+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Apple est «structurellement en retard» sur l’IA",
+      "url": "https://www.iphon.fr/post/apple-retard-intelligence-artificielle",
+      "publishedAt": "2026-11-23T14:16:34+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Immense rebondissement : Jensen Huang redevient le patron de Nvidia",
+      "url": "https://www.numerama.com/tech/2382845-immense-rebondissement-jensen-huang-redevient-le-patron-de-nvidia.html",
+      "publishedAt": "2026-11-23T14:14:35+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Visa prépare plus que jamais les boutiques européennes à des clients qui ne sont pas humains",
+      "url": "https://www.clubic.com/actualite-640588-visa-prepare-plus-que-jamais-les-boutiques-europeennes-a-des-clients-qui-ne-sont-pas-humains.html",
+      "publishedAt": "2026-11-23T14:13:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Jensen Huang reprend la tête de NVIDIA, six jours après que le groupe a exclu son retour",
+      "url": "https://www.clubic.com/actualite-640633-jensen-huang-reprend-la-tete-de-nvidia-six-jours-apres-que-le-groupe-a-exclu-son-retour.html",
+      "publishedAt": "2026-11-23T14:13:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Moins de 23€ une fois : 1min.AI Pro ouvre ChatGPT, Claude et Gemini à vie pour le Black Friday",
+      "url": "https://www.clubic.com/bons-plans-640612-moins-de-23-une-fois-1min-ai-pro-ouvre-chatgpt-claude-et-gemini-a-vie-pour-le-black-friday.html",
+      "publishedAt": "2026-11-23T14:11:00+00:00"
+    },
+    {
+      "source": "mac4ever",
       "title": "Sept masculinistes jugés à Paris, Telegram a livré leurs données à la justice",
       "url": "https://www.mac4ever.com/societe/199221-sept-masculinistes-juges-a-paris-telegram-a-livre-leurs-donnees-a-la-justice",
       "publishedAt": "2026-11-23T14:10:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Surprise ! Nvidia annonce le retour de Jensen Huang au poste de CEO",
+      "url": "https://www.presse-citron.net/surprise-nvidia-annonce-le-retour-de-jensen-huang-au-poste-de-ceo/",
+      "publishedAt": "2026-11-23T14:08:02+00:00"
     },
     {
       "source": "jdg",
@@ -154,10 +196,16 @@
       "publishedAt": "2026-11-23T14:04:00+00:00"
     },
     {
+      "source": "presse",
+      "title": "Ni TikTok ni ChatGPT : voici les 3 meilleures applications iPhone en 2026, selon Apple",
+      "url": "https://www.presse-citron.net/ni-tiktok-ni-chatgpt-voici-les-3-meilleures-applications-iphone-en-2026-selon-apple/",
+      "publishedAt": "2026-11-23T14:03:42+00:00"
+    },
+    {
       "source": "macg",
       "title": "Volte-face chez Nvidia : le conseil d'administration rappelle Jensen Huang aux commandes",
       "url": "https://www.macg.co/ailleurs/2026/11/volte-face-chez-nvidia-le-conseil-dadministration-rappelle-jensen-huang-aux-commandes-312599",
-      "publishedAt": "2026-11-23T14:03:50+00:00"
+      "publishedAt": "2026-11-23T14:03:00+00:00"
     },
     {
       "source": "clubic",
@@ -188,6 +236,12 @@
       "title": "Avengers 5 : immense casting, rumeurs et date… tout ce qu’il faut savoir sur Doomsday",
       "url": "https://www.journaldugeek.com/dossier/avengers-5-date-intrigue-et-casting-tout-savoir-sur-doomsday/",
       "publishedAt": "2026-11-23T13:52:20+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Ultrahuman Ring Pro - cette bague connectée a (presque) remplacé mon Apple Watch",
+      "url": "https://korben.info/ultrahuman-ring-pro-cette-bague-connectee-a-presque-remplace-mon-apple-watch.html",
+      "publishedAt": "2026-11-23T13:51:39+00:00"
     },
     {
       "source": "numerama",
@@ -266,6 +320,12 @@
       "title": "Signal empêche les IA de lire vos messages par-dessus votre épaule",
       "url": "https://korben.info/signal-empeche-les-ia-de-lire-vos-messages-par-dessus-votre-epaule.html",
       "publishedAt": "2026-11-23T13:21:48+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Washington Wizards – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/960072/washington-wizards-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-23T13:20:43+00:00"
     },
     {
       "source": "clubic",
@@ -2366,12 +2426,6 @@
       "title": "Faut-il mettre fin à Dragon Quest sans Akira Toriyama ?",
       "url": "https://www.numerama.com/pop-culture/2377107-faut-il-mettre-fin-a-dragon-quest-sans-akira-toriyama.html",
       "publishedAt": "2026-11-21T14:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Tom Thibodeau veut revenir en NBA, mais pas à n’importe quel prix",
-      "url": "https://www.basketusa.com/news/959580/tom-thibodeau-veut-revenir-en-nba-mais-pas-a-nimporte-quel-prix/",
-      "publishedAt": "2026-11-21T14:12:27+00:00"
     },
     {
       "source": "boulet",
