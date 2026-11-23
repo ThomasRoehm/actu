@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:20:45.833360+00:00",
+  "generatedAt": "2026-11-23T11:30:55.082728+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:20:45.833360+00:00"
+      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Si vous cherchez le premier smartphone de votre ado, le Galaxy A37 5G vient de baisser pour le Black Friday",
+      "url": "https://www.numerama.com/tech/2382539-si-vous-cherchez-le-premier-smartphone-de-votre-ado-le-galaxy-a37-5g-vient-de-baisser-pour-le-black-friday.html",
+      "publishedAt": "2026-11-23T11:29:53+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "La justice européenne interdit à BYD de vendre son clone du Land Rover Defender",
+      "url": "https://www.generation-nt.com/actualites/justice-europeenne-interdit-byd-defender-2084917",
+      "publishedAt": "2026-11-23T11:25:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "VMware : une faille critique exploitée depuis septembre, un outil de piratage désormais proposé à 30 000 dollars",
+      "url": "https://www.clubic.com/actualite-640570-vmware-une-faille-critique-exploitee-depuis-septembre-un-outil-de-piratage-desormais-propose-a-30-000-dollars.html",
+      "publishedAt": "2026-11-23T11:24:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Alpine A290 GTX : une version 300 ch et 4x4 pour doubler la Peugeot E-208 GTI ?",
@@ -146,6 +164,12 @@
       "title": "GTA 6 : comment gagner de l’argent facilement et ne pas le perdre bêtement ?",
       "url": "https://www.numerama.com/pop-culture/2382569-gta-6-comment-gagner-de-largent-facilement-et-ne-pas-le-perdre-betement.html",
       "publishedAt": "2026-11-23T11:16:19+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ariane 6 : le lancement de la fusée française pour le compte d’Amazon est décalé",
+      "url": "https://www.presse-citron.net/ariane-6-le-lancement-de-la-fusee-francaise-pour-le-compte-damazon-est-decale/",
+      "publishedAt": "2026-11-23T11:15:37+00:00"
     },
     {
       "source": "clubic",
