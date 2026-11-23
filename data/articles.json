@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:30:55.082728+00:00",
+  "generatedAt": "2026-11-23T11:40:40.466579+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T11:30:55.082728+00:00"
+      "lastSuccessAt": "2026-11-23T11:40:40.466579+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday iPhone : 18 Pro, 17 Pro, Air, voici les offres qui valent vraiment le coup",
+      "url": "https://www.clubic.com/bons-plans-640555-black-friday-iphone-18-pro-17-pro-air-les-offres-qui-valent-vraiment-le-coup.html",
+      "publishedAt": "2026-11-23T11:39:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 se passe-t-il dans le même univers que Red Dead Redemption ?",
+      "url": "https://www.journaldugeek.com/2026/11/23/gta-6-se-passe-t-il-dans-le-meme-univers-que-red-dead-redemption/",
+      "publishedAt": "2026-11-23T11:37:46+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Tesla FSD v15 : Elon Musk promet une conduite « 25 fois meilleure », mais difficile de le croire sur parole",
+      "url": "https://www.presse-citron.net/tesla-fsd-v15-elon-musk-promet-conduite-25-fois-meilleure-croire-parole/",
+      "publishedAt": "2026-11-23T11:32:29+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 : Amazon lance 30 offres tech jusqu'à -67%, de l'iPhone Air au Galaxy S26 Ultra",
+      "url": "https://www.clubic.com/bons-plans-640573-black-friday-2026-amazon-lance-30-offres-tech-jusqu-a--67-de-l-iphone-air-au-galaxy-s26-ultra.html",
+      "publishedAt": "2026-11-23T11:32:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Et maintenant, les Bulls perdent Norman Powell",
+      "url": "https://www.basketusa.com/news/959872/et-maintenant-les-bulls-perdent-norman-powell/",
+      "publishedAt": "2026-11-23T11:30:46+00:00"
+    },
     {
       "source": "numerama",
       "title": "Si vous cherchez le premier smartphone de votre ado, le Galaxy A37 5G vient de baisser pour le Black Friday",
@@ -406,12 +436,6 @@
       "publishedAt": "2026-11-23T10:01:51+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Josh Giddey répond avec orgueil aux choix de Tiago Splitter",
-      "url": "https://www.basketusa.com/news/959955/josh-giddey-repond-avec-orgueil-aux-choix-de-tiago-splitter/",
-      "publishedAt": "2026-11-23T09:58:15+00:00"
-    },
-    {
       "source": "presse",
       "title": "Les distributeurs tirent leur révérence en France : voici ce qui les remplace dès aujourd’hui",
       "url": "https://www.presse-citron.net/les-distributeurs-tirent-leur-reverence-en-france-voici-ce-qui-les-remplace-des-aujourdhui/",
@@ -520,6 +544,12 @@
       "publishedAt": "2026-11-23T09:33:50+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Chez les Mavs, Zaccharie Risacher apprend à peser autrement",
+      "url": "https://www.basketusa.com/news/959985/a-dallas-zaccharie-risacher-apprend-a-peser-autrement/",
+      "publishedAt": "2026-11-23T09:32:35+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Un autre perso du MCU revient dans Avengers Doomsday et on ne s’y attendait absolument pas !",
       "url": "https://www.journaldugeek.com/2026/11/23/un-autre-perso-du-mcu-revient-dans-avengers-doomsday-et-on-ne-sy-attendait-absolument-pas/",
@@ -610,6 +640,12 @@
       "publishedAt": "2026-11-23T08:58:21+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Josh Giddey répond avec orgueil aux choix de Tiago Splitter",
+      "url": "https://www.basketusa.com/news/959955/josh-giddey-repond-avec-orgueil-aux-choix-de-tiago-splitter/",
+      "publishedAt": "2026-11-23T08:58:15+00:00"
+    },
+    {
       "source": "presse",
       "title": "« C’est une idée à explorer » : Emmanuel Macron confirme réfléchir à instaurer une règle d’or budgétaire dans la Constitution",
       "url": "https://www.presse-citron.net/cest-une-idee-a-explorer-emmanuel-macron-confirme-reflechir-a-instaurer-une-regle-dor-budgetaire-dans-la-constitution/",
@@ -674,12 +710,6 @@
       "title": "Les scènes de sexe de GTA 6 ont représenté un gros défi pour Rockstar",
       "url": "https://www.numerama.com/pop-culture/2382249-les-scenes-de-sexe-de-gta-6-ont-represente-un-gros-defi-pour-rockstar.html",
       "publishedAt": "2026-11-23T08:39:58+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Chez les Mavs, Zaccharie Risacher apprend à peser autrement",
-      "url": "https://www.basketusa.com/news/959985/a-dallas-zaccharie-risacher-apprend-a-peser-autrement/",
-      "publishedAt": "2026-11-23T08:32:35+00:00"
     },
     {
       "source": "clubic",
@@ -770,12 +800,6 @@
       "title": "Cybersécurité et IA : « le passage à l'an 2000 avait au moins une date », avertit Satya Nadella",
       "url": "https://www.macg.co/ailleurs/2026/11/cybersecurite-et-ia-le-passage-lan-2000-avait-au-moins-une-date-avertit-satya-nadella-312581",
       "publishedAt": "2026-11-23T07:37:34+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Draymond Green a remis les Warriors sur les bons rails",
-      "url": "https://www.basketusa.com/news/959935/draymond-green-a-remis-les-warriors-sur-les-bons-rails/",
-      "publishedAt": "2026-11-23T07:30:56+00:00"
     },
     {
       "source": "clubic",
@@ -872,6 +896,12 @@
       "title": "Black Friday : NordVPN frappe fort avec 78 % de réduction et son VPN dès 2,99 €/mois !",
       "url": "https://www.clubic.com/actualite-640036-black-friday-nordvpn-frappe-fort-avec-78-de-reduction-et-son-vpn-des-2-99-mois.html",
       "publishedAt": "2026-11-23T06:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Draymond Green a remis les Warriors sur les bons rails",
+      "url": "https://www.basketusa.com/news/959935/draymond-green-a-remis-les-warriors-sur-les-bons-rails/",
+      "publishedAt": "2026-11-23T06:30:56+00:00"
     },
     {
       "source": "clubic",
@@ -2144,12 +2174,6 @@
       "title": "Dallas Mavericks – Los Angeles Clippers : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/959404/dallas-mavericks-los-angeles-clippers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-21T11:47:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Tyrese Haliburton obligé de patienter deux semaines supplémentaires",
-      "url": "https://www.basketusa.com/news/959436/tyrese-haliburton-oblige-de-patienter-deux-semaines-supplementaires/",
-      "publishedAt": "2026-11-21T11:34:45+00:00"
     },
     {
       "source": "boulet",
