@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:10:42.431932+00:00",
+  "generatedAt": "2026-11-23T15:20:40.203472+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T15:10:42.431932+00:00"
+      "lastSuccessAt": "2026-11-23T15:20:40.203472+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures offres tech du lundi 23 novembre",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-23T15:19:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "BYD rattrape Nissan au Japon, sur un marché bien particulier...",
@@ -218,12 +224,6 @@
       "title": "Gemini va accueillir la fonctionnalité parfaite pour les plus pressés",
       "url": "https://www.journaldugeek.com/2026/11/23/gemini-accueillir-fonctionnalite-parfaite-plus-presses/",
       "publishedAt": "2026-11-23T14:30:33+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures offres tech du lundi 23 novembre",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-23T14:30:00+00:00"
     },
     {
       "source": "gnt",
@@ -400,34 +400,16 @@
       "publishedAt": "2026-11-23T13:27:58+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-23T13:25:21+00:00"
-    },
-    {
       "source": "gnt",
       "title": "GTA VI sur Nintendo Switch 2 : Digital Foundry juge le portage impossible !",
       "url": "https://www.generation-nt.com/actualites/gta-vi-switch-digital-foundry-2084921",
       "publishedAt": "2026-11-23T13:25:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/960064/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-23T13:23:48+00:00"
-    },
-    {
       "source": "korben",
       "title": "Signal empêche les IA de lire vos messages par-dessus votre épaule",
       "url": "https://korben.info/signal-empeche-les-ia-de-lire-vos-messages-par-dessus-votre-epaule.html",
       "publishedAt": "2026-11-23T13:21:48+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Washington Wizards – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/960072/washington-wizards-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-23T13:20:43+00:00"
     },
     {
       "source": "clubic",
@@ -520,10 +502,28 @@
       "publishedAt": "2026-11-23T12:26:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-23T12:25:21+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/960064/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-23T12:23:48+00:00"
+    },
+    {
       "source": "iphon",
       "title": "Amazon brade les AirTags pendant le Black Friday : économisez 55 € en en achetant 4 d’un coup !",
       "url": "https://www.iphon.fr/post/amazon-brade-airtags-black-friday-economisez-55-euros-4-un-coup",
       "publishedAt": "2026-11-23T12:22:32+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Washington Wizards – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/960072/washington-wizards-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-23T12:20:43+00:00"
     },
     {
       "source": "numerama",
@@ -916,12 +916,6 @@
       "publishedAt": "2026-11-23T10:01:51+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Josh Giddey répond avec orgueil aux choix de Tiago Splitter",
-      "url": "https://www.basketusa.com/news/959955/josh-giddey-repond-avec-orgueil-aux-choix-de-tiago-splitter/",
-      "publishedAt": "2026-11-23T09:58:15+00:00"
-    },
-    {
       "source": "presse",
       "title": "Les distributeurs tirent leur révérence en France : voici ce qui les remplace dès aujourd’hui",
       "url": "https://www.presse-citron.net/les-distributeurs-tirent-leur-reverence-en-france-voici-ce-qui-les-remplace-des-aujourdhui/",
@@ -1126,6 +1120,12 @@
       "publishedAt": "2026-11-23T08:58:21+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Josh Giddey répond avec orgueil aux choix de Tiago Splitter",
+      "url": "https://www.basketusa.com/news/959955/josh-giddey-repond-avec-orgueil-aux-choix-de-tiago-splitter/",
+      "publishedAt": "2026-11-23T08:58:15+00:00"
+    },
+    {
       "source": "presse",
       "title": "« C’est une idée à explorer » : Emmanuel Macron confirme réfléchir à instaurer une règle d’or budgétaire dans la Constitution",
       "url": "https://www.presse-citron.net/cest-une-idee-a-explorer-emmanuel-macron-confirme-reflechir-a-instaurer-une-regle-dor-budgetaire-dans-la-constitution/",
@@ -1282,6 +1282,12 @@
       "publishedAt": "2026-11-23T07:37:34+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Draymond Green a remis les Warriors sur les bons rails",
+      "url": "https://www.basketusa.com/news/959935/draymond-green-a-remis-les-warriors-sur-les-bons-rails/",
+      "publishedAt": "2026-11-23T07:30:56+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Votre hébergement Web souverain vous est proposé à - 93 % de réduction pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-640087-votre-hebergement-web-souverain-vous-est-propose-a---93-de-reduction-pour-le-black-friday.html",
@@ -1376,12 +1382,6 @@
       "title": "Black Friday : NordVPN frappe fort avec 78 % de réduction et son VPN dès 2,99 €/mois !",
       "url": "https://www.clubic.com/actualite-640036-black-friday-nordvpn-frappe-fort-avec-78-de-reduction-et-son-vpn-des-2-99-mois.html",
       "publishedAt": "2026-11-23T06:31:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Draymond Green a remis les Warriors sur les bons rails",
-      "url": "https://www.basketusa.com/news/959935/draymond-green-a-remis-les-warriors-sur-les-bons-rails/",
-      "publishedAt": "2026-11-23T06:30:56+00:00"
     },
     {
       "source": "clubic",
