@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:10:46.919438+00:00",
+  "generatedAt": "2026-11-23T08:20:37.875123+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T08:10:46.919438+00:00"
+      "lastSuccessAt": "2026-11-23T08:20:37.875123+00:00"
     }
   ],
   "articles": [
@@ -164,6 +164,12 @@
       "title": "Gabe Vincent vient renforcer les Kings",
       "url": "https://www.basketusa.com/news/959853/gabe-vincent-vient-renforcer-les-kings/",
       "publishedAt": "2026-11-23T07:57:17+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Data centers, l'Irlande en avale 22 % de son électricité et dit stop",
+      "url": "https://korben.info/data-centers-lirlande-en-avale-22-de-son-electricite-et-dit-stop.html",
+      "publishedAt": "2026-11-23T07:56:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -1838,12 +1844,6 @@
       "title": "Les jeux indispensables pour l’iPhone Duo",
       "url": "https://www.mac4ever.com/iphone/199034-les-jeux-indispensables-pour-l-iphone-duo",
       "publishedAt": "2026-11-21T08:21:47+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "AirPods : réglez enfin le bruit ambiant en deux gestes avec iOS 27",
-      "url": "https://www.mac4ever.com/audio/199185-airpods-reglez-enfin-le-bruit-ambiant-en-deux-gestes-avec-ios-27",
-      "publishedAt": "2026-11-21T08:20:00+00:00"
     },
     {
       "source": "boulet",
