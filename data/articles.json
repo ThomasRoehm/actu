@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:01:08.821743+00:00",
+  "generatedAt": "2026-11-23T16:10:40.879142+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T16:01:08.821743+00:00"
+      "lastSuccessAt": "2026-11-23T16:10:40.879142+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Sauvegardes cassées, missions bloquées... GTA 6 reçoit son premier patch depuis sa sortie sur PS5 et Xbox",
+      "url": "https://www.clubic.com/actualite-640666-sauvegardes-cassees-missions-bloquees-gta-6-recoit-son-premier-patch-depuis-sa-sortie-sur-ps5-et-xbox.html",
+      "publishedAt": "2026-11-23T16:08:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Le Sony WH-1000XM6 est à son meilleur prix sur Amazon au Black Friday (-30%)",
+      "url": "https://www.iphon.fr/post/sony-wh-1000xm6-meilleur-prix-amazon-black-friday",
+      "publishedAt": "2026-11-23T16:07:29+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 sur PC : une version pirate est en ligne, mais le jeu ne se lance pas encore",
+      "url": "https://www.numerama.com/tech/2382377-gta-6-sur-pc-une-version-pirate-des-aujourdhui.html",
+      "publishedAt": "2026-11-23T16:06:02+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Kodak SlideTag : allez-vous craquer pour ce mini cadre photo numérique qui sert aussi de tracker ?",
+      "url": "https://www.mac4ever.com/culture/199219-kodak-slidetag-allez-vous-craquer-pour-ce-mini-cadre-photo-numerique-qui-sert-aussi-de-tracker",
+      "publishedAt": "2026-11-23T16:02:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Avec Nyx de The Exploration Company, l’Europe tient peut-être sa première capsule pour le vol habité : pourquoi ça change tout",
+      "url": "https://www.presse-citron.net/avec-nyx-de-the-exploration-company-leurope-tient-peut-etre-sa-premiere-capsule-pour-le-vol-habite-pourquoi-ca-change-tout/",
+      "publishedAt": "2026-11-23T16:00:48+00:00"
+    },
     {
       "source": "numerama",
       "title": "Le « boss final » des mathématiques : après Riemann, tous les regards se tournent vers P vs NP",
@@ -199,6 +229,12 @@
       "source": "basketusa",
       "title": "Kispert se retrouve",
       "url": "https://www.basketusa.com/?p=960068",
+      "publishedAt": "2026-11-23T15:28:39+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Kispert se retrouve",
+      "url": "https://www.basketusa.com/news/960068/kispert-se-retrouve/",
       "publishedAt": "2026-11-23T15:28:39+00:00"
     },
     {
@@ -992,12 +1028,6 @@
       "title": "\"Une taxe énorme\" : Trump veut sanctionner tous ceux qui délocalisent leurs data centers à l'étranger",
       "url": "https://www.clubic.com/actualite-640513-une-taxe-enorme-trump-veut-sanctionner-tous-ceux-qui-delocalisent-leurs-data-centers-a-l-etranger.html",
       "publishedAt": "2026-11-23T10:08:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 sur PC : une version pirate dès aujourd’hui ?",
-      "url": "https://www.numerama.com/tech/2382377-gta-6-sur-pc-une-version-pirate-des-aujourdhui.html",
-      "publishedAt": "2026-11-23T10:07:01+00:00"
     },
     {
       "source": "numerama",
@@ -2528,12 +2558,6 @@
       "title": "Apple ferme ses forums aujourd’hui : comment sauvegarder leur contenu avant qu’il ne soit trop tard ?",
       "url": "https://www.macg.co/aapl/2026/11/apple-ferme-ses-forums-aujourdhui-comment-sauvegarder-leur-contenu-avant-quil-ne-soit-trop-tard-312549",
       "publishedAt": "2026-11-21T16:12:08+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Wolves et les Grizzlies en compétition pour passer à l’Est en cas d’expansion",
-      "url": "https://www.basketusa.com/news/959622/les-wolves-et-les-grizzlies-en-competition-pour-passer-a-lest-en-cas-dexpansion/",
-      "publishedAt": "2026-11-21T16:05:27+00:00"
     },
     {
       "source": "boulet",
