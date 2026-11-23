@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T06:20:43.833481+00:00",
+  "generatedAt": "2026-11-23T06:31:01.279151+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     },
     {
       "id": "mac4ever",
@@ -85,8 +85,8 @@
       "group": "Tech",
       "language": "fr",
       "icon": "icons/mac4ever.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "Flux sans entrée reconnue",
       "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
     },
     {
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-23T06:20:43.833481+00:00"
+      "lastSuccessAt": "2026-11-23T06:31:01.279151+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Après la panne d’Outlook Microsoft confirme que certains e-mails ne sont jamais arrivés",
+      "url": "https://www.clubic.com/actualite-640492-apres-la-panne-d-outlook-microsoft-confirme-que-certains-e-mails-ne-sont-jamais-arrives.html",
+      "publishedAt": "2026-11-23T06:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Et si Gemini vous faisait gagner du temps au travail ? Google Workspace est à -20 % pour le Black Friday",
+      "url": "https://www.clubic.com/bons-plans-633190-et-si-gemini-vous-faisait-gagner-du-temps-au-travail-google-workspace-est-a--20-pour-le-black-friday.html",
+      "publishedAt": "2026-11-23T06:30:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "À 138 km/h en trottinette électrique : la police intercepte deux bolides complètement débridés",
+      "url": "https://www.journaldugeek.com/2026/11/23/a-138-km-h-en-trottinette-electrique-la-police-intercepte-deux-bolides-completement-debrides/",
+      "publishedAt": "2026-11-23T06:28:34+00:00"
+    },
     {
       "source": "macg",
       "title": "iPhone 18, MacBook Neo, iPad Air OLED : le programme très chargé d'Apple pour le printemps 2027",
       "url": "https://www.macg.co/aapl/2026/11/iphone-18-macbook-neo-ipad-air-oled-le-programme-tres-charge-dapple-pour-le-printemps-2027-312577",
       "publishedAt": "2026-11-23T06:10:18+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Windows 11 déploie une nouvelle recherche native sous WinUI 3 avec la mise à jour KB5132057",
+      "url": "https://www.generation-nt.com/actualites/windows-11-recherche-native-kb5132057-2084910",
+      "publishedAt": "2026-11-23T06:05:01+00:00"
     },
     {
       "source": "jdg",
@@ -154,6 +178,12 @@
       "publishedAt": "2026-11-23T06:00:07+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Test aspirateur anti-acariens JIMMY BX8 Pro : chauffage, UV-C, brume aromatique",
+      "url": "https://www.generation-nt.com/tests/test-jimmy-bx8-pro-aspirateur-acarien-2084361",
+      "publishedAt": "2026-11-23T06:00:01+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Une cyberattaque frappe le CHU de Guadeloupe en plein déménagement",
       "url": "https://www.clubic.com/actualite-640504-guadeloupe-le-chu-frappe-par-une-cyberattaque-massive-le-plan-blanc-declenche.html",
@@ -166,10 +196,10 @@
       "publishedAt": "2026-11-23T06:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "En triple-double, Bam Adebayo fait du Giannis face au Thunder",
-      "url": "https://www.basketusa.com/news/959894/en-triple-double-bam-adebayo-se-prend-pour-giannis-face-au-thunder/",
-      "publishedAt": "2026-11-23T05:45:19+00:00"
+      "source": "korben",
+      "title": "Morfo sème des forêts par drone sur d'anciennes mines",
+      "url": "https://korben.info/morfo-drones-restauration-forets.html",
+      "publishedAt": "2026-11-23T05:40:12+00:00"
     },
     {
       "source": "basketusa",
@@ -194,6 +224,12 @@
       "title": "On a trouvé l'adresse de 8 chefs d'entreprise sur 10 en moins de 10 minutes. Sans pirater quoi que ce soit. #sponso",
       "url": "https://korben.info/incogni-adresses.html",
       "publishedAt": "2026-11-23T05:07:10+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "En triple-double, Bam Adebayo fait du Giannis face au Thunder",
+      "url": "https://www.basketusa.com/news/959894/en-triple-double-bam-adebayo-se-prend-pour-giannis-face-au-thunder/",
+      "publishedAt": "2026-11-23T04:45:19+00:00"
     },
     {
       "source": "tda",
@@ -226,16 +262,16 @@
       "publishedAt": "2026-11-22T19:50:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Cade Cunningham et les Pistons à l’affiche dès 21h30",
+      "url": "https://www.basketusa.com/news/959832/programme-du-soir-cade-cunningham-et-les-pistons-a-laffiche-des-21h30/",
+      "publishedAt": "2026-11-22T19:30:38+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Amazon frappe fort pour le Black Friday avec le Google Pixel 11 qui perd 400 € sur son prix",
       "url": "https://www.clubic.com/bons-plans-640489-amazon-frappe-fort-pour-le-black-friday-avec-le-google-pixel-11-qui-perd-400-sur-son-prix.html",
       "publishedAt": "2026-11-22T18:56:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Cade Cunningham et les Pistons à l’affiche dès 21h30",
-      "url": "https://www.basketusa.com/news/959832/programme-du-soir-cade-cunningham-et-les-pistons-a-laffiche-des-21h30/",
-      "publishedAt": "2026-11-22T18:30:38+00:00"
     },
     {
       "source": "macg",
@@ -316,12 +352,6 @@
       "publishedAt": "2026-11-22T17:03:57+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Blazers n’en peuvent plus de courir après le score",
-      "url": "https://www.basketusa.com/news/959805/les-blazers-nen-peuvent-plus-de-courir-apres-le-score/",
-      "publishedAt": "2026-11-22T17:03:21+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Il joue à GTA 6 par la pensée grâce à son implant Neuralink",
       "url": "https://www.clubic.com/actualite-640477-il-joue-a-gta-6-par-la-pensee-grace-a-son-implant-neuralink.html",
@@ -368,6 +398,12 @@
       "title": "Chez Sacrebleu, baisser la lumière sans téléphone coûte 1.700 $, mais c’est la classe",
       "url": "https://www.journaldugeek.com/2026/11/22/chez-sacrebleu-baisser-la-lumiere-sans-telephone-coute-1-700-mais-cest-la-classe/",
       "publishedAt": "2026-11-22T16:04:10+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Blazers n’en peuvent plus de courir après le score",
+      "url": "https://www.basketusa.com/news/959805/les-blazers-nen-peuvent-plus-de-courir-apres-le-score/",
+      "publishedAt": "2026-11-22T16:03:21+00:00"
     },
     {
       "source": "clubic",
@@ -707,7 +743,7 @@
     },
     {
       "source": "clubic",
-      "title": "« Nous préférons nettement inventer des outils que les autres copient plutôt que l’inverse » - Interview vivaldi",
+      "title": "« Nous préférons nettement inventer des outils que les autres copient plutôt que l’inverse » - Interview Vivaldi",
       "url": "https://www.clubic.com/dossier-639736-nous-preferons-nettement-inventer-des-outils-que-les-autres-copient-plutot-que-l-inverse---interview-vivaldi.html",
       "publishedAt": "2026-11-22T10:03:00+00:00"
     },
