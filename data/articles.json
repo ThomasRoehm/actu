@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T12:01:03.312950+00:00",
+  "generatedAt": "2026-11-24T12:10:44.495361+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:01:03.312950+00:00"
+      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "La Renault 5 prend la deuxième place des électriques en Europe",
+      "url": "https://www.mac4ever.com/auto/199251-la-renault-5-prend-la-deuxieme-place-des-electriques-en-europe",
+      "publishedAt": "2026-11-24T12:03:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Déconnectés de force : Spotify est en panne, des milliers d’utilisateurs ne parviennent plus à se connecter",
+      "url": "https://www.numerama.com/cyberguerre/2383637-deconnectes-de-force-spotify-est-en-panne-des-milliers-dutilisateurs-ne-parviennent-plus-a-se-connecter.html",
+      "publishedAt": "2026-11-24T12:01:38+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Sanofi rachète Insmed pour 41 milliards $ : pourquoi ce deal XXL et historique est crucial pour le géant français",
+      "url": "https://www.presse-citron.net/sanofi-rachete-insmed-pour-41-milliards-pourquoi-ce-deal-xxl-et-historique-est-crucial-pour-le-geant-francais/",
+      "publishedAt": "2026-11-24T12:00:30+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "God of War : voici qui jouera Laufey dans la série live-action (vous la connaissez déjà)",
+      "url": "https://www.journaldugeek.com/2026/11/24/god-of-war-voici-actrice-jouera-laufey-serie-live-action-connaissez-deja/",
+      "publishedAt": "2026-11-24T12:00:05+00:00"
+    },
     {
       "source": "clubic",
       "title": "3,5 milliards de données personnelles en libre accès : des pirates laissent à leur tour fuiter leurs fichiers",
@@ -3338,12 +3362,6 @@
       "title": "Landry Shamet s’impose comme « sixième titulaire » des Knicks",
       "url": "https://www.basketusa.com/news/959755/landry-shamet-le-sixieme-titulaire-des-knicks/",
       "publishedAt": "2026-11-22T12:22:33+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Découverte d'un rare système stellaire émettant des signaux radio",
-      "url": "https://www.generation-nt.com/actualites/radioastronomie-naine-blanche-pulsar-systeme-binaire-2084866",
-      "publishedAt": "2026-11-22T12:10:01+00:00"
     },
     {
       "source": "boulet",
