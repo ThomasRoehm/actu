@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:01:06.671452+00:00",
+  "generatedAt": "2026-11-24T13:10:41.774726+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
+      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "La montre Apple Watch SE 3 est à 231 € au Black Friday : un deal qui passe crème",
+      "url": "https://www.iphon.fr/post/la-montre-apple-watch-se-3-est-a-231-e-au-black-friday-un-deal-qui-passe-creme",
+      "publishedAt": "2026-11-24T13:08:44+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "La Chine prend une longueur d’avance : son avion de ligne électrique a volé, l’Europe attend encore !",
+      "url": "https://www.journaldugeek.com/2026/11/24/la-chine-prend-une-longueur-davance-son-avion-de-ligne-electrique-a-vole-leurope-attend-encore/",
+      "publishedAt": "2026-11-24T13:03:12+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "50 ans d'Apple : un dictionnaire et des nouvelles de Mickaël",
+      "url": "https://www.macg.co/macgeneration/2026/11/50-ans-dapple-un-dictionnaire-et-des-nouvelles-de-mickael-312551",
+      "publishedAt": "2026-11-24T13:02:30+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Tesla : fini le pilote automatique à 150 km/h sur une route à 100",
+      "url": "https://www.mac4ever.com/auto/199255-tesla-fini-le-pilote-automatique-a-150-km-h-sur-une-route-a-100",
+      "publishedAt": "2026-11-24T13:02:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "La Corée du Nord dévoile son premier chatbot IA, il refuse les questions \"impolies\"",
@@ -970,6 +994,12 @@
       "publishedAt": "2026-11-24T08:11:50+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Walker Kessler, pilier de la nouvelle défense des Lakers",
+      "url": "https://www.basketusa.com/news/961715/walker-kessler-pilier-de-la-nouvelle-defense-des-lakers/",
+      "publishedAt": "2026-11-24T08:10:09+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Kodak invente l’AirTag qui affiche la photo de votre chien",
       "url": "https://www.journaldugeek.com/2026/11/24/kodak-invente-lairtag-qui-affiche-la-photo-de-votre-chien/",
@@ -1100,12 +1130,6 @@
       "title": "Compte courant : pourquoi faut-il vraiment retirer son argent d’ici à la fin novembre ?",
       "url": "https://www.presse-citron.net/compte-courant-pourquoi-faut-il-vraiment-retirer-son-argent-dici-a-la-fin-novembre/",
       "publishedAt": "2026-11-24T07:13:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Walker Kessler, pilier de la nouvelle défense des Lakers",
-      "url": "https://www.basketusa.com/news/961715/walker-kessler-pilier-de-la-nouvelle-defense-des-lakers/",
-      "publishedAt": "2026-11-24T07:10:09+00:00"
     },
     {
       "source": "numerama",
@@ -3416,42 +3440,6 @@
       "title": "[NCAA] Semaine 12 : Indiana en danger, terminé pour Ohio State, Utah seul invaincu",
       "url": "https://touchdownactu.com/361681/ncaa-semaine-12-indiana-en-danger-termine-pour-ohio-state-utah-seul-invaincu/",
       "publishedAt": "2026-11-22T13:34:09+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les premiers hominidés étaient-ils les proies de redoutables rapaces ?",
-      "url": "https://www.generation-nt.com/actualites/babouins-aigles-hominides-predation-2084869",
-      "publishedAt": "2026-11-22T13:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jaden McDaniels, un loup qui avance à pas réguliers",
-      "url": "https://www.basketusa.com/news/959759/jaden-mcdaniels-un-loup-qui-avance-a-pas-reguliers/",
-      "publishedAt": "2026-11-22T13:05:33+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Pas de HomeView en France ? J’ai fabriqué le mien !",
-      "url": "https://www.mac4ever.com/domotique/199126-pas-de-homeview-en-france-j-ai-fabrique-le-mien",
-      "publishedAt": "2026-11-22T13:05:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "C’est un avertissement pour tous les salariés : voici pourquoi Microsoft propose à 60 000 personnes de quitter l’entreprise",
-      "url": "https://www.presse-citron.net/salaries-microsoft-quitter-entreprise/",
-      "publishedAt": "2026-11-22T13:04:05+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Les 8 meilleurs jeux disponibles exclusivement sur l’iPad",
-      "url": "https://www.iphon.fr/post/meilleurs-jeux-exclusifs-ipad",
-      "publishedAt": "2026-11-22T13:03:07+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Ce bug dans Java trouvé par une IA peut faire bien pire que planter un logiciel",
-      "url": "https://www.journaldugeek.com/2026/11/22/ce-bug-dans-java-trouve-par-une-ia-peut-faire-bien-pire-que-planter-un-logiciel/",
-      "publishedAt": "2026-11-22T13:02:31+00:00"
     },
     {
       "source": "boulet",
