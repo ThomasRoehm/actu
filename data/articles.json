@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:10:41.028892+00:00",
+  "generatedAt": "2026-11-24T10:20:38.855232+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:10:41.028892+00:00"
+      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "C’est fait : depuis 9 heures ce mardi, le service Quad9 ne fonctionne plus en France et des dommages collatéraux sont à prévoir",
+      "url": "https://www.numerama.com/tech/2383483-cest-fait-depuis-9-heures-ce-mardi-le-service-quad9-ne-fonctionne-plus-en-france-et-des-dommages-collateraux-sont-a-prevoir.html",
+      "publishedAt": "2026-11-24T10:19:29+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Réserver un TGV dans l'application Uber, ce sera possible en France dès le 30 novembre",
+      "url": "https://www.clubic.com/actualite-640753-reserver-un-tgv-dans-l-application-uber-ce-sera-possible-en-france-des-le-30-novembre.html",
+      "publishedAt": "2026-11-24T10:18:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Apple TV : Ted Lasso va jouer les prolongations avec une cinquième saison !",
+      "url": "https://www.mac4ever.com/tv/199244-apple-tv-ted-lasso-va-jouer-les-prolongations-avec-une-cinquieme-saison",
+      "publishedAt": "2026-11-24T10:15:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Windows 11 : Microsoft veut en finir avec les BSOD provoqués par les bugs de pilotes Wi-Fi",
+      "url": "https://www.clubic.com/actualite-640762-windows-11-microsoft-veut-en-finir-avec-les-bsod-provoques-par-les-bugs-de-pilotes-wi-fi.html",
+      "publishedAt": "2026-11-24T10:14:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La D.O.N. Issue 8 sur le retour",
+      "url": "https://www.basketusa.com/news/961639/la-d-o-n-issue-8-sur-le-retour/",
+      "publishedAt": "2026-11-24T10:08:37+00:00"
+    },
     {
       "source": "numerama",
       "title": "« C’était une blague » : le mathématicien d’Anthropic revient sur les 250 000 pages de sa preuve de Riemann",
@@ -304,12 +334,6 @@
       "publishedAt": "2026-11-24T09:25:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Kevin Durant, l’art de choisir ses moments",
-      "url": "https://www.basketusa.com/news/961677/kevin-durant-lart-de-choisir-ses-moments/",
-      "publishedAt": "2026-11-24T09:24:17+00:00"
-    },
-    {
       "source": "korben",
       "title": "dumbtv - Le Fire TV sans pub ni mouchard (et sans root)",
       "url": "https://korben.info/dumbtv.html",
@@ -380,6 +404,12 @@
       "title": "60 Millions de consommateurs : le patron de Free va reprendre le magazine... qui compare ses forfaits !",
       "url": "https://www.clubic.com/actualite-640726-millions-de-consommateurs-le-patron-de-free-va-reprendre-le-magazine-qui-compare-ses-forfaits.html",
       "publishedAt": "2026-11-24T08:59:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Guerschon Yabusele devrait recevoir une bague de champion NBA",
+      "url": "https://www.basketusa.com/news/961622/guerschon-yabusele-devrait-recevoir-une-bague-de-champion-nba/",
+      "publishedAt": "2026-11-24T08:56:31+00:00"
     },
     {
       "source": "numerama",
@@ -502,6 +532,12 @@
       "publishedAt": "2026-11-24T08:27:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kevin Durant, l’art de choisir ses moments",
+      "url": "https://www.basketusa.com/news/961677/kevin-durant-lart-de-choisir-ses-moments/",
+      "publishedAt": "2026-11-24T08:24:17+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Les vagues marines pour alimenter nos réseaux électriques ? Une station houlomotrice de 1 MW en test",
       "url": "https://www.generation-nt.com/actualites/wedusea-energie-houlomotrice-production-electricite-2084980",
@@ -566,12 +602,6 @@
       "title": "Feu vert pour Micah Parsons ! Les 8 infos NFL du mardi",
       "url": "https://touchdownactu.com/361780/feu-vert-pour-micah-parsons-les-8-infos-nfl-du-mardi/",
       "publishedAt": "2026-11-24T07:57:22+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Guerschon Yabusele devrait recevoir une bague de champion NBA",
-      "url": "https://www.basketusa.com/news/961622/guerschon-yabusele-devrait-recevoir-une-bague-de-champion-nba/",
-      "publishedAt": "2026-11-24T07:56:31+00:00"
     },
     {
       "source": "clubic",
@@ -839,12 +869,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
-      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
-      "publishedAt": "2026-11-24T05:55:05+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Le banc des Bulls fait exploser les Cavaliers",
       "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
       "publishedAt": "2026-11-24T05:35:07+00:00"
@@ -866,6 +890,12 @@
       "title": "Les Blazers surprennent des Sixers sans défense",
       "url": "https://www.basketusa.com/news/961650/les-blazers-surprennent-des-sixers-sans-defense/",
       "publishedAt": "2026-11-24T05:14:18+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T04:55:05+00:00"
     },
     {
       "source": "macg",
