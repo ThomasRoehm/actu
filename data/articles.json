@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:30:52.410524+00:00",
+  "generatedAt": "2026-11-24T10:40:40.553051+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
+      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Black Friday : les IA ont mangé toute la mémoire du monde, mais il reste des promos sur la tech (elles sont ici)",
+      "url": "https://www.numerama.com/tech/2382555-black-friday-2026-les-meilleures-offres-en-direct.html",
+      "publishedAt": "2026-11-24T10:39:46+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Écran pliable de l'iPhone Duo : Samsung seul fournisseur pour encore cinq ans ?",
+      "url": "https://www.mac4ever.com/iphone/199245-ecran-pliable-de-l-iphone-duo-samsung-seul-fournisseur-pour-encore-cinq-ans",
+      "publishedAt": "2026-11-24T10:36:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Quad9 ne fonctionne plus en France : voici comment vérifier si vous l’utilisez et le remplacer",
+      "url": "https://www.numerama.com/tech/2379931-quad9-ne-fonctionne-plus-en-france-voici-comment-verifier-si-vous-lutilisez-et-le-remplacer.html",
+      "publishedAt": "2026-11-24T10:30:57+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Grosses promos sur les claviers et souris Logitech MX pour le Black Friday !",
@@ -152,6 +170,18 @@
       "title": "À trois jours du Black Friday, Amazon baisse déjà le prix de 12 écrans PC, de l'OLED au Full HD",
       "url": "https://www.clubic.com/bons-plans-638671-avant-gta-vi-et-le-black-friday-amazon-casse-le-prix-des-ecrans-gaming-oled-de-lenovo-msi-et-asus.html",
       "publishedAt": "2026-11-24T10:27:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Burger King : Didier Deschamps débarque au menu de Noël avec une sélection digne des champions",
+      "url": "https://www.journaldugeek.com/2026/11/24/burger-king-didier-deschamps-debarque-au-menu-de-noel-avec-une-selection-digne-des-champions/",
+      "publishedAt": "2026-11-24T10:26:55+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Uber Trains : vous pourrez réserver vos billets SNCF, OUIGO ou Eurostar directement dans l’application Uber",
+      "url": "https://www.journaldugeek.com/2026/11/24/uber-trains-vous-pourrez-reserver-vos-billets-sncf-ouigo-ou-eurostar-directement-dans-lapplication-uber/",
+      "publishedAt": "2026-11-24T10:26:46+00:00"
     },
     {
       "source": "clubic",
@@ -856,12 +886,6 @@
       "publishedAt": "2026-11-24T06:30:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Pacers résistent aux 38 points de Shai Gilgeous-Alexander",
-      "url": "https://www.basketusa.com/news/961649/les-pacers-resistent-aux-38-points-de-shai-gilgeous-alexander/",
-      "publishedAt": "2026-11-24T06:26:26+00:00"
-    },
-    {
       "source": "korben",
       "title": "J'ai testé la migration de VMware vers Vates VMS #sponso",
       "url": "https://korben.info/migration-vmware-vates-vms-v2v.html",
@@ -878,6 +902,12 @@
       "title": "La France veut stocker des terres rares pour moins dépendre de la Chine",
       "url": "https://www.clubic.com/actualite-640690-la-france-veut-stocker-des-terres-rares-pour-moins-dependre-de-la-chine.html",
       "publishedAt": "2026-11-24T06:15:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Blazers surprennent des Sixers sans défense",
+      "url": "https://www.basketusa.com/news/961650/les-blazers-surprennent-des-sixers-sans-defense/",
+      "publishedAt": "2026-11-24T06:14:18+00:00"
     },
     {
       "source": "jdg",
@@ -928,16 +958,16 @@
       "publishedAt": "2026-11-24T05:30:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Pacers résistent aux 38 points de Shai Gilgeous-Alexander",
+      "url": "https://www.basketusa.com/news/961649/les-pacers-resistent-aux-38-points-de-shai-gilgeous-alexander/",
+      "publishedAt": "2026-11-24T05:26:26+00:00"
+    },
+    {
       "source": "tda",
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
       "publishedAt": "2026-11-24T05:22:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Blazers surprennent des Sixers sans défense",
-      "url": "https://www.basketusa.com/news/961650/les-blazers-surprennent-des-sixers-sans-defense/",
-      "publishedAt": "2026-11-24T05:14:18+00:00"
     },
     {
       "source": "basketusa",
@@ -1072,12 +1102,6 @@
       "publishedAt": "2026-11-23T17:32:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
-      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
-      "publishedAt": "2026-11-23T17:31:53+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Black Friday 2026 : cet antivirus spécialisé pour votre Mac est à - 30 %",
       "url": "https://www.clubic.com/bons-plans-640141-black-friday-2026-cet-antivirus-specialise-pour-votre-mac-est-a---30.html",
@@ -1190,6 +1214,12 @@
       "title": "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?",
       "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html",
       "publishedAt": "2026-11-23T16:32:54+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
+      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
+      "publishedAt": "2026-11-23T16:31:53+00:00"
     },
     {
       "source": "jdg",
