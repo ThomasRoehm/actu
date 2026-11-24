@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:20:52.154284+00:00",
+  "generatedAt": "2026-11-24T16:30:54.146976+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:20:52.154284+00:00"
+      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday Anker SOLIX : jusqu’à 2 300 € de réduction sur les batteries solaires et stations électriques",
+      "url": "https://www.clubic.com/actualite-640174-black-friday-anker-solix-jusqu-a-2-300-de-reduction-sur-les-batteries-solaires-et-stations-electriques.html",
+      "publishedAt": "2026-11-24T16:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Ariane 6 décolle sur le fil et place 36 satellites Amazon Leo en orbite",
+      "url": "https://www.clubic.com/actualite-640864-un-jour-de-retard-un-decollage-a-l-ultime-minute-ariane-6-emporte-36-satellites-amazon-leo.html",
+      "publishedAt": "2026-11-24T16:24:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Anthropic introduit Claude Ship pour valider vos pull requests",
+      "url": "https://www.generation-nt.com/actualites/anthropic-claude-ship-pull-requests-github-automatisation-code-2084990",
+      "publishedAt": "2026-11-24T16:20:01+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Shai Gilgeous-Alexander, un MVP sans filet",
@@ -142,9 +160,21 @@
       "publishedAt": "2026-11-24T16:12:22+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Un drone d'Amazon percute un câble et s'écrase sur un garage au Michigan",
+      "url": "https://www.generation-nt.com/actualites/drone-amazon-percute-cable-garage-2084965",
+      "publishedAt": "2026-11-24T16:10:01+00:00"
+    },
+    {
       "source": "presse",
       "title": "Corox écrase Garmin avec la Vertix 4 : 60h d’autonomie, lampe torche et 64 Go de stockage pour 300 euros de moins qu’une Fenix 9",
       "url": "https://www.presse-citron.net/corox-ecrase-garmin-avec-la-vertix-4-60h-dautonomie-lampe-torche-et-64-go-de-stockage-pour-300-euros-de-moins-quune-fenix-9/",
+      "publishedAt": "2026-11-24T16:05:33+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Coros écrase Garmin avec la Vertix 4 : 60h d’autonomie, lampe torche et 64 Go de stockage pour 300 euros de moins qu’une Fenix 9",
+      "url": "https://www.presse-citron.net/coros-ecrase-garmin-avec-la-vertix-4-60h-dautonomie-lampe-torche-et-64-go-de-stockage-pour-300-euros-de-moins-quune-fenix-9/",
       "publishedAt": "2026-11-24T16:05:33+00:00"
     },
     {
@@ -248,12 +278,6 @@
       "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
       "publishedAt": "2026-11-24T15:34:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Audiences TV : le pari gagnant de la NBA",
-      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
-      "publishedAt": "2026-11-24T15:33:30+00:00"
     },
     {
       "source": "macg",
@@ -410,6 +434,12 @@
       "title": "La voiture électrique reste la motorisation numéro 1 en France, pendant que l’essence plonge",
       "url": "https://www.presse-citron.net/la-voiture-electrique-reste-la-motorisation-numero-1-en-france-pendant-que-lessence-plonge/",
       "publishedAt": "2026-11-24T14:34:09+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Audiences TV : le pari gagnant de la NBA",
+      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
+      "publishedAt": "2026-11-24T14:33:30+00:00"
     },
     {
       "source": "gnt",
@@ -3674,30 +3704,6 @@
       "title": "Il joue à GTA 6 par la pensée grâce à son implant Neuralink",
       "url": "https://www.clubic.com/actualite-640477-il-joue-a-gta-6-par-la-pensee-grace-a-son-implant-neuralink.html",
       "publishedAt": "2026-11-22T16:46:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Tesla passe au FSD v15 avec une visualisation 3D inédite et des promesses de sécurité (mais évidemment pas en Europe)",
-      "url": "https://www.macg.co/mobilites/2026/11/tesla-passe-au-fsd-v15-avec-une-visualisation-3d-inedite-et-des-promesses-de-securite-mais-evidemment-pas-en-europe-312571",
-      "publishedAt": "2026-11-22T16:30:13+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un noyau composé de seulement de neutrons, c'est possible ? Des physiciens traquent le mythique élément zéro",
-      "url": "https://www.generation-nt.com/actualites/riken-numero-atomique-zero-neutron-matiere-2084864",
-      "publishedAt": "2026-11-22T16:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : CyberGhost VPN chute à 1,99 €/mois (soit plus de 83 % de remise !)",
-      "url": "https://www.clubic.com/bons-plans-640204-black-friday-cyberghost-vpn-chute-a-1-99-mois-soit-plus-de-83-de-remise.html",
-      "publishedAt": "2026-11-22T16:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La folie GTA VI rapporte 1,5 million de dollars au Heat",
-      "url": "https://www.basketusa.com/news/959804/la-folie-gta-vi-rapporte-15-million-de-dollars-au-heat/",
-      "publishedAt": "2026-11-22T16:27:40+00:00"
     },
     {
       "source": "boulet",
