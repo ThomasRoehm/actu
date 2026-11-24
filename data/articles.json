@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:20:38.008733+00:00",
+  "generatedAt": "2026-11-24T17:30:58.789471+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:20:38.008733+00:00"
+      "lastSuccessAt": "2026-11-24T17:30:58.789471+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Black Week : sélection des meilleures offres (iPhone, iPad, Mac, accessoires, etc.)",
+      "url": "https://www.iphon.fr/post/black-friday-2026-meilleures-offres",
+      "publishedAt": "2026-11-24T17:30:03+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : Amazon réduit de moitié le prix de son nouveau réveil connecté Echo Time",
+      "url": "https://www.clubic.com/bons-plans-640819-black-friday-amazon-reduit-de-moitie-le-prix-de-son-reveil-connecte-echo-time.html",
+      "publishedAt": "2026-11-24T17:22:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des États américains poursuivent SpaceX pour les dérives de Grok",
+      "url": "https://www.generation-nt.com/actualites/spacex-grok-deepfakes-oregon-virginie-2084988",
+      "publishedAt": "2026-11-24T17:20:01+00:00"
+    },
     {
       "source": "numerama",
       "title": "6 bonnes raisons de donner sa chance à Blade Runner 2099, au même niveau que les films ?",
       "url": "https://www.numerama.com/pop-culture/2383635-6-bonnes-raisons-de-donner-sa-chance-a-blade-runner-2099-au-meme-niveau-que-les-films.html",
       "publishedAt": "2026-11-24T17:15:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Nvidia rechute en Bourse après le retour surprise de Jensen Huang : tout est loin d'être réglé !",
+      "url": "https://www.generation-nt.com/actualites/nvidia-rechute-bourse-apres-retour-jensen-huang-2085010",
+      "publishedAt": "2026-11-24T17:10:01+00:00"
     },
     {
       "source": "numerama",
@@ -2086,12 +2110,6 @@
       "publishedAt": "2026-11-23T17:00:00+00:00"
     },
     {
-      "source": "iphon",
-      "title": "Black Week : sélection des meilleures offres (iPhone, iPad, Mac, accessoires, etc.)",
-      "url": "https://www.iphon.fr/post/black-friday-2026-meilleures-offres",
-      "publishedAt": "2026-11-23T16:59:39+00:00"
-    },
-    {
       "source": "basketusa",
       "title": "L’adidas NextGen EuroLeague fera étape à Paris en février",
       "url": "https://www.basketusa.com/news/960062/ladidas-nextgen-euroleague-fera-etape-a-paris-en-fevrier/",
@@ -3746,30 +3764,6 @@
       "title": "Sept membres d’un canal masculiniste sur Telegram jugés à Paris",
       "url": "https://www.clubic.com/actualite-640483-sept-membres-d-un-canal-masculiniste-sur-telegram-juges-a-paris.html",
       "publishedAt": "2026-11-22T17:35:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "SpaceX va-t-il purger les algorithmes chinois de Cursor ?",
-      "url": "https://www.generation-nt.com/actualites/spacex-cursor-abandon-modele-ia-chinois-2084894",
-      "publishedAt": "2026-11-22T17:30:52+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Alerte rouge sur Mars : double avarie pour Perseverance et Odyssey !",
-      "url": "https://www.generation-nt.com/actualites/nasa-perseverance-odyssey-panne-technique-donnees-scientifiques-2084886",
-      "publishedAt": "2026-11-22T17:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday LG : jusqu’à 300 € de remise sur 3 TV OLED et Mini LED pour jouer dans les meilleures conditions",
-      "url": "https://www.clubic.com/actualite-639766-black-friday-lg-jusqu-a-300-de-remise-sur-3-tv-oled-et-mini-led-pour-jouer-dans-les-meilleures-conditions.html",
-      "publishedAt": "2026-11-22T17:30:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "AirPods Pro 3 : si leur prix était un problème pour vous, Amazon vient de le régler au Black Friday 🔥",
-      "url": "https://www.iphon.fr/post/airpods-pro-3-188-euros-black-friday",
-      "publishedAt": "2026-11-22T17:24:16+00:00"
     },
     {
       "source": "boulet",
