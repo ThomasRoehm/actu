@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T11:40:38.938105+00:00",
+  "generatedAt": "2026-11-24T11:50:38.696850+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T11:40:38.938105+00:00"
+      "lastSuccessAt": "2026-11-24T11:50:38.696850+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Et si l’informatique quantique révolutionnait le secteur de l’énergie en premier ? Ils y croient",
+      "url": "https://www.clubic.com/actualite-640744-et-si-l-informatique-quantique-revolutionnait-le-secteur-de-l-energie-en-premier-ils-y-croient.html",
+      "publishedAt": "2026-11-24T11:45:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Le film Naruto en live-action pourrait s’offrir un casting en or massif",
@@ -544,6 +550,12 @@
       "publishedAt": "2026-11-24T09:31:56+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Après un mois de défaites, les Bucks gagnent à nouveau",
+      "url": "https://www.basketusa.com/news/961727/apres-un-mois-de-defaites-les-bucks-gagnent-a-nouveau/",
+      "publishedAt": "2026-11-24T09:31:43+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Ligne 18 : mauvaise nouvelle pour le nouveau métro du Grand Paris Express",
       "url": "https://www.journaldugeek.com/2026/11/24/ligne-18-mauvaise-nouvelle-pour-le-nouveau-metro-du-grand-paris-express/",
@@ -760,12 +772,6 @@
       "publishedAt": "2026-11-24T08:32:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Après un mois de défaites, les Bucks gagnent à nouveau",
-      "url": "https://www.basketusa.com/news/961727/apres-un-mois-de-defaites-les-bucks-gagnent-a-nouveau/",
-      "publishedAt": "2026-11-24T08:31:43+00:00"
-    },
-    {
       "source": "presse",
       "title": "Xavier Niel nouveau propriétaire du magazine 60 millions de consommateurs : un accord a été trouvé",
       "url": "https://www.presse-citron.net/xavier-niel-nouveau-proprietaire-du-magazine-60-millions-de-consommateurs-un-accord-a-ete-trouve/",
@@ -890,6 +896,12 @@
       "title": "Shirudo - Quand l'IA fabrique des boucliers pour Linux",
       "url": "https://korben.info/shirudo-openai-cisco-ebpf.html",
       "publishedAt": "2026-11-24T07:38:51+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Retrouvailles chaleureuses pour Julius Randle avec les Wolves",
+      "url": "https://www.basketusa.com/news/961706/retrouvailles-chaleureuses-pour-julius-randle-avec-les-wolves/",
+      "publishedAt": "2026-11-24T07:32:44+00:00"
     },
     {
       "source": "jdg",
@@ -1030,12 +1042,6 @@
       "publishedAt": "2026-11-24T06:34:23+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Retrouvailles chaleureuses pour Julius Randle avec les Wolves",
-      "url": "https://www.basketusa.com/news/961706/retrouvailles-chaleureuses-pour-julius-randle-avec-les-wolves/",
-      "publishedAt": "2026-11-24T06:32:44+00:00"
-    },
-    {
       "source": "presse",
       "title": "Porsche ressuscite la mythique 550 Spyder dans une version électrique : un jouet pour adultes… fortunés",
       "url": "https://www.presse-citron.net/porsche-ressuscite-mythique-550-spyder-version-electrique/",
@@ -1064,6 +1070,12 @@
       "title": "Navigateurs sur iPhone : une coalition représentant jusqu'à 55 000 entreprises européennes presse Bruxelles d'agir contre Apple",
       "url": "https://www.clubic.com/actualite-640696-navigateurs-sur-iphone-une-coalition-representant-jusqu-a-55-000-entreprises-europeennes-presse-bruxelles-d-agir-contre-apple.html",
       "publishedAt": "2026-11-24T06:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Pacers résistent aux 38 points de Shai Gilgeous-Alexander",
+      "url": "https://www.basketusa.com/news/961649/les-pacers-resistent-aux-38-points-de-shai-gilgeous-alexander/",
+      "publishedAt": "2026-11-24T06:26:26+00:00"
     },
     {
       "source": "korben",
@@ -1138,12 +1150,6 @@
       "publishedAt": "2026-11-24T05:30:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Pacers résistent aux 38 points de Shai Gilgeous-Alexander",
-      "url": "https://www.basketusa.com/news/961649/les-pacers-resistent-aux-38-points-de-shai-gilgeous-alexander/",
-      "publishedAt": "2026-11-24T05:26:26+00:00"
-    },
-    {
       "source": "tda",
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
@@ -1186,12 +1192,6 @@
       "publishedAt": "2026-11-23T19:45:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
-      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
-      "publishedAt": "2026-11-23T19:30:11+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Meilleures promos du jour : Nothing Phone (4b) 299€, Mac Mini M6 889€, volant Logitech + Gran Turismo 7 210€..",
       "url": "https://www.generation-nt.com/actualites/nothing-phone-4b-mac-mini-m6-samsung-galaxy-s26-odyssey-g5-ultra-polar-h9-google-pixel-buds-2a-dualsense-edge-promos-pas-cher-2084973",
@@ -1226,6 +1226,12 @@
       "title": "Test OnePlus Buds Pro 4 : des écouteurs presque aussi bons que Sony et Apple, pour deux fois moins cher",
       "url": "https://www.journaldugeek.com/test/test-oneplus-buds-pro-4-des-ecouteurs-presque-aussi-bons-que-sony-et-apple-pour-deux-fois-moins-cher/",
       "publishedAt": "2026-11-23T18:33:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
+      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
+      "publishedAt": "2026-11-23T18:30:11+00:00"
     },
     {
       "source": "numerama",
@@ -3320,12 +3326,6 @@
       "title": "Découverte d'un rare système stellaire émettant des signaux radio",
       "url": "https://www.generation-nt.com/actualites/radioastronomie-naine-blanche-pulsar-systeme-binaire-2084866",
       "publishedAt": "2026-11-22T12:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Tiago Splitter ne fait aucun cadeau à ses cadres",
-      "url": "https://www.basketusa.com/news/959742/tiago-splitter-ne-fait-aucun-cadeau-a-ses-cadres/",
-      "publishedAt": "2026-11-22T11:48:42+00:00"
     },
     {
       "source": "boulet",
