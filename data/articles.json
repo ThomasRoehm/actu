@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:30:54.146976+00:00",
+  "generatedAt": "2026-11-24T16:40:39.432560+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T16:30:54.146976+00:00"
+      "lastSuccessAt": "2026-11-24T16:40:39.432560+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Grosses promos sur les MacBook Pro M5 Pro/Max : jusqu'à -1100€ par rapport à l'Apple Store !",
+      "url": "https://www.mac4ever.com/mac/199267-grosses-promos-sur-les-macbook-pro-m5-pro-max-jusqu-a-1100-par-rapport-a-l-apple-store",
+      "publishedAt": "2026-11-24T16:31:28+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Anker SOLIX : jusqu’à 2 300 € de réduction sur les batteries solaires et stations électriques",
       "url": "https://www.clubic.com/actualite-640174-black-friday-anker-solix-jusqu-a-2-300-de-reduction-sur-les-batteries-solaires-et-stations-electriques.html",
       "publishedAt": "2026-11-24T16:30:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ryanair modifie discrètement sa politique d’attribution des sièges : comment ne pas se faire avoir",
+      "url": "https://www.presse-citron.net/ryanair-modifie-discretement-sa-politique-dattribution-des-sieges-comment-ne-pas-se-faire-avoir/",
+      "publishedAt": "2026-11-24T16:28:44+00:00"
     },
     {
       "source": "clubic",
@@ -215,6 +227,12 @@
     },
     {
       "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-24T15:53:00+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "Black Friday Apple : Amazon baisse l’iPhone 17 Pro, le MacBook Air M5 et 9 autres produits avant le Black Friday",
       "url": "https://www.clubic.com/bons-plans-638878-amazon-fait-le-plein-de-promos-apple-avant-le-black-friday-de-l-ipad-au-airpods-pro-3.html",
       "publishedAt": "2026-11-24T15:51:00+00:00"
@@ -274,10 +292,10 @@
       "publishedAt": "2026-11-24T15:37:00+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-24T15:34:00+00:00"
+      "source": "basketusa",
+      "title": "Audiences TV : le pari gagnant de la NBA",
+      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
+      "publishedAt": "2026-11-24T15:33:30+00:00"
     },
     {
       "source": "macg",
@@ -434,12 +452,6 @@
       "title": "La voiture électrique reste la motorisation numéro 1 en France, pendant que l’essence plonge",
       "url": "https://www.presse-citron.net/la-voiture-electrique-reste-la-motorisation-numero-1-en-france-pendant-que-lessence-plonge/",
       "publishedAt": "2026-11-24T14:34:09+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Audiences TV : le pari gagnant de la NBA",
-      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
-      "publishedAt": "2026-11-24T14:33:30+00:00"
     },
     {
       "source": "gnt",
