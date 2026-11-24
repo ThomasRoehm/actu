@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T12:50:39.145379+00:00",
+  "generatedAt": "2026-11-24T13:01:06.671452+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
+      "lastSuccessAt": "2026-11-24T13:01:06.671452+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "La Corée du Nord dévoile son premier chatbot IA, il refuse les questions \"impolies\"",
+      "url": "https://www.clubic.com/actualite-640789-la-coree-du-nord-devoile-son-premier-chatbot-ia-il-refuse-les-questions-impolies.html",
+      "publishedAt": "2026-11-24T13:00:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Disparu depuis 82 ans, cet avion soviétique de la Seconde Guerre mondiale vient enfin d’être retrouvé : sa cargaison cachait un surprenant souvenir",
+      "url": "https://www.presse-citron.net/disparu-depuis-82-ans-cet-avion-sovietique-de-la-seconde-guerre-mondiale-vient-enfin-detre-retrouve-sa-cargaison-cachait-un-surprenant-souvenir/",
+      "publishedAt": "2026-11-24T12:52:29+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Comment le scientifique en chef d'OpenAI veut-il freiner le développement de l'IA ?",
+      "url": "https://www.generation-nt.com/actualites/scientifique-openai-freiner-ia-2084950",
+      "publishedAt": "2026-11-24T12:50:01+00:00"
+    },
     {
       "source": "iphon",
       "title": "Black Friday : ces réductions sur les montres Garmin vont vous faire transpirer",
@@ -146,6 +164,12 @@
       "title": "250 millions de dollars de préjudice, les promesses autour de Siri coutent très cher à Apple",
       "url": "https://www.iphon.fr/post/250-millions-dollars-siri-promesses-ia",
       "publishedAt": "2026-11-24T12:46:26+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Cameron Boozer absent au moins jusqu’à Noël",
+      "url": "https://www.basketusa.com/news/961636/cameron-boozer-absent-au-moins-jusqua-noel/",
+      "publishedAt": "2026-11-24T12:46:03+00:00"
     },
     {
       "source": "clubic",
@@ -176,6 +200,12 @@
       "title": "Threads sur iPad : une vraie app enfin en route, trois ans après",
       "url": "https://www.mac4ever.com/ipad/199254-threads-sur-ipad-une-vraie-app-enfin-en-route-trois-ans-apres",
       "publishedAt": "2026-11-24T12:31:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "GTA 6 vend-il vraiment vos données psychologiques aux assureurs et aux employeurs ?",
+      "url": "https://www.generation-nt.com/actualites/gta-6-vente-donnees-assureurs-2084983",
+      "publishedAt": "2026-11-24T12:30:01+00:00"
     },
     {
       "source": "gnt",
@@ -329,7 +359,7 @@
     },
     {
       "source": "gnt",
-      "title": "Tesla va intégrer la connectivité Starlink à tous ses modèles d'ici 2027",
+      "title": "Tesla veut intégrer la connectivité satellite Starlink à tous ses modèles d'ici 2027",
       "url": "https://www.generation-nt.com/actualites/tesla-vehicule-electrique-starlink-abonnement-2084999",
       "publishedAt": "2026-11-24T11:10:01+00:00"
     },
@@ -790,6 +820,12 @@
       "publishedAt": "2026-11-24T08:59:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Guerschon Yabusele doit recevoir une bague de champion NBA",
+      "url": "https://www.basketusa.com/news/961622/guerschon-yabusele-devrait-recevoir-une-bague-de-champion-nba/",
+      "publishedAt": "2026-11-24T08:56:31+00:00"
+    },
+    {
       "source": "numerama",
       "title": "GTA 6 sur PC : le principal projet est abandonné, mais le jeu commence à démarrer",
       "url": "https://www.numerama.com/pop-culture/2383269-gta-6-sur-pc-le-principal-projet-est-abandonne-mais-le-jeu-commence-a-demarrer.html",
@@ -962,12 +998,6 @@
       "title": "Feu vert pour Micah Parsons ! Les 8 infos NFL du mardi",
       "url": "https://touchdownactu.com/361780/feu-vert-pour-micah-parsons-les-8-infos-nfl-du-mardi/",
       "publishedAt": "2026-11-24T07:57:22+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Guerschon Yabusele doit recevoir une bague de champion NBA",
-      "url": "https://www.basketusa.com/news/961622/guerschon-yabusele-devrait-recevoir-une-bague-de-champion-nba/",
-      "publishedAt": "2026-11-24T07:56:31+00:00"
     },
     {
       "source": "clubic",
