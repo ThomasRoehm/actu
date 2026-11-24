@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:30:52.234047+00:00",
+  "generatedAt": "2026-11-24T09:40:41.429798+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,57 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
+      "lastSuccessAt": "2026-11-24T09:40:41.429798+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Google transforme son moteur de recherche en assistant personnel, avec vos données comme carburant",
+      "url": "https://www.clubic.com/actualite-640747-google-transforme-son-moteur-de-recherche-en-assistant-personnel-avec-vos-donnees-comme-carburant.html",
+      "publishedAt": "2026-11-24T09:35:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone 18e : cette nouveauté photo lui donne un air de Pro",
+      "url": "https://www.iphon.fr/post/iphone-18e-nouveaute-bloc-photo-air-pro",
+      "publishedAt": "2026-11-24T09:33:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Une ligne violette dans Google Maps ? Ce n’est pas un bug, c’est une nouveauté que Google préparerait pour son app de navigation",
+      "url": "https://www.presse-citron.net/google-maps-nouveaute-google/",
+      "publishedAt": "2026-11-24T09:32:55+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 : Rockstar a caché un portail secret qui plaira aux fans des vieux GTA",
+      "url": "https://www.numerama.com/pop-culture/2383323-gta-6-rockstar-a-cache-un-portail-secret-qui-plaira-aux-fans-des-vieux-gta.html",
+      "publishedAt": "2026-11-24T09:32:53+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "L’alternative à la clim Midea Portasplit, qui chauffe aussi l’hiver, se trouve pour 500 € de moins pendant le Black Friday",
+      "url": "https://www.numerama.com/tech/2383101-lalternative-a-la-clim-midea-portasplit-qui-chauffe-aussi-lhiver-se-trouve-pour-500-e-de-moins-pendant-le-black-friday.html",
+      "publishedAt": "2026-11-24T09:31:56+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Ligne 18 : mauvaise nouvelle pour le nouveau métro du Grand Paris Express",
+      "url": "https://www.journaldugeek.com/2026/11/24/ligne-18-mauvaise-nouvelle-pour-le-nouveau-metro-du-grand-paris-express/",
+      "publishedAt": "2026-11-24T09:30:39+00:00"
+    },
     {
       "source": "numerama",
       "title": "Ladybird, le navigateur qui veut affranchir le web de Google, est enfin là. Et son créateur veut qu’on le pirate",
       "url": "https://www.numerama.com/tech/2383303-ladybird-le-navigateur-qui-veut-affranchir-le-web-de-google-est-enfin-la-et-son-createur-veut-quon-le-pirate.html",
       "publishedAt": "2026-11-24T09:30:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Free fait une première en France avec cette fonctionnalité inédite pour ses abonnés",
+      "url": "https://www.journaldugeek.com/2026/11/24/free-fait-une-premiere-en-france-avec-cette-fonctionnalite-inedite-pour-ses-abonnes/",
+      "publishedAt": "2026-11-24T09:28:17+00:00"
     },
     {
       "source": "numerama",
@@ -3008,12 +3050,6 @@
       "title": "Florence Pugh, Kristen Stewart… Quelle James Bond girl pour accompagner Robert Pattinson ?",
       "url": "https://www.numerama.com/pop-culture/2380049-quelle-james-bond-girl-pour-accompagner-robert-pattinson.html",
       "publishedAt": "2026-11-22T10:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Pas de panique aux Celtics malgré une troisième défaite de suite",
-      "url": "https://www.basketusa.com/news/959705/pas-de-panique-aux-celtics-malgre-une-3e-defaite-de-suite/",
-      "publishedAt": "2026-11-22T09:36:11+00:00"
     },
     {
       "source": "boulet",
