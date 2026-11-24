@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:50:40.525275+00:00",
+  "generatedAt": "2026-11-24T14:01:05.489793+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:50:40.525275+00:00"
+      "lastSuccessAt": "2026-11-24T14:01:05.489793+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "L’iPhone 17 Pro Max est aujourd’hui à un prix rarement vu pour le Black Friday",
+      "url": "https://www.numerama.com/tech/2212189-liphone-17-pro-max-est-aujourdhui-a-un-prix-rarement-vu-pour-le-black-friday.html",
+      "publishedAt": "2026-11-24T13:54:17+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "iPhone 18e : une fuite dévoile un nouveau design !",
+      "url": "https://www.mac4ever.com/iphone/199258-iphone-18e-une-fuite-devoile-un-nouveau-design",
+      "publishedAt": "2026-11-24T13:51:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday AliExpress : les 10 meilleures offres du jour et les codes promo actifs",
+      "url": "https://www.generation-nt.com/actualites/honor-pad-20-pro-aliexpress-imprimante-3d-flashforge-ad5x-mini-pc-soyo-drone-dji-neo-2-ssd-netac-black-friday-promos-pas-cher-2084994",
+      "publishedAt": "2026-11-24T13:50:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
@@ -374,6 +392,12 @@
       "title": "Sanofi rachète Insmed pour 41 milliards $ : pourquoi ce deal XXL et historique est crucial pour le géant français",
       "url": "https://www.presse-citron.net/sanofi-rachete-insmed-pour-41-milliards-pourquoi-ce-deal-xxl-et-historique-est-crucial-pour-le-geant-francais/",
       "publishedAt": "2026-11-24T12:00:30+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "Le tunnel fit, nouveau podium des géants de la NFL",
+      "url": "https://touchdownactu.com/354340/le-tunnel-fit-nouveau-podium-des-geants-de-la-nfl/",
+      "publishedAt": "2026-11-24T12:00:27+00:00"
     },
     {
       "source": "jdg",
@@ -1282,6 +1306,12 @@
       "publishedAt": "2026-11-24T06:42:29+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Même très diminués, les Spurs maîtrisent les Kings",
+      "url": "https://www.basketusa.com/news/961659/meme-tres-diminues-les-spurs-maitrisent-les-kings/",
+      "publishedAt": "2026-11-24T06:37:53+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Après la douche froide de 2023, Hunger Games revient en force. Que s’est-il passé ?",
       "url": "https://www.journaldugeek.com/2026/11/24/apres-la-douche-froide-de-2023-hunger-games-revient-en-force-que-sest-il-passe/",
@@ -1382,12 +1412,6 @@
       "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
       "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
       "publishedAt": "2026-11-24T05:55:05+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Même très diminués, les Spurs maîtrisent les Kings",
-      "url": "https://www.basketusa.com/news/961659/meme-tres-diminues-les-spurs-maitrisent-les-kings/",
-      "publishedAt": "2026-11-24T05:37:53+00:00"
     },
     {
       "source": "gnt",
@@ -3500,18 +3524,6 @@
       "title": "Fin du système de réservation pour la Steam Machine 512 Go, la version 2 To retirée",
       "url": "https://www.clubic.com/actualite-640462-fin-du-systeme-de-reservation-pour-la-steam-machine-512-go-la-version-2-to-retiree.html",
       "publishedAt": "2026-11-22T14:02:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "On a ouvert Règne Delta, l’extension Pokémon qui fait du bien après la folie des 30 ans",
-      "url": "https://www.numerama.com/pop-culture/2378763-on-a-ouvert-regne-delta-lextension-pokemon-qui-fait-du-bien-apres-la-folie-des-30-ans.html",
-      "publishedAt": "2026-11-22T14:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Une réunion pour provoquer un déclic chez les Nets",
-      "url": "https://www.basketusa.com/news/959745/une-reunion-pour-provoquer-un-declic-chez-les-nets/",
-      "publishedAt": "2026-11-22T13:57:51+00:00"
     },
     {
       "source": "boulet",
