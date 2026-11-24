@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:01:05.206128+00:00",
+  "generatedAt": "2026-11-24T06:10:47.977836+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:01:05.206128+00:00"
+      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "\"Il a un peu de sang de là-bas\". L'étrange défense de Trump du retour de Jensen Huang chez NVIDIA",
+      "url": "https://www.clubic.com/actualite-640681-il-a-un-de-sang-de-la-bas-l-etrange-defense-de-trump-du-retour-de-jensen-huang-chez-nvidia.html",
+      "publishedAt": "2026-11-24T06:01:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "L’UE sanctionne la femme la plus riche de Russie, souvent comparée à Jeff Bezos : voici pourquoi",
+      "url": "https://www.presse-citron.net/lue-sanctionne-la-femme-la-plus-riche-de-russie-souvent-comparee-a-jeff-bezos-voici-pourquoi/",
+      "publishedAt": "2026-11-24T06:00:34+00:00"
+    },
     {
       "source": "gnt",
       "title": "Black Friday Ausom: électrisez vos trajets avec des offres sur toutes les trottinettes électriques !",
@@ -152,6 +164,12 @@
       "title": "Decathlon confirme une fuite qui touche des clients de son site",
       "url": "https://www.clubic.com/actualite-640699-decathlon-confirme-une-fuite-qui-touche-des-clients-de-son-site.html",
       "publishedAt": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T05:55:05+00:00"
     },
     {
       "source": "basketusa",
