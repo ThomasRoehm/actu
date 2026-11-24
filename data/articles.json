@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:20:37.158236+00:00",
+  "generatedAt": "2026-11-24T09:30:52.234047+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
+      "lastSuccessAt": "2026-11-24T09:30:52.234047+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Ladybird, le navigateur qui veut affranchir le web de Google, est enfin là. Et son créateur veut qu’on le pirate",
+      "url": "https://www.numerama.com/tech/2383303-ladybird-le-navigateur-qui-veut-affranchir-le-web-de-google-est-enfin-la-et-son-createur-veut-quon-le-pirate.html",
+      "publishedAt": "2026-11-24T09:30:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 est déjà jouable sur PlayStation Portal sans PS5",
+      "url": "https://www.numerama.com/pop-culture/2383295-gta-6-est-deja-jouable-sur-playstation-portal-sans-ps5.html",
+      "publishedAt": "2026-11-24T09:25:25+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Windows 11 relie plusieurs mini PC en USB4 pour charger de gros modèles d'IA",
+      "url": "https://www.generation-nt.com/actualites/windows-mini-pc-usb4-ia-2084958",
+      "publishedAt": "2026-11-24T09:25:01+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Claude : ces nouveautés qui pourraient faire la différence face à ChatGPT",
+      "url": "https://www.mac4ever.com/ia/199237-claude-ces-nouveautes-qui-pourraient-faire-la-difference-face-a-chatgpt",
+      "publishedAt": "2026-11-24T09:25:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Kevin Durant, l’art de choisir ses moments",
+      "url": "https://www.basketusa.com/news/961677/kevin-durant-lart-de-choisir-ses-moments/",
+      "publishedAt": "2026-11-24T09:24:17+00:00"
+    },
     {
       "source": "clubic",
       "title": "“La superintelligence arrive” : pourquoi l'avertissement du chef de l'IA de Meta agace au plus haut point",
@@ -142,10 +172,22 @@
       "publishedAt": "2026-11-24T09:19:00+00:00"
     },
     {
+      "source": "macg",
+      "title": "Black Friday : Microsoft 365 et Office sont en promotion, comme d’habitude",
+      "url": "https://www.macg.co/logiciels/2026/11/black-friday-microsoft-365-et-office-sont-en-promotion-comme-dhabitude-312619",
+      "publishedAt": "2026-11-24T09:19:00+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday : votre prochain PC gaming pourrait commencer avec le Ryzen 7 7800X3D à 283,99 € chez Amazon",
       "url": "https://www.clubic.com/bons-plans-640729-black-friday-votre-prochain-pc-gaming-pourrait-commencer-avec-le-ryzen-7-7800x3d-a-283-99-chez-amazon.html",
       "publishedAt": "2026-11-24T09:13:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "La Chine prépare-t-elle une escadrille orbitale capable de plonger sur Terre en deux minutes ?",
+      "url": "https://www.generation-nt.com/actualites/chine-flotte-spatiale-orbite-avion-reutilisable-2084982",
+      "publishedAt": "2026-11-24T09:10:01+00:00"
     },
     {
       "source": "numerama",
@@ -176,6 +218,12 @@
       "title": "Est-ce que Ted Lasso aura une saison 5 ? Apple TV a tranché et ça risque de faire des déçus",
       "url": "https://www.journaldugeek.com/2026/11/24/est-ce-que-ted-lasso-aura-une-saison-5-apple-tv-a-tranche-et-ca-risque-de-faire-des-decus/",
       "publishedAt": "2026-11-24T09:00:14+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday : notre podium du jour (Fairphone Gen 6+, casque SteelSeries et Garmin vívoactive 5)",
+      "url": "https://www.generation-nt.com/actualites/fairphone-gen-6-plus-steelseries-arctis-nova-pro-omni-casque-gaming-garmin-vivoactive-5-montre-black-friday-promos-pas-cher-2084993",
+      "publishedAt": "2026-11-24T09:00:01+00:00"
     },
     {
       "source": "clubic",
@@ -647,6 +695,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T05:55:05+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Le banc des Bulls fait exploser les Cavaliers",
       "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
       "publishedAt": "2026-11-24T05:35:07+00:00"
@@ -662,12 +716,6 @@
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
       "publishedAt": "2026-11-24T05:22:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
-      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
-      "publishedAt": "2026-11-24T04:55:05+00:00"
     },
     {
       "source": "macg",
@@ -2966,18 +3014,6 @@
       "title": "Pas de panique aux Celtics malgré une troisième défaite de suite",
       "url": "https://www.basketusa.com/news/959705/pas-de-panique-aux-celtics-malgre-une-3e-defaite-de-suite/",
       "publishedAt": "2026-11-22T09:36:11+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday RED by SFR : le forfait Voyage 250 Go en 5G chute à 12,99 €/mois jusqu’au 30/11",
-      "url": "https://www.generation-nt.com/actualites/red-by-sfr-forfait-mobile-sans-engagement-pas-cher-black-friday-250-go-5g-voyage-international-2084855",
-      "publishedAt": "2026-11-22T09:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "La Russie bloque à Genève la voie à un traité sur les « robots tueurs »",
-      "url": "https://www.clubic.com/actualite-640450-la-russie-bloque-a-geneve-la-voie-a-un-traite-sur-les-robots-tueurs.html",
-      "publishedAt": "2026-11-22T09:30:00+00:00"
     },
     {
       "source": "boulet",
