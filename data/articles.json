@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:20:40.366169+00:00",
+  "generatedAt": "2026-11-24T06:31:00.252168+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     },
     {
       "id": "tda",
@@ -118,8 +118,8 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/tda.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "<urlopen error timed out>",
       "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
+      "lastSuccessAt": "2026-11-24T06:31:00.252168+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "Acer Swift Air 14 : cet ultraportable de 1,19 kg passe à 599 € pour le Black Friday, et il a de sérieux arguments",
+      "url": "https://www.clubic.com/actualite-639577-acer-swift-air-14-cet-ultraportable-de-1-19-kg-passe-a-599-pour-le-black-friday-et-il-a-de-serieux-arguments.html",
+      "publishedAt": "2026-11-24T06:30:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Navigateurs sur iPhone : une coalition représentant jusqu'à 55 000 entreprises européennes presse Bruxelles d'agir contre Apple",
+      "url": "https://www.clubic.com/actualite-640696-navigateurs-sur-iphone-une-coalition-representant-jusqu-a-55-000-entreprises-europeennes-presse-bruxelles-d-agir-contre-apple.html",
+      "publishedAt": "2026-11-24T06:30:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Product(RED), le retour ? Apple préparerait de nouveaux produits dès décembre",
+      "url": "https://www.mac4ever.com/divers/199234-product-red-le-retour-apple-preparerait-de-nouveaux-produits-des-decembre",
+      "publishedAt": "2026-11-24T06:21:00+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "La France veut stocker des terres rares pour moins dépendre de la Chine",
       "url": "https://www.clubic.com/actualite-640690-la-france-veut-stocker-des-terres-rares-pour-moins-dependre-de-la-chine.html",
       "publishedAt": "2026-11-24T06:15:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Blazers surprennent des Sixers sans défense",
+      "url": "https://www.basketusa.com/news/961650/les-blazers-surprennent-des-sixers-sans-defense/",
+      "publishedAt": "2026-11-24T06:14:18+00:00"
     },
     {
       "source": "jdg",
@@ -184,16 +208,16 @@
       "publishedAt": "2026-11-24T05:55:05+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Le banc des Bulls fait exploser les Cavaliers",
-      "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
-      "publishedAt": "2026-11-24T05:35:07+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Pourquoi Microsoft observe-t-il Claude et Codex sur les postes Windows 11 en entreprise ?",
       "url": "https://www.generation-nt.com/actualites/windows-11-surveille-claude-codex-2084949",
       "publishedAt": "2026-11-24T05:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le banc des Bulls fait exploser les Cavaliers",
+      "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
+      "publishedAt": "2026-11-24T04:35:07+00:00"
     },
     {
       "source": "macg",
@@ -910,34 +934,16 @@
       "publishedAt": "2026-11-23T13:27:58+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-23T13:25:21+00:00"
-    },
-    {
       "source": "gnt",
       "title": "GTA VI sur Nintendo Switch 2 : Digital Foundry juge le portage impossible !",
       "url": "https://www.generation-nt.com/actualites/gta-vi-switch-digital-foundry-2084921",
       "publishedAt": "2026-11-23T13:25:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/960064/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-23T13:23:48+00:00"
-    },
-    {
       "source": "korben",
       "title": "Signal empêche les IA de lire vos messages par-dessus votre épaule",
       "url": "https://korben.info/signal-empeche-les-ia-de-lire-vos-messages-par-dessus-votre-epaule.html",
       "publishedAt": "2026-11-23T13:21:48+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Washington Wizards – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/960072/washington-wizards-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-23T13:20:43+00:00"
     },
     {
       "source": "clubic",
@@ -1030,10 +1036,28 @@
       "publishedAt": "2026-11-23T12:26:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-23T12:25:21+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/960064/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-23T12:23:48+00:00"
+    },
+    {
       "source": "iphon",
       "title": "Amazon brade les AirTags pendant le Black Friday : économisez 55 € en en achetant 4 d’un coup !",
       "url": "https://www.iphon.fr/post/amazon-brade-airtags-black-friday-economisez-55-euros-4-un-coup",
       "publishedAt": "2026-11-23T12:22:32+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Washington Wizards – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/960072/washington-wizards-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-23T12:20:43+00:00"
     },
     {
       "source": "numerama",
@@ -2720,18 +2744,6 @@
       "title": "Keegan Murray peut enfin allumer le « Beam » des Kings !",
       "url": "https://www.basketusa.com/news/959670/keegan-murray-peut-enfin-allumer-le-beam-des-kings/",
       "publishedAt": "2026-11-22T06:43:03+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "ChatGPT, iPhone, navigateur : découvrez comment ESET étend sa protection aux nouveaux usages numériques",
-      "url": "https://www.clubic.com/actualite-639064-chatgpt-iphone-navigateur-decouvrez-comment-eset-etend-sa-protection-aux-nouveaux-usages-numeriques.html",
-      "publishedAt": "2026-11-22T06:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Zaccharie Risacher décisif, les Clippers craquent encore",
-      "url": "https://www.basketusa.com/news/959658/zaccharie-risacher-decisif-les-clippers-craquent-encore/",
-      "publishedAt": "2026-11-22T06:28:43+00:00"
     },
     {
       "source": "boulet",
