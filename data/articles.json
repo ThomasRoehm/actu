@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:10:41.774726+00:00",
+  "generatedAt": "2026-11-24T13:20:38.308958+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:10:41.774726+00:00"
+      "lastSuccessAt": "2026-11-24T13:20:38.308958+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Pour le Black Friday, Decathlon baisse le prix du Shokz OpenSwim Pro, le casque qui joue votre musique sous l’eau",
+      "url": "https://www.numerama.com/tech/2383107-pour-le-black-friday-decathlon-baisse-le-prix-du-shokz-openswim-pro-le-casque-qui-joue-votre-musique-sous-leau.html",
+      "publishedAt": "2026-11-24T13:20:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "L’UE plafonne les importations de voitures hybrides en Europe : voici pourquoi la Renault Clio entre aussi dans le viseur",
+      "url": "https://www.presse-citron.net/lue-plafonne-les-importations-de-voitures-hybrides-en-europe-voici-pourquoi-la-renault-clio-entre-aussi-dans-le-viseur/",
+      "publishedAt": "2026-11-24T13:15:33+00:00"
+    },
     {
       "source": "iphon",
       "title": "La montre Apple Watch SE 3 est à 231 € au Black Friday : un deal qui passe crème",
@@ -574,12 +586,6 @@
       "publishedAt": "2026-11-24T10:14:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "La D.O.N. Issue 8 sur le retour",
-      "url": "https://www.basketusa.com/news/961639/la-d-o-n-issue-8-sur-le-retour/",
-      "publishedAt": "2026-11-24T10:08:37+00:00"
-    },
-    {
       "source": "numerama",
       "title": "« C’était une blague » : le mathématicien d’Anthropic revient sur les 250 000 pages de sa preuve de Riemann",
       "url": "https://www.numerama.com/tech/2383299-cetait-une-blague-le-mathematicien-danthropic-revient-sur-les-250-000-pages-de-sa-preuve-de-riemann.html",
@@ -800,6 +806,12 @@
       "title": "La Chine prépare-t-elle une escadrille orbitale capable de plonger sur Terre en deux minutes ?",
       "url": "https://www.generation-nt.com/actualites/chine-flotte-spatiale-orbite-avion-reutilisable-2084982",
       "publishedAt": "2026-11-24T09:10:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La D.O.N. Issue 8 sur le retour",
+      "url": "https://www.basketusa.com/news/961639/la-d-o-n-issue-8-sur-le-retour/",
+      "publishedAt": "2026-11-24T09:08:37+00:00"
     },
     {
       "source": "numerama",
