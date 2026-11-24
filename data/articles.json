@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T08:10:38.156647+00:00",
+  "generatedAt": "2026-11-24T08:20:40.627330+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T08:10:38.156647+00:00"
+      "lastSuccessAt": "2026-11-24T08:20:40.627330+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Vous ne voulez pas perdre votre sauvegarde GTA 6 ? Alors appliquez ce patch !",
+      "url": "https://www.mac4ever.com/gaming/199239-vous-ne-voulez-pas-perdre-votre-sauvegarde-gta-6-alors-appliquez-ce-patch",
+      "publishedAt": "2026-11-24T08:17:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Jensen Huang de retour chez Nvidia : merci Donald Trump",
+      "url": "https://www.iphon.fr/post/jensen-huang-retour-nvidia-merci-donald-trump",
+      "publishedAt": "2026-11-24T08:11:50+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Walker Kessler, pilier de la nouvelle défense des Lakers",
+      "url": "https://www.basketusa.com/news/961715/walker-kessler-pilier-de-la-nouvelle-defense-des-lakers/",
+      "publishedAt": "2026-11-24T08:10:09+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Kodak invente l’AirTag qui affiche la photo de votre chien",
+      "url": "https://www.journaldugeek.com/2026/11/24/kodak-invente-lairtag-qui-affiche-la-photo-de-votre-chien/",
+      "publishedAt": "2026-11-24T08:04:06+00:00"
+    },
     {
       "source": "clubic",
       "title": "Intel Arc G3 Play : la puce graphique la moins chère pour consoles portables fuite avant l’annonce",
@@ -188,6 +212,12 @@
       "title": "Les distributeurs disparaissent partout en France : voici ce qui les remplace dès aujourd’hui",
       "url": "https://www.presse-citron.net/les-distributeurs-disparaissent-partout-en-france-voici-ce-qui-les-remplace-des-aujourdhui/",
       "publishedAt": "2026-11-24T07:43:11+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Shirudo - Quand l'IA fabrique des boucliers pour Linux",
+      "url": "https://korben.info/shirudo-openai-cisco-ebpf.html",
+      "publishedAt": "2026-11-24T07:38:51+00:00"
     },
     {
       "source": "jdg",
@@ -484,12 +514,6 @@
       "publishedAt": "2026-11-23T19:45:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
-      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
-      "publishedAt": "2026-11-23T19:30:11+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Meilleures promos du jour : Nothing Phone (4b) 299€, Mac Mini M6 889€, volant Logitech + Gran Turismo 7 210€..",
       "url": "https://www.generation-nt.com/actualites/nothing-phone-4b-mac-mini-m6-samsung-galaxy-s26-odyssey-g5-ultra-polar-h9-google-pixel-buds-2a-dualsense-edge-promos-pas-cher-2084973",
@@ -524,6 +548,12 @@
       "title": "Test OnePlus Buds Pro 4 : des écouteurs presque aussi bons que Sony et Apple, pour deux fois moins cher",
       "url": "https://www.journaldugeek.com/test/test-oneplus-buds-pro-4-des-ecouteurs-presque-aussi-bons-que-sony-et-apple-pour-deux-fois-moins-cher/",
       "publishedAt": "2026-11-23T18:33:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
+      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
+      "publishedAt": "2026-11-23T18:30:11+00:00"
     },
     {
       "source": "numerama",
@@ -578,12 +608,6 @@
       "title": "La Poste signe son premier accord sur l'IA, et l'algorithme ne pourra pas décider à la place des postiers",
       "url": "https://www.clubic.com/actualite-640651-la-poste-signe-son-premier-accord-sur-l-ia-et-l-algorithme-ne-pourra-pas-decider-a-la-place-des-postiers.html",
       "publishedAt": "2026-11-23T17:32:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
-      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
-      "publishedAt": "2026-11-23T17:31:53+00:00"
     },
     {
       "source": "clubic",
@@ -700,6 +724,12 @@
       "publishedAt": "2026-11-23T16:32:54+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
+      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
+      "publishedAt": "2026-11-23T16:31:53+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Mais pourquoi Avengers Doomsday a l’air si moche ?",
       "url": "https://www.journaldugeek.com/2026/11/23/mais-pourquoi-avengers-doomsday-a-lair-si-moche/",
@@ -719,7 +749,7 @@
     },
     {
       "source": "numerama",
-      "title": "GTA 6 : nudistes, klaxons et pélicans : un ornithologue raconte sa traque des 60 espèces d’oiseaux",
+      "title": "Nudistes, klaxons et pélicans dans GTA 6 : un ornithologue raconte sa traque des 60 espèces d’oiseaux",
       "url": "https://www.numerama.com/pop-culture/2382919-gta-6-nudistes-klaxons-et-pelicans-un-ornithologue-raconte-sa-traque-des-60-especes-doiseaux.html",
       "publishedAt": "2026-11-23T16:30:00+00:00"
     },
@@ -2840,18 +2870,6 @@
       "title": "Les Kings savourent enfin leur première victoire à domicile",
       "url": "https://www.basketusa.com/news/959695/les-kings-savourent-enfin-leur-premiere-victoire-a-domicile/",
       "publishedAt": "2026-11-22T08:21:32+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Road-trip en Smart #3 Brabus sur 3000Km : sous-cotée, cette petite voiture électrique ?",
-      "url": "https://www.mac4ever.com/auto/198977-road-trip-en-smart-3-brabus-sur-3000km-sous-cotee-cette-petite-voiture-electrique",
-      "publishedAt": "2026-11-22T08:18:54+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : Amazon casse les prix de 8 montres GPS Suunto, Garmin et Amazfit jusqu’à -40%",
-      "url": "https://www.clubic.com/bons-plans-638989-black-friday-top-7-des-meilleures-montres-connectees-a-saisir-chez-garmin-suunto-ou-amazfit.html",
-      "publishedAt": "2026-11-22T08:15:00+00:00"
     },
     {
       "source": "boulet",
