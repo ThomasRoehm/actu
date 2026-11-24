@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:10:40.665615+00:00",
+  "generatedAt": "2026-11-24T09:20:37.158236+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T09:10:40.665615+00:00"
+      "lastSuccessAt": "2026-11-24T09:20:37.158236+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "“La superintelligence arrive” : pourquoi l'avertissement du chef de l'IA de Meta agace au plus haut point",
+      "url": "https://www.clubic.com/actualite-640708-la-superintelligence-arrive-pourquoi-l-avertissement-du-chef-de-l-ia-de-meta-agace-au-plus-haut-point.html",
+      "publishedAt": "2026-11-24T09:19:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : votre prochain PC gaming pourrait commencer avec le Ryzen 7 7800X3D à 283,99 € chez Amazon",
+      "url": "https://www.clubic.com/bons-plans-640729-black-friday-votre-prochain-pc-gaming-pourrait-commencer-avec-le-ryzen-7-7800x3d-a-283-99-chez-amazon.html",
+      "publishedAt": "2026-11-24T09:13:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Free Mobile lance un service de traduction des appels avec des résumés IA par SMS",
       "url": "https://www.numerama.com/tech/2383301-free-mobile-lance-un-service-de-traduction-des-appels-avec-des-resumes-ia-par-sms.html",
       "publishedAt": "2026-11-24T09:05:17+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Ladybird - Vous pouvez enfin installer ce navigateur indépendant",
+      "url": "https://korben.info/ladybird-premiere-alpha.html",
+      "publishedAt": "2026-11-24T09:04:43+00:00"
     },
     {
       "source": "macg",
@@ -629,12 +647,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
-      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
-      "publishedAt": "2026-11-24T05:55:05+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Le banc des Bulls fait exploser les Cavaliers",
       "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
       "publishedAt": "2026-11-24T05:35:07+00:00"
@@ -650,6 +662,12 @@
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
       "publishedAt": "2026-11-24T05:22:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T04:55:05+00:00"
     },
     {
       "source": "macg",
