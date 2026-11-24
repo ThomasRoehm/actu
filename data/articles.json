@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T12:40:44.135273+00:00",
+  "generatedAt": "2026-11-24T12:50:39.145379+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
+      "lastSuccessAt": "2026-11-24T12:50:39.145379+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Black Friday : ces réductions sur les montres Garmin vont vous faire transpirer",
+      "url": "https://www.iphon.fr/post/offres-garmin-black-friday-2026",
+      "publishedAt": "2026-11-24T12:49:59+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "250 millions de dollars de préjudice, les promesses autour de Siri coutent très cher à Apple",
+      "url": "https://www.iphon.fr/post/250-millions-dollars-siri-promesses-ia",
+      "publishedAt": "2026-11-24T12:46:26+00:00"
+    },
     {
       "source": "clubic",
       "title": "1 W à peine : TCL dévoile un écran IPS Full HD+ / 120 Hz ultra sobre pour nos PC portables",
@@ -146,6 +158,12 @@
       "title": "Les casques à conduction osseuse Shokz bradés pour le Black Friday : parfaits pour les sportifs !",
       "url": "https://www.mac4ever.com/audio/199256-les-casques-a-conduction-osseuse-shokz-brades-pour-le-black-friday-parfaits-pour-les-sportifs",
       "publishedAt": "2026-11-24T12:37:16+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Mise à jour Switch 2 : les fans d’écrans OLED attendaient cette MAJ depuis des années",
+      "url": "https://www.journaldugeek.com/2026/11/24/mise-a-jour-switch-2-les-fans-decrans-oled-attendaient-cette-maj-depuis-des-annees/",
+      "publishedAt": "2026-11-24T12:34:42+00:00"
     },
     {
       "source": "presse",
@@ -772,12 +790,6 @@
       "publishedAt": "2026-11-24T08:59:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Guerschon Yabusele doit recevoir une bague de champion NBA",
-      "url": "https://www.basketusa.com/news/961622/guerschon-yabusele-devrait-recevoir-une-bague-de-champion-nba/",
-      "publishedAt": "2026-11-24T08:56:31+00:00"
-    },
-    {
       "source": "numerama",
       "title": "GTA 6 sur PC : le principal projet est abandonné, mais le jeu commence à démarrer",
       "url": "https://www.numerama.com/pop-culture/2383269-gta-6-sur-pc-le-principal-projet-est-abandonne-mais-le-jeu-commence-a-demarrer.html",
@@ -950,6 +962,12 @@
       "title": "Feu vert pour Micah Parsons ! Les 8 infos NFL du mardi",
       "url": "https://touchdownactu.com/361780/feu-vert-pour-micah-parsons-les-8-infos-nfl-du-mardi/",
       "publishedAt": "2026-11-24T07:57:22+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Guerschon Yabusele doit recevoir une bague de champion NBA",
+      "url": "https://www.basketusa.com/news/961622/guerschon-yabusele-devrait-recevoir-une-bague-de-champion-nba/",
+      "publishedAt": "2026-11-24T07:56:31+00:00"
     },
     {
       "source": "clubic",
@@ -1288,12 +1306,6 @@
       "publishedAt": "2026-11-23T19:45:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
-      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
-      "publishedAt": "2026-11-23T19:30:11+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Meilleures promos du jour : Nothing Phone (4b) 299€, Mac Mini M6 889€, volant Logitech + Gran Turismo 7 210€..",
       "url": "https://www.generation-nt.com/actualites/nothing-phone-4b-mac-mini-m6-samsung-galaxy-s26-odyssey-g5-ultra-polar-h9-google-pixel-buds-2a-dualsense-edge-promos-pas-cher-2084973",
@@ -1328,6 +1340,12 @@
       "title": "Test OnePlus Buds Pro 4 : des écouteurs presque aussi bons que Sony et Apple, pour deux fois moins cher",
       "url": "https://www.journaldugeek.com/test/test-oneplus-buds-pro-4-des-ecouteurs-presque-aussi-bons-que-sony-et-apple-pour-deux-fois-moins-cher/",
       "publishedAt": "2026-11-23T18:33:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
+      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
+      "publishedAt": "2026-11-23T18:30:11+00:00"
     },
     {
       "source": "numerama",
