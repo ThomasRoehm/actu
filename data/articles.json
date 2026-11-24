@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T07:50:40.667013+00:00",
+  "generatedAt": "2026-11-24T08:01:06.558618+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
+      "lastSuccessAt": "2026-11-24T08:01:06.558618+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "Feu vert pour Micah Parsons ! Les 8 infos NFL du mardi",
+      "url": "https://touchdownactu.com/361780/feu-vert-pour-micah-parsons-les-8-infos-nfl-du-mardi/",
+      "publishedAt": "2026-11-24T07:57:22+00:00"
+    },
     {
       "source": "clubic",
       "title": "BlackBerry revient avec un navigateur sécurisé pour les entreprises",
       "url": "https://www.clubic.com/actualite-640639-blackberry-revient-avec-un-navigateur-securise-pour-les-entreprises.html",
       "publishedAt": "2026-11-24T07:47:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Sixers n’étaient pas prêts à combattre",
+      "url": "https://www.basketusa.com/news/961694/les-sixers-netaient-pas-prets-a-combattre/",
+      "publishedAt": "2026-11-24T07:45:49+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Un comprimé fait disparaître des tumeurs chez des patients atteints d'un cancer du pancréas",
+      "url": "https://www.generation-nt.com/actualites/comprime-tumeurs-cancer-pancreas-2084960",
+      "publishedAt": "2026-11-24T07:45:01+00:00"
     },
     {
       "source": "numerama",
@@ -389,6 +407,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T05:55:05+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Le banc des Bulls fait exploser les Cavaliers",
       "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
       "publishedAt": "2026-11-24T05:35:07+00:00"
@@ -404,12 +428,6 @@
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
       "publishedAt": "2026-11-24T05:22:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
-      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
-      "publishedAt": "2026-11-24T04:55:05+00:00"
     },
     {
       "source": "macg",
@@ -2828,30 +2846,6 @@
       "title": "Ces 7 films ont inspiré GTA 6 et vous devez absolument les voir",
       "url": "https://www.journaldugeek.com/dossier/ces-7-films-ont-inspire-gta-6-et-vous-devez-absolument-les-voir/",
       "publishedAt": "2026-11-22T08:04:41+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "GNT : le top des actualités de la semaine qu'il ne fallait pas manquer",
-      "url": "https://www.generation-nt.com/actualites/gnt-top-2084904",
-      "publishedAt": "2026-11-22T08:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le « buzzer beater » de la confiance pour Mikal Bridges",
-      "url": "https://www.basketusa.com/news/959674/le-buzzer-beater-de-la-confiance-pour-mikal-bridges/",
-      "publishedAt": "2026-11-22T07:57:03+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Washington laisse Nvidia vendre 879 000 puces d'IA à des géants chinois liés à l'armée",
-      "url": "https://korben.info/washington-laisse-nvidia-vendre-879-000-puces-dia-a-des-geants-chinois-lies-a-larmee.html",
-      "publishedAt": "2026-11-22T07:56:34+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Les ambitions de DS et Alpine se heurtent au mur de la réalité",
-      "url": "https://www.numerama.com/vroom/2379123-les-ambitions-de-ds-et-alpine-se-heurtent-au-mur-de-la-realite.html",
-      "publishedAt": "2026-11-22T07:52:00+00:00"
     },
     {
       "source": "boulet",
