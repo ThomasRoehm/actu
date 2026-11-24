@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:20:39.190276+00:00",
+  "generatedAt": "2026-11-24T15:30:53.509054+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,52 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:20:39.190276+00:00"
+      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "[Podcast] Debrief S11 : des Lions sous-estimés",
+      "url": "https://touchdownactu.com/361803/podcast-debrief-s11-des-lions-sous-estimes/",
+      "publishedAt": "2026-11-24T15:30:25+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Trump menace de taxer les data centers construits à l’étranger malgré la crise crypto et cyber",
+      "url": "https://www.generation-nt.com/actualites/trump-taxe-data-centers-etrangers-2084957",
+      "publishedAt": "2026-11-24T15:30:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : le cloud personnel BeeStation Plus 8 To de Synology profite d’une remise de 150 €",
+      "url": "https://www.clubic.com/actualite-639868-black-friday-le-cloud-personnel-beestation-plus-8-to-de-synology-profite-d-une-remise-de-150.html",
+      "publishedAt": "2026-11-24T15:30:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Un choix difficile attend les Français qui achèteront un nouveau PC",
+      "url": "https://www.presse-citron.net/un-choix-difficile-attend-les-francais-qui-acheteront-un-nouveau-pc/",
+      "publishedAt": "2026-11-24T15:24:37+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Bientôt des BYD « made in France » ? Le géant chinois veut racheter l’usine des 4×4 Ineos",
+      "url": "https://www.numerama.com/vroom/2383677-bientot-des-byd-made-in-france-le-geant-chinois-veut-racheter-lusine-des-4x4-ineos.html",
+      "publishedAt": "2026-11-24T15:21:16+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "La BCE alerte : la bulle des investissements technologiques menace l'équilibre financier planétaire",
+      "url": "https://www.generation-nt.com/actualites/bulle-speculative-intelligence-artificielle-alerte-bce-2085008",
+      "publishedAt": "2026-11-24T15:20:02+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "🔴Attention ! Ces pommes de Terre vendues chez Leclerc sont rappelées partout en France : ne les consommez surtout pas",
+      "url": "https://www.presse-citron.net/%f0%9f%94%b4attention-ces-pommes-de-terre-vendues-chez-leclerc-sont-rappelees-partout-en-france-ne-les-consommez-surtout-pas/",
+      "publishedAt": "2026-11-24T15:18:59+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Normes européennes : 6 000 euros de plus par voiture, et Renault demande une pause",
@@ -158,6 +200,12 @@
       "title": "3500 milliards de dollars : SpaceX et Tesla préparent une fusion pour dans quelques semaines",
       "url": "https://www.presse-citron.net/3500-milliards-de-dollars-spacex-et-tesla-preparent-une-fusion-pour-dans-quelques-semaines/",
       "publishedAt": "2026-11-24T15:10:51+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Google purge sa page d'accueil du bouton de recherche",
+      "url": "https://www.generation-nt.com/actualites/google-page-accueil-moteur-recherche-bouton-gemini-2084928",
+      "publishedAt": "2026-11-24T15:10:01+00:00"
     },
     {
       "source": "numerama",
@@ -1036,6 +1084,12 @@
       "publishedAt": "2026-11-24T09:25:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kevin Durant, l’art de choisir ses moments",
+      "url": "https://www.basketusa.com/news/961677/kevin-durant-lart-de-choisir-ses-moments/",
+      "publishedAt": "2026-11-24T09:24:17+00:00"
+    },
+    {
       "source": "korben",
       "title": "dumbtv - Le Fire TV sans pub ni mouchard (et sans root)",
       "url": "https://korben.info/dumbtv.html",
@@ -1226,12 +1280,6 @@
       "title": "Accent, ton, débit : Google prépare une fonction pour créer une voix de A à Z sur Gemini",
       "url": "https://www.clubic.com/actualite-640705-accent-ton-debit-google-prepare-une-fonction-pour-creer-une-voix-de-a-a-z-sur-gemini.html",
       "publishedAt": "2026-11-24T08:27:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kevin Durant, l’art de choisir ses moments",
-      "url": "https://www.basketusa.com/news/961677/kevin-durant-lart-de-choisir-ses-moments/",
-      "publishedAt": "2026-11-24T08:24:17+00:00"
     },
     {
       "source": "gnt",
@@ -1510,6 +1558,12 @@
       "publishedAt": "2026-11-24T06:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Pacers résistent aux 38 points de Shai Gilgeous-Alexander",
+      "url": "https://www.basketusa.com/news/961649/les-pacers-resistent-aux-38-points-de-shai-gilgeous-alexander/",
+      "publishedAt": "2026-11-24T06:26:26+00:00"
+    },
+    {
       "source": "korben",
       "title": "J'ai testé la migration de VMware vers Vates VMS #sponso",
       "url": "https://korben.info/migration-vmware-vates-vms-v2v.html",
@@ -1568,12 +1622,6 @@
       "title": "Pourquoi Microsoft observe-t-il Claude et Codex sur les postes Windows 11 en entreprise ?",
       "url": "https://www.generation-nt.com/actualites/windows-11-surveille-claude-codex-2084949",
       "publishedAt": "2026-11-24T05:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Pacers résistent aux 38 points de Shai Gilgeous-Alexander",
-      "url": "https://www.basketusa.com/news/961649/les-pacers-resistent-aux-38-points-de-shai-gilgeous-alexander/",
-      "publishedAt": "2026-11-24T05:26:26+00:00"
     },
     {
       "source": "tda",
@@ -3566,30 +3614,6 @@
       "title": "Black Friday : Amazon casse les prix de 12 TV et vidéoprojecteurs, jusqu’à -41%",
       "url": "https://www.clubic.com/bons-plans-636760-boulanger-n-attend-pas-le-27-novembre-et-lance-son-black-friday-sur-les-tv-oled-et-mini-led.html",
       "publishedAt": "2026-11-22T15:36:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Des poissons coralliens déjouent les sombres prédictions climatiques",
-      "url": "https://www.generation-nt.com/actualites/poissons-coralliens-acidification-oceans-comportement-changement-climatique-2084896",
-      "publishedAt": "2026-11-22T15:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "DREO propose jusqu’à 18 % de remise sur 4 appareils pour le Black Friday",
-      "url": "https://www.clubic.com/actualite-639289-dreo-propose-jusqu-a-18-de-remise-sur-5-appareils-pour-le-black-friday.html",
-      "publishedAt": "2026-11-22T15:30:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Lancement de GTA 6, Codes de triches, série Harry Potter qui se fait humilier, le recap Pop Culture de la semaine",
-      "url": "https://www.numerama.com/tech/2380111-lancement-de-gta-6-codes-de-triches-serie-harry-potter-qui-se-fait-humilier-le-recap-pop-culture-de-la-semaine.html",
-      "publishedAt": "2026-11-22T15:30:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "À la TV ce soir : 3 films à regarder ce dimanche 22 novembre 2026",
-      "url": "https://www.journaldugeek.com/2026/11/22/a-la-tv-ce-soir-3-films-a-regarder-ce-dimanche-22-novembre-2026/",
-      "publishedAt": "2026-11-22T15:28:00+00:00"
     },
     {
       "source": "boulet",
