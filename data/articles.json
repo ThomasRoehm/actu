@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:50:48.104228+00:00",
+  "generatedAt": "2026-11-24T18:01:04.203914+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T17:50:48.104228+00:00"
+      "lastSuccessAt": "2026-11-24T18:01:04.203914+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Meilleures promos du jour : Oura Ring 5 à 319€, AirTag 2 à 25€, casque Sonos Ace à 170€ adhérents Fnac...",
+      "url": "https://www.generation-nt.com/actualites/oura-ring-5-airtag-2-casque-sonos-ace-nothing-headphone-dji-osmo-mobile-7p-black-friday-promos-pas-cher-2085011",
+      "publishedAt": "2026-11-24T17:50:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Donte DiVincenzo vise un retour pour janvier",
+      "url": "https://www.basketusa.com/news/963776/donte-divincenzo-vise-un-retour-pour-janvier/",
+      "publishedAt": "2026-11-24T17:47:59+00:00"
+    },
     {
       "source": "clubic",
       "title": "Vous payez Amazon Prime ? Ce forfait B&YOU 170 Go l’inclut à 14,99€ pour le Black Friday",
@@ -152,6 +164,12 @@
       "title": "Black Week : sélection des meilleures offres (iPhone, iPad, Mac, accessoires, etc.)",
       "url": "https://www.iphon.fr/post/black-friday-2026-meilleures-offres",
       "publishedAt": "2026-11-24T17:30:03+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Comtech et les Marines américains établissent une liaison troposphérique record de 301 km à Hawaï",
+      "url": "https://www.generation-nt.com/actualites/comtech-marines-liaison-tropospherique-hawai-2084971",
+      "publishedAt": "2026-11-24T17:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -424,12 +442,6 @@
       "publishedAt": "2026-11-24T15:37:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Audiences TV : le pari gagnant de la NBA",
-      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
-      "publishedAt": "2026-11-24T15:33:30+00:00"
-    },
-    {
       "source": "macg",
       "title": "50 ans d'Apple : un dictionnaire et des nouvelles de Mickaël",
       "url": "https://www.macg.co/macgeneration/2026/11/50-ans-dapple-un-dictionnaire-et-des-nouvelles-de-mickael-312551",
@@ -584,6 +596,12 @@
       "title": "La voiture électrique reste la motorisation numéro 1 en France, pendant que l’essence plonge",
       "url": "https://www.presse-citron.net/la-voiture-electrique-reste-la-motorisation-numero-1-en-france-pendant-que-lessence-plonge/",
       "publishedAt": "2026-11-24T14:34:09+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Audiences TV : le pari gagnant de la NBA",
+      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
+      "publishedAt": "2026-11-24T14:33:30+00:00"
     },
     {
       "source": "gnt",
@@ -1450,12 +1468,6 @@
       "publishedAt": "2026-11-24T08:59:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Guerschon Yabusele doit recevoir une bague de champion NBA",
-      "url": "https://www.basketusa.com/news/961622/guerschon-yabusele-devrait-recevoir-une-bague-de-champion-nba/",
-      "publishedAt": "2026-11-24T08:56:31+00:00"
-    },
-    {
       "source": "numerama",
       "title": "GTA 6 sur PC : le principal projet est abandonné, mais le jeu commence à démarrer",
       "url": "https://www.numerama.com/pop-culture/2383269-gta-6-sur-pc-le-principal-projet-est-abandonne-mais-le-jeu-commence-a-demarrer.html",
@@ -1634,6 +1646,12 @@
       "title": "Feu vert pour Micah Parsons ! Les 8 infos NFL du mardi",
       "url": "https://touchdownactu.com/361780/feu-vert-pour-micah-parsons-les-8-infos-nfl-du-mardi/",
       "publishedAt": "2026-11-24T07:57:22+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Guerschon Yabusele doit recevoir une bague de champion NBA",
+      "url": "https://www.basketusa.com/news/961622/guerschon-yabusele-devrait-recevoir-une-bague-de-champion-nba/",
+      "publishedAt": "2026-11-24T07:56:31+00:00"
     },
     {
       "source": "clubic",
