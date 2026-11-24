@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T12:10:44.495361+00:00",
+  "generatedAt": "2026-11-24T12:20:40.918733+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:10:44.495361+00:00"
+      "lastSuccessAt": "2026-11-24T12:20:40.918733+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday allège la facture du Dyson V8 Origin chez Amazon : l’aspirateur sans fil passe à 229€",
+      "url": "https://www.clubic.com/bons-plans-640771-le-black-friday-allege-la-facture-du-dyson-v8-origin-chez-amazon-l-aspirateur-sans-fil-passe-a-229.html",
+      "publishedAt": "2026-11-24T12:14:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Brandon Ingram pas satisfait de sa première avec les Clippers",
+      "url": "https://www.basketusa.com/news/961726/brandon-ingram-pas-satisfait-de-sa-premiere-avec-les-clippers/",
+      "publishedAt": "2026-11-24T12:12:43+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "La Renault 5 prend la deuxième place des électriques en Europe",
@@ -592,6 +604,12 @@
       "publishedAt": "2026-11-24T09:31:56+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Après un mois de défaites, les Bucks gagnent à nouveau",
+      "url": "https://www.basketusa.com/news/961727/apres-un-mois-de-defaites-les-bucks-gagnent-a-nouveau/",
+      "publishedAt": "2026-11-24T09:31:43+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Ligne 18 : mauvaise nouvelle pour le nouveau métro du Grand Paris Express",
       "url": "https://www.journaldugeek.com/2026/11/24/ligne-18-mauvaise-nouvelle-pour-le-nouveau-metro-du-grand-paris-express/",
@@ -806,12 +824,6 @@
       "title": "Google ferme l'application Nest le 25 janvier, pensez à sauver vos clips vidéo",
       "url": "https://www.mac4ever.com/domotique/199238-google-ferme-l-application-nest-le-25-janvier-pensez-a-sauver-vos-clips-video",
       "publishedAt": "2026-11-24T08:32:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Après un mois de défaites, les Bucks gagnent à nouveau",
-      "url": "https://www.basketusa.com/news/961727/apres-un-mois-de-defaites-les-bucks-gagnent-a-nouveau/",
-      "publishedAt": "2026-11-24T08:31:43+00:00"
     },
     {
       "source": "presse",
@@ -1234,12 +1246,6 @@
       "publishedAt": "2026-11-23T19:45:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
-      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
-      "publishedAt": "2026-11-23T19:30:11+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Meilleures promos du jour : Nothing Phone (4b) 299€, Mac Mini M6 889€, volant Logitech + Gran Turismo 7 210€..",
       "url": "https://www.generation-nt.com/actualites/nothing-phone-4b-mac-mini-m6-samsung-galaxy-s26-odyssey-g5-ultra-polar-h9-google-pixel-buds-2a-dualsense-edge-promos-pas-cher-2084973",
@@ -1274,6 +1280,12 @@
       "title": "Test OnePlus Buds Pro 4 : des écouteurs presque aussi bons que Sony et Apple, pour deux fois moins cher",
       "url": "https://www.journaldugeek.com/test/test-oneplus-buds-pro-4-des-ecouteurs-presque-aussi-bons-que-sony-et-apple-pour-deux-fois-moins-cher/",
       "publishedAt": "2026-11-23T18:33:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
+      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
+      "publishedAt": "2026-11-23T18:30:11+00:00"
     },
     {
       "source": "numerama",
