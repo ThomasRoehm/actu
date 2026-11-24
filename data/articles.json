@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T07:40:39.879928+00:00",
+  "generatedAt": "2026-11-24T07:50:40.667013+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:40:39.879928+00:00"
+      "lastSuccessAt": "2026-11-24T07:50:40.667013+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "BlackBerry revient avec un navigateur sécurisé pour les entreprises",
+      "url": "https://www.clubic.com/actualite-640639-blackberry-revient-avec-un-navigateur-securise-pour-les-entreprises.html",
+      "publishedAt": "2026-11-24T07:47:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Vous connaissez déjà la femme de Kratos dans la série God of War",
+      "url": "https://www.numerama.com/pop-culture/2383263-vous-connaissez-deja-la-femme-de-kratos-dans-la-serie-god-of-war.html",
+      "publishedAt": "2026-11-24T07:43:24+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Les distributeurs disparaissent partout en France : voici ce qui les remplace dès aujourd’hui",
+      "url": "https://www.presse-citron.net/les-distributeurs-disparaissent-partout-en-france-voici-ce-qui-les-remplace-des-aujourdhui/",
+      "publishedAt": "2026-11-24T07:43:11+00:00"
+    },
     {
       "source": "jdg",
       "title": "Comment jouer à GTA 6 sans acheter de console hors de prix ?",
@@ -371,12 +389,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
-      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
-      "publishedAt": "2026-11-24T05:55:05+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Le banc des Bulls fait exploser les Cavaliers",
       "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
       "publishedAt": "2026-11-24T05:35:07+00:00"
@@ -392,6 +404,12 @@
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
       "publishedAt": "2026-11-24T05:22:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T04:55:05+00:00"
     },
     {
       "source": "macg",
@@ -1108,10 +1126,22 @@
       "publishedAt": "2026-11-23T13:27:58+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-23T13:25:21+00:00"
+    },
+    {
       "source": "gnt",
       "title": "GTA VI sur Nintendo Switch 2 : Digital Foundry juge le portage impossible !",
       "url": "https://www.generation-nt.com/actualites/gta-vi-switch-digital-foundry-2084921",
       "publishedAt": "2026-11-23T13:25:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/960064/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-23T13:23:48+00:00"
     },
     {
       "source": "korben",
@@ -1208,18 +1238,6 @@
       "title": "WheelClick prend le relais pour le « clic molette » sur trackpad et Magic Mouse",
       "url": "https://www.macg.co/logiciels/2026/11/wheelclick-prend-le-relais-pour-le-clic-molette-sur-trackpad-et-magic-mouse-312597",
       "publishedAt": "2026-11-23T12:26:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-23T12:25:21+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Los Angeles Lakers – Utah Jazz : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/960064/los-angeles-lakers-utah-jazz-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-23T12:23:48+00:00"
     },
     {
       "source": "iphon",
@@ -2834,12 +2852,6 @@
       "title": "Les ambitions de DS et Alpine se heurtent au mur de la réalité",
       "url": "https://www.numerama.com/vroom/2379123-les-ambitions-de-ds-et-alpine-se-heurtent-au-mur-de-la-realite.html",
       "publishedAt": "2026-11-22T07:52:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "App Store Awards 2026 : la sélection Mac, symptôme d’un Mac App Store à bout de souffle",
-      "url": "https://www.macg.co/logiciels/2026/11/app-store-awards-2026-la-selection-mac-symptome-dun-mac-app-store-bout-de-souffle-312567",
-      "publishedAt": "2026-11-22T07:45:27+00:00"
     },
     {
       "source": "boulet",
