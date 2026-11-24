@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:50:40.047397+00:00",
+  "generatedAt": "2026-11-24T07:01:07.024481+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
+      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Batterie iPhone : Apple ralentit-elle vraiment les anciens modèles ?",
+      "url": "https://www.iphon.fr/post/apple-accusations-obsolescence-programmee-iphone-batterie",
+      "publishedAt": "2026-11-24T06:58:22+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Stats & Highlights | Les Bucks gagnent enfin !",
+      "url": "https://www.basketusa.com/news/961680/stats-highlights-les-bucks-gagnent-enfin/",
+      "publishedAt": "2026-11-24T06:53:06+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "500 000 kilomètres sans panne : c’est la voiture la plus fiable d’après les contrôleurs techniques interrogés",
+      "url": "https://www.presse-citron.net/500-000-kilometres-sans-panne-cest-la-voiture-la-plus-fiable-dapres-les-controleurs-techniques-interroges/",
+      "publishedAt": "2026-11-24T06:51:38+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "GrapheneOS intègre le RCS chiffré sans passer par Google Messages",
+      "url": "https://www.generation-nt.com/actualites/grapheneos-rcs-chiffre-google-messages-2084952",
+      "publishedAt": "2026-11-24T06:50:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Auto : perdre son permis de conduire sans avoir pris le volant est désormais possible, voici comment",
+      "url": "https://www.presse-citron.net/auto-perdre-son-permis-de-conduire-sans-avoir-pris-le-volant-est-desormais-possible-voici-comment/",
+      "publishedAt": "2026-11-24T06:46:12+00:00"
+    },
     {
       "source": "clubic",
       "title": "Ni fork de Firefox, ni fork de Chrome, ça y est, vous pouvez tester le navigateur Ladybird en alpha",
@@ -172,6 +202,12 @@
       "publishedAt": "2026-11-24T06:30:40+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Meta alerte sur le risque de perdre la main face aux machines intelligentes",
+      "url": "https://www.generation-nt.com/actualites/meta-superintelligence-controle-humain-danger-2084978",
+      "publishedAt": "2026-11-24T06:30:01+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Acer Swift Air 14 : cet ultraportable de 1,19 kg passe à 599 € pour le Black Friday, et il a de sérieux arguments",
       "url": "https://www.clubic.com/actualite-639577-acer-swift-air-14-cet-ultraportable-de-1-19-kg-passe-a-599-pour-le-black-friday-et-il-a-de-serieux-arguments.html",
@@ -182,12 +218,6 @@
       "title": "Navigateurs sur iPhone : une coalition représentant jusqu'à 55 000 entreprises européennes presse Bruxelles d'agir contre Apple",
       "url": "https://www.clubic.com/actualite-640696-navigateurs-sur-iphone-une-coalition-representant-jusqu-a-55-000-entreprises-europeennes-presse-bruxelles-d-agir-contre-apple.html",
       "publishedAt": "2026-11-24T06:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Pacers résistent aux 38 points de Shai Gilgeous-Alexander",
-      "url": "https://www.basketusa.com/news/961649/les-pacers-resistent-aux-38-points-de-shai-gilgeous-alexander/",
-      "publishedAt": "2026-11-24T06:26:26+00:00"
     },
     {
       "source": "korben",
@@ -250,28 +280,34 @@
       "publishedAt": "2026-11-24T06:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
-      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
-      "publishedAt": "2026-11-24T05:55:05+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le banc des Bulls fait exploser les Cavaliers",
-      "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
-      "publishedAt": "2026-11-24T05:35:07+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Pourquoi Microsoft observe-t-il Claude et Codex sur les postes Windows 11 en entreprise ?",
       "url": "https://www.generation-nt.com/actualites/windows-11-surveille-claude-codex-2084949",
       "publishedAt": "2026-11-24T05:30:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Pacers résistent aux 38 points de Shai Gilgeous-Alexander",
+      "url": "https://www.basketusa.com/news/961649/les-pacers-resistent-aux-38-points-de-shai-gilgeous-alexander/",
+      "publishedAt": "2026-11-24T05:26:26+00:00"
+    },
+    {
       "source": "tda",
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
       "publishedAt": "2026-11-24T05:22:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T04:55:05+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le banc des Bulls fait exploser les Cavaliers",
+      "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
+      "publishedAt": "2026-11-24T04:35:07+00:00"
     },
     {
       "source": "macg",
@@ -310,12 +346,6 @@
       "publishedAt": "2026-11-23T19:45:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
-      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
-      "publishedAt": "2026-11-23T19:30:11+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Meilleures promos du jour : Nothing Phone (4b) 299€, Mac Mini M6 889€, volant Logitech + Gran Turismo 7 210€..",
       "url": "https://www.generation-nt.com/actualites/nothing-phone-4b-mac-mini-m6-samsung-galaxy-s26-odyssey-g5-ultra-polar-h9-google-pixel-buds-2a-dualsense-edge-promos-pas-cher-2084973",
@@ -350,6 +380,12 @@
       "title": "Test OnePlus Buds Pro 4 : des écouteurs presque aussi bons que Sony et Apple, pour deux fois moins cher",
       "url": "https://www.journaldugeek.com/test/test-oneplus-buds-pro-4-des-ecouteurs-presque-aussi-bons-que-sony-et-apple-pour-deux-fois-moins-cher/",
       "publishedAt": "2026-11-23T18:33:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
+      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
+      "publishedAt": "2026-11-23T18:30:11+00:00"
     },
     {
       "source": "numerama",
@@ -404,12 +440,6 @@
       "title": "La Poste signe son premier accord sur l'IA, et l'algorithme ne pourra pas décider à la place des postiers",
       "url": "https://www.clubic.com/actualite-640651-la-poste-signe-son-premier-accord-sur-l-ia-et-l-algorithme-ne-pourra-pas-decider-a-la-place-des-postiers.html",
       "publishedAt": "2026-11-23T17:32:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
-      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
-      "publishedAt": "2026-11-23T17:31:53+00:00"
     },
     {
       "source": "clubic",
@@ -524,6 +554,12 @@
       "title": "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?",
       "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html",
       "publishedAt": "2026-11-23T16:32:54+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
+      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
+      "publishedAt": "2026-11-23T16:31:53+00:00"
     },
     {
       "source": "jdg",
@@ -988,12 +1024,6 @@
       "publishedAt": "2026-11-23T13:27:58+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-23T13:25:21+00:00"
-    },
-    {
       "source": "gnt",
       "title": "GTA VI sur Nintendo Switch 2 : Digital Foundry juge le portage impossible !",
       "url": "https://www.generation-nt.com/actualites/gta-vi-switch-digital-foundry-2084921",
@@ -1106,6 +1136,12 @@
       "title": "WheelClick prend le relais pour le « clic molette » sur trackpad et Magic Mouse",
       "url": "https://www.macg.co/logiciels/2026/11/wheelclick-prend-le-relais-pour-le-clic-molette-sur-trackpad-et-magic-mouse-312597",
       "publishedAt": "2026-11-23T12:26:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-23T12:25:21+00:00"
     },
     {
       "source": "iphon",
@@ -2768,18 +2804,6 @@
       "title": "Apple prépare un nouvel accessoire (presque) magique",
       "url": "https://www.iphon.fr/post/apple-accessoire-capteur-doigts-brevet",
       "publishedAt": "2026-11-22T07:03:11+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "La Twingo électrique victime de son succès, Renault passe la seconde sur les chaînes de montage",
-      "url": "https://www.clubic.com/actualite-640213-la-twingo-electrique-victime-de-son-succes-renault-passe-la-seconde-sur-les-chaines-de-montage.html",
-      "publishedAt": "2026-11-22T07:01:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Suivez en direct le 10e vol de la fusée Ariane 6 dans sa version surpuissante pour lancer 36 satellites d’un coup",
-      "url": "https://www.numerama.com/sciences/2375399-suivez-en-direct-le-10e-vol-de-la-fusee-ariane-6-dans-sa-version-surpuissante-pour-lancer-36-satellites-dun-coup.html",
-      "publishedAt": "2026-11-22T07:01:00+00:00"
     },
     {
       "source": "boulet",
