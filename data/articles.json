@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:10:47.977836+00:00",
+  "generatedAt": "2026-11-24T06:20:40.366169+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:10:47.977836+00:00"
+      "lastSuccessAt": "2026-11-24T06:20:40.366169+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "La France veut stocker des terres rares pour moins dépendre de la Chine",
+      "url": "https://www.clubic.com/actualite-640690-la-france-veut-stocker-des-terres-rares-pour-moins-dependre-de-la-chine.html",
+      "publishedAt": "2026-11-24T06:15:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Pourquoi l’ultime trailer d’Avengers Doomsday est un triste constat pour Marvel ?",
+      "url": "https://www.journaldugeek.com/2026/11/24/pourquoi-lultime-trailer-davengers-doomsday-est-un-triste-constat-pour-marvel/",
+      "publishedAt": "2026-11-24T06:03:40+00:00"
+    },
     {
       "source": "clubic",
       "title": "\"Il a un peu de sang de là-bas\". L'étrange défense de Trump du retour de Jensen Huang chez NVIDIA",
@@ -2720,12 +2732,6 @@
       "title": "Zaccharie Risacher décisif, les Clippers craquent encore",
       "url": "https://www.basketusa.com/news/959658/zaccharie-risacher-decisif-les-clippers-craquent-encore/",
       "publishedAt": "2026-11-22T06:28:43+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La belle série des Grizzlies s’arrête à Minnesota",
-      "url": "https://www.basketusa.com/news/959680/la-belle-serie-des-grizzlies-sarrete-a-minnesota/",
-      "publishedAt": "2026-11-22T06:18:34+00:00"
     },
     {
       "source": "boulet",
