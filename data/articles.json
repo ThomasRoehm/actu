@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:40:37.078528+00:00",
+  "generatedAt": "2026-11-24T06:50:40.047397+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T06:40:37.078528+00:00"
+      "lastSuccessAt": "2026-11-24T06:50:40.047397+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Ni fork de Firefox, ni fork de Chrome, ça y est, vous pouvez tester le navigateur Ladybird en alpha",
+      "url": "https://www.clubic.com/actualite-640684-ni-fork-de-firefox-ni-fork-de-chrome-ca-y-est-vous-pouvez-tester-ladybird-en-alpha.html",
+      "publishedAt": "2026-11-24T06:46:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Promo : l’iMac M6 à partir de 1 699 € au lieu de 1 799 chez Boulanger",
+      "url": "https://www.macg.co/mac/2026/11/promo-limac-m6-partir-de-1-699-eu-au-lieu-de-1-799-chez-boulanger-312611",
+      "publishedAt": "2026-11-24T06:42:29+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Même très diminués, les Spurs maîtrisent les Kings",
+      "url": "https://www.basketusa.com/news/961659/meme-tres-diminues-les-spurs-maitrisent-les-kings/",
+      "publishedAt": "2026-11-24T06:37:53+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Après la douche froide de 2023, Hunger Games revient en force. Que s’est-il passé ?",
+      "url": "https://www.journaldugeek.com/2026/11/24/apres-la-douche-froide-de-2023-hunger-games-revient-en-force-que-sest-il-passe/",
+      "publishedAt": "2026-11-24T06:34:23+00:00"
+    },
     {
       "source": "presse",
       "title": "Porsche ressuscite la mythique 550 Spyder dans une version électrique : un jouet pour adultes… fortunés",
@@ -227,6 +251,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T05:55:05+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Le banc des Bulls fait exploser les Cavaliers",
       "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
       "publishedAt": "2026-11-24T05:35:07+00:00"
@@ -242,12 +272,6 @@
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
       "publishedAt": "2026-11-24T05:22:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
-      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
-      "publishedAt": "2026-11-24T04:55:05+00:00"
     },
     {
       "source": "macg",
@@ -382,6 +406,12 @@
       "publishedAt": "2026-11-23T17:32:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
+      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
+      "publishedAt": "2026-11-23T17:31:53+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday 2026 : cet antivirus spécialisé pour votre Mac est à - 30 %",
       "url": "https://www.clubic.com/bons-plans-640141-black-friday-2026-cet-antivirus-specialise-pour-votre-mac-est-a---30.html",
@@ -494,12 +524,6 @@
       "title": "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?",
       "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html",
       "publishedAt": "2026-11-23T16:32:54+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
-      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
-      "publishedAt": "2026-11-23T16:31:53+00:00"
     },
     {
       "source": "jdg",
@@ -964,6 +988,12 @@
       "publishedAt": "2026-11-23T13:27:58+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-23T13:25:21+00:00"
+    },
+    {
       "source": "gnt",
       "title": "GTA VI sur Nintendo Switch 2 : Digital Foundry juge le portage impossible !",
       "url": "https://www.generation-nt.com/actualites/gta-vi-switch-digital-foundry-2084921",
@@ -1076,12 +1106,6 @@
       "title": "WheelClick prend le relais pour le « clic molette » sur trackpad et Magic Mouse",
       "url": "https://www.macg.co/logiciels/2026/11/wheelclick-prend-le-relais-pour-le-clic-molette-sur-trackpad-et-magic-mouse-312597",
       "publishedAt": "2026-11-23T12:26:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-23T12:25:21+00:00"
     },
     {
       "source": "iphon",
@@ -2756,24 +2780,6 @@
       "title": "Suivez en direct le 10e vol de la fusée Ariane 6 dans sa version surpuissante pour lancer 36 satellites d’un coup",
       "url": "https://www.numerama.com/sciences/2375399-suivez-en-direct-le-10e-vol-de-la-fusee-ariane-6-dans-sa-version-surpuissante-pour-lancer-36-satellites-dun-coup.html",
       "publishedAt": "2026-11-22T07:01:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Nvidia : quand Jensen Huang humiliait Arthur Mensch en public",
-      "url": "https://www.macg.co/video/2026/11/nvidia-quand-jensen-huang-humiliait-arthur-mensch-en-public-312565",
-      "publishedAt": "2026-11-22T06:50:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "À la TV ce soir : 3 films à regarder ce dimanche",
-      "url": "https://www.presse-citron.net/a-la-tv-ce-soir-3-films-a-regarder-ce-dimanche-146/",
-      "publishedAt": "2026-11-22T06:45:56+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Keegan Murray peut enfin allumer le « Beam » des Kings !",
-      "url": "https://www.basketusa.com/news/959670/keegan-murray-peut-enfin-allumer-le-beam-des-kings/",
-      "publishedAt": "2026-11-22T06:43:03+00:00"
     },
     {
       "source": "boulet",
