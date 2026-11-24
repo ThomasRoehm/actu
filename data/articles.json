@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T12:31:00.475332+00:00",
+  "generatedAt": "2026-11-24T12:40:44.135273+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T12:31:00.475332+00:00"
+      "lastSuccessAt": "2026-11-24T12:40:44.135273+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "1 W à peine : TCL dévoile un écran IPS Full HD+ / 120 Hz ultra sobre pour nos PC portables",
+      "url": "https://www.clubic.com/actualite-640780-w-a-peine-tcl-devoile-un-ecran-ips-full-hd-120-hz-ultra-sobre-pour-nos-pc-portables.html",
+      "publishedAt": "2026-11-24T12:40:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Les casques à conduction osseuse Shokz bradés pour le Black Friday : parfaits pour les sportifs !",
+      "url": "https://www.mac4ever.com/audio/199256-les-casques-a-conduction-osseuse-shokz-brades-pour-le-black-friday-parfaits-pour-les-sportifs",
+      "publishedAt": "2026-11-24T12:37:16+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Le nouveau BlackBerry n’est pas un smartphone : voici le produit qu’il lance pour votre PC",
+      "url": "https://www.presse-citron.net/le-nouveau-blackberry-nest-pas-un-smartphone-voici-le-produit-quil-lance-pour-votre-pc/",
+      "publishedAt": "2026-11-24T12:31:09+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Threads sur iPad : une vraie app enfin en route, trois ans après",
+      "url": "https://www.mac4ever.com/ipad/199254-threads-sur-ipad-une-vraie-app-enfin-en-route-trois-ans-apres",
+      "publishedAt": "2026-11-24T12:31:00+00:00"
+    },
     {
       "source": "gnt",
       "title": "La France prépare des réserves souveraines de minerais stratégiques pour se libérer de la Chine",
@@ -898,12 +922,6 @@
       "publishedAt": "2026-11-24T08:11:50+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Walker Kessler, pilier de la nouvelle défense des Lakers",
-      "url": "https://www.basketusa.com/news/961715/walker-kessler-pilier-de-la-nouvelle-defense-des-lakers/",
-      "publishedAt": "2026-11-24T08:10:09+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Kodak invente l’AirTag qui affiche la photo de votre chien",
       "url": "https://www.journaldugeek.com/2026/11/24/kodak-invente-lairtag-qui-affiche-la-photo-de-votre-chien/",
@@ -1034,6 +1052,12 @@
       "title": "Compte courant : pourquoi faut-il vraiment retirer son argent d’ici à la fin novembre ?",
       "url": "https://www.presse-citron.net/compte-courant-pourquoi-faut-il-vraiment-retirer-son-argent-dici-a-la-fin-novembre/",
       "publishedAt": "2026-11-24T07:13:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Walker Kessler, pilier de la nouvelle défense des Lakers",
+      "url": "https://www.basketusa.com/news/961715/walker-kessler-pilier-de-la-nouvelle-defense-des-lakers/",
+      "publishedAt": "2026-11-24T07:10:09+00:00"
     },
     {
       "source": "numerama",
