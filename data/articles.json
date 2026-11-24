@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:50:40.402332+00:00",
+  "generatedAt": "2026-11-24T11:01:07.479250+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
+      "lastSuccessAt": "2026-11-24T11:01:07.479250+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : Amazon frappe FORT avec 36 offres tech jusqu'à -67%, à J-3 du jour J",
+      "url": "https://www.clubic.com/bons-plans-640573-black-friday-2026-amazon-lance-30-offres-tech-jusqu-a--67-de-l-iphone-air-au-galaxy-s26-ultra.html",
+      "publishedAt": "2026-11-24T10:59:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Fuite de données confirmée chez Decathlon : êtes-vous concerné par cette cyberattaque ?",
+      "url": "https://www.presse-citron.net/fuite-de-donnees-confirmee-chez-decathlon-etes-vous-concerne-par-cette-cyberattaque/",
+      "publishedAt": "2026-11-24T10:53:56+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Plus besoin de retourner votre carte bancaire : Google Wallet va bientôt remplir votre CVV à votre place",
+      "url": "https://www.clubic.com/actualite-640735-plus-besoin-de-retourner-votre-carte-bancaire-google-wallet-va-bientot-remplir-votre-cvv-a-votre-place.html",
+      "publishedAt": "2026-11-24T10:52:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Free traduit vos appels en direct avec son réseau mobile",
+      "url": "https://www.generation-nt.com/actualites/free-mobile-traduction-live-appels-ia-forfait-free-max-2084998",
+      "publishedAt": "2026-11-24T10:50:01+00:00"
+    },
     {
       "source": "numerama",
       "title": "De la poussière aux taches incrustées, comment fonctionnent les appareils de nettoyage Tineco en promo au Black Friday [Sponso]",
@@ -172,16 +196,16 @@
       "publishedAt": "2026-11-24T10:36:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Après un mois de défaites, les Bucks gagnent à nouveau",
-      "url": "https://www.basketusa.com/news/961727/apres-un-mois-de-defaites-les-bucks-gagnent-a-nouveau/",
-      "publishedAt": "2026-11-24T10:31:43+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Quad9 ne fonctionne plus en France : voici comment vérifier si vous l’utilisez et le remplacer",
       "url": "https://www.numerama.com/tech/2379931-quad9-ne-fonctionne-plus-en-france-voici-comment-verifier-si-vous-lutilisez-et-le-remplacer.html",
       "publishedAt": "2026-11-24T10:30:57+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday Lebara : 50 Go à moins de 7 € et la 5G dès 8,99 € sur le réseau SFR",
+      "url": "https://www.generation-nt.com/actualites/forfait-mobile-pas-cher-lebara-sfr-50-200-350-5g-2084976",
+      "publishedAt": "2026-11-24T10:30:01+00:00"
     },
     {
       "source": "mac4ever",
@@ -400,6 +424,12 @@
       "publishedAt": "2026-11-24T09:31:56+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Après un mois de défaites, les Bucks gagnent à nouveau",
+      "url": "https://www.basketusa.com/news/961727/apres-un-mois-de-defaites-les-bucks-gagnent-a-nouveau/",
+      "publishedAt": "2026-11-24T09:31:43+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Ligne 18 : mauvaise nouvelle pour le nouveau métro du Grand Paris Express",
       "url": "https://www.journaldugeek.com/2026/11/24/ligne-18-mauvaise-nouvelle-pour-le-nouveau-metro-du-grand-paris-express/",
@@ -610,12 +640,6 @@
       "publishedAt": "2026-11-24T08:35:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Retrouvailles chaleureuses pour Julius Randle avec les Wolves",
-      "url": "https://www.basketusa.com/news/961706/retrouvailles-chaleureuses-pour-julius-randle-avec-les-wolves/",
-      "publishedAt": "2026-11-24T08:32:44+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Google ferme l'application Nest le 25 janvier, pensez à sauver vos clips vidéo",
       "url": "https://www.mac4ever.com/domotique/199238-google-ferme-l-application-nest-le-25-janvier-pensez-a-sauver-vos-clips-video",
@@ -746,6 +770,12 @@
       "title": "Shirudo - Quand l'IA fabrique des boucliers pour Linux",
       "url": "https://korben.info/shirudo-openai-cisco-ebpf.html",
       "publishedAt": "2026-11-24T07:38:51+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Retrouvailles chaleureuses pour Julius Randle avec les Wolves",
+      "url": "https://www.basketusa.com/news/961706/retrouvailles-chaleureuses-pour-julius-randle-avec-les-wolves/",
+      "publishedAt": "2026-11-24T07:32:44+00:00"
     },
     {
       "source": "jdg",
@@ -916,6 +946,12 @@
       "publishedAt": "2026-11-24T06:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Pacers résistent aux 38 points de Shai Gilgeous-Alexander",
+      "url": "https://www.basketusa.com/news/961649/les-pacers-resistent-aux-38-points-de-shai-gilgeous-alexander/",
+      "publishedAt": "2026-11-24T06:26:26+00:00"
+    },
+    {
       "source": "korben",
       "title": "J'ai testé la migration de VMware vers Vates VMS #sponso",
       "url": "https://korben.info/migration-vmware-vates-vms-v2v.html",
@@ -965,15 +1001,15 @@
     },
     {
       "source": "clubic",
-      "title": "Black Friday J-4 : 35 offres Amazon qui valent vraiment le coup ce mardi",
-      "url": "https://www.clubic.com/bons-plans-640573-black-friday-2026-amazon-lance-30-offres-tech-jusqu-a--67-de-l-iphone-air-au-galaxy-s26-ultra.html",
-      "publishedAt": "2026-11-24T06:00:00+00:00"
-    },
-    {
-      "source": "clubic",
       "title": "Decathlon confirme une fuite qui touche des clients de son site",
       "url": "https://www.clubic.com/actualite-640699-decathlon-confirme-une-fuite-qui-touche-des-clients-de-son-site.html",
       "publishedAt": "2026-11-24T06:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T05:55:05+00:00"
     },
     {
       "source": "basketusa",
@@ -988,22 +1024,10 @@
       "publishedAt": "2026-11-24T05:30:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Pacers résistent aux 38 points de Shai Gilgeous-Alexander",
-      "url": "https://www.basketusa.com/news/961649/les-pacers-resistent-aux-38-points-de-shai-gilgeous-alexander/",
-      "publishedAt": "2026-11-24T05:26:26+00:00"
-    },
-    {
       "source": "tda",
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
       "publishedAt": "2026-11-24T05:22:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
-      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
-      "publishedAt": "2026-11-24T04:55:05+00:00"
     },
     {
       "source": "macg",
@@ -1132,6 +1156,12 @@
       "publishedAt": "2026-11-23T17:32:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
+      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
+      "publishedAt": "2026-11-23T17:31:53+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday 2026 : cet antivirus spécialisé pour votre Mac est à - 30 %",
       "url": "https://www.clubic.com/bons-plans-640141-black-friday-2026-cet-antivirus-specialise-pour-votre-mac-est-a---30.html",
@@ -1244,12 +1274,6 @@
       "title": "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?",
       "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html",
       "publishedAt": "2026-11-23T16:32:54+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
-      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
-      "publishedAt": "2026-11-23T16:31:53+00:00"
     },
     {
       "source": "jdg",
@@ -3224,24 +3248,6 @@
       "title": "GTA 6 : Trevor dans le jeu, Franklin et Michael mentionnés !",
       "url": "https://www.journaldugeek.com/2026/11/22/gta-6-trevor-dans-le-jeu-franklin-et-michael-mentionnes/",
       "publishedAt": "2026-11-22T11:02:47+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "C’est quoi Stryx AI, cette start-up française qui veut intercepter les drones ?",
-      "url": "https://www.numerama.com/tech/2379779-cest-quoi-stryx-ai-cette-start-up-francaise-qui-veut-intercepter-les-drones.html",
-      "publishedAt": "2026-11-22T11:01:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "On a testé le Lancia Gamma : 375 ch de confort et d’audace à l’italienne, à quelques détails près pouvant gâcher la fête",
-      "url": "https://www.presse-citron.net/test-lancia-gamma-375-ch-confort-audace-italienne-a-quelques-details-pres/",
-      "publishedAt": "2026-11-22T11:00:49+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Rams : Saison terminée pour Puka Nacua",
-      "url": "https://touchdownactu.com/361678/rams-saison-terminee-pour-puka-nacua/",
-      "publishedAt": "2026-11-22T10:57:55+00:00"
     },
     {
       "source": "boulet",
