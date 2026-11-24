@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:40:40.553051+00:00",
+  "generatedAt": "2026-11-24T10:50:40.402332+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     },
     {
       "id": "boulet",
@@ -131,21 +131,51 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:40:40.553051+00:00"
+      "lastSuccessAt": "2026-11-24T10:50:40.402332+00:00"
     }
   ],
   "articles": [
     {
       "source": "numerama",
+      "title": "De la poussière aux taches incrustées, comment fonctionnent les appareils de nettoyage Tineco en promo au Black Friday [Sponso]",
+      "url": "https://www.numerama.com/tech/2380087-de-la-poussiere-aux-taches-incrustees-comment-fonctionnent-les-appareils-de-nettoyage-tineco-en-promo-au-black-friday.html",
+      "publishedAt": "2026-11-24T10:48:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Spam téléphonique : Surfshark lance son outil de protection",
+      "url": "https://www.clubic.com/actualite-640732-spam-telephonique-surfshark-lance-son-outil-de-protection.html",
+      "publishedAt": "2026-11-24T10:44:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Black Friday : Amazon supprime 110 € sur la note pour le dernier iPad Air M4 11″",
+      "url": "https://www.iphon.fr/post/black-friday-amazon-supprime-110-euros-note-dernier-ipad-air-m4-11",
+      "publishedAt": "2026-11-24T10:42:04+00:00"
+    },
+    {
+      "source": "numerama",
       "title": "Black Friday : les IA ont mangé toute la mémoire du monde, mais il reste des promos sur la tech (elles sont ici)",
       "url": "https://www.numerama.com/tech/2382555-black-friday-2026-les-meilleures-offres-en-direct.html",
-      "publishedAt": "2026-11-24T10:39:46+00:00"
+      "publishedAt": "2026-11-24T10:40:16+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Mieux vaut ne pas voler une Tesla dans GTA 6 : voici ce que Rockstar vous réserve",
+      "url": "https://www.presse-citron.net/mieux-vaut-ne-pas-voler-une-tesla-dans-gta-6-voici-ce-que-rockstar-vous-reserve-avec-coil-rander-voiture/",
+      "publishedAt": "2026-11-24T10:37:57+00:00"
     },
     {
       "source": "mac4ever",
       "title": "Écran pliable de l'iPhone Duo : Samsung seul fournisseur pour encore cinq ans ?",
       "url": "https://www.mac4ever.com/iphone/199245-ecran-pliable-de-l-iphone-duo-samsung-seul-fournisseur-pour-encore-cinq-ans",
       "publishedAt": "2026-11-24T10:36:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Après un mois de défaites, les Bucks gagnent à nouveau",
+      "url": "https://www.basketusa.com/news/961727/apres-un-mois-de-defaites-les-bucks-gagnent-a-nouveau/",
+      "publishedAt": "2026-11-24T10:31:43+00:00"
     },
     {
       "source": "numerama",
@@ -3212,12 +3242,6 @@
       "title": "Rams : Saison terminée pour Puka Nacua",
       "url": "https://touchdownactu.com/361678/rams-saison-terminee-pour-puka-nacua/",
       "publishedAt": "2026-11-22T10:57:55+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Aux Clippers, l’attaque plombe la défense",
-      "url": "https://www.basketusa.com/news/959725/aux-clippers-lattaque-plombe-la-defense/",
-      "publishedAt": "2026-11-22T10:41:42+00:00"
     },
     {
       "source": "boulet",
