@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:30:53.509054+00:00",
+  "generatedAt": "2026-11-24T15:40:39.472173+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T15:30:53.509054+00:00"
+      "lastSuccessAt": "2026-11-24T15:40:39.472173+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "GTA 6 : grâce à la radio de Vice City, Sylvie Vartan voit ses écoutes Spotify exploser de 2 500 %",
+      "url": "https://www.numerama.com/pop-culture/2383783-gta-6-grace-a-la-radio-de-vice-city-sylvie-vartan-voit-ses-ecoutes-spotify-exploser-de-2-500.html",
+      "publishedAt": "2026-11-24T15:37:55+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "IA et nucléaire : et si les États-Unis décidaient de tirer en 90 secondes ?",
+      "url": "https://www.mac4ever.com/ia/199264-ia-et-nucleaire-et-si-les-etats-unis-decidaient-de-tirer-en-90-secondes",
+      "publishedAt": "2026-11-24T15:37:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-24T15:34:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Audiences TV : le pari gagnant de la NBA",
+      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
+      "publishedAt": "2026-11-24T15:33:30+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Disneyland, Astérix, Futuroscope… voici le programme de Noël des parcs d’attractions",
+      "url": "https://www.journaldugeek.com/2026/11/24/disneyland-asterix-futuroscope-voici-le-programme-de-noel-des-parcs-dattractions/",
+      "publishedAt": "2026-11-24T15:30:31+00:00"
+    },
     {
       "source": "tda",
       "title": "[Podcast] Debrief S11 : des Lions sous-estimés",
@@ -206,6 +236,12 @@
       "title": "Google purge sa page d'accueil du bouton de recherche",
       "url": "https://www.generation-nt.com/actualites/google-page-accueil-moteur-recherche-bouton-gemini-2084928",
       "publishedAt": "2026-11-24T15:10:01+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "WhatsApp sur iPhone - votre message peut disparaître après une seule lecture",
+      "url": "https://korben.info/whatsapp-sur-iphone-votre-message-peut-disparaitre-apres-une-seule-lecture.html",
+      "publishedAt": "2026-11-24T15:05:52+00:00"
     },
     {
       "source": "numerama",
@@ -362,12 +398,6 @@
       "title": "Black Friday AliExpress : les 10 meilleures offres du jour et les codes promo actifs",
       "url": "https://www.generation-nt.com/actualites/honor-pad-20-pro-aliexpress-imprimante-3d-flashforge-ad5x-mini-pc-soyo-drone-dji-neo-2-ssd-netac-black-friday-promos-pas-cher-2084994",
       "publishedAt": "2026-11-24T13:50:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-24T13:45:00+00:00"
     },
     {
       "source": "jdg",
@@ -3608,12 +3638,6 @@
       "title": "Les Pelicans restent gourmands au sujet de Trey Murphy III et Herb Jones",
       "url": "https://www.basketusa.com/news/959791/les-pelicans-restent-gourmands-au-sujet-de-trey-murphy-iii-et-herb-jones/",
       "publishedAt": "2026-11-22T15:46:45+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon casse les prix de 12 TV et vidéoprojecteurs, jusqu’à -41%",
-      "url": "https://www.clubic.com/bons-plans-636760-boulanger-n-attend-pas-le-27-novembre-et-lance-son-black-friday-sur-les-tv-oled-et-mini-led.html",
-      "publishedAt": "2026-11-22T15:36:00+00:00"
     },
     {
       "source": "boulet",
