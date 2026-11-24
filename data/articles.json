@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T07:01:07.024481+00:00",
+  "generatedAt": "2026-11-24T07:10:38.130948+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T07:01:07.024481+00:00"
+      "lastSuccessAt": "2026-11-24T07:10:38.130948+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "GTA 6 a réalisé le plus grand lancement de l’histoire de PlayStation",
+      "url": "https://www.numerama.com/pop-culture/2383253-gta-6-a-realise-le-plus-grand-lancement-de-lhistoire-de-playstation.html",
+      "publishedAt": "2026-11-24T07:07:31+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Bouygues Telecom a vendu 5 000 forfaits avec Deezer ou Amazon Prime en une semaine",
+      "url": "https://www.clubic.com/actualite-640693-bouygues-telecom-a-vendu-5000-forfaits-avec-deezer-ou-amazon-prime-en-une-semaine.html",
+      "publishedAt": "2026-11-24T07:02:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Nothing transforme le boîtier de ses écouteurs en dictaphone IA",
+      "url": "https://www.journaldugeek.com/2026/11/24/nothing-transforme-le-boitier-de-ses-ecouteurs-en-dictaphone-ia/",
+      "publishedAt": "2026-11-24T07:01:16+00:00"
+    },
     {
       "source": "iphon",
       "title": "Batterie iPhone : Apple ralentit-elle vraiment les anciens modèles ?",
       "url": "https://www.iphon.fr/post/apple-accusations-obsolescence-programmee-iphone-batterie",
       "publishedAt": "2026-11-24T06:58:22+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Elle rappelle la Defender, mais c’est une BYD : pourquoi ce SUV hybride ne peut-il pas être vendu en France ?",
+      "url": "https://www.presse-citron.net/elle-rappelle-la-defender-mais-cest-une-byd-pourquoi-ce-suv-hybride-ne-peut-il-pas-etre-vendu-en-france/",
+      "publishedAt": "2026-11-24T06:56:45+00:00"
     },
     {
       "source": "basketusa",
@@ -280,6 +304,12 @@
       "publishedAt": "2026-11-24T06:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T05:55:05+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Pourquoi Microsoft observe-t-il Claude et Codex sur les postes Windows 11 en entreprise ?",
       "url": "https://www.generation-nt.com/actualites/windows-11-surveille-claude-codex-2084949",
@@ -296,12 +326,6 @@
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
       "publishedAt": "2026-11-24T05:22:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
-      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
-      "publishedAt": "2026-11-24T04:55:05+00:00"
     },
     {
       "source": "basketusa",
@@ -442,6 +466,12 @@
       "publishedAt": "2026-11-23T17:32:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
+      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
+      "publishedAt": "2026-11-23T17:31:53+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday 2026 : cet antivirus spécialisé pour votre Mac est à - 30 %",
       "url": "https://www.clubic.com/bons-plans-640141-black-friday-2026-cet-antivirus-specialise-pour-votre-mac-est-a---30.html",
@@ -554,12 +584,6 @@
       "title": "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?",
       "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html",
       "publishedAt": "2026-11-23T16:32:54+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les cinq majeurs de la semaine | Victor Wembanyama confirme son emprise sur la NBA",
-      "url": "https://www.basketusa.com/news/960084/les-cinq-majeurs-de-la-semaine-victor-wembanyama-confirme-son-emprise-sur-la-nba/",
-      "publishedAt": "2026-11-23T16:31:53+00:00"
     },
     {
       "source": "jdg",
@@ -1024,6 +1048,12 @@
       "publishedAt": "2026-11-23T13:27:58+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-23T13:25:21+00:00"
+    },
+    {
       "source": "gnt",
       "title": "GTA VI sur Nintendo Switch 2 : Digital Foundry juge le portage impossible !",
       "url": "https://www.generation-nt.com/actualites/gta-vi-switch-digital-foundry-2084921",
@@ -1136,12 +1166,6 @@
       "title": "WheelClick prend le relais pour le « clic molette » sur trackpad et Magic Mouse",
       "url": "https://www.macg.co/logiciels/2026/11/wheelclick-prend-le-relais-pour-le-clic-molette-sur-trackpad-et-magic-mouse-312597",
       "publishedAt": "2026-11-23T12:26:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Sacramento Kings – San Antonio Spurs : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/959828/sacramento-kings-san-antonio-spurs-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-23T12:25:21+00:00"
     },
     {
       "source": "iphon",
@@ -2786,24 +2810,6 @@
       "title": "Black Friday : jusqu'à 38 % de réduction sur les serrures connectées WELOCK !",
       "url": "https://www.mac4ever.com/domotique/199161-black-friday-jusqu-a-38-de-reduction-sur-les-serrures-connectees-welock",
       "publishedAt": "2026-11-22T07:20:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Mises à jour et téléchargements de la semaine",
-      "url": "https://www.generation-nt.com/actualites/logiciel-gratuit-software-free-telecharger-download-mise-jour-update-2084899",
-      "publishedAt": "2026-11-22T07:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Fallait pas fâcher Wemby !",
-      "url": "https://www.basketusa.com/news/959665/le-mvp-de-la-nuit-fallait-pas-facher-wemby/",
-      "publishedAt": "2026-11-22T07:04:31+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple prépare un nouvel accessoire (presque) magique",
-      "url": "https://www.iphon.fr/post/apple-accessoire-capteur-doigts-brevet",
-      "publishedAt": "2026-11-22T07:03:11+00:00"
     },
     {
       "source": "boulet",
