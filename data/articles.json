@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:30:54.215862+00:00",
+  "generatedAt": "2026-11-24T13:40:41.291320+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T13:30:54.215862+00:00"
+      "lastSuccessAt": "2026-11-24T13:40:41.291320+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Ils ont plié l’iPhone Duo 634 000 fois en un mois, voici son état",
+      "url": "https://www.numerama.com/tech/2383601-ils-ont-plie-liphone-duo-634-000-fois-en-un-mois-voici-son-etat.html",
+      "publishedAt": "2026-11-24T13:35:46+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Gabby Williams séduite par la grande famille de Golden State",
+      "url": "https://www.basketusa.com/news/961645/gabby-williams-seduite-par-la-grande-famille-de-golden-state/",
+      "publishedAt": "2026-11-24T13:30:25+00:00"
+    },
     {
       "source": "gnt",
       "title": "Une planète X2 grande comme la Terre se cacherait au-delà de Neptune",
@@ -142,9 +154,27 @@
       "publishedAt": "2026-11-24T13:30:01+00:00"
     },
     {
+      "source": "presse",
+      "title": "BYD annonce un projet de rachat d’usine en France pour y produire ses voitures pour l’Europe",
+      "url": "https://www.presse-citron.net/byd-annonce-un-projet-de-rachat-dusine-en-france-pour-y-produire-ses-voitures-pour-leurope/",
+      "publishedAt": "2026-11-24T13:28:39+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Adieu Tesla et BYD, la voiture électrique Xiaomi arrive en Europe en 2027. Voici ce qu’on sait en attendant",
+      "url": "https://www.presse-citron.net/voiture-electrique-xiaomi-europe-2027/",
+      "publishedAt": "2026-11-24T13:27:15+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "iPhone 20 Pro : Oppo, Xiaomi et Samsung reviendraient eux aussi à l'écran incurvé",
       "url": "https://www.mac4ever.com/iphone/199257-iphone-20-pro-oppo-xiaomi-et-samsung-reviendraient-eux-aussi-a-l-ecran-incurve",
+      "publishedAt": "2026-11-24T13:25:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Voici les 10 meilleurs films à voir en famille sur Netflix, pendant les vacances de 2026",
+      "url": "https://www.numerama.com/pop-culture/1874540-les-meilleurs-films-a-regarder-en-famille-sur-netflix.html",
       "publishedAt": "2026-11-24T13:25:00+00:00"
     },
     {
@@ -622,6 +652,12 @@
       "publishedAt": "2026-11-24T10:14:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "La D.O.N. Issue 8 sur le retour",
+      "url": "https://www.basketusa.com/news/961639/la-d-o-n-issue-8-sur-le-retour/",
+      "publishedAt": "2026-11-24T10:08:37+00:00"
+    },
+    {
       "source": "numerama",
       "title": "« C’était une blague » : le mathématicien d’Anthropic revient sur les 250 000 pages de sa preuve de Riemann",
       "url": "https://www.numerama.com/tech/2383299-cetait-une-blague-le-mathematicien-danthropic-revient-sur-les-250-000-pages-de-sa-preuve-de-riemann.html",
@@ -808,12 +844,6 @@
       "publishedAt": "2026-11-24T09:25:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Kevin Durant, l’art de choisir ses moments",
-      "url": "https://www.basketusa.com/news/961677/kevin-durant-lart-de-choisir-ses-moments/",
-      "publishedAt": "2026-11-24T09:24:17+00:00"
-    },
-    {
       "source": "korben",
       "title": "dumbtv - Le Fire TV sans pub ni mouchard (et sans root)",
       "url": "https://korben.info/dumbtv.html",
@@ -842,12 +872,6 @@
       "title": "La Chine prépare-t-elle une escadrille orbitale capable de plonger sur Terre en deux minutes ?",
       "url": "https://www.generation-nt.com/actualites/chine-flotte-spatiale-orbite-avion-reutilisable-2084982",
       "publishedAt": "2026-11-24T09:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La D.O.N. Issue 8 sur le retour",
-      "url": "https://www.basketusa.com/news/961639/la-d-o-n-issue-8-sur-le-retour/",
-      "publishedAt": "2026-11-24T09:08:37+00:00"
     },
     {
       "source": "numerama",
@@ -1010,6 +1034,12 @@
       "title": "Accent, ton, débit : Google prépare une fonction pour créer une voix de A à Z sur Gemini",
       "url": "https://www.clubic.com/actualite-640705-accent-ton-debit-google-prepare-une-fonction-pour-creer-une-voix-de-a-a-z-sur-gemini.html",
       "publishedAt": "2026-11-24T08:27:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Kevin Durant, l’art de choisir ses moments",
+      "url": "https://www.basketusa.com/news/961677/kevin-durant-lart-de-choisir-ses-moments/",
+      "publishedAt": "2026-11-24T08:24:17+00:00"
     },
     {
       "source": "gnt",
@@ -1349,12 +1379,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
-      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
-      "publishedAt": "2026-11-24T05:55:05+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Le banc des Bulls fait exploser les Cavaliers",
       "url": "https://www.basketusa.com/news/961653/le-banc-des-bulls-fait-exploser-les-cavaliers/",
       "publishedAt": "2026-11-24T05:35:07+00:00"
@@ -1370,6 +1394,12 @@
       "title": "Commanders – Bengals (22-20) : Jayden Daniels calme Cincinnati",
       "url": "https://touchdownactu.com/361799/commanders-bengals-22-20-jayden-daniels-calme-cincinnati/",
       "publishedAt": "2026-11-24T05:22:36+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Clippers plient face au coup de chaud de Kevin Durant",
+      "url": "https://www.basketusa.com/news/961613/les-clippers-plient-face-au-coup-de-chaud-de-kevin-durant/",
+      "publishedAt": "2026-11-24T04:55:05+00:00"
     },
     {
       "source": "macg",
@@ -3482,12 +3512,6 @@
       "title": "Colts : on ne reverra plus Alec Pierce en 2026",
       "url": "https://touchdownactu.com/361689/colts-on-ne-reverra-plus-alec-pierce-en-2026/",
       "publishedAt": "2026-11-22T13:44:02+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[NCAA] Semaine 12 : Indiana en danger, terminé pour Ohio State, Utah seul invaincu",
-      "url": "https://touchdownactu.com/361681/ncaa-semaine-12-indiana-en-danger-termine-pour-ohio-state-utah-seul-invaincu/",
-      "publishedAt": "2026-11-22T13:34:09+00:00"
     },
     {
       "source": "boulet",
