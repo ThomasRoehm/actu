@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:20:38.855232+00:00",
+  "generatedAt": "2026-11-24T10:30:52.410524+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-24T10:20:38.855232+00:00"
+      "lastSuccessAt": "2026-11-24T10:30:52.410524+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Grosses promos sur les claviers et souris Logitech MX pour le Black Friday !",
+      "url": "https://www.mac4ever.com/mac/199249-grosses-promos-sur-les-claviers-et-souris-logitech-mx-pour-le-black-friday",
+      "publishedAt": "2026-11-24T10:28:49+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Le Black Friday au service des têtes en l’air : l’Apple AirTag de deuxième génération passe à 25€ chez Amazon",
+      "url": "https://www.clubic.com/bons-plans-640756-le-black-friday-au-service-des-tetes-en-l-air-l-apple-airtag-de-deuxieme-generation-passe-a-25-chez-amazon.html",
+      "publishedAt": "2026-11-24T10:27:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "À trois jours du Black Friday, Amazon baisse déjà le prix de 12 écrans PC, de l'OLED au Full HD",
+      "url": "https://www.clubic.com/bons-plans-638671-avant-gta-vi-et-le-black-friday-amazon-casse-le-prix-des-ecrans-gaming-oled-de-lenovo-msi-et-asus.html",
+      "publishedAt": "2026-11-24T10:27:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Affaire des puces NVIDIA : Washington met sur liste noire sept sociétés soupçonnées d'alimenter la Chine",
+      "url": "https://www.clubic.com/actualite-640750-affaire-des-puces-nvidia-washington-met-sur-liste-noire-sept-societes-soupconnees-d-alimenter-la-chine.html",
+      "publishedAt": "2026-11-24T10:24:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "2 produits (RED) préparent leur retour en Apple Store dès 2027",
+      "url": "https://www.iphon.fr/post/2-produits-red-preparent-leur-retour-en-apple-store-des-2027",
+      "publishedAt": "2026-11-24T10:21:23+00:00"
+    },
     {
       "source": "numerama",
       "title": "C’est fait : depuis 9 heures ce mardi, le service Quad9 ne fonctionne plus en France et des dommages collatéraux sont à prévoir",
@@ -146,6 +176,12 @@
       "title": "Réserver un TGV dans l'application Uber, ce sera possible en France dès le 30 novembre",
       "url": "https://www.clubic.com/actualite-640753-reserver-un-tgv-dans-l-application-uber-ce-sera-possible-en-france-des-le-30-novembre.html",
       "publishedAt": "2026-11-24T10:18:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Voiture électrique : les ventes bondissent de 50 % en Europe sur dix mois !",
+      "url": "https://www.generation-nt.com/actualites/voiture-electrique-vente-progression-europe-2084997",
+      "publishedAt": "2026-11-24T10:15:01+00:00"
     },
     {
       "source": "mac4ever",
@@ -170,6 +206,18 @@
       "title": "« C’était une blague » : le mathématicien d’Anthropic revient sur les 250 000 pages de sa preuve de Riemann",
       "url": "https://www.numerama.com/tech/2383299-cetait-une-blague-le-mathematicien-danthropic-revient-sur-les-250-000-pages-de-sa-preuve-de-riemann.html",
       "publishedAt": "2026-11-24T10:06:39+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Samsung ne lancera aucune nouvelle Galaxy Watch en 2027",
+      "url": "https://www.generation-nt.com/actualites/samsung-abandonne-galaxy-watch-2027-2084954",
+      "publishedAt": "2026-11-24T10:05:17+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les renseignements occidentaux redoutent le lancement imminent d'un satellite russe doté d'une arme nucléaire",
+      "url": "https://www.generation-nt.com/actualites/satellite-russe-arme-nucleaire-lancement-2084953",
+      "publishedAt": "2026-11-24T10:05:01+00:00"
     },
     {
       "source": "clubic",
@@ -332,6 +380,12 @@
       "title": "Claude : ces nouveautés qui pourraient faire la différence face à ChatGPT",
       "url": "https://www.mac4ever.com/ia/199237-claude-ces-nouveautes-qui-pourraient-faire-la-difference-face-a-chatgpt",
       "publishedAt": "2026-11-24T09:25:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Kevin Durant, l’art de choisir ses moments",
+      "url": "https://www.basketusa.com/news/961677/kevin-durant-lart-de-choisir-ses-moments/",
+      "publishedAt": "2026-11-24T09:24:17+00:00"
     },
     {
       "source": "korben",
@@ -530,12 +584,6 @@
       "title": "Accent, ton, débit : Google prépare une fonction pour créer une voix de A à Z sur Gemini",
       "url": "https://www.clubic.com/actualite-640705-accent-ton-debit-google-prepare-une-fonction-pour-creer-une-voix-de-a-a-z-sur-gemini.html",
       "publishedAt": "2026-11-24T08:27:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kevin Durant, l’art de choisir ses moments",
-      "url": "https://www.basketusa.com/news/961677/kevin-durant-lart-de-choisir-ses-moments/",
-      "publishedAt": "2026-11-24T08:24:17+00:00"
     },
     {
       "source": "gnt",
@@ -934,6 +982,12 @@
       "publishedAt": "2026-11-23T19:45:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
+      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
+      "publishedAt": "2026-11-23T19:30:11+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Meilleures promos du jour : Nothing Phone (4b) 299€, Mac Mini M6 889€, volant Logitech + Gran Turismo 7 210€..",
       "url": "https://www.generation-nt.com/actualites/nothing-phone-4b-mac-mini-m6-samsung-galaxy-s26-odyssey-g5-ultra-polar-h9-google-pixel-buds-2a-dualsense-edge-promos-pas-cher-2084973",
@@ -968,12 +1022,6 @@
       "title": "Test OnePlus Buds Pro 4 : des écouteurs presque aussi bons que Sony et Apple, pour deux fois moins cher",
       "url": "https://www.journaldugeek.com/test/test-oneplus-buds-pro-4-des-ecouteurs-presque-aussi-bons-que-sony-et-apple-pour-deux-fois-moins-cher/",
       "publishedAt": "2026-11-23T18:33:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
-      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
-      "publishedAt": "2026-11-23T18:30:11+00:00"
     },
     {
       "source": "numerama",
@@ -3140,12 +3188,6 @@
       "title": "Aux Clippers, l’attaque plombe la défense",
       "url": "https://www.basketusa.com/news/959725/aux-clippers-lattaque-plombe-la-defense/",
       "publishedAt": "2026-11-22T10:41:42+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : le Samsung Galaxy S26 Ultra de 256 Go passe à 1 039 € chez Joybuy",
-      "url": "https://www.clubic.com/bons-plans-640201-black-friday-le-samsung-galaxy-s26-ultra-de-256-go-passe-a-1-039-chez-joybuy.html",
-      "publishedAt": "2026-11-22T10:27:00+00:00"
     },
     {
       "source": "boulet",
