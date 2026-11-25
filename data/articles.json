@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:01:15.977456+00:00",
+  "generatedAt": "2026-11-25T14:10:40.806040+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:01:15.977456+00:00"
+      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "NVIDIA : Jensen Huang nie l'implication de Trump dans son retour",
+      "url": "https://www.clubic.com/actualite-640972-nvidia-jensen-huang-nie-l-implication-de-trump-dans-son-retour.html",
+      "publishedAt": "2026-11-25T14:07:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Airbus avait enterré leur projet, ces ingénieurs toulousains construisent leur avion hybride qui décolle comme un hélicoptère",
+      "url": "https://www.journaldugeek.com/2026/11/25/airbus-avait-enterre-leur-projet-ces-ingenieurs-toulousains-construisent-leur-avion-hybride-qui-decolle-comme-un-helicoptere/",
+      "publishedAt": "2026-11-25T14:01:23+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "GTA 6 : ces 13 commandes cachées vont rendre votre expérience encore plus réaliste (oui, c’est possible)",
+      "url": "https://www.presse-citron.net/gta-6-ces-13-commandes-cachees-vont-rendre-votre-experience-encore-plus-realiste-oui-cest-possible/",
+      "publishedAt": "2026-11-25T14:00:42+00:00"
+    },
     {
       "source": "clubic",
       "title": "Il est désormais possible de se connecter à FranceConnect avec l'application carte Vitale",
@@ -143,7 +161,7 @@
     },
     {
       "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
+      "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
       "publishedAt": "2026-11-25T13:57:00+00:00"
     },
@@ -3776,60 +3794,6 @@
       "title": "Moins de 23€ une fois : 1min.AI Pro ouvre ChatGPT, Claude et Gemini à vie pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-640612-moins-de-23-une-fois-1min-ai-pro-ouvre-chatgpt-claude-et-gemini-a-vie-pour-le-black-friday.html",
       "publishedAt": "2026-11-23T14:11:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Sept masculinistes jugés à Paris, Telegram a livré leurs données à la justice",
-      "url": "https://www.mac4ever.com/societe/199221-sept-masculinistes-juges-a-paris-telegram-a-livre-leurs-donnees-a-la-justice",
-      "publishedAt": "2026-11-23T14:10:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Moore Threads prépare une carte graphique à 64 Go pour concurrencer la RTX 5090",
-      "url": "https://www.generation-nt.com/actualites/moore-threads-carte-64go-rtx5090-2084913",
-      "publishedAt": "2026-11-23T14:05:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Avengers Doomsday : un dernier trailer qui ne laisse plus de place au doute",
-      "url": "https://www.journaldugeek.com/2026/11/23/avengers-doomsday-un-dernier-trailer-qui-ne-laisse-plus-de-place-au-doute/",
-      "publishedAt": "2026-11-23T14:04:52+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "La dissuasion nucléaire chinoise face à l'IA américaine : pourquoi Pékin redoute le scénario des 90 secondes",
-      "url": "https://www.clubic.com/actualite-640591-la-dissuasion-nucleaire-chinoise-face-a-l-ia-americaine-pourquoi-pekin-redoute-le-scenario-des-90-secondes.html",
-      "publishedAt": "2026-11-23T14:04:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Ni TikTok ni ChatGPT : voici les 3 meilleures applications iPhone en 2026, selon Apple",
-      "url": "https://www.presse-citron.net/ni-tiktok-ni-chatgpt-voici-les-3-meilleures-applications-iphone-en-2026-selon-apple/",
-      "publishedAt": "2026-11-23T14:03:42+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Volte-face chez Nvidia : le conseil d'administration rappelle Jensen Huang aux commandes",
-      "url": "https://www.macg.co/ailleurs/2026/11/volte-face-chez-nvidia-le-conseil-dadministration-rappelle-jensen-huang-aux-commandes-312599",
-      "publishedAt": "2026-11-23T14:03:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Microsoft confirme des problèmes d’impression après la mise à jour KB5132043",
-      "url": "https://www.clubic.com/actualite-640606-microsoft-confirme-des-problemes-d-impression-apres-la-mise-a-jour-kb5132043.html",
-      "publishedAt": "2026-11-23T14:02:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "AirPods Pro 3 : Amazon brade les meilleurs écouteurs d’Apple pour le Black Friday",
-      "url": "https://www.numerama.com/tech/2382741-airpods-pro-3-amazon-brade-les-meilleurs-ecouteurs-dapple-pour-le-black-friday.html",
-      "publishedAt": "2026-11-23T14:01:57+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Il y a une nouvelle bande-annonce pour Avengers Doomsday : voici la vidéo",
-      "url": "https://www.numerama.com/pop-culture/2382751-il-y-a-une-nouvelle-bande-annonce-pour-avengers-doomsday-voici-la-video.html",
-      "publishedAt": "2026-11-23T14:01:47+00:00"
     },
     {
       "source": "boulet",
