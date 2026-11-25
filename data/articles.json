@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:40:40.515180+00:00",
+  "generatedAt": "2026-11-25T16:50:45.510703+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T16:40:40.515180+00:00"
+      "lastSuccessAt": "2026-11-25T16:50:45.510703+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Amazon fait chuter le prix de 12 robots aspirateurs : jusqu’à 550€ d’économie à J-2 du Black Friday",
+      "url": "https://www.clubic.com/bons-plans-638662-black-friday-amazon-baisse-deja-le-prix-de-ses-robots-aspirateurs-a-prix-fou-nos-12-offres-preferees-jusqu-a--55.html",
+      "publishedAt": "2026-11-25T16:45:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-25T16:43:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Nøord veut transformer votre iPhone Duo en petit ordinateur portable",
@@ -154,6 +166,12 @@
       "publishedAt": "2026-11-25T16:31:59+00:00"
     },
     {
+      "source": "tda",
+      "title": "Power ranking S11 : le réveil de la NFC Est",
+      "url": "https://touchdownactu.com/361857/power-ranking-s11-le-reveil-de-la-nfc-est/",
+      "publishedAt": "2026-11-25T16:30:21+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday : ce stockage cloud souverain est disponible avec - 90 % de réduction",
       "url": "https://www.clubic.com/bons-plans-633982-black-friday-ce-stockage-cloud-souverain-est-disponible-avec---90-de-reduction.html",
@@ -164,12 +182,6 @@
       "title": "Avis Acollab : derrière sa simplicité, un vrai logiciel de gestion de projet ?",
       "url": "https://www.clubic.com/avis-639463-avis-acollab-derriere-sa-simplicite-un-vrai-logiciel-de-gestion-de-projet.html",
       "publishedAt": "2026-11-25T16:25:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-25T16:23:00+00:00"
     },
     {
       "source": "gnt",
@@ -3800,24 +3812,6 @@
       "title": "Noël 2026 : LEGO, Star Wars et Rayman… 6 cadeaux pour les kidultes qui n’ont jamais rangé leurs jouets",
       "url": "https://www.journaldugeek.com/dossier/noel-2026-lego-star-wars-et-rayman-6-cadeaux-pour-les-kidultes-qui-nont-jamais-range-leurs-jouets/",
       "publishedAt": "2026-11-23T17:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "L’adidas NextGen EuroLeague fera étape à Paris en février",
-      "url": "https://www.basketusa.com/news/960062/ladidas-nextgen-euroleague-fera-etape-a-paris-en-fevrier/",
-      "publishedAt": "2026-11-23T16:50:08+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Samsung 2026 : les meilleures offres smartphones, TV et électroménager jusqu’au 30 novembre",
-      "url": "https://www.generation-nt.com/actualites/samsung-black-friday-galaxy-z-fold8-s26-ultra-tv-qled-the-frame-pro-tab-s11-book6-buds4-pro-ecran-pc-oled-2084944",
-      "publishedAt": "2026-11-23T16:50:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Data centers dans l'espace : le casse-tête financier auquel Elon Musk n'avait sûrement pas pensé",
-      "url": "https://www.clubic.com/actualite-640627-data-centers-dans-l-espace-le-casse-tete-financier-auquel-elon-musk-n-avait-surement-pas-pense.html",
-      "publishedAt": "2026-11-23T16:48:00+00:00"
     },
     {
       "source": "boulet",
