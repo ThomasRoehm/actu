@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:20:45.719012+00:00",
+  "generatedAt": "2026-11-25T10:30:53.901242+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,51 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:20:45.719012+00:00"
+      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "FPS, travail ou premier setup : quel clavier The G-Lab correspond à vos besoins ?",
+      "url": "https://www.clubic.com/actualite-640687-fps-travail-ou-premier-setup-quel-clavier-the-g-lab-correspond-a-vos-besoins.html",
+      "publishedAt": "2026-11-25T10:30:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Le pack de 4 AirTag 2 d'Apple à 85€ pour le Black Friday : -29% par rapport à l'Apple Store !",
+      "url": "https://www.mac4ever.com/iphone/199279-le-pack-de-4-airtag-2-d-apple-a-85-pour-le-black-friday-29-par-rapport-a-l-apple-store",
+      "publishedAt": "2026-11-25T10:27:33+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Jusqu’à 600€ d’économie chez Samsung : le TV OLED S92H en tête des promos Black Friday",
+      "url": "https://www.clubic.com/bons-plans-639211-jusqu-a-899-d-economies-chez-boulanger-les-13-offres-black-friday-a-ne-pas-manquer.html",
+      "publishedAt": "2026-11-25T10:25:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday 2026 : notre récap des meilleures offres (AirPods, chargeurs, Apple Watch…)",
+      "url": "https://www.macg.co/materiel/2026/11/black-friday-2026-notre-recap-des-meilleures-offres-airpods-chargeurs-apple-watch-312645",
+      "publishedAt": "2026-11-25T10:24:31+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "AirTag 2 : ces 2 fonctionnalités font toute la différence face à la 1ère génération",
+      "url": "https://www.iphon.fr/post/airtag-2-fonctionnalites-difference-1ere-generation",
+      "publishedAt": "2026-11-25T10:21:33+00:00"
+    },
     {
       "source": "jdg",
       "title": "Stations-service, distributeurs… c’est quoi le shimming, cette nouvelle arnaque indétectable qui cible vos cartes bancaires ?",
       "url": "https://www.journaldugeek.com/2026/11/25/stations-service-distributeurs-cest-quoi-le-shimming-cette-nouvelle-arnaque-indetectable-qui-cible-vos-cartes-bancaires/",
       "publishedAt": "2026-11-25T10:17:52+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "BYD vise la France pour sa première usine automobile en Europe occidentale",
+      "url": "https://www.generation-nt.com/actualites/byd-usine-voiture-automobile-implantation-europe-france-2085057",
+      "publishedAt": "2026-11-25T10:15:01+00:00"
     },
     {
       "source": "clubic",
@@ -152,6 +188,18 @@
       "title": "Cliff Booth : des images IA ratées plombent le film de Fincher sur Netflix ?",
       "url": "https://www.mac4ever.com/ia/199277-cliff-booth-des-images-ia-ratees-plombent-le-film-de-fincher-sur-netflix",
       "publishedAt": "2026-11-25T10:10:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "GTA 6 sur PlayStation : pourquoi son arrivée compte pour les fans de longue date",
+      "url": "https://www.generation-nt.com/actualites/gta-6-ps5-playstation-pourquoi-compte-pour-fans-2085060",
+      "publishedAt": "2026-11-25T10:07:45+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Pourquoi la Maison-Blanche a fait pression sur Nvidia pour réintégrer Jensen Huang ?",
+      "url": "https://www.generation-nt.com/actualites/maison-blanche-reintegration-huang-nvidia-2085012",
+      "publishedAt": "2026-11-25T10:05:01+00:00"
     },
     {
       "source": "basketusa",
@@ -700,12 +748,6 @@
       "publishedAt": "2026-11-25T06:19:03+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "À Denver, les Mavericks enchaînent une 4e victoire de suite !",
-      "url": "https://www.basketusa.com/news/963820/vainqueurs-a-denver-les-mavericks-enchainent-une-4e-victoire-de-suite/",
-      "publishedAt": "2026-11-25T06:16:30+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Et si c'était la solution pour faire des économies de chauffage ? Ce ventilateur de plafond Cecotec chute à 68,90€ pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-640834-et-si-c-etait-la-solution-pour-faire-des-economies-de-chauffage-ce-ventilateur-de-plafond-cecotec-chute-a-68-90-pour-le-black-friday.html",
@@ -749,6 +791,12 @@
     },
     {
       "source": "basketusa",
+      "title": "À Denver, les Mavericks enchaînent une 4e victoire de suite !",
+      "url": "https://www.basketusa.com/news/963820/vainqueurs-a-denver-les-mavericks-enchainent-une-4e-victoire-de-suite/",
+      "publishedAt": "2026-11-25T05:16:30+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Même sans Cade Cunningham, les Pistons étouffent le Magic",
       "url": "https://www.basketusa.com/news/963815/meme-sans-cade-cunningham-les-pistons-etouffent-le-magic/",
       "publishedAt": "2026-11-25T05:15:00+00:00"
@@ -782,12 +830,6 @@
       "title": "BYD négocie le rachat de l’ancienne usine Smart en Moselle",
       "url": "https://www.clubic.com/actualite-640885-byd-negocie-le-rachat-de-l-ancienne-usine-smart-en-moselle.html",
       "publishedAt": "2026-11-24T19:36:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Cooper Flagg et les Mavericks au défi de Nikola Jokic",
-      "url": "https://www.basketusa.com/news/963792/programme-du-soir-cooper-flagg-et-les-mavericks-au-defi-de-nikola-jokic/",
-      "publishedAt": "2026-11-24T19:35:37+00:00"
     },
     {
       "source": "jdg",
@@ -824,6 +866,12 @@
       "title": "Les joueurs de GTA 6 risquent le bannissement sur Xbox et PSN à cause de leurs captures",
       "url": "https://www.generation-nt.com/actualites/joueurs-gta-6-bannissement-xbox-psn-2084963",
       "publishedAt": "2026-11-24T18:50:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Cooper Flagg et les Mavericks au défi de Nikola Jokic",
+      "url": "https://www.basketusa.com/news/963792/programme-du-soir-cooper-flagg-et-les-mavericks-au-defi-de-nikola-jokic/",
+      "publishedAt": "2026-11-24T18:35:37+00:00"
     },
     {
       "source": "jdg",
@@ -3764,42 +3812,6 @@
       "title": "Le pire est-il à craindre ? La Russie s’apprêterait à lancer un satellite doté d’une charge nucléaire",
       "url": "https://www.presse-citron.net/le-pire-est-il-a-craindre-la-russie-sappreterait-a-lancer-un-satellite-dote-dune-charge-nucleaire/",
       "publishedAt": "2026-11-23T10:30:58+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Maman, j’ai raté l’avion va accoucher d’une nouvelle suite avec le retour de Macaulay Culkin !",
-      "url": "https://www.journaldugeek.com/2026/11/23/maman-jai-rate-lavion-va-accoucher-dune-nouvelle-suite-avec-le-retour-de-macaulay-culkin/",
-      "publishedAt": "2026-11-23T10:30:26+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : CleanMyMac passe à -30 % pour nettoyer et optimiser votre Mac",
-      "url": "https://www.clubic.com/actualite-640123-black-friday-2026-cleanmymac-passe-a--30-pour-nettoyer-et-optimiser-votre-mac.html",
-      "publishedAt": "2026-11-23T10:30:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Waymo rappelle des robotaxis après leur interdiction sur les autoroutes",
-      "url": "https://www.generation-nt.com/actualites/waymo-rappel-robotaxis-autoroutes-correctifs-2084932",
-      "publishedAt": "2026-11-23T10:27:53+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Svi Mykhailiuk, une main chaude qui a failli brûler Dallas",
-      "url": "https://www.basketusa.com/news/960010/svi-mykhailiuk-une-main-chaude-qui-a-failli-bruler-dallas/",
-      "publishedAt": "2026-11-23T10:24:30+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Claude a-t-il vraiment résolu l'hypothèse de Riemann, 167 ans après ?",
-      "url": "https://korben.info/claude-a-t-il-vraiment-resolu-lhypothese-de-riemann-167-ans-apres.html",
-      "publishedAt": "2026-11-23T10:23:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "GTA 6 bat un record insolite : le jeu bat Netflix et YouTube réunis",
-      "url": "https://www.iphon.fr/post/gta-6-bat-record-insolite-jamais-vu-operateurs-telephoniques-francais",
-      "publishedAt": "2026-11-23T10:22:17+00:00"
     },
     {
       "source": "boulet",
