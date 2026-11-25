@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:11:05.719782+00:00",
+  "generatedAt": "2026-11-25T08:20:40.952985+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:11:05.719782+00:00"
+      "lastSuccessAt": "2026-11-25T08:20:40.952985+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Vos projets Claude peuvent maintenant devenir des apps sur Windows et Mac",
+      "url": "https://www.clubic.com/actualite-640906-vos-projets-claude-peuvent-maintenant-devenir-des-apps-sur-windows-et-mac.html",
+      "publishedAt": "2026-11-25T08:16:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : 10 TV OLED à prix FOUS jusqu'à -40%, trois jours avant le vendredi noir",
+      "url": "https://www.clubic.com/bons-plans-640159-lg-samsung-sony-philips-les-tv-oled-chutent-jusqu-a--40-pour-le-black-friday.html",
+      "publishedAt": "2026-11-25T08:15:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Dune 3 serait meilleur que les deux premiers ? Villeneuve vous le garantit",
+      "url": "https://www.mac4ever.com/culture/199274-dune-3-serait-meilleur-que-les-deux-premiers-villeneuve-vous-le-garantie",
+      "publishedAt": "2026-11-25T08:12:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Premier jour TEMPO ROUGE demain chez EDF : comment consommer moins ? Solaire, EcoJoko, batteries ?",
@@ -370,6 +388,12 @@
       "publishedAt": "2026-11-25T06:19:03+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "À Denver, les Mavericks enchaînent une 4e victoire de suite !",
+      "url": "https://www.basketusa.com/news/963820/vainqueurs-a-denver-les-mavericks-enchainent-une-4e-victoire-de-suite/",
+      "publishedAt": "2026-11-25T06:16:30+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Et si c'était la solution pour faire des économies de chauffage ? Ce ventilateur de plafond Cecotec chute à 68,90€ pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-640834-et-si-c-etait-la-solution-pour-faire-des-economies-de-chauffage-ce-ventilateur-de-plafond-cecotec-chute-a-68-90-pour-le-black-friday.html",
@@ -410,12 +434,6 @@
       "title": "Piratage de la DGAC : des données de pilotes et des cryptogrammes bancaires ont fuité",
       "url": "https://www.generation-nt.com/actualites/piratage-dgac-donnees-pilotes-cryptogrammes-2085034",
       "publishedAt": "2026-11-25T05:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "À Denver, les Mavericks enchaînent une 4e victoire de suite !",
-      "url": "https://www.basketusa.com/news/963820/vainqueurs-a-denver-les-mavericks-enchainent-une-4e-victoire-de-suite/",
-      "publishedAt": "2026-11-25T05:16:30+00:00"
     },
     {
       "source": "basketusa",
@@ -730,6 +748,12 @@
       "publishedAt": "2026-11-24T16:12:22+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "New York Knicks – Cleveland Cavaliers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/963752/new-york-knicks-cleveland-calaviers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-24T16:10:45+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Un drone d'Amazon percute un câble et s'écrase sur un garage au Michigan",
       "url": "https://www.generation-nt.com/actualites/drone-amazon-percute-cable-garage-2084965",
@@ -926,12 +950,6 @@
       "title": "3500 milliards de dollars : SpaceX et Tesla préparent une fusion pour dans quelques semaines",
       "url": "https://www.presse-citron.net/3500-milliards-de-dollars-spacex-et-tesla-preparent-une-fusion-pour-dans-quelques-semaines/",
       "publishedAt": "2026-11-24T15:10:51+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "New York Knicks – Cleveland Cavaliers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/963752/new-york-knicks-cleveland-calaviers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-24T15:10:45+00:00"
     },
     {
       "source": "gnt",
@@ -3818,24 +3836,6 @@
       "title": "Il joue à GTA VI par télépathie grâce à l’implant cérébral de Neuralink",
       "url": "https://www.journaldugeek.com/2026/11/23/il-joue-a-gta-vi-par-telepathie-grace-a-limplant-cerebral-de-neuralink/",
       "publishedAt": "2026-11-23T08:28:15+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le CHU de la Guadeloupe paralysé par une cyberattaque",
-      "url": "https://www.generation-nt.com/actualites/chu-guadeloupe-cyberattaque-plan-blanc-anssi-piratage-2084927",
-      "publishedAt": "2026-11-23T08:20:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Comment les Hawks ont assommé les Pistons",
-      "url": "https://www.basketusa.com/news/959959/comment-les-hawks-ont-assomme-les-pistons/",
-      "publishedAt": "2026-11-23T08:19:47+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Détenteurs de véhicules électriques : cette nouvelle offre de recharge signée Auchan doit alléger votre budget pour les fêtes",
-      "url": "https://www.presse-citron.net/detenteurs-de-vehicules-electriques-cette-nouvelle-offre-de-recharge-signee-auchan-doit-alleger-votre-budget-pour-les-fetes/",
-      "publishedAt": "2026-11-23T08:15:35+00:00"
     },
     {
       "source": "boulet",
