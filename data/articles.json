@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:54:46.165580+00:00",
+  "generatedAt": "2026-11-25T20:01:07.084209+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:54:46.165580+00:00"
+      "lastSuccessAt": "2026-11-25T20:01:07.084209+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "1Password confirme une fuite de données chez ses clients",
+      "url": "https://www.clubic.com/actualite-641077-password-confirme-une-fuite-de-donnees-chez-ses-clients.html",
+      "publishedAt": "2026-11-25T19:55:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Intermarché va faire entrer l'IA d'Anthropic dans ses magasins d'ici quelques semaines",
@@ -3914,12 +3920,6 @@
       "title": "NO SPEAKER : cet utilitaire fait parler et chanter le trackpad de votre MacBook",
       "url": "https://www.macg.co/logiciels/2026/11/no-speaker-cet-utilitaire-fait-parler-et-chanter-le-trackpad-de-votre-macbook-312605",
       "publishedAt": "2026-11-23T20:15:53+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Anthropic lance Claude Ship, un outil qui veut valider votre code à la place de vos collègues",
-      "url": "https://www.numerama.com/tech/2382945-anthropic-lance-claude-ship-un-outil-qui-veut-valider-votre-code-a-la-place-de-vos-collegues.html",
-      "publishedAt": "2026-11-23T20:00:00+00:00"
     },
     {
       "source": "boulet",
