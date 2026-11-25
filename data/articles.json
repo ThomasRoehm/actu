@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T06:50:40.562315+00:00",
+  "generatedAt": "2026-11-25T07:01:03.076949+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,46 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
+      "lastSuccessAt": "2026-11-25T07:01:03.076949+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : 50 offres de folie chez Amazon jusqu'à -67%, avant même jour J vendredi",
+      "url": "https://www.clubic.com/bons-plans-640573-black-friday-2026-amazon-lance-30-offres-tech-jusqu-a--67-de-l-iphone-air-au-galaxy-s26-ultra.html",
+      "publishedAt": "2026-11-25T07:00:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Quand le patron d'ASUS voit les PC d'entrée de gamme passer de 16 à 8 Go de RAM",
+      "url": "https://www.clubic.com/actualite-640801-quand-le-patron-d-asus-voit-les-pc-d-entree-de-gamme-passer-de-16-a-8-go-de-ram.html",
+      "publishedAt": "2026-11-25T07:00:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone : pourquoi une crise se profile pour Apple en Europe ?",
+      "url": "https://www.iphon.fr/post/iphone-europe-safari-plainte-conccurents-moteur",
+      "publishedAt": "2026-11-25T06:58:58+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ce n’est pas une arnaque : 46 millions de Français vont recevoir un e-mail important de l’Assurance maladie",
+      "url": "https://www.presse-citron.net/ce-nest-pas-une-arnaque-46-millions-de-francais-vont-recevoir-un-e-mail-important-de-lassurance-maladie/",
+      "publishedAt": "2026-11-25T06:55:36+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "GTA 6 sur PC : Rockstar Games doit se dépêcher, la course pour créer une version non officielle a déjà commencé",
+      "url": "https://www.presse-citron.net/gta-6-sur-pc-rockstar-games-course/",
+      "publishedAt": "2026-11-25T06:54:04+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Honor confirme un Magic V7 a écran pliable parfaitement plat pour mars 2027",
+      "url": "https://www.generation-nt.com/actualites/honor-magic-v7-sans-pli-2085017",
+      "publishedAt": "2026-11-25T06:50:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Avec le tout nouveau Claude Ship, l'IA d'Anthropic ne se contente plus d'écrire du code, elle le valide",
@@ -158,6 +194,12 @@
       "title": "Peut-on jouer aux jeux vidéo sur un projecteur ? J’ai testé GTA 6 sur le JMGO Iris Ultra Max et c’est fabuleux",
       "url": "https://www.presse-citron.net/test-jmgo-iris-ultra-max/",
       "publishedAt": "2026-11-25T06:30:31+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Alice Huang a bien maintenu des contacts avec les services secrets chinois pendant sa liaison chez Nvidia",
+      "url": "https://www.generation-nt.com/actualites/alice-huang-megaspeed-liaison-jensen-huang-nvidia-lien-espionnage-chine-2085020",
+      "publishedAt": "2026-11-25T06:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -557,7 +599,7 @@
     },
     {
       "source": "basketusa",
-      "title": "New York Knicks – Cleveland Calaviers : paris joueurs, état des blessures et pronostic | NBA",
+      "title": "New York Knicks – Cleveland Cavaliers : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/963752/new-york-knicks-cleveland-calaviers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-24T16:10:45+00:00"
     },
@@ -1292,12 +1334,6 @@
       "title": "GTA 6 : PlayStation est le grand gagnant de cette histoire",
       "url": "https://www.journaldugeek.com/2026/11/24/gta-6-playstation-est-le-grand-gagnant-de-cette-histoire/",
       "publishedAt": "2026-11-24T11:01:22+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon frappe FORT avec 36 offres tech jusqu'à -67%, à J-3 du jour J",
-      "url": "https://www.clubic.com/bons-plans-640573-black-friday-2026-amazon-lance-30-offres-tech-jusqu-a--67-de-l-iphone-air-au-galaxy-s26-ultra.html",
-      "publishedAt": "2026-11-24T10:59:00+00:00"
     },
     {
       "source": "basketusa",
@@ -3782,30 +3818,6 @@
       "title": "Black Friday : jusqu’à 20 % de réduction sur le Mac mini M6",
       "url": "https://www.macg.co/mac/2026/11/black-friday-jusqua-20-de-reduction-sur-le-mac-mini-m6-312579",
       "publishedAt": "2026-11-23T07:05:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Licencié la veille de la sortie de GTA 6, un prétendu ingénieur accuse Rockstar d'espionner les joueurs",
-      "url": "https://www.clubic.com/actualite-640486-licencie-la-veille-de-la-sortie-de-gta-6-un-pretendu-ingenieur-accuse-rockstar-d-espionner-les-joueurs.html",
-      "publishedAt": "2026-11-23T07:01:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Après les dérapages de ses IA, OpenAI veut pouvoir les arrêter plus vite",
-      "url": "https://www.journaldugeek.com/2026/11/23/apres-les-derapages-de-ses-ia-openai-veut-pouvoir-les-arreter-plus-vite/",
-      "publishedAt": "2026-11-23T06:57:59+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Apple recrute pour un agent IA qui utilisera votre Mac à votre place",
-      "url": "https://korben.info/apple-recrute-pour-un-agent-ia-qui-utilisera-votre-mac-a-votre-place.html",
-      "publishedAt": "2026-11-23T06:56:15+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Ce n’est pas une arnaque : 8 millions de Français perdront leur argent s’ils ignorent cet appel de leur banquier",
-      "url": "https://www.presse-citron.net/ce-nest-pas-une-arnaque-8-millions-de-francais-perdront-leur-argent-sils-ignorent-cet-appel-de-leur-banquier/",
-      "publishedAt": "2026-11-23T06:52:57+00:00"
     },
     {
       "source": "boulet",
