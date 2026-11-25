@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T06:40:38.566051+00:00",
+  "generatedAt": "2026-11-25T06:50:40.562315+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T06:40:38.566051+00:00"
+      "lastSuccessAt": "2026-11-25T06:50:40.562315+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Avec le tout nouveau Claude Ship, l'IA d'Anthropic ne se contente plus d'écrire du code, elle le valide",
+      "url": "https://www.clubic.com/actualite-640723-avec-le-tout-nouveau-claude-ship-l-ia-d-anthropic-ne-se-contente-plus-d-ecrire-du-code-elle-le-valide.html",
+      "publishedAt": "2026-11-25T06:41:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Jayson Tatum en apesanteur pendant une mi-temps",
+      "url": "https://www.basketusa.com/news/963821/le-mvp-de-la-nuit-jayson-tatum-en-apesanteur-pendant-une-mi-temps/",
+      "publishedAt": "2026-11-25T06:38:14+00:00"
+    },
     {
       "source": "tda",
       "title": "Brandon Aiyuk, suspension et Hall of Fame : les 5 infos NFL du mercredi",
@@ -185,7 +197,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Vainqueurs à Denver, les Mavericks enchaînent une 4e victoire de suite",
+      "title": "À Denver, les Mavericks enchaînent une 4e victoire de suite !",
       "url": "https://www.basketusa.com/news/963820/vainqueurs-a-denver-les-mavericks-enchainent-une-4e-victoire-de-suite/",
       "publishedAt": "2026-11-25T06:16:30+00:00"
     },
@@ -3794,24 +3806,6 @@
       "title": "Ce n’est pas une arnaque : 8 millions de Français perdront leur argent s’ils ignorent cet appel de leur banquier",
       "url": "https://www.presse-citron.net/ce-nest-pas-une-arnaque-8-millions-de-francais-perdront-leur-argent-sils-ignorent-cet-appel-de-leur-banquier/",
       "publishedAt": "2026-11-23T06:52:57+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "500 000 kilomètres sans panne : c’est la voiture la plus solide d’après les contrôleurs techniques interrogés",
-      "url": "https://www.presse-citron.net/500-000-kilometres-sans-panne-cest-la-voiture-la-plus-solide-dapres-les-controleurs-techniques-interroges/",
-      "publishedAt": "2026-11-23T06:45:38+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Synology corrige deux vulnérabilités critiques sur ses NAS sous DSM",
-      "url": "https://www.generation-nt.com/actualites/synology-corrige-vulnerabilites-critiques-dsm-2084914",
-      "publishedAt": "2026-11-23T06:45:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les MVP de la nuit | Le monstre à deux têtes des Nuggets a encore frappé",
-      "url": "https://www.basketusa.com/news/959905/les-mvp-de-la-nuit-le-monstre-a-deux-tetes-des-nuggets-a-encore-frappe/",
-      "publishedAt": "2026-11-23T06:42:31+00:00"
     },
     {
       "source": "boulet",
