@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:30:54.814584+00:00",
+  "generatedAt": "2026-11-25T12:40:39.713764+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:30:54.814584+00:00"
+      "lastSuccessAt": "2026-11-25T12:40:39.713764+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "-18 °C à Paris, -29 °C à Strasbourg : ce scénario glaçant si le courant qui réchauffe l’Europe s’effondre",
+      "url": "https://www.journaldugeek.com/2026/11/25/18-c-a-paris-29-c-a-strasbourg-ce-scenario-glacant-si-le-courant-qui-rechauffe-leurope-seffondre/",
+      "publishedAt": "2026-11-25T12:37:21+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Sans eux, votre voiture électrique ne roule pas : la France va stocker des minerais critiques comme on stocke du pétrole",
+      "url": "https://www.presse-citron.net/voiture-electrique-france-stocker-minerais-critiques/",
+      "publishedAt": "2026-11-25T12:33:59+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : la Microsoft Surface Pro de 12 pouces devient plus accessible à 599€ chez Amazon",
@@ -370,6 +382,12 @@
       "publishedAt": "2026-11-25T11:00:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
+      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
+      "publishedAt": "2026-11-25T10:57:14+00:00"
+    },
+    {
       "source": "presse",
       "title": "Office Depot ferme ses portes en France : le spécialiste des fournitures de bureau annonce la fermeture de ses 27 magasins et de son site internet",
       "url": "https://www.presse-citron.net/office-depot-ferme-ses-portes-en-france-le-specialiste-des-fournitures-de-bureau-annonce-la-fermeture-de-ses-27-magasins-et-de-son-site-internet/",
@@ -518,12 +536,6 @@
       "title": "Red Dead Redemption bientôt adapté en série ? Rockstar serait prêt à vendre les droits à Hollywood",
       "url": "https://www.journaldugeek.com/2026/11/25/red-dead-redemption-bientot-adapte-en-serie-rockstar-serait-pret-a-vendre-les-droits-a-hollywood/",
       "publishedAt": "2026-11-25T10:01:33+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
-      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
-      "publishedAt": "2026-11-25T09:57:14+00:00"
     },
     {
       "source": "gnt",
@@ -910,12 +922,6 @@
       "publishedAt": "2026-11-25T07:29:47+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
-      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
-      "publishedAt": "2026-11-25T07:27:10+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Donald Trump encaisse des millions grâce au sauvetage de Jensen Huang chez Nvidia",
       "url": "https://www.generation-nt.com/actualites/donald-trump-investissement-nvidia-sauvetage-jensen-huang-2085028",
@@ -1040,6 +1046,12 @@
       "title": "Tesla : malgré des puces à bout de souffle, le FSD v15 en met plein les yeux",
       "url": "https://www.journaldugeek.com/2026/11/25/tesla-malgre-des-puces-a-bout-de-souffle-le-fsd-v15-en-met-plein-les-yeux/",
       "publishedAt": "2026-11-25T06:28:39+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
+      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
+      "publishedAt": "2026-11-25T06:27:10+00:00"
     },
     {
       "source": "macg",
@@ -3806,12 +3818,6 @@
       "title": "Donald Trump voit un aspect positif dans le piratage de la base de données du FBI",
       "url": "https://www.generation-nt.com/actualites/trump-positif-piratage-base-fbi-2084920",
       "publishedAt": "2026-11-23T12:45:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : comment débloquer les 2 radios secrètes du jeu ? Voici les 5 posters à trouver",
-      "url": "https://www.journaldugeek.com/2026/11/23/gta-6-comment-debloquer-les-2-radios-secretes-du-jeu-voici-les-5-posters-a-trouver/",
-      "publishedAt": "2026-11-23T12:38:35+00:00"
     },
     {
       "source": "boulet",
