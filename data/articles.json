@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:10:40.806040+00:00",
+  "generatedAt": "2026-11-25T14:20:38.882904+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:10:40.806040+00:00"
+      "lastSuccessAt": "2026-11-25T14:20:38.882904+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Le Black Friday permet de jouer sur smartphone comme sur console avec la manette Razer Kishi V3 Pro à prix réduit",
+      "url": "https://www.numerama.com/tech/2384205-le-black-friday-permet-de-jouer-sur-smartphone-comme-sur-console-avec-la-manette-razer-kishi-v3-pro-a-prix-reduit.html",
+      "publishedAt": "2026-11-25T14:20:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "iPhone : Google soutient Mozilla contre les restrictions d'Apple en Europe",
+      "url": "https://www.mac4ever.com/iphone/199290-iphone-google-soutient-mozilla-contre-les-restrictions-d-apple-en-europe",
+      "publishedAt": "2026-11-25T14:20:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Fuite de données chez Decathlon : cette fonctionnalité d’iCloud+ peut vous protéger",
+      "url": "https://www.iphon.fr/post/fuite-donnees-decathlon-fonctionnalite-icloud-proteger-mail",
+      "publishedAt": "2026-11-25T14:16:11+00:00"
+    },
     {
       "source": "clubic",
       "title": "NVIDIA : Jensen Huang nie l'implication de Trump dans son retour",
@@ -266,6 +284,12 @@
       "title": "Quand les héros de GTA 6 deviennent de vrais mannequins sur les réseaux sociaux",
       "url": "https://www.numerama.com/pop-culture/2384555-quand-les-heros-de-gta-6-deviennent-de-vrais-mannequins-sur-les-reseaux-sociaux.html",
       "publishedAt": "2026-11-25T13:04:20+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La NBA veut investir 10 milliards d’euros pour moderniser les salles européennes",
+      "url": "https://www.basketusa.com/news/964042/la-nba-veut-investir-10-milliards-deuros-pour-moderniser-les-salles-europeennes/",
+      "publishedAt": "2026-11-25T13:03:57+00:00"
     },
     {
       "source": "clubic",
@@ -467,7 +491,7 @@
     },
     {
       "source": "jdg",
-      "title": "Les Anneaux de Pouvoir : la série aura-t-elle une saison 4 ?",
+      "title": "Les Anneaux de pouvoir : la saison 4 est confirmée, mais la fin de la série approche",
       "url": "https://www.journaldugeek.com/2026/11/25/les-anneaux-de-pouvoir-la-serie-aura-t-elle-une-saison-4/",
       "publishedAt": "2026-11-25T11:34:57+00:00"
     },
@@ -1108,12 +1132,6 @@
       "publishedAt": "2026-11-25T07:29:47+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
-      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
-      "publishedAt": "2026-11-25T07:27:10+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Donald Trump encaisse des millions grâce au sauvetage de Jensen Huang chez Nvidia",
       "url": "https://www.generation-nt.com/actualites/donald-trump-investissement-nvidia-sauvetage-jensen-huang-2085028",
@@ -1232,6 +1250,12 @@
       "title": "Tesla : malgré des puces à bout de souffle, le FSD v15 en met plein les yeux",
       "url": "https://www.journaldugeek.com/2026/11/25/tesla-malgre-des-puces-a-bout-de-souffle-le-fsd-v15-en-met-plein-les-yeux/",
       "publishedAt": "2026-11-25T06:28:39+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
+      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
+      "publishedAt": "2026-11-25T06:27:10+00:00"
     },
     {
       "source": "macg",
@@ -3746,54 +3770,6 @@
       "title": "WhatsApp explose la limite pour les groupes",
       "url": "https://www.generation-nt.com/actualites/whatsapp-limite-groupes-meta-2084931",
       "publishedAt": "2026-11-23T14:25:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Nvidia : Jensen Huang réintégré à l’unanimité par le conseil d’administration !",
-      "url": "https://www.mac4ever.com/ia/199224-nvidia-jensen-huang-reintegre-a-l-unanimite-par-le-conseil-d-administration",
-      "publishedAt": "2026-11-23T14:20:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Nvidia réintègre Jensen Huang six jours après avoir juré que non",
-      "url": "https://korben.info/nvidia-reintegre-jensen-huang-six-jours-apres-avoir-jure-que-non.html",
-      "publishedAt": "2026-11-23T14:17:08+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Apple est «structurellement en retard» sur l’IA",
-      "url": "https://www.iphon.fr/post/apple-retard-intelligence-artificielle",
-      "publishedAt": "2026-11-23T14:16:34+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Immense rebondissement : Jensen Huang redevient le patron de Nvidia",
-      "url": "https://www.numerama.com/tech/2382845-immense-rebondissement-jensen-huang-redevient-le-patron-de-nvidia.html",
-      "publishedAt": "2026-11-23T14:14:35+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Visa prépare plus que jamais les boutiques européennes à des clients qui ne sont pas humains",
-      "url": "https://www.clubic.com/actualite-640588-visa-prepare-plus-que-jamais-les-boutiques-europeennes-a-des-clients-qui-ne-sont-pas-humains.html",
-      "publishedAt": "2026-11-23T14:13:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Jensen Huang reprend la tête de NVIDIA, onze jours après avoir démissionné",
-      "url": "https://www.clubic.com/actualite-640633-jensen-huang-reprend-la-tete-de-nvidia-six-jours-apres-que-le-groupe-a-exclu-son-retour.html",
-      "publishedAt": "2026-11-23T14:13:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Brandon Ingram, le chaînon manquant des Clippers ?",
-      "url": "https://www.basketusa.com/news/959950/brandon-ingram-le-chainon-manquant-des-clippers/",
-      "publishedAt": "2026-11-23T14:12:49+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Moins de 23€ une fois : 1min.AI Pro ouvre ChatGPT, Claude et Gemini à vie pour le Black Friday",
-      "url": "https://www.clubic.com/bons-plans-640612-moins-de-23-une-fois-1min-ai-pro-ouvre-chatgpt-claude-et-gemini-a-vie-pour-le-black-friday.html",
-      "publishedAt": "2026-11-23T14:11:00+00:00"
     },
     {
       "source": "boulet",
