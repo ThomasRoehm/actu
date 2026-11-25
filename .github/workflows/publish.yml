@@ -19,7 +19,7 @@ jobs:
     timeout-minutes: 10
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment_retry.outputs.page_url || steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -53,4 +53,13 @@ jobs:
           path: dist
       - name: Publier sur GitHub Pages
         id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      # L’archive peut être visible avec retard après un envoi réussi.
+      - name: Attendre avant de réessayer la publication
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 20
+      - name: Réessayer la publication sur GitHub Pages
+        id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
