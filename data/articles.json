@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:50:42.203872+00:00",
+  "generatedAt": "2026-11-25T13:01:05.318221+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:50:42.203872+00:00"
+      "lastSuccessAt": "2026-11-25T13:01:05.318221+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Supermarchés Lidl : ces barquettes de viande et de fruits et légumes à 0,50 € et 1€ sont parfois proposées, voici comment les récupérer",
+      "url": "https://www.presse-citron.net/supermarches-lidl-ces-barquettes-de-viande-et-de-fruits-et-legumes-a-050-e-et-1e-sont-parfois-proposees-voici-comment-les-recuperer/",
+      "publishedAt": "2026-11-25T12:54:19+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Porsche confirme le Boxster électrique pour 2027",
@@ -148,6 +154,12 @@
       "publishedAt": "2026-11-25T12:46:25+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kyrie Irving savoure l’éclosion de Cooper Flagg",
+      "url": "https://www.basketusa.com/news/963904/kyrie-irving-savoure-leclosion-de-cooper-flagg/",
+      "publishedAt": "2026-11-25T12:46:04+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Fire TV Stick HD à 23,99€, Echo Dot à 34,99€ : Amazon brade ses appareils à J-2 du Black Friday",
       "url": "https://www.clubic.com/bons-plans-639421-black-friday-2026-amazon-casse-les-prix-de-ses-propres-appareils-10-offres-jusqu-a--83-des-maintenant.html",
@@ -158,6 +170,12 @@
       "title": "3 cofondateurs de xAI conçoivent une IA capable de prédire les événements futurs",
       "url": "https://www.clubic.com/actualite-640948-cofondateurs-de-xai-concoivent-une-ia-capable-de-predire-les-evenements-futurs.html",
       "publishedAt": "2026-11-25T12:46:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Samsung lance l'Odyssey G6, le premier moniteur de jeu à 1 100 Hz au monde",
+      "url": "https://www.generation-nt.com/actualites/samsung-lance-odyssey-g6-premier-moniteur-jeu-1-100-hz-monde-samsung-odyssey-g6-1100hz-2085021",
+      "publishedAt": "2026-11-25T12:45:01+00:00"
     },
     {
       "source": "jdg",
@@ -814,6 +832,12 @@
       "publishedAt": "2026-11-25T08:30:37+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Même privé de ses leaders, Detroit reste fidèle à son ADN",
+      "url": "https://www.basketusa.com/news/963864/meme-sans-leurs-leaders-les-pistons-restent-fideles-a-leur-adn/",
+      "publishedAt": "2026-11-25T08:30:14+00:00"
+    },
+    {
       "source": "presse",
       "title": "Volkswagen va payer ses clients qui rechargent leur voiture chez eux, et la France est dans le viseur",
       "url": "https://www.presse-citron.net/volkswagen-va-payer-ses-clients-qui-rechargent-leur-voiture-chez-eux-et-la-france-est-dans-le-viseur/",
@@ -920,12 +944,6 @@
       "title": "Porsche a imaginé un système digne d’un avion de chasse pour permettre à ses sportives de prendre les virages à pleine vitesse",
       "url": "https://www.presse-citron.net/porsche-imagine-systeme-avion-chasse-permettre-sportives-prendre-virages-pleine-vitesse/",
       "publishedAt": "2026-11-25T07:32:43+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Même privé de ses leaders, Detroit reste fidèle à son ADN",
-      "url": "https://www.basketusa.com/news/963864/meme-sans-leurs-leaders-les-pistons-restent-fideles-a-leur-adn/",
-      "publishedAt": "2026-11-25T07:30:14+00:00"
     },
     {
       "source": "clubic",
@@ -3812,18 +3830,6 @@
       "title": "Les 6 leçons de la semaine 11 : la défense de Minnesota mise à nu",
       "url": "https://touchdownactu.com/361743/les-6-lecons-de-la-semaine-11-la-defense-de-minnesota-mise-a-nu/",
       "publishedAt": "2026-11-23T13:06:20+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Compte courant : pourquoi il faut absolument retirer son argent d’ici à la fin novembre ?",
-      "url": "https://www.presse-citron.net/compte-courant-pourquoi-il-faut-absolument-retirer-son-argent-dici-a-la-fin-novembre/",
-      "publishedAt": "2026-11-23T12:54:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Ça se précise pour la Harden Vol. 11",
-      "url": "https://www.basketusa.com/news/959880/ca-se-precise-pour-la-harden-vol-11/",
-      "publishedAt": "2026-11-23T12:51:34+00:00"
     },
     {
       "source": "boulet",
