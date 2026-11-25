@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T07:10:38.694715+00:00",
+  "generatedAt": "2026-11-25T07:20:39.171242+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:10:38.694715+00:00"
+      "lastSuccessAt": "2026-11-25T07:20:39.171242+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "La saison 3 des Anneaux de pouvoir se termine par une excellente nouvelle",
+      "url": "https://www.numerama.com/pop-culture/2384133-la-saison-3-des-anneaux-de-pouvoir-se-termine-par-une-excellente-nouvelle.html",
+      "publishedAt": "2026-11-25T07:11:48+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Canal+ ne se lance plus sur certains iPad, le groupe confirme le bug et donne la solution",
+      "url": "https://www.clubic.com/actualite-640894-canal-ne-se-lance-plus-sur-certains-ipad-le-groupe-confirme-le-bug-et-donne-la-solution.html",
+      "publishedAt": "2026-11-25T07:11:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Apple voit rouge ! Quatre nouveaux produits pourraient arriver dès mardi...",
@@ -149,7 +161,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Encore une semaine d’infirmerie supplémentaire pour Kawhi Leonard",
+      "title": "Une semaine d’infirmerie supplémentaire pour Kawhi Leonard",
       "url": "https://www.basketusa.com/news/963829/encore-une-semaine-dinfirmerie-supplementaire-pour-kawhi-leonard/",
       "publishedAt": "2026-11-25T07:01:02+00:00"
     },
@@ -188,6 +200,12 @@
       "title": "Honor confirme un Magic V7 a écran pliable parfaitement plat pour mars 2027",
       "url": "https://www.generation-nt.com/actualites/honor-magic-v7-sans-pli-2085017",
       "publishedAt": "2026-11-25T06:50:01+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Ubuntu - Le nouveau lanceur sera boosté à l'IA",
+      "url": "https://korben.info/ubuntu-lanceur-ia-local.html",
+      "publishedAt": "2026-11-25T06:42:17+00:00"
     },
     {
       "source": "clubic",
@@ -3812,12 +3830,6 @@
       "title": "Pourquoi des mini-jeux comme les fléchettes ont disparu de GTA 6 ?",
       "url": "https://www.numerama.com/pop-culture/2382241-pourquoi-des-mini-jeux-comme-les-flechettes-ont-disparu-de-gta-6.html",
       "publishedAt": "2026-11-23T07:24:14+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Sans Giannis, Bam Adebayo reprend les commandes au Heat",
-      "url": "https://www.basketusa.com/news/959900/sans-giannis-bam-adebayo-reprend-les-commandes-au-heat/",
-      "publishedAt": "2026-11-23T07:11:39+00:00"
     },
     {
       "source": "boulet",
