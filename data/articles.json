@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:50:40.580502+00:00",
+  "generatedAt": "2026-11-25T11:01:03.585907+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
+      "lastSuccessAt": "2026-11-25T11:01:03.585907+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Office Depot ferme ses portes en France : le spécialiste des fournitures de bureau annonce la fermeture de ses 27 magasins et de son site internet",
+      "url": "https://www.presse-citron.net/office-depot-ferme-ses-portes-en-france-le-specialiste-des-fournitures-de-bureau-annonce-la-fermeture-de-ses-27-magasins-et-de-son-site-internet/",
+      "publishedAt": "2026-11-25T10:53:48+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Jetty Pro permet de créer des Docks entièrement personnalisables sur macOS",
+      "url": "https://www.macg.co/logiciels/2026/11/jetty-pro-permet-de-creer-des-docks-entierement-personnalisables-sur-macos-312647",
+      "publishedAt": "2026-11-25T10:51:48+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Codes de triche GTA 6 : la liste complète et comment les débloquer",
+      "url": "https://www.journaldugeek.com/dossier/codes-de-triche-gta-6-la-liste-complete-et-comment-les-debloquer/",
+      "publishedAt": "2026-11-25T10:49:14+00:00"
+    },
     {
       "source": "clubic",
       "title": "Le Black Friday s’adresse aussi aux mélomanes : l’enceinte Sonos Era 100 SL descend à 149,99€ sur Amazon",
       "url": "https://www.clubic.com/bons-plans-640933-le-black-friday-s-adresse-aussi-aux-melomanes-l-enceinte-sonos-era-100-sl-descend-a-149-99-sur-amazon.html",
       "publishedAt": "2026-11-25T10:47:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Face aux coupes budgétaires, France Télévisions vend ses actifs et menace le cinéma sur France 4 et France 5",
+      "url": "https://www.generation-nt.com/actualites/coupes-budgetaires-france-televisions-actifs-2085035",
+      "publishedAt": "2026-11-25T10:45:01+00:00"
     },
     {
       "source": "numerama",
@@ -212,6 +236,12 @@
       "title": "AirTag 2 : ces 2 fonctionnalités font toute la différence face à la 1ère génération",
       "url": "https://www.iphon.fr/post/airtag-2-fonctionnalites-difference-1ere-generation",
       "publishedAt": "2026-11-25T10:21:33+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Firefox sur iPhone - pourquoi changer de navigateur ne change presque rien",
+      "url": "https://korben.info/firefox-sur-iphone-pourquoi-changer-de-navigateur-ne-change-presque-rien.html",
+      "publishedAt": "2026-11-25T10:20:38+00:00"
     },
     {
       "source": "jdg",
@@ -3764,42 +3794,6 @@
       "title": "Magic Mouse et Apple Pencil Pro et USB-C à leur prix le plus bas pour le Black Friday !",
       "url": "https://www.mac4ever.com/ipad/199214-magic-mouse-et-apple-pencil-pro-et-usb-c-a-leur-prix-le-plus-bas-pour-le-black-friday",
       "publishedAt": "2026-11-23T11:01:59+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Les premières heures de GTA 6 sont une véritable leçon de jeu vidéo",
-      "url": "https://www.presse-citron.net/gta-6-mini-test/",
-      "publishedAt": "2026-11-23T11:00:07+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "L’État va installer des ralentisseurs que la justice avait déjà jugés illégaux",
-      "url": "https://www.journaldugeek.com/2026/11/23/letat-va-installer-des-ralentisseurs-que-la-justice-avait-deja-juges-illegaux/",
-      "publishedAt": "2026-11-23T11:00:04+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Bouygues Telecom : une TV Samsung 4K de 50 pouces à 1 € avec Bbox must ou ultym !",
-      "url": "https://www.generation-nt.com/actualites/bouygues-telecom-smart-tv-samsung-crystal-4k-pas-cher-bbox-must-ultym-box-fibre-2084937",
-      "publishedAt": "2026-11-23T11:00:02+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La nouvelle visualisation du FSD v15 de Tesla a toutes les chances d’être interdite en Europe",
-      "url": "https://www.numerama.com/vroom/2382593-la-nouvelle-visualisation-du-fsd-v15-de-tesla-a-toutes-les-chances-detre-interdite-en-europe.html",
-      "publishedAt": "2026-11-23T10:53:08+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Google ferme l’application Nest en janvier, voici ce qu’il faudra récupérer avant sa disparition",
-      "url": "https://www.clubic.com/actualite-640531-google-ferme-l-application-nest-en-janvier-voici-ce-qu-il-faudra-recuperer-avant-sa-disparition.html",
-      "publishedAt": "2026-11-23T10:53:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Lucid Cosmos : le rival du Tesla Model Y est prêt, mais pas avant fin 2027",
-      "url": "https://www.mac4ever.com/auto/199204-lucid-cosmos-le-rival-du-tesla-model-y-est-pret-mais-pas-avant-fin-2027",
-      "publishedAt": "2026-11-23T10:51:00+00:00"
     },
     {
       "source": "boulet",
