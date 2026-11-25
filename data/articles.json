@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:01:09.325224+00:00",
+  "generatedAt": "2026-11-25T08:10:39.134463+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "tda",
@@ -118,9 +118,9 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/tda.png",
-      "ok": false,
-      "error": "<urlopen error timed out>",
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "ok": true,
+      "error": null,
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
+      "lastSuccessAt": "2026-11-25T08:10:39.134463+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Premier jour TEMPO ROUGE demain chez EDF : comment consommer moins ? Solaire, EcoJoko, batteries ?",
+      "url": "https://www.mac4ever.com/ecotech/199273-premier-jour-tempo-rouge-demain-chez-edf-comment-consommer-moins-solaire-ecojoko-batteries",
+      "publishedAt": "2026-11-25T08:07:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Sony a menti sur la version PS5 de GTA 6",
+      "url": "https://www.numerama.com/pop-culture/2384141-sony-a-menti-sur-la-version-ps5-de-gta-6.html",
+      "publishedAt": "2026-11-25T08:01:12+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Avengers Doomsday nous offre déjà un nouveau teaser avec une confrontation inédite !",
+      "url": "https://www.journaldugeek.com/2026/11/25/avengers-doomsday-nous-offre-deja-un-nouveau-teaser-avec-une-confrontation-inedite/",
+      "publishedAt": "2026-11-25T08:00:47+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "« Huawei a bâti son empire sur la fraude, le vol et la tromperie » : le géant chinois reconnu coupable de vol de secrets industriels",
+      "url": "https://www.presse-citron.net/huawei-a-bati-son-empire-sur-la-fraude-le-vol-et-la-tromperie-le-geant-chinois-reconnu-coupable-de-vol-de-secrets-industriels/",
+      "publishedAt": "2026-11-25T08:00:38+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Instagram et IA Muse : allez-vous laisser un yéti organiser vos photos, vos recettes et vos voyages",
@@ -346,12 +370,6 @@
       "publishedAt": "2026-11-25T06:19:03+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "À Denver, les Mavericks enchaînent une 4e victoire de suite !",
-      "url": "https://www.basketusa.com/news/963820/vainqueurs-a-denver-les-mavericks-enchainent-une-4e-victoire-de-suite/",
-      "publishedAt": "2026-11-25T06:16:30+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Et si c'était la solution pour faire des économies de chauffage ? Ce ventilateur de plafond Cecotec chute à 68,90€ pour le Black Friday",
       "url": "https://www.clubic.com/bons-plans-640834-et-si-c-etait-la-solution-pour-faire-des-economies-de-chauffage-ce-ventilateur-de-plafond-cecotec-chute-a-68-90-pour-le-black-friday.html",
@@ -392,6 +410,12 @@
       "title": "Piratage de la DGAC : des données de pilotes et des cryptogrammes bancaires ont fuité",
       "url": "https://www.generation-nt.com/actualites/piratage-dgac-donnees-pilotes-cryptogrammes-2085034",
       "publishedAt": "2026-11-25T05:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "À Denver, les Mavericks enchaînent une 4e victoire de suite !",
+      "url": "https://www.basketusa.com/news/963820/vainqueurs-a-denver-les-mavericks-enchainent-une-4e-victoire-de-suite/",
+      "publishedAt": "2026-11-25T05:16:30+00:00"
     },
     {
       "source": "basketusa",
@@ -490,6 +514,12 @@
       "publishedAt": "2026-11-24T18:30:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Quand Oscar Robertson débutait son combat pour créer la free agency",
+      "url": "https://www.basketusa.com/news/374300/oscar-robertson-creation-free-agency/",
+      "publishedAt": "2026-11-24T18:24:04+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Bornes de recharge : toujours plus de vols, toujours moins de nouvelles installations",
       "url": "https://www.clubic.com/actualite-640879-bornes-de-recharge-toujours-plus-de-vols-toujours-moins-de-nouvelles-installations.html",
@@ -554,12 +584,6 @@
       "title": "Comtech et les Marines américains établissent une liaison troposphérique record de 301 km à Hawaï",
       "url": "https://www.generation-nt.com/actualites/comtech-marines-liaison-tropospherique-hawai-2084971",
       "publishedAt": "2026-11-24T17:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Quand Oscar Robertson débutait son combat pour créer la free agency",
-      "url": "https://www.basketusa.com/news/374300/oscar-robertson-creation-free-agency/",
-      "publishedAt": "2026-11-24T17:24:04+00:00"
     },
     {
       "source": "clubic",
@@ -3812,36 +3836,6 @@
       "title": "Détenteurs de véhicules électriques : cette nouvelle offre de recharge signée Auchan doit alléger votre budget pour les fêtes",
       "url": "https://www.presse-citron.net/detenteurs-de-vehicules-electriques-cette-nouvelle-offre-de-recharge-signee-auchan-doit-alleger-votre-budget-pour-les-fetes/",
       "publishedAt": "2026-11-23T08:15:35+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iPhone 20 Pro : un capteur de 200 mégapixels serait à l'étude chez Apple",
-      "url": "https://www.mac4ever.com/iphone/199199-iphone-20-pro-un-capteur-de-200-megapixels-serait-a-l-etude-chez-apple",
-      "publishedAt": "2026-11-23T08:10:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Intel Nova Lake se dévoile avec 28 coeurs à 5,2 GHz sur bureau et 4,8 GHz sur PC portable",
-      "url": "https://www.generation-nt.com/actualites/intel-nova-lake-pc-portable-2084907",
-      "publishedAt": "2026-11-23T08:05:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone 18 : Apple a deux choix pour la date de sortie",
-      "url": "https://www.iphon.fr/post/iphone-18-apple-deux-choix-date-sortie-2027",
-      "publishedAt": "2026-11-23T08:04:47+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Alors que ChatGPT Classic va disparaître, OpenAI tâtonne toujours avec sa nouvelle app unifiée",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/alors-que-chatgpt-classic-va-disparaitre-openai-tatonne-toujours-avec-sa-nouvelle-app-unifiee-312583",
-      "publishedAt": "2026-11-23T08:03:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Les chiffres officiels de GTA 6 sont tombés : c’est “le plus grand lancement de l’histoire du divertissement”",
-      "url": "https://www.journaldugeek.com/2026/11/23/les-chiffres-officiels-de-gta-6-sont-tombes-cest-le-plus-grand-lancement-de-lhistoire-du-divertissement/",
-      "publishedAt": "2026-11-23T08:02:41+00:00"
     },
     {
       "source": "boulet",
