@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T13:10:50.731194+00:00",
+  "generatedAt": "2026-11-25T13:20:39.304239+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T13:10:50.731194+00:00"
+      "lastSuccessAt": "2026-11-25T13:20:39.304239+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Sony décroche une exclusivité marketing pour The Witcher 4... faut-il s'inquiéter pour la sortie PC ?",
+      "url": "https://www.clubic.com/actualite-640966-sony-decroche-une-exclusivite-marketing-pour-the-witcher-4.html",
+      "publishedAt": "2026-11-25T13:19:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Votre carte d’invalidité ne sera plus valide à partir de cette date, voici ce qui va la remplacer",
+      "url": "https://www.journaldugeek.com/2026/11/25/votre-carte-dinvalidite-ne-sera-plus-valide-a-partir-de-cette-date-voici-ce-qui-va-la-remplacer/",
+      "publishedAt": "2026-11-25T13:16:30+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Amazon Autos débarque en Europe : une plateforme pour comparer les voitures (neuf et occasion), leurs prix et leurs équipements",
+      "url": "https://www.presse-citron.net/amazon-autos-debarque-en-europe-une-plateforme-pour-comparer-les-voitures-neuf-et-occasion-leurs-prix-et-leurs-equipements/",
+      "publishedAt": "2026-11-25T13:15:31+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Mark Zuckerberg contre Elon Musk : la guerre des réseaux sociaux continue (sur iPad)",
+      "url": "https://www.mac4ever.com/ipad/199285-mark-zuckerberg-contre-elon-musk-la-guerre-des-reseaux-sociaux-continue-sur-ipad",
+      "publishedAt": "2026-11-25T13:15:00+00:00"
+    },
     {
       "source": "iphon",
       "title": "Black Friday : la maison connectée de vos rêves vous attend avec ces offres inédites Aqara",
@@ -988,6 +1012,12 @@
       "publishedAt": "2026-11-25T07:29:47+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
+      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
+      "publishedAt": "2026-11-25T07:27:10+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Donald Trump encaisse des millions grâce au sauvetage de Jensen Huang chez Nvidia",
       "url": "https://www.generation-nt.com/actualites/donald-trump-investissement-nvidia-sauvetage-jensen-huang-2085028",
@@ -1112,12 +1142,6 @@
       "title": "Tesla : malgré des puces à bout de souffle, le FSD v15 en met plein les yeux",
       "url": "https://www.journaldugeek.com/2026/11/25/tesla-malgre-des-puces-a-bout-de-souffle-le-fsd-v15-en-met-plein-les-yeux/",
       "publishedAt": "2026-11-25T06:28:39+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
-      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
-      "publishedAt": "2026-11-25T06:27:10+00:00"
     },
     {
       "source": "macg",
@@ -3818,24 +3842,6 @@
       "title": "Signal empêche les IA de lire vos messages par-dessus votre épaule",
       "url": "https://korben.info/signal-empeche-les-ia-de-lire-vos-messages-par-dessus-votre-epaule.html",
       "publishedAt": "2026-11-23T13:21:48+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "OpenAI : voici comment l'entreprise veut freiner le développement de l’IA",
-      "url": "https://www.clubic.com/actualite-640594-openai-voici-comment-l-entreprise-veut-freiner-le-developpement-de-l-ia.html",
-      "publishedAt": "2026-11-23T13:17:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Hypothèse de Riemann : Claude aurait-il résolu l'un des plus grands problèmes mathématiques ?",
-      "url": "https://www.mac4ever.com/ia/199209-hypothese-de-riemann-claude-aurait-il-resolu-l-un-des-plus-grands-problemes-mathematiques",
-      "publishedAt": "2026-11-23T13:14:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Il donne sa maison à une aide à domicile : ses enfants s’y opposent, mais la Cour de cassation rappelle un principe fondamental",
-      "url": "https://www.presse-citron.net/il-donne-sa-maison-a-une-aide-a-domicile-ses-enfants-sy-opposent-mais-la-cour-de-cassation-rappelle-un-principe-fondamental/",
-      "publishedAt": "2026-11-23T13:10:52+00:00"
     },
     {
       "source": "boulet",
