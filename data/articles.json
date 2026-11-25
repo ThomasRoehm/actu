@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:40:38.413023+00:00",
+  "generatedAt": "2026-11-25T14:50:39.424611+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
+      "lastSuccessAt": "2026-11-25T14:50:39.424611+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Black Friday : le plein d’apps, de services et de VPN à prix réduit",
+      "url": "https://www.macg.co/logiciels/2026/11/black-friday-le-plein-dapps-de-services-et-de-vpn-prix-reduit-312657",
+      "publishedAt": "2026-11-25T14:46:54+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Dans combien de bâtiments de GTA 6 peut-on vraiment entrer ?",
+      "url": "https://www.numerama.com/pop-culture/2384667-dans-combien-de-batiments-de-gta-6-peut-on-vraiment-entrer.html",
+      "publishedAt": "2026-11-25T14:45:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Asus s'inspire du MacBook Neo et revient à 8 Go de RAM sur ses PC d'entrée de gamme",
+      "url": "https://www.macg.co/materiel/2026/11/asus-sinspire-du-macbook-neo-et-revient-8-go-de-ram-sur-ses-pc-dentree-de-gamme-312655",
+      "publishedAt": "2026-11-25T14:45:00+00:00"
+    },
     {
       "source": "jdg",
       "title": "Est-ce que Blade Runner 2099 met fin à la franchise au cinéma ?",
@@ -194,6 +212,12 @@
       "title": "Les patrouilleurs spatiaux français YODA voleront avec SpaceX et Impulse Space",
       "url": "https://www.generation-nt.com/actualites/france-satellite-defense-spatiale-yoda-toutatis-impulse-space-2085065",
       "publishedAt": "2026-11-25T14:15:01+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Test du mini PC VZMORE iX9 Max sous Ubuntu Server",
+      "url": "https://korben.info/test-du-mini-pc-vzmore-ix9-max-sous-ubuntu-server.html",
+      "publishedAt": "2026-11-25T14:12:02+00:00"
     },
     {
       "source": "clubic",
@@ -689,7 +713,7 @@
     },
     {
       "source": "numerama",
-      "title": "Marvel se moque-t-il de nous avec la vraie identité de Dr Doom dans Avengers: Doomsday ?",
+      "title": "Et si Tony Stark était le variant de Dr Doom, et non l’inverse ?",
       "url": "https://www.numerama.com/pop-culture/2384189-marvel-se-moque-t-il-de-nous-avec-la-vraie-identite-de-dr-doom-dans-avengers-doomsday.html",
       "publishedAt": "2026-11-25T10:37:52+00:00"
     },
@@ -3752,24 +3776,6 @@
       "title": "🔴 Nvidia annonce le retour de Jensen Huang au poste de CEO, l’action bondit immédiatement",
       "url": "https://www.presse-citron.net/surprise-nvidia-annonce-le-retour-de-jensen-huang-au-poste-de-ceo/",
       "publishedAt": "2026-11-23T14:51:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Draymond Green et Eddie Johnson règlent leurs comptes…",
-      "url": "https://www.basketusa.com/news/960071/draymond-green-et-eddie-johnson-reglent-leurs-comptes/",
-      "publishedAt": "2026-11-23T14:46:06+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La carte Avantage de la SNCF tombe en promo dès aujourd’hui pour le Black Friday",
-      "url": "https://www.numerama.com/vroom/2382351-la-carte-avantage-de-la-sncf-tombe-en-promo-des-aujourdhui-pour-le-black-friday.html",
-      "publishedAt": "2026-11-23T14:45:08+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 vient de sortir son premier patch, qu’est ce qu’il change ?",
-      "url": "https://www.journaldugeek.com/2026/11/23/gta-6-vient-de-sortir-son-premier-patch-quest-ce-quil-change/",
-      "publishedAt": "2026-11-23T14:43:29+00:00"
     },
     {
       "source": "boulet",
