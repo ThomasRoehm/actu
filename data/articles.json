@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:20:47.435984+00:00",
+  "generatedAt": "2026-11-25T18:31:07.859780+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:20:47.435984+00:00"
+      "lastSuccessAt": "2026-11-25T18:31:07.859780+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : Amazon casse les prix de 8 montres connectées, jusqu’à -43 % sur la Galaxy Watch Ultra",
+      "url": "https://www.clubic.com/bons-plans-638989-black-friday-top-7-des-meilleures-montres-connectees-a-saisir-chez-garmin-suunto-ou-amazfit.html",
+      "publishedAt": "2026-11-25T18:30:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Threads débarque enfin sur iPad",
+      "url": "https://www.generation-nt.com/actualites/threads-ipad-instagram-meta-cashtags-2085096",
+      "publishedAt": "2026-11-25T18:10:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Shuttle lance un mini PC ultra-compact de 0,4 litre avec processeur Intel Wildcat Lake",
@@ -334,12 +346,6 @@
       "publishedAt": "2026-11-25T16:45:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Boston Celtics – Atlanta Hawks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/963956/boston-celtics-atlanta-hawks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-25T16:43:44+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Amazon menace New York d’une hausse de 5 dollars par commande face à un projet de loi sur les livraisons",
       "url": "https://www.generation-nt.com/actualites/amazon-new-york-hausse-livraisons-2085025",
@@ -482,6 +488,12 @@
       "title": "Cette nouveauté du 18 Pro sera absente de l’iPhone Air 2",
       "url": "https://www.iphon.fr/post/iphone-air-2-18-pro-dynamic-island",
       "publishedAt": "2026-11-25T15:44:58+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Boston Celtics – Atlanta Hawks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/963956/boston-celtics-atlanta-hawks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-25T15:43:44+00:00"
     },
     {
       "source": "mac4ever",
@@ -754,12 +766,6 @@
       "publishedAt": "2026-11-25T14:05:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "La NBA veut investir 10 milliards d’euros pour moderniser les salles européennes",
-      "url": "https://www.basketusa.com/news/964042/la-nba-veut-investir-10-milliards-deuros-pour-moderniser-les-salles-europeennes/",
-      "publishedAt": "2026-11-25T14:03:57+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Airbus avait enterré leur projet, ces ingénieurs toulousains construisent leur avion hybride qui décolle comme un hélicoptère",
       "url": "https://www.journaldugeek.com/2026/11/25/airbus-avait-enterre-leur-projet-ces-ingenieurs-toulousains-construisent-leur-avion-hybride-qui-decolle-comme-un-helicoptere/",
@@ -878,6 +884,12 @@
       "title": "Quand les héros de GTA 6 deviennent de vrais mannequins sur les réseaux sociaux",
       "url": "https://www.numerama.com/pop-culture/2384555-quand-les-heros-de-gta-6-deviennent-de-vrais-mannequins-sur-les-reseaux-sociaux.html",
       "publishedAt": "2026-11-25T13:04:20+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La NBA veut investir 10 milliards d’euros pour moderniser les salles européennes",
+      "url": "https://www.basketusa.com/news/964042/la-nba-veut-investir-10-milliards-deuros-pour-moderniser-les-salles-europeennes/",
+      "publishedAt": "2026-11-25T13:03:57+00:00"
     },
     {
       "source": "clubic",
@@ -1055,7 +1067,7 @@
     },
     {
       "source": "numerama",
-      "title": "Quotas sur les voitures hybrides : la nouvelle usine à gaz de l’Europe qui ratisse plus large que prévu",
+      "title": "Pour stopper les hybrides chinoises, l’UE invente des quotas qui gênent aussi ses propres constructeurs",
       "url": "https://www.numerama.com/vroom/2384531-quotas-sur-les-voitures-hybrides-la-nouvelle-usine-a-gaz-de-leurope-qui-ratisse-plus-large-que-prevu.html",
       "publishedAt": "2026-11-25T11:45:00+00:00"
     },
@@ -3884,24 +3896,6 @@
       "title": "Test OnePlus Buds Pro 4 : des écouteurs presque aussi bons que Sony et Apple, pour deux fois moins cher",
       "url": "https://www.journaldugeek.com/test/test-oneplus-buds-pro-4-des-ecouteurs-presque-aussi-bons-que-sony-et-apple-pour-deux-fois-moins-cher/",
       "publishedAt": "2026-11-23T18:33:36+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs à Sacramento",
-      "url": "https://www.basketusa.com/news/961619/programme-du-soir-victor-wembanyama-et-les-spurs-a-sacramento/",
-      "publishedAt": "2026-11-23T18:30:11+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "El Niño 2027 : à quoi faut-il s’attendre pour les prochains mois, selon un climatologue ?",
-      "url": "https://www.numerama.com/sciences/2382911-el-nino-2027-a-quoi-faut-il-sattendre-pour-les-prochains-mois-selon-un-climatologue.html",
-      "publishedAt": "2026-11-23T18:30:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Windows Server 2028 arrive avec une rupture sur la compatibilité",
-      "url": "https://www.generation-nt.com/actualites/windows-server-2028-securite-core-wow64-2084934",
-      "publishedAt": "2026-11-23T18:25:01+00:00"
     },
     {
       "source": "boulet",
