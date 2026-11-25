@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:30:53.901242+00:00",
+  "generatedAt": "2026-11-25T10:40:39.238635+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:30:53.901242+00:00"
+      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Auchan affiche la recharge la moins chère de France, mais attention aux petites lignes",
+      "url": "https://www.mac4ever.com/auto/199278-auchan-affiche-la-recharge-la-moins-chere-de-france-mais-attention-aux-petites-lignes",
+      "publishedAt": "2026-11-25T10:38:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Marvel se moque-t-il de nous avec la vraie identité de Dr Doom dans Avengers: Doomsday ?",
+      "url": "https://www.numerama.com/pop-culture/2384189-marvel-se-moque-t-il-de-nous-avec-la-vraie-identite-de-dr-doom-dans-avengers-doomsday.html",
+      "publishedAt": "2026-11-25T10:37:52+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "The Witcher 4 : le studio promet une claque aussi énorme que celle de GTA 6",
+      "url": "https://www.journaldugeek.com/2026/11/25/the-witcher-4-le-studio-promet-une-claque-aussi-enorme-que-celle-de-gta-6/",
+      "publishedAt": "2026-11-25T10:30:45+00:00"
+    },
     {
       "source": "clubic",
       "title": "FPS, travail ou premier setup : quel clavier The G-Lab correspond à vos besoins ?",
       "url": "https://www.clubic.com/actualite-640687-fps-travail-ou-premier-setup-quel-clavier-the-g-lab-correspond-a-vos-besoins.html",
       "publishedAt": "2026-11-25T10:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Wizards ont oublié qu’un match durait 48 minutes",
+      "url": "https://www.basketusa.com/news/963862/les-wizards-ont-oublie-quun-match-durait-48-minutes/",
+      "publishedAt": "2026-11-25T10:28:22+00:00"
     },
     {
       "source": "mac4ever",
@@ -592,12 +616,6 @@
       "publishedAt": "2026-11-25T07:29:47+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
-      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
-      "publishedAt": "2026-11-25T07:27:10+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Donald Trump encaisse des millions grâce au sauvetage de Jensen Huang chez Nvidia",
       "url": "https://www.generation-nt.com/actualites/donald-trump-investissement-nvidia-sauvetage-jensen-huang-2085028",
@@ -730,6 +748,12 @@
       "publishedAt": "2026-11-25T06:28:39+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
+      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
+      "publishedAt": "2026-11-25T06:27:10+00:00"
+    },
+    {
       "source": "macg",
       "title": "GTA VI sur PC : comment l’IA transforme le portage sauvage en casse-tête pour les éditeurs",
       "url": "https://www.macg.co/logiciels/2026/11/gta-vi-sur-pc-comment-lia-transforme-le-portage-sauvage-en-casse-tete-pour-les-editeurs-312637",
@@ -746,6 +770,12 @@
       "title": "FF8 Reborn - Le mod qui passe Final Fantasy VIII en 16:9",
       "url": "https://korben.info/ff8-reborn-final-fantasy-viii-remastered.html",
       "publishedAt": "2026-11-25T06:19:03+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "À Denver, les Mavericks enchaînent une 4e victoire de suite !",
+      "url": "https://www.basketusa.com/news/963820/vainqueurs-a-denver-les-mavericks-enchainent-une-4e-victoire-de-suite/",
+      "publishedAt": "2026-11-25T06:16:30+00:00"
     },
     {
       "source": "clubic",
@@ -791,12 +821,6 @@
     },
     {
       "source": "basketusa",
-      "title": "À Denver, les Mavericks enchaînent une 4e victoire de suite !",
-      "url": "https://www.basketusa.com/news/963820/vainqueurs-a-denver-les-mavericks-enchainent-une-4e-victoire-de-suite/",
-      "publishedAt": "2026-11-25T05:16:30+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Même sans Cade Cunningham, les Pistons étouffent le Magic",
       "url": "https://www.basketusa.com/news/963815/meme-sans-cade-cunningham-les-pistons-etouffent-le-magic/",
       "publishedAt": "2026-11-25T05:15:00+00:00"
@@ -830,6 +854,12 @@
       "title": "BYD négocie le rachat de l’ancienne usine Smart en Moselle",
       "url": "https://www.clubic.com/actualite-640885-byd-negocie-le-rachat-de-l-ancienne-usine-smart-en-moselle.html",
       "publishedAt": "2026-11-24T19:36:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Cooper Flagg et les Mavericks au défi de Nikola Jokic",
+      "url": "https://www.basketusa.com/news/963792/programme-du-soir-cooper-flagg-et-les-mavericks-au-defi-de-nikola-jokic/",
+      "publishedAt": "2026-11-24T19:35:37+00:00"
     },
     {
       "source": "jdg",
@@ -866,12 +896,6 @@
       "title": "Les joueurs de GTA 6 risquent le bannissement sur Xbox et PSN à cause de leurs captures",
       "url": "https://www.generation-nt.com/actualites/joueurs-gta-6-bannissement-xbox-psn-2084963",
       "publishedAt": "2026-11-24T18:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Cooper Flagg et les Mavericks au défi de Nikola Jokic",
-      "url": "https://www.basketusa.com/news/963792/programme-du-soir-cooper-flagg-et-les-mavericks-au-defi-de-nikola-jokic/",
-      "publishedAt": "2026-11-24T18:35:37+00:00"
     },
     {
       "source": "jdg",
@@ -1222,12 +1246,6 @@
       "publishedAt": "2026-11-24T15:37:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Audiences TV : le pari gagnant de la NBA",
-      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
-      "publishedAt": "2026-11-24T15:33:30+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Disneyland, Astérix, Futuroscope… voici le programme de Noël des parcs d’attractions",
       "url": "https://www.journaldugeek.com/2026/11/24/disneyland-asterix-futuroscope-voici-le-programme-de-noel-des-parcs-dattractions/",
@@ -1376,6 +1394,12 @@
       "title": "La voiture électrique reste la motorisation numéro 1 en France, pendant que l’essence plonge",
       "url": "https://www.presse-citron.net/la-voiture-electrique-reste-la-motorisation-numero-1-en-france-pendant-que-lessence-plonge/",
       "publishedAt": "2026-11-24T14:34:09+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Audiences TV : le pari gagnant de la NBA",
+      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
+      "publishedAt": "2026-11-24T14:33:30+00:00"
     },
     {
       "source": "gnt",
@@ -3794,24 +3818,6 @@
       "title": "Google peine à rentabiliser son IA, et Apple pourrait en faire les frais",
       "url": "https://www.macg.co/intelligence-artificielle/2026/11/google-peine-rentabiliser-son-ia-et-apple-pourrait-en-faire-les-frais-312595",
       "publishedAt": "2026-11-23T10:42:08+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« La superintelligence est en train d’arriver » : après Riemann, le patron de l’IA chez Meta appelle à ne pas lui céder les commandes",
-      "url": "https://www.numerama.com/tech/2382285-la-superintelligence-est-en-train-darriver-apres-riemann-le-patron-de-lia-chez-meta-appelle-a-ne-pas-lui-ceder-les-commandes.html",
-      "publishedAt": "2026-11-23T10:40:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Coup d'arrêt à Kourou, Ariane 6 reporte son 10e vol, prévu pour Amazon Leo, en raison d'un problème technique",
-      "url": "https://www.clubic.com/actualite-640540-coup-d-arret-a-kourou-ariane-6-reporte-son-10e-vol-prevu-pour-amazon-leo-en-raison-d-un-probleme-technique.html",
-      "publishedAt": "2026-11-23T10:32:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Le pire est-il à craindre ? La Russie s’apprêterait à lancer un satellite doté d’une charge nucléaire",
-      "url": "https://www.presse-citron.net/le-pire-est-il-a-craindre-la-russie-sappreterait-a-lancer-un-satellite-dote-dune-charge-nucleaire/",
-      "publishedAt": "2026-11-23T10:30:58+00:00"
     },
     {
       "source": "boulet",
