@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:50:40.488647+00:00",
+  "generatedAt": "2026-11-25T09:01:11.045751+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:50:40.488647+00:00"
+      "lastSuccessAt": "2026-11-25T09:01:11.045751+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Black Friday : notre podium du jour (station Anker SOLIX S2000, enceinte CMF Speaker S, Garmin Instinct 3)",
+      "url": "https://www.generation-nt.com/actualites/station-electrique-portable-anker-solix-s2000-enceinte-cmf-speaker-garmin-instinct-3-montre-black-friday-promos-pas-cher-2085055",
+      "publishedAt": "2026-11-25T09:00:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Navigateurs sur iPhone : Bruxelles discute avec Apple après la lettre de Mozilla et Shopify",
       "url": "https://www.clubic.com/actualite-640852-navigateurs-sur-iphone-bruxelles-discute-avec-apple-apres-la-lettre-de-mozilla-et-shopify.html",
       "publishedAt": "2026-11-25T08:47:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Un bug pousse GTA VI à 60 fps sur Xbox Series X",
+      "url": "https://www.generation-nt.com/actualites/bug-gta-vi-xbox-fps-2085016",
+      "publishedAt": "2026-11-25T08:45:01+00:00"
     },
     {
       "source": "macg",
@@ -3824,36 +3836,6 @@
       "title": "Les AirPods Pro 3 en promo à 188€ pour le Black Friday : leur meilleur prix !",
       "url": "https://www.mac4ever.com/audio/199207-les-airpods-pro-3-en-promo-a-188-pour-le-black-friday-leur-meilleur-prix",
       "publishedAt": "2026-11-23T09:02:16+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Top 3 du jour : écran MSI MAG 24\" à 85€, clavier The G-LAB à 81€ et platine vinyle Bluetooth Sony à 179€",
-      "url": "https://www.generation-nt.com/actualites/black-friday-promos-ecran-gaming-msi-mag-242ca-the-g-lab-keyz-elite-450-bw-clavier-platine-vinyle-sony-ps-lx3bt-pas-cher-2084936",
-      "publishedAt": "2026-11-23T09:00:02+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "0,09 € le kilowattheure chez Auchan : Le Plein dégaine la recharge la moins chère de France pour Noël",
-      "url": "https://www.numerama.com/vroom/2382279-009-e-le-kilowattheure-chez-auchan-le-plein-degaine-la-recharge-la-moins-chere-de-france-pour-noel.html",
-      "publishedAt": "2026-11-23T08:58:21+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "« C’est une idée à explorer » : Emmanuel Macron confirme réfléchir à instaurer une règle d’or budgétaire dans la Constitution",
-      "url": "https://www.presse-citron.net/cest-une-idee-a-explorer-emmanuel-macron-confirme-reflechir-a-instaurer-une-regle-dor-budgetaire-dans-la-constitution/",
-      "publishedAt": "2026-11-23T08:53:20+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon CASSE encore le prix de l'iPhone 17 Pro Max, qui tombe à 1 359€",
-      "url": "https://www.clubic.com/bons-plans-638482-amazon-n-attend-pas-le-black-friday-et-fait-chuter-le-prix-de-l-iphone-17-pro-max.html",
-      "publishedAt": "2026-11-23T08:53:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Black Friday (EN DIRECT) : à J-4, les meilleures offres continuent de s’empiler sur Amazon, Fnac et Boulanger",
-      "url": "https://www.numerama.com/tech/2374925-black-friday-en-direct-a-j-4-les-meilleures-offres-continuent-de-sempiler-sur-amazon-fnac-et-boulanger.html",
-      "publishedAt": "2026-11-23T08:52:51+00:00"
     },
     {
       "source": "boulet",
