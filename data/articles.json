@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:20:40.305818+00:00",
+  "generatedAt": "2026-11-25T15:30:56.050478+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
+      "lastSuccessAt": "2026-11-25T15:30:56.050478+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "NordVPN : des abonnements dès 2,99 € par mois et trois mois offerts pour le Black Friday",
+      "url": "https://www.clubic.com/actualite-639946-nordvpn-des-abonnements-des-2-99-par-mois-et-trois-mois-offerts-pour-le-black-friday.html",
+      "publishedAt": "2026-11-25T15:30:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Pour Cyberpunk 2, CD Projekt Red ne veut pas nous faire attendre une éternité",
+      "url": "https://www.numerama.com/pop-culture/2384437-pour-cyberpunk-2-cd-projekt-red-ne-veut-pas-nous-faire-attendre-une-eternite.html",
+      "publishedAt": "2026-11-25T15:30:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "À J-2 du Black Friday, quelles sont les meilleures offres d’Amazon, Fnac et de Boulanger ?",
+      "url": "https://www.numerama.com/tech/2382555-black-friday-2026-les-meilleures-offres-en-direct-ce-mercredi-25-novembre.html",
+      "publishedAt": "2026-11-25T15:23:17+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Windows 11 : Microsoft libère plus de 860 Mo de RAM… occupés par ses propres logiciels",
+      "url": "https://www.clubic.com/actualite-640999-windows-11-microsoft-libere-plus-de-850-mo-de-ram-occupes-par-ses-propres-logiciels.html",
+      "publishedAt": "2026-11-25T15:21:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "ASUS pourrait réduire la RAM à 8 Go sur ses PC portables abordables face à la pénurie",
+      "url": "https://www.generation-nt.com/actualites/asus-ram-8go-pc-penurie-2085013",
+      "publishedAt": "2026-11-25T15:20:01+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "New York interdit les abonnements auto pour un équipement déjà installé",
@@ -176,6 +206,12 @@
       "title": "Dans les fast food, la surveillance des employés par intelligence artificielle explose",
       "url": "https://www.journaldugeek.com/2026/11/25/dans-les-fast-food-la-surveillance-des-employes-par-intelligence-artificielle-explose/",
       "publishedAt": "2026-11-25T15:01:43+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday : les écrans gaming KTC sont moins chers, c'est le moment de s'équiper !",
+      "url": "https://www.generation-nt.com/actualites/ktc-ecran-moniteur-gaming-black-friday-2084883",
+      "publishedAt": "2026-11-25T15:00:01+00:00"
     },
     {
       "source": "clubic",
@@ -1142,12 +1178,6 @@
       "title": "Huawei reconnu coupable de fraude bancaire et vol de secrets industriels aux USA",
       "url": "https://www.mac4ever.com/divers/199271-huawei-reconnu-coupable-de-fraude-bancaire-et-vol-de-secrets-industriels-aux-usa",
       "publishedAt": "2026-11-25T08:41:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "À J-2 du Black Friday, on a trié les offres d’Amazon, de la Fnac et de Boulanger pour vous (EN DIRECT)",
-      "url": "https://www.numerama.com/tech/2382555-black-friday-2026-les-meilleures-offres-en-direct-ce-mercredi-25-novembre.html",
-      "publishedAt": "2026-11-25T08:38:51+00:00"
     },
     {
       "source": "numerama",
@@ -3788,42 +3818,6 @@
       "title": "Black Friday Week : les meilleures offres du lundi 23 novembre (EN DIRECT)",
       "url": "https://www.numerama.com/tech/2382555-black-friday-week-nos-meilleures-trouvailles-du-lundi-23-novembre-mises-a-jour-en-direct.html",
       "publishedAt": "2026-11-23T15:31:17+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Aiper : c’est le moment de craquer pour un robot de piscine, jusqu’à 550 € de réduction !",
-      "url": "https://www.clubic.com/actualite-640357-black-friday-aiper-c-est-le-moment-de-craquer-pour-un-robot-de-piscine-jusqu-a-xxx-euros-de-reduction.html",
-      "publishedAt": "2026-11-23T15:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kispert se retrouve",
-      "url": "https://www.basketusa.com/?p=960068",
-      "publishedAt": "2026-11-23T15:28:39+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kispert se retrouve",
-      "url": "https://www.basketusa.com/news/960068/kispert-se-retrouve/",
-      "publishedAt": "2026-11-23T15:28:39+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Avion : le Boeing 747 de Saddam Hussein est à vendre après 35 ans à vieillir dans un hangar",
-      "url": "https://www.presse-citron.net/avion-le-boeing-747-de-saddam-hussein-est-a-vendre-apres-35-ans-a-vieillir-dans-un-hangar/",
-      "publishedAt": "2026-11-23T15:27:07+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La Suède teste le K200 en Ukraine pour abattre les drones russes à réaction !",
-      "url": "https://www.generation-nt.com/actualites/suede-k200-ukraine-drones-2084925",
-      "publishedAt": "2026-11-23T15:25:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : Cette supercar et ce garage sont gratuits mais uniquement accessible avant la fin du chapitre 3 !",
-      "url": "https://www.journaldugeek.com/2026/11/23/gta-6-cette-supercar-et-ce-garage-sont-gratuits-mais-uniquement-accessible-avant-la-fin-du-chapitre-3/",
-      "publishedAt": "2026-11-23T15:23:20+00:00"
     },
     {
       "source": "boulet",
