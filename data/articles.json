@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:01:05.832104+00:00",
+  "generatedAt": "2026-11-25T18:10:42.361694+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T18:01:05.832104+00:00"
+      "lastSuccessAt": "2026-11-25T18:10:42.361694+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Shuttle lance un mini PC ultra-compact de 0,4 litre avec processeur Intel Wildcat Lake",
+      "url": "https://www.clubic.com/actualite-641047-shuttle-lance-un-mini-pc-ultra-compact-de-0-4-litre-avec-processeur-intel-wildcat-lake.html",
+      "publishedAt": "2026-11-25T18:10:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Profitez de licences Microsoft Office à prix réduit chez Godeal24 !",
+      "url": "https://www.mac4ever.com/mac/199227-profitez-de-licences-microsoft-office-a-prix-reduit-chez-godeal24",
+      "publishedAt": "2026-11-25T18:10:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Markelle Fultz retente sa chance en G-League",
+      "url": "https://www.basketusa.com/news/964198/markelle-fultz-retente-sa-chance-en-g-league/",
+      "publishedAt": "2026-11-25T18:02:07+00:00"
+    },
     {
       "source": "clubic",
       "title": "Huawei reconnu coupable aux États-Unis de vol de secrets commerciaux et de trafic avec l'Iran",
@@ -3884,12 +3902,6 @@
       "title": "Brandin Podziemski a débloqué les Warriors dans le « money time »",
       "url": "https://www.basketusa.com/news/960087/brandin-podziemski-a-debloque-les-warriors-dans-le-money-time/",
       "publishedAt": "2026-11-23T18:15:18+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La police de Shanghai démantèle un trafic de fausses figurines Tifa Lockhart",
-      "url": "https://www.generation-nt.com/actualites/police-shanghai-demantele-figurines-tifa-2084916",
-      "publishedAt": "2026-11-23T18:05:01+00:00"
     },
     {
       "source": "boulet",
