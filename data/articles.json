@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T07:50:38.250667+00:00",
+  "generatedAt": "2026-11-25T08:01:09.325224+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     },
     {
       "id": "tda",
@@ -118,8 +118,8 @@
       "group": "Sport",
       "language": "fr",
       "icon": "icons/tda.png",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "<urlopen error timed out>",
       "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
+      "lastSuccessAt": "2026-11-25T08:01:09.325224+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Instagram et IA Muse : allez-vous laisser un yéti organiser vos photos, vos recettes et vos voyages",
+      "url": "https://www.mac4ever.com/ia/199269-instagram-et-ia-muse-allez-vous-laisser-un-yeti-organiser-vos-photos-vos-recettes-et-vos-voyages",
+      "publishedAt": "2026-11-25T07:57:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Tyrese Haliburton, la bonne surprise du week-end pour les Pacers ?",
+      "url": "https://www.basketusa.com/news/963797/tyrese-haliburton-la-bonne-surprise-du-week-end-pour-les-pacers/",
+      "publishedAt": "2026-11-25T07:54:20+00:00"
+    },
     {
       "source": "iphon",
       "title": "MacBook : on tient peut-être le détournement du siècle",
@@ -146,6 +158,12 @@
       "title": "Kagi lance son service de mail en bêta publique",
       "url": "https://www.clubic.com/actualite-640843-kagi-lance-son-service-de-mail-en-beta-publique.html",
       "publishedAt": "2026-11-25T07:46:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "New York interdit les abonnements pour les fonctions déjà installées dans votre voiture",
+      "url": "https://www.generation-nt.com/actualites/new-york-interdit-abonnements-voiture-2085030",
+      "publishedAt": "2026-11-25T07:45:01+00:00"
     },
     {
       "source": "clubic",
@@ -472,12 +490,6 @@
       "publishedAt": "2026-11-24T18:30:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Quand Oscar Robertson débutait son combat pour créer la free agency",
-      "url": "https://www.basketusa.com/news/374300/oscar-robertson-creation-free-agency/",
-      "publishedAt": "2026-11-24T18:24:04+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Bornes de recharge : toujours plus de vols, toujours moins de nouvelles installations",
       "url": "https://www.clubic.com/actualite-640879-bornes-de-recharge-toujours-plus-de-vols-toujours-moins-de-nouvelles-installations.html",
@@ -542,6 +554,12 @@
       "title": "Comtech et les Marines américains établissent une liaison troposphérique record de 301 km à Hawaï",
       "url": "https://www.generation-nt.com/actualites/comtech-marines-liaison-tropospherique-hawai-2084971",
       "publishedAt": "2026-11-24T17:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Quand Oscar Robertson débutait son combat pour créer la free agency",
+      "url": "https://www.basketusa.com/news/374300/oscar-robertson-creation-free-agency/",
+      "publishedAt": "2026-11-24T17:24:04+00:00"
     },
     {
       "source": "clubic",
@@ -688,16 +706,16 @@
       "publishedAt": "2026-11-24T16:12:22+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "New York Knicks – Cleveland Cavaliers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/963752/new-york-knicks-cleveland-calaviers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-24T16:10:45+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Un drone d'Amazon percute un câble et s'écrase sur un garage au Michigan",
       "url": "https://www.generation-nt.com/actualites/drone-amazon-percute-cable-garage-2084965",
       "publishedAt": "2026-11-24T16:10:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Oklahoma City Thunder – Minnesota Timberwolves : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/963760/oklahoma-city-thunder-minnesota-timberwolves-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-24T16:08:40+00:00"
     },
     {
       "source": "presse",
@@ -886,16 +904,16 @@
       "publishedAt": "2026-11-24T15:10:51+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "New York Knicks – Cleveland Cavaliers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/963752/new-york-knicks-cleveland-calaviers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-24T15:10:45+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Google purge sa page d'accueil du bouton de recherche",
       "url": "https://www.generation-nt.com/actualites/google-page-accueil-moteur-recherche-bouton-gemini-2084928",
       "publishedAt": "2026-11-24T15:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Oklahoma City Thunder – Minnesota Timberwolves : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/963760/oklahoma-city-thunder-minnesota-timberwolves-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-24T15:08:40+00:00"
     },
     {
       "source": "korben",
@@ -3824,24 +3842,6 @@
       "title": "Les chiffres officiels de GTA 6 sont tombés : c’est “le plus grand lancement de l’histoire du divertissement”",
       "url": "https://www.journaldugeek.com/2026/11/23/les-chiffres-officiels-de-gta-6-sont-tombes-cest-le-plus-grand-lancement-de-lhistoire-du-divertissement/",
       "publishedAt": "2026-11-23T08:02:41+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Gabe Vincent vient renforcer les Kings",
-      "url": "https://www.basketusa.com/news/959853/gabe-vincent-vient-renforcer-les-kings/",
-      "publishedAt": "2026-11-23T07:57:17+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Data centers, l'Irlande en avale 22 % de son électricité et dit stop",
-      "url": "https://korben.info/data-centers-lirlande-en-avale-22-de-son-electricite-et-dit-stop.html",
-      "publishedAt": "2026-11-23T07:56:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Sur l’iPhone Duo, Apple imagine une curieuse barre de widgets sur l’écran extérieur",
-      "url": "https://www.mac4ever.com/iphone/199196-sur-l-iphone-duo-apple-imagine-une-curieuse-barre-de-widgets-sur-l-ecran-exterieur",
-      "publishedAt": "2026-11-23T07:51:00+00:00"
     },
     {
       "source": "boulet",
