@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:01:03.214478+00:00",
+  "generatedAt": "2026-11-25T10:10:42.399288+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:01:03.214478+00:00"
+      "lastSuccessAt": "2026-11-25T10:10:42.399288+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Cliff Booth : des images IA ratées plombent le film de Fincher sur Netflix ?",
+      "url": "https://www.mac4ever.com/ia/199277-cliff-booth-des-images-ia-ratees-plombent-le-film-de-fincher-sur-netflix",
+      "publishedAt": "2026-11-25T10:10:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le Magic pris au piège de ses ballons perdus",
+      "url": "https://www.basketusa.com/news/963850/le-magic-pris-au-piege-de-ses-ballons-perdus/",
+      "publishedAt": "2026-11-25T10:03:01+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Red Dead Redemption bientôt adapté en série ? Rockstar serait prêt à vendre les droits à Hollywood",
+      "url": "https://www.journaldugeek.com/2026/11/25/red-dead-redemption-bientot-adapte-en-serie-rockstar-serait-pret-a-vendre-les-droits-a-hollywood/",
+      "publishedAt": "2026-11-25T10:01:33+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
@@ -808,6 +826,12 @@
       "publishedAt": "2026-11-24T18:30:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Quand Oscar Robertson débutait son combat pour créer la free agency",
+      "url": "https://www.basketusa.com/news/374300/oscar-robertson-creation-free-agency/",
+      "publishedAt": "2026-11-24T18:24:04+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Bornes de recharge : toujours plus de vols, toujours moins de nouvelles installations",
       "url": "https://www.clubic.com/actualite-640879-bornes-de-recharge-toujours-plus-de-vols-toujours-moins-de-nouvelles-installations.html",
@@ -872,12 +896,6 @@
       "title": "Comtech et les Marines américains établissent une liaison troposphérique record de 301 km à Hawaï",
       "url": "https://www.generation-nt.com/actualites/comtech-marines-liaison-tropospherique-hawai-2084971",
       "publishedAt": "2026-11-24T17:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Quand Oscar Robertson débutait son combat pour créer la free agency",
-      "url": "https://www.basketusa.com/news/374300/oscar-robertson-creation-free-agency/",
-      "publishedAt": "2026-11-24T17:24:04+00:00"
     },
     {
       "source": "clubic",
@@ -3794,30 +3812,6 @@
       "title": "Siri : Apple taille dans ses effectifs, sans régler ses difficultés",
       "url": "https://www.mac4ever.com/ia/199197-siri-apple-taille-dans-ses-effectifs-sans-regler-ses-difficultes",
       "publishedAt": "2026-11-23T10:11:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "\"Une taxe énorme\" : Trump veut sanctionner tous ceux qui délocalisent leurs data centers à l'étranger",
-      "url": "https://www.clubic.com/actualite-640513-une-taxe-enorme-trump-veut-sanctionner-tous-ceux-qui-delocalisent-leurs-data-centers-a-l-etranger.html",
-      "publishedAt": "2026-11-23T10:08:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Anthropic : une panne est en cours sur les modèles de Claude",
-      "url": "https://www.numerama.com/tech/2382463-anthropic-une-panne-est-en-cours-sur-les-modeles-de-claude.html",
-      "publishedAt": "2026-11-23T10:05:37+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Plex supprime le support de TheTVDB dès le 3 décembre et agace ses utilisateurs",
-      "url": "https://www.generation-nt.com/actualites/plex-supprime-support-thetvdb-decembre-2084912",
-      "publishedAt": "2026-11-23T10:05:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Burger King : on a testé la commande sur WhatsApp, et c’est très efficace",
-      "url": "https://www.journaldugeek.com/2026/11/23/burger-king-on-a-teste-la-commande-sur-whatsapp-et-cest-tres-efficace/",
-      "publishedAt": "2026-11-23T10:01:51+00:00"
     },
     {
       "source": "boulet",
