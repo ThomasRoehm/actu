@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T05:50:38.608520+00:00",
+  "generatedAt": "2026-11-25T06:00:59.391736+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T05:50:38.608520+00:00"
+      "lastSuccessAt": "2026-11-25T06:00:59.391736+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "World of Warcraft sur Xbox : toutes les façons d'y jouer sur console",
+      "url": "https://www.generation-nt.com/actualites/world-of-warcraft-xbox-comment-jouer-console-2085036",
+      "publishedAt": "2026-11-25T06:00:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Free retire la prise TNT de son nouveau décodeur TV 4K",
+      "url": "https://www.clubic.com/actualite-640900-free-retire-la-prise-tnt-de-son-nouveau-decodeur-tv-4k.html",
+      "publishedAt": "2026-11-25T06:00:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Piratage de la DGAC : des données de pilotes et des cryptogrammes bancaires ont fuité",
+      "url": "https://www.generation-nt.com/actualites/piratage-dgac-donnees-pilotes-cryptogrammes-2085034",
+      "publishedAt": "2026-11-25T05:30:01+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Même sans Cade Cunningham, les Pistons étouffent le Magic",
@@ -142,16 +160,16 @@
       "publishedAt": "2026-11-25T05:15:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Celtics se font une énorme frayeur à Washington",
-      "url": "https://www.basketusa.com/news/963812/les-celtics-se-font-une-enorme-frayeur-a-washington/",
-      "publishedAt": "2026-11-25T04:50:59+00:00"
-    },
-    {
       "source": "tda",
       "title": "Steelers : Aaron Rodgers mis sur le banc !",
       "url": "https://touchdownactu.com/361866/steelers-aaron-rodgers-mis-sur-le-banc/",
       "publishedAt": "2026-11-25T04:44:34+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Celtics se font une énorme frayeur à Washington",
+      "url": "https://www.basketusa.com/news/963812/les-celtics-se-font-une-enorme-frayeur-a-washington/",
+      "publishedAt": "2026-11-25T03:50:59+00:00"
     },
     {
       "source": "macg",
@@ -3776,42 +3794,6 @@
       "title": "Windows 11 déploie une nouvelle recherche native sous WinUI 3 avec la mise à jour KB5132057",
       "url": "https://www.generation-nt.com/actualites/windows-11-recherche-native-kb5132057-2084910",
       "publishedAt": "2026-11-23T06:05:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Votre chat ne miaule pas pour rien : il attend quelque chose de vous",
-      "url": "https://www.journaldugeek.com/2026/11/23/votre-chat-ne-miaule-pas-pour-rien-il-attend-quelque-chose-de-vous/",
-      "publishedAt": "2026-11-23T06:00:43+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "J’ai testé le Xiaomi 18 Pro Max : deux écrans sur un téléphone, cela change-t-il vraiment la donne ?",
-      "url": "https://www.presse-citron.net/xiaomi-18-pro-max-test/",
-      "publishedAt": "2026-11-23T06:00:07+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Test aspirateur anti-acariens JIMMY BX8 Pro : chauffage, UV-C, brume aromatique",
-      "url": "https://www.generation-nt.com/tests/test-jimmy-bx8-pro-aspirateur-acarien-2084361",
-      "publishedAt": "2026-11-23T06:00:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Une cyberattaque frappe le CHU de Guadeloupe en plein déménagement",
-      "url": "https://www.clubic.com/actualite-640504-guadeloupe-le-chu-frappe-par-une-cyberattaque-massive-le-plan-blanc-declenche.html",
-      "publishedAt": "2026-11-23T06:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Google a repéré des pirates qui laissent l’IA trouver et exploiter des failles",
-      "url": "https://www.clubic.com/actualite-640495-google-a-repere-des-pirates-qui-laissent-l-ia-trouver-et-exploiter-des-failles.html",
-      "publishedAt": "2026-11-23T06:00:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 : les meilleures offres de la Black Week Amazon ce lundi, notre TOP 100 jusqu’à -67%",
-      "url": "https://www.clubic.com/bons-plans-640309-black-friday-amazon-les-meilleures-offres-de-la-black-week-a-saisir-ce-week-end-notre-top-100-jusqu-a--67.html",
-      "publishedAt": "2026-11-23T06:00:00+00:00"
     },
     {
       "source": "boulet",
