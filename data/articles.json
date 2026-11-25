@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T07:40:38.640616+00:00",
+  "generatedAt": "2026-11-25T07:50:38.250667+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
+      "lastSuccessAt": "2026-11-25T07:50:38.250667+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "MacBook : on tient peut-être le détournement du siècle",
+      "url": "https://www.iphon.fr/post/macbook-son-via-trackpad-no-speaker",
+      "publishedAt": "2026-11-25T07:46:58+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Kagi lance son service de mail en bêta publique",
+      "url": "https://www.clubic.com/actualite-640843-kagi-lance-son-service-de-mail-en-beta-publique.html",
+      "publishedAt": "2026-11-25T07:46:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Le mini PC NiPoGi AM06 Pro avec Ryzen 5, 16+512 Go et triple affichage 4K perd 126 € pour le Black Friday",
+      "url": "https://www.clubic.com/bons-plans-640822-le-mini-pc-nipogi-am06-pro-avec-ryzen-5-16-512-go-et-triple-affichage-4k-perd-126-pour-le-black-friday.html",
+      "publishedAt": "2026-11-25T07:44:00+00:00"
+    },
     {
       "source": "presse",
       "title": "Porsche a imaginé un système digne d’un avion de chasse pour permettre à ses sportives de prendre les virages à pleine vitesse",
@@ -682,12 +700,6 @@
       "publishedAt": "2026-11-24T16:10:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Oklahoma City Thunder – Minnesota Timberwolves : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/963760/oklahoma-city-thunder-minnesota-timberwolves-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-24T16:08:40+00:00"
-    },
-    {
       "source": "presse",
       "title": "Corox écrase Garmin avec la Vertix 4 : 60h d’autonomie, lampe torche et 64 Go de stockage pour 300 euros de moins qu’une Fenix 9",
       "url": "https://www.presse-citron.net/corox-ecrase-garmin-avec-la-vertix-4-60h-dautonomie-lampe-torche-et-64-go-de-stockage-pour-300-euros-de-moins-quune-fenix-9/",
@@ -878,6 +890,12 @@
       "title": "Google purge sa page d'accueil du bouton de recherche",
       "url": "https://www.generation-nt.com/actualites/google-page-accueil-moteur-recherche-bouton-gemini-2084928",
       "publishedAt": "2026-11-24T15:10:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Oklahoma City Thunder – Minnesota Timberwolves : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/963760/oklahoma-city-thunder-minnesota-timberwolves-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-24T15:08:40+00:00"
     },
     {
       "source": "korben",
@@ -3824,12 +3842,6 @@
       "title": "Sur l’iPhone Duo, Apple imagine une curieuse barre de widgets sur l’écran extérieur",
       "url": "https://www.mac4ever.com/iphone/199196-sur-l-iphone-duo-apple-imagine-une-curieuse-barre-de-widgets-sur-l-ecran-exterieur",
       "publishedAt": "2026-11-23T07:51:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Comment Signal va empêcher les IA de lire vos messages",
-      "url": "https://www.clubic.com/actualite-640471-comment-signal-va-empecher-les-ia-de-lire-vos-messages.html",
-      "publishedAt": "2026-11-23T07:43:00+00:00"
     },
     {
       "source": "boulet",
