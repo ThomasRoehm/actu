@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:50:40.053019+00:00",
+  "generatedAt": "2026-11-25T16:10:42.986960+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
+      "lastSuccessAt": "2026-11-25T16:10:42.986960+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Black Friday : AirPods Pro 3, MacBook Air M5, AirTag 2… les offres Apple qui valent le coup avant Noël",
+      "url": "https://www.numerama.com/tech/2384687-black-friday-airpods-pro-3-macbook-air-m5-airtag-2-les-offres-apple-qui-valent-le-coup-avant-noel.html",
+      "publishedAt": "2026-11-25T16:06:45+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Il fait tourner le vrai bureau de Windows XP sur Linux : la démo qui fascine les internautes",
+      "url": "https://www.clubic.com/actualite-640975-il-fait-tourner-le-vrai-bureau-de-windows-xp-sur-linux-la-demo-qui-fascine-les-internautes.html",
+      "publishedAt": "2026-11-25T16:03:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : Comment débloquer les tempêtes et ouragans dans le jeu ? (mission secrète)",
+      "url": "https://www.journaldugeek.com/2026/11/25/gta-6-comment-debloquer-les-tempetes-et-ouragans-dans-le-jeu-mission-secrete/",
+      "publishedAt": "2026-11-25T16:02:47+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "À J-2 du Black Friday, Amazon CASSE le prix de 19 PC portables, dès 449€",
+      "url": "https://www.clubic.com/bons-plans-638686-black-friday-amazon-baisse-le-prix-de-6-pc-portables-du-hp-17-pouces-au-lenovo-yoga-oled.html",
+      "publishedAt": "2026-11-25T15:52:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "L'enceinte Beats Pill chute à -42% pour le Black Friday : son prix le plus bas !",
+      "url": "https://www.mac4ever.com/audio/199296-l-enceinte-beats-pill-chute-a-42-pour-le-black-friday-son-prix-le-plus-bas",
+      "publishedAt": "2026-11-25T15:51:13+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "IA, semi-conducteurs, quantique : l’Europe veut mettre 50 milliards d’euros sur la table",
@@ -164,6 +194,12 @@
       "title": "Amazon brade ses nouveaux Echo Show et Studio : jusqu'à -61% pour le Black Friday !",
       "url": "https://www.mac4ever.com/domotique/199295-amazon-brade-ses-nouveaux-echo-show-et-studio-jusqu-a-61-pour-le-black-friday",
       "publishedAt": "2026-11-25T15:41:05+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Claude transforme ses artefacts en applications pour ordinateur",
+      "url": "https://www.generation-nt.com/actualites/claude-anthropic-artefacts-applications-mac-windows-2085046",
+      "publishedAt": "2026-11-25T15:40:01+00:00"
     },
     {
       "source": "jdg",
@@ -389,7 +425,7 @@
     },
     {
       "source": "gnt",
-      "title": "Les patrouilleurs spatiaux français YODA voleront avec SpaceX et Impulse Space",
+      "title": "Les satellites français de surveillance YODA devront décoller avec SpaceX et Impulse Space",
       "url": "https://www.generation-nt.com/actualites/france-satellite-defense-spatiale-yoda-toutatis-impulse-space-2085065",
       "publishedAt": "2026-11-25T14:15:01+00:00"
     },
@@ -791,7 +827,7 @@
     },
     {
       "source": "gnt",
-      "title": "Le cours du Bitcoin retombe sous les 60 000 dollars, la relance de Nvidia n'a pas suffi",
+      "title": "Le cours du Bitcoin retombe sous les 60 000 dollars, la relance de Nvidia n'aura pas suffi",
       "url": "https://www.generation-nt.com/actualites/bitcoin-chute-valeur-cours-cryptomonnaie-pessimisme-2085061",
       "publishedAt": "2026-11-25T11:10:01+00:00"
     },
@@ -830,6 +866,12 @@
       "title": "Orange Cheat_Code Fibre_18_26 : la box ultra-rapide à moitié prix pour les moins de 27 ans",
       "url": "https://www.generation-nt.com/actualites/orange-cheat-code-fibre-18-26-box-pas-cher-etudiants-2085056",
       "publishedAt": "2026-11-25T11:00:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
+      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
+      "publishedAt": "2026-11-25T10:57:14+00:00"
     },
     {
       "source": "presse",
@@ -986,12 +1028,6 @@
       "title": "Red Dead Redemption bientôt adapté en série ? Rockstar serait prêt à vendre les droits à Hollywood",
       "url": "https://www.journaldugeek.com/2026/11/25/red-dead-redemption-bientot-adapte-en-serie-rockstar-serait-pret-a-vendre-les-droits-a-hollywood/",
       "publishedAt": "2026-11-25T10:01:33+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
-      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
-      "publishedAt": "2026-11-25T09:57:14+00:00"
     },
     {
       "source": "gnt",
@@ -1372,6 +1408,12 @@
       "publishedAt": "2026-11-25T07:29:47+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
+      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
+      "publishedAt": "2026-11-25T07:27:10+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Donald Trump encaisse des millions grâce au sauvetage de Jensen Huang chez Nvidia",
       "url": "https://www.generation-nt.com/actualites/donald-trump-investissement-nvidia-sauvetage-jensen-huang-2085028",
@@ -1490,12 +1532,6 @@
       "title": "Tesla : malgré des puces à bout de souffle, le FSD v15 en met plein les yeux",
       "url": "https://www.journaldugeek.com/2026/11/25/tesla-malgre-des-puces-a-bout-de-souffle-le-fsd-v15-en-met-plein-les-yeux/",
       "publishedAt": "2026-11-25T06:28:39+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
-      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
-      "publishedAt": "2026-11-25T06:27:10+00:00"
     },
     {
       "source": "macg",
@@ -3770,72 +3806,6 @@
       "title": "Le Black Friday coupe le cordon : la souris gaming sans fil Logitech G502 X PLUS passe à 79,99€ chez Amazon",
       "url": "https://www.clubic.com/bons-plans-640552-le-black-friday-coupe-le-cordon-la-souris-gaming-sans-fil-logitech-g502-x-plus-passe-a-79-99-chez-amazon.html",
       "publishedAt": "2026-11-23T16:15:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Sauvegardes cassées, missions bloquées... GTA 6 reçoit son premier patch depuis sa sortie sur PS5 et Xbox",
-      "url": "https://www.clubic.com/actualite-640666-sauvegardes-cassees-missions-bloquees-gta-6-recoit-son-premier-patch-depuis-sa-sortie-sur-ps5-et-xbox.html",
-      "publishedAt": "2026-11-23T16:08:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Le Sony WH-1000XM6 est à son meilleur prix sur Amazon au Black Friday (-30%)",
-      "url": "https://www.iphon.fr/post/sony-wh-1000xm6-meilleur-prix-amazon-black-friday",
-      "publishedAt": "2026-11-23T16:07:29+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 sur PC : une version pirate est en ligne, mais le jeu ne se lance pas encore",
-      "url": "https://www.numerama.com/tech/2382377-gta-6-sur-pc-une-version-pirate-des-aujourdhui.html",
-      "publishedAt": "2026-11-23T16:06:02+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le futur chasseur de la RAF sera-t-il le dernier avec un pilote ?",
-      "url": "https://www.generation-nt.com/actualites/futur-chasseur-raf-dernier-pilote-2084918",
-      "publishedAt": "2026-11-23T16:05:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Coup dur pour Nolan Traoré, sur le flanc au moins deux mois !",
-      "url": "https://www.basketusa.com/news/961044/coup-dur-pour-nolan-traore-sur-le-flanc-au-moins-deux-mois/",
-      "publishedAt": "2026-11-23T16:04:45+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Kodak SlideTag : allez-vous craquer pour ce mini cadre photo numérique qui sert aussi de tracker ?",
-      "url": "https://www.mac4ever.com/culture/199219-kodak-slidetag-allez-vous-craquer-pour-ce-mini-cadre-photo-numerique-qui-sert-aussi-de-tracker",
-      "publishedAt": "2026-11-23T16:02:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "En Chine l’arrivée des panneaux solaires a même fait reculer le désert",
-      "url": "https://www.journaldugeek.com/2026/11/23/en-chine-larrivee-des-panneaux-solaires-a-meme-fait-reculer-le-desert/",
-      "publishedAt": "2026-11-23T16:01:07+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Avec Nyx de The Exploration Company, l’Europe tient peut-être sa première capsule pour le vol habité : pourquoi ça change tout",
-      "url": "https://www.presse-citron.net/avec-nyx-de-the-exploration-company-leurope-tient-peut-etre-sa-premiere-capsule-pour-le-vol-habite-pourquoi-ca-change-tout/",
-      "publishedAt": "2026-11-23T16:00:48+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le « boss final » des mathématiques : après Riemann, tous les regards se tournent vers P vs NP",
-      "url": "https://www.numerama.com/tech/2382757-le-boss-final-des-mathematiques-apres-riemann-tous-les-regards-se-tournent-vers-p-vs-np.html",
-      "publishedAt": "2026-11-23T15:57:32+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le casque Beats Studio Pro chute à 159€ pour le Black Friday : une alternative aux AirPods Max !",
-      "url": "https://www.mac4ever.com/audio/199226-le-casque-beats-studio-pro-chute-a-159-pour-le-black-friday-une-alternative-aux-airpods-max",
-      "publishedAt": "2026-11-23T15:56:56+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "GTA 6 : deux adolescents volent un bus pour faire comme dans leur jeu favori... et finissent dans le fossé",
-      "url": "https://www.clubic.com/actualite-640654-gta-6-deux-adolescents-volent-un-bus-pour-faire-comme-leur-jeu-favori-et-finissent-dans-le-fosse.html",
-      "publishedAt": "2026-11-23T15:53:00+00:00"
     },
     {
       "source": "boulet",
