@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:10:42.101379+00:00",
+  "generatedAt": "2026-11-25T15:20:40.305818+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:10:42.101379+00:00"
+      "lastSuccessAt": "2026-11-25T15:20:40.305818+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "New York interdit les abonnements auto pour un équipement déjà installé",
+      "url": "https://www.mac4ever.com/auto/199294-new-york-interdit-les-abonnements-auto-pour-un-equipement-deja-installe",
+      "publishedAt": "2026-11-25T15:20:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Elle voulait juste aider sa fille : le Fisc repère le don non-déclaré, ce virement lui a coûté une fortune",
+      "url": "https://www.presse-citron.net/elle-voulait-juste-aider-sa-fille-le-fisc-repere-le-don-non-declare-ce-virement-lui-a-coute-une-fortune/",
+      "publishedAt": "2026-11-25T15:18:14+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Les anneaux de pouvoir : explications de la fin de la saison 3 et de ses conséquences pour la suite",
+      "url": "https://www.journaldugeek.com/2026/11/25/les-anneaux-de-pouvoir-explications-de-la-fin-de-la-saison-3-et-de-ses-consequences-pour-la-suite/",
+      "publishedAt": "2026-11-25T15:14:47+00:00"
+    },
     {
       "source": "numerama",
       "title": "SNCF Intercités : pourquoi vous ne pouvez toujours pas réserver vos trajets en train pour le printemps",
@@ -3806,24 +3824,6 @@
       "title": "GTA 6 : Cette supercar et ce garage sont gratuits mais uniquement accessible avant la fin du chapitre 3 !",
       "url": "https://www.journaldugeek.com/2026/11/23/gta-6-cette-supercar-et-ce-garage-sont-gratuits-mais-uniquement-accessible-avant-la-fin-du-chapitre-3/",
       "publishedAt": "2026-11-23T15:23:20+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Contrôle vocal : déverrouiller son iPhone à la voix comme au temps de Mac OS 9",
-      "url": "https://www.macg.co/video/2026/11/controle-vocal-deverrouiller-son-iphone-la-voix-comme-au-temps-de-mac-os-9-312601",
-      "publishedAt": "2026-11-23T15:20:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Switch 2 : n’attendez pas le 27, Amazon baisse déjà la console, les packs et les manettes",
-      "url": "https://www.clubic.com/bons-plans-638674-le-black-friday-n-a-pas-encore-commence-mais-la-switch-2-est-deja-repassee-sous-la-barre-des-430.html",
-      "publishedAt": "2026-11-23T15:20:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "🔴 Rockstar sort une mise à jour GTA 6 sur PS5 et Xbox : que contient-elle ?",
-      "url": "https://www.presse-citron.net/rockstar-mise-jour-gta-6-sur-ps5-et-xbox-que-contient-elle/",
-      "publishedAt": "2026-11-23T15:15:34+00:00"
     },
     {
       "source": "boulet",
