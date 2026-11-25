@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:40:39.238635+00:00",
+  "generatedAt": "2026-11-25T10:50:40.580502+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T10:40:39.238635+00:00"
+      "lastSuccessAt": "2026-11-25T10:50:40.580502+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday s’adresse aussi aux mélomanes : l’enceinte Sonos Era 100 SL descend à 149,99€ sur Amazon",
+      "url": "https://www.clubic.com/bons-plans-640933-le-black-friday-s-adresse-aussi-aux-melomanes-l-enceinte-sonos-era-100-sl-descend-a-149-99-sur-amazon.html",
+      "publishedAt": "2026-11-25T10:47:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Suzuki relance l’Ignis en électrique pour concurrencer la Twingo, avec beaucoup de questions sans réponse",
+      "url": "https://www.numerama.com/vroom/2384331-suzuki-relance-lignis-en-electrique-pour-concurrencer-la-twingo-avec-beaucoup-de-questions-sans-reponse.html",
+      "publishedAt": "2026-11-25T10:45:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Revolut, Trade Republic, BoursoBank… : les néobanques font trembler les banques classiques, avec 140 millions d’utilisateurs et une croissance insolente",
+      "url": "https://www.presse-citron.net/revolut-trade-republic-boursobank-avec-140-millions-dutilisateurs-et-une-croissance-insolente-les-neobanques-font-trembler-les-banques-classiques/",
+      "publishedAt": "2026-11-25T10:44:47+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Echo Show 8 : Amazon brade son écran connecté avec Alexa+ à -50 % au Black Friday",
+      "url": "https://www.iphon.fr/post/echo-show-8-amazon-brade-ecran-connecte-alexa-plus-50-pourcents-black-friday",
+      "publishedAt": "2026-11-25T10:42:19+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Auchan affiche la recharge la moins chère de France, mais attention aux petites lignes",
@@ -616,6 +640,12 @@
       "publishedAt": "2026-11-25T07:29:47+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
+      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
+      "publishedAt": "2026-11-25T07:27:10+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Donald Trump encaisse des millions grâce au sauvetage de Jensen Huang chez Nvidia",
       "url": "https://www.generation-nt.com/actualites/donald-trump-investissement-nvidia-sauvetage-jensen-huang-2085028",
@@ -746,12 +776,6 @@
       "title": "Tesla : malgré des puces à bout de souffle, le FSD v15 en met plein les yeux",
       "url": "https://www.journaldugeek.com/2026/11/25/tesla-malgre-des-puces-a-bout-de-souffle-le-fsd-v15-en-met-plein-les-yeux/",
       "publishedAt": "2026-11-25T06:28:39+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
-      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
-      "publishedAt": "2026-11-25T06:27:10+00:00"
     },
     {
       "source": "macg",
@@ -1246,6 +1270,12 @@
       "publishedAt": "2026-11-24T15:37:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Audiences TV : le pari gagnant de la NBA",
+      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
+      "publishedAt": "2026-11-24T15:33:30+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Disneyland, Astérix, Futuroscope… voici le programme de Noël des parcs d’attractions",
       "url": "https://www.journaldugeek.com/2026/11/24/disneyland-asterix-futuroscope-voici-le-programme-de-noel-des-parcs-dattractions/",
@@ -1394,12 +1424,6 @@
       "title": "La voiture électrique reste la motorisation numéro 1 en France, pendant que l’essence plonge",
       "url": "https://www.presse-citron.net/la-voiture-electrique-reste-la-motorisation-numero-1-en-france-pendant-que-lessence-plonge/",
       "publishedAt": "2026-11-24T14:34:09+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Audiences TV : le pari gagnant de la NBA",
-      "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
-      "publishedAt": "2026-11-24T14:33:30+00:00"
     },
     {
       "source": "gnt",
@@ -3776,48 +3800,6 @@
       "title": "Lucid Cosmos : le rival du Tesla Model Y est prêt, mais pas avant fin 2027",
       "url": "https://www.mac4ever.com/auto/199204-lucid-cosmos-le-rival-du-tesla-model-y-est-pret-mais-pas-avant-fin-2027",
       "publishedAt": "2026-11-23T10:51:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Microsoft commence à tourner la page des applications 32 bits et change ses règles de compatibilité",
-      "url": "https://www.clubic.com/actualite-640546-microsoft-commence-a-tourner-la-page-des-applications-32-bits-et-change-ses-regles-de-compatibilite.html",
-      "publishedAt": "2026-11-23T10:48:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Windows 11 : Microsoft permet d’additionner la mémoire de plusieurs PC en USB4 pour faire tourner de grosses IA",
-      "url": "https://www.clubic.com/actualite-640519-windows-11-microsoft-permet-d-additionner-la-memoire-de-plusieurs-pc-en-usb4-pour-faire-tourner-de-grosses-ia.html",
-      "publishedAt": "2026-11-23T10:48:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Mohamed Diawara et Pacôme Dadiet en duel pour des minutes",
-      "url": "https://www.basketusa.com/news/959998/mohamed-diawara-et-pacome-dadiet-en-duel-pour-des-minutes/",
-      "publishedAt": "2026-11-23T10:46:59+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« On fait ce qu’on peut avec les outils qu’on a » : Signal part en guerre contre deux agents IA d’Apple et Google",
-      "url": "https://www.numerama.com/cyberguerre/2382355-on-fait-ce-quon-peut-avec-les-outils-quon-a-signal-part-en-guerre-contre-deux-agents-ia-dapple-et-google.html",
-      "publishedAt": "2026-11-23T10:45:43+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Comment réparer sa voiture gratuitement dans GTA 6 ?",
-      "url": "https://www.numerama.com/pop-culture/2382343-comment-reparer-sa-voiture-gratuitement-dans-gta-6.html",
-      "publishedAt": "2026-11-23T10:45:42+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Renault alerte : les nouvelles normes européennes vont faire gonfler les prix des voitures de 6000 euros",
-      "url": "https://www.generation-nt.com/actualites/renault-prix-voitures-normes-europeennes-2084926",
-      "publishedAt": "2026-11-23T10:45:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Google peine à rentabiliser son IA, et Apple pourrait en faire les frais",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/google-peine-rentabiliser-son-ia-et-apple-pourrait-en-faire-les-frais-312595",
-      "publishedAt": "2026-11-23T10:42:08+00:00"
     },
     {
       "source": "boulet",
