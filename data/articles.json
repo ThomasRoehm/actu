@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:30:51.608147+00:00",
+  "generatedAt": "2026-11-25T08:40:38.807752+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,45 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T08:30:51.608147+00:00"
+      "lastSuccessAt": "2026-11-25T08:40:38.807752+00:00"
     }
   ],
   "articles": [
     {
+      "source": "numerama",
+      "title": "À J-2 du Black Friday, on a trié les offres d’Amazon, de la Fnac et de Boulanger pour vous (EN DIRECT)",
+      "url": "https://www.numerama.com/tech/2382555-black-friday-2026-les-meilleures-offres-en-direct-ce-mercredi-25-novembre.html",
+      "publishedAt": "2026-11-25T08:38:51+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Un homme, un bouton rouge : si Ariane 6 dérape, c’est lui seul qui décide si la fusée explose ou non",
+      "url": "https://www.numerama.com/sciences/2383871-un-homme-un-bouton-rouge-si-ariane-6-derape-cest-lui-seul-qui-decide-si-la-fusee-explose-ou-non.html",
+      "publishedAt": "2026-11-25T08:37:07+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-25T08:26:00+00:00"
+      "publishedAt": "2026-11-25T08:33:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Alerte faille critique : si vous utilisez Google Chrome, vous devez immédiatement mettre à jour votre navigateur",
+      "url": "https://www.journaldugeek.com/2026/11/25/alerte-faille-critique-si-vous-utilisez-google-chrome-vous-devez-immediatement-mettre-a-jour-votre-navigateur/",
+      "publishedAt": "2026-11-25T08:32:05+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Même sans leurs leaders, les Pistons restent fidèles à leur ADN",
+      "url": "https://www.basketusa.com/news/963864/meme-sans-leurs-leaders-les-pistons-restent-fideles-a-leur-adn/",
+      "publishedAt": "2026-11-25T08:30:14+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Volkswagen va payer ses clients qui rechargent leur voiture chez eux, et la France est dans le viseur",
+      "url": "https://www.presse-citron.net/volkswagen-va-payer-ses-clients-qui-rechargent-leur-voiture-chez-eux-et-la-france-est-dans-le-viseur/",
+      "publishedAt": "2026-11-25T08:30:10+00:00"
     },
     {
       "source": "gnt",
@@ -3830,12 +3860,6 @@
       "title": "GTA VI pulvérise tous les records : 3,79 milliards de dollars générés en seulement 24 heures !",
       "url": "https://www.mac4ever.com/gaming/199198-gta-vi-pulverise-tous-les-records-3-79-milliards-de-dollars-generes-en-seulement-24-heures",
       "publishedAt": "2026-11-23T08:41:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Les scènes de sexe de GTA 6 ont représenté un gros défi pour Rockstar",
-      "url": "https://www.numerama.com/pop-culture/2382249-les-scenes-de-sexe-de-gta-6-ont-represente-un-gros-defi-pour-rockstar.html",
-      "publishedAt": "2026-11-23T08:39:58+00:00"
     },
     {
       "source": "boulet",
