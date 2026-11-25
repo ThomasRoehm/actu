@@ -23,7 +23,7 @@
 - Les compteurs des onglets indiquent les publications du jour selon la date locale ; BD inclut les chapitres du jour.
 - Interface compacte, lisible sur iPhone et Mac, mode clair/sombre selon le système.
 - Pas de titre introductif, de recherche, de compteur « X articles / 48 h », ni de bouton d’actualisation manuelle.
-- Menu : BD, Sport, Tech ; Tech par défaut. Aucun onglet Tout ou Local, ni sélecteur Fr / Us.
+- Menu centré : Tech (par défaut), Sport, BD, Sources, puis temps depuis la dernière collecte. Aucun onglet Tout ou Local, ni sélecteur Fr / Us.
 - L’indicateur près du bouton Src affiche le temps depuis la collecte, avec « 0 min » pendant la première minute.
 - Articles triés du plus récent au plus ancien ; toute la ligne ouvre l’original dans un nouvel onglet avec `noopener noreferrer`.
 - Sur mobile et ordinateur, icône, nom de la source et heure sont alignés sur une première ligne ; le titre vient en dessous sur toute la largeur et est limité à deux lignes.
