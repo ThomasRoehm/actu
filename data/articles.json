@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:10:40.572208+00:00",
+  "generatedAt": "2026-11-25T12:20:42.082578+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T12:10:40.572208+00:00"
+      "lastSuccessAt": "2026-11-25T12:20:42.082578+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Des LEGO en veux-tu, en voilà ! Amazon détruit les prix jusqu’à -43 % au Black Friday 💥",
+      "url": "https://www.iphon.fr/post/des-lego-en-veux-tu-en-voila-amazon-detruit-les-prix-jusqua-43-au-black-friday",
+      "publishedAt": "2026-11-25T12:19:33+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Neemias Queta, l’ultra précieux relais intérieur des Celtics",
+      "url": "https://www.basketusa.com/news/963921/neemias-queta-lultra-precieux-relais-interieur-des-celtics/",
+      "publishedAt": "2026-11-25T12:14:06+00:00"
+    },
     {
       "source": "numerama",
       "title": "La menace s’étend : le système OSINT de la CIA piraté, probablement par le même outil IA que la Commission européenne",
@@ -152,6 +164,12 @@
       "title": "Tidal déclare la guerre à la musique IA : 27 millions de titres vont disparaître",
       "url": "https://www.clubic.com/actualite-640921-tidal-declare-la-guerre-a-la-musique-ia-27-millions-de-titres-vont-disparaitre.html",
       "publishedAt": "2026-11-25T12:06:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Claude Ship peut approuver vos pull requests à votre place",
+      "url": "https://korben.info/claude-ship-peut-approuver-vos-pull-requests-a-votre-place.html",
+      "publishedAt": "2026-11-25T12:05:11+00:00"
     },
     {
       "source": "jdg",
@@ -3788,18 +3806,6 @@
       "title": "Washington Wizards – Boston Celtics : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/960072/washington-wizards-boston-celtics-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-23T12:20:43+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "BepiColombo est enfin en orbite autour de Mercure, mais un bug de dernière minute inquiète l’ESA",
-      "url": "https://www.numerama.com/sciences/2382353-bepicolombo-est-enfin-en-orbite-autour-de-mercure-mais-un-bug-de-derniere-minute-inquiete-lesa.html",
-      "publishedAt": "2026-11-23T12:15:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Après Leapmotor et Dongfeng, Hongqi veut lui aussi une chaîne européenne",
-      "url": "https://www.mac4ever.com/auto/199217-apres-leapmotor-et-dongfeng-hongqi-veut-lui-aussi-une-chaine-europeenne",
-      "publishedAt": "2026-11-23T12:15:00+00:00"
     },
     {
       "source": "boulet",
