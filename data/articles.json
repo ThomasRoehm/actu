@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:40:42.676946+00:00",
+  "generatedAt": "2026-11-25T19:50:40.114600+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T19:40:42.676946+00:00"
+      "lastSuccessAt": "2026-11-25T19:50:40.114600+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Intermarché va faire entrer l'IA d'Anthropic dans ses magasins d'ici quelques semaines",
+      "url": "https://www.clubic.com/actualite-641071-intermarche-va-faire-entrer-l-ia-d-anthropic-dans-ses-magasins-d-ici-quelques-semaines.html",
+      "publishedAt": "2026-11-25T19:44:00+00:00"
+    },
     {
       "source": "tda",
       "title": "Brandon Aiyuk rejoint l’équipe d’entraînement des Commanders",
@@ -490,6 +496,12 @@
       "publishedAt": "2026-11-25T16:15:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le jour où Collin Sexton a failli gagner un match à trois contre cinq",
+      "url": "https://www.basketusa.com/news/963983/le-jour-ou-collin-sexton-a-failli-gagner-un-match-a-trois-contre-cinq/",
+      "publishedAt": "2026-11-25T16:14:28+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Claude transforme vos artefacts en vraies apps Mac, sans App Store ni Xcode",
       "url": "https://www.mac4ever.com/ia/199292-claude-transforme-vos-artefacts-en-vraies-apps-mac-sans-app-store-ni-xcode",
@@ -644,12 +656,6 @@
       "title": "Les anneaux de pouvoir : explications de la fin de la saison 3 et de ses conséquences pour la suite",
       "url": "https://www.journaldugeek.com/2026/11/25/les-anneaux-de-pouvoir-explications-de-la-fin-de-la-saison-3-et-de-ses-consequences-pour-la-suite/",
       "publishedAt": "2026-11-25T15:14:47+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le jour où Collin Sexton a failli gagner un match à trois contre cinq",
-      "url": "https://www.basketusa.com/news/963983/le-jour-ou-collin-sexton-a-failli-gagner-un-match-a-trois-contre-cinq/",
-      "publishedAt": "2026-11-25T15:14:28+00:00"
     },
     {
       "source": "numerama",
@@ -1246,6 +1252,12 @@
       "publishedAt": "2026-11-25T11:00:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
+      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
+      "publishedAt": "2026-11-25T10:57:14+00:00"
+    },
+    {
       "source": "presse",
       "title": "Office Depot ferme ses portes en France : le spécialiste des fournitures de bureau annonce la fermeture de ses 27 magasins et de son site internet",
       "url": "https://www.presse-citron.net/office-depot-ferme-ses-portes-en-france-le-specialiste-des-fournitures-de-bureau-annonce-la-fermeture-de-ses-27-magasins-et-de-son-site-internet/",
@@ -1400,12 +1412,6 @@
       "title": "Red Dead Redemption bientôt adapté en série ? Rockstar serait prêt à vendre les droits à Hollywood",
       "url": "https://www.journaldugeek.com/2026/11/25/red-dead-redemption-bientot-adapte-en-serie-rockstar-serait-pret-a-vendre-les-droits-a-hollywood/",
       "publishedAt": "2026-11-25T10:01:33+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
-      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
-      "publishedAt": "2026-11-25T09:57:14+00:00"
     },
     {
       "source": "gnt",
@@ -3914,12 +3920,6 @@
       "title": "Anthropic lance Claude Ship, un outil qui veut valider votre code à la place de vos collègues",
       "url": "https://www.numerama.com/tech/2382945-anthropic-lance-claude-ship-un-outil-qui-veut-valider-votre-code-a-la-place-de-vos-collegues.html",
       "publishedAt": "2026-11-23T20:00:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Synology DS925neo+ : un cloud privé évolutif pour centraliser et protéger toutes ses données",
-      "url": "https://www.macg.co/services/2026/11/synology-ds925neo-un-cloud-prive-evolutif-pour-centraliser-et-proteger-toutes-ses-donnees-312587",
-      "publishedAt": "2026-11-23T19:45:00+00:00"
     },
     {
       "source": "boulet",
