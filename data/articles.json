@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T11:20:40.973681+00:00",
+  "generatedAt": "2026-11-25T11:30:54.548516+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,51 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T11:20:40.973681+00:00"
+      "lastSuccessAt": "2026-11-25T11:30:54.548516+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday Zendure : les batteries SolarFlow AC+ pour votre installation solaire existante jusqu’à -43 %",
+      "url": "https://www.clubic.com/actualite-639568-black-friday-zendure-les-batteries-solarflow-ac-qui-se-branchent-sur-vos-panneaux-solaires-jusqu-a--43.html",
+      "publishedAt": "2026-11-25T11:30:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'armée américaine échoue face aux drones ukrainiens lors d'un exercice en Bavière",
+      "url": "https://www.generation-nt.com/actualites/armee-americaine-echoue-drones-baviere-2085026",
+      "publishedAt": "2026-11-25T11:25:01+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "BYD négocie le rachat de l'ancienne usine Smart en Moselle",
+      "url": "https://www.mac4ever.com/auto/199282-byd-negocie-le-rachat-de-l-ancienne-usine-smart-en-moselle",
+      "publishedAt": "2026-11-25T11:25:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Tesla FSD : Bruxelles repousse encore au 15 décembre la réunion qui peut l’autoriser dans toute l’UE",
+      "url": "https://www.numerama.com/vroom/2384601-tesla-fsd-bruxelles-repousse-encore-au-15-decembre-la-reunion-qui-peut-lautoriser-dans-toute-lue.html",
+      "publishedAt": "2026-11-25T11:23:22+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Cette plateforme bannie la musique générée par IA, Apple Music pourrait faire de même ?",
+      "url": "https://www.iphon.fr/post/plateforme-tidal-musique-ia-apple-music",
+      "publishedAt": "2026-11-25T11:21:07+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Uber Trains : vos billets de train bientôt dans l'application Uber",
       "url": "https://www.mac4ever.com/mobilite/199280-uber-trains-vos-billets-de-train-bientot-dans-l-application-uber",
       "publishedAt": "2026-11-25T11:15:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le cours du Bitcoin retombe sous les 60 000 dollars, la relance de Nvidia n'a pas suffi",
+      "url": "https://www.generation-nt.com/actualites/bitcoin-chute-valeur-cours-cryptomonnaie-pessimisme-2085061",
+      "publishedAt": "2026-11-25T11:10:01+00:00"
     },
     {
       "source": "numerama",
@@ -172,10 +208,10 @@
       "publishedAt": "2026-11-25T11:02:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
-      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
-      "publishedAt": "2026-11-25T10:57:14+00:00"
+      "source": "gnt",
+      "title": "Orange Cheat_Code Fibre_18_26 : la box ultra-rapide à moitié prix pour les moins de 27 ans",
+      "url": "https://www.generation-nt.com/actualites/orange-cheat-code-fibre-18-26-box-pas-cher-etudiants-2085056",
+      "publishedAt": "2026-11-25T11:00:01+00:00"
     },
     {
       "source": "presse",
@@ -236,6 +272,12 @@
       "title": "Marvel se moque-t-il de nous avec la vraie identité de Dr Doom dans Avengers: Doomsday ?",
       "url": "https://www.numerama.com/pop-culture/2384189-marvel-se-moque-t-il-de-nous-avec-la-vraie-identite-de-dr-doom-dans-avengers-doomsday.html",
       "publishedAt": "2026-11-25T10:37:52+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-25T10:37:00+00:00"
     },
     {
       "source": "jdg",
@@ -334,10 +376,10 @@
       "publishedAt": "2026-11-25T10:01:33+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures offres tech aujourd'hui",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-25T09:59:00+00:00"
+      "source": "basketusa",
+      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
+      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
+      "publishedAt": "2026-11-25T09:57:14+00:00"
     },
     {
       "source": "gnt",
@@ -374,12 +416,6 @@
       "title": "Sièges chauffants par abonnement : New York interdit de faire payer des options déjà installées d’usine",
       "url": "https://www.numerama.com/vroom/2384193-sieges-chauffants-par-abonnement-new-york-interdit-de-faire-payer-des-options-deja-installees-dusine.html",
       "publishedAt": "2026-11-25T09:50:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Michael Porter Jr. ne trouve plus sa place chez les Nets",
-      "url": "https://www.basketusa.com/news/963905/michael-porter-jr-ne-trouve-plus-sa-place-chez-les-nets/",
-      "publishedAt": "2026-11-25T09:46:18+00:00"
     },
     {
       "source": "gnt",
@@ -530,6 +566,12 @@
       "title": "Navigateurs sur iPhone : Bruxelles discute avec Apple après la lettre de Mozilla et Shopify",
       "url": "https://www.clubic.com/actualite-640852-navigateurs-sur-iphone-bruxelles-discute-avec-apple-apres-la-lettre-de-mozilla-et-shopify.html",
       "publishedAt": "2026-11-25T08:47:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Michael Porter Jr. ne trouve plus sa place chez les Nets",
+      "url": "https://www.basketusa.com/news/963905/michael-porter-jr-ne-trouve-plus-sa-place-chez-les-nets/",
+      "publishedAt": "2026-11-25T08:46:18+00:00"
     },
     {
       "source": "gnt",
@@ -3770,36 +3812,6 @@
       "title": "Tesla FSD v15 : Elon Musk promet une conduite « 25 fois meilleure », mais difficile de le croire sur parole",
       "url": "https://www.presse-citron.net/tesla-fsd-v15-elon-musk-promet-conduite-25-fois-meilleure-croire-parole/",
       "publishedAt": "2026-11-23T11:32:29+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Et maintenant, les Bulls perdent Norman Powell",
-      "url": "https://www.basketusa.com/news/959872/et-maintenant-les-bulls-perdent-norman-powell/",
-      "publishedAt": "2026-11-23T11:30:46+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Si vous cherchez le premier smartphone de votre ado, le Galaxy A37 5G vient de baisser pour le Black Friday",
-      "url": "https://www.numerama.com/tech/2382539-si-vous-cherchez-le-premier-smartphone-de-votre-ado-le-galaxy-a37-5g-vient-de-baisser-pour-le-black-friday.html",
-      "publishedAt": "2026-11-23T11:29:53+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La justice européenne interdit à BYD de vendre son clone du Land Rover Defender",
-      "url": "https://www.generation-nt.com/actualites/justice-europeenne-interdit-byd-defender-2084917",
-      "publishedAt": "2026-11-23T11:25:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "VMware : une faille critique exploitée depuis septembre, un outil de piratage désormais proposé à 30 000 dollars",
-      "url": "https://www.clubic.com/actualite-640570-vmware-une-faille-critique-exploitee-depuis-septembre-un-outil-de-piratage-desormais-propose-a-30-000-dollars.html",
-      "publishedAt": "2026-11-23T11:24:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "RDMA sur USB4 - Le cluster d'IA de Windows enfin possible",
-      "url": "https://korben.info/rdma-usb4-windows-ia-locale.html",
-      "publishedAt": "2026-11-23T11:23:25+00:00"
     },
     {
       "source": "boulet",
