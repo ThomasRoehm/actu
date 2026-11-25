@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:40:41.380212+00:00",
+  "generatedAt": "2026-11-25T09:50:40.476580+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T09:40:41.380212+00:00"
+      "lastSuccessAt": "2026-11-25T09:50:40.476580+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Sièges chauffants par abonnement : New York interdit de faire payer des options déjà installées d’usine",
+      "url": "https://www.numerama.com/vroom/2384193-sieges-chauffants-par-abonnement-new-york-interdit-de-faire-payer-des-options-deja-installees-dusine.html",
+      "publishedAt": "2026-11-25T09:50:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Comment la Russie utilise l'IA pour filtrer le trafic Internet",
+      "url": "https://www.clubic.com/actualite-640858-comment-la-russie-utilise-l-ia-pour-filtrer-le-trafic-internet.html",
+      "publishedAt": "2026-11-25T09:45:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Qu’est devenu l’astéroïde percuté par la Nasa ? L’ESA montre les premières images de la mission Hera en direct ce soir",
+      "url": "https://www.numerama.com/sciences/2384195-quest-devenu-lasteroide-percute-par-la-nasa-lesa-montre-les-premieres-images-de-la-mission-hera-en-direct-ce-soir.html",
+      "publishedAt": "2026-11-25T09:44:10+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Ils sont les seuls à voir les IA les plus puissantes, et ils ont peur : chez OpenAI et Anthropic, les salariés tirent la sonnette d’alarme",
+      "url": "https://www.numerama.com/tech/2384181-ils-sont-les-seuls-a-voir-les-ia-les-plus-puissantes-et-ils-ont-peur-chez-openai-et-anthropic-les-salaries-tirent-la-sonnette-dalarme.html",
+      "publishedAt": "2026-11-25T09:42:20+00:00"
+    },
     {
       "source": "presse",
       "title": "Sochaux à l’arrêt : pour la fin d’année, Stellantis supprime l’équipe de nuit et stoppe la production pendant 11 jours",
@@ -442,6 +466,12 @@
       "publishedAt": "2026-11-25T07:29:47+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
+      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
+      "publishedAt": "2026-11-25T07:27:10+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Donald Trump encaisse des millions grâce au sauvetage de Jensen Huang chez Nvidia",
       "url": "https://www.generation-nt.com/actualites/donald-trump-investissement-nvidia-sauvetage-jensen-huang-2085028",
@@ -572,12 +602,6 @@
       "title": "Tesla : malgré des puces à bout de souffle, le FSD v15 en met plein les yeux",
       "url": "https://www.journaldugeek.com/2026/11/25/tesla-malgre-des-puces-a-bout-de-souffle-le-fsd-v15-en-met-plein-les-yeux/",
       "publishedAt": "2026-11-25T06:28:39+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
-      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
-      "publishedAt": "2026-11-25T06:27:10+00:00"
     },
     {
       "source": "macg",
@@ -3770,60 +3794,6 @@
       "title": "Des Rafale français se posent sur une autoroute en Finlande, une première qui compte énormément",
       "url": "https://www.clubic.com/actualite-640516-des-rafale-francais-se-posent-sur-une-autoroute-en-finlande-une-premiere-qui-compte-enormement.html",
       "publishedAt": "2026-11-23T09:51:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Livret A : l’État veut prélever 17% directement sur les comptes",
-      "url": "https://www.presse-citron.net/livret-a-letat-veut-prelever-17-directement-sur-les-comptes/",
-      "publishedAt": "2026-11-23T09:50:23+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Proton veut faciliter votre migration depuis Google Drive",
-      "url": "https://www.clubic.com/actualite-640480-proton-veut-faciliter-votre-migration-depuis-google-drive.html",
-      "publishedAt": "2026-11-23T09:46:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "La barre de son Sonos Arc Ultra à moins de 800€ pour le Black Friday : AirPlay 2 et Dolby Atmos !",
-      "url": "https://www.mac4ever.com/audio/199211-la-barre-de-son-sonos-arc-ultra-a-moins-de-800-pour-le-black-friday-airplay-2-et-dolby-atmos",
-      "publishedAt": "2026-11-23T09:45:43+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Nvidia est visé par une enquête du gendarme boursier américain",
-      "url": "https://www.generation-nt.com/actualites/nvidia-enquete-sec-comptabilite-crise-2084930",
-      "publishedAt": "2026-11-23T09:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Cette application gratuite pourrait bien vous permettre de vous passer de YouTube Premium",
-      "url": "https://www.clubic.com/actualite-630676-cette-application-gratuite-pourrait-bien-vous-permettre-de-vous-passer-de-youtube-premium.html",
-      "publishedAt": "2026-11-23T09:45:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Dune 3 : Denis Villeneuve explique pourquoi le dernier film écrase les deux premiers",
-      "url": "https://www.numerama.com/pop-culture/2382357-dune-3-denis-villeneuve-explique-pourquoi-le-dernier-film-ecrase-les-deux-premiers.html",
-      "publishedAt": "2026-11-23T09:45:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Verisure lance « Les Chroniques de la Sécurité », une série animée par Stéphane Rotenberg",
-      "url": "https://www.presse-citron.net/verisure-lance-les-chroniques-de-la-securite-une-serie-animee-par-stephane-rotenberg/",
-      "publishedAt": "2026-11-23T09:43:26+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Avec « Les Chroniques de la Sécurité », Verisure lance sa propre série vidéo animée par Stéphane Rotenberg",
-      "url": "https://www.journaldugeek.com/2026/11/23/avec-les-chroniques-de-la-securite-verisure-lance-sa-propre-serie-video-animee-par-stephane-rotenberg/",
-      "publishedAt": "2026-11-23T09:43:04+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Black Friday d’Amazon permet d’obtenir les AirPods Pro 3 pour seulement 188€",
-      "url": "https://www.clubic.com/bons-plans-640525-le-black-friday-d-amazon-permet-d-obtenir-les-airpods-pro-3-pour-seulement-188.html",
-      "publishedAt": "2026-11-23T09:41:00+00:00"
     },
     {
       "source": "boulet",
