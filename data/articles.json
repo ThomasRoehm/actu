@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T07:30:52.368206+00:00",
+  "generatedAt": "2026-11-25T07:40:38.640616+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T07:30:52.368206+00:00"
+      "lastSuccessAt": "2026-11-25T07:40:38.640616+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Porsche a imaginé un système digne d’un avion de chasse pour permettre à ses sportives de prendre les virages à pleine vitesse",
+      "url": "https://www.presse-citron.net/porsche-imagine-systeme-avion-chasse-permettre-sportives-prendre-virages-pleine-vitesse/",
+      "publishedAt": "2026-11-25T07:32:43+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Norton : jusqu’à -74 %* sur Norton 360 pour vous protéger des arnaques en ligne",
       "url": "https://www.clubic.com/bons-plans-640153-black-friday-norton-jusqu-a--74-sur-norton-360-pour-vous-proteger-des-arnaques-en-ligne.html",
       "publishedAt": "2026-11-25T07:30:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Créer sa propre app Mac en 5 minutes ? C’est désormais possible avec Claude",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/creer-sa-propre-app-mac-en-5-minutes-cest-desormais-possible-avec-claude-312639",
+      "publishedAt": "2026-11-25T07:30:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "L’iPhone 18e devrait changer de look",
+      "url": "https://www.journaldugeek.com/2026/11/25/liphone-18e-devrait-changer-de-look/",
+      "publishedAt": "2026-11-25T07:29:47+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
+      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
+      "publishedAt": "2026-11-25T07:27:10+00:00"
     },
     {
       "source": "gnt",
@@ -3806,18 +3830,6 @@
       "title": "Comment Signal va empêcher les IA de lire vos messages",
       "url": "https://www.clubic.com/actualite-640471-comment-signal-va-empecher-les-ia-de-lire-vos-messages.html",
       "publishedAt": "2026-11-23T07:43:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Cybersécurité et IA : « le passage à l'an 2000 avait au moins une date », avertit Satya Nadella",
-      "url": "https://www.macg.co/ailleurs/2026/11/cybersecurite-et-ia-le-passage-lan-2000-avait-au-moins-une-date-avertit-satya-nadella-312581",
-      "publishedAt": "2026-11-23T07:37:34+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Draymond Green a remis les Warriors sur les bons rails",
-      "url": "https://www.basketusa.com/news/959935/draymond-green-a-remis-les-warriors-sur-les-bons-rails/",
-      "publishedAt": "2026-11-23T07:30:56+00:00"
     },
     {
       "source": "boulet",
