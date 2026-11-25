@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:40:40.841557+00:00",
+  "generatedAt": "2026-11-25T15:50:40.053019+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T15:40:40.841557+00:00"
+      "lastSuccessAt": "2026-11-25T15:50:40.053019+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "IA, semi-conducteurs, quantique : l’Europe veut mettre 50 milliards d’euros sur la table",
+      "url": "https://www.mac4ever.com/ia/199293-ia-semi-conducteurs-quantique-l-europe-veut-mettre-50-milliards-d-euros-sur-la-table",
+      "publishedAt": "2026-11-25T15:48:22+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-25T15:46:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : les accessoires utiles pour Mac en promotion",
+      "url": "https://www.macg.co/materiel/2026/11/black-friday-les-accessoires-utiles-pour-mac-en-promotion-312659",
+      "publishedAt": "2026-11-25T15:45:51+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Cette nouveauté du 18 Pro sera absente de l’iPhone Air 2",
+      "url": "https://www.iphon.fr/post/iphone-air-2-18-pro-dynamic-island",
+      "publishedAt": "2026-11-25T15:44:58+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Amazon brade ses nouveaux Echo Show et Studio : jusqu'à -61% pour le Black Friday !",
+      "url": "https://www.mac4ever.com/domotique/199295-amazon-brade-ses-nouveaux-echo-show-et-studio-jusqu-a-61-pour-le-black-friday",
+      "publishedAt": "2026-11-25T15:41:05+00:00"
+    },
     {
       "source": "jdg",
       "title": "La mise à jour 1.9.0 de Mario Kart World vient de sortir sur Switch 2, mais quand est-ce qu’on retrouve les vraies courses en 3 tours ?",
@@ -332,12 +362,6 @@
       "title": "Cyberattaques : l’étude 2026 révèle la vulnérabilité des collectivités locales",
       "url": "https://www.clubic.com/actualite-640987-cyberattaques-l-etude-2026-revele-la-vulnerabilite-des-collectivites-locales.html",
       "publishedAt": "2026-11-25T14:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-25T14:28:00+00:00"
     },
     {
       "source": "numerama",
@@ -808,12 +832,6 @@
       "publishedAt": "2026-11-25T11:00:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
-      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
-      "publishedAt": "2026-11-25T10:57:14+00:00"
-    },
-    {
       "source": "presse",
       "title": "Office Depot ferme ses portes en France : le spécialiste des fournitures de bureau annonce la fermeture de ses 27 magasins et de son site internet",
       "url": "https://www.presse-citron.net/office-depot-ferme-ses-portes-en-france-le-specialiste-des-fournitures-de-bureau-annonce-la-fermeture-de-ses-27-magasins-et-de-son-site-internet/",
@@ -968,6 +986,12 @@
       "title": "Red Dead Redemption bientôt adapté en série ? Rockstar serait prêt à vendre les droits à Hollywood",
       "url": "https://www.journaldugeek.com/2026/11/25/red-dead-redemption-bientot-adapte-en-serie-rockstar-serait-pret-a-vendre-les-droits-a-hollywood/",
       "publishedAt": "2026-11-25T10:01:33+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
+      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
+      "publishedAt": "2026-11-25T09:57:14+00:00"
     },
     {
       "source": "gnt",
@@ -1348,12 +1372,6 @@
       "publishedAt": "2026-11-25T07:29:47+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
-      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
-      "publishedAt": "2026-11-25T07:27:10+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Donald Trump encaisse des millions grâce au sauvetage de Jensen Huang chez Nvidia",
       "url": "https://www.generation-nt.com/actualites/donald-trump-investissement-nvidia-sauvetage-jensen-huang-2085028",
@@ -1472,6 +1490,12 @@
       "title": "Tesla : malgré des puces à bout de souffle, le FSD v15 en met plein les yeux",
       "url": "https://www.journaldugeek.com/2026/11/25/tesla-malgre-des-puces-a-bout-de-souffle-le-fsd-v15-en-met-plein-les-yeux/",
       "publishedAt": "2026-11-25T06:28:39+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
+      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
+      "publishedAt": "2026-11-25T06:27:10+00:00"
     },
     {
       "source": "macg",
@@ -3812,18 +3836,6 @@
       "title": "GTA 6 : deux adolescents volent un bus pour faire comme dans leur jeu favori... et finissent dans le fossé",
       "url": "https://www.clubic.com/actualite-640654-gta-6-deux-adolescents-volent-un-bus-pour-faire-comme-leur-jeu-favori-et-finissent-dans-le-fosse.html",
       "publishedAt": "2026-11-23T15:53:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iOS 27.3 : mauvaise nouvelle, ces 3 fonctionnalités se font toujours attendre",
-      "url": "https://www.iphon.fr/post/ios-27-3-fonctionnalites-manquantes",
-      "publishedAt": "2026-11-23T15:45:21+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 : ne vous précipitez pas, vous pourriez le regretter",
-      "url": "https://www.numerama.com/pop-culture/2382855-gta-6-ne-vous-precipitez-pas-vous-pourriez-le-regretter.html",
-      "publishedAt": "2026-11-23T15:45:00+00:00"
     },
     {
       "source": "boulet",
