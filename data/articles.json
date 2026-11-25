@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:30:56.190629+00:00",
+  "generatedAt": "2026-11-25T14:40:38.413023+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-25T14:30:56.190629+00:00"
+      "lastSuccessAt": "2026-11-25T14:40:38.413023+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Est-ce que Blade Runner 2099 met fin à la franchise au cinéma ?",
+      "url": "https://www.journaldugeek.com/dossier/est-ce-que-blade-runner-2099-met-fin-a-la-franchise-au-cinema/",
+      "publishedAt": "2026-11-25T14:34:50+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "“Nous sommes désormais une entreprise différente” : Dell fait un carton malgré la pénurie de RAM pour les PC, 85 % de ses revenus viennent de l’IA",
+      "url": "https://www.presse-citron.net/dell-carton-malgre-penurie-de-ram-pc-ia/",
+      "publishedAt": "2026-11-25T14:33:54+00:00"
+    },
     {
       "source": "gnt",
       "title": "Panne de Microsoft 365 : un code rouge déclenché par Microsoft",
@@ -3758,30 +3770,6 @@
       "title": "GTA 6 vient de sortir son premier patch, qu’est ce qu’il change ?",
       "url": "https://www.journaldugeek.com/2026/11/23/gta-6-vient-de-sortir-son-premier-patch-quest-ce-quil-change/",
       "publishedAt": "2026-11-23T14:43:29+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "AMDLSS5 2.5 accélère le rendu neuronal sur Radeon de 60 % avec la génération de trames 6x",
-      "url": "https://www.generation-nt.com/actualites/amdlss5-rendu-neuronal-radeon-6x-2084922",
-      "publishedAt": "2026-11-23T14:40:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Un bug permet de jouer à GTA 6 à 60 fps (mais ne testez pas)",
-      "url": "https://www.numerama.com/pop-culture/2382573-un-bug-permet-de-jouer-a-gta-6-a-60-fps-mais-ne-testez-pas.html",
-      "publishedAt": "2026-11-23T14:39:41+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Jensen Huang de retour chez NVIDIA, comme six fondateurs de la tech avant lui",
-      "url": "https://www.clubic.com/actualite-640645-jensen-huang-de-retour-chez-nvidia-comme-six-fondateurs-de-la-tech-avant-lui.html",
-      "publishedAt": "2026-11-23T14:38:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Coup de théâtre chez Nvidia : Jensen Huang reprend la tête de l’entreprise, onze jours après sa démission !",
-      "url": "https://www.journaldugeek.com/2026/11/23/coup-de-theatre-chez-nvidia-jensen-huang-reprend-la-tete-de-nvidia-onze-jours-apres-sa-demission/",
-      "publishedAt": "2026-11-23T14:33:21+00:00"
     },
     {
       "source": "boulet",
