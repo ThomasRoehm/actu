@@ -149,7 +149,7 @@ function articleLink(entry, sources, previous) {
   link.target = '_blank';
   link.rel = 'noopener noreferrer';
   const label = destination.name + (manga && !manga.ok ? ' · à vérifier' : '');
-  const time = element(manga ? 'span' : 'time', 'article-time', manga ? (displayed ? `${displayed.observed ? 'Repéré le ' : ''}${displayed.date.toLocaleDateString('fr-FR')}` : 'Date inconnue') : clockFormat.format(entry.date));
+  const time = element(manga ? 'span' : 'time', 'article-time', manga ? (displayed ? displayed.date.toLocaleDateString('fr-FR') : 'Date inconnue') : clockFormat.format(entry.date));
   if (!manga) time.dateTime = article.publishedAt;
   if (displayed?.observed) time.title = `Date annoncée par ${source.name} : ${manga.publishedDate}. Chapitre déjà disponible lors de la collecte.`;
   link.title = manga ? (readingUrl ? 'Ouvrir la fiche Inked Scans' : manga.lastSuccessAt ? `Dernière vérification réussie : ${new Date(manga.lastSuccessAt).toLocaleString('fr-FR')}` : 'Chapitre non vérifié') : `${source.name} · ${entry.date.toLocaleString('fr-FR')} · Nouvel onglet`;

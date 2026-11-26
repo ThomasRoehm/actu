@@ -16,7 +16,7 @@
 - Catégories BD / Sport / Tech, dans cet ordre. Tech est sélectionné par défaut ; les onglets Tout et Local et le sélecteur Fr / Us ont été supprimés.
 - Tech et Sport : articles des dernières 48 heures.
 - Bouletcorp : dernière publication conservée quelle que soit sa date.
-- Dates MangaKatana : si la date source devance la première observation du chapitre (`firstSeenAt`), afficher « Repéré le » avec le jour local de cette observation et utiliser ce même jour pour le tri et le compteur BD. La date source reste conservée ; une date inconnue reste inconnue. Pour les anciennes données, la dernière observation réussie sert de repli avant migration.
+- Dates des mangas : si la date source est postérieure à la première observation du chapitre (`firstSeenAt`), afficher le jour local de cette observation et l’utiliser pour le tri et le compteur BD. La date source reste conservée ; une date inconnue reste inconnue. Pour les anciennes données, la dernière observation réussie sert de repli avant migration.
 - MangaKatana : dernier chapitre disponible de chaque série, avec date si connue ; les mangas restent visibles dans BD, mélangés aux autres publications et triés par date, avec regroupement par jour. Les dates inconnues sont affichées en dernier.
 - Next, Microsoft Blog, Macworld, TechCrunch, Digital Minimalist et NFL ont été retirés sur demande. Windows Experience Blog a également été retiré sur demande après des refus d’accès HTTP 403 depuis GitHub Actions. Les sources d’actualités restantes sont françaises.
 - Mangas retirés : Amano Megumi wa Suki Darake! et The Monstrous New Life of the Fallen Empire's Recruit.

@@ -6,7 +6,7 @@ const path=require('node:path');
 process.env.TZ='Europe/Paris';
 let now=Date.parse('2026-10-26T20:30:00Z');
 class Clock extends Date { constructor(...args){super(...(args.length?args:[now]));} static now(){return now;} }
-const context=vm.createContext({Date:Clock,Intl,URL});
+const context=vm.createContext({Date:Clock,Intl,URL,document:{querySelectorAll:()=>[]}});
 vm.runInContext(fs.readFileSync(path.join(__dirname,'../app.js'),'utf8').split('function icon(')[0],context);
 const get=m=>context.mangaDate(m);
 test('future source date uses observed day consistently, even after midnight',()=>{
