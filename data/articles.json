@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T05:40:37.812860+00:00",
+  "generatedAt": "2026-11-26T05:50:36.731372+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T05:40:37.812860+00:00"
+      "lastSuccessAt": "2026-11-26T05:50:36.731372+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Apple, Samsung et les géants du smartphone revoient leurs ambitions à la baisse pour 2027",
+      "url": "https://www.clubic.com/actualite-641062-apple-samsung-et-les-geants-du-smartphone-revoient-leurs-ambitions-a-la-baisse-pour-2027.html",
+      "publishedAt": "2026-11-26T05:43:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Stockage pCloud à vie : 3 To, chiffrement et mots de passe pour seulement 579€",
@@ -466,6 +472,12 @@
       "publishedAt": "2026-11-25T16:45:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Boston Celtics – Atlanta Hawks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/963956/boston-celtics-atlanta-hawks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-25T16:43:44+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Amazon menace New York d’une hausse de 5 dollars par commande face à un projet de loi sur les livraisons",
       "url": "https://www.generation-nt.com/actualites/amazon-new-york-hausse-livraisons-2085025",
@@ -608,12 +620,6 @@
       "title": "Cette nouveauté du 18 Pro sera absente de l’iPhone Air 2",
       "url": "https://www.iphon.fr/post/iphone-air-2-18-pro-dynamic-island",
       "publishedAt": "2026-11-25T15:44:58+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Boston Celtics – Atlanta Hawks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/963956/boston-celtics-atlanta-hawks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-25T15:43:44+00:00"
     },
     {
       "source": "mac4ever",
