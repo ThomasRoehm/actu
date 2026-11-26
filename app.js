@@ -41,6 +41,21 @@ function mangaDate(manga) {
   return date <= today ? { date, observed: false } : null;
 }
 
+function mangaReleaseNote(manga, today, now) {
+  if (Number.isInteger(manga.sameDayCount) && manga.sameDayCount > 1) {
+    const published = new Date(`${manga.publishedDate}T12:00:00`).toLocaleDateString('fr-FR');
+    if (published === today) return `${manga.sameDayCount} chapitres publiés aujourd’hui`;
+  }
+  const latest = new Date(manga.firstSeenAt);
+  if (latest.getTime() > now || latest.toLocaleDateString('fr-FR') !== today || !Array.isArray(manga.recentChapters)) return '';
+  const observed = manga.recentChapters.filter(chapter => {
+    const date = new Date(chapter.firstSeenAt);
+    return date.getTime() <= now && date.toLocaleDateString('fr-FR') === today;
+  });
+  return observed.length > 1 && observed.some(chapter => !chapter.publishedDate)
+    ? `${observed.length} chapitres détectés aujourd’hui` : '';
+}
+
 function icon(source) {
   const wrapper = document.createElement('span');
   wrapper.className = 'site-icon';
@@ -122,7 +137,7 @@ function articleLink(entry, sources, previous) {
   const source = manga ? (mangaSources.get(manga.source) || mangaSources.get('mangakatana')) : sources.get(article.source);
   const key = safeUrl(manga ? article.pageUrl || article.url : article.url);
   const displayed = entry.displayed;
-  const signature = JSON.stringify([article, source.id, source.name, source.icon, displayed]);
+  const signature = JSON.stringify([article, source.id, source.name, source.icon, displayed, entry.releaseNote]);
   const existing = previous.get(key);
   if (existing && rowSignatures.get(existing) === signature) return existing;
   const link = element('a', manga ? 'article manga-article' : 'article');
@@ -141,7 +156,22 @@ function articleLink(entry, sources, previous) {
   const metadata = element('div', 'article-metadata');
   metadata.append(icon(destination), element('span', 'article-source', label), time);
   const title = manga ? `${manga.title} — ${manga.chapter || 'Chapitre indisponible'}` : article.title;
-  link.append(metadata, element('span', 'article-title', title));
+  const titleNode = element('span', 'article-title', title);
+  link.append(metadata);
+  if (entry.releaseNote) {
+    const star = element('span', 'chapter-star', '★');
+    star.setAttribute('aria-hidden', 'true');
+    const description = element('span', '', entry.releaseNote);
+    description.id = `manga-release-${encodeURIComponent(key)}`;
+    description.hidden = true;
+    link.setAttribute('aria-describedby', description.id);
+    link.title = `${entry.releaseNote} · ${link.title}`;
+    const titleLine = element('span', 'manga-title');
+    titleLine.append(star, titleNode);
+    link.append(titleLine, description);
+  } else {
+    link.append(titleNode);
+  }
   return link;
 }
 
@@ -245,7 +275,7 @@ function viewModel(now) {
     const displayed = mangaDate(manga);
     const date = displayed?.date || null;
     if (date?.toLocaleDateString('fr-FR') === today && safeUrl(manga.url)) counts.BD++;
-    return { manga, date, displayed };
+    return { manga, date, displayed, releaseNote: mangaReleaseNote(manga, today, now) };
   });
   return cachedView = { version, revision: (cachedView?.revision || 0) + 1, time: now, until, sources, articles, today, counts, groups, mangaEntries };
 }

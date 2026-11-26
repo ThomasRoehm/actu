@@ -36,6 +36,9 @@ a,button{-webkit-tap-highlight-color:transparent}
 .article-time{flex-shrink:0;margin-left:auto;white-space:nowrap;font-size:0.625rem;color:var(--muted);font-variant-numeric:tabular-nums}
 .article-title{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;overflow-wrap:anywhere;font-size:0.75rem;line-height:1.5}
 .article:visited .article-title{color:var(--muted)}
+.manga-title{display:flex;align-items:baseline;gap:4px}
+.manga-title .article-title{min-width:0}
+.chapter-star{flex:none;color:var(--accent)}
 .notice,.empty{padding:14px;border:1px solid var(--border);border-radius:12px;background:var(--panel);color:var(--muted);line-height:1.7}
 .notice{font-size:0.6875rem;margin:0 0 14px}
 .empty{padding:48px 20px;text-align:center}

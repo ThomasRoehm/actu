@@ -3,7 +3,7 @@ import unittest
 from unittest.mock import patch
 
 from scripts.collect import merge_articles
-from scripts.mangas import collect_manga, latest_chapter, otl_publication_dates
+from scripts.mangas import chapter_list, collect_manga, otl_publication_dates
 
 
 class MangaTests(unittest.TestCase):
@@ -12,13 +12,13 @@ class MangaTests(unittest.TestCase):
 
     def test_latest_chapter_uses_table_order_and_preserves_old_date(self):
         content = b'<a href="https://mangakatana.com/manga/example.123/c1">Read first</a><table><tr><td><a href="https://mangakatana.com/manga/example.123/c12.5">Chapter 12.5: A &amp; B</a></td><td><div class="update_time">Feb-11-2026</div></td></tr><tr><td><a href="https://mangakatana.com/manga/example.123/c11">Chapter 11</a></td></tr></table>'
-        result = latest_chapter(content, self.manga)
+        result = chapter_list(content, self.manga)[0]
         self.assertEqual(result["chapter"], "Chapter 12.5: A & B")
         self.assertEqual(result["publishedDate"], "2026-02-11")
 
     def test_unrelated_links_are_rejected(self):
         with self.assertRaises(ValueError):
-            latest_chapter(b'<tr><a href="https://evil.example/c99">Chapter 99</a></tr>', self.manga)
+            chapter_list(b'<tr><a href="https://evil.example/c99">Chapter 99</a></tr>', self.manga)
 
     def test_gdscans_uses_latest_chapter_in_public_list_with_its_date(self):
         manga = dict(self.manga, source="gdscans", pageUrl="https://gdscans.com/manga/example/")
@@ -42,7 +42,7 @@ class MangaTests(unittest.TestCase):
         manga = dict(self.manga, source="otl", pageUrl="https://otl.moe/series/example/")
         links = [b'<a class="chapter-title" href="/read/example/9">Chapter 9</a>', b'<a href="/read/example/10.5" class="chapter-title">Chapter 10.5 &amp; more</a>']
         for content in (b''.join(links), b''.join(reversed(links))):
-            result = latest_chapter(content, manga)
+            result = chapter_list(content, manga)[0]
             self.assertEqual(result, {"chapter": "Chapter 10.5 & more", "url": "https://otl.moe/read/example/10.5", "publishedDate": None})
 
     def test_otl_dates_are_bound_to_latest_chapter_in_each_card(self):
@@ -64,7 +64,7 @@ class MangaTests(unittest.TestCase):
         manga = dict(self.manga, source="otl", pageUrl="https://otl.moe/series/example/")
         for href, classes in (("https://evil.example/read/example/99", "chapter-title"), ("/read/other/99", "chapter-title"), ("/read/example/1", "button")):
             with self.subTest(href=href, classes=classes), self.assertRaises(ValueError):
-                latest_chapter(f'<a class="{classes}" href="{href}">Chapter 99</a>'.encode(), manga)
+                chapter_list(f'<a class="{classes}" href="{href}">Chapter 99</a>'.encode(), manga)
 
     def test_source_change_fetches_immediately_and_drops_old_link_on_failure(self):
         manga = dict(self.manga, source="otl", pageUrl="https://otl.moe/series/example/")
@@ -106,7 +106,7 @@ class MangaTests(unittest.TestCase):
     def test_first_observation_is_stable_for_same_chapter(self):
         previous = {"url": "https://mangakatana.com/manga/example.123/c12", "firstSeenAt": "2026-10-23T20:00:00+00:00"}
         chapter = {"url": previous["url"], "chapter": "Chapter 12", "publishedDate": "2026-10-24"}
-        with patch("scripts.mangas.fetch", return_value=b""), patch("scripts.mangas.latest_chapter", return_value=chapter):
+        with patch("scripts.mangas.fetch", return_value=b""), patch("scripts.mangas.chapter_list", return_value=[chapter]):
             result = collect_manga(self.manga, previous, self.now)
         self.assertEqual(result["firstSeenAt"], previous["firstSeenAt"])
         self.assertEqual(result["publishedDate"], "2026-10-24")
@@ -114,10 +114,48 @@ class MangaTests(unittest.TestCase):
     def test_new_chapter_has_new_observation(self):
         previous = {"url": "https://mangakatana.com/manga/example.123/c11", "firstSeenAt": "2026-10-20T20:00:00+00:00"}
         chapter = {"url": "https://mangakatana.com/manga/example.123/c12", "chapter": "Chapter 12", "publishedDate": "2026-10-25"}
-        with patch("scripts.mangas.fetch", return_value=b""), patch("scripts.mangas.latest_chapter", return_value=chapter):
+        with patch("scripts.mangas.fetch", return_value=b""), patch("scripts.mangas.chapter_list", return_value=[chapter]):
             result = collect_manga(self.manga, previous, self.now)
         self.assertEqual(result["firstSeenAt"], self.now.isoformat())
         self.assertEqual(result["publishedDate"], "2026-10-25")
+
+    def test_same_day_publications_ignore_duplicates_and_other_dates(self):
+        base = "https://mangakatana.com/manga/example.123"
+        def row(number, date):
+            return f'<tr><a href="{base}/c{number}">Chapter {number}</a><div class="update_time">{date}</div></tr>'
+        content = "".join([
+            row("13", "Oct-24-2026"), row("12.5", "Oct-24-2026"),
+            row("12.5", "Oct-24-2026"), row("12", "Oct-23-2026"),
+        ])
+        with patch("scripts.mangas.fetch", return_value=content.encode()):
+            result = collect_manga(self.manga, {}, self.now)
+        self.assertEqual(result["url"], f"{base}/c13")
+        self.assertEqual(result["sameDayCount"], 2)
+        self.assertEqual(len(result["recentChapters"]), 1)
+
+    def test_undated_releases_are_tracked_across_checks_without_counting_history(self):
+        manga = dict(self.manga, source="otl", pageUrl="https://otl.moe/series/example/")
+        def collect(numbers, previous, now, dates=None):
+            content = "".join(f'<a class="chapter-title" href="/read/example/{n}">Chapter {n}</a>' for n in numbers)
+            with patch("scripts.mangas.fetch", return_value=content.encode()):
+                return collect_manga(manga, previous, now, dates)
+
+        start = self.now.replace(hour=8)
+        initial = collect([9, 8, 7], {}, start)
+        self.assertEqual(len(initial["recentChapters"]), 1)
+        next_day = start + datetime.timedelta(days=1)
+        result = collect([9, 10, 10.5, 8], initial, next_day, {
+            "https://otl.moe/read/example/10.5": "2026-10-25",
+        })
+        self.assertEqual(result["chapter"], "Chapter 10.5")
+        self.assertNotIn("sameDayCount", result)
+        result = collect([11, 10.5, 10, 9, 8], result, next_day.replace(hour=10))
+        recent = result["recentChapters"]
+        self.assertEqual([entry["url"].rsplit("/", 1)[-1] for entry in recent], ["11", "10.5", "10", "9"])
+        self.assertEqual([entry["firstSeenAt"] for entry in recent], [
+            next_day.replace(hour=10).isoformat(), next_day.isoformat(), next_day.isoformat(), start.isoformat(),
+        ])
+        self.assertEqual(recent[1]["publishedDate"], "2026-10-25")
 
     def test_migration_even_when_check_is_throttled(self):
         previous = {"url": "https://mangakatana.com/manga/example.123/c12", "checkedAt": self.now.isoformat(), "lastSuccessAt": "2026-10-23T23:55:00+00:00"}

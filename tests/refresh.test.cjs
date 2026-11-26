@@ -59,6 +59,21 @@ const root = path.resolve(__dirname, "..");
                 url: "https://example.com/chapter",
                 chapter: "Chapitre de test",
                 publishedDate: "2026-11-12",
+                sameDayCount: 2,
+                ok: true,
+              },
+              {
+                slug: "teto-x-egen.27899",
+                title: "Teto X Egen",
+                source: "otl",
+                pageUrl: "https://otl.moe/series/teto-x-egen/",
+                url: "https://otl.moe/read/teto-x-egen/31",
+                chapter: "Chapitre 31",
+                firstSeenAt: data.generatedAt,
+                recentChapters: [
+                  { url: "https://otl.moe/read/teto-x-egen/31", firstSeenAt: data.generatedAt },
+                  { url: "https://otl.moe/read/teto-x-egen/30", firstSeenAt: data.generatedAt },
+                ],
                 ok: true,
               },
             ],
@@ -195,6 +210,25 @@ const root = path.resolve(__dirname, "..");
     await p.evaluate(() => load());
     assert.equal(await p.evaluate(() => scrollY), 0);
     await p.locator('[data-group="BD"]').click();
+    const datedManga = p.getByRole("link", { name: /Isekai Walking/ });
+    const undatedManga = p.getByRole("link", { name: /Teto X Egen/ });
+    for (const [link, description] of [
+      [datedManga, "2 chapitres publiés aujourd’hui"],
+      [undatedManga, "2 chapitres détectés aujourd’hui"],
+    ]) {
+      assert.equal(await link.locator(".chapter-star").innerText(), "★");
+      assert.match(await link.ariaSnapshot(), /link/);
+      const id = await link.getAttribute("aria-describedby");
+      assert.equal(await p.locator(`[id="${id}"]`).textContent(), description);
+      assert.ok((await link.getAttribute("title")).startsWith(description));
+    }
+    assert.equal(await undatedManga.getAttribute("href"), "https://otl.moe/read/teto-x-egen/31");
+    assert.equal(await p.locator(".manga-article").count(), 2);
+    for (const width of [320, 1280, 390]) {
+      await p.setViewportSize({ width, height: 844 });
+      assert.equal(await p.evaluate(() => document.documentElement.scrollWidth), width);
+      assert.equal(await p.locator(".chapter-star:visible").count(), 2);
+    }
     failMangas = true;
     await p.evaluate(() => loadMangas());
     await p.evaluate(() => load());
@@ -282,6 +316,8 @@ const root = path.resolve(__dirname, "..");
       await p.locator('[data-group="Tech"] .tab-count').innerText(),
       "0",
     );
+    await p.locator('[data-group="BD"]').click();
+    assert.equal(await p.locator(".chapter-star").count(), 0);
     async function pageClock(time) {
       await p.clock.setSystemTime(new Date(time));
     }

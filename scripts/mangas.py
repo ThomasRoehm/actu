@@ -24,7 +24,7 @@ def otl_publication_dates(content):
     return dates
 
 
-def latest_otl_chapter(content, manga):
+def otl_chapters(content, manga):
     series = urlsplit(manga["pageUrl"]).path.strip("/").split("/")[-1]
     candidates = []
     for attributes, label in re.findall(r"<a\b([^>]*)>(.*?)</a>", content.decode("utf-8", "replace"), re.S | re.I):
@@ -36,13 +36,11 @@ def latest_otl_chapter(content, manga):
         number = re.fullmatch(r"https://otl\.moe/read/" + re.escape(series) + r"/(\d+(?:\.\d+)?)/?", url)
         chapter = clean_title(label)
         if number and chapter:
-            candidates.append((Decimal(number[1]), {"chapter": chapter, "url": url, "publishedDate": None}))
-    if not candidates:
-        raise ValueError("Aucun lien de chapitre OTL reconnu")
-    return max(candidates, key=lambda candidate: candidate[0])[1]
+            candidates.append((Decimal(number[1]), {"chapter": chapter, "url": url.rstrip("/"), "publishedDate": None}))
+    return [chapter for _, chapter in sorted(candidates, key=lambda candidate: candidate[0], reverse=True)]
 
 
-def latest_gdscans_chapter(content, manga):
+def gdscans_chapters(content, manga):
     page_url = manga["pageUrl"].rstrip("/") + "/"
     chapter_path = re.escape(page_url) + r"(?:volume-\d+/)?(?:chapter|ch)-(\d+)(?:[-.](\d+))?/?"
     candidates = []
@@ -69,21 +67,16 @@ def latest_gdscans_chapter(content, manga):
                 pass
         rank = Decimal(f"{number[1]}.{number[2] or '0'}")
         candidates.append((rank, {"chapter": chapter, "url": url, "publishedDate": published}))
-    if not candidates:
-        raise ValueError("Aucun lien de chapitre GD Scans reconnu")
-    return max(candidates, key=lambda candidate: candidate[0])[1]
+    return [chapter for _, chapter in sorted(candidates, key=lambda candidate: candidate[0], reverse=True)]
 
 
-def latest_chapter(content, manga):
-    if manga.get("source") == "gdscans":
-        return latest_gdscans_chapter(content, manga)
-    if manga.get("source") == "otl":
-        return latest_otl_chapter(content, manga)
-    page_url = BASE + manga["slug"]
+def mangakatana_chapters(content, manga):
+    chapter_path = re.compile(re.escape(BASE + manga["slug"]) + r"/c\d+(?:\.\d+)*(?:[a-z])?")
+    chapters = []
     for row in re.findall(r"<tr\b[^>]*>(.*?)</tr>", content.decode("utf-8", "replace"), re.S | re.I):
         for href, label in re.findall(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', row, re.S | re.I):
             url = html.unescape(href)
-            if not re.fullmatch(re.escape(page_url) + r"/c\d+(?:\.\d+)*(?:[a-z])?", url):
+            if not chapter_path.fullmatch(url):
                 continue
             chapter = clean_title(label)
             if not chapter:
@@ -95,8 +88,39 @@ def latest_chapter(content, manga):
                     published = datetime.datetime.strptime(clean_title(date_match[1]), "%b-%d-%Y").date().isoformat()
                 except ValueError:
                     pass
-            return {"chapter": chapter, "url": url, "publishedDate": published}
-    raise ValueError("Aucun lien de chapitre reconnu")
+            chapters.append({"chapter": chapter, "url": url, "publishedDate": published})
+            break
+    return chapters
+
+
+def chapter_list(content, manga):
+    parser = {"otl": otl_chapters, "gdscans": gdscans_chapters}.get(manga.get("source"), mangakatana_chapters)
+    chapters = parser(content, manga)
+    if not chapters:
+        raise ValueError("Aucun lien de chapitre reconnu")
+    unique = {}
+    for chapter in chapters:
+        unique.setdefault(chapter["url"], chapter)
+    return list(unique.values())
+
+
+def recent_observations(chapters, previous, now):
+    previous_url = previous.get("url", "").rstrip("/")
+    observations = {entry["url"]: entry for entry in previous.get("recentChapters", [])}
+    if previous_url and previous.get("firstSeenAt"):
+        observations.setdefault(previous_url, {"url": previous_url, "firstSeenAt": previous["firstSeenAt"], "publishedDate": previous.get("publishedDate")})
+    # Sans chapitre de référence dans la liste, initialiser avec le premier seul.
+    listed = {chapter["url"].rstrip("/"): chapter for chapter in chapters}
+    boundary = next((index for index, url in enumerate(listed) if url == previous_url), 1)
+    cutoff = now - datetime.timedelta(days=2)
+    recent = []
+    for index, (url, chapter) in enumerate(listed.items()):
+        if index < boundary:
+            observations.setdefault(url, {"url": url, "firstSeenAt": now.isoformat(), "publishedDate": None})
+        observation = observations.get(url)
+        if observation and (parse_date(observation["firstSeenAt"]) or cutoff) > cutoff:
+            recent.append(dict(observation, publishedDate=chapter["publishedDate"] or observation["publishedDate"]))
+    return recent
 
 
 def collect_manga(manga, previous, now, otl_dates=None):
@@ -119,13 +143,24 @@ def collect_manga(manga, previous, now, otl_dates=None):
             content = fetch(url, data=b"")
         else:
             content = fetch(item["pageUrl"])
-        chapter = latest_chapter(content, manga)
+        chapters = chapter_list(content, manga)
+        previous_url = previous.get("url", "").rstrip("/")
         if item["source"] == "otl":
-            chapter["publishedDate"] = (otl_dates or {}).get(chapter["url"])
-            if not chapter["publishedDate"] and previous.get("url") == chapter["url"]:
-                chapter["publishedDate"] = previous.get("publishedDate")
-        first_seen = previous.get("firstSeenAt") if previous.get("url") == chapter["url"] else None
-        return dict(item, **chapter, firstSeenAt=first_seen or now.isoformat(), ok=True, checkedAt=now.isoformat(), lastSuccessAt=now.isoformat())
+            known_dates = {entry["url"]: entry["publishedDate"] for entry in previous.get("recentChapters", [])}
+            known_dates[previous_url] = previous.get("publishedDate")
+            for chapter in chapters:
+                url = chapter["url"]
+                chapter["publishedDate"] = (otl_dates or {}).get(url) or known_dates.get(url)
+        latest = chapters[0]
+        same_day_count = sum(chapter["publishedDate"] == latest["publishedDate"] for chapter in chapters) if latest["publishedDate"] else 0
+        first_seen = previous.get("firstSeenAt") if previous_url == latest["url"].rstrip("/") else None
+        recent = recent_observations(chapters, previous, now)
+        result = dict(item, **latest, firstSeenAt=first_seen or now.isoformat(), ok=True, checkedAt=now.isoformat(), lastSuccessAt=now.isoformat())
+        if same_day_count > 1:
+            result["sameDayCount"] = same_day_count
+        if recent:
+            result["recentChapters"] = recent
+        return result
     except Exception as error:
         return dict(previous, **item, ok=False, checkedAt=now.isoformat(), error=str(error)[:180])
 
