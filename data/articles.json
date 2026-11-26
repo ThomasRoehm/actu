@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:50:40.202890+00:00",
+  "generatedAt": "2026-11-26T10:01:07.028012+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:50:40.202890+00:00"
+      "lastSuccessAt": "2026-11-26T10:01:07.028012+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "Après 15 ans de développement, l’éditeur vectoriel Skala est enfin disponible",
+      "url": "https://www.macg.co/logiciels/2026/11/apres-15-ans-de-developpement-lediteur-vectoriel-skala-est-enfin-disponible-312679",
+      "publishedAt": "2026-11-26T09:57:30+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : les meilleures offres sur les écrans externes pour Mac",
+      "url": "https://www.macg.co/materiel/2026/11/black-friday-les-meilleures-offres-sur-les-ecrans-externes-pour-mac-312677",
+      "publishedAt": "2026-11-26T09:53:23+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Le Sony WH-1000XM4C, version remise au goût du jour, est à prix fou au Black Friday",
+      "url": "https://www.iphon.fr/post/sony-wh-1000xm4c-version-remisegout-jour-prix-fou-black-friday",
+      "publishedAt": "2026-11-26T09:52:00+00:00"
+    },
     {
       "source": "tda",
       "title": "« Tout ce que dit Aaron Rodgers est vrai »",
@@ -154,6 +172,12 @@
       "publishedAt": "2026-11-26T09:45:21+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Un premier astronaute étranger est dans la station spatiale de la Chine",
+      "url": "https://www.generation-nt.com/actualites/station-spatiale-chine-astronaute-pakistanais-tiangong-2085117",
+      "publishedAt": "2026-11-26T09:45:01+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Un million de satellites : SpaceX obtient le feu vert pour son projet de data centers dans l’espace",
       "url": "https://www.numerama.com/sciences/2385245-un-million-de-satellites-spacex-obtient-le-feu-vert-pour-son-projet-de-data-centers-dans-lespace.html",
@@ -164,6 +188,12 @@
       "title": "Une chaine de TV 24/7 dopée à l'IA et personnalisée : la nouvelle idée qui germe chez Google",
       "url": "https://www.clubic.com/actualite-641050-une-chaine-de-tv-ia-24-7-et-personnalisee-la-nouvelle-idee-qui-germe-chez-google.html",
       "publishedAt": "2026-11-26T09:43:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Zéro moteur et 306 personnes à bord : comment cet Airbus a plané 19 minutes au-dessus de l’Atlantique ?",
+      "url": "https://www.journaldugeek.com/2026/11/26/plus-aucun-moteur-et-306-personnes-a-bord-comment-cet-airbus-a-plane-19-minutes-au-dessus-de-latlantique/",
+      "publishedAt": "2026-11-26T09:42:24+00:00"
     },
     {
       "source": "numerama",
@@ -188,6 +218,12 @@
       "title": "La TNT a coupé trois émetteurs le 24 novembre, voici ce que ça change pour les téléspectateurs",
       "url": "https://www.clubic.com/actualite-641119-la-tnt-a-coupe-trois-emetteurs-le-24-novembre-voici-ce-que-ca-change-pour-les-telespectateurs.html",
       "publishedAt": "2026-11-26T09:31:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le Black Friday est le moment des promos mais aussi des arnaques ! Comment bien se protéger",
+      "url": "https://www.generation-nt.com/actualites/black-friday-arnaque-sms-fausse-promotion-solution-bitdefender-total-security-2085043",
+      "publishedAt": "2026-11-26T09:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -251,7 +287,7 @@
     },
     {
       "source": "gnt",
-      "title": "SpaceX obtient le feu vert pour 1 million de serveurs spatiaux Starmind !",
+      "title": "SpaceX obtient le feu vert pour 1 million de serveurs spatiaux Starmind en orbite basse !",
       "url": "https://www.generation-nt.com/actualites/spacex-starmind-faa-accord-1-million-satellites-datacenter-spatial-2085108",
       "publishedAt": "2026-11-26T09:10:01+00:00"
     },
@@ -413,7 +449,7 @@
     },
     {
       "source": "gnt",
-      "title": "Le futur Intel Core Ultra 9 4970K BFC Nova Lake peut-il terrasser les puces AMD X3D ?",
+      "title": "Nova Lake : le futur processeur Intel Core Ultra 9 4970K BFC peut-il terrasser les puces AMD X3D ?",
       "url": "https://www.generation-nt.com/actualites/intel-core-ultra-4000-processeur-pc-bureau-caracteristiques-fuite-2085101",
       "publishedAt": "2026-11-26T08:20:01+00:00"
     },
@@ -521,7 +557,7 @@
     },
     {
       "source": "gnt",
-      "title": "La NASA finalise l'architecture du vaisseau nucléaire SR-1 Freedom, départ pour Mars dès 2028 !",
+      "title": "La NASA finalise l'architecture du vaisseau à propulsion nucléaire SR-1 Freedom, départ pour Mars dès 2028 !",
       "url": "https://www.generation-nt.com/actualites/nasa-vaisseau-nucleaire-sr1-freedom-exploration-mars-2085097",
       "publishedAt": "2026-11-26T07:20:01+00:00"
     },
@@ -530,6 +566,12 @@
       "title": "801 jours sans Recopie de l'iPhone en Europe : un lecteur « vibe code » sa propre alternative en open source",
       "url": "https://www.macg.co/ios/2026/11/801-jours-sans-recopie-de-liphone-en-europe-un-lecteur-vibe-code-sa-propre-alternative-en-open-source-312671",
       "publishedAt": "2026-11-26T07:17:18+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Stats & Highlights | Les Wolves restent invaincus en NBA Cup",
+      "url": "https://www.basketusa.com/news/964306/stats-highlights-les-wolves-restent-invaincus-en-nba-cup/",
+      "publishedAt": "2026-11-26T07:17:00+00:00"
     },
     {
       "source": "numerama",
@@ -629,6 +671,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
+      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
+      "publishedAt": "2026-11-26T06:29:20+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Les Cavaliers renversés par les remplaçants des Knicks",
       "url": "https://www.basketusa.com/news/964245/les-remplacants-des-knicks-renversent-les-cavaliers/",
       "publishedAt": "2026-11-26T06:23:45+00:00"
@@ -638,12 +686,6 @@
       "title": "Un iPhone 18 Pro Max contre un cyclope : qui a la meilleure autonomie ?",
       "url": "https://www.mac4ever.com/iphone/199303-un-iphone-18-pro-max-contre-un-cyclope-qui-a-la-meilleure-autonomie",
       "publishedAt": "2026-11-26T06:19:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Stats & Highlights | Les Wolves restent invaincus en NBA Cup",
-      "url": "https://www.basketusa.com/news/964306/stats-highlights-les-wolves-restent-invaincus-en-nba-cup/",
-      "publishedAt": "2026-11-26T06:17:00+00:00"
     },
     {
       "source": "clubic",
@@ -688,6 +730,12 @@
       "publishedAt": "2026-11-26T06:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Alperen Sengun et les Rockets stoppent la dynamique des Suns",
+      "url": "https://www.basketusa.com/news/964244/alperen-sengun-et-les-rockets-stoppent-la-bonne-dynamique-des-suns/",
+      "publishedAt": "2026-11-26T05:54:57+00:00"
+    },
+    {
       "source": "presse",
       "title": "7 millions de Français ne partent plus en randonnée sans cette application : les secrets d’AllTrails",
       "url": "https://www.presse-citron.net/7-millions-de-francais-ne-partent-plus-en-randonnee-sans-cette-applications-les-secrets-dalltrails/",
@@ -722,18 +770,6 @@
       "title": "Rams – Packers (26-13) : Blake Corum roule sur Green Bay",
       "url": "https://touchdownactu.com/361928/rams-packers-26-13-blake-corum-roule-sur-green-bay/",
       "publishedAt": "2026-11-26T05:29:50+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
-      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
-      "publishedAt": "2026-11-26T05:29:20+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Alperen Sengun et les Rockets stoppent la dynamique des Suns",
-      "url": "https://www.basketusa.com/news/964244/alperen-sengun-et-les-rockets-stoppent-la-bonne-dynamique-des-suns/",
-      "publishedAt": "2026-11-26T04:54:57+00:00"
     },
     {
       "source": "macg",
@@ -3806,54 +3842,6 @@
       "title": "Les renseignements occidentaux redoutent le lancement imminent d'un satellite russe doté d'une arme nucléaire",
       "url": "https://www.generation-nt.com/actualites/satellite-russe-arme-nucleaire-lancement-2084953",
       "publishedAt": "2026-11-24T10:05:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Test du REDMAGIC 12 Pro : une démonstration de puissance pour un smartphone gaming vendu toujours plus cher",
-      "url": "https://www.clubic.com/test-produit-635371-test-du-redmagic-12-pro.html",
-      "publishedAt": "2026-11-24T10:01:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iPhone Air 2 : pas de Dynamic Island réduite, Apple a choisi l'ultra grand-angle",
-      "url": "https://www.mac4ever.com/iphone/199243-iphone-air-2-pas-de-dynamic-island-reduite-apple-a-choisi-l-ultra-grand-angle",
-      "publishedAt": "2026-11-24T10:01:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Naruto : un personnage iconique trouve enfin son acteur (et il est excellent)",
-      "url": "https://www.journaldugeek.com/2026/11/24/naruto-un-personnage-iconique-trouve-enfin-son-acteur-et-il-est-excellent/",
-      "publishedAt": "2026-11-24T10:00:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Flexispot Align : un bureau assis debout électrique en bois massif avec diffuseur de parfum !",
-      "url": "https://www.mac4ever.com/mac/199233-flexispot-align-un-bureau-assis-debout-electrique-en-bois-massif-avec-diffuseur-de-parfum",
-      "publishedAt": "2026-11-24T09:56:54+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : Intego ONE à moitié prix, la sécurité Mac tout-en-un dès 30 €",
-      "url": "https://www.macg.co/services/2026/11/black-friday-intego-one-moitie-prix-la-securite-mac-tout-en-un-des-30-eu-312461",
-      "publishedAt": "2026-11-24T09:55:48+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Vous pourrez acheter vos billets de train SNCF sur Uber dès le 30 novembre : voici comment ça marche",
-      "url": "https://www.presse-citron.net/vous-pourrez-acheter-vos-billets-de-train-sncf-sur-uber-des-le-30-novembre-voici-comment-ca-marche/",
-      "publishedAt": "2026-11-24T09:54:37+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Diesel : des millions de voitures thermiques bientôt sauvées grâce à cette découverte totalement folle",
-      "url": "https://www.presse-citron.net/diesel-des-millions-de-voitures-thermiques-bientot-sauvees-grace-a-cette-decouverte-totalement-folle/",
-      "publishedAt": "2026-11-24T09:52:48+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Claviers, souris, trackpads Apple en promo : notre sélection du Black Friday est là",
-      "url": "https://www.iphon.fr/post/claviers-souris-trackpads-apple-promo-selection-black-friday",
-      "publishedAt": "2026-11-24T09:51:10+00:00"
     },
     {
       "source": "boulet",
