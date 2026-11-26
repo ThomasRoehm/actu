@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T06:50:38.295675+00:00",
+  "generatedAt": "2026-11-26T07:01:06.230424+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
+      "lastSuccessAt": "2026-11-26T07:01:06.230424+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "L’iPhone Duo ridiculisé par un modèle chinois ?",
+      "url": "https://www.iphon.fr/post/ecran-pliant-huawei-mate-x8-vs-iphone-duo-reflets",
+      "publishedAt": "2026-11-26T06:59:32+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Près de 30 % des premiers acheteurs renvoient l'iPhone Duo",
+      "url": "https://www.generation-nt.com/actualites/iphone-duo-retours-30-2085080",
+      "publishedAt": "2026-11-26T06:50:01+00:00"
+    },
     {
       "source": "presse",
       "title": "Et si l’IA voyait venir les crises avant nous ? Voici comment Epochal veut permettre à celle-ci de prédire l’avenir",
@@ -152,6 +164,12 @@
       "title": "1Password piraté : le code source et des données clients dans la nature, mais les coffres restent inviolés",
       "url": "https://www.macg.co/logiciels/2026/11/1password-pirate-le-code-source-et-des-donnees-clients-dans-la-nature-mais-les-coffres-restent-invioles-312669",
       "publishedAt": "2026-11-26T06:30:09+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des puces Nvidia grand public guident les armes autonomes russes en Ukraine",
+      "url": "https://www.generation-nt.com/actualites/nvidia-jetson-orin-puce-ia-integration-drone-russe-2085078",
+      "publishedAt": "2026-11-26T06:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -244,6 +262,12 @@
       "publishedAt": "2026-11-26T05:43:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "LeBron James en triple-double, les Sixers dominent le Heat !",
+      "url": "https://www.basketusa.com/news/964239/avec-lebron-james-en-triple-double-les-sixers-dominent-le-heat/",
+      "publishedAt": "2026-11-26T05:41:52+00:00"
+    },
+    {
       "source": "gnt",
       "title": "La CIA frappée par une cyberattaque exploitant le même outil d'IA que Bruxelles",
       "url": "https://www.generation-nt.com/actualites/cia-cyberattaque-outil-ia-bruxelle-2085084",
@@ -260,12 +284,6 @@
       "title": "Rams – Packers (26-13) : Blake Corum roule sur Green Bay",
       "url": "https://touchdownactu.com/361928/rams-packers-26-13-blake-corum-roule-sur-green-bay/",
       "publishedAt": "2026-11-26T05:29:50+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James en triple-double, les Sixers dominent le Heat !",
-      "url": "https://www.basketusa.com/news/964239/avec-lebron-james-en-triple-double-les-sixers-dominent-le-heat/",
-      "publishedAt": "2026-11-26T04:41:52+00:00"
     },
     {
       "source": "macg",
@@ -3884,30 +3902,6 @@
       "title": "Nothing transforme le boîtier de ses écouteurs en dictaphone IA",
       "url": "https://www.journaldugeek.com/2026/11/24/nothing-transforme-le-boitier-de-ses-ecouteurs-en-dictaphone-ia/",
       "publishedAt": "2026-11-24T07:01:16+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Batterie iPhone : Apple ralentit-elle vraiment les anciens modèles ?",
-      "url": "https://www.iphon.fr/post/apple-accusations-obsolescence-programmee-iphone-batterie",
-      "publishedAt": "2026-11-24T06:58:22+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Elle rappelle le Defender, mais c’est une BYD : pourquoi ce SUV hybride ne peut-il pas être vendu en France ?",
-      "url": "https://www.presse-citron.net/elle-rappelle-la-defender-mais-cest-une-byd-pourquoi-ce-suv-hybride-ne-peut-il-pas-etre-vendu-en-france/",
-      "publishedAt": "2026-11-24T06:56:45+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Stats & Highlights | Les Bucks gagnent enfin !",
-      "url": "https://www.basketusa.com/news/961680/stats-highlights-les-bucks-gagnent-enfin/",
-      "publishedAt": "2026-11-24T06:53:06+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "500 000 kilomètres sans panne : c’est la voiture la plus fiable d’après les contrôleurs techniques interrogés",
-      "url": "https://www.presse-citron.net/500-000-kilometres-sans-panne-cest-la-voiture-la-plus-fiable-dapres-les-controleurs-techniques-interroges/",
-      "publishedAt": "2026-11-24T06:51:38+00:00"
     },
     {
       "source": "boulet",
