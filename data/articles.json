@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T10:40:39.673740+00:00",
+  "generatedAt": "2026-11-26T10:50:49.027078+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     },
     {
       "id": "boulet",
@@ -131,21 +131,51 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
+      "lastSuccessAt": "2026-11-26T10:50:49.027078+00:00"
     }
   ],
   "articles": [
     {
+      "source": "numerama",
+      "title": "Le Black Friday rend enfin l’OLED abordable : l’écran MSI PRO MAX de 34″ passe sous les 700 €",
+      "url": "https://www.numerama.com/tech/2385263-le-black-friday-rend-enfin-loled-abordable-lecran-msi-pro-max-de-34-passe-sous-les-700-e.html",
+      "publishedAt": "2026-11-26T10:46:10+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-26T10:37:00+00:00"
+      "publishedAt": "2026-11-26T10:46:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Version deux places et aileron de F1 : la Xiaomi SU7 Ultra se transforme en pistarde radicale",
+      "url": "https://www.numerama.com/vroom/2385217-version-deux-places-et-aileron-de-f1-la-xiaomi-su7-ultra-se-transforme-en-pistarde-radicale.html",
+      "publishedAt": "2026-11-26T10:43:33+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "AirTags : on a regardé partout et c’est sur ce site qu’ils sont les moins chers (79,99 € les 4)",
+      "url": "https://www.iphon.fr/post/airtags-on-a-regarde-partout-site-moins-chers",
+      "publishedAt": "2026-11-26T10:43:25+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Le Black Friday met la Garmin Instinct E à portée des petits budgets : cette montre GPS passe à 184,64€ chez Amazon",
+      "url": "https://www.clubic.com/bons-plans-641128-le-black-friday-met-la-garmin-instinct-e-a-portee-des-petits-budgets-cette-montre-gps-passe-a-184-64-chez-amazon.html",
+      "publishedAt": "2026-11-26T10:41:00+00:00"
     },
     {
       "source": "clubic",
       "title": "Qui pour freiner Elon Musk ? C'est officiel, SpaceX est autorisée à lancer 1 million de data centers en orbite",
       "url": "https://www.clubic.com/actualite-641116-plus-rien-ne-peut-freiner-elon-musk-c-est-officiel-spacex-autorisee-a-lancer-1-million-de-data-centers-en-orbite.html",
       "publishedAt": "2026-11-26T10:34:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : les joueurs ont trouvé un moyen de déshabiller Lucia avec cette méthode",
+      "url": "https://www.journaldugeek.com/2026/11/26/gta-6-les-joueurs-ont-trouve-un-moyen-de-deshabiller-lucia-avec-cette-methode/",
+      "publishedAt": "2026-11-26T10:32:26+00:00"
     },
     {
       "source": "presse",
@@ -3776,36 +3806,6 @@
       "title": "Plus besoin de retourner votre carte bancaire : Google Wallet va bientôt remplir votre CVV à votre place",
       "url": "https://www.clubic.com/actualite-640735-plus-besoin-de-retourner-votre-carte-bancaire-google-wallet-va-bientot-remplir-votre-cvv-a-votre-place.html",
       "publishedAt": "2026-11-24T10:52:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Free traduit vos appels en direct avec son réseau mobile",
-      "url": "https://www.generation-nt.com/actualites/free-mobile-traduction-live-appels-ia-forfait-free-max-2084998",
-      "publishedAt": "2026-11-24T10:50:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "De la poussière aux taches incrustées, comment fonctionnent les appareils de nettoyage Tineco en promo au Black Friday [Sponso]",
-      "url": "https://www.numerama.com/tech/2380087-de-la-poussiere-aux-taches-incrustees-comment-fonctionnent-les-appareils-de-nettoyage-tineco-en-promo-au-black-friday.html",
-      "publishedAt": "2026-11-24T10:48:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Spam téléphonique : Surfshark lance son outil de protection",
-      "url": "https://www.clubic.com/actualite-640732-spam-telephonique-surfshark-lance-son-outil-de-protection.html",
-      "publishedAt": "2026-11-24T10:44:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Outlook a bien perdu des e-mails pendant la panne de Microsoft 365",
-      "url": "https://korben.info/outlook-a-bien-perdu-des-e-mails-pendant-la-panne-de-microsoft-365.html",
-      "publishedAt": "2026-11-24T10:43:39+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Black Friday : Amazon supprime 110 € sur la note pour le dernier iPad Air M4 11″",
-      "url": "https://www.iphon.fr/post/black-friday-amazon-supprime-110-euros-note-dernier-ipad-air-m4-11",
-      "publishedAt": "2026-11-24T10:42:04+00:00"
     },
     {
       "source": "boulet",
