@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:10:42.124387+00:00",
+  "generatedAt": "2026-11-26T16:20:41.940172+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:10:42.124387+00:00"
+      "lastSuccessAt": "2026-11-26T16:20:41.940172+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "OpenAI corrige une erreur et réduit votre quota Codex avec GPT-6.2",
+      "url": "https://www.clubic.com/actualite-641272-openai-corrige-une-grosse-erreur-de-facturation-sur-gpt-6-2-vos-limites-vont-baisser-de-40.html",
+      "publishedAt": "2026-11-26T16:15:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Alertes sur les sites GenAI : l'extension de Next disponible pour Safari",
+      "url": "https://www.macg.co/logiciels/2026/11/alertes-sur-les-sites-genai-lextension-de-next-disponible-pour-safari-312687",
+      "publishedAt": "2026-11-26T16:15:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Comment naissent les étoiles ? La NASA nous offre une réponse incroyable en sons et en images !",
@@ -146,6 +158,12 @@
       "title": "Erik Spoelstra cherche encore l’ADN défensif du Heat",
       "url": "https://www.basketusa.com/news/964519/erik-spoelstra-cherche-encore-ladn-defensif-du-heat/",
       "publishedAt": "2026-11-26T16:04:08+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Après avoir photographié Didymos, la sonde Hera a capturé les premières images de son compagnon Dimorphos. Percuté par la sonde DART de la NASA, il arbore désormais un cratère de la taille d’un stade de football",
+      "url": "https://www.journaldugeek.com/2026/11/26/apres-avoir-photographie-didymos-sonde-hera-capture-premieres-images-compagnon-dimorphos-percute-sonde-dart-nasa-arbore-cratere-taille-stade-football/",
+      "publishedAt": "2026-11-26T16:02:37+00:00"
     },
     {
       "source": "clubic",
@@ -200,6 +218,18 @@
       "title": "La carte Vitale devient un moyen de connexion à FranceConnect",
       "url": "https://www.mac4ever.com/web/199325-la-carte-vitale-devient-un-moyen-de-connexion-a-franceconnect",
       "publishedAt": "2026-11-26T15:43:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "SpaceX peut déployer un million de satellites IA",
+      "url": "https://korben.info/spacex-peut-deployer-un-million-de-satellites-ia.html",
+      "publishedAt": "2026-11-26T15:42:21+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Ce SSD vendu 25 euros en Chine embarque des puces d'iPhone modifiées",
+      "url": "https://korben.info/ce-ssd-vendu-25-euros-en-chine-embarque-des-puces-diphone-modifiees.html",
+      "publishedAt": "2026-11-26T15:42:19+00:00"
     },
     {
       "source": "basketusa",
@@ -472,6 +502,12 @@
       "publishedAt": "2026-11-26T13:55:00+00:00"
     },
     {
+      "source": "numerama",
+      "title": "Après Riemann, ce chercheur de renom est « quasiment certain » que l’IA a trouvé autre chose, et ça concerne vos données",
+      "url": "https://www.numerama.com/tech/2385329-apres-riemann-ce-chercheur-de-renom-est-quasiment-certain-que-lia-a-trouve-autre-chose-et-ca-concerne-vos-donnees.html",
+      "publishedAt": "2026-11-26T13:52:00+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
@@ -742,6 +778,12 @@
       "publishedAt": "2026-11-26T11:37:45+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Jose Alvarado : « On sait qu’on a le meilleur banc de la ligue »",
+      "url": "https://www.basketusa.com/news/964301/jose-alvarado-on-sait-quon-a-le-meilleur-banc-de-la-ligue/",
+      "publishedAt": "2026-11-26T11:30:18+00:00"
+    },
+    {
       "source": "presse",
       "title": "Guyane : 5 hectares de feu à cause de la dernière mission d’Ariane 6, présentée comme un succès",
       "url": "https://www.presse-citron.net/guyane-5-hectares-de-feu-a-cause-de-la-derniere-mission-dariane-6-presentee-comme-un-succes/",
@@ -908,12 +950,6 @@
       "title": "“Le marché du travail est gelé” : LinkedIn révèle l’astuce qui permet aux jeunes diplômés de trouver un emploi plus vite",
       "url": "https://www.presse-citron.net/marche-travail-gele-linkedin-astuce-jeunes-diplomes/",
       "publishedAt": "2026-11-26T10:30:28+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Jose Alvarado : « On sait qu’on a le meilleur banc de la ligue »",
-      "url": "https://www.basketusa.com/news/964301/jose-alvarado-on-sait-quon-a-le-meilleur-banc-de-la-ligue/",
-      "publishedAt": "2026-11-26T10:30:18+00:00"
     },
     {
       "source": "gnt",
@@ -1430,6 +1466,12 @@
       "title": "Stats & Highlights | Les Wolves restent invaincus en NBA Cup",
       "url": "https://www.basketusa.com/news/964306/stats-highlights-les-wolves-restent-invaincus-en-nba-cup/",
       "publishedAt": "2026-11-26T07:17:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Apple : les 11 meilleures offres Amazon, des AirPods Pro 3 au Macbook Air",
+      "url": "https://www.clubic.com/bons-plans-641245-black-friday-apple-les-11-meilleures-offres-amazon-des-airpods-pro-3-au-macbook-air.html",
+      "publishedAt": "2026-11-26T07:15:00+00:00"
     },
     {
       "source": "numerama",
@@ -3770,24 +3812,6 @@
       "title": "Ariane 6 décolle sur le fil et place 36 satellites Amazon Leo en orbite",
       "url": "https://www.clubic.com/actualite-640864-un-jour-de-retard-un-decollage-a-l-ultime-minute-ariane-6-emporte-36-satellites-amazon-leo.html",
       "publishedAt": "2026-11-24T16:24:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Anthropic introduit Claude Ship pour valider vos pull requests",
-      "url": "https://www.generation-nt.com/actualites/anthropic-claude-ship-pull-requests-github-automatisation-code-2084990",
-      "publishedAt": "2026-11-24T16:20:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Shai Gilgeous-Alexander, un MVP sans filet",
-      "url": "https://www.basketusa.com/news/963682/shai-gilgeous-alexander-un-mvp-sans-filet/",
-      "publishedAt": "2026-11-24T16:12:22+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "New York Knicks – Cleveland Cavaliers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/963752/new-york-knicks-cleveland-calaviers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-24T16:10:45+00:00"
     },
     {
       "source": "boulet",
