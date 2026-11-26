@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T14:01:05.558440+00:00",
+  "generatedAt": "2026-11-26T14:10:42.427297+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T14:01:05.558440+00:00"
+      "lastSuccessAt": "2026-11-26T14:10:42.427297+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Waze vous avertit à l’approche des passages piétons surélevés",
+      "url": "https://www.clubic.com/actualite-641212-waze-vous-avertit-a-l-approche-des-passages-pietons-sureleves.html",
+      "publishedAt": "2026-11-26T14:02:00+00:00"
+    },
     {
       "source": "iphon",
       "title": "Beats : Amazon casse les prix pour le Black Friday, 7 offres à saisir",
@@ -146,6 +152,12 @@
       "title": "Metrolist débarque sur PC et iPhone avec son client YouTube Music Premium gratuit",
       "url": "https://www.generation-nt.com/actualites/metrolist-client-youtube-music-gratuit-2085095",
       "publishedAt": "2026-11-26T13:55:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "La hausse du Smic en France vient de paraître au Journal officiel",
+      "url": "https://www.presse-citron.net/la-hausse-du-smic-en-france-vient-de-paraitre-au-journal-officiel/",
+      "publishedAt": "2026-11-26T13:55:00+00:00"
     },
     {
       "source": "clubic",
@@ -3800,24 +3812,6 @@
       "title": "Xbox veut rendre gratuite cette fonctionnalité payante depuis 2002",
       "url": "https://www.journaldugeek.com/2026/11/24/xbox-veut-rendre-gratuite-cette-fonctionnalite-payante-depuis-2002/",
       "publishedAt": "2026-11-24T14:12:20+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un bidouilleur transforme le trackpad Force Touch du MacBook en haut-parleur grâce au moteur haptique",
-      "url": "https://www.generation-nt.com/actualites/trackpad-macbook-haut-parleur-haptique-2084951",
-      "publishedAt": "2026-11-24T14:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Raptors toujours en quête de repères des deux côtés du terrain",
-      "url": "https://www.basketusa.com/news/962216/les-raptors-toujours-en-quete-de-reperes-des-deux-cotes-du-terrain/",
-      "publishedAt": "2026-11-24T14:04:28+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Biotechnologie : grâce à cette plante proche du tabac, des scientifiques ont réussi à fabriquer un puissant traitement anticancéreux",
-      "url": "https://www.presse-citron.net/biotechnologie-grace-plante-proche-tabac-scientifiques-fabriquer-puissant-traitement-anticancereux/",
-      "publishedAt": "2026-11-24T14:02:46+00:00"
     },
     {
       "source": "boulet",
