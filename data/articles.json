@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T17:50:37.495798+00:00",
+  "generatedAt": "2026-11-26T18:01:09.372248+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T17:50:37.495798+00:00"
+      "lastSuccessAt": "2026-11-26T18:01:09.372248+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "De premiers outils de contrôle parental pour X",
+      "url": "https://www.generation-nt.com/actualites/outils-controle-parental-x-supervision-2085134",
+      "publishedAt": "2026-11-26T18:00:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Ligue nationale de basket piratée : 40 000 comptes exposés, et un chantage contre les supporters",
+      "url": "https://www.clubic.com/actualite-641293-ligue-nationale-de-basket-piratee-40-000-comptes-exposes-et-un-chantage-contre-les-supporters.html",
+      "publishedAt": "2026-11-26T17:57:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Sony décroche un partenariat marketing pour The Witcher 4",
+      "url": "https://www.generation-nt.com/actualites/partenariat-marketing-sony-witcher-4-2085075",
+      "publishedAt": "2026-11-26T17:40:01+00:00"
+    },
     {
       "source": "jdg",
       "title": "Parc Dragon Ball : le maire de Cergy pose ses conditions, mais sans Goku",
@@ -152,6 +170,12 @@
       "title": "macOS peut capturer images et vidéos en HDR",
       "url": "https://www.macg.co/macos/2026/11/macos-peut-capturer-images-et-videos-en-hdr-312689",
       "publishedAt": "2026-11-26T17:31:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "LeBron James et les « papys du triple-double »",
+      "url": "https://www.basketusa.com/news/964456/lebron-james-et-les-papys-du-triple-double/",
+      "publishedAt": "2026-11-26T17:27:28+00:00"
     },
     {
       "source": "clubic",
@@ -266,12 +290,6 @@
       "title": "IA : Microsoft alerte sur une vague de pannes à venir dans la tech",
       "url": "https://www.clubic.com/actualite-641269-ia-microsoft-alerte-sur-une-vague-de-pannes-tech-a-venir.html",
       "publishedAt": "2026-11-26T16:28:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James et les « papys du triple-double »",
-      "url": "https://www.basketusa.com/news/964456/lebron-james-et-les-papys-du-triple-double/",
-      "publishedAt": "2026-11-26T16:27:28+00:00"
     },
     {
       "source": "gnt",
@@ -410,12 +428,6 @@
       "title": "Black Friday xTool : jusqu’à -68 % sur les machines de gravure laser et d’impression UV, laquelle choisir ?",
       "url": "https://www.clubic.com/actualite-639520-black-friday-xtool-jusqu-a--68-sur-les-machines-de-gravure-laser-et-d-impression-uv-laquelle-choisir.html",
       "publishedAt": "2026-11-26T15:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Utah Jazz – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964222/utah-jazz-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-26T15:28:38+00:00"
     },
     {
       "source": "basketusa",
@@ -584,6 +596,12 @@
       "title": "WhatsApp vous permet enfin de programmer vos messages",
       "url": "https://www.generation-nt.com/actualites/whatsapp-programmer-message-planifier-2085111",
       "publishedAt": "2026-11-26T14:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Utah Jazz – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964222/utah-jazz-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-26T14:28:38+00:00"
     },
     {
       "source": "clubic",
@@ -1384,6 +1402,12 @@
       "publishedAt": "2026-11-26T09:00:01+00:00"
     },
     {
+      "source": "mac4ever",
+      "title": "Black Friday : LEFANT casse les prix de ses robots aspirateurs-laveurs, dès 189 € !",
+      "url": "https://www.mac4ever.com/domotique/199206-black-friday-lefant-casse-les-prix-de-ses-robots-aspirateurs-laveurs-des-189",
+      "publishedAt": "2026-11-26T09:00:00+00:00"
+    },
+    {
       "source": "presse",
       "title": "Ils voulaient juste faire le plein : les comptes bancaires de ces automobilistes ont été vidés à distance",
       "url": "https://www.presse-citron.net/ils-voulaient-juste-faire-le-plein-les-comptes-bancaires-de-ces-automobilistes-ont-ete-vides-a-distance/",
@@ -1492,6 +1516,12 @@
       "publishedAt": "2026-11-26T08:21:52+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Portland n’a pas lâché son plan anti-Wemby",
+      "url": "https://www.basketusa.com/news/964328/portland-na-pas-lache-son-plan-anti-wemby/",
+      "publishedAt": "2026-11-26T08:20:23+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Nova Lake : le futur processeur Intel Core Ultra 9 4970K BFC peut-il terrasser les puces AMD X3D ?",
       "url": "https://www.generation-nt.com/actualites/intel-core-ultra-4000-processeur-pc-bureau-caracteristiques-fuite-2085101",
@@ -1598,12 +1628,6 @@
       "title": "WhatsApp ajoute du bruit à ses stickers",
       "url": "https://www.journaldugeek.com/2026/11/26/whatsapp-ajoute-du-bruit-a-ses-stickers/",
       "publishedAt": "2026-11-26T07:29:20+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Portland n’a pas lâché son plan anti-Wemby",
-      "url": "https://www.basketusa.com/news/964328/portland-na-pas-lache-son-plan-anti-wemby/",
-      "publishedAt": "2026-11-26T07:20:23+00:00"
     },
     {
       "source": "gnt",
