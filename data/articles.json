@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T11:40:40.835208+00:00",
+  "generatedAt": "2026-11-26T11:50:38.433709+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:40:40.835208+00:00"
+      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "CarPlay Ultra : pourquoi aucune voiture vendue en France ne l'affiche ?",
+      "url": "https://www.mac4ever.com/auto/199318-carplay-ultra-pourquoi-aucune-voiture-vendue-en-france-ne-l-affiche",
+      "publishedAt": "2026-11-26T11:46:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Zelda Ocarina of Time sur Switch 2 : vous êtes bloqué au ranch Lon Lon ? Nintendo vient de régler le problème avec une mise à jour",
+      "url": "https://www.journaldugeek.com/2026/11/26/zelda-ocarina-of-time-sur-switch-2-vous-etes-bloque-au-ranch-lon-lon-nintendo-vient-de-regler-le-probleme-avec-une-mise-a-jour/",
+      "publishedAt": "2026-11-26T11:37:45+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Jose Alvarado : « On sait qu’on a le meilleur banc de la ligue »",
@@ -923,6 +935,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
+      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
+      "publishedAt": "2026-11-26T06:29:20+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Les Cavaliers renversés par les remplaçants des Knicks",
       "url": "https://www.basketusa.com/news/964245/les-remplacants-des-knicks-renversent-les-cavaliers/",
       "publishedAt": "2026-11-26T06:23:45+00:00"
@@ -1012,12 +1030,6 @@
       "publishedAt": "2026-11-26T05:29:50+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
-      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
-      "publishedAt": "2026-11-26T05:29:20+00:00"
-    },
-    {
       "source": "macg",
       "title": "Trump et MAGA : la Silicon Valley découvre que ses vestes sont réversibles",
       "url": "https://www.macg.co/ailleurs/2026/11/trump-et-maga-la-silicon-valley-decouvre-que-ses-vestes-sont-reversibles-312665",
@@ -1072,6 +1084,12 @@
       "publishedAt": "2026-11-25T19:34:45+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs retrouvent les Blazers",
+      "url": "https://www.basketusa.com/news/964207/programme-du-soir-victor-wembanyama-et-les-spurs-retrouvent-les-blazers/",
+      "publishedAt": "2026-11-25T19:30:17+00:00"
+    },
+    {
       "source": "macg",
       "title": "Test de l’iMac M6 : toujours aussi charmant, mais toujours plus cher",
       "url": "https://www.macg.co/tests/2026/11/test-de-limac-m6-toujours-aussi-charmant-mais-toujours-plus-cher-312653",
@@ -1124,12 +1142,6 @@
       "title": "GTA 6 – Comment découvrir les backrooms de Leonida et obtenir une amélioration permanente ?",
       "url": "https://www.journaldugeek.com/2026/11/25/gta-6-comment-decouvrir-les-backrooms-de-leonida-et-obtenir-une-amelioration-permanente/",
       "publishedAt": "2026-11-25T18:32:03+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs retrouvent les Blazers",
-      "url": "https://www.basketusa.com/news/964207/programme-du-soir-victor-wembanyama-et-les-spurs-retrouvent-les-blazers/",
-      "publishedAt": "2026-11-25T18:30:17+00:00"
     },
     {
       "source": "clubic",
@@ -3794,18 +3806,6 @@
       "title": "3,5 milliards de données personnelles en libre accès : des pirates laissent à leur tour fuiter leurs fichiers",
       "url": "https://www.clubic.com/actualite-640798-milliards-de-donnees-personnelles-en-libre-acces-des-pirates-laissent-a-leur-tour-fuiter-leurs-fichiers.html",
       "publishedAt": "2026-11-24T11:53:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Fnac / Darty : le vidéoprojecteur XGIMI Elfin Flip Pro à prix réduit aujourd'hui seulement !",
-      "url": "https://www.generation-nt.com/actualites/xgimi-elfin-flip-pro-projecteur-laser-full-hd-google-tv-black-friday-pas-cher-fnac-darty-2085001",
-      "publishedAt": "2026-11-24T11:50:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Et si l’informatique quantique révolutionnait le secteur de l’énergie en premier ? Ils y croient",
-      "url": "https://www.clubic.com/actualite-640744-et-si-l-informatique-quantique-revolutionnait-le-secteur-de-l-energie-en-premier-ils-y-croient.html",
-      "publishedAt": "2026-11-24T11:45:00+00:00"
     },
     {
       "source": "boulet",
