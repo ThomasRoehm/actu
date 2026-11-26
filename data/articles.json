@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T10:30:55.544959+00:00",
+  "generatedAt": "2026-11-26T10:40:39.673740+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
+      "lastSuccessAt": "2026-11-26T10:40:39.673740+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-26T10:37:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Qui pour freiner Elon Musk ? C'est officiel, SpaceX est autorisée à lancer 1 million de data centers en orbite",
+      "url": "https://www.clubic.com/actualite-641116-plus-rien-ne-peut-freiner-elon-musk-c-est-officiel-spacex-autorisee-a-lancer-1-million-de-data-centers-en-orbite.html",
+      "publishedAt": "2026-11-26T10:34:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "“Le marché du travail est gelé” : LinkedIn révèle l’astuce qui permet aux jeunes diplômés de trouver un emploi plus vite",
+      "url": "https://www.presse-citron.net/marche-travail-gele-linkedin-astuce-jeunes-diplomes/",
+      "publishedAt": "2026-11-26T10:30:28+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Brandon Williams, le « Bip Bip » des Warriors",
@@ -212,6 +230,12 @@
       "title": "Après 15 ans de développement, l’éditeur vectoriel Skala est enfin disponible",
       "url": "https://www.macg.co/logiciels/2026/11/apres-15-ans-de-developpement-lediteur-vectoriel-skala-est-enfin-disponible-312679",
       "publishedAt": "2026-11-26T09:57:30+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
+      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
+      "publishedAt": "2026-11-26T09:54:29+00:00"
     },
     {
       "source": "macg",
@@ -383,12 +407,6 @@
     },
     {
       "source": "clubic",
-      "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-26T09:02:00+00:00"
-    },
-    {
-      "source": "clubic",
       "title": "Gemini Notebook veut vous faire réviser comme un pro et ses nouvelles fiches ont de quoi séduire",
       "url": "https://www.clubic.com/actualite-641095-gemini-notebook-veut-vous-faire-reviser-comme-un-pro-et-ses-nouvelles-fiches-ont-de-quoi-seduire.html",
       "publishedAt": "2026-11-26T09:02:00+00:00"
@@ -404,12 +422,6 @@
       "title": "Black Friday : notre podium du jour (enceinte Harman Kardon, casque Sony WH-1000XM6 et TV 4K Hisense)",
       "url": "https://www.generation-nt.com/actualites/enceinte-harman-kardon-aura-studio-5-casque-bluetooth-sony-wh-1000xm6-tv-4k-hisense-50a6s-black-friday-promos-pas-cher-2085118",
       "publishedAt": "2026-11-26T09:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
-      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
-      "publishedAt": "2026-11-26T08:54:29+00:00"
     },
     {
       "source": "presse",
@@ -3794,24 +3806,6 @@
       "title": "Black Friday : Amazon supprime 110 € sur la note pour le dernier iPad Air M4 11″",
       "url": "https://www.iphon.fr/post/black-friday-amazon-supprime-110-euros-note-dernier-ipad-air-m4-11",
       "publishedAt": "2026-11-24T10:42:04+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Mieux vaut ne pas voler une Tesla dans GTA 6 : voici ce que Rockstar vous réserve",
-      "url": "https://www.presse-citron.net/mieux-vaut-ne-pas-voler-une-tesla-dans-gta-6-voici-ce-que-rockstar-vous-reserve-avec-coil-rander-voiture/",
-      "publishedAt": "2026-11-24T10:37:57+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Écran pliable de l'iPhone Duo : Samsung seul fournisseur pour encore cinq ans ?",
-      "url": "https://www.mac4ever.com/iphone/199245-ecran-pliable-de-l-iphone-duo-samsung-seul-fournisseur-pour-encore-cinq-ans",
-      "publishedAt": "2026-11-24T10:36:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Quad9 ne fonctionne plus en France : voici comment vérifier si vous l’utilisez et le remplacer",
-      "url": "https://www.numerama.com/tech/2379931-quad9-ne-fonctionne-plus-en-france-voici-comment-verifier-si-vous-lutilisez-et-le-remplacer.html",
-      "publishedAt": "2026-11-24T10:30:57+00:00"
     },
     {
       "source": "boulet",
