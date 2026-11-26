@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:40:44.445743+00:00",
+  "generatedAt": "2026-11-26T15:50:40.572693+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:40:44.445743+00:00"
+      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Ce chargeur 65W est bradé à moitié prix pour le Black Friday : 19€ pour charger tous vos appareils !",
+      "url": "https://www.mac4ever.com/iphone/199326-ce-chargeur-65w-est-brade-a-moitie-prix-pour-le-black-friday-19-pour-charger-tous-vos-appareils",
+      "publishedAt": "2026-11-26T15:50:26+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 : toutes les astuces de gameplay que le jeu ne vous explique pas",
+      "url": "https://www.numerama.com/pop-culture/2385417-gta-6-toutes-les-astuces-de-gameplay-que-le-jeu-ne-vous-explique-pas.html",
+      "publishedAt": "2026-11-26T15:48:24+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iOS 27.3 : quand sort la mise à jour et avec quelles nouveautés",
+      "url": "https://www.iphon.fr/post/quand-sort-ios-27-3-quelles-nouveautes",
+      "publishedAt": "2026-11-26T15:46:03+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "La carte Vitale devient un moyen de connexion à FranceConnect",
+      "url": "https://www.mac4ever.com/web/199325-la-carte-vitale-devient-un-moyen-de-connexion-a-franceconnect",
+      "publishedAt": "2026-11-26T15:43:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Steve Kerr place Draymond Green au-dessus de Dennis Rodman et Scottie Pippen",
@@ -1348,12 +1372,6 @@
       "publishedAt": "2026-11-26T07:17:18+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Stats & Highlights | Les Wolves restent invaincus en NBA Cup",
-      "url": "https://www.basketusa.com/news/964306/stats-highlights-les-wolves-restent-invaincus-en-nba-cup/",
-      "publishedAt": "2026-11-26T07:17:00+00:00"
-    },
-    {
       "source": "numerama",
       "title": "PlayStation Plus : les 3 jeux offerts en décembre 2026",
       "url": "https://www.numerama.com/pop-culture/2385097-playstation-plus-les-3-jeux-offerts-en-decembre-2026.html",
@@ -1466,6 +1484,12 @@
       "title": "Un iPhone 18 Pro Max contre un cyclope : qui a la meilleure autonomie ?",
       "url": "https://www.mac4ever.com/iphone/199303-un-iphone-18-pro-max-contre-un-cyclope-qui-a-la-meilleure-autonomie",
       "publishedAt": "2026-11-26T06:19:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Stats & Highlights | Les Wolves restent invaincus en NBA Cup",
+      "url": "https://www.basketusa.com/news/964306/stats-highlights-les-wolves-restent-invaincus-en-nba-cup/",
+      "publishedAt": "2026-11-26T06:17:00+00:00"
     },
     {
       "source": "clubic",
@@ -3776,48 +3800,6 @@
       "title": "Black Friday Apple : Amazon baisse l’iPhone 17 Pro, le MacBook Air M5 et 9 autres produits avant le Black Friday",
       "url": "https://www.clubic.com/bons-plans-638878-amazon-fait-le-plein-de-promos-apple-avant-le-black-friday-de-l-ipad-au-airpods-pro-3.html",
       "publishedAt": "2026-11-24T15:51:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Bon plan Black Friday Boulanger : 15 € offerts sur l'électroménager et le son jusqu'à jeudi",
-      "url": "https://www.generation-nt.com/actualites/boulanger-black-friday-promos-pas-cher-jbl-partybox-club-120-bar-1000-mk2-casque-sony-enceinte-marshall-aspirateur-ecovacs-dyson-2085003",
-      "publishedAt": "2026-11-24T15:50:02+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Test du Petloc8, traceur GPS pour chat et chien",
-      "url": "https://korben.info/test-du-petloc8-traceur-gps-pour-chat-et-chien.html",
-      "publishedAt": "2026-11-24T15:48:37+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Free va traduire vos appels en direct et gratuitement : une première en France",
-      "url": "https://www.iphon.fr/post/free-lance-traducteur-appels-en-direct-gratuit-integre-reseau-mobile",
-      "publishedAt": "2026-11-24T15:47:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le smartphone premium Samsung Galaxy S26 Ultra, noté 9/10, perd 470€ pour le Black Friday",
-      "url": "https://www.clubic.com/bons-plans-640768-le-smartphone-premium-samsung-galaxy-s26-ultra-note-9-10-perd-470-pour-le-black-friday.html",
-      "publishedAt": "2026-11-24T15:46:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Ce chargeur 250W est en promo à -30% pour le Black Friday : un seul chargeur pour tous vos appareils",
-      "url": "https://www.mac4ever.com/mac/199265-ce-chargeur-250w-est-en-promo-a-30-pour-le-black-friday-un-seul-chargeur-pour-tous-vos-appareils",
-      "publishedAt": "2026-11-24T15:44:27+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Cet accessoire PlayStation vous permet de jouer à GTA 6 sans PS5 et il tombe en promo pour le Black Friday",
-      "url": "https://www.numerama.com/tech/2383905-cet-accessoire-playstation-vous-permet-de-jouer-a-gta-6-sans-ps5-et-il-tombe-en-promo-pour-le-black-friday.html",
-      "publishedAt": "2026-11-24T15:43:57+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "IconSwapper : des icônes originales et animées pour donner vie au Dock du Mac",
-      "url": "https://www.macg.co/logiciels/2026/11/iconswapper-des-icones-originales-et-animees-pour-donner-vie-au-dock-du-mac-312631",
-      "publishedAt": "2026-11-24T15:42:00+00:00"
     },
     {
       "source": "boulet",
