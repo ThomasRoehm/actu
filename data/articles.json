@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T11:20:41.074194+00:00",
+  "generatedAt": "2026-11-26T11:30:58.446483+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:20:41.074194+00:00"
+      "lastSuccessAt": "2026-11-26T11:30:58.446483+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Elon Musk veut offrir 2 actions SpaceX à chaque enfant américain",
+      "url": "https://www.clubic.com/actualite-641140-elon-musk-veut-offrir-2-actions-spacex-a-chaque-enfant-americain.html",
+      "publishedAt": "2026-11-26T11:28:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les prix du Black Friday au plus bas : Office 2024 à 21,27 € et Windows 11 Pro à 12,25 € !",
+      "url": "https://www.generation-nt.com/actualites/cle-licence-windows-11-office-pro-black-friday-godeal24-2085127",
+      "publishedAt": "2026-11-26T11:25:01+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Pour le Black Friday, EcoFlow casse le prix de ses batteries domestiques avec jusqu’à -900 €",
+      "url": "https://www.presse-citron.net/pour-le-black-friday-ecoflow-casse-le-prix-de-ses-batteries-domestiques-avec-jusqua-900-e/",
+      "publishedAt": "2026-11-26T11:22:13+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "GTA 6 : une fuite détaille les écarts graphiques entre PS5, PS5 Pro et Xbox",
+      "url": "https://www.clubic.com/actualite-641164-gta-6-une-fuite-detaille-les-ecarts-graphiques-entre-ps5-ps5-pro-et-xbox.html",
+      "publishedAt": "2026-11-26T11:21:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "ChatGPT et Codex vont partager les limites d'utilisation, qu'est-ce que ça va changer ?",
@@ -158,6 +182,12 @@
       "title": "Dans la course à l'IA, Microsoft ne voit aucun inconvénient à avoir six mois de retard sur ses concurrents, bien au contraire",
       "url": "https://www.clubic.com/actualite-641131-dans-la-course-a-l-ia-microsoft-ne-voit-aucun-inconvenient-a-avoir-six-mois-de-retard-sur-ses-concurrents-bien-au-contraire.html",
       "publishedAt": "2026-11-26T11:11:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Comment la Maison-Blanche a forcé Intel à céder une part de son capital",
+      "url": "https://www.generation-nt.com/actualites/intel-cession-participation-capital-administration-trump-forcing-2085104",
+      "publishedAt": "2026-11-26T11:10:01+00:00"
     },
     {
       "source": "presse",
@@ -743,7 +773,7 @@
     },
     {
       "source": "basketusa",
-      "title": "Kevin Durant, 5e joueur de l’histoire avec 33 000 points en carrière",
+      "title": "Kevin Durant, le cinquième joueur avec 33 000 points en carrière",
       "url": "https://www.basketusa.com/news/964262/kevin-durant-devient-le-5e-joueur-de-lhistoire-avec-33-000-points-en-carriere/",
       "publishedAt": "2026-11-26T07:33:39+00:00"
     },
@@ -952,6 +982,12 @@
       "publishedAt": "2026-11-26T05:43:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "LeBron James en triple-double, les Sixers dominent le Heat !",
+      "url": "https://www.basketusa.com/news/964239/avec-lebron-james-en-triple-double-les-sixers-dominent-le-heat/",
+      "publishedAt": "2026-11-26T05:41:52+00:00"
+    },
+    {
       "source": "gnt",
       "title": "La CIA frappée par une cyberattaque exploitant le même outil d'IA que Bruxelles",
       "url": "https://www.generation-nt.com/actualites/cia-cyberattaque-outil-ia-bruxelle-2085084",
@@ -968,12 +1004,6 @@
       "title": "Rams – Packers (26-13) : Blake Corum roule sur Green Bay",
       "url": "https://touchdownactu.com/361928/rams-packers-26-13-blake-corum-roule-sur-green-bay/",
       "publishedAt": "2026-11-26T05:29:50+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James en triple-double, les Sixers dominent le Heat !",
-      "url": "https://www.basketusa.com/news/964239/avec-lebron-james-en-triple-double-les-sixers-dominent-le-heat/",
-      "publishedAt": "2026-11-26T04:41:52+00:00"
     },
     {
       "source": "macg",
@@ -3782,42 +3812,6 @@
       "title": "Chauffage : augmenter la température de 2°C peut vous coûter très cher",
       "url": "https://www.journaldugeek.com/2026/11/24/chauffage-augmenter-la-temperature-de-2c-peut-vous-couter-tres-cher/",
       "publishedAt": "2026-11-24T11:32:06+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Jouer aux jeux vidéo permet d’améliorer considérablement son niveau d’anglais, selon cette étude",
-      "url": "https://www.presse-citron.net/jouer-aux-jeux-video-permet-dameliorer-considerablement-son-niveau-danglais-selon-cette-etude/",
-      "publishedAt": "2026-11-24T11:30:42+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un touriste français emprisonné aux États-Unis pour avoir filmé le Pentagone avec un drone",
-      "url": "https://www.generation-nt.com/actualites/touriste-francais-emprisonne-drone-pentagone-2084972",
-      "publishedAt": "2026-11-24T11:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Deni Avdija donne le ton à Philadelphie",
-      "url": "https://www.basketusa.com/news/961720/deni-avdija-donne-le-ton-a-philadelphie/",
-      "publishedAt": "2026-11-24T11:29:06+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : le PC gaming HyperX Omen avec sa RTX 5050 à moins de 1170€ est dans les top offres 🔥",
-      "url": "https://www.clubic.com/bons-plans-640741-black-friday-le-pc-gaming-hyperx-omen-avec-sa-rtx-5050-a-moins-de-1-170-est-dans-les-top-offres.html",
-      "publishedAt": "2026-11-24T11:26:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Google corrige une rare faille critique dans Chrome, n'attendez pas pour mettre votre navigateur à jour",
-      "url": "https://www.clubic.com/actualite-640786-google-corrige-une-rare-faille-critique-dans-chrome-n-attendez-pas-pour-mettre-votre-navigateur-a-jour.html",
-      "publishedAt": "2026-11-24T11:23:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "GPT-6.2 poursuit son déploiement et arrive dans le ChatGPT historique pour les abonnés",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/gpt-62-poursuit-son-deploiement-et-arrive-dans-le-chatgpt-historique-pour-les-abonnes-312623",
-      "publishedAt": "2026-11-24T11:21:00+00:00"
     },
     {
       "source": "boulet",
