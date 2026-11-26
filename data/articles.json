@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:40:37.756208+00:00",
+  "generatedAt": "2026-11-26T00:50:37.206613+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T00:40:37.756208+00:00"
+      "lastSuccessAt": "2026-11-26T00:50:37.206613+00:00"
     }
   ],
   "articles": [
@@ -1294,12 +1294,6 @@
       "publishedAt": "2026-11-25T11:00:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
-      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
-      "publishedAt": "2026-11-25T10:57:14+00:00"
-    },
-    {
       "source": "presse",
       "title": "Office Depot ferme ses portes en France : le spécialiste des fournitures de bureau annonce la fermeture de ses 27 magasins et de son site internet",
       "url": "https://www.presse-citron.net/office-depot-ferme-ses-portes-en-france-le-specialiste-des-fournitures-de-bureau-annonce-la-fermeture-de-ses-27-magasins-et-de-son-site-internet/",
@@ -1454,6 +1448,12 @@
       "title": "Red Dead Redemption bientôt adapté en série ? Rockstar serait prêt à vendre les droits à Hollywood",
       "url": "https://www.journaldugeek.com/2026/11/25/red-dead-redemption-bientot-adapte-en-serie-rockstar-serait-pret-a-vendre-les-droits-a-hollywood/",
       "publishedAt": "2026-11-25T10:01:33+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
+      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
+      "publishedAt": "2026-11-25T09:57:14+00:00"
     },
     {
       "source": "gnt",
