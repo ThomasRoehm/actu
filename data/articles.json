@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:20:39.485422+00:00",
+  "generatedAt": "2026-11-26T15:30:57.120346+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:20:39.485422+00:00"
+      "lastSuccessAt": "2026-11-26T15:30:57.120346+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "Black Friday xTool : jusqu’à -68 % sur les machines de gravure laser et d’impression UV, laquelle choisir ?",
+      "url": "https://www.clubic.com/actualite-639520-black-friday-xtool-jusqu-a--68-sur-les-machines-de-gravure-laser-et-d-impression-uv-laquelle-choisir.html",
+      "publishedAt": "2026-11-26T15:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Indiana Pacers – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964485/indiana-pacers-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-26T15:24:55+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "FC 27 ressuscite un commentateur de foot décédé grâce à l’IA : sa voix est de retour",
+      "url": "https://www.numerama.com/pop-culture/2385441-fc-27-ressuscite-un-commentateur-de-foot-decede-grace-a-lia-sa-voix-est-de-retour.html",
+      "publishedAt": "2026-11-26T15:23:47+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "Anthropic a tendu 1 700 pièges à Claude pour voir s'il s'échappe",
       "url": "https://www.clubic.com/actualite-641260-anthropic-a-tendu-1-700-pieges-a-claude-pour-voir-s-il-s-echappe.html",
       "publishedAt": "2026-11-26T15:20:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "IPTV : votre match de foot va être coupé en direct, l’arme ultime contre le piratage arrive",
+      "url": "https://www.presse-citron.net/iptv-votre-match-de-foot-va-etre-coupe-en-direct-larme-ultime-contre-le-piratage-arrive/",
+      "publishedAt": "2026-11-26T15:19:28+00:00"
     },
     {
       "source": "numerama",
@@ -158,6 +182,12 @@
       "title": "Il s’appelle AEON, mesure 1,65 m et pèse 60 kg : Volvo invite des robots humanoïdes dans son usine en Belgique",
       "url": "https://www.presse-citron.net/il-sappelle-aeon-mesure-165-m-et-pese-60-kg-volvo-invite-les-robots-humanoides-dans-son-usine-en-belgique/",
       "publishedAt": "2026-11-26T15:10:58+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Mémoire en Chine : CXMT et YMTC cartonnent mais bloquent sur la HBM",
+      "url": "https://www.generation-nt.com/actualites/memoire-chine-cxmt-ymtc-bloques-hbm-2085077",
+      "publishedAt": "2026-11-26T15:10:01+00:00"
     },
     {
       "source": "mac4ever",
@@ -557,7 +587,7 @@
     },
     {
       "source": "gnt",
-      "title": "FSD / Conduite assistée : le vote européen sur la conduite autonome supervisée de Tesla glisse au 15 décembre",
+      "title": "Tesla FSD / Conduite assistée : le vote européen sur la conduite autonome prend encore du retard",
       "url": "https://www.generation-nt.com/actualites/tesla-conduite-autonome-decision-europe-report-decembre-2085123",
       "publishedAt": "2026-11-26T12:10:01+00:00"
     },
@@ -1403,6 +1433,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
+      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
+      "publishedAt": "2026-11-26T06:29:20+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Les Cavaliers renversés par les remplaçants des Knicks",
       "url": "https://www.basketusa.com/news/964245/les-remplacants-des-knicks-renversent-les-cavaliers/",
       "publishedAt": "2026-11-26T06:23:45+00:00"
@@ -1490,12 +1526,6 @@
       "title": "Rams – Packers (26-13) : Blake Corum roule sur Green Bay",
       "url": "https://touchdownactu.com/361928/rams-packers-26-13-blake-corum-roule-sur-green-bay/",
       "publishedAt": "2026-11-26T05:29:50+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
-      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
-      "publishedAt": "2026-11-26T05:29:20+00:00"
     },
     {
       "source": "macg",
@@ -3788,42 +3818,6 @@
       "title": "Audiences TV : le pari gagnant de la NBA",
       "url": "https://www.basketusa.com/news/963690/audiences-tv-le-pari-gagnant-de-la-nba/",
       "publishedAt": "2026-11-24T15:33:30+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Disneyland, Astérix, Futuroscope… voici le programme de Noël des parcs d’attractions",
-      "url": "https://www.journaldugeek.com/2026/11/24/disneyland-asterix-futuroscope-voici-le-programme-de-noel-des-parcs-dattractions/",
-      "publishedAt": "2026-11-24T15:30:31+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Podcast] Debrief S11 : des Lions sous-estimés",
-      "url": "https://touchdownactu.com/361803/podcast-debrief-s11-des-lions-sous-estimes/",
-      "publishedAt": "2026-11-24T15:30:25+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Trump menace de taxer les data centers construits à l’étranger malgré la crise crypto et cyber",
-      "url": "https://www.generation-nt.com/actualites/trump-taxe-data-centers-etrangers-2084957",
-      "publishedAt": "2026-11-24T15:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : le cloud personnel BeeStation Plus 8 To de Synology profite d’une remise de 150 €",
-      "url": "https://www.clubic.com/actualite-639868-black-friday-le-cloud-personnel-beestation-plus-8-to-de-synology-profite-d-une-remise-de-150.html",
-      "publishedAt": "2026-11-24T15:30:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Un choix difficile attend les Français qui achèteront un nouveau PC",
-      "url": "https://www.presse-citron.net/un-choix-difficile-attend-les-francais-qui-acheteront-un-nouveau-pc/",
-      "publishedAt": "2026-11-24T15:24:37+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "BYD en passe d’acheter une usine en France : le Chinois choisit la Moselle pour s’installer en Europe",
-      "url": "https://www.numerama.com/vroom/2383677-bientot-des-byd-made-in-france-le-geant-chinois-veut-racheter-lusine-des-4x4-ineos.html",
-      "publishedAt": "2026-11-24T15:21:16+00:00"
     },
     {
       "source": "boulet",
