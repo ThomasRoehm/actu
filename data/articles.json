@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:30:57.367494+00:00",
+  "generatedAt": "2026-11-26T16:40:37.231813+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T16:30:57.367494+00:00"
+      "lastSuccessAt": "2026-11-26T16:40:37.231813+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "50 ans d’Apple : dernière chance pour commander notre livre avant les fêtes, avec deux nouveaux packs",
+      "url": "https://www.macg.co/macgeneration/2026/11/50-ans-dapple-derniere-chance-pour-commander-notre-livre-avant-les-fetes-avec-deux-nouveaux-packs-312681",
+      "publishedAt": "2026-11-26T16:30:25+00:00"
+    },
     {
       "source": "clubic",
       "title": "Samsung casse le prix de sa nouvelle barre de son Dolby Atmos : 250 € de remise pour le Black Friday",
@@ -158,6 +164,12 @@
       "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
       "publishedAt": "2026-11-26T16:25:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Black Friday : TCL casse les prix de ses TV Mini-LED, et une P89L est à gagner en live",
+      "url": "https://www.journaldugeek.com/2026/11/26/black-friday-tcl-casse-les-prix-de-ses-tv-mini-led-et-une-p89l-est-a-gagner-en-live/",
+      "publishedAt": "2026-11-26T16:23:11+00:00"
     },
     {
       "source": "clubic",
@@ -281,9 +293,21 @@
     },
     {
       "source": "basketusa",
+      "title": "Utah Jazz – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964222/utah-jazz-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-26T15:28:38+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "New York Knicks – Miami Heat : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/964475/new-york-knicks-miami-heat-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-26T15:26:10+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Indiana Pacers – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964485/indiana-pacers-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-26T15:24:55+00:00"
     },
     {
       "source": "numerama",
@@ -440,18 +464,6 @@
       "title": "WhatsApp vous permet enfin de programmer vos messages",
       "url": "https://www.generation-nt.com/actualites/whatsapp-programmer-message-planifier-2085111",
       "publishedAt": "2026-11-26T14:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Utah Jazz – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964222/utah-jazz-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-26T14:28:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Indiana Pacers – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964485/indiana-pacers-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-26T14:24:55+00:00"
     },
     {
       "source": "clubic",
@@ -1060,6 +1072,12 @@
       "publishedAt": "2026-11-26T09:57:30+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
+      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
+      "publishedAt": "2026-11-26T09:54:29+00:00"
+    },
+    {
       "source": "macg",
       "title": "Black Friday : les meilleures offres sur les écrans externes pour Mac",
       "url": "https://www.macg.co/materiel/2026/11/black-friday-les-meilleures-offres-sur-les-ecrans-externes-pour-mac-312677",
@@ -1244,12 +1262,6 @@
       "title": "Black Friday : notre podium du jour (enceinte Harman Kardon, casque Sony WH-1000XM6 et TV 4K Hisense)",
       "url": "https://www.generation-nt.com/actualites/enceinte-harman-kardon-aura-studio-5-casque-bluetooth-sony-wh-1000xm6-tv-4k-hisense-50a6s-black-friday-promos-pas-cher-2085118",
       "publishedAt": "2026-11-26T09:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
-      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
-      "publishedAt": "2026-11-26T08:54:29+00:00"
     },
     {
       "source": "presse",
@@ -1450,6 +1462,12 @@
       "publishedAt": "2026-11-26T07:45:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kevin Durant, le cinquième joueur avec 33 000 points en carrière",
+      "url": "https://www.basketusa.com/news/964262/kevin-durant-devient-le-5e-joueur-de-lhistoire-avec-33-000-points-en-carriere/",
+      "publishedAt": "2026-11-26T07:33:39+00:00"
+    },
+    {
       "source": "presse",
       "title": "Des scientifiques ont envoyé un robot sous-marin dans la fosse des Mariannes : il a découvert les traces d’un phénomène volcanique inédit",
       "url": "https://www.presse-citron.net/scientifiques-envoye-robot-sous-marin-fosse-mariannes-decouvert-traces-phenomene-volcanique-inedit/",
@@ -1550,12 +1568,6 @@
       "title": "Quand LeBron James ressort sa cape du placard",
       "url": "https://www.basketusa.com/news/964274/quand-lebron-james-ressort-sa-cape-du-placard/",
       "publishedAt": "2026-11-26T06:45:54+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kevin Durant, le cinquième joueur avec 33 000 points en carrière",
-      "url": "https://www.basketusa.com/news/964262/kevin-durant-devient-le-5e-joueur-de-lhistoire-avec-33-000-points-en-carriere/",
-      "publishedAt": "2026-11-26T06:33:39+00:00"
     },
     {
       "source": "presse",
@@ -3800,24 +3812,6 @@
       "title": "Tesla et SpaceX préparent la plus grande fusion de l'histoire pour la fin 2026",
       "url": "https://www.clubic.com/actualite-640870-tesla-et-spacex-preparent-la-plus-grande-fusion-de-l-histoire-pour-la-fin-2026.html",
       "publishedAt": "2026-11-24T16:43:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "C'est un succès pour Ariane 6 et les satellites Amazon Leo",
-      "url": "https://www.generation-nt.com/actualites/ariane-6-sucess-satellites-amazon-leo-2085024",
-      "publishedAt": "2026-11-24T16:35:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : comment débloquer l’easter egg ultime avec la chemise de Tommy Vercetti de GTA Vice City ?",
-      "url": "https://www.journaldugeek.com/2026/11/24/gta-6-comment-debloquer-leaster-egg-ultime-avec-la-chemise-de-tommy-vercetti-de-gta-vice-city/",
-      "publishedAt": "2026-11-24T16:32:15+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Grosses promos sur les MacBook Pro M5 Pro/Max : jusqu'à -1100€ par rapport à l'Apple Store !",
-      "url": "https://www.mac4ever.com/mac/199267-grosses-promos-sur-les-macbook-pro-m5-pro-max-jusqu-a-1100-par-rapport-a-l-apple-store",
-      "publishedAt": "2026-11-24T16:31:28+00:00"
     },
     {
       "source": "boulet",
