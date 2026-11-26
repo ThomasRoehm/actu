@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:40:40.484528+00:00",
+  "generatedAt": "2026-11-26T08:50:38.852678+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T08:40:40.484528+00:00"
+      "lastSuccessAt": "2026-11-26T08:50:38.852678+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Vie privée, neutralité, DNS : voici ce qu'il reste des DNS publics en France",
+      "url": "https://www.clubic.com/dossier-640957-vie-privee-neutralite-dns-le-depart-de-quad9-rebat-les-cartes-en-france.html",
+      "publishedAt": "2026-11-26T08:48:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 : un joueur a trouvé une astuce pour enfin débloquer les tempêtes",
+      "url": "https://www.numerama.com/pop-culture/2385117-gta-6-un-joueur-a-trouve-une-astuce-pour-enfin-debloquer-les-tempetes.html",
+      "publishedAt": "2026-11-26T08:41:59+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "L’app Carte Vitale arrive sur FranceConnect : 1 500 services en ligne sont accessibles plus facilement",
+      "url": "https://www.iphon.fr/post/app-carte-vitale-arrive-franceconnect-1-500-services-en-ligne-accessibles-plus-facilement",
+      "publishedAt": "2026-11-26T08:41:46+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Antidote fête ses 30 ans avec un nouvel assistant de rédaction dopé à l’IA",
+      "url": "https://www.macg.co/logiciels/2026/11/antidote-fete-ses-30-ans-avec-un-nouvel-assistant-de-redaction-dope-lia-312675",
+      "publishedAt": "2026-11-26T08:40:26+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Hollow Knight Silksong : le DLC Sea of Sorrow devrait enfin avoir une date de sortie ce vendredi",
+      "url": "https://www.journaldugeek.com/2026/11/26/hollow-knight-silksong-le-dlc-sea-of-sorrow-devrait-enfin-avoir-une-date-de-sortie-ce-vendredi/",
+      "publishedAt": "2026-11-26T08:36:13+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : RED by SFR double les Go sans augmenter le prix, son forfait 250 Go 5G Voyage tombe à 12,99 €/mois !",
@@ -395,6 +425,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
+      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
+      "publishedAt": "2026-11-26T06:29:20+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Les Cavaliers renversés par les remplaçants des Knicks",
       "url": "https://www.basketusa.com/news/964245/les-remplacants-des-knicks-renversent-les-cavaliers/",
       "publishedAt": "2026-11-26T06:23:45+00:00"
@@ -488,12 +524,6 @@
       "title": "Rams – Packers (26-13) : Blake Corum roule sur Green Bay",
       "url": "https://touchdownactu.com/361928/rams-packers-26-13-blake-corum-roule-sur-green-bay/",
       "publishedAt": "2026-11-26T05:29:50+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
-      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
-      "publishedAt": "2026-11-26T05:29:20+00:00"
     },
     {
       "source": "macg",
@@ -3830,36 +3860,6 @@
       "title": "Il est maintenant possible de jouer à GTA 6 sur PS Portal sans avoir de PS5",
       "url": "https://www.journaldugeek.com/2026/11/24/il-est-maintenant-possible-de-jouer-a-gta-6-sur-ps-portal-sans-avoir-de-ps5/",
       "publishedAt": "2026-11-24T08:52:03+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Traduction Live : Free vous permet de parler japonais, coréen ou italien au téléphone sans connaître ces langues",
-      "url": "https://www.presse-citron.net/traduction-live-free-vous-permet-de-parler-japonais-coreen-ou-italien-au-telephone-sans-connaitre-ces-langues/",
-      "publishedAt": "2026-11-24T08:49:11+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Pour son VPN, Firefox rajoute un split tunneling par site",
-      "url": "https://www.clubic.com/actualite-640663-pour-son-vpn-firefox-rajoute-un-split-tunneling-par-site.html",
-      "publishedAt": "2026-11-24T08:48:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Ted Lasso revient pour une 5e saison, la plus attendue",
-      "url": "https://www.iphon.fr/post/ted-lasso-revient-pour-une-5e-saison-la-plus-attendue",
-      "publishedAt": "2026-11-24T08:45:38+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Des drones de 4 kg se posent sur des lignes de 420 kV pour recharger leurs batteries",
-      "url": "https://www.generation-nt.com/actualites/drones-rechargent-lignes-haute-tension-2084968",
-      "publishedAt": "2026-11-24T08:45:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "DNS : condamné face à beIN Sports, Quad9 refuse de filtrer et a quitté la France",
-      "url": "https://www.macg.co/ailleurs/2026/10/dns-apres-sa-condamnation-face-bein-sports-quad9-refuse-de-filtrer-et-quitte-la-france-311835",
-      "publishedAt": "2026-11-24T08:42:00+00:00"
     },
     {
       "source": "boulet",
