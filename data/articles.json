@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T11:50:38.433709+00:00",
+  "generatedAt": "2026-11-26T12:01:07.510049+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T11:50:38.433709+00:00"
+      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday voit grand : cette TV QLED Xiaomi de 190 cm de diagonale passe à 499€ sur Amazon",
+      "url": "https://www.clubic.com/bons-plans-641146-le-black-friday-voit-grand-cette-tv-qled-xiaomi-de-190-cm-de-diagonale-passe-a-499-sur-amazon.html",
+      "publishedAt": "2026-11-26T11:56:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "CarPlay Ultra : pourquoi aucune voiture vendue en France ne l'affiche ?",
       "url": "https://www.mac4ever.com/auto/199318-carplay-ultra-pourquoi-aucune-voiture-vendue-en-france-ne-l-affiche",
       "publishedAt": "2026-11-26T11:46:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday Boulanger : -20 € dès 250 € d'achat sur son / TV / électroménager aujourd'hui seulement",
+      "url": "https://www.generation-nt.com/actualites/boulanger-black-friday-promos-pas-cher-enceinte-jbl-partybox-sonos-era-100-sl-aspirateur-tineco-dyson-tv-mini-led-oled-qled-2085125",
+      "publishedAt": "2026-11-26T11:40:01+00:00"
     },
     {
       "source": "jdg",
@@ -158,6 +170,12 @@
       "title": "Guyane : 5 hectares de feu à cause de la dernière mission d’Ariane 6, présentée comme un succès",
       "url": "https://www.presse-citron.net/guyane-5-hectares-de-feu-a-cause-de-la-derniere-mission-dariane-6-presentee-comme-un-succes/",
       "publishedAt": "2026-11-26T11:30:13+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "GTA 6 pousse la PS5 à bout entre pannes matérielles et surconsommation électrique",
+      "url": "https://www.generation-nt.com/actualites/gta6-ps5-pannes-surconsommation-electrique-2085092",
+      "publishedAt": "2026-11-26T11:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -406,6 +424,12 @@
       "publishedAt": "2026-11-26T09:57:30+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
+      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
+      "publishedAt": "2026-11-26T09:54:29+00:00"
+    },
+    {
       "source": "macg",
       "title": "Black Friday : les meilleures offres sur les écrans externes pour Mac",
       "url": "https://www.macg.co/materiel/2026/11/black-friday-les-meilleures-offres-sur-les-ecrans-externes-pour-mac-312677",
@@ -590,12 +614,6 @@
       "title": "Black Friday : notre podium du jour (enceinte Harman Kardon, casque Sony WH-1000XM6 et TV 4K Hisense)",
       "url": "https://www.generation-nt.com/actualites/enceinte-harman-kardon-aura-studio-5-casque-bluetooth-sony-wh-1000xm6-tv-4k-hisense-50a6s-black-friday-promos-pas-cher-2085118",
       "publishedAt": "2026-11-26T09:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
-      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
-      "publishedAt": "2026-11-26T08:54:29+00:00"
     },
     {
       "source": "presse",
@@ -935,12 +953,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
-      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
-      "publishedAt": "2026-11-26T06:29:20+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Les Cavaliers renversés par les remplaçants des Knicks",
       "url": "https://www.basketusa.com/news/964245/les-remplacants-des-knicks-renversent-les-cavaliers/",
       "publishedAt": "2026-11-26T06:23:45+00:00"
@@ -1030,6 +1042,12 @@
       "publishedAt": "2026-11-26T05:29:50+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
+      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
+      "publishedAt": "2026-11-26T05:29:20+00:00"
+    },
+    {
       "source": "macg",
       "title": "Trump et MAGA : la Silicon Valley découvre que ses vestes sont réversibles",
       "url": "https://www.macg.co/ailleurs/2026/11/trump-et-maga-la-silicon-valley-decouvre-que-ses-vestes-sont-reversibles-312665",
@@ -1084,12 +1102,6 @@
       "publishedAt": "2026-11-25T19:34:45+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs retrouvent les Blazers",
-      "url": "https://www.basketusa.com/news/964207/programme-du-soir-victor-wembanyama-et-les-spurs-retrouvent-les-blazers/",
-      "publishedAt": "2026-11-25T19:30:17+00:00"
-    },
-    {
       "source": "macg",
       "title": "Test de l’iMac M6 : toujours aussi charmant, mais toujours plus cher",
       "url": "https://www.macg.co/tests/2026/11/test-de-limac-m6-toujours-aussi-charmant-mais-toujours-plus-cher-312653",
@@ -1142,6 +1154,12 @@
       "title": "GTA 6 – Comment découvrir les backrooms de Leonida et obtenir une amélioration permanente ?",
       "url": "https://www.journaldugeek.com/2026/11/25/gta-6-comment-decouvrir-les-backrooms-de-leonida-et-obtenir-une-amelioration-permanente/",
       "publishedAt": "2026-11-25T18:32:03+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs retrouvent les Blazers",
+      "url": "https://www.basketusa.com/news/964207/programme-du-soir-victor-wembanyama-et-les-spurs-retrouvent-les-blazers/",
+      "publishedAt": "2026-11-25T18:30:17+00:00"
     },
     {
       "source": "clubic",
@@ -3782,30 +3800,6 @@
       "title": "Vous avez été déconnecté de force de Spotify ? C’est normal, l’application a connu une panne ce mardi 24 novembre",
       "url": "https://www.numerama.com/cyberguerre/2383637-deconnectes-de-force-spotify-est-en-panne-des-milliers-dutilisateurs-ne-parviennent-plus-a-se-connecter.html",
       "publishedAt": "2026-11-24T12:01:38+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Sanofi rachète Insmed pour 41 milliards $ : pourquoi ce deal XXL et historique est crucial pour le géant français",
-      "url": "https://www.presse-citron.net/sanofi-rachete-insmed-pour-41-milliards-pourquoi-ce-deal-xxl-et-historique-est-crucial-pour-le-geant-francais/",
-      "publishedAt": "2026-11-24T12:00:30+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Le tunnel fit, nouveau podium des géants de la NFL",
-      "url": "https://touchdownactu.com/354340/le-tunnel-fit-nouveau-podium-des-geants-de-la-nfl/",
-      "publishedAt": "2026-11-24T12:00:27+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "God of War : voici qui jouera Laufey dans la série live-action (vous la connaissez déjà)",
-      "url": "https://www.journaldugeek.com/2026/11/24/god-of-war-voici-actrice-jouera-laufey-serie-live-action-connaissez-deja/",
-      "publishedAt": "2026-11-24T12:00:05+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "3,5 milliards de données personnelles en libre accès : des pirates laissent à leur tour fuiter leurs fichiers",
-      "url": "https://www.clubic.com/actualite-640798-milliards-de-donnees-personnelles-en-libre-acces-des-pirates-laissent-a-leur-tour-fuiter-leurs-fichiers.html",
-      "publishedAt": "2026-11-24T11:53:00+00:00"
     },
     {
       "source": "boulet",
