@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T19:20:36.998763+00:00",
+  "generatedAt": "2026-11-26T19:30:55.203749+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T19:20:36.998763+00:00"
+      "lastSuccessAt": "2026-11-26T19:30:55.203749+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Meilleures promos du jour : Samsung Galaxy Watch Ultra 330€, Google Pixel 11 512Go à 749€, écrans gamer OLED..",
+      "url": "https://www.generation-nt.com/actualites/google-pixel-11-ecran-pc-gaming-oled-samsung-galaxy-watch-ultra-projecteur-4k-hisense-tv-mini-led-black-friday-promos-pas-cher-2085131",
+      "publishedAt": "2026-11-26T19:20:01+00:00"
+    },
     {
       "source": "jdg",
       "title": "Pour sa ressortie, Spider-Man 4 apporte un peu d’Avengers Doomsday",
@@ -1276,12 +1282,6 @@
       "publishedAt": "2026-11-26T09:57:30+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
-      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
-      "publishedAt": "2026-11-26T09:54:29+00:00"
-    },
-    {
       "source": "macg",
       "title": "Black Friday : les meilleures offres sur les écrans externes pour Mac",
       "url": "https://www.macg.co/materiel/2026/11/black-friday-les-meilleures-offres-sur-les-ecrans-externes-pour-mac-312677",
@@ -1472,6 +1472,12 @@
       "title": "Black Friday : LEFANT casse les prix de ses robots aspirateurs-laveurs, dès 189 € !",
       "url": "https://www.mac4ever.com/domotique/199206-black-friday-lefant-casse-les-prix-de-ses-robots-aspirateurs-laveurs-des-189",
       "publishedAt": "2026-11-26T09:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
+      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
+      "publishedAt": "2026-11-26T08:54:29+00:00"
     },
     {
       "source": "presse",
