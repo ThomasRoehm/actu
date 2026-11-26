@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T12:01:07.510049+00:00",
+  "generatedAt": "2026-11-26T12:10:40.600661+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:01:07.510049+00:00"
+      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Apple teste macOS sur iPad en secret",
+      "url": "https://www.clubic.com/actualite-641158-apple-teste-macos-sur-ipad-en-secret.html",
+      "publishedAt": "2026-11-26T12:07:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Aaron Nesmith, un temps mort pour sortir du tunnel",
+      "url": "https://www.basketusa.com/news/964218/aaron-nesmith-un-temps-mort-pour-sortir-du-tunnel/",
+      "publishedAt": "2026-11-26T12:05:06+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Intermarché va intégrer Claude : comment cette IA s’invite dans la grande distribution ?",
+      "url": "https://www.presse-citron.net/intermarche-va-integrer-claude-comment-cette-ia-sinvite-dans-la-grande-distribution/",
+      "publishedAt": "2026-11-26T12:00:34+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Google Wallet : cette nouveauté facilite grandement le paiement par carte bancaire",
+      "url": "https://www.journaldugeek.com/2026/11/26/google-wallet-nouveaute-facilite-grandement-paiement-carte-bancaire-cryptogramme/",
+      "publishedAt": "2026-11-26T12:00:29+00:00"
+    },
     {
       "source": "clubic",
       "title": "Le Black Friday voit grand : cette TV QLED Xiaomi de 190 cm de diagonale passe à 499€ sur Amazon",
@@ -953,6 +977,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
+      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
+      "publishedAt": "2026-11-26T06:29:20+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Les Cavaliers renversés par les remplaçants des Knicks",
       "url": "https://www.basketusa.com/news/964245/les-remplacants-des-knicks-renversent-les-cavaliers/",
       "publishedAt": "2026-11-26T06:23:45+00:00"
@@ -1042,12 +1072,6 @@
       "publishedAt": "2026-11-26T05:29:50+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
-      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
-      "publishedAt": "2026-11-26T05:29:20+00:00"
-    },
-    {
       "source": "macg",
       "title": "Trump et MAGA : la Silicon Valley découvre que ses vestes sont réversibles",
       "url": "https://www.macg.co/ailleurs/2026/11/trump-et-maga-la-silicon-valley-decouvre-que-ses-vestes-sont-reversibles-312665",
@@ -1102,6 +1126,12 @@
       "publishedAt": "2026-11-25T19:34:45+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Programme du soir | Victor Wembanyama et les Spurs retrouvent les Blazers",
+      "url": "https://www.basketusa.com/news/964207/programme-du-soir-victor-wembanyama-et-les-spurs-retrouvent-les-blazers/",
+      "publishedAt": "2026-11-25T19:30:17+00:00"
+    },
+    {
       "source": "macg",
       "title": "Test de l’iMac M6 : toujours aussi charmant, mais toujours plus cher",
       "url": "https://www.macg.co/tests/2026/11/test-de-limac-m6-toujours-aussi-charmant-mais-toujours-plus-cher-312653",
@@ -1154,12 +1184,6 @@
       "title": "GTA 6 – Comment découvrir les backrooms de Leonida et obtenir une amélioration permanente ?",
       "url": "https://www.journaldugeek.com/2026/11/25/gta-6-comment-decouvrir-les-backrooms-de-leonida-et-obtenir-une-amelioration-permanente/",
       "publishedAt": "2026-11-25T18:32:03+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs retrouvent les Blazers",
-      "url": "https://www.basketusa.com/news/964207/programme-du-soir-victor-wembanyama-et-les-spurs-retrouvent-les-blazers/",
-      "publishedAt": "2026-11-25T18:30:17+00:00"
     },
     {
       "source": "clubic",
@@ -3782,24 +3806,6 @@
       "title": "Brandon Ingram pas satisfait de sa première avec les Clippers",
       "url": "https://www.basketusa.com/news/961726/brandon-ingram-pas-satisfait-de-sa-premiere-avec-les-clippers/",
       "publishedAt": "2026-11-24T12:12:43+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Kodak SlideTag : un cadre photo e-ink à 35 dollars qui remplace l'AirTag",
-      "url": "https://www.generation-nt.com/actualites/kodak-slidetag-cadre-eink-airtag-2084961",
-      "publishedAt": "2026-11-24T12:10:02+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "La Renault 5 prend la deuxième place des électriques en Europe",
-      "url": "https://www.mac4ever.com/auto/199251-la-renault-5-prend-la-deuxieme-place-des-electriques-en-europe",
-      "publishedAt": "2026-11-24T12:03:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Vous avez été déconnecté de force de Spotify ? C’est normal, l’application a connu une panne ce mardi 24 novembre",
-      "url": "https://www.numerama.com/cyberguerre/2383637-deconnectes-de-force-spotify-est-en-panne-des-milliers-dutilisateurs-ne-parviennent-plus-a-se-connecter.html",
-      "publishedAt": "2026-11-24T12:01:38+00:00"
     },
     {
       "source": "boulet",
