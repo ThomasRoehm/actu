@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:01:07.051202+00:00",
+  "generatedAt": "2026-11-26T15:10:46.207687+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:01:07.051202+00:00"
+      "lastSuccessAt": "2026-11-26T15:10:46.207687+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "RAM : Samsung aurait déjà réservé presque toute sa production jusqu'en... 2029",
+      "url": "https://www.mac4ever.com/societe/199324-ram-samsung-aurait-deja-reserve-presque-toute-sa-production-jusqu-en-2029",
+      "publishedAt": "2026-11-26T15:09:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "De nombreux français utilisent déjà l'IA en pensant que c'est une bonne chose pour leur épargne",
+      "url": "https://www.clubic.com/actualite-641224-de-nombreux-francais-utilisent-deja-l-ia-en-pensant-que-c-est-une-bonne-chose-pour-leur-epargne.html",
+      "publishedAt": "2026-11-26T15:02:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Le Grand Rex dévoile la salle Émeraude, première mondiale en surround Devialet",
+      "url": "https://www.journaldugeek.com/2026/11/26/le-grand-rex-devoile-la-salle-emeraude-premiere-mondiale-en-surround-devialet/",
+      "publishedAt": "2026-11-26T15:00:54+00:00"
+    },
     {
       "source": "numerama",
       "title": "Ces 5 vélos électriques reconditionnés avec moteur haut de gamme passent sous les 2 500 €",
@@ -142,16 +160,16 @@
       "publishedAt": "2026-11-26T14:59:00+00:00"
     },
     {
+      "source": "presse",
+      "title": "Adieu Microsoft Word et Excel : voici l’alternative européenne qui vient de débarquer",
+      "url": "https://www.presse-citron.net/adieu-microsoft-word-et-excel-voici-lalternative-europeenne-qui-vient-de-debarquer/",
+      "publishedAt": "2026-11-26T14:56:08+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Google soutient Mozilla contre les règles iOS d'Apple en Europe",
       "url": "https://www.generation-nt.com/actualites/google-soutient-mozilla-navigateurs-ios-2085089",
       "publishedAt": "2026-11-26T14:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La Air Jordan 41 « Amethyst » brillera à minuit",
-      "url": "https://www.basketusa.com/news/964518/la-air-jordan-41-amethyst-brillera-a-minuit/",
-      "publishedAt": "2026-11-26T14:49:06+00:00"
     },
     {
       "source": "macg",
@@ -290,6 +308,12 @@
       "title": "La hausse du Smic en France vient de paraître au Journal officiel",
       "url": "https://www.presse-citron.net/la-hausse-du-smic-en-france-vient-de-paraitre-au-journal-officiel/",
       "publishedAt": "2026-11-26T13:55:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La Air Jordan 41 « Amethyst » brillera à minuit",
+      "url": "https://www.basketusa.com/news/964518/la-air-jordan-41-amethyst-brillera-a-minuit/",
+      "publishedAt": "2026-11-26T13:49:06+00:00"
     },
     {
       "source": "clubic",
@@ -820,6 +844,12 @@
       "publishedAt": "2026-11-26T09:57:30+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
+      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
+      "publishedAt": "2026-11-26T09:54:29+00:00"
+    },
+    {
       "source": "macg",
       "title": "Black Friday : les meilleures offres sur les écrans externes pour Mac",
       "url": "https://www.macg.co/materiel/2026/11/black-friday-les-meilleures-offres-sur-les-ecrans-externes-pour-mac-312677",
@@ -1004,12 +1034,6 @@
       "title": "Black Friday : notre podium du jour (enceinte Harman Kardon, casque Sony WH-1000XM6 et TV 4K Hisense)",
       "url": "https://www.generation-nt.com/actualites/enceinte-harman-kardon-aura-studio-5-casque-bluetooth-sony-wh-1000xm6-tv-4k-hisense-50a6s-black-friday-promos-pas-cher-2085118",
       "publishedAt": "2026-11-26T09:00:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
-      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
-      "publishedAt": "2026-11-26T08:54:29+00:00"
     },
     {
       "source": "presse",
@@ -3806,30 +3830,6 @@
       "title": "3500 milliards de dollars : SpaceX et Tesla préparent une fusion pour dans quelques semaines",
       "url": "https://www.presse-citron.net/3500-milliards-de-dollars-spacex-et-tesla-preparent-une-fusion-pour-dans-quelques-semaines/",
       "publishedAt": "2026-11-24T15:10:51+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Google purge sa page d'accueil du bouton de recherche",
-      "url": "https://www.generation-nt.com/actualites/google-page-accueil-moteur-recherche-bouton-gemini-2084928",
-      "publishedAt": "2026-11-24T15:10:01+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "WhatsApp sur iPhone - votre message peut disparaître après une seule lecture",
-      "url": "https://korben.info/whatsapp-sur-iphone-votre-message-peut-disparaitre-apres-une-seule-lecture.html",
-      "publishedAt": "2026-11-24T15:05:52+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La fusée Ariane 6 livre enfin les 36 satellites d’Amazon : voici les plus belles images du décollage",
-      "url": "https://www.numerama.com/sciences/2383831-la-fusee-ariane-6-livre-enfin-les-36-satellites-damazon-voici-les-plus-belles-images-du-decollage.html",
-      "publishedAt": "2026-11-24T15:05:08+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Attention si vous cherchez une PS5, la sortie de GTA 6 attire les arnaqueurs",
-      "url": "https://www.journaldugeek.com/2026/11/24/attention-si-vous-cherchez-une-ps5-la-sortie-de-gta-6-attire-les-arnaqueurs/",
-      "publishedAt": "2026-11-24T15:03:51+00:00"
     },
     {
       "source": "boulet",
