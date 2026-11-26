@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T12:20:43.020559+00:00",
+  "generatedAt": "2026-11-26T12:31:01.947817+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
+      "lastSuccessAt": "2026-11-26T12:31:01.947817+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Nvidia accepte de payer pour oublier un litige sur les cryptomonnaies",
+      "url": "https://www.generation-nt.com/actualites/nvidia-accord-actionnaires-cryptomonnaie-minage-2085110",
+      "publishedAt": "2026-11-26T12:25:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "X déploie un contrôle parental pour les comptes des ados",
@@ -146,6 +152,12 @@
       "title": "1Password confirme une fuite de données massive !",
       "url": "https://www.mac4ever.com/securite/199319-1password-confirme-une-fuite-de-donnees-massive",
       "publishedAt": "2026-11-26T12:11:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Le vote européen sur la conduite autonome supervisée de Tesla glisse au 15 décembre",
+      "url": "https://www.generation-nt.com/actualites/tesla-conduite-autonome-decision-europe-report-decembre-2085123",
+      "publishedAt": "2026-11-26T12:10:01+00:00"
     },
     {
       "source": "clubic",
@@ -170,6 +182,12 @@
       "title": "Google Wallet : cette nouveauté facilite grandement le paiement par carte bancaire",
       "url": "https://www.journaldugeek.com/2026/11/26/google-wallet-nouveaute-facilite-grandement-paiement-carte-bancaire-cryptogramme/",
       "publishedAt": "2026-11-26T12:00:29+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Google Messages prépare des réponses groupées à la manière d'iMessage",
+      "url": "https://www.generation-nt.com/actualites/google-messages-reponses-groupees-imessage-2085090",
+      "publishedAt": "2026-11-26T12:00:01+00:00"
     },
     {
       "source": "clubic",
@@ -263,7 +281,7 @@
     },
     {
       "source": "gnt",
-      "title": "Comment la Maison-Blanche a forcé Intel à céder une part de son capital",
+      "title": "Comment la Maison-Blanche a forcé Intel à céder une part de son capital en échange des subventions",
       "url": "https://www.generation-nt.com/actualites/intel-cession-participation-capital-administration-trump-forcing-2085104",
       "publishedAt": "2026-11-26T11:10:01+00:00"
     },
@@ -760,12 +778,6 @@
       "publishedAt": "2026-11-26T08:21:52+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Portland n’a pas lâché son plan anti-Wemby",
-      "url": "https://www.basketusa.com/news/964328/portland-na-pas-lache-son-plan-anti-wemby/",
-      "publishedAt": "2026-11-26T08:20:23+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Nova Lake : le futur processeur Intel Core Ultra 9 4970K BFC peut-il terrasser les puces AMD X3D ?",
       "url": "https://www.generation-nt.com/actualites/intel-core-ultra-4000-processeur-pc-bureau-caracteristiques-fuite-2085101",
@@ -874,6 +886,12 @@
       "publishedAt": "2026-11-26T07:29:20+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Portland n’a pas lâché son plan anti-Wemby",
+      "url": "https://www.basketusa.com/news/964328/portland-na-pas-lache-son-plan-anti-wemby/",
+      "publishedAt": "2026-11-26T07:20:23+00:00"
+    },
+    {
       "source": "gnt",
       "title": "La NASA finalise l'architecture du vaisseau à propulsion nucléaire SR-1 Freedom, départ pour Mars dès 2028 !",
       "url": "https://www.generation-nt.com/actualites/nasa-vaisseau-nucleaire-sr1-freedom-exploration-mars-2085097",
@@ -884,12 +902,6 @@
       "title": "801 jours sans Recopie de l'iPhone en Europe : un lecteur « vibe code » sa propre alternative en open source",
       "url": "https://www.macg.co/ios/2026/11/801-jours-sans-recopie-de-liphone-en-europe-un-lecteur-vibe-code-sa-propre-alternative-en-open-source-312671",
       "publishedAt": "2026-11-26T07:17:18+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Stats & Highlights | Les Wolves restent invaincus en NBA Cup",
-      "url": "https://www.basketusa.com/news/964306/stats-highlights-les-wolves-restent-invaincus-en-nba-cup/",
-      "publishedAt": "2026-11-26T07:17:00+00:00"
     },
     {
       "source": "numerama",
@@ -946,6 +958,12 @@
       "publishedAt": "2026-11-26T06:50:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Quand LeBron James ressort sa cape du placard",
+      "url": "https://www.basketusa.com/news/964274/quand-lebron-james-ressort-sa-cape-du-placard/",
+      "publishedAt": "2026-11-26T06:45:54+00:00"
+    },
+    {
       "source": "presse",
       "title": "Et si l’IA voyait venir les crises avant nous ? Voici comment Epochal veut permettre à celle-ci de prédire l’avenir",
       "url": "https://www.presse-citron.net/et-si-lia-voyait-venir-les-crises-avant-nous-voici-comment-epochal-veut-permettre-a-celle-ci-de-predire-lavenir/",
@@ -1000,6 +1018,12 @@
       "publishedAt": "2026-11-26T06:19:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Stats & Highlights | Les Wolves restent invaincus en NBA Cup",
+      "url": "https://www.basketusa.com/news/964306/stats-highlights-les-wolves-restent-invaincus-en-nba-cup/",
+      "publishedAt": "2026-11-26T06:17:00+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Le Sénat va lancer une commission d’enquête sur les cyberattaques et les fuites de données",
       "url": "https://www.clubic.com/actualite-641083-le-senat-va-lancer-une-commission-d-enquete-sur-les-cyberattaques-et-les-fuites-de-donnees.html",
@@ -1048,16 +1072,16 @@
       "publishedAt": "2026-11-26T05:53:53+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Quand LeBron James ressort sa cape du placard",
-      "url": "https://www.basketusa.com/news/964274/quand-lebron-james-ressort-sa-cape-du-placard/",
-      "publishedAt": "2026-11-26T05:45:54+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Apple, Samsung et les géants du smartphone revoient leurs ambitions à la baisse pour 2027",
       "url": "https://www.clubic.com/actualite-641062-apple-samsung-et-les-geants-du-smartphone-revoient-leurs-ambitions-a-la-baisse-pour-2027.html",
       "publishedAt": "2026-11-26T05:43:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "LeBron James en triple-double, les Sixers dominent le Heat !",
+      "url": "https://www.basketusa.com/news/964239/avec-lebron-james-en-triple-double-les-sixers-dominent-le-heat/",
+      "publishedAt": "2026-11-26T05:41:52+00:00"
     },
     {
       "source": "gnt",
@@ -1076,12 +1100,6 @@
       "title": "Rams – Packers (26-13) : Blake Corum roule sur Green Bay",
       "url": "https://touchdownactu.com/361928/rams-packers-26-13-blake-corum-roule-sur-green-bay/",
       "publishedAt": "2026-11-26T05:29:50+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James en triple-double, les Sixers dominent le Heat !",
-      "url": "https://www.basketusa.com/news/964239/avec-lebron-james-en-triple-double-les-sixers-dominent-le-heat/",
-      "publishedAt": "2026-11-26T04:41:52+00:00"
     },
     {
       "source": "macg",
@@ -3788,18 +3806,6 @@
       "title": "Le nouveau BlackBerry n’est pas un smartphone : voici le produit qu’il lance pour votre PC",
       "url": "https://www.presse-citron.net/le-nouveau-blackberry-nest-pas-un-smartphone-voici-le-produit-quil-lance-pour-votre-pc/",
       "publishedAt": "2026-11-24T12:31:09+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Threads sur iPad : une vraie app enfin en route, trois ans après",
-      "url": "https://www.mac4ever.com/ipad/199254-threads-sur-ipad-une-vraie-app-enfin-en-route-trois-ans-apres",
-      "publishedAt": "2026-11-24T12:31:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "GTA 6 vend-il vraiment vos données psychologiques aux assureurs et aux employeurs ?",
-      "url": "https://www.generation-nt.com/actualites/gta-6-vente-donnees-assureurs-2084983",
-      "publishedAt": "2026-11-24T12:30:01+00:00"
     },
     {
       "source": "boulet",
