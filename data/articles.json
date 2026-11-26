@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T12:10:40.600661+00:00",
+  "generatedAt": "2026-11-26T12:20:43.020559+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T12:10:40.600661+00:00"
+      "lastSuccessAt": "2026-11-26T12:20:43.020559+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "X déploie un contrôle parental pour les comptes des ados",
+      "url": "https://www.clubic.com/actualite-641179-x-deploie-un-controle-parental-pour-les-comptes-des-ados.html",
+      "publishedAt": "2026-11-26T12:15:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "1Password confirme une fuite de données massive !",
+      "url": "https://www.mac4ever.com/securite/199319-1password-confirme-une-fuite-de-donnees-massive",
+      "publishedAt": "2026-11-26T12:11:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Apple teste macOS sur iPad en secret",
@@ -934,12 +946,6 @@
       "publishedAt": "2026-11-26T06:50:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Quand LeBron James ressort sa cape du placard",
-      "url": "https://www.basketusa.com/news/964274/quand-lebron-james-ressort-sa-cape-du-placard/",
-      "publishedAt": "2026-11-26T06:45:54+00:00"
-    },
-    {
       "source": "presse",
       "title": "Et si l’IA voyait venir les crises avant nous ? Voici comment Epochal veut permettre à celle-ci de prédire l’avenir",
       "url": "https://www.presse-citron.net/et-si-lia-voyait-venir-les-crises-avant-nous-voici-comment-epochal-veut-permettre-a-celle-ci-de-predire-lavenir/",
@@ -1042,16 +1048,16 @@
       "publishedAt": "2026-11-26T05:53:53+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Quand LeBron James ressort sa cape du placard",
+      "url": "https://www.basketusa.com/news/964274/quand-lebron-james-ressort-sa-cape-du-placard/",
+      "publishedAt": "2026-11-26T05:45:54+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Apple, Samsung et les géants du smartphone revoient leurs ambitions à la baisse pour 2027",
       "url": "https://www.clubic.com/actualite-641062-apple-samsung-et-les-geants-du-smartphone-revoient-leurs-ambitions-a-la-baisse-pour-2027.html",
       "publishedAt": "2026-11-26T05:43:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James en triple-double, les Sixers dominent le Heat !",
-      "url": "https://www.basketusa.com/news/964239/avec-lebron-james-en-triple-double-les-sixers-dominent-le-heat/",
-      "publishedAt": "2026-11-26T05:41:52+00:00"
     },
     {
       "source": "gnt",
@@ -1070,6 +1076,12 @@
       "title": "Rams – Packers (26-13) : Blake Corum roule sur Green Bay",
       "url": "https://touchdownactu.com/361928/rams-packers-26-13-blake-corum-roule-sur-green-bay/",
       "publishedAt": "2026-11-26T05:29:50+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "LeBron James en triple-double, les Sixers dominent le Heat !",
+      "url": "https://www.basketusa.com/news/964239/avec-lebron-james-en-triple-double-les-sixers-dominent-le-heat/",
+      "publishedAt": "2026-11-26T04:41:52+00:00"
     },
     {
       "source": "macg",
@@ -3788,24 +3800,6 @@
       "title": "GTA 6 vend-il vraiment vos données psychologiques aux assureurs et aux employeurs ?",
       "url": "https://www.generation-nt.com/actualites/gta-6-vente-donnees-assureurs-2084983",
       "publishedAt": "2026-11-24T12:30:01+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La France prépare des réserves souveraines de minerais stratégiques pour se libérer de la Chine",
-      "url": "https://www.generation-nt.com/actualites/france-strategie-terres-rares-reserves-souveraines-2085000",
-      "publishedAt": "2026-11-24T12:20:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La justice européenne interdit la vente et la production du SUV BYD Ti7, accusé de copier le Land Rover Defender",
-      "url": "https://www.numerama.com/vroom/2383453-la-justice-europeenne-interdit-la-vente-et-la-production-du-suv-byd-ti7-accuse-de-copier-le-land-rover-defender.html",
-      "publishedAt": "2026-11-24T12:20:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Brandon Ingram pas satisfait de sa première avec les Clippers",
-      "url": "https://www.basketusa.com/news/961726/brandon-ingram-pas-satisfait-de-sa-premiere-avec-les-clippers/",
-      "publishedAt": "2026-11-24T12:12:43+00:00"
     },
     {
       "source": "boulet",
