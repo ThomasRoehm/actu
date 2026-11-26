@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:01:07.821836+00:00",
+  "generatedAt": "2026-11-26T09:10:40.149785+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,51 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:01:07.821836+00:00"
+      "lastSuccessAt": "2026-11-26T09:10:40.149785+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "De retour en stock, le nouveau Pixel 11 Pro passe sous les 900€ pour le Black Friday",
+      "url": "https://www.clubic.com/bons-plans-640225-black-friday-sorti-il-y-a-peu-le-google-pixel-11-pro-de-256-go-passe-a-899-chez-amazon.html",
+      "publishedAt": "2026-11-26T09:05:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Même quand ça fonctionne, les Bucks lâchent",
+      "url": "https://www.basketusa.com/news/964313/meme-quand-ca-fonctionne-les-bucks-lachent/",
+      "publishedAt": "2026-11-26T09:02:25+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "Brock Purdy touché : les 5 infos NFL du jeudi",
+      "url": "https://touchdownactu.com/361896/brock-purdy-touche-les-5-infos-nfl-du-jeudi/",
+      "publishedAt": "2026-11-26T09:02:23+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "Black Friday 2026 en direct : Switch 2, TV OLED, AirPods… les vraies bonnes affaires du jour",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-26T08:55:00+00:00"
+      "publishedAt": "2026-11-26T09:02:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Gemini Notebook veut vous faire réviser comme un pro et ses nouvelles fiches ont de quoi séduire",
+      "url": "https://www.clubic.com/actualite-641095-gemini-notebook-veut-vous-faire-reviser-comme-un-pro-et-ses-nouvelles-fiches-ont-de-quoi-seduire.html",
+      "publishedAt": "2026-11-26T09:02:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "L’implant d’Elon Musk pour contrôler un écran par la pensée va être testé sur des patients atteints de la maladie de Charcot",
+      "url": "https://www.presse-citron.net/limplant-delon-musk-pour-controler-un-ecran-par-la-pensee-va-etre-teste-sur-des-patients-atteints-de-la-maladie-de-charcot/",
+      "publishedAt": "2026-11-26T09:00:13+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ils voulaient juste faire le plein : les comptes bancaires de ces automobilistes ont été vidés à distance",
+      "url": "https://www.presse-citron.net/ils-voulaient-juste-faire-le-plein-les-comptes-bancaires-de-ces-automobilistes-ont-ete-vides-a-distance/",
+      "publishedAt": "2026-11-26T08:54:25+00:00"
     },
     {
       "source": "mac4ever",
@@ -224,6 +260,12 @@
       "title": "Windows 11 : trop gourmandes en RAM, trois applications imposées par Microsoft vont disparaître",
       "url": "https://www.clubic.com/actualite-641113-windows-11-trop-gourmandes-en-ram-trois-applications-imposees-par-microsoft-vont-disparaitre.html",
       "publishedAt": "2026-11-26T08:32:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Le bouton rouge pour exploser Ariane 6 : que se passe-t-il si les choses tournent très mal pour la fusée ?",
+      "url": "https://www.numerama.com/sciences/2383871-le-bouton-rouge-pour-exploser-ariane-6-que-se-passe-t-il-si-les-choses-tournent-tres-mal-pour-la-fusee.html",
+      "publishedAt": "2026-11-26T08:30:00+00:00"
     },
     {
       "source": "presse",
@@ -3824,30 +3866,6 @@
       "title": "Black Friday : votre prochain PC gaming pourrait commencer avec le Ryzen 7 7800X3D à 283,99 € chez Amazon",
       "url": "https://www.clubic.com/bons-plans-640729-black-friday-votre-prochain-pc-gaming-pourrait-commencer-avec-le-ryzen-7-7800x3d-a-283-99-chez-amazon.html",
       "publishedAt": "2026-11-24T09:13:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La Chine prépare-t-elle une escadrille orbitale capable de plonger sur Terre en deux minutes ?",
-      "url": "https://www.generation-nt.com/actualites/chine-flotte-spatiale-orbite-avion-reutilisable-2084982",
-      "publishedAt": "2026-11-24T09:10:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Free Mobile lance un service de traduction des appels avec des résumés IA par SMS",
-      "url": "https://www.numerama.com/tech/2383301-free-mobile-lance-un-service-de-traduction-des-appels-avec-des-resumes-ia-par-sms.html",
-      "publishedAt": "2026-11-24T09:05:17+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Ladybird - Vous pouvez enfin installer ce navigateur indépendant",
-      "url": "https://korben.info/ladybird-premiere-alpha.html",
-      "publishedAt": "2026-11-24T09:04:43+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Kagi s’attaque à Gmail avec son propre service de messagerie",
-      "url": "https://www.macg.co/services/2026/11/kagi-sattaque-gmail-avec-son-propre-service-de-messagerie-312617",
-      "publishedAt": "2026-11-24T09:03:50+00:00"
     },
     {
       "source": "boulet",
