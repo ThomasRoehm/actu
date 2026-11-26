@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T06:40:40.439227+00:00",
+  "generatedAt": "2026-11-26T06:50:38.295675+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T06:40:40.439227+00:00"
+      "lastSuccessAt": "2026-11-26T06:50:38.295675+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "presse",
+      "title": "Et si l’IA voyait venir les crises avant nous ? Voici comment Epochal veut permettre à celle-ci de prédire l’avenir",
+      "url": "https://www.presse-citron.net/et-si-lia-voyait-venir-les-crises-avant-nous-voici-comment-epochal-veut-permettre-a-celle-ci-de-predire-lavenir/",
+      "publishedAt": "2026-11-26T06:33:16+00:00"
+    },
     {
       "source": "jdg",
       "title": "Tuto : comment recharger son Pass Navigo mensuel directement dans Google Wallet ?",
@@ -220,6 +226,12 @@
       "publishedAt": "2026-11-26T06:00:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Alperen Sengun et les Rockets stoppent la dynamique des Suns",
+      "url": "https://www.basketusa.com/news/964244/alperen-sengun-et-les-rockets-stoppent-la-bonne-dynamique-des-suns/",
+      "publishedAt": "2026-11-26T05:54:57+00:00"
+    },
+    {
       "source": "presse",
       "title": "7 millions de Français ne partent plus en randonnée sans cette application : les secrets d’AllTrails",
       "url": "https://www.presse-citron.net/7-millions-de-francais-ne-partent-plus-en-randonnee-sans-cette-applications-les-secrets-dalltrails/",
@@ -230,12 +242,6 @@
       "title": "Apple, Samsung et les géants du smartphone revoient leurs ambitions à la baisse pour 2027",
       "url": "https://www.clubic.com/actualite-641062-apple-samsung-et-les-geants-du-smartphone-revoient-leurs-ambitions-a-la-baisse-pour-2027.html",
       "publishedAt": "2026-11-26T05:43:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James en triple-double, les Sixers dominent le Heat !",
-      "url": "https://www.basketusa.com/news/964239/avec-lebron-james-en-triple-double-les-sixers-dominent-le-heat/",
-      "publishedAt": "2026-11-26T05:41:52+00:00"
     },
     {
       "source": "gnt",
@@ -250,10 +256,16 @@
       "publishedAt": "2026-11-26T05:30:00+00:00"
     },
     {
+      "source": "tda",
+      "title": "Rams – Packers (26-13) : Blake Corum roule sur Green Bay",
+      "url": "https://touchdownactu.com/361928/rams-packers-26-13-blake-corum-roule-sur-green-bay/",
+      "publishedAt": "2026-11-26T05:29:50+00:00"
+    },
+    {
       "source": "basketusa",
-      "title": "Alperen Sengun et les Rockets stoppent la dynamique des Suns",
-      "url": "https://www.basketusa.com/news/964244/alperen-sengun-et-les-rockets-stoppent-la-bonne-dynamique-des-suns/",
-      "publishedAt": "2026-11-26T04:54:57+00:00"
+      "title": "LeBron James en triple-double, les Sixers dominent le Heat !",
+      "url": "https://www.basketusa.com/news/964239/avec-lebron-james-en-triple-double-les-sixers-dominent-le-heat/",
+      "publishedAt": "2026-11-26T04:41:52+00:00"
     },
     {
       "source": "macg",
@@ -1408,6 +1420,12 @@
       "publishedAt": "2026-11-25T11:00:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
+      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
+      "publishedAt": "2026-11-25T10:57:14+00:00"
+    },
+    {
       "source": "presse",
       "title": "Office Depot ferme ses portes en France : le spécialiste des fournitures de bureau annonce la fermeture de ses 27 magasins et de son site internet",
       "url": "https://www.presse-citron.net/office-depot-ferme-ses-portes-en-france-le-specialiste-des-fournitures-de-bureau-annonce-la-fermeture-de-ses-27-magasins-et-de-son-site-internet/",
@@ -1562,12 +1580,6 @@
       "title": "Red Dead Redemption bientôt adapté en série ? Rockstar serait prêt à vendre les droits à Hollywood",
       "url": "https://www.journaldugeek.com/2026/11/25/red-dead-redemption-bientot-adapte-en-serie-rockstar-serait-pret-a-vendre-les-droits-a-hollywood/",
       "publishedAt": "2026-11-25T10:01:33+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kevin Durant, bien plus qu’une idole pour Ace Bailey",
-      "url": "https://www.basketusa.com/news/963808/kevin-durant-bien-plus-quune-idole-pour-ace-bailey/",
-      "publishedAt": "2026-11-25T09:57:14+00:00"
     },
     {
       "source": "gnt",
@@ -3896,30 +3908,6 @@
       "title": "500 000 kilomètres sans panne : c’est la voiture la plus fiable d’après les contrôleurs techniques interrogés",
       "url": "https://www.presse-citron.net/500-000-kilometres-sans-panne-cest-la-voiture-la-plus-fiable-dapres-les-controleurs-techniques-interroges/",
       "publishedAt": "2026-11-24T06:51:38+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "GrapheneOS intègre le RCS chiffré sans passer par Google Messages",
-      "url": "https://www.generation-nt.com/actualites/grapheneos-rcs-chiffre-google-messages-2084952",
-      "publishedAt": "2026-11-24T06:50:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Auto : perdre son permis de conduire sans avoir pris le volant est désormais possible, voici comment",
-      "url": "https://www.presse-citron.net/auto-perdre-son-permis-de-conduire-sans-avoir-pris-le-volant-est-desormais-possible-voici-comment/",
-      "publishedAt": "2026-11-24T06:46:12+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Ni fork de Firefox, ni fork de Chrome, ça y est, vous pouvez tester le navigateur Ladybird en alpha",
-      "url": "https://www.clubic.com/actualite-640684-ni-fork-de-firefox-ni-fork-de-chrome-ca-y-est-vous-pouvez-tester-ladybird-en-alpha.html",
-      "publishedAt": "2026-11-24T06:46:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Promo : l’iMac M6 à partir de 1 699 € au lieu de 1 799 chez Boulanger",
-      "url": "https://www.macg.co/mac/2026/11/promo-limac-m6-partir-de-1-699-eu-au-lieu-de-1-799-chez-boulanger-312611",
-      "publishedAt": "2026-11-24T06:42:29+00:00"
     },
     {
       "source": "boulet",
