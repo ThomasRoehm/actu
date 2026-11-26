@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:50:40.572693+00:00",
+  "generatedAt": "2026-11-26T16:01:06.676450+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T15:50:40.572693+00:00"
+      "lastSuccessAt": "2026-11-26T16:01:06.676450+00:00"
     }
   ],
   "articles": [
@@ -154,6 +154,12 @@
       "publishedAt": "2026-11-26T15:46:03+00:00"
     },
     {
+      "source": "gnt",
+      "title": "L'institut Gustave-Roussy réussit un angioscanner pulmonaire sans injection d'iode",
+      "url": "https://www.generation-nt.com/actualites/gustave-roussy-angioscanner-pulmonaire-sans-iode-2085094",
+      "publishedAt": "2026-11-26T15:45:01+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "La carte Vitale devient un moyen de connexion à FranceConnect",
       "url": "https://www.mac4ever.com/web/199325-la-carte-vitale-devient-un-moyen-de-connexion-a-franceconnect",
@@ -164,6 +170,12 @@
       "title": "Steve Kerr place Draymond Green au-dessus de Dennis Rodman et Scottie Pippen",
       "url": "https://www.basketusa.com/news/964214/steve-kerr-place-draymond-green-au-dessus-de-dennis-rodman-et-scottie-pippen/",
       "publishedAt": "2026-11-26T15:30:12+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Elon Musk promet deux actions SpaceX à chaque enfant américain : coup de maître ou coup de pub ?",
+      "url": "https://www.generation-nt.com/actualites/elon-musk-promesse-deux-actions-spacex-enfant-americain-2085124",
+      "publishedAt": "2026-11-26T15:30:01+00:00"
     },
     {
       "source": "clubic",
@@ -392,6 +404,12 @@
       "title": "Waze vous avertit à l’approche des passages piétons surélevés",
       "url": "https://www.clubic.com/actualite-641212-waze-vous-avertit-a-l-approche-des-passages-pietons-sureleves.html",
       "publishedAt": "2026-11-26T14:02:00+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[Podcast] Quelle est la meilleure stratégie pour la draft ?",
+      "url": "https://touchdownactu.com/361739/podcast-quelle-est-la-meilleure-strategie-pour-la-draft/",
+      "publishedAt": "2026-11-26T14:00:34+00:00"
     },
     {
       "source": "iphon",
@@ -688,12 +706,6 @@
       "publishedAt": "2026-11-26T11:37:45+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Jose Alvarado : « On sait qu’on a le meilleur banc de la ligue »",
-      "url": "https://www.basketusa.com/news/964301/jose-alvarado-on-sait-quon-a-le-meilleur-banc-de-la-ligue/",
-      "publishedAt": "2026-11-26T11:30:18+00:00"
-    },
-    {
       "source": "presse",
       "title": "Guyane : 5 hectares de feu à cause de la dernière mission d’Ariane 6, présentée comme un succès",
       "url": "https://www.presse-citron.net/guyane-5-hectares-de-feu-a-cause-de-la-derniere-mission-dariane-6-presentee-comme-un-succes/",
@@ -860,6 +872,12 @@
       "title": "“Le marché du travail est gelé” : LinkedIn révèle l’astuce qui permet aux jeunes diplômés de trouver un emploi plus vite",
       "url": "https://www.presse-citron.net/marche-travail-gele-linkedin-astuce-jeunes-diplomes/",
       "publishedAt": "2026-11-26T10:30:28+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jose Alvarado : « On sait qu’on a le meilleur banc de la ligue »",
+      "url": "https://www.basketusa.com/news/964301/jose-alvarado-on-sait-quon-a-le-meilleur-banc-de-la-ligue/",
+      "publishedAt": "2026-11-26T10:30:18+00:00"
     },
     {
       "source": "gnt",
@@ -1372,6 +1390,12 @@
       "publishedAt": "2026-11-26T07:17:18+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Stats & Highlights | Les Wolves restent invaincus en NBA Cup",
+      "url": "https://www.basketusa.com/news/964306/stats-highlights-les-wolves-restent-invaincus-en-nba-cup/",
+      "publishedAt": "2026-11-26T07:17:00+00:00"
+    },
+    {
       "source": "numerama",
       "title": "PlayStation Plus : les 3 jeux offerts en décembre 2026",
       "url": "https://www.numerama.com/pop-culture/2385097-playstation-plus-les-3-jeux-offerts-en-decembre-2026.html",
@@ -1484,12 +1508,6 @@
       "title": "Un iPhone 18 Pro Max contre un cyclope : qui a la meilleure autonomie ?",
       "url": "https://www.mac4ever.com/iphone/199303-un-iphone-18-pro-max-contre-un-cyclope-qui-a-la-meilleure-autonomie",
       "publishedAt": "2026-11-26T06:19:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Stats & Highlights | Les Wolves restent invaincus en NBA Cup",
-      "url": "https://www.basketusa.com/news/964306/stats-highlights-les-wolves-restent-invaincus-en-nba-cup/",
-      "publishedAt": "2026-11-26T06:17:00+00:00"
     },
     {
       "source": "clubic",
@@ -3770,36 +3788,6 @@
       "title": "Jensen Huang de retour à la tête de Nvidia : le point sur 24 heures de folie !",
       "url": "https://www.mac4ever.com/ia/199262-jensen-huang-de-retour-a-la-tete-de-nvidia-le-point-sur-24-heures-de-folie",
       "publishedAt": "2026-11-24T16:02:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Critique Blade Runner 2099 : série qui se perdra dans l’oubli, comme des larmes dans la pluie",
-      "url": "https://www.journaldugeek.com/critique/critique-blade-runner-2099-serie-prime-video/",
-      "publishedAt": "2026-11-24T16:00:46+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "GTA 6 est tellement un immense carton qu’il provoque des pénuries de PS5",
-      "url": "https://www.presse-citron.net/gta-6-est-tellement-un-immense-carton-quil-provoque-des-penuries-de-ps5/",
-      "publishedAt": "2026-11-24T16:00:28+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le casque Sonos Ace bradé à -58% : un vrai bon plan du Black Friday !",
-      "url": "https://www.mac4ever.com/audio/199266-le-casque-sonos-ace-brade-a-58-un-vrai-bon-plan-du-black-friday",
-      "publishedAt": "2026-11-24T15:57:42+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "IA : Anthropic chute déjà sous son prix d’introduction en Bourse !",
-      "url": "https://www.clubic.com/actualite-640855-ia-anthropic-chute-deja-sous-son-prix-d-introduction-en-bourse.html",
-      "publishedAt": "2026-11-24T15:53:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Apple : Amazon baisse l’iPhone 17 Pro, le MacBook Air M5 et 9 autres produits avant le Black Friday",
-      "url": "https://www.clubic.com/bons-plans-638878-amazon-fait-le-plein-de-promos-apple-avant-le-black-friday-de-l-ipad-au-airpods-pro-3.html",
-      "publishedAt": "2026-11-24T15:51:00+00:00"
     },
     {
       "source": "boulet",
