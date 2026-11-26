@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T10:20:38.711251+00:00",
+  "generatedAt": "2026-11-26T10:30:55.544959+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T10:20:38.711251+00:00"
+      "lastSuccessAt": "2026-11-26T10:30:55.544959+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Brandon Williams, le « Bip Bip » des Warriors",
+      "url": "https://www.basketusa.com/news/964366/brandon-williams-le-bip-bip-des-warriors/",
+      "publishedAt": "2026-11-26T10:23:01+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "MacBook Air : Apple prépare une refonte majeure pour 2027",
+      "url": "https://www.iphon.fr/post/macbook-air-refonte-majeure-2027",
+      "publishedAt": "2026-11-26T10:21:36+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Jensen Huang refuse tout plan de succession chez Nvidia malgré la crise récente",
+      "url": "https://www.generation-nt.com/actualites/nvidia-jensen-huang-plan-succession-refus-2085106",
+      "publishedAt": "2026-11-26T10:15:01+00:00"
+    },
     {
       "source": "numerama",
       "title": "GTA 6 à 30 fps sur PC et version PS5 piratée : les mauvaises nouvelles s’accumulent pour Rockstar",
@@ -166,6 +184,12 @@
       "publishedAt": "2026-11-26T10:07:29+00:00"
     },
     {
+      "source": "gnt",
+      "title": "La Radeon RX 9060 XT établit un record mondial de fréquence GPU à 4,837 GHz",
+      "url": "https://www.generation-nt.com/actualites/radeon-9060-xt-record-gpu-2085081",
+      "publishedAt": "2026-11-26T10:05:01+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Google Messages va enfin régler le problème des conversations de groupe en désordre",
       "url": "https://www.clubic.com/actualite-641098-google-messages-va-enfin-regler-le-probleme-des-conversations-de-groupe-en-desordre.html",
@@ -188,12 +212,6 @@
       "title": "Après 15 ans de développement, l’éditeur vectoriel Skala est enfin disponible",
       "url": "https://www.macg.co/logiciels/2026/11/apres-15-ans-de-developpement-lediteur-vectoriel-skala-est-enfin-disponible-312679",
       "publishedAt": "2026-11-26T09:57:30+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
-      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
-      "publishedAt": "2026-11-26T09:54:29+00:00"
     },
     {
       "source": "macg",
@@ -386,6 +404,12 @@
       "title": "Black Friday : notre podium du jour (enceinte Harman Kardon, casque Sony WH-1000XM6 et TV 4K Hisense)",
       "url": "https://www.generation-nt.com/actualites/enceinte-harman-kardon-aura-studio-5-casque-bluetooth-sony-wh-1000xm6-tv-4k-hisense-50a6s-black-friday-promos-pas-cher-2085118",
       "publishedAt": "2026-11-26T09:00:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
+      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
+      "publishedAt": "2026-11-26T08:54:29+00:00"
     },
     {
       "source": "presse",
@@ -3788,54 +3812,6 @@
       "title": "Quad9 ne fonctionne plus en France : voici comment vérifier si vous l’utilisez et le remplacer",
       "url": "https://www.numerama.com/tech/2379931-quad9-ne-fonctionne-plus-en-france-voici-comment-verifier-si-vous-lutilisez-et-le-remplacer.html",
       "publishedAt": "2026-11-24T10:30:57+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Lebara : 50 Go à moins de 7 € et la 5G dès 8,99 € sur le réseau SFR",
-      "url": "https://www.generation-nt.com/actualites/forfait-mobile-pas-cher-lebara-sfr-50-200-350-5g-2084976",
-      "publishedAt": "2026-11-24T10:30:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Grosses promos sur les claviers et souris Logitech MX pour le Black Friday !",
-      "url": "https://www.mac4ever.com/mac/199249-grosses-promos-sur-les-claviers-et-souris-logitech-mx-pour-le-black-friday",
-      "publishedAt": "2026-11-24T10:28:49+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Black Friday au service des têtes en l’air : l’Apple AirTag de deuxième génération passe à 25€ chez Amazon",
-      "url": "https://www.clubic.com/bons-plans-640756-le-black-friday-au-service-des-tetes-en-l-air-l-apple-airtag-de-deuxieme-generation-passe-a-25-chez-amazon.html",
-      "publishedAt": "2026-11-24T10:27:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "À trois jours du Black Friday, Amazon baisse déjà le prix de 12 écrans PC, de l'OLED au Full HD",
-      "url": "https://www.clubic.com/bons-plans-638671-avant-gta-vi-et-le-black-friday-amazon-casse-le-prix-des-ecrans-gaming-oled-de-lenovo-msi-et-asus.html",
-      "publishedAt": "2026-11-24T10:27:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Burger King : Didier Deschamps débarque au menu de Noël avec une sélection digne des champions",
-      "url": "https://www.journaldugeek.com/2026/11/24/burger-king-didier-deschamps-debarque-au-menu-de-noel-avec-une-selection-digne-des-champions/",
-      "publishedAt": "2026-11-24T10:26:55+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Uber Trains : vous pourrez réserver vos billets SNCF, OUIGO ou Eurostar directement dans l’application Uber",
-      "url": "https://www.journaldugeek.com/2026/11/24/uber-trains-vous-pourrez-reserver-vos-billets-sncf-ouigo-ou-eurostar-directement-dans-lapplication-uber/",
-      "publishedAt": "2026-11-24T10:26:46+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Affaire des puces NVIDIA : Washington met sur liste noire sept sociétés soupçonnées d'alimenter la Chine",
-      "url": "https://www.clubic.com/actualite-640750-affaire-des-puces-nvidia-washington-met-sur-liste-noire-sept-societes-soupconnees-d-alimenter-la-chine.html",
-      "publishedAt": "2026-11-24T10:24:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "2 produits (RED) préparent leur retour en Apple Store dès 2027",
-      "url": "https://www.iphon.fr/post/2-produits-red-preparent-leur-retour-en-apple-store-des-2027",
-      "publishedAt": "2026-11-24T10:21:23+00:00"
     },
     {
       "source": "boulet",
