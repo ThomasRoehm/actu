@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:20:41.920626+00:00",
+  "generatedAt": "2026-11-26T09:30:56.368631+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-26T09:20:41.920626+00:00"
+      "lastSuccessAt": "2026-11-26T09:30:56.368631+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : cette caméra de surveillance Ring 2K passe sous la barre des 35€ chez Amazon",
+      "url": "https://www.clubic.com/bons-plans-641101-black-friday-cette-camera-de-surveillance-ring-2k-passe-sous-la-barre-des-35-chez-amazon.html",
+      "publishedAt": "2026-11-26T09:30:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "MacBook Air : nouveau design et écran OLED ! Oui mais...",
+      "url": "https://www.mac4ever.com/mac/199306-macbook-air-nouveau-design-et-ecran-oled-oui-mais",
+      "publishedAt": "2026-11-26T09:27:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Google Gemini crée des voix sur mesure et passe désormais vos appels professionnels",
+      "url": "https://www.generation-nt.com/actualites/google-gemini-voix-appels-professionnels-2085088",
+      "publishedAt": "2026-11-26T09:25:01+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Un compte GitHub a suffi : le gestionnaire de mots de passe 1Password s’est fait pirater, voici ce que vous devez savoir",
+      "url": "https://www.numerama.com/cyberguerre/2385179-un-compte-github-a-suffi-le-gestionnaire-de-mots-de-passe-1password-sest-fait-pirater-voici-ce-que-vous-devez-savoir.html",
+      "publishedAt": "2026-11-26T09:24:15+00:00"
+    },
     {
       "source": "numerama",
       "title": "« Civilisation de Kardachev de type II » : en autorisant le million de satellites de SpaceX, la FCC vise toute la puissance du Soleil",
@@ -143,7 +167,7 @@
     },
     {
       "source": "clubic",
-      "title": "Black Friday PS5 : console, jeux, manettes, les offres qui valent vraiment le coup",
+      "title": "Black Friday PS5 : pas de console pour GTA 6, mais la Xbox Series S en stock et des accessoires qui valent vraiment le coup",
       "url": "https://www.clubic.com/bons-plans-640420-black-friday-ps5-console-jeux-manettes-les-offres-qui-valent-vraiment-le-coup.html",
       "publishedAt": "2026-11-26T09:15:00+00:00"
     },
@@ -158,6 +182,12 @@
       "title": "🔴 Neige et verglas, -8°C : une vague de froid va déferler sur la France dès ce vendredi",
       "url": "https://www.presse-citron.net/%f0%9f%94%b4-neige-et-verglas-8c-une-vague-de-froid-va-deferler-sur-la-france-des-ce-vendredi/",
       "publishedAt": "2026-11-26T09:11:30+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "SpaceX obtient le feu vert pour 1 million de serveurs spatiaux Starmind !",
+      "url": "https://www.generation-nt.com/actualites/spacex-starmind-faa-accord-1-million-satellites-datacenter-spatial-2085108",
+      "publishedAt": "2026-11-26T09:10:01+00:00"
     },
     {
       "source": "clubic",
@@ -194,6 +224,12 @@
       "title": "L’implant d’Elon Musk pour contrôler un écran par la pensée va être testé sur des patients atteints de la maladie de Charcot",
       "url": "https://www.presse-citron.net/limplant-delon-musk-pour-controler-un-ecran-par-la-pensee-va-etre-teste-sur-des-patients-atteints-de-la-maladie-de-charcot/",
       "publishedAt": "2026-11-26T09:00:13+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Black Friday : notre podium du jour (enceinte Harman Kardon, casque Sony WH-1000XM6 et TV 4K Hisense)",
+      "url": "https://www.generation-nt.com/actualites/enceinte-harman-kardon-aura-studio-5-casque-bluetooth-sony-wh-1000xm6-tv-4k-hisense-50a6s-black-friday-promos-pas-cher-2085118",
+      "publishedAt": "2026-11-26T09:00:01+00:00"
     },
     {
       "source": "presse",
@@ -394,12 +430,6 @@
       "publishedAt": "2026-11-26T07:45:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Kevin Durant devient le 5e joueur de l’histoire avec 33 000 points en carrière",
-      "url": "https://www.basketusa.com/news/964262/kevin-durant-devient-le-5e-joueur-de-lhistoire-avec-33-000-points-en-carriere/",
-      "publishedAt": "2026-11-26T07:33:39+00:00"
-    },
-    {
       "source": "presse",
       "title": "Des scientifiques ont envoyé un robot sous-marin dans la fosse des Mariannes : il a découvert les traces d’un phénomène volcanique inédit",
       "url": "https://www.presse-citron.net/scientifiques-envoye-robot-sous-marin-fosse-mariannes-decouvert-traces-phenomene-volcanique-inedit/",
@@ -494,6 +524,12 @@
       "title": "Quand LeBron James ressort sa cape du placard",
       "url": "https://www.basketusa.com/news/964274/quand-lebron-james-ressort-sa-cape-du-placard/",
       "publishedAt": "2026-11-26T06:45:54+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Kevin Durant devient le 5e joueur de l’histoire avec 33 000 points en carrière",
+      "url": "https://www.basketusa.com/news/964262/kevin-durant-devient-le-5e-joueur-de-lhistoire-avec-33-000-points-en-carriere/",
+      "publishedAt": "2026-11-26T06:33:39+00:00"
     },
     {
       "source": "presse",
@@ -952,6 +988,12 @@
       "publishedAt": "2026-11-25T16:45:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Boston Celtics – Atlanta Hawks : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/963956/boston-celtics-atlanta-hawks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-25T16:43:44+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Amazon menace New York d’une hausse de 5 dollars par commande face à un projet de loi sur les livraisons",
       "url": "https://www.generation-nt.com/actualites/amazon-new-york-hausse-livraisons-2085025",
@@ -1088,12 +1130,6 @@
       "title": "Cette nouveauté du 18 Pro sera absente de l’iPhone Air 2",
       "url": "https://www.iphon.fr/post/iphone-air-2-18-pro-dynamic-island",
       "publishedAt": "2026-11-25T15:44:58+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Boston Celtics – Atlanta Hawks : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/963956/boston-celtics-atlanta-hawks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-25T15:43:44+00:00"
     },
     {
       "source": "mac4ever",
@@ -3818,60 +3854,6 @@
       "title": "Après un mois de défaites, les Bucks gagnent à nouveau",
       "url": "https://www.basketusa.com/news/961727/apres-un-mois-de-defaites-les-bucks-gagnent-a-nouveau/",
       "publishedAt": "2026-11-24T09:31:43+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Ligne 18 : mauvaise nouvelle pour le nouveau métro du Grand Paris Express",
-      "url": "https://www.journaldugeek.com/2026/11/24/ligne-18-mauvaise-nouvelle-pour-le-nouveau-metro-du-grand-paris-express/",
-      "publishedAt": "2026-11-24T09:30:39+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Ladybird, le navigateur qui veut affranchir le web de Google, est enfin là. Et son créateur veut qu’on le pirate",
-      "url": "https://www.numerama.com/tech/2383303-ladybird-le-navigateur-qui-veut-affranchir-le-web-de-google-est-enfin-la-et-son-createur-veut-quon-le-pirate.html",
-      "publishedAt": "2026-11-24T09:30:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Free fait une première en France avec cette fonctionnalité inédite pour ses abonnés",
-      "url": "https://www.journaldugeek.com/2026/11/24/free-fait-une-premiere-en-france-avec-cette-fonctionnalite-inedite-pour-ses-abonnes/",
-      "publishedAt": "2026-11-24T09:28:17+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "GTA 6 piraté en entier, mais aucun PC ne le fait démarrer (pour le moment)",
-      "url": "https://korben.info/gta-6-pirate-en-entier-mais-aucun-pc-ne-le-fait-demarrer-pour-le-moment.html",
-      "publishedAt": "2026-11-24T09:27:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 est déjà jouable sur PlayStation Portal sans PS5",
-      "url": "https://www.numerama.com/pop-culture/2383295-gta-6-est-deja-jouable-sur-playstation-portal-sans-ps5.html",
-      "publishedAt": "2026-11-24T09:25:25+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Windows 11 relie plusieurs mini PC en USB4 pour charger de gros modèles d'IA",
-      "url": "https://www.generation-nt.com/actualites/windows-mini-pc-usb4-ia-2084958",
-      "publishedAt": "2026-11-24T09:25:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Claude : ces nouveautés qui pourraient faire la différence face à ChatGPT",
-      "url": "https://www.mac4ever.com/ia/199237-claude-ces-nouveautes-qui-pourraient-faire-la-difference-face-a-chatgpt",
-      "publishedAt": "2026-11-24T09:25:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Kevin Durant, l’art de choisir ses moments",
-      "url": "https://www.basketusa.com/news/961677/kevin-durant-lart-de-choisir-ses-moments/",
-      "publishedAt": "2026-11-24T09:24:17+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "dumbtv - Le Fire TV sans pub ni mouchard (et sans root)",
-      "url": "https://korben.info/dumbtv.html",
-      "publishedAt": "2026-11-24T09:21:56+00:00"
     },
     {
       "source": "boulet",
