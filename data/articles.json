@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:50:41.180264+00:00",
+  "generatedAt": "2026-11-27T08:01:10.761612+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
+      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "[Quiz] Avez-vous bien suivi la 11e semaine de saison régulière en NFL ?",
+      "url": "https://touchdownactu.com/361906/quiz-avez-vous-bien-suivi-la-11e-semaine-de-saison-reguliere-en-nfl/",
+      "publishedAt": "2026-11-27T08:00:04+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Victime d’une cyberattaque, l’Agence France-Presse ferme brutalement l’accès à une de ses plateformes : voici ce que l’on sait",
+      "url": "https://www.numerama.com/cyberguerre/2385847-victime-dune-cyberattaque-lagence-france-presse-ferme-brutalement-lacces-a-une-de-ses-plateformes-voici-ce-que-lon-sait.html",
+      "publishedAt": "2026-11-27T07:58:12+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Cyberattaque contre l’AFP : quand les pirates perturbent toute la chaîne de l’information",
+      "url": "https://www.mac4ever.com/ia/199332-cyberattaque-contre-l-afp-quand-les-pirates-perturbent-toute-la-chaine-de-l-information",
+      "publishedAt": "2026-11-27T07:56:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone 20 Pro : Apple prépare une édition qui risque de coûter très cher",
+      "url": "https://www.iphon.fr/post/iphone-20-pro-2027-edition-anniversaire-limite-ceramique-rumeur",
+      "publishedAt": "2026-11-27T07:53:54+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'extension Adobe Acrobat écrirait 100 Go par jour sur votre SSD",
+      "url": "https://www.generation-nt.com/actualites/extension-adobe-acrobat-100-go-ssd-2085164",
+      "publishedAt": "2026-11-27T07:45:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Attention, la messagerie de votre hébergeur est peut-être vulnérable",
@@ -164,6 +194,12 @@
       "title": "Cette semaine, l’Europe est moins dépendante de Starlink : sa plus grande usine de satellites vient d’être inaugurée en Belgique",
       "url": "https://www.presse-citron.net/cette-semaine-leurope-est-moins-dependante-de-starlink-sa-plus-grande-usine-de-satellites-vient-detre-inauguree-en-belgique/",
       "publishedAt": "2026-11-27T07:30:42+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Musique IA - Tidal passe du tag à la poubelle",
+      "url": "https://korben.info/tidal-supprime-musique-ia.html",
+      "publishedAt": "2026-11-27T07:29:43+00:00"
     },
     {
       "source": "jdg",
@@ -580,6 +616,12 @@
       "publishedAt": "2026-11-26T17:31:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "LeBron James et les « papys du triple-double »",
+      "url": "https://www.basketusa.com/news/964456/lebron-james-et-les-papys-du-triple-double/",
+      "publishedAt": "2026-11-26T17:27:28+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Le Black Friday sourit aux gamers : la Nintendo Switch 2 avec batterie remplaçable descend à 429 € chez Amazon",
       "url": "https://www.clubic.com/bons-plans-641209-le-black-friday-sourit-aux-gamers-la-nintendo-switch-2-avec-batterie-remplacable-descend-a-429-chez-amazon.html",
@@ -646,6 +688,12 @@
       "publishedAt": "2026-11-26T16:53:43+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
+      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
+      "publishedAt": "2026-11-26T16:51:17+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Black Friday : Cdiscount lance officiellement ses offres jusqu'à -60 % (avec codes promo en prime) !",
       "url": "https://www.generation-nt.com/actualites/airpods-5-redmi-note-17-google-pixel-9a-casque-jbl-tune-530bt-airfryer-ninja-camera-dji-cdiscount-promos-pas-cher-black-friday-2085135",
@@ -680,12 +728,6 @@
       "title": "IA : Microsoft alerte sur une vague de pannes à venir dans la tech",
       "url": "https://www.clubic.com/actualite-641269-ia-microsoft-alerte-sur-une-vague-de-pannes-tech-a-venir.html",
       "publishedAt": "2026-11-26T16:28:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James et les « papys du triple-double »",
-      "url": "https://www.basketusa.com/news/964456/lebron-james-et-les-papys-du-triple-double/",
-      "publishedAt": "2026-11-26T16:27:28+00:00"
     },
     {
       "source": "gnt",
@@ -752,12 +794,6 @@
       "title": "La Boxster 718 la plus puissante de l’Histoire sera bel et bien électrique : Porsche passe à l’attaque",
       "url": "https://www.presse-citron.net/la-boxster-718-la-plus-puissante-de-lhistoire-sera-bel-et-bien-electrique-porsche-passe-a-lattaque/",
       "publishedAt": "2026-11-26T16:00:16+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
-      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
-      "publishedAt": "2026-11-26T15:51:17+00:00"
     },
     {
       "source": "mac4ever",
@@ -827,9 +863,21 @@
     },
     {
       "source": "basketusa",
+      "title": "Utah Jazz – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964222/utah-jazz-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-26T15:28:38+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "New York Knicks – Miami Heat : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/964475/new-york-knicks-miami-heat-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-26T15:26:10+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Indiana Pacers – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964485/indiana-pacers-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-26T15:24:55+00:00"
     },
     {
       "source": "numerama",
@@ -986,18 +1034,6 @@
       "title": "WhatsApp vous permet enfin de programmer vos messages",
       "url": "https://www.generation-nt.com/actualites/whatsapp-programmer-message-planifier-2085111",
       "publishedAt": "2026-11-26T14:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Utah Jazz – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964222/utah-jazz-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-26T14:28:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Indiana Pacers – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964485/indiana-pacers-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-26T14:24:55+00:00"
     },
     {
       "source": "clubic",
@@ -3830,30 +3866,6 @@
       "title": "Sony a menti sur la version PS5 de GTA 6",
       "url": "https://www.numerama.com/pop-culture/2384141-sony-a-menti-sur-la-version-ps5-de-gta-6.html",
       "publishedAt": "2026-11-25T08:01:12+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Avengers Doomsday nous offre déjà un nouveau teaser avec une confrontation inédite !",
-      "url": "https://www.journaldugeek.com/2026/11/25/avengers-doomsday-nous-offre-deja-un-nouveau-teaser-avec-une-confrontation-inedite/",
-      "publishedAt": "2026-11-25T08:00:47+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "« Huawei a bâti son empire sur la fraude, le vol et la tromperie » : le géant chinois reconnu coupable de vol de secrets industriels",
-      "url": "https://www.presse-citron.net/huawei-a-bati-son-empire-sur-la-fraude-le-vol-et-la-tromperie-le-geant-chinois-reconnu-coupable-de-vol-de-secrets-industriels/",
-      "publishedAt": "2026-11-25T08:00:38+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Instagram et IA Muse : allez-vous laisser un yéti organiser vos photos, vos recettes et vos voyages",
-      "url": "https://www.mac4ever.com/ia/199269-instagram-et-ia-muse-allez-vous-laisser-un-yeti-organiser-vos-photos-vos-recettes-et-vos-voyages",
-      "publishedAt": "2026-11-25T07:57:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Tyrese Haliburton, la bonne surprise du week-end pour les Pacers ?",
-      "url": "https://www.basketusa.com/news/963797/tyrese-haliburton-la-bonne-surprise-du-week-end-pour-les-pacers/",
-      "publishedAt": "2026-11-25T07:54:20+00:00"
     },
     {
       "source": "boulet",
