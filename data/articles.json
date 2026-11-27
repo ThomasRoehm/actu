@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:30:57.619754+00:00",
+  "generatedAt": "2026-11-27T15:40:47.746906+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
+      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Test de la Flexispot C7 Morpher : le géant du bureau assis-debout se met aux chaises ergonomiques",
+      "url": "https://www.clubic.com/test-produit-637054-test-de-la-flexispot-c7-morpher-le-geant-du-bureau-assis-debout-se-met-aux-chaises-ergonomiques.html",
+      "publishedAt": "2026-11-27T15:35:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Cette série phénomène débarque sur Netflix et nous rappelle pourquoi elle mérite d’être vue",
+      "url": "https://www.journaldugeek.com/dossier/cette-serie-phenomene-debarque-sur-netflix-et-nous-rappelle-pourquoi-elle-merite-detre-vue/",
+      "publishedAt": "2026-11-27T15:34:28+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : notre sélection de fauteuils ergonomiques de 100 à 470 €",
+      "url": "https://www.macg.co/materiel/2026/11/black-friday-notre-selection-de-fauteuils-ergonomiques-de-100-470-eu-312719",
+      "publishedAt": "2026-11-27T15:32:59+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Un trou de la couche d’ozone record et pourtant la situation n’est pas si grave : comment est-ce possible ?",
+      "url": "https://www.numerama.com/sciences/2386087-un-trou-de-la-couche-dozone-record-et-pourtant-la-situation-nest-pas-si-grave-comment-est-ce-possible.html",
+      "publishedAt": "2026-11-27T15:31:24+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Cybertek : 4 PC gamer 100 % AMD en promo, du AMD Ryzen™ 7 8700F au 9800X3D",
@@ -1534,12 +1558,6 @@
       "publishedAt": "2026-11-27T07:56:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
-      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
-      "publishedAt": "2026-11-27T07:54:53+00:00"
-    },
-    {
       "source": "iphon",
       "title": "iPhone 20 Pro : Apple prépare une édition qui risque de coûter très cher",
       "url": "https://www.iphon.fr/post/iphone-20-pro-2027-edition-anniversaire-limite-ceramique-rumeur",
@@ -1682,6 +1700,12 @@
       "title": "iPhone 18 Pro vs 17 Pro : voici le vrai gagnant en 5G",
       "url": "https://www.iphon.fr/post/iphone-18-pro-vs-17-pro-test-rapidite-5g",
       "publishedAt": "2026-11-27T06:56:59+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
+      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
+      "publishedAt": "2026-11-27T06:54:53+00:00"
     },
     {
       "source": "gnt",
@@ -4064,30 +4088,6 @@
       "title": "Amazon brade ses nouveaux Echo Show et Studio : jusqu'à -61% pour le Black Friday !",
       "url": "https://www.mac4ever.com/domotique/199295-amazon-brade-ses-nouveaux-echo-show-et-studio-jusqu-a-61-pour-le-black-friday",
       "publishedAt": "2026-11-25T15:41:05+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Claude transforme ses artefacts en applications pour ordinateur",
-      "url": "https://www.generation-nt.com/actualites/claude-anthropic-artefacts-applications-mac-windows-2085046",
-      "publishedAt": "2026-11-25T15:40:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "La mise à jour 1.9.0 de Mario Kart World vient de sortir sur Switch 2, mais quand est-ce qu’on retrouve les vraies courses en 3 tours ?",
-      "url": "https://www.journaldugeek.com/2026/11/25/la-mise-a-jour-1-9-0-de-mario-kart-world-vient-de-sortir-sur-switch-2-mais-quand-est-ce-quon-retrouve-les-vraies-courses-en-3-tours/",
-      "publishedAt": "2026-11-25T15:34:30+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Un troisième coloris « Ruthless Precision » pour la Kobe A.D.",
-      "url": "https://www.basketusa.com/news/964052/un-troisieme-coloris-ruthless-precision-pour-la-kobe-a-d/",
-      "publishedAt": "2026-11-25T15:32:26+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Fuite chez Decathlon, vos consignes de livraison aussi dans la nature",
-      "url": "https://korben.info/fuite-chez-decathlon-vos-consignes-de-livraison-aussi-dans-la-nature.html",
-      "publishedAt": "2026-11-25T15:32:17+00:00"
     },
     {
       "source": "boulet",
