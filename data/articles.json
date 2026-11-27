@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:50:39.175328+00:00",
+  "generatedAt": "2026-11-27T09:01:07.831305+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,51 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
+      "lastSuccessAt": "2026-11-27T09:01:07.831305+00:00"
     }
   ],
   "articles": [
     {
+      "source": "mac4ever",
+      "title": "SC01 : la sportive électrique chinoise sera assemblée en Italie en 2027",
+      "url": "https://www.mac4ever.com/auto/199334-sc01-la-sportive-electrique-chinoise-sera-assemblee-en-italie-en-2027",
+      "publishedAt": "2026-11-27T09:01:00+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Les AirPods Pro 3 en promo à 188€ pour le Black Friday : profitez du meilleur prix !",
+      "url": "https://www.mac4ever.com/audio/199336-les-airpods-pro-3-en-promo-a-188-pour-le-black-friday-profitez-du-meilleur-prix",
+      "publishedAt": "2026-11-27T08:59:49+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Samsung confirme un correctif de la surconsommation de batterie dans One UI 9.5",
+      "url": "https://www.generation-nt.com/actualites/samsung-correctif-batterie-one-ui-95-2085160",
+      "publishedAt": "2026-11-27T08:55:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
+      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
+      "publishedAt": "2026-11-27T08:54:53+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Pour le Black Friday, Roborock lâche ses meilleurs aspirateurs robots à prix cassé (jusqu’à -500 €)",
+      "url": "https://www.presse-citron.net/pour-le-black-friday-roborock-lache-ses-meilleurs-aspirateurs-robots-a-prix-casse-jusqua-500-e/",
+      "publishedAt": "2026-11-27T08:52:10+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday 2026 en direct : les meilleures ventes flash à saisir avant ce soir minuit",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T08:47:00+00:00"
+      "publishedAt": "2026-11-27T08:51:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Cachous, Valda, Pulmoll… les pastilles contre la toux disparaissent des pharmacies, voici pourquoi",
+      "url": "https://www.presse-citron.net/cachous-valda-pulmoll-les-pastilles-contre-la-toux-disparaissent-des-pharmacies-voici-pourquoi/",
+      "publishedAt": "2026-11-27T08:50:58+00:00"
     },
     {
       "source": "clubic",
@@ -164,6 +200,12 @@
       "title": "Le Black Friday c’est maintenant : on a trié les 100 meilleures offres de l’évènement et on continue d’en ajouter en direct",
       "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
       "publishedAt": "2026-11-27T08:40:20+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Smartphones, PC gamer, électroménager, vélos électriques : les meilleurs bons plans Black Friday Cdiscount",
+      "url": "https://www.generation-nt.com/actualites/cdiscount-promos-pas-cher-redmi-note-15-pro-lenovo-legion-5-bose-quietcomfort-ultra-black-friday-2084981",
+      "publishedAt": "2026-11-27T08:40:02+00:00"
     },
     {
       "source": "clubic",
@@ -479,7 +521,7 @@
     },
     {
       "source": "gnt",
-      "title": "Neuralink : feu vert de la FDA pour tester l'implant cérébral sur l'humain à grande échelle !",
+      "title": "Bientôt tous pucés ? La FDA donne son feu vert pour tester l'implant cérébral Neuralink à grande échelle",
       "url": "https://www.generation-nt.com/actualites/neuralink-fda-validation-test-clinique-humain-grande-echelle-2085130",
       "publishedAt": "2026-11-27T06:30:01+00:00"
     },
@@ -3872,12 +3914,6 @@
       "title": "9 jours après un flop américain, l’Europe rattrape le coup : Arianspace vient d’envoyer son 136e satellite Amazon Leo",
       "url": "https://www.presse-citron.net/arianspace-envoyer-136-satellite-amazon-leo/",
       "publishedAt": "2026-11-25T09:03:19+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday : notre podium du jour (station Anker SOLIX S2000, enceinte CMF Speaker S, Garmin Instinct 3)",
-      "url": "https://www.generation-nt.com/actualites/station-electrique-portable-anker-solix-s2000-enceinte-cmf-speaker-garmin-instinct-3-montre-black-friday-promos-pas-cher-2085055",
-      "publishedAt": "2026-11-25T09:00:01+00:00"
     },
     {
       "source": "boulet",
