@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:30:53.366897+00:00",
+  "generatedAt": "2026-11-27T09:40:41.098736+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,64 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:30:53.366897+00:00"
+      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Trop de bips dans votre voiture neuve ? Euro NCAP s’apprête enfin à sévir",
+      "url": "https://www.numerama.com/vroom/2385921-trop-de-bips-dans-votre-voiture-neuve-euro-ncap-sapprete-enfin-a-sevir.html",
+      "publishedAt": "2026-11-27T09:39:52+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "« À garder strictement au sein de SAP » : un message interne trahit une cyberattaque contre le géant allemand du logiciel",
+      "url": "https://www.numerama.com/cyberguerre/2385947-a-garder-strictement-au-sein-de-sap-un-message-interne-trahit-une-cyberattaque-contre-le-geant-allemand-du-logiciel.html",
+      "publishedAt": "2026-11-27T09:37:22+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Google veut publier l'adresse personnelle des développeurs, bien au-delà de ce qu'exige l'Europe",
+      "url": "https://www.clubic.com/actualite-641407-google-veut-publier-l-adresse-personnelle-des-developpeurs-bien-au-dela-de-ce-qu-exige-l-europe.html",
+      "publishedAt": "2026-11-27T09:35:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Dyson : les 8 meilleures offres de la boutique officielle à saisir avant minuit",
+      "url": "https://www.clubic.com/bons-plans-641329-black-friday-dyson-les-8-meilleures-offres-de-la-boutique-officielle-a-saisir-avant-minuit.html",
+      "publishedAt": "2026-11-27T09:33:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Apple lance son Black Friday : jusqu’à 150 € offerts pendant une durée limitée sur l’Apple Store en ligne",
+      "url": "https://www.iphon.fr/post/apple-lance-black-friday-150-euros-offerts-duree-limitee-apple-store-en-ligne",
+      "publishedAt": "2026-11-27T09:32:09+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Free traduit vos appels en direct, même vers un vieux fixe, sans aucune app",
+      "url": "https://www.mac4ever.com/divers/199335-free-traduit-vos-appels-en-direct-meme-vers-un-vieux-fixe-sans-aucune-app",
+      "publishedAt": "2026-11-27T09:32:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "EA Sports FC 27 a recréé la voix d’un commentateur décédé en 2023 avec l’IA : John Motson était devenu “la voix du football”",
+      "url": "https://www.presse-citron.net/ea-sports-fc-27-voix-ia-john-motson-football/",
+      "publishedAt": "2026-11-27T09:30:55+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : c’est quoi le problème avec les masculinistes qui continuent de pleurer ?",
+      "url": "https://www.journaldugeek.com/2026/11/27/gta-6-cest-quoi-le-probleme-avec-les-masculinistes-qui-continuent-de-pleurer/",
+      "publishedAt": "2026-11-27T09:30:53+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Le Black Friday est lancé : voici le top 100 des offres Amazon, Fnac, Boulanger et Cdiscount (EN DIRECT)",
+      "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
+      "publishedAt": "2026-11-27T09:30:04+00:00"
+    },
     {
       "source": "gnt",
       "title": "Pourquoi le « AAAA » de Skull and Bones vaut un procès à Ubisoft ?",
@@ -230,12 +284,6 @@
       "title": "Black Friday : Cdiscount brade tout son site avec des ventes flash jusqu'à moins 50 %",
       "url": "https://www.clubic.com/bons-plans-641254-black-friday-cdiscount-brade-tout-son-site-avec-des-ventes-flash-jusqu-a-moins-50.html",
       "publishedAt": "2026-11-27T09:06:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le Black Friday c’est maintenant : on a trié les 100 meilleures offres de l’évènement et on continue d’en ajouter en direct",
-      "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
-      "publishedAt": "2026-11-27T09:03:25+00:00"
     },
     {
       "source": "jdg",
@@ -3914,30 +3962,6 @@
       "title": "Ils sont les seuls à voir les IA les plus puissantes, et ils ont peur : chez OpenAI et Anthropic, les salariés tirent la sonnette d’alarme",
       "url": "https://www.numerama.com/tech/2384181-ils-sont-les-seuls-a-voir-les-ia-les-plus-puissantes-et-ils-ont-peur-chez-openai-et-anthropic-les-salaries-tirent-la-sonnette-dalarme.html",
       "publishedAt": "2026-11-25T09:42:20+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Sochaux à l’arrêt : pour la fin d’année, Stellantis supprime l’équipe de nuit et stoppe la production pendant 11 jours",
-      "url": "https://www.presse-citron.net/sochaux-a-larret-pour-la-fin-dannee-stellantis-supprime-lequipe-de-nuit-et-stoppe-la-production-pendant-11-jours/",
-      "publishedAt": "2026-11-25T09:35:22+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Cette photo prise par l’iPhone 18 Pro est dans le top 100 Time de 2026",
-      "url": "https://www.iphon.fr/post/iphone-18-pro-photo-top-100-time-2026",
-      "publishedAt": "2026-11-25T09:33:34+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Même avec 0 % de batterie, le nouveau BMW iX5 pourra encore parcourir 35 km : comment est-ce possible ?",
-      "url": "https://www.presse-citron.net/meme-avec-0-batterie-nouveau-bmw-ix5-parcourir-35-km-comment-est-ce-possible/",
-      "publishedAt": "2026-11-25T09:31:15+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Un robot porte les valises d’Elon Musk ? La vidéo qui relance le débat sur l’avenir de l’emploi",
-      "url": "https://www.mac4ever.com/ia/199272-un-robot-porte-les-valises-d-elon-musk-la-video-qui-relance-le-debat-sur-l-avenir-de-l-emploi",
-      "publishedAt": "2026-11-25T09:31:00+00:00"
     },
     {
       "source": "boulet",
