@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:20:40.951655+00:00",
+  "generatedAt": "2026-11-27T17:30:55.396842+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     },
     {
       "id": "boulet",
@@ -131,21 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
+      "lastSuccessAt": "2026-11-27T17:30:55.396842+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "Black Friday : l’iPhone 18 Pro est à 1 279€ au lieu de 1 479€, avec un forfait 250 Go à 12,99€/mois",
+      "url": "https://www.clubic.com/bons-plans-641533-black-friday-l-iphone-18-pro-est-a-1-279-au-lieu-de-1-479-avec-un-forfait-250-go-a-12-99-mois.html",
+      "publishedAt": "2026-11-27T17:26:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les puces pèsent désormais plus que le pétrole dans les échanges mondiaux",
+      "url": "https://www.generation-nt.com/actualites/puces-depassent-petrole-echanges-mondiaux-2085162",
+      "publishedAt": "2026-11-27T17:25:01+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "Black Friday en direct : dernière ligne droite, les meilleures offres à saisir avant minuit",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T17:19:00+00:00"
+      "publishedAt": "2026-11-27T17:23:00+00:00"
     },
     {
       "source": "basketusa",
       "title": "Course au MVP | Victor Wembanyama et Luka Doncic, déjà loin devant ?",
       "url": "https://www.basketusa.com/news/964742/course-au-mvp-victor-wembanyama-et-luka-doncic-deja-loin-devant/",
       "publishedAt": "2026-11-27T17:11:45+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Windows 11 : avis de dépréciation pour une fonctionnalité Bluetooth",
+      "url": "https://www.generation-nt.com/actualites/windows-11-depreciation-bluetooth-family-safety-2085180",
+      "publishedAt": "2026-11-27T17:10:01+00:00"
     },
     {
       "source": "clubic",
@@ -1486,12 +1504,6 @@
       "publishedAt": "2026-11-27T09:21:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "La Air Jordan 4 « Bred » fait son grand retour",
-      "url": "https://www.basketusa.com/news/964564/la-air-jordan-4-bred-fait-son-grand-retour/",
-      "publishedAt": "2026-11-27T09:18:11+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Passe Navigo non validé : l’amende tombe à 15 €, mais pas pour tout le monde",
       "url": "https://www.numerama.com/vroom/2385945-passe-navigo-non-valide-lamende-tombe-a-15-e-mais-pas-pour-tout-le-monde.html",
@@ -1676,6 +1688,12 @@
       "title": "Face aux critiques d'Elon Musk, Figure AI prouve l'autonomie de son robot avec une simple pomme",
       "url": "https://www.generation-nt.com/actualites/figure-ai-robot-humanoide-test-pomme-critique-elon-musk-2085137",
       "publishedAt": "2026-11-27T08:20:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La Air Jordan 4 « Bred » fait son grand retour",
+      "url": "https://www.basketusa.com/news/964564/la-air-jordan-4-bred-fait-son-grand-retour/",
+      "publishedAt": "2026-11-27T08:18:11+00:00"
     },
     {
       "source": "clubic",
@@ -4034,30 +4052,6 @@
       "title": "Pourquoi le premier jour rouge Tempo d’EDF tombe si tôt cette année, dès le 26 novembre ?",
       "url": "https://www.numerama.com/sciences/2384971-pourquoi-le-premier-jour-rouge-tempo-dedf-tombe-si-tot-cette-annee-des-le-26-novembre.html",
       "publishedAt": "2026-11-25T17:32:50+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 a assassiné deux des plus gros jeux de l’industrie et personne n’en sera étonné",
-      "url": "https://www.journaldugeek.com/2026/11/25/gta-6-a-assassine-deux-des-plus-gros-jeux-de-lindustrie-et-personne-nen-sera-etonne/",
-      "publishedAt": "2026-11-25T17:30:19+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Boulanger : jusqu’à -36 % sur une sélection de périphériques gaming SteelSeries",
-      "url": "https://www.generation-nt.com/actualites/boulanger-black-friday-clavier-gaming-steelseries-apex-pro-tkl-gen-3-steel-casque-arctis-nova-pro-souris-rival-3-promos-pas-cher-2085067",
-      "publishedAt": "2026-11-25T17:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Grosbill baisse le prix de plusieurs processeurs AMD Ryzen™, jusqu’à 35 % de réduction",
-      "url": "https://www.clubic.com/actualite-640720-black-friday-grosbill-baisse-le-prix-de-plusieurs-processeurs-amd-ryzen-jusqu-a-35-de-reduction.html",
-      "publishedAt": "2026-11-25T17:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Mike Brown et la petite touche de Stephen Curry chez Jalen Brunson",
-      "url": "https://www.basketusa.com/news/964028/mike-brown-et-la-petite-touche-de-stephen-curry-chez-jalen-brunson/",
-      "publishedAt": "2026-11-25T17:29:48+00:00"
     },
     {
       "source": "boulet",
