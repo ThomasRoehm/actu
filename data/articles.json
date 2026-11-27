@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:30:56.612689+00:00",
+  "generatedAt": "2026-11-27T13:40:40.904349+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:30:56.612689+00:00"
+      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Rockstar Games : les salariés du studio de GTA 6 rejettent la reconnaissance syndicale",
+      "url": "https://www.clubic.com/actualite-641482-rockstar-games-les-salaries-du-studio-de-gta-6-rejettent-la-reconnaissance-syndicale.html",
+      "publishedAt": "2026-11-27T13:37:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "pCloud Pass a bien été victime d'une cyberattaque, l'éditeur assure que vos mots de passe sont en sécurité",
+      "url": "https://www.clubic.com/actualite-641488-pcloud-pass-a-bien-ete-victime-d-une-cyberattaque-l-editeur-assure-que-vos-mots-de-passe-sont-en-securite.html",
+      "publishedAt": "2026-11-27T13:33:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "TV payante : l’abonnement Canal+ ne sera finalement pas taxé à 20 % comme Netflix",
+      "url": "https://www.presse-citron.net/tv-payante-labonnement-canal-ne-sera-finalement-pas-taxe-a-20-comme-netflix/",
+      "publishedAt": "2026-11-27T13:30:39+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : CleanMyMac jusqu’à -55 % pour nettoyer votre Mac (et votre boîte Gmail)",
@@ -182,6 +200,12 @@
       "title": "Ces 2 chargeurs UGREEN 100/160W avec écran et suivi de conso sont à prix cassé pour le Black Friday",
       "url": "https://www.mac4ever.com/divers/199341-ces-deux-chargeurs-ugreen-avec-ecran-et-suivi-de-conso-sont-a-prix-casse-pour-le-black-friday",
       "publishedAt": "2026-11-27T13:14:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Infflux visé par une revendication de ransomware du groupe The Gentlemen",
+      "url": "https://korben.info/infflux-vise-par-une-revendication-de-ransomware-du-groupe-the-gentlemen.html",
+      "publishedAt": "2026-11-27T13:13:59+00:00"
     },
     {
       "source": "basketusa",
@@ -982,12 +1006,6 @@
       "publishedAt": "2026-11-27T08:55:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
-      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
-      "publishedAt": "2026-11-27T08:54:53+00:00"
-    },
-    {
       "source": "presse",
       "title": "Pour le Black Friday, Roborock lâche ses meilleurs aspirateurs robots à prix cassé (jusqu’à -500 €)",
       "url": "https://www.presse-citron.net/pour-le-black-friday-roborock-lache-ses-meilleurs-aspirateurs-robots-a-prix-casse-jusqua-500-e/",
@@ -1160,6 +1178,12 @@
       "title": "Cyberattaque contre l’AFP : quand les pirates perturbent toute la chaîne de l’information",
       "url": "https://www.mac4ever.com/ia/199332-cyberattaque-contre-l-afp-quand-les-pirates-perturbent-toute-la-chaine-de-l-information",
       "publishedAt": "2026-11-27T07:56:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
+      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
+      "publishedAt": "2026-11-27T07:54:53+00:00"
     },
     {
       "source": "iphon",
@@ -4010,36 +4034,6 @@
       "title": "Les jumelles intelligentes Unistellar ENVISION vous guident désormais à travers les étoiles",
       "url": "https://www.mac4ever.com/divers/199287-les-jumelles-intelligentes-unistellar-envision-vous-guident-desormais-a-travers-les-etoiles",
       "publishedAt": "2026-11-25T13:52:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Fnac / Boulanger : 50 € de bonus sur une sélection de PC portables avec Snapdragon",
-      "url": "https://www.generation-nt.com/actualites/fnac-boulanger-promos-pc-portable-snapdragon-copilot-ia-hp-omnibook-3-samsung-galaxy-book4-edge-se-black-friday-2085059",
-      "publishedAt": "2026-11-25T13:40:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Prime de 500 euros pour les bornes à domicile : à cinq semaines du lancement, les conditions se font attendre",
-      "url": "https://www.clubic.com/actualite-640969-une-prime-de-500-euros-prevue-pour-les-bornes-de-recharge-a-domicile.html",
-      "publishedAt": "2026-11-25T13:35:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L'iPad sous macOS existerait déjà, mais Apple le garderait en interne",
-      "url": "https://www.mac4ever.com/ipad/199288-l-ipad-sous-macos-existerait-deja-mais-apple-le-garderait-en-interne",
-      "publishedAt": "2026-11-25T13:35:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "IA : vous pouvez maintenant créer des apps Windows ou Mac gratuitement en utilisant ce célèbre chatbot",
-      "url": "https://www.presse-citron.net/ia-creer-apps-windows-mac-gratuitement/",
-      "publishedAt": "2026-11-25T13:32:15+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Pour Noël, Nintendo a trouvé l’idée parfaite pour les cadeaux de dernière minute",
-      "url": "https://www.journaldugeek.com/2026/11/25/pour-noel-nintendo-a-trouve-lidee-parfaite-pour-les-cadeaux-de-derniere-minute/",
-      "publishedAt": "2026-11-25T13:31:50+00:00"
     },
     {
       "source": "boulet",
