@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:20:42.182416+00:00",
+  "generatedAt": "2026-11-27T16:30:55.779517+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
+      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "jdg",
+      "title": "Le Seigneur des anneaux : le nouveau film franchit un cap important",
+      "url": "https://www.journaldugeek.com/2026/11/27/le-seigneur-des-anneaux-le-nouveau-film-franchit-un-cap-important/",
+      "publishedAt": "2026-11-27T16:22:54+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Black Friday : les 100 deals à ne pas rater chez Amazon, Fnac, Boulanger et Cdiscount (EN DIRECT)",
+      "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
+      "publishedAt": "2026-11-27T16:21:27+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : le bracelet connecté Xiaomi Smart Band 10 est à seulement 44,99 € aujourd’hui sur Amazon",
       "url": "https://www.clubic.com/bons-plans-641425-black-friday-le-bracelet-connecte-xiaomi-smart-band-10-est-a-seulement-44-99-aujourd-hui-sur-amazon.html",
       "publishedAt": "2026-11-27T16:17:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Oups, faute de permis, Google suspend son gigantesque chantier de data center en Belgique",
+      "url": "https://www.generation-nt.com/actualites/google-datacenter-construction-belgique-defaut-permis-2085189",
+      "publishedAt": "2026-11-27T16:15:01+00:00"
     },
     {
       "source": "numerama",
@@ -152,6 +170,12 @@
       "title": "L'Apple Watch SE 3 en promo à 235€ dès pour le Black Friday : un très joli cadeau !",
       "url": "https://www.mac4ever.com/watch/199357-l-apple-watch-se-3-en-promo-a-235-des-pour-le-black-friday-un-tres-joli-cadeau",
       "publishedAt": "2026-11-27T16:07:54+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Suzuki relance l'Ignis en citadine électrique pour l'été 2027",
+      "url": "https://www.generation-nt.com/actualites/suzuki-relance-ignis-citadine-electrique-2027-2085155",
+      "publishedAt": "2026-11-27T16:05:01+00:00"
     },
     {
       "source": "jdg",
@@ -442,22 +466,10 @@
       "publishedAt": "2026-11-27T14:30:49+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "À Boston, l’important, c’est toujours les 3-points ?",
-      "url": "https://www.basketusa.com/news/964728/a-boston-limportant-cest-toujours-les-3-points/",
-      "publishedAt": "2026-11-27T14:30:17+00:00"
-    },
-    {
       "source": "clubic",
       "title": "GTA 6 sur PC : deux faux portages piégeaient les joueurs sur GitHub",
       "url": "https://www.clubic.com/actualite-641485-gta-6-sur-pc-deux-faux-portages-piegeaient-les-joueurs-sur-github.html",
       "publishedAt": "2026-11-27T14:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "San Antonio Spurs – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964571/san-antonio-spurs-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-27T14:28:25+00:00"
     },
     {
       "source": "clubic",
@@ -470,12 +482,6 @@
       "title": "Le MacBook Neo de retour à 699€ en promo : un vrai bon plan du Black Friday !",
       "url": "https://www.mac4ever.com/mac/199354-le-macbook-neo-de-retour-a-699-en-promo-un-vrai-bon-plan-du-black-friday",
       "publishedAt": "2026-11-27T14:21:31+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Black Friday : déjà plus de 100 offres repérées chez Amazon, Fnac, Boulanger et Cdiscount et on continue d’en ajouter (EN DIRECT)",
-      "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
-      "publishedAt": "2026-11-27T14:21:21+00:00"
     },
     {
       "source": "mac4ever",
@@ -634,6 +640,12 @@
       "publishedAt": "2026-11-27T13:30:39+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "À Boston, l’important, c’est toujours les 3-points ?",
+      "url": "https://www.basketusa.com/news/964728/a-boston-limportant-cest-toujours-les-3-points/",
+      "publishedAt": "2026-11-27T13:30:17+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Black Friday 2026 : les 35 bons plans les plus populaires sur AliExpress (Nintendo Switch 2, Ryzen 7, DJI...)",
       "url": "https://www.generation-nt.com/actualites/honor-magic8-pro-station-electrique-oukitel-realme-16-pro-dji-osmo-action-6-redmi-note-17-pro-max-aliexpress-black-friday-2085185",
@@ -644,6 +656,12 @@
       "title": "50 ans d’Apple : dernière chance pour commander notre livre avant les fêtes, avec deux nouveaux packs",
       "url": "https://www.macg.co/macgeneration/2026/11/50-ans-dapple-derniere-chance-pour-commander-notre-livre-avant-les-fetes-avec-deux-nouveaux-packs-312681",
       "publishedAt": "2026-11-27T13:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "San Antonio Spurs – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964571/san-antonio-spurs-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-27T13:28:25+00:00"
     },
     {
       "source": "clubic",
@@ -4064,30 +4082,6 @@
       "title": "La NASA revoit la conception du SR-1 Freedom, son futur vaisseau nucléaire destiné à Mars : un investissement à près de 40 millions de dollars",
       "url": "https://www.journaldugeek.com/2026/11/25/nasa-revoit-conception-sr-1-freedom-futur-vaisseau-nucleaire-mars-investissement-pres-40-millions-de-dollars/",
       "publishedAt": "2026-11-25T16:31:59+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Power ranking S11 : le réveil de la NFC Est",
-      "url": "https://touchdownactu.com/361857/power-ranking-s11-le-reveil-de-la-nfc-est/",
-      "publishedAt": "2026-11-25T16:30:21+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les agents d'Anthropic cherchent-ils à s'échapper de leur environnement sécurisé ?",
-      "url": "https://www.generation-nt.com/actualites/siren-anthropic-agents-ia-claude-sandbox-2085045",
-      "publishedAt": "2026-11-25T16:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : ce stockage cloud souverain est disponible avec - 90 % de réduction",
-      "url": "https://www.clubic.com/bons-plans-633982-black-friday-ce-stockage-cloud-souverain-est-disponible-avec---90-de-reduction.html",
-      "publishedAt": "2026-11-25T16:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Avis Acollab : derrière sa simplicité, un vrai logiciel de gestion de projet ?",
-      "url": "https://www.clubic.com/avis-639463-avis-acollab-derriere-sa-simplicite-un-vrai-logiciel-de-gestion-de-projet.html",
-      "publishedAt": "2026-11-25T16:25:00+00:00"
     },
     {
       "source": "boulet",
