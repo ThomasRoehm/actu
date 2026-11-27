@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:31:00.807892+00:00",
+  "generatedAt": "2026-11-27T08:40:39.602514+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,57 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:31:00.807892+00:00"
+      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
     }
   ],
   "articles": [
     {
+      "source": "numerama",
+      "title": "Le Black Friday c’est maintenant : on a trié les 100 meilleures offres de l’évènement et on continue d’en ajouter en direct",
+      "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
+      "publishedAt": "2026-11-27T08:40:20+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday 2026 en direct : les meilleures ventes flash à saisir avant ce soir minuit",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T08:27:00+00:00"
+      "publishedAt": "2026-11-27T08:39:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : le casque Sonos Ace à 174,99€ chez Amazon, son prix le plus bas à ce jour",
+      "url": "https://www.clubic.com/bons-plans-641284-black-friday-le-casque-sonos-ace-a-174-99-chez-amazon-son-prix-le-plus-bas-a-ce-jour.html",
+      "publishedAt": "2026-11-27T08:36:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Viande « dopée » : le Brésil contre-attaque et accuse Emmanuel Macron de « désinformation »",
+      "url": "https://www.presse-citron.net/viande-dopee-le-bresil-contre-attaque-et-accuse-emmanuel-macron-de-desinformation/",
+      "publishedAt": "2026-11-27T08:35:18+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Quotas, jetons et iCloud+ : les dessous de la monétisation de Siri AI et Apple Intelligence",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/quotas-jetons-et-icloud-les-dessous-de-la-monetisation-de-siri-ai-et-apple-intelligence-312701",
+      "publishedAt": "2026-11-27T08:34:10+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Huawei Mate X8 : des aimants pour effacer le pli et faire mieux que l'iPhone Duo",
+      "url": "https://www.mac4ever.com/iphone/199333-huawei-mate-x8-des-aimants-pour-effacer-le-pli-et-faire-mieux-que-l-iphone-duo",
+      "publishedAt": "2026-11-27T08:31:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Neuralink avance vers la commercialisation de son implant cérébral",
+      "url": "https://www.journaldugeek.com/2026/11/27/neuralink-avance-vers-la-commercialisation-de-son-implant-cerebral/",
+      "publishedAt": "2026-11-27T08:30:52+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le Magic s’est beaucoup renseigné sur Kevin Porter Jr.",
+      "url": "https://www.basketusa.com/news/964618/le-magic-sest-beaucoup-renseigne-sur-kevin-porter-jr/",
+      "publishedAt": "2026-11-27T08:26:23+00:00"
     },
     {
       "source": "clubic",
@@ -164,6 +206,12 @@
       "title": "Black Friday : 15 produits parmi les plus achetés par nos lecteurs, en promo jusqu’à -66 %",
       "url": "https://www.clubic.com/bons-plans-641218-black-friday-15-produits-parmi-les-plus-achetes-par-nos-lecteurs-encore-en-promo-jusqu-a--66.html",
       "publishedAt": "2026-11-27T08:15:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Volvo veut des humanoïdes sur ses chaînes de production dès mi-2027",
+      "url": "https://korben.info/volvo-robots-humanoides-aeon-gand.html",
+      "publishedAt": "2026-11-27T08:12:53+00:00"
     },
     {
       "source": "numerama",
@@ -266,12 +314,6 @@
       "title": "Les Lakers, « prétendants au titre » ou « imposteurs » ?",
       "url": "https://www.basketusa.com/news/964576/les-lakers-pretendants-au-titre-ou-imposteurs/",
       "publishedAt": "2026-11-27T07:39:40+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le Black Friday c’est maintenant : on a trié les 100 meilleures offres de l’évènement et on continue d’en ajouter en direct",
-      "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
-      "publishedAt": "2026-11-27T07:34:50+00:00"
     },
     {
       "source": "presse",
@@ -772,6 +814,12 @@
       "publishedAt": "2026-11-26T16:53:43+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
+      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
+      "publishedAt": "2026-11-26T16:51:17+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Black Friday : Cdiscount lance officiellement ses offres jusqu'à -60 % (avec codes promo en prime) !",
       "url": "https://www.generation-nt.com/actualites/airpods-5-redmi-note-17-google-pixel-9a-casque-jbl-tune-530bt-airfryer-ninja-camera-dji-cdiscount-promos-pas-cher-black-friday-2085135",
@@ -872,12 +920,6 @@
       "title": "La Boxster 718 la plus puissante de l’Histoire sera bel et bien électrique : Porsche passe à l’attaque",
       "url": "https://www.presse-citron.net/la-boxster-718-la-plus-puissante-de-lhistoire-sera-bel-et-bien-electrique-porsche-passe-a-lattaque/",
       "publishedAt": "2026-11-26T16:00:16+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
-      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
-      "publishedAt": "2026-11-26T15:51:17+00:00"
     },
     {
       "source": "mac4ever",
@@ -3860,18 +3902,6 @@
       "title": "Huawei reconnu coupable de fraude bancaire et vol de secrets industriels aux USA",
       "url": "https://www.mac4ever.com/divers/199271-huawei-reconnu-coupable-de-fraude-bancaire-et-vol-de-secrets-industriels-aux-usa",
       "publishedAt": "2026-11-25T08:41:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Un homme, un bouton rouge : si Ariane 6 dérape, c’est lui seul qui décide si la fusée explose ou non",
-      "url": "https://www.numerama.com/sciences/2383871-un-homme-un-bouton-rouge-si-ariane-6-derape-cest-lui-seul-qui-decide-si-la-fusee-explose-ou-non.html",
-      "publishedAt": "2026-11-25T08:37:07+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Alerte faille critique : si vous utilisez Google Chrome, vous devez immédiatement mettre à jour votre navigateur",
-      "url": "https://www.journaldugeek.com/2026/11/25/alerte-faille-critique-si-vous-utilisez-google-chrome-vous-devez-immediatement-mettre-a-jour-votre-navigateur/",
-      "publishedAt": "2026-11-25T08:32:05+00:00"
     },
     {
       "source": "boulet",
