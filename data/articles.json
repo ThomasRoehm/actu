@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:40:47.746906+00:00",
+  "generatedAt": "2026-11-27T15:50:38.229355+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:40:47.746906+00:00"
+      "lastSuccessAt": "2026-11-27T15:50:38.229355+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Trump l'assure publiquement, Jensen Huang n'est pas une menace à la sécurité nationale des USA",
+      "url": "https://www.clubic.com/actualite-641521-trump-l-assure-publiquement-jensen-huang-n-est-pas-une-menace-a-la-securite-nationale-des-usa.html",
+      "publishedAt": "2026-11-27T15:48:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Un dangereux malware découvert sur 220 000 smartphones Android : il peut manipuler l’appareil d’un utilisateur",
+      "url": "https://www.iphon.fr/post/dangereux-malware-decouvert220-000-smartphones-android-il-peut-manipuler-appareil-utilisateur",
+      "publishedAt": "2026-11-27T15:47:23+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday smartphones : Pixel 11, Galaxy S26 Ultra, iPhone Air… les 7 meilleures offres qui disparaitront ce soir",
+      "url": "https://www.clubic.com/bons-plans-641509-black-friday-smartphones-pixel-11-galaxy-s26-ultra-iphone-air-les-7-meilleures-offres-qui-disparaitront-ce-soir.html",
+      "publishedAt": "2026-11-27T15:45:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "iPad Air à 664 €, Mac mini à 835 €… Comment profiter du Black Friday plus agressif d’Amazon Allemagne",
+      "url": "https://www.macg.co/materiel/2026/11/ipad-air-664-eu-mac-mini-835-eu-comment-profiter-du-black-friday-plus-agressif-damazon-allemagne-312721",
+      "publishedAt": "2026-11-27T15:42:28+00:00"
+    },
     {
       "source": "clubic",
       "title": "Test de la Flexispot C7 Morpher : le géant du bureau assis-debout se met aux chaises ergonomiques",
@@ -1558,6 +1582,12 @@
       "publishedAt": "2026-11-27T07:56:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
+      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
+      "publishedAt": "2026-11-27T07:54:53+00:00"
+    },
+    {
       "source": "iphon",
       "title": "iPhone 20 Pro : Apple prépare une édition qui risque de coûter très cher",
       "url": "https://www.iphon.fr/post/iphone-20-pro-2027-edition-anniversaire-limite-ceramique-rumeur",
@@ -1700,12 +1730,6 @@
       "title": "iPhone 18 Pro vs 17 Pro : voici le vrai gagnant en 5G",
       "url": "https://www.iphon.fr/post/iphone-18-pro-vs-17-pro-test-rapidite-5g",
       "publishedAt": "2026-11-27T06:56:59+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
-      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
-      "publishedAt": "2026-11-27T06:54:53+00:00"
     },
     {
       "source": "gnt",
@@ -4070,24 +4094,6 @@
       "title": "L'enceinte Beats Pill chute à -42% pour le Black Friday : son prix le plus bas !",
       "url": "https://www.mac4ever.com/audio/199296-l-enceinte-beats-pill-chute-a-42-pour-le-black-friday-son-prix-le-plus-bas",
       "publishedAt": "2026-11-25T15:51:13+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "IA, semi-conducteurs, quantique : l’Europe veut mettre 50 milliards d’euros sur la table",
-      "url": "https://www.mac4ever.com/ia/199293-ia-semi-conducteurs-quantique-l-europe-veut-mettre-50-milliards-d-euros-sur-la-table",
-      "publishedAt": "2026-11-25T15:48:22+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Cette nouveauté du 18 Pro sera absente de l’iPhone Air 2",
-      "url": "https://www.iphon.fr/post/iphone-air-2-18-pro-dynamic-island",
-      "publishedAt": "2026-11-25T15:44:58+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Amazon brade ses nouveaux Echo Show et Studio : jusqu'à -61% pour le Black Friday !",
-      "url": "https://www.mac4ever.com/domotique/199295-amazon-brade-ses-nouveaux-echo-show-et-studio-jusqu-a-61-pour-le-black-friday",
-      "publishedAt": "2026-11-25T15:41:05+00:00"
     },
     {
       "source": "boulet",
