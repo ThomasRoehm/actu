@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:40:36.994208+00:00",
+  "generatedAt": "2026-11-27T10:50:39.112017+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:40:36.994208+00:00"
+      "lastSuccessAt": "2026-11-27T10:50:39.112017+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Black Friday : MacPaw dévoile ses offres CleanMyMac et ça valait le coup d’attendre !",
+      "url": "https://www.iphon.fr/post/black-friday-macpaw-devoile-ses-offres-cleanmymac-et-ca-valait-le-coup-dattendre",
+      "publishedAt": "2026-11-27T10:42:11+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday VPN : NordVPN, Proton, Cyberghost et ExpressVPN font chuter leurs tarifs en ce vendredi noir",
@@ -179,7 +185,7 @@
     },
     {
       "source": "presse",
-      "title": "WhatsApp vous proposera une eSim directement sur son application pour de vous dépanner lors de vos prochaines vacances",
+      "title": "WhatsApp proposera une eSim directement sur son application pour vous dépanner lors de vos prochaines vacances",
       "url": "https://www.presse-citron.net/whatsapp-esim-application-vacances/",
       "publishedAt": "2026-11-27T10:30:18+00:00"
     },
@@ -556,6 +562,12 @@
       "publishedAt": "2026-11-27T08:55:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
+      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
+      "publishedAt": "2026-11-27T08:54:53+00:00"
+    },
+    {
       "source": "presse",
       "title": "Pour le Black Friday, Roborock lâche ses meilleurs aspirateurs robots à prix cassé (jusqu’à -500 €)",
       "url": "https://www.presse-citron.net/pour-le-black-friday-roborock-lache-ses-meilleurs-aspirateurs-robots-a-prix-casse-jusqua-500-e/",
@@ -728,12 +740,6 @@
       "title": "Cyberattaque contre l’AFP : quand les pirates perturbent toute la chaîne de l’information",
       "url": "https://www.mac4ever.com/ia/199332-cyberattaque-contre-l-afp-quand-les-pirates-perturbent-toute-la-chaine-de-l-information",
       "publishedAt": "2026-11-27T07:56:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
-      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
-      "publishedAt": "2026-11-27T07:54:53+00:00"
     },
     {
       "source": "iphon",
@@ -3974,42 +3980,6 @@
       "title": "Jetty Pro permet de créer des Docks entièrement personnalisables sur macOS",
       "url": "https://www.macg.co/logiciels/2026/11/jetty-pro-permet-de-creer-des-docks-entierement-personnalisables-sur-macos-312647",
       "publishedAt": "2026-11-25T10:51:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Codes de triche GTA 6 : la liste complète et comment les débloquer",
-      "url": "https://www.journaldugeek.com/dossier/codes-de-triche-gta-6-la-liste-complete-et-comment-les-debloquer/",
-      "publishedAt": "2026-11-25T10:49:14+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Black Friday s’adresse aussi aux mélomanes : l’enceinte Sonos Era 100 SL descend à 149,99€ sur Amazon",
-      "url": "https://www.clubic.com/bons-plans-640933-le-black-friday-s-adresse-aussi-aux-melomanes-l-enceinte-sonos-era-100-sl-descend-a-149-99-sur-amazon.html",
-      "publishedAt": "2026-11-25T10:47:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Face aux coupes budgétaires, France Télévisions vend ses actifs et menace le cinéma sur France 4 et France 5",
-      "url": "https://www.generation-nt.com/actualites/coupes-budgetaires-france-televisions-actifs-2085035",
-      "publishedAt": "2026-11-25T10:45:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Suzuki relance l’Ignis en électrique pour concurrencer la Twingo, avec beaucoup de questions sans réponse",
-      "url": "https://www.numerama.com/vroom/2384331-suzuki-relance-lignis-en-electrique-pour-concurrencer-la-twingo-avec-beaucoup-de-questions-sans-reponse.html",
-      "publishedAt": "2026-11-25T10:45:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Revolut, Trade Republic, BoursoBank… : les néobanques font trembler les banques classiques, avec 140 millions d’utilisateurs et une croissance insolente",
-      "url": "https://www.presse-citron.net/revolut-trade-republic-boursobank-avec-140-millions-dutilisateurs-et-une-croissance-insolente-les-neobanques-font-trembler-les-banques-classiques/",
-      "publishedAt": "2026-11-25T10:44:47+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Echo Show 8 : Amazon brade son écran connecté avec Alexa+ à -50 % au Black Friday",
-      "url": "https://www.iphon.fr/post/echo-show-8-amazon-brade-ecran-connecte-alexa-plus-50-pourcents-black-friday",
-      "publishedAt": "2026-11-25T10:42:19+00:00"
     },
     {
       "source": "boulet",
