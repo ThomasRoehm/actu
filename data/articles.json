@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:50:47.770461+00:00",
+  "generatedAt": "2026-11-27T02:01:03.571981+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:50:47.770461+00:00"
+      "lastSuccessAt": "2026-11-27T02:01:03.571981+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "Cowboys – Eagles (38-39) : le hold-up des Eagles !",
+      "url": "https://touchdownactu.com/361982/cowboys-eagles-38-39-le-hold-up-des-eagles/",
+      "publishedAt": "2026-11-27T02:00:17+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday 2026 en direct : les meilleures ventes flash à saisir avant ce soir minuit",
@@ -370,6 +376,12 @@
       "publishedAt": "2026-11-26T16:53:43+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
+      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
+      "publishedAt": "2026-11-26T16:51:17+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Black Friday : Cdiscount lance officiellement ses offres jusqu'à -60 % (avec codes promo en prime) !",
       "url": "https://www.generation-nt.com/actualites/airpods-5-redmi-note-17-google-pixel-9a-casque-jbl-tune-530bt-airfryer-ninja-camera-dji-cdiscount-promos-pas-cher-black-friday-2085135",
@@ -476,12 +488,6 @@
       "title": "La Boxster 718 la plus puissante de l’Histoire sera bel et bien électrique : Porsche passe à l’attaque",
       "url": "https://www.presse-citron.net/la-boxster-718-la-plus-puissante-de-lhistoire-sera-bel-et-bien-electrique-porsche-passe-a-lattaque/",
       "publishedAt": "2026-11-26T16:00:16+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
-      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
-      "publishedAt": "2026-11-26T15:51:17+00:00"
     },
     {
       "source": "mac4ever",
