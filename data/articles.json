@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:50:39.104786+00:00",
+  "generatedAt": "2026-11-27T13:01:12.569162+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:50:39.104786+00:00"
+      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Au-dessus de l’Antarctique, le trou de la couche d’ozone bat des records cette année",
+      "url": "https://www.numerama.com/sciences/2386087-le-trou-de-la-couche-dozone-bat-des-records-mais-ce-nest-pas-si-grave.html",
+      "publishedAt": "2026-11-27T13:00:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Un pari vraiment osé : pourquoi les sous-marins russes sont les seuls au monde à avoir été produits en titane ?",
+      "url": "https://www.presse-citron.net/un-pari-vraiment-ose-pourquoi-les-sous-marins-russes-sont-les-seuls-au-monde-a-avoir-ete-produits-en-titane/",
+      "publishedAt": "2026-11-27T12:54:46+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Samsung Messages : l’IA pourrait bientôt prendre le contrôle de vos conversations",
+      "url": "https://www.clubic.com/actualite-641461-samsung-messages-l-ia-pourrait-bientot-prendre-le-controle-de-vos-conversations.html",
+      "publishedAt": "2026-11-27T12:51:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Les données des supporters de basket sont-elles en danger ?",
+      "url": "https://www.generation-nt.com/actualites/lnb-cyberattaque-donnees-supporters-ligue-nationale-basket-2085175",
+      "publishedAt": "2026-11-27T12:50:01+00:00"
+    },
     {
       "source": "iphon",
       "title": "iPhone Duo : il a 5 grands avantages qui en font un smartphone unique au monde",
@@ -152,6 +176,12 @@
       "title": "Vous cherchez encore un cadeau geek ? Voici notre grosse sélection des meilleures idées pour Noël 2026",
       "url": "https://www.journaldugeek.com/dossier/vous-cherchez-encore-un-cadeau-geek-voici-notre-grosse-selection-des-meilleures-idees-pour-noel-2026/",
       "publishedAt": "2026-11-27T12:37:22+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "TSMC vise le Texas avec une usine de puces 2nm à 22,6 milliards",
+      "url": "https://www.generation-nt.com/actualites/tsmc-usine-puces-2nm-texas-2085144",
+      "publishedAt": "2026-11-27T12:35:01+00:00"
     },
     {
       "source": "clubic",
@@ -364,12 +394,6 @@
       "publishedAt": "2026-11-27T11:11:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "La Grèce se saborde et voit la Coupe du Monde s’éloigner…",
-      "url": "https://www.basketusa.com/news/964666/la-grece-se-saborde-et-voit-la-coupe-du-monde-seloigner/",
-      "publishedAt": "2026-11-27T11:07:54+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Avec son rival de l’AirTag, Kodak veut remettre une photo de famille dans nos poches",
       "url": "https://www.clubic.com/actualite-641386-avec-son-rival-de-l-airtag-kodak-veut-remettre-une-photo-de-famille-dans-nos-poches.html",
@@ -566,6 +590,12 @@
       "title": "Black Friday Minisforum : les 3 meilleures offres sur les mini-PC IA et NAS avec jusqu'à -50 % !",
       "url": "https://www.generation-nt.com/actualites/mini-pc-minisforum-serveur-nas-stockage-ia-ms-s1-max-n5-pro-x1-pro-black-friday-2084938",
       "publishedAt": "2026-11-27T10:10:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La Grèce se saborde et voit la Coupe du Monde s’éloigner…",
+      "url": "https://www.basketusa.com/news/964666/la-grece-se-saborde-et-voit-la-coupe-du-monde-seloigner/",
+      "publishedAt": "2026-11-27T10:07:54+00:00"
     },
     {
       "source": "numerama",
@@ -1066,12 +1096,6 @@
       "publishedAt": "2026-11-27T07:45:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Lakers, « prétendants au titre » ou « imposteurs » ?",
-      "url": "https://www.basketusa.com/news/964576/les-lakers-pretendants-au-titre-ou-imposteurs/",
-      "publishedAt": "2026-11-27T07:39:40+00:00"
-    },
-    {
       "source": "presse",
       "title": "Cette semaine, l’Europe est moins dépendante de Starlink : sa plus grande usine de satellites vient d’être inaugurée en Belgique",
       "url": "https://www.presse-citron.net/cette-semaine-leurope-est-moins-dependante-de-starlink-sa-plus-grande-usine-de-satellites-vient-detre-inauguree-en-belgique/",
@@ -1190,6 +1214,12 @@
       "title": "L’Uruguay fait tomber le Canada et se rapproche du Mondial 2027",
       "url": "https://www.basketusa.com/news/964596/luruguay-fait-tomber-le-canada-et-se-rapproche-du-mondial-2027/",
       "publishedAt": "2026-11-27T06:48:27+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Lakers, « prétendants au titre » ou « imposteurs » ?",
+      "url": "https://www.basketusa.com/news/964576/les-lakers-pretendants-au-titre-ou-imposteurs/",
+      "publishedAt": "2026-11-27T06:39:40+00:00"
     },
     {
       "source": "clubic",
@@ -3986,12 +4016,6 @@
       "title": "GTA 6 – Gagnez jusqu’à 200 000 dollars avec ces 6 banques sans alarme !",
       "url": "https://www.journaldugeek.com/2026/11/25/gta-6-gagnez-jusqua-200-000-dollars-avec-ces-6-banques-sans-alarme/",
       "publishedAt": "2026-11-25T13:02:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Supermarchés Lidl : ces barquettes de viande et de fruits et légumes à 0,50 € et 1€ sont parfois proposées, voici comment les récupérer",
-      "url": "https://www.presse-citron.net/supermarches-lidl-ces-barquettes-de-viande-et-de-fruits-et-legumes-a-050-e-et-1e-sont-parfois-proposees-voici-comment-les-recuperer/",
-      "publishedAt": "2026-11-25T12:54:19+00:00"
     },
     {
       "source": "boulet",
