@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T11:20:40.302643+00:00",
+  "generatedAt": "2026-11-27T11:30:53.598690+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
+      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Temu promet des changements pour les consommateurs en Europe",
+      "url": "https://www.generation-nt.com/actualites/temu-engagements-protection-consommateurs-europe-2085177",
+      "publishedAt": "2026-11-27T11:30:01+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "IPTV pirate : 57 services fermés par la police",
+      "url": "https://www.mac4ever.com/divers/199343-iptv-pirate-57-services-fermes-par-la-police",
+      "publishedAt": "2026-11-27T11:24:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Le Honor Robot Phone 2 serait reporté, mais c'est pour une bonne raison",
+      "url": "https://www.clubic.com/actualite-641443-le-honor-robot-phone-2-serait-reporte-mais-c-est-pour-une-bonne-raison.html",
+      "publishedAt": "2026-11-27T11:21:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Le Black Friday, c'est parti : les meilleures offres en direct à saisir avant minuit",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-27T11:20:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : la manette sans fil Xbox passe à -35% sur Amazon, parfaite pour GTA VI !",
@@ -142,10 +166,10 @@
       "publishedAt": "2026-11-27T11:17:00+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Le Black Friday, c'est parti : les meilleures offres en direct à saisir avant minuit",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T11:14:00+00:00"
+      "source": "gnt",
+      "title": "L'ANSM alerte sur les risques des conseils médicaux par IA",
+      "url": "https://www.generation-nt.com/actualites/ansm-alerte-risques-conseils-medicaux-ia-2085146",
+      "publishedAt": "2026-11-27T11:15:01+00:00"
     },
     {
       "source": "iphon",
@@ -172,10 +196,22 @@
       "publishedAt": "2026-11-27T11:06:00+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Huawei lance le MateBook Fold S avec un double écran OLED pliant",
+      "url": "https://www.generation-nt.com/actualites/huawei-matebook-fold-pc-pliant-double-ecran-oled-2085139",
+      "publishedAt": "2026-11-27T11:05:01+00:00"
+    },
+    {
       "source": "presse",
       "title": "« On est débordés » : les centres antipoison submergés à cause des conseils des IA",
       "url": "https://www.presse-citron.net/on-est-debordes-les-centres-antipoison-submerges-a-cause-des-conseils-des-ia/",
       "publishedAt": "2026-11-27T11:00:30+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "Spécial semaine des rivalités en NCAA : le jour des « Derby » !",
+      "url": "https://touchdownactu.com/360205/special-semaine-des-rivalites-en-ncaa-le-jour-des-derby/",
+      "publishedAt": "2026-11-27T11:00:24+00:00"
     },
     {
       "source": "jdg",
@@ -646,12 +682,6 @@
       "publishedAt": "2026-11-27T08:55:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
-      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
-      "publishedAt": "2026-11-27T08:54:53+00:00"
-    },
-    {
       "source": "presse",
       "title": "Pour le Black Friday, Roborock lâche ses meilleurs aspirateurs robots à prix cassé (jusqu’à -500 €)",
       "url": "https://www.presse-citron.net/pour-le-black-friday-roborock-lache-ses-meilleurs-aspirateurs-robots-a-prix-casse-jusqua-500-e/",
@@ -722,12 +752,6 @@
       "title": "Windows 11 au régime - Merci le prix de la RAM",
       "url": "https://korben.info/windows-11-moins-de-ram.html",
       "publishedAt": "2026-11-27T08:27:26+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le Magic s’est beaucoup renseigné sur Kevin Porter Jr.",
-      "url": "https://www.basketusa.com/news/964618/le-magic-sest-beaucoup-renseigne-sur-kevin-porter-jr/",
-      "publishedAt": "2026-11-27T08:26:23+00:00"
     },
     {
       "source": "clubic",
@@ -826,6 +850,12 @@
       "publishedAt": "2026-11-27T07:56:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
+      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
+      "publishedAt": "2026-11-27T07:54:53+00:00"
+    },
+    {
       "source": "iphon",
       "title": "iPhone 20 Pro : Apple prépare une édition qui risque de coûter très cher",
       "url": "https://www.iphon.fr/post/iphone-20-pro-2027-edition-anniversaire-limite-ceramique-rumeur",
@@ -872,6 +902,12 @@
       "title": "Votre Google Chrome est-il à jour ? Cette faille notée 9,6/10 ne peut pas attendre",
       "url": "https://www.journaldugeek.com/2026/11/27/alerte-faille-critique-si-vous-utilisez-google-chrome-vous-devez-immediatement-mettre-a-jour-votre-navigateur/",
       "publishedAt": "2026-11-27T07:28:05+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le Magic s’est beaucoup renseigné sur Kevin Porter Jr.",
+      "url": "https://www.basketusa.com/news/964618/le-magic-sest-beaucoup-renseigne-sur-kevin-porter-jr/",
+      "publishedAt": "2026-11-27T07:26:23+00:00"
     },
     {
       "source": "jdg",
@@ -1342,12 +1378,6 @@
       "publishedAt": "2026-11-26T16:53:43+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
-      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
-      "publishedAt": "2026-11-26T16:51:17+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Black Friday : Cdiscount lance officiellement ses offres jusqu'à -60 % (avec codes promo en prime) !",
       "url": "https://www.generation-nt.com/actualites/airpods-5-redmi-note-17-google-pixel-9a-casque-jbl-tune-530bt-airfryer-ninja-camera-dji-cdiscount-promos-pas-cher-black-friday-2085135",
@@ -1448,6 +1478,12 @@
       "title": "La Boxster 718 la plus puissante de l’Histoire sera bel et bien électrique : Porsche passe à l’attaque",
       "url": "https://www.presse-citron.net/la-boxster-718-la-plus-puissante-de-lhistoire-sera-bel-et-bien-electrique-porsche-passe-a-lattaque/",
       "publishedAt": "2026-11-26T16:00:16+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
+      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
+      "publishedAt": "2026-11-26T15:51:17+00:00"
     },
     {
       "source": "mac4ever",
@@ -3956,42 +3992,6 @@
       "title": "Les Anneaux de pouvoir : la saison 4 est confirmée, mais la fin de la série approche",
       "url": "https://www.journaldugeek.com/2026/11/25/les-anneaux-de-pouvoir-la-serie-aura-t-elle-une-saison-4/",
       "publishedAt": "2026-11-25T11:34:57+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "GTA 6 : PS5 ou Xbox Series X, quelle est la meilleure console pour jouer ? Les experts ont tranché",
-      "url": "https://www.presse-citron.net/gta-6-ps5-ou-xbox-series-x-quelle-est-la-meilleure-console-pour-jouer-les-experts-ont-tranche/",
-      "publishedAt": "2026-11-25T11:30:29+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Zendure : les batteries SolarFlow AC+ pour votre installation solaire existante jusqu’à -43 %",
-      "url": "https://www.clubic.com/actualite-639568-black-friday-zendure-les-batteries-solarflow-ac-qui-se-branchent-sur-vos-panneaux-solaires-jusqu-a--43.html",
-      "publishedAt": "2026-11-25T11:30:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "L'armée américaine échoue face aux drones ukrainiens lors d'un exercice en Bavière",
-      "url": "https://www.generation-nt.com/actualites/armee-americaine-echoue-drones-baviere-2085026",
-      "publishedAt": "2026-11-25T11:25:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "BYD négocie le rachat de l'ancienne usine Smart en Moselle",
-      "url": "https://www.mac4ever.com/auto/199282-byd-negocie-le-rachat-de-l-ancienne-usine-smart-en-moselle",
-      "publishedAt": "2026-11-25T11:25:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Tesla FSD : Bruxelles repousse encore au 15 décembre la réunion qui peut l’autoriser dans toute l’UE",
-      "url": "https://www.numerama.com/vroom/2384601-tesla-fsd-bruxelles-repousse-encore-au-15-decembre-la-reunion-qui-peut-lautoriser-dans-toute-lue.html",
-      "publishedAt": "2026-11-25T11:23:22+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Cette plateforme bannie la musique générée par IA, Apple Music pourrait faire de même ?",
-      "url": "https://www.iphon.fr/post/plateforme-tidal-musique-ia-apple-music",
-      "publishedAt": "2026-11-25T11:21:07+00:00"
     },
     {
       "source": "boulet",
