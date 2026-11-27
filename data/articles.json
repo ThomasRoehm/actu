@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:50:38.812714+00:00",
+  "generatedAt": "2026-11-27T17:01:16.682003+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,45 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:50:38.812714+00:00"
+      "lastSuccessAt": "2026-11-27T17:01:16.682003+00:00"
     }
   ],
   "articles": [
     {
+      "source": "iphon",
+      "title": "Ces applications ont trouvé un nouveau moyen pour afficher toujours plus de publicités",
+      "url": "https://www.iphon.fr/post/applications-publicite-iphone-notifications",
+      "publishedAt": "2026-11-27T17:00:39+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Le vidéoprojecteur Xgimi MoGo 4 en promo à -31% pour le Black Friday !",
+      "url": "https://www.mac4ever.com/tv/199359-le-videoprojecteur-xgimi-mogo-4-en-promo-a-31-pour-le-black-friday",
+      "publishedAt": "2026-11-27T17:00:05+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : l’antivirus Moonlock de MacPaw jusqu’à -56 % pour protéger votre Mac",
+      "url": "https://www.clubic.com/bons-plans-640141-black-friday-2026-cet-antivirus-specialise-pour-votre-mac-est-a---30.html",
+      "publishedAt": "2026-11-27T17:00:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Google a dû suspendre le chantier d’un data center en Belgique",
+      "url": "https://www.clubic.com/actualite-641551-google-a-du-suspendre-le-chantier-d-un-data-center-en-belgique.html",
+      "publishedAt": "2026-11-27T17:00:00+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday en direct : dernière ligne droite, les meilleures offres à saisir avant minuit",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T16:46:00+00:00"
+      "publishedAt": "2026-11-27T16:56:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Des serveurs Nvidia Blackwell B300 vendus en Chine à prix d'or",
+      "url": "https://www.generation-nt.com/actualites/serveurs-nvidia-blackwell-b300-chine-2085147",
+      "publishedAt": "2026-11-27T16:45:01+00:00"
     },
     {
       "source": "clubic",
@@ -203,9 +233,9 @@
     },
     {
       "source": "mac4ever",
-      "title": "L'Apple Watch SE 3 en promo à 235€ dès pour le Black Friday : un très joli cadeau !",
+      "title": "L'Apple Watch SE 3 en promo à 235€ pour le Black Friday : un très joli cadeau !",
       "url": "https://www.mac4ever.com/watch/199357-l-apple-watch-se-3-en-promo-a-235-des-pour-le-black-friday-un-tres-joli-cadeau",
-      "publishedAt": "2026-11-27T16:07:54+00:00"
+      "publishedAt": "2026-11-27T16:07:00+00:00"
     },
     {
       "source": "gnt",
@@ -4046,24 +4076,6 @@
       "title": "Sylvie Vartan dans GTA VI : 43 ans après, cette chanson fait danser Vice City",
       "url": "https://www.mac4ever.com/gaming/199297-sylvie-vartan-dans-gta-vi-43-ans-apres-cette-chanson-fait-danser-vice-city",
       "publishedAt": "2026-11-25T17:02:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Europol annonce une opération contre 57 services d’IPTV pirate",
-      "url": "https://www.clubic.com/actualite-641017-europol-annonce-une-operation-contre-57-services-d-iptv-pirate.html",
-      "publishedAt": "2026-11-25T17:00:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "La gamme Kindle en promo pour le Black Friday : jusqu'à -45%, une bonne idée cadeau pour Noël !",
-      "url": "https://www.mac4ever.com/ipad/199300-la-gamme-kindle-en-promo-pour-le-black-friday-jusqu-a-45-une-bonne-idee-cadeau-pour-noel",
-      "publishedAt": "2026-11-25T16:51:43+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "CyberGhost sort le grand jeu pour le Black Friday, son VPN tombe à 1,59 €/mois avec 4 mois offerts 🔥",
-      "url": "https://www.clubic.com/actualite-641044-cyberghost-sort-le-grand-jeu-pour-le-black-friday-son-vpn-tombe-a-1-59-mois-avec-4-mois-offerts.html",
-      "publishedAt": "2026-11-25T16:51:00+00:00"
     },
     {
       "source": "boulet",
