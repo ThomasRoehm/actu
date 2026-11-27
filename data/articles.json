@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:10:46.118457+00:00",
+  "generatedAt": "2026-11-27T14:20:39.423906+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,45 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:10:46.118457+00:00"
+      "lastSuccessAt": "2026-11-27T14:20:39.423906+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "1Password victime d’une cyberattaque : voici quelles données de clients ont été volées",
+      "url": "https://www.iphon.fr/post/1password-victime-cyberattaque-voici-quelles-donnees-clients-volees",
+      "publishedAt": "2026-11-27T14:17:55+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Mais pourquoi les robotaxis de Waymo galèrent-ils autant sur l'autoroute ?",
+      "url": "https://www.clubic.com/actualite-641455-mais-pourquoi-les-robotaxis-de-waymo-galerent-ils-autant-sur-l-autoroute.html",
+      "publishedAt": "2026-11-27T14:16:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : le MacBook Neo 256 Go retrouve son prix de lancement de 699 €",
+      "url": "https://www.macg.co/mac/2026/11/black-friday-le-macbook-neo-256-go-retrouve-son-prix-de-lancement-de-699-eu-312711",
+      "publishedAt": "2026-11-27T14:12:07+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : c'est le jour J, Amazon fait chuter le prix de 10 de ses appareils, dès 23,99€",
+      "url": "https://www.clubic.com/bons-plans-641125-black-friday-a-la-veille-du-jour-j-amazon-fait-chuter-le-prix-de-10-de-ses-appareils-des-23-99.html",
+      "publishedAt": "2026-11-27T14:12:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Face aux barrières de l’UE, Geely va installer sa nouvelle plateforme électrique dans l’usine Ford de Valence",
       "url": "https://www.numerama.com/vroom/2386227-face-aux-barrieres-de-lue-geely-va-installer-sa-nouvelle-plateforme-electrique-dans-lusine-ford-de-valence.html",
       "publishedAt": "2026-11-27T14:09:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Norse Atlantic supprime tous ses vols et se met en faillite : c’est la fin de la compagnie aérienne low-cost",
+      "url": "https://www.presse-citron.net/norse-atlantic-supprime-tous-ses-vols-et-se-met-en-faillite-cest-la-fin-de-la-compagnie-aerienne-low-cost/",
+      "publishedAt": "2026-11-27T14:08:13+00:00"
     },
     {
       "source": "jdg",
@@ -182,6 +212,12 @@
       "title": "Série noire aux États-Unis : des pirates se sont infiltrés dans Cloud One, la plateforme cloud géante de l’US Air Force",
       "url": "https://www.numerama.com/cyberguerre/2386483-serie-noire-aux-etats-unis-des-pirates-se-sont-infiltres-dans-cloud-one-la-plateforme-cloud-geante-de-lus-air-force.html",
       "publishedAt": "2026-11-27T13:50:31+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Mini-Kit - Pour faire un bilan de santé de votre Windows",
+      "url": "https://korben.info/mini-kit-diagnostic-rapide-pc-windows.html",
+      "publishedAt": "2026-11-27T13:49:54+00:00"
     },
     {
       "source": "basketusa",
@@ -791,7 +827,7 @@
     },
     {
       "source": "numerama",
-      "title": "Un mystérieux conducteur de Lyft harcèle les robotaxis Waymo avec leur jetant des œufs",
+      "title": "Un homme bloque des robotaxis Waymo avec des cônes, puis les bombarde d’œufs",
       "url": "https://www.numerama.com/vroom/2385971-un-mysterieux-conducteur-de-lyft-harcele-les-robotaxis-waymo-avec-leur-jettant-des-oeufs.html",
       "publishedAt": "2026-11-27T10:06:26+00:00"
     },
@@ -1708,6 +1744,12 @@
       "publishedAt": "2026-11-26T17:31:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "LeBron James et les « papys du triple-double »",
+      "url": "https://www.basketusa.com/news/964456/lebron-james-et-les-papys-du-triple-double/",
+      "publishedAt": "2026-11-26T17:27:28+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Le Black Friday sourit aux gamers : la Nintendo Switch 2 avec batterie remplaçable descend à 429 € chez Amazon",
       "url": "https://www.clubic.com/bons-plans-641209-le-black-friday-sourit-aux-gamers-la-nintendo-switch-2-avec-batterie-remplacable-descend-a-429-chez-amazon.html",
@@ -1814,12 +1856,6 @@
       "title": "IA : Microsoft alerte sur une vague de pannes à venir dans la tech",
       "url": "https://www.clubic.com/actualite-641269-ia-microsoft-alerte-sur-une-vague-de-pannes-tech-a-venir.html",
       "publishedAt": "2026-11-26T16:28:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "LeBron James et les « papys du triple-double »",
-      "url": "https://www.basketusa.com/news/964456/lebron-james-et-les-papys-du-triple-double/",
-      "publishedAt": "2026-11-26T16:27:28+00:00"
     },
     {
       "source": "gnt",
@@ -2672,12 +2708,6 @@
       "title": "GTA 6 à 30 fps sur PC et version PS5 piratée : les mauvaises nouvelles s’accumulent pour Rockstar",
       "url": "https://www.numerama.com/tech/2385293-gta-6-a-30-fps-sur-pc-et-version-ps5-piratee-les-mauvaises-nouvelles-saccumulent-pour-rockstar.html",
       "publishedAt": "2026-11-26T10:14:56+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : à la veille du jour J, Amazon fait chuter le prix de 10 de ses appareils, dès 23,99€",
-      "url": "https://www.clubic.com/bons-plans-641125-black-friday-a-la-veille-du-jour-j-amazon-fait-chuter-le-prix-de-10-de-ses-appareils-des-23-99.html",
-      "publishedAt": "2026-11-26T10:13:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -4028,36 +4058,6 @@
       "title": "Sur le modèle de l’ISS, la Chine accueille son tout premier astronaute international",
       "url": "https://www.numerama.com/sciences/2384395-sur-le-modele-de-liss-la-chine-accueille-son-tout-premier-astronaute-international.html",
       "publishedAt": "2026-11-25T14:25:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Le Black Friday permet de jouer sur smartphone comme sur console avec la manette Razer Kishi V3 Pro à prix réduit",
-      "url": "https://www.numerama.com/tech/2384205-le-black-friday-permet-de-jouer-sur-smartphone-comme-sur-console-avec-la-manette-razer-kishi-v3-pro-a-prix-reduit.html",
-      "publishedAt": "2026-11-25T14:20:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iPhone : Google soutient Mozilla contre les restrictions d'Apple en Europe",
-      "url": "https://www.mac4ever.com/iphone/199290-iphone-google-soutient-mozilla-contre-les-restrictions-d-apple-en-europe",
-      "publishedAt": "2026-11-25T14:20:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Fuite de données chez Decathlon : cette fonctionnalité d’iCloud+ peut vous protéger",
-      "url": "https://www.iphon.fr/post/fuite-donnees-decathlon-fonctionnalite-icloud-proteger-mail",
-      "publishedAt": "2026-11-25T14:16:11+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Les satellites français de surveillance YODA devront décoller avec SpaceX et Impulse Space",
-      "url": "https://www.generation-nt.com/actualites/france-satellite-defense-spatiale-yoda-toutatis-impulse-space-2085065",
-      "publishedAt": "2026-11-25T14:15:01+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Test du mini PC VZMORE iX9 Max sous Ubuntu Server",
-      "url": "https://korben.info/test-du-mini-pc-vzmore-ix9-max-sous-ubuntu-server.html",
-      "publishedAt": "2026-11-25T14:12:02+00:00"
     },
     {
       "source": "boulet",
