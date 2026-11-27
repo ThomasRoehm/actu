@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T19:10:41.458193+00:00",
+  "generatedAt": "2026-11-27T19:20:38.127476+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:10:41.458193+00:00"
+      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "La PS5 grande absente du Black Friday ? Amazon se rattrape sur les accessoires Playstation 5",
+      "url": "https://www.clubic.com/bons-plans-641566-la-ps5-grande-absente-du-black-friday-amazon-se-rattrape-sur-les-accessoires-playstation-5.html",
+      "publishedAt": "2026-11-27T19:18:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Bleus valident leur billet pour la Coupe du monde 2027 !",
+      "url": "https://www.basketusa.com/news/964846/les-bleus-valident-leur-billet-pour-la-coupe-du-monde-2027/",
+      "publishedAt": "2026-11-27T19:07:10+00:00"
+    },
     {
       "source": "jdg",
       "title": "Un œil gigantesque de 45 kilomètres de diamètre se cache au cœur du Sahara : visible depuis l’espace, c’est l’un des paysages les plus étonnants de la planète",
@@ -320,6 +332,12 @@
       "title": "Le vidéoprojecteur Xgimi MoGo 4 en promo à -31% pour le Black Friday !",
       "url": "https://www.mac4ever.com/tv/199359-le-videoprojecteur-xgimi-mogo-4-en-promo-a-31-pour-le-black-friday",
       "publishedAt": "2026-11-27T17:00:05+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "[podcast] Aaron Rodgers a craqué et Joyeux Thanksgiving !",
+      "url": "https://touchdownactu.com/362007/podcast-aaron-rodgers-a-craque-et-joyeux-thanksgiving/",
+      "publishedAt": "2026-11-27T17:00:04+00:00"
     },
     {
       "source": "clubic",
@@ -4040,12 +4058,6 @@
       "title": "Décollage d’Ariane 6 : que s’est-il passé avec l’incendie déclenché par la fusée et qui a approché une cuve d’hydrogène ?",
       "url": "https://www.numerama.com/sciences/2385057-decollage-dariane-6-que-sest-il-passe-avec-lincendie-declenche-non-loin-dune-cuve-dhydrogene.html",
       "publishedAt": "2026-11-25T19:24:05+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "GTA 6 pousse le directeur de Cyberpunk 2 à feindre l'annulation de son jeu",
-      "url": "https://www.generation-nt.com/actualites/gta-6-annulation-cyberpunk-2085033",
-      "publishedAt": "2026-11-25T19:15:01+00:00"
     },
     {
       "source": "boulet",
