@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:40:40.774990+00:00",
+  "generatedAt": "2026-11-27T07:50:41.180264+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:40:40.774990+00:00"
+      "lastSuccessAt": "2026-11-27T07:50:41.180264+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Attention, la messagerie de votre hébergeur est peut-être vulnérable",
+      "url": "https://www.clubic.com/actualite-641239-roundcube-corrige-12-failles-dans-son-webmail-mettez-votre-serveur-a-jour.html",
+      "publishedAt": "2026-11-27T07:45:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday TV 4K : les 10 meilleures offres OLED et Mini LED chez Samsung, Sony, TCL, Philips et Hisense",
+      "url": "https://www.clubic.com/bons-plans-641350-black-friday-tv-4k-les-10-meilleures-offres-oled-et-mini-led-chez-samsung-sony-tcl-philips-et-hisense.html",
+      "publishedAt": "2026-11-27T07:41:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Lakers, « prétendants au titre » ou « imposteurs » ?",
+      "url": "https://www.basketusa.com/news/964576/les-lakers-pretendants-au-titre-ou-imposteurs/",
+      "publishedAt": "2026-11-27T07:39:40+00:00"
+    },
     {
       "source": "numerama",
       "title": "Le Black Friday c’est maintenant : on a trié les 100 meilleures offres de l’évènement et on continue d’en ajouter en direct",
@@ -3836,30 +3854,6 @@
       "title": "Tyrese Haliburton, la bonne surprise du week-end pour les Pacers ?",
       "url": "https://www.basketusa.com/news/963797/tyrese-haliburton-la-bonne-surprise-du-week-end-pour-les-pacers/",
       "publishedAt": "2026-11-25T07:54:20+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "MacBook : on tient peut-être le détournement du siècle",
-      "url": "https://www.iphon.fr/post/macbook-son-via-trackpad-no-speaker",
-      "publishedAt": "2026-11-25T07:46:58+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Kagi lance son service de mail en bêta publique",
-      "url": "https://www.clubic.com/actualite-640843-kagi-lance-son-service-de-mail-en-beta-publique.html",
-      "publishedAt": "2026-11-25T07:46:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "New York interdit les abonnements pour les fonctions déjà installées dans votre voiture",
-      "url": "https://www.generation-nt.com/actualites/new-york-interdit-abonnements-voiture-2085030",
-      "publishedAt": "2026-11-25T07:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le mini PC NiPoGi AM06 Pro avec Ryzen 5, 16+512 Go et triple affichage 4K perd 126 € pour le Black Friday",
-      "url": "https://www.clubic.com/bons-plans-640822-le-mini-pc-nipogi-am06-pro-avec-ryzen-5-16-512-go-et-triple-affichage-4k-perd-126-pour-le-black-friday.html",
-      "publishedAt": "2026-11-25T07:44:00+00:00"
     },
     {
       "source": "boulet",
