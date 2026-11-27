@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:01:12.569162+00:00",
+  "generatedAt": "2026-11-27T13:10:40.095065+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:01:12.569162+00:00"
+      "lastSuccessAt": "2026-11-27T13:10:40.095065+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "YouTube sur Android Auto : cette nouveauté vidéo va tout changer en voiture",
+      "url": "https://www.clubic.com/actualite-641467-youtube-sur-android-auto-cette-nouveaute-video-va-tout-changer-en-voiture.html",
+      "publishedAt": "2026-11-27T13:08:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Le Black Friday, c'est parti : les meilleures offres en direct à saisir avant minuit",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-27T13:05:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Linux : une faille critique vieille de 12 ans permet de prendre le contrôle de serveurs, y compris de NAS, sans même s'authentifier",
+      "url": "https://www.clubic.com/actualite-641446-linux-une-faille-critique-vieille-de-12-ans-permet-de-prendre-le-controle-de-serveurs-y-compris-de-nas-sans-meme-s-authentifier.html",
+      "publishedAt": "2026-11-27T13:01:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Au-dessus de l’Antarctique, le trou de la couche d’ozone bat des records cette année",
       "url": "https://www.numerama.com/sciences/2386087-le-trou-de-la-couche-dozone-bat-des-records-mais-ce-nest-pas-si-grave.html",
       "publishedAt": "2026-11-27T13:00:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "AFP, FIFA, 1Password, aviation civile : après une semaine noire en cybersécurité, le Sénat ouvre un dossier",
+      "url": "https://www.journaldugeek.com/2026/11/27/afp-fifa-1password-aviation-civile-apres-une-semaine-noire-en-cybersecurite-le-senat-ouvre-un-dossier/",
+      "publishedAt": "2026-11-27T12:58:44+00:00"
     },
     {
       "source": "presse",
@@ -160,6 +184,12 @@
       "publishedAt": "2026-11-27T12:50:01+00:00"
     },
     {
+      "source": "korben",
+      "title": "Obsidian Skills - Laissez votre agent IA ranger vos notes",
+      "url": "https://korben.info/obsidian-skills-agents-ia.html",
+      "publishedAt": "2026-11-27T12:45:15+00:00"
+    },
+    {
       "source": "iphon",
       "title": "iPhone Duo : il a 5 grands avantages qui en font un smartphone unique au monde",
       "url": "https://www.iphon.fr/post/iphone-duo-5-avantages-smartphone-apple",
@@ -178,6 +208,12 @@
       "publishedAt": "2026-11-27T12:37:22+00:00"
     },
     {
+      "source": "korben",
+      "title": "Dans les fast-foods américains, une IA note l'amabilité des employés",
+      "url": "https://korben.info/dans-les-fast-foods-americains-une-ia-note-lamabilite-des-employes.html",
+      "publishedAt": "2026-11-27T12:37:08+00:00"
+    },
+    {
       "source": "gnt",
       "title": "TSMC vise le Texas avec une usine de puces 2nm à 22,6 milliards",
       "url": "https://www.generation-nt.com/actualites/tsmc-usine-puces-2nm-texas-2085144",
@@ -194,6 +230,12 @@
       "title": "Voici à quoi ressemblera la Terre dans 250 millions d’années : la place de la France va beaucoup changer",
       "url": "https://www.presse-citron.net/voici-a-quoi-ressemblera-la-terre-dans-250-millions-dannees-la-place-de-la-france-va-beaucoup-changer/",
       "publishedAt": "2026-11-27T12:33:39+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Faux GTA 6 sur PC - Attention à cette commande mortelle",
+      "url": "https://korben.info/faux-gta-vi-pc-github-clickfix.html",
+      "publishedAt": "2026-11-27T12:31:07+00:00"
     },
     {
       "source": "mac4ever",
@@ -287,7 +329,7 @@
     },
     {
       "source": "korben",
-      "title": "AliasVault - Des alias mail qui ne quittent jamais votre coffre fort",
+      "title": "AliasVault - Des alias mail qui ne quittent jamais votre coffre-fort",
       "url": "https://korben.info/aliasvault-mots-de-passe-alias-email.html",
       "publishedAt": "2026-11-27T11:54:38+00:00"
     },
@@ -365,12 +407,6 @@
     },
     {
       "source": "clubic",
-      "title": "Le Black Friday, c'est parti : les meilleures offres en direct à saisir avant minuit",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T11:20:00+00:00"
-    },
-    {
-      "source": "clubic",
       "title": "Black Friday : la manette sans fil Xbox passe à -35% sur Amazon, parfaite pour GTA VI !",
       "url": "https://www.clubic.com/bons-plans-641401-black-friday-la-manette-sans-fil-xbox-passe-a--35-sur-amazon-parfaite-pour-gta-vi.html",
       "publishedAt": "2026-11-27T11:17:00+00:00"
@@ -389,9 +425,15 @@
     },
     {
       "source": "numerama",
-      "title": "La France se dote de ses premiers drones intercepteurs qui filent à 350 km/h pour percuter d’autres drones",
+      "title": "La France se dote de ses premiers drones intercepteurs Gobi Zephyr qui filent à 350 km/h pour percuter d’autres drones",
       "url": "https://www.numerama.com/tech/2386319-la-france-se-dote-de-ses-premiers-drones-intercepteurs-qui-filent-a-350-km-h-pour-percuter-dautres-drones.html",
       "publishedAt": "2026-11-27T11:11:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La Grèce se saborde et voit la Coupe du Monde s’éloigner…",
+      "url": "https://www.basketusa.com/news/964666/la-grece-se-saborde-et-voit-la-coupe-du-monde-seloigner/",
+      "publishedAt": "2026-11-27T11:07:54+00:00"
     },
     {
       "source": "clubic",
@@ -590,12 +632,6 @@
       "title": "Black Friday Minisforum : les 3 meilleures offres sur les mini-PC IA et NAS avec jusqu'à -50 % !",
       "url": "https://www.generation-nt.com/actualites/mini-pc-minisforum-serveur-nas-stockage-ia-ms-s1-max-n5-pro-x1-pro-black-friday-2084938",
       "publishedAt": "2026-11-27T10:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La Grèce se saborde et voit la Coupe du Monde s’éloigner…",
-      "url": "https://www.basketusa.com/news/964666/la-grece-se-saborde-et-voit-la-coupe-du-monde-seloigner/",
-      "publishedAt": "2026-11-27T10:07:54+00:00"
     },
     {
       "source": "numerama",
@@ -892,12 +928,6 @@
       "publishedAt": "2026-11-27T08:55:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
-      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
-      "publishedAt": "2026-11-27T08:54:53+00:00"
-    },
-    {
       "source": "presse",
       "title": "Pour le Black Friday, Roborock lâche ses meilleurs aspirateurs robots à prix cassé (jusqu’à -500 €)",
       "url": "https://www.presse-citron.net/pour-le-black-friday-roborock-lache-ses-meilleurs-aspirateurs-robots-a-prix-casse-jusqua-500-e/",
@@ -1072,6 +1102,12 @@
       "publishedAt": "2026-11-27T07:56:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
+      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
+      "publishedAt": "2026-11-27T07:54:53+00:00"
+    },
+    {
       "source": "iphon",
       "title": "iPhone 20 Pro : Apple prépare une édition qui risque de coûter très cher",
       "url": "https://www.iphon.fr/post/iphone-20-pro-2027-edition-anniversaire-limite-ceramique-rumeur",
@@ -1094,6 +1130,12 @@
       "title": "Attention, la messagerie de votre hébergeur est peut-être vulnérable",
       "url": "https://www.clubic.com/actualite-641239-roundcube-corrige-12-failles-dans-son-webmail-mettez-votre-serveur-a-jour.html",
       "publishedAt": "2026-11-27T07:45:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Lakers, « prétendants au titre » ou « imposteurs » ?",
+      "url": "https://www.basketusa.com/news/964576/les-lakers-pretendants-au-titre-ou-imposteurs/",
+      "publishedAt": "2026-11-27T07:39:40+00:00"
     },
     {
       "source": "presse",
@@ -1214,12 +1256,6 @@
       "title": "L’Uruguay fait tomber le Canada et se rapproche du Mondial 2027",
       "url": "https://www.basketusa.com/news/964596/luruguay-fait-tomber-le-canada-et-se-rapproche-du-mondial-2027/",
       "publishedAt": "2026-11-27T06:48:27+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Lakers, « prétendants au titre » ou « imposteurs » ?",
-      "url": "https://www.basketusa.com/news/964576/les-lakers-pretendants-au-titre-ou-imposteurs/",
-      "publishedAt": "2026-11-27T06:39:40+00:00"
     },
     {
       "source": "clubic",
@@ -3986,36 +4022,6 @@
       "title": "Mark Zuckerberg contre Elon Musk : la guerre des réseaux sociaux continue (sur iPad)",
       "url": "https://www.mac4ever.com/ipad/199285-mark-zuckerberg-contre-elon-musk-la-guerre-des-reseaux-sociaux-continue-sur-ipad",
       "publishedAt": "2026-11-25T13:15:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Firefox affine son VPN et ajoute un bouton Fire",
-      "url": "https://www.generation-nt.com/actualites/firefox-161-vpn-mozilla-bouton-fire-2085052",
-      "publishedAt": "2026-11-25T13:10:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Black Friday : la maison connectée de vos rêves vous attend avec ces offres inédites Aqara",
-      "url": "https://www.iphon.fr/post/black-friday-domotique-aqara",
-      "publishedAt": "2026-11-25T13:06:30+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Quand les héros de GTA 6 deviennent de vrais mannequins sur les réseaux sociaux",
-      "url": "https://www.numerama.com/pop-culture/2384555-quand-les-heros-de-gta-6-deviennent-de-vrais-mannequins-sur-les-reseaux-sociaux.html",
-      "publishedAt": "2026-11-25T13:04:20+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Quantum Act : l'initiative à 50 milliards d'euros de Bruxelles pour rester dans la course technologique",
-      "url": "https://www.clubic.com/actualite-640954-quantum-act-l-initiative-a-50-milliards-d-euros-de-bruxelles-pour-rester-dans-la-course-technologique.html",
-      "publishedAt": "2026-11-25T13:03:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 – Gagnez jusqu’à 200 000 dollars avec ces 6 banques sans alarme !",
-      "url": "https://www.journaldugeek.com/2026/11/25/gta-6-gagnez-jusqua-200-000-dollars-avec-ces-6-banques-sans-alarme/",
-      "publishedAt": "2026-11-25T13:02:01+00:00"
     },
     {
       "source": "boulet",
