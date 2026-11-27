@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:10:41.670553+00:00",
+  "generatedAt": "2026-11-27T17:20:40.951655+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:10:41.670553+00:00"
+      "lastSuccessAt": "2026-11-27T17:20:40.951655+00:00"
     }
   ],
   "articles": [
@@ -139,7 +139,13 @@
       "source": "clubic",
       "title": "Black Friday en direct : dernière ligne droite, les meilleures offres à saisir avant minuit",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T17:07:00+00:00"
+      "publishedAt": "2026-11-27T17:19:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Course au MVP | Victor Wembanyama et Luka Doncic, déjà loin devant ?",
+      "url": "https://www.basketusa.com/news/964742/course-au-mvp-victor-wembanyama-et-luka-doncic-deja-loin-devant/",
+      "publishedAt": "2026-11-27T17:11:45+00:00"
     },
     {
       "source": "clubic",
@@ -802,6 +808,12 @@
       "publishedAt": "2026-11-27T13:13:59+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Scottie Barnes cultive son jeu à mi-distance",
+      "url": "https://www.basketusa.com/news/964627/scottie-barnes-cultive-son-jeu-a-mi-distance/",
+      "publishedAt": "2026-11-27T13:12:27+00:00"
+    },
+    {
       "source": "jdg",
       "title": "Epic Games Store : le jeu gratuit de la semaine est parfait pour jouer à deux",
       "url": "https://www.journaldugeek.com/2026/11/27/epic-games-store-le-jeu-gratuit-de-la-semaine-est-parfait-pour-jouer-a-deux/",
@@ -932,12 +944,6 @@
       "title": "Pour le Black Friday : le Sonos Ace est à -61% et 14 autres casques et écouteurs à prix FOUS !",
       "url": "https://www.clubic.com/bons-plans-641422-pour-le-black-friday-le-sonos-ace-est-a--61-et-14-autres-casques-et-ecouteurs-a-prix-fous.html",
       "publishedAt": "2026-11-27T12:15:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Scottie Barnes cultive son jeu à mi-distance",
-      "url": "https://www.basketusa.com/news/964627/scottie-barnes-cultive-son-jeu-a-mi-distance/",
-      "publishedAt": "2026-11-27T12:12:27+00:00"
     },
     {
       "source": "gnt",
@@ -1654,6 +1660,12 @@
       "publishedAt": "2026-11-27T08:27:26+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Le Magic s’est beaucoup renseigné sur Kevin Porter Jr.",
+      "url": "https://www.basketusa.com/news/964618/le-magic-sest-beaucoup-renseigne-sur-kevin-porter-jr/",
+      "publishedAt": "2026-11-27T08:26:23+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday PS5 : pas de console pour GTA 6, mais la Xbox Series S en stock et des accessoires qui valent vraiment le coup",
       "url": "https://www.clubic.com/bons-plans-640420-black-friday-ps5-console-jeux-manettes-les-offres-qui-valent-vraiment-le-coup.html",
@@ -1808,12 +1820,6 @@
       "title": "Votre Google Chrome est-il à jour ? Cette faille notée 9,6/10 ne peut pas attendre",
       "url": "https://www.journaldugeek.com/2026/11/27/alerte-faille-critique-si-vous-utilisez-google-chrome-vous-devez-immediatement-mettre-a-jour-votre-navigateur/",
       "publishedAt": "2026-11-27T07:28:05+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le Magic s’est beaucoup renseigné sur Kevin Porter Jr.",
-      "url": "https://www.basketusa.com/news/964618/le-magic-sest-beaucoup-renseigne-sur-kevin-porter-jr/",
-      "publishedAt": "2026-11-27T07:26:23+00:00"
     },
     {
       "source": "jdg",
@@ -4052,30 +4058,6 @@
       "title": "Mike Brown et la petite touche de Stephen Curry chez Jalen Brunson",
       "url": "https://www.basketusa.com/news/964028/mike-brown-et-la-petite-touche-de-stephen-curry-chez-jalen-brunson/",
       "publishedAt": "2026-11-25T17:29:48+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Grosse promo sur les robots de piscine Beatbot : jusqu'à -390€ pour le Black Friday !",
-      "url": "https://www.mac4ever.com/divers/199301-grosse-promo-sur-les-robots-de-piscine-beatbot-jusqu-a-390-pour-le-black-friday",
-      "publishedAt": "2026-11-25T17:16:37+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "GTA 6 fait flamber les ventes de PS5 d’occasion, et les escrocs de Vinted en profitent",
-      "url": "https://www.numerama.com/tech/2384719-gta-6-fait-flamber-les-ventes-de-ps5-doccasion-et-les-escrocs-de-vinted-en-profitent.html",
-      "publishedAt": "2026-11-25T17:16:06+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Forsee Power lance sa batterie LFP sans refroidissement liquide en France",
-      "url": "https://www.generation-nt.com/actualites/forsee-power-batterie-lfp-france-2085023",
-      "publishedAt": "2026-11-25T17:15:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Disney+ : tous les abonnés mobiles Bouygues Telecom ont désormais droit à un prix cassé !",
-      "url": "https://www.clubic.com/actualite-641014-disney-tous-les-abonnes-mobiles-bouygues-telecom-ont-desormais-droit-a-un-prix-casse.html",
-      "publishedAt": "2026-11-25T17:11:00+00:00"
     },
     {
       "source": "boulet",
