@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:40:40.904349+00:00",
+  "generatedAt": "2026-11-27T13:50:42.780901+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T13:40:40.904349+00:00"
+      "lastSuccessAt": "2026-11-27T13:50:42.780901+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "XPeng vendra son robot humanoïde IRON au prix d'une voiture électrique",
+      "url": "https://www.mac4ever.com/domotique/199352-xpeng-vendra-son-robot-humanoide-iron-au-prix-d-une-voiture-electrique",
+      "publishedAt": "2026-11-27T13:45:01+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "La France reçoit ses premiers drones chasseurs de drones, et ils frappent à 350 km/h sans explosif",
+      "url": "https://www.clubic.com/actualite-641464-la-france-recoit-ses-premiers-drones-chasseurs-de-drones-et-ils-frappent-a-350-km-h-sans-explosif.html",
+      "publishedAt": "2026-11-27T13:44:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Rappel Tesla Model 3 : airbag non conforme, comment vérifier si votre voiture est concernée",
+      "url": "https://www.journaldugeek.com/2026/11/27/rappel-tesla-model-3-airbag-non-conforme-comment-verifier-si-votre-voiture-est-concernee/",
+      "publishedAt": "2026-11-27T13:43:46+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Tesla : le FSD v15 arrive pour Noël, et CarPlay refait parler de lui",
+      "url": "https://www.mac4ever.com/auto/199350-tesla-le-fsd-v15-arrive-pour-noel-et-carplay-refait-parler-de-lui",
+      "publishedAt": "2026-11-27T13:42:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Rockstar Games : les salariés du studio de GTA 6 rejettent la reconnaissance syndicale",
@@ -713,7 +737,7 @@
     },
     {
       "source": "numerama",
-      "title": "Un mystérieux conducteur de Lyft harcèle les robotaxis Waymo avec leur jettant des œufs",
+      "title": "Un mystérieux conducteur de Lyft harcèle les robotaxis Waymo avec leur jetant des œufs",
       "url": "https://www.numerama.com/vroom/2385971-un-mysterieux-conducteur-de-lyft-harcele-les-robotaxis-waymo-avec-leur-jettant-des-oeufs.html",
       "publishedAt": "2026-11-27T10:06:26+00:00"
     },
@@ -1006,6 +1030,12 @@
       "publishedAt": "2026-11-27T08:55:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
+      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
+      "publishedAt": "2026-11-27T08:54:53+00:00"
+    },
+    {
       "source": "presse",
       "title": "Pour le Black Friday, Roborock lâche ses meilleurs aspirateurs robots à prix cassé (jusqu’à -500 €)",
       "url": "https://www.presse-citron.net/pour-le-black-friday-roborock-lache-ses-meilleurs-aspirateurs-robots-a-prix-casse-jusqua-500-e/",
@@ -1178,12 +1208,6 @@
       "title": "Cyberattaque contre l’AFP : quand les pirates perturbent toute la chaîne de l’information",
       "url": "https://www.mac4ever.com/ia/199332-cyberattaque-contre-l-afp-quand-les-pirates-perturbent-toute-la-chaine-de-l-information",
       "publishedAt": "2026-11-27T07:56:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
-      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
-      "publishedAt": "2026-11-27T07:54:53+00:00"
     },
     {
       "source": "iphon",
