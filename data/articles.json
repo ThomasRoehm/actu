@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:30:54.603631+00:00",
+  "generatedAt": "2026-11-27T14:40:39.258594+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T14:30:54.603631+00:00"
+      "lastSuccessAt": "2026-11-27T14:40:39.258594+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday, c'est parti : les meilleures offres en direct à saisir avant minuit",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-27T14:34:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Black Friday : on a trouvé les meilleurs jeux vidéo récents en promotion à acheter",
+      "url": "https://www.numerama.com/pop-culture/2386235-black-friday-on-a-trouve-les-meilleurs-jeux-video-recents-en-promotion-a-acheter.html",
+      "publishedAt": "2026-11-27T14:33:42+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Alerte maximale aux États-Unis : des hackers s’infiltrent dans le cloud de l’armée de l’air",
+      "url": "https://www.presse-citron.net/alerte-maximale-aux-etats-unis-des-hackers-sinfiltrent-dans-le-cloud-de-larmee-de-lair/",
+      "publishedAt": "2026-11-27T14:30:49+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "À Boston, l’important, c’est toujours les 3-points ?",
+      "url": "https://www.basketusa.com/news/964728/a-boston-limportant-cest-toujours-les-3-points/",
+      "publishedAt": "2026-11-27T14:30:17+00:00"
+    },
     {
       "source": "clubic",
       "title": "GTA 6 sur PC : deux faux portages piégeaient les joueurs sur GitHub",
@@ -155,7 +179,7 @@
     },
     {
       "source": "numerama",
-      "title": "Black Friday : déjà plus de 100 offres repérées chez Amazon, Fnac, Boulanger et Cdiscount, la suite arrive (EN DIRECT)",
+      "title": "Black Friday : déjà plus de 100 offres repérées chez Amazon, Fnac, Boulanger et Cdiscount et on continue d’en ajouter (EN DIRECT)",
       "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
       "publishedAt": "2026-11-27T14:21:21+00:00"
     },
@@ -170,6 +194,12 @@
       "title": "SAP prépare la suppression de 10 000 postes pour accélérer sur l'IA",
       "url": "https://www.generation-nt.com/actualites/sap-editeur-logiciels-suppression-postes-intelligence-artificielle-2085188",
       "publishedAt": "2026-11-27T14:20:01+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Contre l'IPTV pirate, Europol vide les comptes au lieu de fermer les sites",
+      "url": "https://korben.info/contre-liptv-pirate-europol-vide-les-comptes-au-lieu-de-fermer-les-sites.html",
+      "publishedAt": "2026-11-27T14:18:13+00:00"
     },
     {
       "source": "iphon",
@@ -214,6 +244,12 @@
       "publishedAt": "2026-11-27T14:08:13+00:00"
     },
     {
+      "source": "korben",
+      "title": "Neuralink lance l'ultime essai de son implant avant une mise en vente",
+      "url": "https://korben.info/neuralink-lance-lultime-essai-de-son-implant-avant-une-mise-en-vente.html",
+      "publishedAt": "2026-11-27T14:02:42+00:00"
+    },
+    {
       "source": "jdg",
       "title": "L’eSIM débarque sur WhatsApp : fini la recherche de Wifi à l’aéroport",
       "url": "https://www.journaldugeek.com/2026/11/27/lesim-debarque-sur-whatsapp-fini-la-recherche-de-wifi-a-laeroport/",
@@ -224,12 +260,6 @@
       "title": "Le jeu vidéo français va jouer sa survie aux futures élections présidentielles",
       "url": "https://www.presse-citron.net/le-jeu-video-francais-va-jouer-sa-survie-aux-futures-elections-presidentielles/",
       "publishedAt": "2026-11-27T14:00:31+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Black Friday, c'est parti : les meilleures offres en direct à saisir avant minuit",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T14:00:00+00:00"
     },
     {
       "source": "clubic",
@@ -1162,6 +1192,12 @@
       "publishedAt": "2026-11-27T08:55:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
+      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
+      "publishedAt": "2026-11-27T08:54:53+00:00"
+    },
+    {
       "source": "presse",
       "title": "Pour le Black Friday, Roborock lâche ses meilleurs aspirateurs robots à prix cassé (jusqu’à -500 €)",
       "url": "https://www.presse-citron.net/pour-le-black-friday-roborock-lache-ses-meilleurs-aspirateurs-robots-a-prix-casse-jusqua-500-e/",
@@ -1334,12 +1370,6 @@
       "title": "Cyberattaque contre l’AFP : quand les pirates perturbent toute la chaîne de l’information",
       "url": "https://www.mac4ever.com/ia/199332-cyberattaque-contre-l-afp-quand-les-pirates-perturbent-toute-la-chaine-de-l-information",
       "publishedAt": "2026-11-27T07:56:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
-      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
-      "publishedAt": "2026-11-27T07:54:53+00:00"
     },
     {
       "source": "iphon",
@@ -1852,6 +1882,12 @@
       "publishedAt": "2026-11-26T16:53:43+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
+      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
+      "publishedAt": "2026-11-26T16:51:17+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Black Friday : Cdiscount lance officiellement ses offres jusqu'à -60 % (avec codes promo en prime) !",
       "url": "https://www.generation-nt.com/actualites/airpods-5-redmi-note-17-google-pixel-9a-casque-jbl-tune-530bt-airfryer-ninja-camera-dji-cdiscount-promos-pas-cher-black-friday-2085135",
@@ -1952,12 +1988,6 @@
       "title": "La Boxster 718 la plus puissante de l’Histoire sera bel et bien électrique : Porsche passe à l’attaque",
       "url": "https://www.presse-citron.net/la-boxster-718-la-plus-puissante-de-lhistoire-sera-bel-et-bien-electrique-porsche-passe-a-lattaque/",
       "publishedAt": "2026-11-26T16:00:16+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
-      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
-      "publishedAt": "2026-11-26T15:51:17+00:00"
     },
     {
       "source": "mac4ever",
@@ -4058,24 +4088,6 @@
       "title": "Asus s'inspire du MacBook Neo et revient à 8 Go de RAM sur ses PC d'entrée de gamme",
       "url": "https://www.macg.co/materiel/2026/11/asus-sinspire-du-macbook-neo-et-revient-8-go-de-ram-sur-ses-pc-dentree-de-gamme-312655",
       "publishedAt": "2026-11-25T14:45:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Google imagine une chaîne de télévision par IA où vous êtes le héros",
-      "url": "https://www.generation-nt.com/actualites/google-chaine-television-ia-heros-2085015",
-      "publishedAt": "2026-11-25T14:40:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Est-ce que Blade Runner 2099 met fin à la franchise au cinéma ?",
-      "url": "https://www.journaldugeek.com/dossier/est-ce-que-blade-runner-2099-met-fin-a-la-franchise-au-cinema/",
-      "publishedAt": "2026-11-25T14:34:50+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "“Nous sommes désormais une entreprise différente” : Dell fait un carton malgré la pénurie de RAM pour les PC, 85 % de ses revenus viennent de l’IA",
-      "url": "https://www.presse-citron.net/dell-carton-malgre-penurie-de-ram-pc-ia/",
-      "publishedAt": "2026-11-25T14:33:54+00:00"
     },
     {
       "source": "boulet",
