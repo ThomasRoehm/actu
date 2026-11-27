@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:30:55.779517+00:00",
+  "generatedAt": "2026-11-27T16:40:39.782494+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:30:55.779517+00:00"
+      "lastSuccessAt": "2026-11-27T16:40:39.782494+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday met de la couleur dans vos lectures : la liseuse Kindle Colorsoft passe à 164,99€ chez Amazon",
+      "url": "https://www.clubic.com/bons-plans-641527-le-black-friday-met-de-la-couleur-dans-vos-lectures-la-liseuse-kindle-colorsoft-passe-a-164-99-chez-amazon.html",
+      "publishedAt": "2026-11-27T16:38:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Le Black Friday, c'est parti : les meilleures offres en direct à saisir avant minuit",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-27T16:36:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Monter son PC pendant le Black Friday : voici les offres à saisir pour une nouvelle config au meilleur prix",
+      "url": "https://www.clubic.com/bons-plans-641536-monter-son-pc-pendant-le-black-friday-voici-les-offres-a-saisir-pour-une-nouvelle-config-au-meilleur-prix.html",
+      "publishedAt": "2026-11-27T16:34:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Ziaire Williams se sent connecté à Matisse Thybulle en défense",
+      "url": "https://www.basketusa.com/news/964819/ziaire-williams-se-sent-connecte-a-matisse-thybulle-en-defense/",
+      "publishedAt": "2026-11-27T16:25:52+00:00"
+    },
     {
       "source": "jdg",
       "title": "Le Seigneur des anneaux : le nouveau film franchit un cap important",
@@ -184,12 +208,6 @@
       "publishedAt": "2026-11-27T16:03:55+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Le Black Friday, c'est parti : les meilleures offres en direct à saisir avant minuit",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T16:03:00+00:00"
-    },
-    {
       "source": "presse",
       "title": "Il y a 56 ans, la NASA est parvenue à faire voler un avion sans ailes déjà capable de dépasser le mur du son : un prototype destiné à préparer les futures navettes spatiales",
       "url": "https://www.presse-citron.net/56-ans-nasa-faire-voler-avion-sans-ailes-capable-depasser-mur-son-prototype-preparer-futures-navettes-spatiales/",
@@ -218,6 +236,12 @@
       "title": "Black Friday, dernière ligne droite : Amazon CASSE les prix de 100 produits tech ce vendredi, jusqu'à -67%",
       "url": "https://www.clubic.com/bons-plans-641278-black-friday-2026-amazon-degaine-son-top-100-des-offres-tech-jusqu-a--67-aujourd-hui.html",
       "publishedAt": "2026-11-27T15:57:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Nikola Topic peut compter sur sa « famille » serbe en NBA",
+      "url": "https://www.basketusa.com/news/964726/nikola-topic-peut-compter-sur-sa-famille-serbe-en-nba/",
+      "publishedAt": "2026-11-27T15:53:18+00:00"
     },
     {
       "source": "gnt",
@@ -382,12 +406,6 @@
       "publishedAt": "2026-11-27T14:55:12+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Nikola Topic peut compter sur sa « famille » serbe en NBA",
-      "url": "https://www.basketusa.com/news/964726/nikola-topic-peut-compter-sur-sa-famille-serbe-en-nba/",
-      "publishedAt": "2026-11-27T14:53:18+00:00"
-    },
-    {
       "source": "clubic",
       "title": "iPad en promo pour le Black Friday : Amazon frappe fort avec jusqu'à 120€ de remise !",
       "url": "https://www.clubic.com/bons-plans-641518-black-friday-amazon-l-ipad-air-m4-chute-a-709-et-ce-n-est-pas-le-seul-ipad-en-promo.html",
@@ -404,6 +422,12 @@
       "title": "Firmwares décompilés par l'IA : Sony, Nikon et Canon rattrapés par leurs propres clients",
       "url": "https://www.mac4ever.com/divers/199353-firmwares-decompiles-par-l-ia-sony-nikon-et-canon-rattrapes-par-leurs-propres-clients",
       "publishedAt": "2026-11-27T14:49:00+00:00"
+    },
+    {
+      "source": "tda",
+      "title": "La dinde, le ballon et Thanksgiving : histoire d’un mariage très américain",
+      "url": "https://touchdownactu.com/361950/la-dinde-le-ballon-et-thanksgiving-histoire-dun-mariage-tres-americain/",
+      "publishedAt": "2026-11-27T14:47:41+00:00"
     },
     {
       "source": "presse",
@@ -466,10 +490,22 @@
       "publishedAt": "2026-11-27T14:30:49+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "À Boston, l’important, c’est toujours les 3-points ?",
+      "url": "https://www.basketusa.com/news/964728/a-boston-limportant-cest-toujours-les-3-points/",
+      "publishedAt": "2026-11-27T14:30:17+00:00"
+    },
+    {
       "source": "clubic",
       "title": "GTA 6 sur PC : deux faux portages piégeaient les joueurs sur GitHub",
       "url": "https://www.clubic.com/actualite-641485-gta-6-sur-pc-deux-faux-portages-piegeaient-les-joueurs-sur-github.html",
       "publishedAt": "2026-11-27T14:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "San Antonio Spurs – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964571/san-antonio-spurs-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-27T14:28:25+00:00"
     },
     {
       "source": "clubic",
@@ -640,12 +676,6 @@
       "publishedAt": "2026-11-27T13:30:39+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "À Boston, l’important, c’est toujours les 3-points ?",
-      "url": "https://www.basketusa.com/news/964728/a-boston-limportant-cest-toujours-les-3-points/",
-      "publishedAt": "2026-11-27T13:30:17+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Black Friday 2026 : les 35 bons plans les plus populaires sur AliExpress (Nintendo Switch 2, Ryzen 7, DJI...)",
       "url": "https://www.generation-nt.com/actualites/honor-magic8-pro-station-electrique-oukitel-realme-16-pro-dji-osmo-action-6-redmi-note-17-pro-max-aliexpress-black-friday-2085185",
@@ -656,12 +686,6 @@
       "title": "50 ans d’Apple : dernière chance pour commander notre livre avant les fêtes, avec deux nouveaux packs",
       "url": "https://www.macg.co/macgeneration/2026/11/50-ans-dapple-derniere-chance-pour-commander-notre-livre-avant-les-fetes-avec-deux-nouveaux-packs-312681",
       "publishedAt": "2026-11-27T13:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "San Antonio Spurs – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964571/san-antonio-spurs-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-27T13:28:25+00:00"
     },
     {
       "source": "clubic",
@@ -4058,30 +4082,6 @@
       "title": "Boston Celtics – Atlanta Hawks : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/963956/boston-celtics-atlanta-hawks-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-25T16:43:44+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Amazon menace New York d’une hausse de 5 dollars par commande face à un projet de loi sur les livraisons",
-      "url": "https://www.generation-nt.com/actualites/amazon-new-york-hausse-livraisons-2085025",
-      "publishedAt": "2026-11-25T16:40:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Nøord veut transformer votre iPhone Duo en petit ordinateur portable",
-      "url": "https://www.mac4ever.com/iphone/199298-noord-veut-transformer-votre-iphone-duo-en-petit-ordinateur-portable",
-      "publishedAt": "2026-11-25T16:37:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Vers un événement Intel fin février : la présentation officielle de Nova Lake ?",
-      "url": "https://www.clubic.com/actualite-641038-vers-un-evenement-intel-fin-fevrier-la-presentation-officielle-de-nova-lake.html",
-      "publishedAt": "2026-11-25T16:36:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "La NASA revoit la conception du SR-1 Freedom, son futur vaisseau nucléaire destiné à Mars : un investissement à près de 40 millions de dollars",
-      "url": "https://www.journaldugeek.com/2026/11/25/nasa-revoit-conception-sr-1-freedom-futur-vaisseau-nucleaire-mars-investissement-pres-40-millions-de-dollars/",
-      "publishedAt": "2026-11-25T16:31:59+00:00"
     },
     {
       "source": "boulet",
