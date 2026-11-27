@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:20:38.856514+00:00",
+  "generatedAt": "2026-11-27T15:30:57.619754+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T15:20:38.856514+00:00"
+      "lastSuccessAt": "2026-11-27T15:30:57.619754+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday Cybertek : 4 PC gamer 100 % AMD en promo, du AMD Ryzen™ 7 8700F au 9800X3D",
+      "url": "https://www.clubic.com/actualite-640873-black-friday-cybertek-4-pc-gamer-100-amd-en-promo-du-amd-ryzen-7-8700f-au-9800x3d.html",
+      "publishedAt": "2026-11-27T15:30:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Le Mordor, là où siège le volcan Orodruin : d’où vient ce nom dans Les Anneaux de pouvoir",
+      "url": "https://www.numerama.com/pop-culture/1137948-le-mordor-la-ou-siege-le-volcan-orodruin-dou-vient-ce-nom-dans-les-anneaux-de-pouvoir.html",
+      "publishedAt": "2026-11-27T15:27:41+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Hollow Knight Silksong : l’extension Sea of Sorrow sort dans à peine deux semaines et elle sera gratuite !",
+      "url": "https://www.journaldugeek.com/2026/11/27/hollow-knight-silksong-lextension-sea-of-sorrow-sort-dans-a-peine-deux-semaines-et-elle-sera-gratuite/",
+      "publishedAt": "2026-11-27T15:25:57+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "PlayStation Plus : les trois jeux offerts en décembre 2026",
+      "url": "https://www.generation-nt.com/actualites/playstation-plus-trois-jeux-decembre-2026-2085149",
+      "publishedAt": "2026-11-27T15:25:01+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "SAP, une des plus grosses sociétés européennes, pourrait licencier 10 000 personnes à cause de l'IA",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/sap-une-des-plus-grosses-societes-europeennes-pourrait-licencier-10-000-personnes-cause-de-lia-312717",
+      "publishedAt": "2026-11-27T15:25:00+00:00"
+    },
     {
       "source": "jdg",
       "title": "Calendriers de l’Avent 2026 : notre sélection pour profiter de Noël avant tout le monde",
@@ -158,6 +188,12 @@
       "title": "Intrusion chez l'hébergeur français LWS, surveillez vos emails",
       "url": "https://www.clubic.com/actualite-641497-intrusion-chez-l-hebergeur-lws-surveillez-vos-emails.html",
       "publishedAt": "2026-11-27T15:14:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Amazon Autos traverse l'Atlantique",
+      "url": "https://www.generation-nt.com/actualites/amazon-autos-royaume-uni-vente-voitures-2085179",
+      "publishedAt": "2026-11-27T15:10:02+00:00"
     },
     {
       "source": "clubic",
@@ -4052,42 +4088,6 @@
       "title": "Fuite chez Decathlon, vos consignes de livraison aussi dans la nature",
       "url": "https://korben.info/fuite-chez-decathlon-vos-consignes-de-livraison-aussi-dans-la-nature.html",
       "publishedAt": "2026-11-25T15:32:17+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[Podcast] Preview S12 : Sam Darnold ou Drew Lock ?",
-      "url": "https://touchdownactu.com/361877/podcast-preview-s12-sam-darnold-ou-drew-lock/",
-      "publishedAt": "2026-11-25T15:30:15+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "NordVPN : des abonnements dès 2,99 € par mois et trois mois offerts pour le Black Friday",
-      "url": "https://www.clubic.com/actualite-639946-nordvpn-des-abonnements-des-2-99-par-mois-et-trois-mois-offerts-pour-le-black-friday.html",
-      "publishedAt": "2026-11-25T15:30:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Pour Cyberpunk 2, CD Projekt Red ne veut pas nous faire attendre une éternité",
-      "url": "https://www.numerama.com/pop-culture/2384437-pour-cyberpunk-2-cd-projekt-red-ne-veut-pas-nous-faire-attendre-une-eternite.html",
-      "publishedAt": "2026-11-25T15:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday LEGO : Amazon casse les prix de Star Wars, Harry Potter, Pokémon et One Piece",
-      "url": "https://www.clubic.com/bons-plans-641029-black-friday-lego-amazon-casse-les-prix-de-star-wars-harry-potter-pokemon-et-one-piece.html",
-      "publishedAt": "2026-11-25T15:30:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "À J-2 du Black Friday, quelles sont les meilleures offres d’Amazon, Fnac et de Boulanger ?",
-      "url": "https://www.numerama.com/tech/2382555-black-friday-2026-les-meilleures-offres-en-direct-ce-mercredi-25-novembre.html",
-      "publishedAt": "2026-11-25T15:23:17+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Windows 11 : Microsoft libère plus de 860 Mo de RAM… occupés par ses propres logiciels",
-      "url": "https://www.clubic.com/actualite-640999-windows-11-microsoft-libere-plus-de-850-mo-de-ram-occupes-par-ses-propres-logiciels.html",
-      "publishedAt": "2026-11-25T15:21:00+00:00"
     },
     {
       "source": "boulet",
