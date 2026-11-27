@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:20:44.614037+00:00",
+  "generatedAt": "2026-11-27T01:30:52.316049+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T01:20:44.614037+00:00"
+      "lastSuccessAt": "2026-11-27T01:30:52.316049+00:00"
     }
   ],
   "articles": [
@@ -562,6 +562,12 @@
       "publishedAt": "2026-11-26T15:26:10+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Indiana Pacers – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964485/indiana-pacers-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-26T15:24:55+00:00"
+    },
+    {
       "source": "numerama",
       "title": "FC 27 ressuscite un commentateur de foot décédé grâce à l’IA : sa voix est de retour",
       "url": "https://www.numerama.com/pop-culture/2385441-fc-27-ressuscite-un-commentateur-de-foot-decede-grace-a-lia-sa-voix-est-de-retour.html",
@@ -716,12 +722,6 @@
       "title": "WhatsApp vous permet enfin de programmer vos messages",
       "url": "https://www.generation-nt.com/actualites/whatsapp-programmer-message-planifier-2085111",
       "publishedAt": "2026-11-26T14:30:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Indiana Pacers – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964485/indiana-pacers-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-26T14:24:55+00:00"
     },
     {
       "source": "clubic",
