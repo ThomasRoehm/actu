@@ -45,17 +45,15 @@
               <span class="tab-count" aria-hidden="true">—</span>
             </button>
           </nav>
-          <div class="toolbar-status">
-            <button type="button" class="sources-button" id="show-sources" aria-label="Sources" title="Sources" aria-haspopup="dialog" aria-controls="sources-dialog">
-              <svg class="toolbar-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M9 6h12M9 12h12M9 18h12M3 6h1m-1 6h1m-1 6h1"/>
-              </svg>
-              <span id="source-count">—</span>
-            </button>
-            <span id="updated" role="status" aria-label="Dernière collecte"><span id="updated-time">…</span></span>
-          </div>
+          <button type="button" class="sources-button" id="show-sources" aria-label="Sources" title="Sources" aria-haspopup="dialog" aria-controls="sources-dialog">
+            <svg class="toolbar-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M9 6h12M9 12h12M9 18h12M3 6h1m-1 6h1m-1 6h1"/>
+            </svg>
+            <span id="source-count">—</span>
+          </button>
         </div>
         <h2 id="today-heading" class="day-heading" hidden>Aujourd’hui <span id="today-count"></span></h2>
+        <span id="updated" role="status" aria-label="Dernière collecte"><span id="updated-time">…</span></span>
       </div>
       <p id="notice" class="notice" role="status" hidden></p>
       <section id="manga-feed" class="day-section" aria-label="Derniers chapitres des mangas suivis" hidden></section>
