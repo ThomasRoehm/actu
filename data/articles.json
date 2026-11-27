@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:10:41.495323+00:00",
+  "generatedAt": "2026-11-27T16:20:42.182416+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T16:10:41.495323+00:00"
+      "lastSuccessAt": "2026-11-27T16:20:42.182416+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : le bracelet connecté Xiaomi Smart Band 10 est à seulement 44,99 € aujourd’hui sur Amazon",
+      "url": "https://www.clubic.com/bons-plans-641425-black-friday-le-bracelet-connecte-xiaomi-smart-band-10-est-a-seulement-44-99-aujourd-hui-sur-amazon.html",
+      "publishedAt": "2026-11-27T16:17:00+00:00"
+    },
     {
       "source": "numerama",
       "title": "Un essaim de drones qui attaque Ariane 6 ? Le Centre spatial guyanais « n’est pas du tout paré », mais ne voit pas l’urgence de passer aux lasers",
@@ -149,7 +155,7 @@
     },
     {
       "source": "jdg",
-      "title": "Son SUV BYD est bloqué par un sabot, mais repart en roulant sur trois roues grâce à une fonction inédite du véhicule",
+      "title": "Son SUV BYD est bloqué par un sabot, mais il repart en roulant sur trois roues grâce à une fonction inédite du véhicule",
       "url": "https://www.journaldugeek.com/2026/11/27/son-suv-byd-est-bloque-par-un-sabot-mais-repart-en-roulant-sur-trois-roues-grace-a-une-fonction-inedite-du-vehicule/",
       "publishedAt": "2026-11-27T16:03:55+00:00"
     },
@@ -188,12 +194,6 @@
       "title": "Black Friday, dernière ligne droite : Amazon CASSE les prix de 100 produits tech ce vendredi, jusqu'à -67%",
       "url": "https://www.clubic.com/bons-plans-641278-black-friday-2026-amazon-degaine-son-top-100-des-offres-tech-jusqu-a--67-aujourd-hui.html",
       "publishedAt": "2026-11-27T15:57:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Nikola Topic peut compter sur sa « famille » serbe en NBA",
-      "url": "https://www.basketusa.com/news/964726/nikola-topic-peut-compter-sur-sa-famille-serbe-en-nba/",
-      "publishedAt": "2026-11-27T15:53:18+00:00"
     },
     {
       "source": "gnt",
@@ -356,6 +356,12 @@
       "title": "Adieu Netflix : ce site propose 649 films gratuits disponibles dès aujourd’hui",
       "url": "https://www.presse-citron.net/adieu-netflix-ce-site-propose-649-films-gratuits-disponibles-des-aujourdhui/",
       "publishedAt": "2026-11-27T14:55:12+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Nikola Topic peut compter sur sa « famille » serbe en NBA",
+      "url": "https://www.basketusa.com/news/964726/nikola-topic-peut-compter-sur-sa-famille-serbe-en-nba/",
+      "publishedAt": "2026-11-27T14:53:18+00:00"
     },
     {
       "source": "clubic",
@@ -4082,36 +4088,6 @@
       "title": "Avis Acollab : derrière sa simplicité, un vrai logiciel de gestion de projet ?",
       "url": "https://www.clubic.com/avis-639463-avis-acollab-derriere-sa-simplicite-un-vrai-logiciel-de-gestion-de-projet.html",
       "publishedAt": "2026-11-25T16:25:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Quantum Act : l'Europe mobilise 50 milliards d'euros pour sa souveraineté quantique",
-      "url": "https://www.generation-nt.com/actualites/quantum-act-europe-quantique-souverainete-strategique-investissement-2085068",
-      "publishedAt": "2026-11-25T16:20:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "L'iMac M6 est en promo : économisez 100€ par rapport à l'Apple Store !",
-      "url": "https://www.mac4ever.com/mac/199299-l-imac-m6-est-en-promo-economisez-100-par-rapport-a-l-apple-store",
-      "publishedAt": "2026-11-25T16:18:21+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Quatre hommes jugés à Nancy pour de faux placements crypto",
-      "url": "https://www.clubic.com/actualite-641008-quatre-hommes-juges-a-nancy-pour-de-faux-placements-crypto.html",
-      "publishedAt": "2026-11-25T16:15:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le jour où Collin Sexton a failli gagner un match à trois contre cinq",
-      "url": "https://www.basketusa.com/news/963983/le-jour-ou-collin-sexton-a-failli-gagner-un-match-a-trois-contre-cinq/",
-      "publishedAt": "2026-11-25T16:14:28+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Claude transforme vos artefacts en vraies apps Mac, sans App Store ni Xcode",
-      "url": "https://www.mac4ever.com/ia/199292-claude-transforme-vos-artefacts-en-vraies-apps-mac-sans-app-store-ni-xcode",
-      "publishedAt": "2026-11-25T16:11:00+00:00"
     },
     {
       "source": "boulet",
