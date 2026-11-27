@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:50:42.735797+00:00",
+  "generatedAt": "2026-11-27T18:01:09.863516+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T17:50:42.735797+00:00"
+      "lastSuccessAt": "2026-11-27T18:01:09.863516+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Black Friday Amazon : 12 offres incontournables sur les smartphones (Google, Samsung, Xiaomi, Nothing...)",
+      "url": "https://www.generation-nt.com/actualites/amazon-black-friday-smartphone-pas-cher-nothing-phone-3-xiaomi-17t-pro-google-pixel-11-poco-x8-pro-honor-magic8-lite-motorola-2085197",
+      "publishedAt": "2026-11-27T17:40:01+00:00"
+    },
     {
       "source": "macg",
       "title": "Une app pour contrôler manuellement les ports USB-C de (certains) Mac",
@@ -4016,30 +4022,6 @@
       "title": "Markelle Fultz retente sa chance en G-League",
       "url": "https://www.basketusa.com/news/964198/markelle-fultz-retente-sa-chance-en-g-league/",
       "publishedAt": "2026-11-25T18:02:07+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Huawei reconnu coupable aux États-Unis de vol de secrets commerciaux et de trafic avec l'Iran",
-      "url": "https://www.clubic.com/actualite-641053-huawei-reconnu-coupable-aux-etats-unis-de-vol-de-secrets-commerciaux-et-de-trafic-avec-l-iran.html",
-      "publishedAt": "2026-11-25T17:57:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Microsoft a envisagé de supprimer le multijoueur payant sur sa prochaine Xbox Helix",
-      "url": "https://www.generation-nt.com/actualites/xbox-helix-fin-multijoueur-payant-2085029",
-      "publishedAt": "2026-11-25T17:55:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Profitez du Black Friday pour passer à l’éclairage connecté : le pack Philips Hue Entertainment perd 130€ chez Boulanger",
-      "url": "https://www.clubic.com/bons-plans-641032-profitez-du-black-friday-pour-passer-a-l-eclairage-connecte-le-pack-philips-hue-entertainment-perd-130-chez-boulanger.html",
-      "publishedAt": "2026-11-25T17:53:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Moins d’un an après son entrée dans la zone euro, la Bulgarie risque d’être le premier pays sanctionné pour “déficit excessif” (la France devrait y échapper)",
-      "url": "https://www.presse-citron.net/moins-dun-an-apres-son-entree-dans-la-zone-euro-la-bulgarie-risque-detre-le-premier-pays-sanctionne-pour-deficit-excessif-la-france-devrait-y-echapper/",
-      "publishedAt": "2026-11-25T17:52:30+00:00"
     },
     {
       "source": "boulet",
