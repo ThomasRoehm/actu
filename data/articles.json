@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:40:39.602514+00:00",
+  "generatedAt": "2026-11-27T08:50:39.175328+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     },
     {
       "id": "boulet",
@@ -131,21 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:40:39.602514+00:00"
+      "lastSuccessAt": "2026-11-27T08:50:39.175328+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures ventes flash à saisir avant ce soir minuit",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-27T08:47:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : voici le TOP 10 des TV OLED et Mini LED à prix choc jusqu'à minuit",
+      "url": "https://www.clubic.com/bons-plans-641350-black-friday-tv-4k-les-10-meilleures-offres-oled-et-mini-led-chez-samsung-sony-tcl-philips-et-hisense.html",
+      "publishedAt": "2026-11-27T08:46:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Oups, le site de Firefox vient d'être assimilé à du spam par Google",
+      "url": "https://www.clubic.com/actualite-641248-oups-le-site-de-firefox-vient-d-etre-assimile-a-du-spam-par-google.html",
+      "publishedAt": "2026-11-27T08:43:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Cette innovation de l’Apple Watch arrive sur l’iPhone en 2027",
+      "url": "https://www.iphon.fr/post/apple-watch-iphone-2027",
+      "publishedAt": "2026-11-27T08:41:02+00:00"
+    },
     {
       "source": "numerama",
       "title": "Le Black Friday c’est maintenant : on a trié les 100 meilleures offres de l’évènement et on continue d’en ajouter en direct",
       "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
       "publishedAt": "2026-11-27T08:40:20+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures ventes flash à saisir avant ce soir minuit",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T08:39:00+00:00"
     },
     {
       "source": "clubic",
@@ -176,6 +194,12 @@
       "title": "Neuralink avance vers la commercialisation de son implant cérébral",
       "url": "https://www.journaldugeek.com/2026/11/27/neuralink-avance-vers-la-commercialisation-de-son-implant-cerebral/",
       "publishedAt": "2026-11-27T08:30:52+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "Windows 11 au régime - Merci le prix de la RAM",
+      "url": "https://korben.info/windows-11-moins-de-ram.html",
+      "publishedAt": "2026-11-27T08:27:26+00:00"
     },
     {
       "source": "basketusa",
@@ -302,12 +326,6 @@
       "title": "Attention, la messagerie de votre hébergeur est peut-être vulnérable",
       "url": "https://www.clubic.com/actualite-641239-roundcube-corrige-12-failles-dans-son-webmail-mettez-votre-serveur-a-jour.html",
       "publishedAt": "2026-11-27T07:45:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday TV 4K : les 10 meilleures offres OLED et Mini LED chez Samsung, Sony, TCL, Philips et Hisense",
-      "url": "https://www.clubic.com/bons-plans-641350-black-friday-tv-4k-les-10-meilleures-offres-oled-et-mini-led-chez-samsung-sony-tcl-philips-et-hisense.html",
-      "publishedAt": "2026-11-27T07:41:00+00:00"
     },
     {
       "source": "basketusa",
@@ -3860,48 +3878,6 @@
       "title": "Black Friday : notre podium du jour (station Anker SOLIX S2000, enceinte CMF Speaker S, Garmin Instinct 3)",
       "url": "https://www.generation-nt.com/actualites/station-electrique-portable-anker-solix-s2000-enceinte-cmf-speaker-garmin-instinct-3-montre-black-friday-promos-pas-cher-2085055",
       "publishedAt": "2026-11-25T09:00:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Navigateurs sur iPhone : Bruxelles discute avec Apple après la lettre de Mozilla et Shopify",
-      "url": "https://www.clubic.com/actualite-640852-navigateurs-sur-iphone-bruxelles-discute-avec-apple-apres-la-lettre-de-mozilla-et-shopify.html",
-      "publishedAt": "2026-11-25T08:47:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Un bug pousse GTA VI à 60 fps sur Xbox Series X",
-      "url": "https://www.generation-nt.com/actualites/bug-gta-vi-xbox-fps-2085016",
-      "publishedAt": "2026-11-25T08:45:01+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "À l'approche de Noël, Festivitas fait tomber la neige sur les fenêtres de macOS",
-      "url": "https://www.macg.co/logiciels/2026/11/festivitas-fait-tomber-la-neige-sur-les-fenetres-de-macos-312643",
-      "publishedAt": "2026-11-25T08:44:41+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPhone 18 & iPhone Air 2 : une mauvaise surprise vous attend côté photo",
-      "url": "https://www.iphon.fr/post/iphone-18-iphone-air-2-mauvaise-surprise-attend-cote-photo",
-      "publishedAt": "2026-11-25T08:42:22+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Votre vieux clavier Logitech G15 a encore des choses à afficher",
-      "url": "https://korben.info/g15-retro-hud.html",
-      "publishedAt": "2026-11-25T08:42:17+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "The Witcher 4 sera le GTA 6 de CD Projekt Red, promet le studio",
-      "url": "https://www.numerama.com/pop-culture/2384143-the-witcher-4-sera-le-gta-6-de-cd-projekt-red-promet-le-studio.html",
-      "publishedAt": "2026-11-25T08:41:59+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Huawei reconnu coupable de fraude bancaire et vol de secrets industriels aux USA",
-      "url": "https://www.mac4ever.com/divers/199271-huawei-reconnu-coupable-de-fraude-bancaire-et-vol-de-secrets-industriels-aux-usa",
-      "publishedAt": "2026-11-25T08:41:00+00:00"
     },
     {
       "source": "boulet",
