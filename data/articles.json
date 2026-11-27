@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:01:10.761612+00:00",
+  "generatedAt": "2026-11-27T08:10:48.629927+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,51 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:01:10.761612+00:00"
+      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "basketusa",
+      "title": "Malgré sa maladresse, Carter Bryant ne doit pas hésiter",
+      "url": "https://www.basketusa.com/news/964611/malgre-sa-maladresse-carter-bryant-ne-doit-pas-hesiter/",
+      "publishedAt": "2026-11-27T08:05:37+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "WhatsApp : Meta s'apprête à vendre des eSIM de voyage, mais plusieurs détails importants manquent",
+      "url": "https://www.clubic.com/actualite-641341-whatsapp-meta-s-apprete-a-vendre-des-esim-de-voyage-mais-plusieurs-details-importants-manquent.html",
+      "publishedAt": "2026-11-27T08:01:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "L’ANSM lance une alerte après plusieurs erreurs médicales liées à l’IA",
+      "url": "https://www.journaldugeek.com/2026/11/27/lansm-lance-une-alerte-apres-plusieurs-erreurs-medicales-liees-a-lia/",
+      "publishedAt": "2026-11-27T08:00:25+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Samsung lance le premier écran gaming à 1 100 images par seconde en HD, mais il y a 2 conditions majeures",
+      "url": "https://www.presse-citron.net/samsung-lance-le-premier-ecran-gaming-a-1-100-images-par-seconde-en-hd-mais-il-y-a-2-conditions-majeures/",
+      "publishedAt": "2026-11-27T08:00:21+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Face à l’IA, Last.fm restreint son API et inquiète ses utilisateurs",
+      "url": "https://www.macg.co/services/2026/11/face-lia-lastfm-restreint-son-api-et-inquiete-ses-utilisateurs-312699",
+      "publishedAt": "2026-11-27T08:00:14+00:00"
+    },
     {
       "source": "tda",
       "title": "[Quiz] Avez-vous bien suivi la 11e semaine de saison régulière en NFL ?",
       "url": "https://touchdownactu.com/361906/quiz-avez-vous-bien-suivi-la-11e-semaine-de-saison-reguliere-en-nfl/",
       "publishedAt": "2026-11-27T08:00:04+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Apple : les 11 meilleures offres Amazon, des AirPods Pro 3 au Macbook Air",
+      "url": "https://www.clubic.com/bons-plans-641245-black-friday-apple-les-11-meilleures-offres-amazon-des-airpods-pro-3-au-macbook-air.html",
+      "publishedAt": "2026-11-27T08:00:00+00:00"
     },
     {
       "source": "numerama",
@@ -158,6 +194,12 @@
       "title": "iPhone 20 Pro : Apple prépare une édition qui risque de coûter très cher",
       "url": "https://www.iphon.fr/post/iphone-20-pro-2027-edition-anniversaire-limite-ceramique-rumeur",
       "publishedAt": "2026-11-27T07:53:54+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "XL Office - Une suite Office pour Atari XL",
+      "url": "https://korben.info/xl-office-atari-xl-xe.html",
+      "publishedAt": "2026-11-27T07:47:43+00:00"
     },
     {
       "source": "gnt",
@@ -250,6 +292,12 @@
       "publishedAt": "2026-11-27T07:15:58+00:00"
     },
     {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures ventes flash à saisir avant ce soir minuit",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-27T07:15:00+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "iOS 28 : une refonte majeure des notifications sur iPhone",
       "url": "https://www.mac4ever.com/iphone/199331-ios-28-une-refonte-majeure-des-notifications-sur-iphone",
@@ -272,12 +320,6 @@
       "title": "Les propriétaires en copropriété ne vont pas aimer : c’est quoi ce PPPT, cette nouvelle obligation qui va faire très mal au porte-monnaie ?",
       "url": "https://www.presse-citron.net/les-proprietaires-en-copropriete-ne-vont-pas-aimer-cest-quoi-ce-pppt-cette-nouvelle-obligation-qui-va-faire-tres-mal-au-porte-monnaie/",
       "publishedAt": "2026-11-27T07:05:22+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures ventes flash à saisir avant ce soir minuit",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T07:03:00+00:00"
     },
     {
       "source": "clubic",
@@ -2074,12 +2116,6 @@
       "publishedAt": "2026-11-26T07:17:00+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday Apple : les 11 meilleures offres Amazon, des AirPods Pro 3 au Macbook Air",
-      "url": "https://www.clubic.com/bons-plans-641245-black-friday-apple-les-11-meilleures-offres-amazon-des-airpods-pro-3-au-macbook-air.html",
-      "publishedAt": "2026-11-26T07:15:00+00:00"
-    },
-    {
       "source": "numerama",
       "title": "PlayStation Plus : les 3 jeux offerts en décembre 2026",
       "url": "https://www.numerama.com/pop-culture/2385097-playstation-plus-les-3-jeux-offerts-en-decembre-2026.html",
@@ -3848,24 +3884,6 @@
       "title": "Dune 3 serait meilleur que les deux premiers ? Villeneuve vous le garantit",
       "url": "https://www.mac4ever.com/culture/199274-dune-3-serait-meilleur-que-les-deux-premiers-villeneuve-vous-le-garantie",
       "publishedAt": "2026-11-25T08:12:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Huawei reconnu coupable de vol de secrets industriels",
-      "url": "https://www.generation-nt.com/actualites/huawei-vol-serets-industriels-verdict-new-york-2085050",
-      "publishedAt": "2026-11-25T08:07:29+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Premier jour TEMPO ROUGE demain chez EDF : comment consommer moins ? Solaire, EcoJoko, batteries ?",
-      "url": "https://www.mac4ever.com/ecotech/199273-premier-jour-tempo-rouge-demain-chez-edf-comment-consommer-moins-solaire-ecojoko-batteries",
-      "publishedAt": "2026-11-25T08:07:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Sony a menti sur la version PS5 de GTA 6",
-      "url": "https://www.numerama.com/pop-culture/2384141-sony-a-menti-sur-la-version-ps5-de-gta-6.html",
-      "publishedAt": "2026-11-25T08:01:12+00:00"
     },
     {
       "source": "boulet",
