@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T19:20:38.127476+00:00",
+  "generatedAt": "2026-11-27T19:30:54.951423+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T19:20:38.127476+00:00"
+      "lastSuccessAt": "2026-11-27T19:30:54.951423+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "Black Friday en direct : dernière ligne droite, les meilleures offres à saisir avant minuit",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-27T19:20:00+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "La PS5 grande absente du Black Friday ? Amazon se rattrape sur les accessoires Playstation 5",
       "url": "https://www.clubic.com/bons-plans-641566-la-ps5-grande-absente-du-black-friday-amazon-se-rattrape-sur-les-accessoires-playstation-5.html",
       "publishedAt": "2026-11-27T19:18:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "L'Ukraine abat un drone à réaction russe avec le laser Blysk",
+      "url": "https://www.generation-nt.com/actualites/ukraine-abat-drone-reaction-laser-blysk-2085150",
+      "publishedAt": "2026-11-27T19:15:01+00:00"
     },
     {
       "source": "basketusa",
@@ -164,12 +176,6 @@
       "title": "Des téléphones 4G pourraient ne plus joindre les secours après l'extinction de la 3G, l'ARCEP s'en inquiète",
       "url": "https://www.clubic.com/actualite-641563-des-telephones-4g-pourraient-ne-plus-joindre-les-secours-apres-l-extinction-de-la-3g-l-arcep-inquiete.html",
       "publishedAt": "2026-11-27T19:01:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday en direct : dernière ligne droite, les meilleures offres à saisir avant minuit",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T18:45:00+00:00"
     },
     {
       "source": "clubic",
@@ -4040,24 +4046,6 @@
       "title": "Brandon Aiyuk rejoint l’équipe d’entraînement des Commanders",
       "url": "https://touchdownactu.com/361898/brandon-aiyuk-rejoint-lequipe-dentrainement-des-commanders/",
       "publishedAt": "2026-11-25T19:34:45+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Programme du soir | Victor Wembanyama et les Spurs retrouvent les Blazers",
-      "url": "https://www.basketusa.com/news/964207/programme-du-soir-victor-wembanyama-et-les-spurs-retrouvent-les-blazers/",
-      "publishedAt": "2026-11-25T19:30:17+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Test de l’iMac M6 : toujours aussi charmant, mais toujours plus cher",
-      "url": "https://www.macg.co/tests/2026/11/test-de-limac-m6-toujours-aussi-charmant-mais-toujours-plus-cher-312653",
-      "publishedAt": "2026-11-25T19:30:08+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Décollage d’Ariane 6 : que s’est-il passé avec l’incendie déclenché par la fusée et qui a approché une cuve d’hydrogène ?",
-      "url": "https://www.numerama.com/sciences/2385057-decollage-dariane-6-que-sest-il-passe-avec-lincendie-declenche-non-loin-dune-cuve-dhydrogene.html",
-      "publishedAt": "2026-11-25T19:24:05+00:00"
     },
     {
       "source": "boulet",
