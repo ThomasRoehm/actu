@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:01:06.463364+00:00",
+  "generatedAt": "2026-11-27T12:10:41.067175+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,52 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T12:01:06.463364+00:00"
+      "lastSuccessAt": "2026-11-27T12:10:41.067175+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Le chargeur MagSafe d'Apple bradé à -37% pour le Black Friday : le prix le plus bas jamasi vu !",
+      "url": "https://www.mac4ever.com/iphone/199349-le-chargeur-magsafe-d-apple-brade-a-37-pour-le-black-friday-le-prix-le-plus-bas-jamasi-vu",
+      "publishedAt": "2026-11-27T12:07:54+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Ce géant de la tech européen veut supprimer 10 000 postes ; oui, l'IA en est la cause",
+      "url": "https://www.clubic.com/actualite-641371-ce-geant-de-la-tech-europeen-veut-supprimer-10-000-postes-oui-l-ia-en-est-la-cause.html",
+      "publishedAt": "2026-11-27T12:06:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Netflix France : 16 films et séries à voir en décembre 2026",
+      "url": "https://www.numerama.com/pop-culture/2386137-netflix-france-16-films-et-series-a-voir-en-decembre-2026.html",
+      "publishedAt": "2026-11-27T12:05:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "GTA 6 : les réglages graphiques des différentes consoles fuitent et la différence est nette",
+      "url": "https://www.journaldugeek.com/2026/11/27/gta-6-les-reglages-graphiques-des-differentes-consoles-fuitent-et-la-difference-est-nette/",
+      "publishedAt": "2026-11-27T12:04:02+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : l'excellente souris MX Master 4 de Logitech à 95 € au lieu de 130 €",
+      "url": "https://www.macg.co/materiel/2026/11/black-friday-lexcellente-souris-mx-master-4-de-logitech-95-eu-au-lieu-de-130-eu-312707",
+      "publishedAt": "2026-11-27T12:03:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Pourquoi des archéologues fouillent-ils des tas d’excréments vieux de 2 000 ans dans les latrines de Pompéi ?",
+      "url": "https://www.presse-citron.net/pourquoi-archeologues-fouillent-tas-dexcrements-vieux-2-000-ans-latrines-pompei/",
+      "publishedAt": "2026-11-27T12:02:58+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : deux robots laveurs à rouleau Lefant, à 180 € et 350 €",
+      "url": "https://www.macg.co/services/2026/11/black-friday-deux-robots-laveurs-rouleau-lefant-180-eu-et-350-eu-312457",
+      "publishedAt": "2026-11-27T12:00:26+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Fuite record : deux MILLIARDS de mots de passe Gmail, Netflix et PayPal en accès libre",
@@ -748,6 +790,12 @@
       "publishedAt": "2026-11-27T08:55:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
+      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
+      "publishedAt": "2026-11-27T08:54:53+00:00"
+    },
+    {
       "source": "presse",
       "title": "Pour le Black Friday, Roborock lâche ses meilleurs aspirateurs robots à prix cassé (jusqu’à -500 €)",
       "url": "https://www.presse-citron.net/pour-le-black-friday-roborock-lache-ses-meilleurs-aspirateurs-robots-a-prix-casse-jusqua-500-e/",
@@ -922,12 +970,6 @@
       "publishedAt": "2026-11-27T07:56:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Oscar Wembanyama, un autre chemin vers la NBA ?",
-      "url": "https://www.basketusa.com/news/964228/oscar-wembanyama-un-autre-chemin-vers-la-nba/",
-      "publishedAt": "2026-11-27T07:54:53+00:00"
-    },
-    {
       "source": "iphon",
       "title": "iPhone 20 Pro : Apple prépare une édition qui risque de coûter très cher",
       "url": "https://www.iphon.fr/post/iphone-20-pro-2027-edition-anniversaire-limite-ceramique-rumeur",
@@ -998,6 +1040,12 @@
       "title": "Les profils criminels de GTA 6 font jaser, et Rockstar le savait",
       "url": "https://www.numerama.com/pop-culture/2385817-les-profils-criminels-de-gta-6-font-jaser-et-rockstar-le-savait.html",
       "publishedAt": "2026-11-27T07:17:53+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Zion Williamson veut prendre autant de tirs que Luka Doncic",
+      "url": "https://www.basketusa.com/news/964545/zion-williamson-veut-prendre-autant-de-tirs-que-luka-doncic/",
+      "publishedAt": "2026-11-27T07:17:48+00:00"
     },
     {
       "source": "clubic",
@@ -1130,12 +1178,6 @@
       "title": "Pourquoi les promotions de ce Black Friday sont peut-être votre dernière fenêtre de tir avant 2028",
       "url": "https://www.macg.co/ailleurs/2026/11/pourquoi-les-promotions-de-ce-black-friday-sont-peut-etre-votre-derniere-fenetre-de-tir-avant-2028-312697",
       "publishedAt": "2026-11-27T06:18:30+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Zion Williamson veut prendre autant de tirs que Luka Doncic",
-      "url": "https://www.basketusa.com/news/964545/zion-williamson-veut-prendre-autant-de-tirs-que-luka-doncic/",
-      "publishedAt": "2026-11-27T06:17:48+00:00"
     },
     {
       "source": "clubic",
@@ -3968,42 +4010,6 @@
       "title": "Neemias Queta, l’ultra précieux relais intérieur des Celtics",
       "url": "https://www.basketusa.com/news/963921/neemias-queta-lultra-precieux-relais-interieur-des-celtics/",
       "publishedAt": "2026-11-25T12:14:06+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "La menace s’étend : le système OSINT de la CIA piraté, probablement par le même outil IA que la Commission européenne",
-      "url": "https://www.numerama.com/cyberguerre/2384431-la-menace-setend-le-systeme-osint-de-la-cia-pirate-probablement-par-le-meme-outil-ia-que-la-commission-europeenne.html",
-      "publishedAt": "2026-11-25T12:10:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Livret A à 30 000 € : la grosse hausse du plafond est confirmée, voici ce qui va changer",
-      "url": "https://www.presse-citron.net/livret-a-a-30-000-e-la-grosse-hausse-du-plafond-est-confirmee-voici-ce-qui-va-changer/",
-      "publishedAt": "2026-11-25T12:07:44+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Tidal déclare la guerre à la musique IA : 27 millions de titres vont disparaître",
-      "url": "https://www.clubic.com/actualite-640921-tidal-declare-la-guerre-a-la-musique-ia-27-millions-de-titres-vont-disparaitre.html",
-      "publishedAt": "2026-11-25T12:06:00+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Claude Ship peut approuver vos pull requests à votre place",
-      "url": "https://korben.info/claude-ship-peut-approuver-vos-pull-requests-a-votre-place.html",
-      "publishedAt": "2026-11-25T12:05:11+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Ladybird lance la version alpha de son navigateur web indépendant sur Mac et Linux",
-      "url": "https://www.generation-nt.com/actualites/ladybird-alpha-moteur-web-independant-2085019",
-      "publishedAt": "2026-11-25T12:05:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Honkai : Star Rail veut éviter que vos personnages préférés deviennent inutiles, et voici comment",
-      "url": "https://www.journaldugeek.com/dossier/honkai-star-rail-veut-eviter-que-vos-personnages-preferes-deviennent-inutiles-et-voici-comment/",
-      "publishedAt": "2026-11-25T12:01:59+00:00"
     },
     {
       "source": "boulet",
