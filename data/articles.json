@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T11:30:53.598690+00:00",
+  "generatedAt": "2026-11-27T11:40:47.432586+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:30:53.598690+00:00"
+      "lastSuccessAt": "2026-11-27T11:40:47.432586+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Marre de passer de guichet en guichet ? L'État brandit l'IA et lance ce qui va vraiment simplifier les services publics",
+      "url": "https://www.clubic.com/actualite-641440-marre-de-passer-de-guichet-en-guichet-l-etat-brandit-l-ia-et-lance-ce-qui-va-vraiment-simplifier-les-services-publics.html",
+      "publishedAt": "2026-11-27T11:36:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Marvel annonce un événement fan Avengers : Doomsday le 9 décembre",
+      "url": "https://www.journaldugeek.com/2026/11/27/marvel-annonce-un-evenement-fan-avengers-doomsday-le-9-decembre/",
+      "publishedAt": "2026-11-27T11:33:45+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "GTA 6 : le vrai Jason Duval est Français et il a une demande pour Rockstar Games",
+      "url": "https://www.presse-citron.net/gta-6-vrai-jason-duval-francais-rockstar-games/",
+      "publishedAt": "2026-11-27T11:30:05+00:00"
+    },
     {
       "source": "gnt",
       "title": "Temu promet des changements pour les consommateurs en Europe",
       "url": "https://www.generation-nt.com/actualites/temu-engagements-protection-consommateurs-europe-2085177",
       "publishedAt": "2026-11-27T11:30:01+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday : même avec la crise, il y a des réductions sur les SSD et les disques durs",
+      "url": "https://www.macg.co/materiel/2026/11/black-friday-meme-avec-la-crise-il-y-des-reductions-sur-les-ssd-et-les-disques-durs-312703",
+      "publishedAt": "2026-11-27T11:28:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -3980,18 +4004,6 @@
       "title": "Anthropic et OpenAI alertent : des modèles d’IA non lancés jugés potentiellement dangereux",
       "url": "https://www.clubic.com/actualite-640939-anthropic-et-openai-alertent-des-modeles-d-ia-non-lances-juges-potentiellement-dangereux.html",
       "publishedAt": "2026-11-25T11:42:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Écritures tueuses de SSD : Nvidia publie des pilotes GeForce 621.40",
-      "url": "https://www.generation-nt.com/actualites/nvidia-geforce-pilotes-bug-ecriture-ssd-2085051",
-      "publishedAt": "2026-11-25T11:40:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Les Anneaux de pouvoir : la saison 4 est confirmée, mais la fin de la série approche",
-      "url": "https://www.journaldugeek.com/2026/11/25/les-anneaux-de-pouvoir-la-serie-aura-t-elle-une-saison-4/",
-      "publishedAt": "2026-11-25T11:34:57+00:00"
     },
     {
       "source": "boulet",
