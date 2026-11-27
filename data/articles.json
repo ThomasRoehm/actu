@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:10:48.629927+00:00",
+  "generatedAt": "2026-11-27T08:20:40.780480+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T08:10:48.629927+00:00"
+      "lastSuccessAt": "2026-11-27T08:20:40.780480+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "75 millions d'euros pour les données de santé des hôpitaux, avec pas tant de souveraineté que ça, déplore la Cour des comptes",
+      "url": "https://www.clubic.com/actualite-641332-millions-d-euros-pour-les-donnees-de-sante-des-hopitaux-avec-pas-tant-de-souverainete-que-ca-deplore-la-cour-des-comptes.html",
+      "publishedAt": "2026-11-27T08:16:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : 15 produits parmi les plus achetés par nos lecteurs, en promo jusqu’à -66 %",
+      "url": "https://www.clubic.com/bons-plans-641218-black-friday-15-produits-parmi-les-plus-achetes-par-nos-lecteurs-encore-en-promo-jusqu-a--66.html",
+      "publishedAt": "2026-11-27T08:15:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday 2026 en direct : les meilleures ventes flash à saisir avant ce soir minuit",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-27T08:13:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 a failli avoir un parc d’attractions inspiré de Disney World",
+      "url": "https://www.numerama.com/pop-culture/2385841-gta-6-a-failli-avoir-un-parc-dattractions-inspire-de-disney-world.html",
+      "publishedAt": "2026-11-27T08:11:01+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Malgré sa maladresse, Carter Bryant ne doit pas hésiter",
@@ -290,12 +314,6 @@
       "title": "Black Friday : CyberGhost dégaine son offre la plus avantageuse de l'année pour Mac, iPhone et iPad (-87 % + 4 mois offerts)",
       "url": "https://www.macg.co/services/2026/11/cest-le-black-friday-protegez-votre-mac-et-votre-iphone-avec-cyberghost-83-4-mois-offerts-312613",
       "publishedAt": "2026-11-27T07:15:58+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday 2026 en direct : les meilleures ventes flash à saisir avant ce soir minuit",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T07:15:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -3860,30 +3878,6 @@
       "title": "Cyberattaque sur le CHU de Guadeloupe - les médecins reprennent le papier et le crayon",
       "url": "https://korben.info/cyberattaque-sur-le-chu-de-guadeloupe-les-medecins-reprennent-le-papier-et-le-crayon.html",
       "publishedAt": "2026-11-25T08:26:22+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La NASA cherche la perle rare pour son réacteur nucléaire sur la Lune",
-      "url": "https://www.generation-nt.com/actualites/nasa-reacteur-nucleaire-lune-choix-fournisseur-2085042",
-      "publishedAt": "2026-11-25T08:20:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Vos projets Claude peuvent maintenant devenir des apps sur Windows et Mac",
-      "url": "https://www.clubic.com/actualite-640906-vos-projets-claude-peuvent-maintenant-devenir-des-apps-sur-windows-et-mac.html",
-      "publishedAt": "2026-11-25T08:16:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : 10 TV OLED à prix FOUS jusqu'à -40%, trois jours avant le vendredi noir",
-      "url": "https://www.clubic.com/bons-plans-640159-lg-samsung-sony-philips-les-tv-oled-chutent-jusqu-a--40-pour-le-black-friday.html",
-      "publishedAt": "2026-11-25T08:15:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Dune 3 serait meilleur que les deux premiers ? Villeneuve vous le garantit",
-      "url": "https://www.mac4ever.com/culture/199274-dune-3-serait-meilleur-que-les-deux-premiers-villeneuve-vous-le-garantie",
-      "publishedAt": "2026-11-25T08:12:00+00:00"
     },
     {
       "source": "boulet",
