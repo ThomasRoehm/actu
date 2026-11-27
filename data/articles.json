@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:10:40.796541+00:00",
+  "generatedAt": "2026-11-27T10:20:37.370094+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T10:10:40.796541+00:00"
+      "lastSuccessAt": "2026-11-27T10:20:37.370094+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "GTA 6 sur PC avant l’heure : comment des moddeurs et leur IA ont réussi l’impossible sous Windows 11",
+      "url": "https://www.clubic.com/actualite-641389-gta-6-sur-pc-avant-l-heure-comment-des-moddeurs-et-leur-ia-ont-reussi-l-impossible-sous-windows-11.html",
+      "publishedAt": "2026-11-27T10:19:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Einstein, mécanique quantique et trous noirs : ce physicien propose une nouvelle théorie et GPT-6 Astra y est pour quelque chose",
+      "url": "https://www.numerama.com/sciences/2385919-einstein-mecanique-quantique-et-trous-noirs-ce-physicien-propose-une-nouvelle-theorie-et-gpt-6-astra-y-est-pour-quelque-chose.html",
+      "publishedAt": "2026-11-27T10:16:30+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Le prix des produits Apple va (encore) augmenter dans les mois à venir ?",
+      "url": "https://www.iphon.fr/post/le-prix-des-produits-apple-va-encore-augmenter-dans-les-mois-a-venir",
+      "publishedAt": "2026-11-27T10:15:09+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "XPeng : son robot humanoïde coûtera le prix d’une voiture électrique, ça vous tente ?",
+      "url": "https://www.clubic.com/actualite-641347-xpeng-son-robot-humanoide-coutera-le-prix-d-une-voiture-electrique-ca-vous-tente.html",
+      "publishedAt": "2026-11-27T10:15:00+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Arrêt du permis rose : il ne sera bientôt plus valide, voici la date limite pour le changer",
+      "url": "https://www.presse-citron.net/arret-du-permis-rose-il-ne-sera-bientot-plus-valide-voici-la-date-limite-pour-le-changer/",
+      "publishedAt": "2026-11-27T10:12:10+00:00"
+    },
     {
       "source": "numerama",
       "title": "Un mystérieux conducteur de Lyft harcèle les robotaxis Waymo avec leur jettant des œufs",
@@ -1313,21 +1343,9 @@
     },
     {
       "source": "basketusa",
-      "title": "Utah Jazz – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964222/utah-jazz-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-26T15:28:38+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "New York Knicks – Miami Heat : paris joueurs, état des blessures et pronostic | NBA",
       "url": "https://www.basketusa.com/news/964475/new-york-knicks-miami-heat-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
       "publishedAt": "2026-11-26T15:26:10+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Indiana Pacers – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964485/indiana-pacers-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
-      "publishedAt": "2026-11-26T15:24:55+00:00"
     },
     {
       "source": "numerama",
@@ -1484,6 +1502,18 @@
       "title": "WhatsApp vous permet enfin de programmer vos messages",
       "url": "https://www.generation-nt.com/actualites/whatsapp-programmer-message-planifier-2085111",
       "publishedAt": "2026-11-26T14:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Utah Jazz – Denver Nuggets : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964222/utah-jazz-denver-nuggets-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-26T14:28:38+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Indiana Pacers – Philadelphie 76ers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964485/indiana-pacers-philadelphie-76ers-paris-joueurs-etat-des-blessures-et-pronostic-nba-2/",
+      "publishedAt": "2026-11-26T14:24:55+00:00"
     },
     {
       "source": "clubic",
@@ -3950,24 +3980,6 @@
       "title": "Firefox sur iPhone - pourquoi changer de navigateur ne change presque rien",
       "url": "https://korben.info/firefox-sur-iphone-pourquoi-changer-de-navigateur-ne-change-presque-rien.html",
       "publishedAt": "2026-11-25T10:20:38+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Stations-service, distributeurs… c’est quoi le shimming, cette nouvelle arnaque indétectable qui cible vos cartes bancaires ?",
-      "url": "https://www.journaldugeek.com/2026/11/25/stations-service-distributeurs-cest-quoi-le-shimming-cette-nouvelle-arnaque-indetectable-qui-cible-vos-cartes-bancaires/",
-      "publishedAt": "2026-11-25T10:17:52+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "BYD vise la France pour sa première usine automobile en Europe occidentale",
-      "url": "https://www.generation-nt.com/actualites/byd-usine-voiture-automobile-implantation-europe-france-2085057",
-      "publishedAt": "2026-11-25T10:15:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "“Comme un oiseau malade” : un drone Amazon qui livrait du shampooing s’écrase sur le garage du voisin",
-      "url": "https://www.clubic.com/actualite-640924-comme-un-oiseau-malade-un-drone-amazon-qui-livrait-du-shampooing-s-ecrase-sur-leur-toit.html",
-      "publishedAt": "2026-11-25T10:15:00+00:00"
     },
     {
       "source": "boulet",
