@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T20:01:04.274491+00:00",
+  "generatedAt": "2026-11-27T20:10:38.892484+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T20:01:04.274491+00:00"
+      "lastSuccessAt": "2026-11-27T20:10:38.892484+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "macg",
+      "title": "À force de mettre de l’IA partout dans Photoshop, Adobe se fait retoquer par le New York Times",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/force-de-mettre-de-lia-partout-dans-photoshop-adobe-se-fait-retoquer-par-le-new-york-times-312729",
+      "publishedAt": "2026-11-27T20:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Programme du soir | Les Lakers à San Antonio, un Black Friday aux airs de playoffs",
+      "url": "https://www.basketusa.com/news/964861/programme-du-soir-les-lakers-a-san-antonio-un-black-friday-aux-airs-de-playoffs/",
+      "publishedAt": "2026-11-27T19:50:56+00:00"
+    },
     {
       "source": "gnt",
       "title": "L'iPad A16 11 pouces profite d'une belle baisse de prix à 479,99 € chez la Fnac",
@@ -298,12 +310,6 @@
       "publishedAt": "2026-11-27T17:25:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Course au MVP | Victor Wembanyama et Luka Doncic, déjà loin devant ?",
-      "url": "https://www.basketusa.com/news/964742/course-au-mvp-victor-wembanyama-et-luka-doncic-deja-loin-devant/",
-      "publishedAt": "2026-11-27T17:11:45+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Windows 11 : avis de dépréciation pour une fonctionnalité Bluetooth",
       "url": "https://www.generation-nt.com/actualites/windows-11-depreciation-bluetooth-family-safety-2085180",
@@ -422,6 +428,12 @@
       "title": "Oups, faute de permis, Google suspend son gigantesque chantier de data center en Belgique",
       "url": "https://www.generation-nt.com/actualites/google-datacenter-construction-belgique-defaut-permis-2085189",
       "publishedAt": "2026-11-27T16:15:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Course au MVP | Victor Wembanyama et Luka Doncic, déjà loin devant ?",
+      "url": "https://www.basketusa.com/news/964742/course-au-mvp-victor-wembanyama-et-luka-doncic-deja-loin-devant/",
+      "publishedAt": "2026-11-27T16:11:45+00:00"
     },
     {
       "source": "numerama",
@@ -4022,12 +4034,6 @@
       "title": "MacBook Air : après le M6, le grand chambardement ?",
       "url": "https://www.macg.co/mac/2026/11/macbook-air-apres-le-m6-le-grand-chambardement-312663",
       "publishedAt": "2026-11-25T20:30:00+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Aaron Rodgers viré par les Steelers !",
-      "url": "https://touchdownactu.com/361911/aaron-rodgers-vire-par-les-steelers/",
-      "publishedAt": "2026-11-25T20:05:12+00:00"
     },
     {
       "source": "boulet",
