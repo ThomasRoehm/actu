@@ -321,19 +321,23 @@ function render(preservePosition = true) {
       if (!days.has(day)) days.set(day, { date, articles: [] });
       days.get(day).articles.push(entry);
     }
+    const todayEntries = days.get(today);
+    byId('today-heading').hidden = !todayEntries;
+    if (todayEntries) byId('today-count').textContent = `/ ${todayEntries.articles.length}`;
     const yesterdayDate = new Date();
     yesterdayDate.setDate(yesterdayDate.getDate() - 1);
     const yesterday = yesterdayDate.toLocaleDateString('fr-FR');
     for (const [day, collection] of days) {
       const section = document.createElement('section');
       section.className = 'day-section';
-      const heading = document.createElement('h2');
-      heading.className = 'day-heading';
-      heading.textContent = !collection.date ? 'Date inconnue' : day === today ? 'Aujourd’hui' : day === yesterday ? 'Hier' : dateFormat.format(collection.date);
-      const count = document.createElement('span');
-      count.textContent = ` / ${collection.articles.length}`;
-      heading.append(count);
-      section.append(heading);
+      if (day === today) {
+        section.setAttribute('aria-labelledby', 'today-heading');
+      } else {
+        const title = !collection.date ? 'Date inconnue' : day === yesterday ? 'Hier' : dateFormat.format(collection.date);
+        const heading = element('h2', 'day-heading', title);
+        heading.append(element('span', '', ` / ${collection.articles.length}`));
+        section.append(heading);
+      }
       const list = document.createElement('div');
       list.className = 'article-list';
       for (const entry of collection.articles) list.append(articleLink(entry, sources, previous));
