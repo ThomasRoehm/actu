@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:40:41.098736+00:00",
+  "generatedAt": "2026-11-27T09:50:38.908941+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T09:40:41.098736+00:00"
+      "lastSuccessAt": "2026-11-27T09:50:38.908941+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Windows 11 distribue des pilotes Intel obsolètes et vulnérables via Windows Update",
+      "url": "https://www.clubic.com/actualite-641263-windows-update-repropose-un-pilote-intel-que-microsoft-defender-juge-vulnerable-meme-apres-sa-suppression.html",
+      "publishedAt": "2026-11-27T09:50:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "« Les mathématiques sont infinies » : face à la puissance de l’IA, le médaillé Fields Terence Tao a un plan, les maths 2.0",
+      "url": "https://www.numerama.com/tech/2385877-les-mathematiques-sont-infinies-face-a-la-puissance-de-lia-le-medaille-fields-terence-tao-a-un-plan-les-maths-2-0.html",
+      "publishedAt": "2026-11-27T09:45:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le déclic des Mavericks est venu à l’entraînement",
+      "url": "https://www.basketusa.com/news/964605/le-declic-des-mavericks-est-venu-a-lentrainement/",
+      "publishedAt": "2026-11-27T09:43:42+00:00"
+    },
+    {
+      "source": "mac4ever",
+      "title": "Le casque Beats Solo 4 bradé à moitié prix pour le Black Friday : une bonne idée cadeau !",
+      "url": "https://www.mac4ever.com/audio/199340-le-casque-beats-solo-4-brade-a-moitie-prix-pour-le-black-friday-une-bonne-idee-cadeau",
+      "publishedAt": "2026-11-27T09:42:33+00:00"
+    },
     {
       "source": "numerama",
       "title": "Trop de bips dans votre voiture neuve ? Euro NCAP s’apprête enfin à sévir",
@@ -218,6 +242,12 @@
       "title": "Black Friday 2026 en direct : les meilleures ventes flash à saisir avant ce soir minuit",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
       "publishedAt": "2026-11-27T09:23:00+00:00"
+    },
+    {
+      "source": "korben",
+      "title": "L'iPad pliable géant d'Apple pourrait coûter jusqu'à 5 000 dollars",
+      "url": "https://korben.info/lipad-pliable-geant-dapple-pourrait-couter-jusqua-5-000-dollars.html",
+      "publishedAt": "2026-11-27T09:22:46+00:00"
     },
     {
       "source": "clubic",
@@ -964,12 +994,6 @@
       "publishedAt": "2026-11-26T17:31:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "LeBron James et les « papys du triple-double »",
-      "url": "https://www.basketusa.com/news/964456/lebron-james-et-les-papys-du-triple-double/",
-      "publishedAt": "2026-11-26T17:27:28+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Le Black Friday sourit aux gamers : la Nintendo Switch 2 avec batterie remplaçable descend à 429 € chez Amazon",
       "url": "https://www.clubic.com/bons-plans-641209-le-black-friday-sourit-aux-gamers-la-nintendo-switch-2-avec-batterie-remplacable-descend-a-429-chez-amazon.html",
@@ -1076,6 +1100,12 @@
       "title": "IA : Microsoft alerte sur une vague de pannes à venir dans la tech",
       "url": "https://www.clubic.com/actualite-641269-ia-microsoft-alerte-sur-une-vague-de-pannes-tech-a-venir.html",
       "publishedAt": "2026-11-26T16:28:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "LeBron James et les « papys du triple-double »",
+      "url": "https://www.basketusa.com/news/964456/lebron-james-et-les-papys-du-triple-double/",
+      "publishedAt": "2026-11-26T16:27:28+00:00"
     },
     {
       "source": "gnt",
@@ -3920,48 +3950,6 @@
       "title": "Amazon enlève 70 € à la Switch 2 pour le Black Friday : la console de Nintendo va partir très vite",
       "url": "https://www.iphon.fr/post/amazon-enleve-70-euros-switch-2-black-friday-console-nintendo",
       "publishedAt": "2026-11-25T09:51:54+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Vous allez pouvoir reproduire l’éclairage de Vice City chez vous avec ce pack Philips Hue à prix cassé pour le Black Friday",
-      "url": "https://www.numerama.com/tech/2384201-vous-allez-pouvoir-reproduire-leclairage-de-vice-city-chez-vous-avec-ce-pack-philips-hue-a-prix-casse-pour-le-black-friday.html",
-      "publishedAt": "2026-11-25T09:50:04+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Sièges chauffants par abonnement : New York interdit de faire payer des options déjà installées d’usine",
-      "url": "https://www.numerama.com/vroom/2384193-sieges-chauffants-par-abonnement-new-york-interdit-de-faire-payer-des-options-deja-installees-dusine.html",
-      "publishedAt": "2026-11-25T09:50:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Michael Porter Jr. ne trouve plus sa place chez les Nets",
-      "url": "https://www.basketusa.com/news/963905/michael-porter-jr-ne-trouve-plus-sa-place-chez-les-nets/",
-      "publishedAt": "2026-11-25T09:46:18+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday JIMMY : jusqu'à 110 € de réduction sur les purificateurs d'eau",
-      "url": "https://www.generation-nt.com/actualites/jimmy-black-friday-purificateur-eau-r9-pro-matrix-m9-n9-2084979",
-      "publishedAt": "2026-11-25T09:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Comment la Russie utilise l'IA pour filtrer le trafic Internet",
-      "url": "https://www.clubic.com/actualite-640858-comment-la-russie-utilise-l-ia-pour-filtrer-le-trafic-internet.html",
-      "publishedAt": "2026-11-25T09:45:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Qu’est devenu l’astéroïde percuté par la Nasa ? L’ESA montre les premières images de la mission Hera en direct ce soir",
-      "url": "https://www.numerama.com/sciences/2384195-quest-devenu-lasteroide-percute-par-la-nasa-lesa-montre-les-premieres-images-de-la-mission-hera-en-direct-ce-soir.html",
-      "publishedAt": "2026-11-25T09:44:10+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Ils sont les seuls à voir les IA les plus puissantes, et ils ont peur : chez OpenAI et Anthropic, les salariés tirent la sonnette d’alarme",
-      "url": "https://www.numerama.com/tech/2384181-ils-sont-les-seuls-a-voir-les-ia-les-plus-puissantes-et-ils-ont-peur-chez-openai-et-anthropic-les-salaries-tirent-la-sonnette-dalarme.html",
-      "publishedAt": "2026-11-25T09:42:20+00:00"
     },
     {
       "source": "boulet",
