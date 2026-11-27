@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T11:10:41.094518+00:00",
+  "generatedAt": "2026-11-27T11:20:40.302643+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,39 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T11:10:41.094518+00:00"
+      "lastSuccessAt": "2026-11-27T11:20:40.302643+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
-      "title": "Le Black Friday est lancé : voici les meilleures ventes flash en direct à saisir avant ce soir minuit",
+      "title": "Black Friday : la manette sans fil Xbox passe à -35% sur Amazon, parfaite pour GTA VI !",
+      "url": "https://www.clubic.com/bons-plans-641401-black-friday-la-manette-sans-fil-xbox-passe-a--35-sur-amazon-parfaite-pour-gta-vi.html",
+      "publishedAt": "2026-11-27T11:17:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Le Black Friday, c'est parti : les meilleures offres en direct à saisir avant minuit",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T11:07:00+00:00"
+      "publishedAt": "2026-11-27T11:14:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Apple TV : voici tous les films et séries à voir en décembre",
+      "url": "https://www.iphon.fr/post/apple-tv-voici-tous-films-series-voir-decembre",
+      "publishedAt": "2026-11-27T11:13:27+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "La France se dote de ses premiers drones intercepteurs qui filent à 350 km/h pour percuter d’autres drones",
+      "url": "https://www.numerama.com/tech/2386319-la-france-se-dote-de-ses-premiers-drones-intercepteurs-qui-filent-a-350-km-h-pour-percuter-dautres-drones.html",
+      "publishedAt": "2026-11-27T11:11:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "La Grèce se saborde et voit la Coupe du Monde s’éloigner…",
+      "url": "https://www.basketusa.com/news/964666/la-grece-se-saborde-et-voit-la-coupe-du-monde-seloigner/",
+      "publishedAt": "2026-11-27T11:07:54+00:00"
     },
     {
       "source": "clubic",
@@ -3968,12 +3992,6 @@
       "title": "Cette plateforme bannie la musique générée par IA, Apple Music pourrait faire de même ?",
       "url": "https://www.iphon.fr/post/plateforme-tidal-musique-ia-apple-music",
       "publishedAt": "2026-11-25T11:21:07+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Uber Trains : vos billets de train bientôt dans l'application Uber",
-      "url": "https://www.mac4ever.com/mobilite/199280-uber-trains-vos-billets-de-train-bientot-dans-l-application-uber",
-      "publishedAt": "2026-11-25T11:15:00+00:00"
     },
     {
       "source": "boulet",
