@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:20:40.056776+00:00",
+  "generatedAt": "2026-11-27T07:30:56.711265+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-27T07:20:40.056776+00:00"
+      "lastSuccessAt": "2026-11-27T07:30:56.711265+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "gnt",
+      "title": "Le Congrès américain s'affole face aux modèles d'IA autonomes incontrôlables",
+      "url": "https://www.generation-nt.com/actualites/congres-democrates-regulation-intelligence-artificielle-2085138",
+      "publishedAt": "2026-11-27T07:20:01+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Boulanger : TOP 15 des offres qui valent vraiment le détour et qui disparaissent ce soir",
@@ -146,6 +152,12 @@
       "title": "Les profils criminels de GTA 6 font jaser, et Rockstar le savait",
       "url": "https://www.numerama.com/pop-culture/2385817-les-profils-criminels-de-gta-6-font-jaser-et-rockstar-le-savait.html",
       "publishedAt": "2026-11-27T07:17:53+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Zion Williamson veut prendre autant de tirs que Luka Doncic",
+      "url": "https://www.basketusa.com/news/964545/zion-williamson-veut-prendre-autant-de-tirs-que-luka-doncic/",
+      "publishedAt": "2026-11-27T07:17:48+00:00"
     },
     {
       "source": "clubic",
@@ -3836,30 +3848,6 @@
       "title": "Porsche a imaginé un système digne d’un avion de chasse pour permettre à ses sportives de prendre les virages à pleine vitesse",
       "url": "https://www.presse-citron.net/porsche-imagine-systeme-avion-chasse-permettre-sportives-prendre-virages-pleine-vitesse/",
       "publishedAt": "2026-11-25T07:32:43+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Norton : jusqu’à -74 %* sur Norton 360 pour vous protéger des arnaques en ligne",
-      "url": "https://www.clubic.com/bons-plans-640153-black-friday-norton-jusqu-a--74-sur-norton-360-pour-vous-proteger-des-arnaques-en-ligne.html",
-      "publishedAt": "2026-11-25T07:30:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Créer sa propre app Mac en 5 minutes ? C’est désormais possible avec Claude",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/creer-sa-propre-app-mac-en-5-minutes-cest-desormais-possible-avec-claude-312639",
-      "publishedAt": "2026-11-25T07:30:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "L’iPhone 18e devrait changer de look",
-      "url": "https://www.journaldugeek.com/2026/11/25/liphone-18e-devrait-changer-de-look/",
-      "publishedAt": "2026-11-25T07:29:47+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Steve Kerr toujours l’entraîneur le mieux payé de NBA",
-      "url": "https://www.basketusa.com/news/963801/steve-kerr-reste-lentraineur-le-mieux-paye-de-nba/",
-      "publishedAt": "2026-11-25T07:27:10+00:00"
     },
     {
       "source": "boulet",
