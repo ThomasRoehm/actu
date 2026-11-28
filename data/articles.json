@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T16:30:52.700305+00:00",
+  "generatedAt": "2026-11-28T16:40:41.996870+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
+      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
     },
     {
       "id": "boulet",
@@ -129,12 +129,24 @@
       "group": "BD",
       "language": "fr",
       "icon": "icons/boulet.jpg",
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTP Error 502: Bad Gateway",
       "lastSuccessAt": "2026-11-28T16:30:52.700305+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "BYD présente en détail son projet d'implantation à Hambach",
+      "url": "https://www.clubic.com/actualite-641665-byd-a-presente-en-detail-son-projet-implantation-hambach.html",
+      "publishedAt": "2026-11-28T16:37:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Entre marché noir et circuits financiers, les puces Nvidia sous embargo continuent de trouver leur chemin jusqu’en Chine",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/entre-marche-noir-et-circuits-financiers-les-puces-nvidia-sous-embargo-continuent-de-trouver-leur-chemin-jusquen-chine-312735",
+      "publishedAt": "2026-11-28T16:31:09+00:00"
+    },
     {
       "source": "clubic",
       "title": "Plus que quelques jours pour profiter de Deezer Premium à 1 € par mois pendant 4 mois",
@@ -418,12 +430,6 @@
       "publishedAt": "2026-11-28T12:10:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Comparé à Shaq, Victor Wembanyama ne manque pas de répartie",
-      "url": "https://www.basketusa.com/news/965087/compare-a-shaq-victor-wembanyama-ne-manque-pas-de-repartie/",
-      "publishedAt": "2026-11-28T12:08:28+00:00"
-    },
-    {
       "source": "numerama",
       "title": "On a (enfin) fini GTA 6 et, oui, il est extraordinaire",
       "url": "https://www.numerama.com/pop-culture/2386719-on-a-enfin-fini-gta-6-et-oui-il-est-extraordinaire.html",
@@ -482,6 +488,12 @@
       "title": "CrowdStrike rachète Zscaler pour 44 milliards de dollars",
       "url": "https://www.generation-nt.com/actualites/crowdsrike-rachat-zscaler-44-milliards-dollars-cybersecurite-2084989",
       "publishedAt": "2026-11-28T11:10:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Comparé à Shaq, Victor Wembanyama ne manque pas de répartie",
+      "url": "https://www.basketusa.com/news/965087/compare-a-shaq-victor-wembanyama-ne-manque-pas-de-repartie/",
+      "publishedAt": "2026-11-28T11:08:28+00:00"
     },
     {
       "source": "clubic",
@@ -622,12 +634,6 @@
       "publishedAt": "2026-11-28T09:30:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
-      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
-      "publishedAt": "2026-11-28T09:21:11+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Black Friday : 600€ en moins sur ce pack Pixel 11 Pro XL, avec une enceinte B&O dans la boîte !",
       "url": "https://www.clubic.com/bons-plans-641590-black-friday-600-en-moins-sur-ce-pack-pixel-11-pro-xl-avec-une-enceinte-b-o-dans-la-boite.html",
@@ -722,6 +728,12 @@
       "title": "Si vous aviez raté le MacBook Neo avant la hausse de juin, Amazon vous offre une seconde chance pour le Black Friday",
       "url": "https://www.numerama.com/tech/2386701-si-vous-aviez-rate-le-macbook-neo-avant-la-hausse-de-juin-amazon-vous-offre-une-seconde-chance-pour-le-black-friday.html",
       "publishedAt": "2026-11-28T08:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
+      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
+      "publishedAt": "2026-11-28T08:21:11+00:00"
     },
     {
       "source": "mac4ever",
@@ -905,12 +917,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
-      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
-      "publishedAt": "2026-11-28T06:05:46+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Les Grizzlies font craquer les Wolves et filent en quarts de finale",
       "url": "https://www.basketusa.com/news/964918/les-grizzlies-font-craquer-les-wolves-et-filent-en-quarts-de-finale/",
       "publishedAt": "2026-11-28T05:58:48+00:00"
@@ -932,6 +938,12 @@
       "title": "Avec un immense Giannis, le Heat sort les Knicks de la NBA Cup",
       "url": "https://www.basketusa.com/news/964873/avec-un-monstrueux-giannis-le-heat-elimine-les-knicks-de-la-nba-cup/",
       "publishedAt": "2026-11-28T05:28:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
+      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
+      "publishedAt": "2026-11-28T05:05:46+00:00"
     },
     {
       "source": "tda",
@@ -3200,12 +3212,6 @@
       "title": "iPhone 18e : Apple s'accrocherait encore à l'écran 60 Hz en 2027",
       "url": "https://www.mac4ever.com/iphone/199327-iphone-18e-apple-s-accrocherait-encore-a-l-ecran-60-hz-en-2027",
       "publishedAt": "2026-11-26T16:41:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Menthol, pastilles pour la gorge… pourquoi ces produits vont être interdits en pharmacie ?",
-      "url": "https://www.journaldugeek.com/2026/11/26/menthol-pastilles-pour-la-gorge-pourquoi-ces-produits-vont-etre-interdits-en-pharmacie/",
-      "publishedAt": "2026-11-26T16:32:43+00:00"
     },
     {
       "source": "boulet",
