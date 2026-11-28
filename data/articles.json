@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:50:41.851688+00:00",
+  "generatedAt": "2026-11-28T06:01:02.521708+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T05:50:41.851688+00:00"
+      "lastSuccessAt": "2026-11-28T06:01:02.521708+00:00"
     }
   ],
   "articles": [
@@ -212,6 +212,12 @@
       "title": "L'Ukraine abat un drone à réaction russe avec le laser Blysk",
       "url": "https://www.generation-nt.com/actualites/ukraine-abat-drone-reaction-laser-blysk-2085150",
       "publishedAt": "2026-11-27T19:15:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Bleus valident leur billet pour la Coupe du monde 2027 !",
+      "url": "https://www.basketusa.com/news/964846/les-bleus-valident-leur-billet-pour-la-coupe-du-monde-2027/",
+      "publishedAt": "2026-11-27T19:07:10+00:00"
     },
     {
       "source": "jdg",
@@ -296,12 +302,6 @@
       "title": "Black Friday 2026 : quelques-unes de nos offres préférées",
       "url": "https://www.macg.co/materiel/2026/11/black-friday-2026-quelques-unes-de-nos-offres-preferees-312727",
       "publishedAt": "2026-11-27T18:08:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Bleus valident leur billet pour la Coupe du monde 2027 !",
-      "url": "https://www.basketusa.com/news/964846/les-bleus-valident-leur-billet-pour-la-coupe-du-monde-2027/",
-      "publishedAt": "2026-11-27T18:07:10+00:00"
     },
     {
       "source": "gnt",
@@ -4004,24 +4004,6 @@
       "title": "Huawei lance l’Apple Watch Air avant Apple",
       "url": "https://www.journaldugeek.com/2026/11/26/huawei-lance-lapple-watch-air-avant-apple/",
       "publishedAt": "2026-11-26T06:02:27+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Crédit Agricole doit rembourser la victime d’un faux conseiller",
-      "url": "https://www.clubic.com/actualite-641086-le-credit-agricole-doit-rembourser-la-victime-d-un-faux-conseiller.html",
-      "publishedAt": "2026-11-26T06:00:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Alperen Sengun et les Rockets stoppent la dynamique des Suns",
-      "url": "https://www.basketusa.com/news/964244/alperen-sengun-et-les-rockets-stoppent-la-bonne-dynamique-des-suns/",
-      "publishedAt": "2026-11-26T05:54:57+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "7 millions de Français ne partent plus en randonnée sans cette application : les secrets d’AllTrails",
-      "url": "https://www.presse-citron.net/7-millions-de-francais-ne-partent-plus-en-randonnee-sans-cette-applications-les-secrets-dalltrails/",
-      "publishedAt": "2026-11-26T05:53:53+00:00"
     },
     {
       "source": "boulet",
