@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:01:03.424496+00:00",
+  "generatedAt": "2026-11-28T13:10:37.965379+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
+      "lastSuccessAt": "2026-11-28T13:10:37.965379+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "mac4ever",
+      "title": "Lutte contre les feux de voitures électriques : notre enquete auprès des sapeurs-pompiers",
+      "url": "https://www.mac4ever.com/mobilite/198823-lutte-contre-les-feux-de-voitures-electriques-notre-enquete-aupres-des-sapeurs-pompiers",
+      "publishedAt": "2026-11-28T13:10:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday en direct : les meilleures offres encore valables ce week-end, jusqu'au Cyber Monday",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-28T13:09:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "Sorties jeux iPhone : calmes et jolis, voici 4 nouveaux titres parfaits pour le week-end",
+      "url": "https://www.iphon.fr/post/meilleurs-jeux-iphone-ipad-semaines-48-2026",
+      "publishedAt": "2026-11-28T13:03:24+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "« Les effets sur notre quotidien sont concrets » : pourquoi l’arrivée des méga-data centers concerne tous les Français",
+      "url": "https://www.presse-citron.net/les-effets-sur-notre-quotidien-sont-concrets-pourquoi-larrivee-des-mega-data-centers-concerne-tous-les-francais/",
+      "publishedAt": "2026-11-28T13:00:30+00:00"
+    },
     {
       "source": "numerama",
       "title": "GTA VI utilise son retour haptique dans tout le jeu, et la manette DualSense tombe à 48,99 € pour le Black Friday",
@@ -194,6 +218,12 @@
       "title": "Des moddeurs font tourner GTA 6 sur Mac grâce à l'IA, mais il y a encore un gros hic",
       "url": "https://www.clubic.com/actualite-641611-des-moddeurs-font-tourner-gta-6-sur-mac-grace-a-l-ia-mais-il-y-a-encore-un-gros-hic.html",
       "publishedAt": "2026-11-28T11:59:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Luka Doncic avait personnellement réclamé Walker Kessler",
+      "url": "https://www.basketusa.com/news/964875/luka-doncic-avait-personnellement-reclame-walker-kessler/",
+      "publishedAt": "2026-11-28T11:56:50+00:00"
     },
     {
       "source": "clubic",
@@ -268,12 +298,6 @@
       "publishedAt": "2026-11-28T10:59:38+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Luka Doncic avait personnellement réclamé Walker Kessler",
-      "url": "https://www.basketusa.com/news/964875/luka-doncic-avait-personnellement-reclame-walker-kessler/",
-      "publishedAt": "2026-11-28T10:56:50+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Le Galaxy S27 Ultra ferait un bond majeur en photo de nuit",
       "url": "https://www.clubic.com/actualite-641599-le-galaxy-s27-ultra-ferait-un-bond-majeur-en-photo-de-nuit.html",
@@ -308,12 +332,6 @@
       "title": "Mike Brown avertit les Knicks : à force de jouer avec le feu…",
       "url": "https://www.basketusa.com/news/964985/mike-brown-avertit-les-knicks-a-force-de-jouer-avec-le-feu/",
       "publishedAt": "2026-11-28T10:32:24+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday en direct : les meilleures offres encore valables ce week-end, jusqu'au Cyber Monday",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-28T10:30:00+00:00"
     },
     {
       "source": "clubic",
@@ -380,12 +398,6 @@
       "title": "La HAS et la CNIL listent les obligations des cabinets médicaux équipés d'IA",
       "url": "https://www.clubic.com/actualite-641584-ia-en-soins-la-has-et-la-cnil-publient-un-guide-essentiel-pour-encadrer-les-pratiques-medicales.html",
       "publishedAt": "2026-11-28T09:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
-      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
-      "publishedAt": "2026-11-28T09:21:11+00:00"
     },
     {
       "source": "clubic",
@@ -484,6 +496,12 @@
       "publishedAt": "2026-11-28T08:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
+      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
+      "publishedAt": "2026-11-28T08:21:11+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Black Friday : CyberGhost VPN casse son prix à 1,59 €/mois (-87 %) avec 4 mois offerts",
       "url": "https://www.mac4ever.com/securite/199360-black-friday-cyberghost-vpn-casse-son-prix-a-1-59-mois-87-avec-4-mois-offerts",
@@ -548,12 +566,6 @@
       "title": "Le display de 36 boosters Pokémon Équilibre Parfait passe en promo pour le Black Friday",
       "url": "https://www.numerama.com/pop-culture/2387021-le-display-de-36-boosters-pokemon-equilibre-parfait-passe-en-promo-pour-le-black-friday.html",
       "publishedAt": "2026-11-28T07:42:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
-      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
-      "publishedAt": "2026-11-28T07:42:09+00:00"
     },
     {
       "source": "jdg",
@@ -641,9 +653,9 @@
     },
     {
       "source": "basketusa",
-      "title": "Pour prendre le quart, les Blazers assomment les Warriors d’entrée",
-      "url": "https://www.basketusa.com/news/964947/pour-prendre-le-quart-les-blazers-assomment-les-warriors-dentree/",
-      "publishedAt": "2026-11-28T06:47:31+00:00"
+      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
+      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
+      "publishedAt": "2026-11-28T06:42:09+00:00"
     },
     {
       "source": "macg",
@@ -674,6 +686,12 @@
       "title": "Les Grizzlies font craquer les Wolves et filent en quarts de finale",
       "url": "https://www.basketusa.com/news/964918/les-grizzlies-font-craquer-les-wolves-et-filent-en-quarts-de-finale/",
       "publishedAt": "2026-11-28T05:58:48+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Pour prendre le quart, les Blazers assomment les Warriors d’entrée",
+      "url": "https://www.basketusa.com/news/964947/pour-prendre-le-quart-les-blazers-assomment-les-warriors-dentree/",
+      "publishedAt": "2026-11-28T05:47:31+00:00"
     },
     {
       "source": "basketusa",
@@ -3464,36 +3482,6 @@
       "title": "Test du devolo WiFi 7 Mesh BE9300 : un réseau ultra-rapide en quelques minutes !",
       "url": "https://www.mac4ever.com/divers/199253-test-du-devolo-wifi-7-mesh-be9300-un-reseau-ultra-rapide-en-quelques-minutes",
       "publishedAt": "2026-11-26T13:15:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "FIFA piratée : des hackers ont accédé à des données personnelles",
-      "url": "https://www.clubic.com/actualite-641206-fifa-piratee-des-hackers-ont-accede-a-des-donnees-personnelles.html",
-      "publishedAt": "2026-11-26T13:10:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Atos mise sur le Français Scaleway pour faire migrer les données sensibles vers le cloud souverain",
-      "url": "https://www.clubic.com/actualite-641137-atos-mise-sur-le-francais-scaleway-pour-faire-migrer-les-donnees-sensibles-vers-le-cloud-souverain.html",
-      "publishedAt": "2026-11-26T13:09:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Station de charge 3-en-1 MagSafe à -62 % : le bon plan est fou",
-      "url": "https://www.iphon.fr/post/station-de-charge-3-en-1-magsafe-62-pourcents-bon-plan-fou",
-      "publishedAt": "2026-11-26T13:06:51+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Le Black Friday chez Amazon fait mouche : jusqu’à -59 % chez Bose",
-      "url": "https://www.iphon.fr/post/offres-bose-black-friday-amazon-2026",
-      "publishedAt": "2026-11-26T13:03:25+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Palo Alto corrige une faille Linux exploitée par des pirates pour prendre le contrôle de ses pare-feu",
-      "url": "https://www.clubic.com/actualite-641143-palo-alto-corrige-une-faille-linux-exploitee-par-des-pirates-pour-prendre-le-controle-de-ses-pare-feu.html",
-      "publishedAt": "2026-11-26T13:02:00+00:00"
     },
     {
       "source": "boulet",
