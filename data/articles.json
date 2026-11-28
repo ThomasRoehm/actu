@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T14:40:38.817007+00:00",
+  "generatedAt": "2026-11-28T14:50:39.084690+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:40:38.817007+00:00"
+      "lastSuccessAt": "2026-11-28T14:50:39.084690+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Recyclez votre vieux PC portable en y installant cette version PC de LineageOS",
+      "url": "https://www.clubic.com/actualite-641629-lineageos-debarque-sur-pc-transformez-votre-ordinateur-en-machine-android-ultra-fluide.html",
+      "publishedAt": "2026-11-28T14:46:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Les Suns concèdent leur « pire défaite de la saison »",
@@ -592,6 +598,12 @@
       "publishedAt": "2026-11-28T08:07:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "La drôle d’altercation entre Luka Doncic et un fan des Spurs",
+      "url": "https://www.basketusa.com/news/964986/a-san-antonio-la-drole-daltercation-de-luka-doncic-avec-un-spectateur/",
+      "publishedAt": "2026-11-28T08:05:49+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Des amateurs dénichent des exoplanètes et des planètes naines grâce à Claude",
       "url": "https://www.generation-nt.com/actualites/amateurs-denichent-exoplanetes-grace-claude-2084948",
@@ -700,12 +712,6 @@
       "publishedAt": "2026-11-28T07:07:58+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "La drôle d’altercation entre Luka Doncic et un fan des Spurs",
-      "url": "https://www.basketusa.com/news/964986/a-san-antonio-la-drole-daltercation-de-luka-doncic-avec-un-spectateur/",
-      "publishedAt": "2026-11-28T07:05:49+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Après cinq ans d’attente, cette suite Marvel tant espérée prend enfin forme",
       "url": "https://www.journaldugeek.com/2026/11/28/apres-cinq-ans-dattente-cette-suite-marvel-tant-esperee-prend-enfin-forme/",
@@ -767,6 +773,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
+      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
+      "publishedAt": "2026-11-28T06:05:46+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Les Grizzlies font craquer les Wolves et filent en quarts de finale",
       "url": "https://www.basketusa.com/news/964918/les-grizzlies-font-craquer-les-wolves-et-filent-en-quarts-de-finale/",
       "publishedAt": "2026-11-28T05:58:48+00:00"
@@ -788,12 +800,6 @@
       "title": "Avec un immense Giannis, le Heat sort les Knicks de la NBA Cup",
       "url": "https://www.basketusa.com/news/964873/avec-un-monstrueux-giannis-le-heat-elimine-les-knicks-de-la-nba-cup/",
       "publishedAt": "2026-11-28T05:28:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
-      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
-      "publishedAt": "2026-11-28T05:05:46+00:00"
     },
     {
       "source": "tda",
@@ -3320,54 +3326,6 @@
       "title": "Adieu Microsoft Word et Excel : voici l’alternative européenne qui vient de débarquer",
       "url": "https://www.presse-citron.net/adieu-microsoft-word-et-excel-voici-lalternative-europeenne-qui-vient-de-debarquer/",
       "publishedAt": "2026-11-26T14:56:08+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Google soutient Mozilla contre les règles iOS d'Apple en Europe",
-      "url": "https://www.generation-nt.com/actualites/google-soutient-mozilla-navigateurs-ios-2085089",
-      "publishedAt": "2026-11-26T14:50:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "La Air Jordan 41 « Amethyst » brillera à minuit",
-      "url": "https://www.basketusa.com/news/964518/la-air-jordan-41-amethyst-brillera-a-minuit/",
-      "publishedAt": "2026-11-26T14:49:06+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "L’Apple Store en ligne ferme progressivement de par le monde pour préparer le Black Friday",
-      "url": "https://www.macg.co/aapl/2026/11/lapple-store-en-ligne-ferme-progressivement-de-par-le-monde-pour-preparer-le-black-friday-312685",
-      "publishedAt": "2026-11-26T14:49:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« On a fait une erreur de facturation » : OpenAI corrige le tir, et vos quotas GPT-6.2 vont fondre jusqu’à 40 % plus vite",
-      "url": "https://www.numerama.com/tech/2385489-on-a-fait-une-erreur-de-facturation-openai-corrige-le-tir-et-vos-quotas-gpt-6-2-vont-fondre-jusqua-40-plus-vite.html",
-      "publishedAt": "2026-11-26T14:47:30+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Black Friday c'est demain : qu’est-ce qui vaut vraiment le coup chez Amazon ? 50 offres jusqu’à -67%",
-      "url": "https://www.clubic.com/bons-plans-641023-amazon-frappe-fort-pour-son-black-friday-voici-50-offres-tech-jusqu-a--67.html",
-      "publishedAt": "2026-11-26T14:46:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Vos panneaux solaires de 2010 pourraient perdre leur tarif à 0,58 euro",
-      "url": "https://www.clubic.com/actualite-641221-vos-panneaux-solaires-de-2010-pourraient-perdre-leur-tarif-a-0-58-euro.html",
-      "publishedAt": "2026-11-26T14:45:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "F1, le film est disponible sur Apple TV en France, presque un an après le reste du monde, à cause de la chronologie des médias",
-      "url": "https://www.macg.co/video/2026/11/f1-le-film-est-disponible-sur-apple-tv-en-france-presque-un-apres-le-reste-du-monde-cause-de-la-chronologie-des-medias-312683",
-      "publishedAt": "2026-11-26T14:45:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "BMW iX5 : que se passe-t-il quand sa batterie tombe à 0 % ?",
-      "url": "https://www.mac4ever.com/auto/199323-bmw-ix5-que-se-passe-t-il-quand-sa-batterie-tombe-a-0",
-      "publishedAt": "2026-11-26T14:41:00+00:00"
     },
     {
       "source": "boulet",
