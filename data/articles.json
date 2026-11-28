@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T12:10:39.452197+00:00",
+  "generatedAt": "2026-11-28T12:20:38.942633+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:10:39.452197+00:00"
+      "lastSuccessAt": "2026-11-28T12:20:38.942633+00:00"
     }
   ],
   "articles": [
@@ -140,6 +140,12 @@
       "title": "On a (enfin) fini GTA 6 et, oui, il est extraordinaire",
       "url": "https://www.numerama.com/pop-culture/2386719-on-a-enfin-fini-gta-6-et-oui-il-est-extraordinaire.html",
       "publishedAt": "2026-11-28T12:01:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Fan de Loups-Garous sur Canal+ ? Ce jeu indé vous transforme en enquêteur parano",
+      "url": "https://www.journaldugeek.com/test/fan-de-loups-garous-sur-canal-ce-jeu-inde-vous-transforme-en-enqueteur-parano/",
+      "publishedAt": "2026-11-28T12:00:14+00:00"
     },
     {
       "source": "clubic",
@@ -3536,18 +3542,6 @@
       "title": "Nvidia accepte de payer pour oublier un litige sur les cryptomonnaies",
       "url": "https://www.generation-nt.com/actualites/nvidia-accord-actionnaires-cryptomonnaie-minage-2085110",
       "publishedAt": "2026-11-26T12:25:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "X déploie un contrôle parental pour les comptes des ados",
-      "url": "https://www.clubic.com/actualite-641179-x-deploie-un-controle-parental-pour-les-comptes-des-ados.html",
-      "publishedAt": "2026-11-26T12:15:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "1Password confirme une fuite de données massive !",
-      "url": "https://www.mac4ever.com/securite/199319-1password-confirme-une-fuite-de-donnees-massive",
-      "publishedAt": "2026-11-26T12:11:00+00:00"
     },
     {
       "source": "boulet",
