@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:01:03.948552+00:00",
+  "generatedAt": "2026-11-28T09:10:37.038620+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,40 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
+      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : MacBook Air M5, Dell XPS 13, PC gamer RTX… Amazon garde 17 PC portables en promo jusqu'au Cyber Monday",
+      "url": "https://www.clubic.com/bons-plans-641353-black-friday-voici-15-pc-portables-a-moins-de-500-a-prix-dingues-jusqu-a--50.html",
+      "publishedAt": "2026-11-28T09:05:00+00:00"
+    },
+    {
+      "source": "iphon",
+      "title": "iPhone 18 Pro : combien de jours de salaire faut-il à un Français moyen pour se l’acheter ?",
+      "url": "https://www.iphon.fr/post/iphone-18-pro-combien-jours-salaire-faut-francais-moyen-acheter",
+      "publishedAt": "2026-11-28T09:03:11+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Cette nouvelle fonctionnalité WhatsApp va sauver votre vie sociale",
+      "url": "https://www.journaldugeek.com/2026/11/28/cette-nouvelle-fonctionnalite-whatsapp-va-sauver-votre-vie-sociale/",
+      "publishedAt": "2026-11-28T09:00:21+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Ce téléphone est le seul à m’avoir convaincu d’abandonner mon iPhone : un mois avec le vivo X500 Pro Max",
+      "url": "https://www.presse-citron.net/test-vivo-x500-pro-max/",
+      "publishedAt": "2026-11-28T09:00:13+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Derrière le record de Giannis Antetokounmpo, le précieux travail de Bam Adebayo",
+      "url": "https://www.basketusa.com/news/965000/derriere-le-record-de-giannis-antetokounmpo-le-precieux-travail-de-bam-adebayo/",
+      "publishedAt": "2026-11-28T08:57:46+00:00"
+    },
     {
       "source": "numerama",
       "title": "« La singularité a déjà commencé » : l’IA écrit des preuves plus vite que les mathématiciens ne peuvent les lire, et selon le cofondateur d’Anthropic ce n’est que le début",
@@ -1928,12 +1958,6 @@
       "title": "L'iPad pliable géant d'Apple pourrait coûter jusqu'à 5 000 dollars",
       "url": "https://korben.info/lipad-pliable-geant-dapple-pourrait-couter-jusqua-5-000-dollars.html",
       "publishedAt": "2026-11-27T09:22:46+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : voici 15 PC portables à moins de 500€ à prix DINGUES, jusqu'à -50% !",
-      "url": "https://www.clubic.com/bons-plans-641353-black-friday-voici-15-pc-portables-a-moins-de-500-a-prix-dingues-jusqu-a--50.html",
-      "publishedAt": "2026-11-27T09:21:00+00:00"
     },
     {
       "source": "basketusa",
@@ -3788,36 +3812,6 @@
       "title": "🔴 Neige et verglas, -8°C : une vague de froid va déferler sur la France dès ce vendredi",
       "url": "https://www.presse-citron.net/%f0%9f%94%b4-neige-et-verglas-8c-une-vague-de-froid-va-deferler-sur-la-france-des-ce-vendredi/",
       "publishedAt": "2026-11-26T09:11:30+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "SpaceX obtient le feu vert pour 1 million de serveurs spatiaux Starmind en orbite basse !",
-      "url": "https://www.generation-nt.com/actualites/spacex-starmind-faa-accord-1-million-satellites-datacenter-spatial-2085108",
-      "publishedAt": "2026-11-26T09:10:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "De retour en stock, le nouveau Pixel 11 Pro passe sous les 900€ pour le Black Friday",
-      "url": "https://www.clubic.com/bons-plans-640225-black-friday-sorti-il-y-a-peu-le-google-pixel-11-pro-de-256-go-passe-a-899-chez-amazon.html",
-      "publishedAt": "2026-11-26T09:05:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Même quand ça fonctionne, les Bucks lâchent",
-      "url": "https://www.basketusa.com/news/964313/meme-quand-ca-fonctionne-les-bucks-lachent/",
-      "publishedAt": "2026-11-26T09:02:25+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "Brock Purdy touché : les 5 infos NFL du jeudi",
-      "url": "https://touchdownactu.com/361896/brock-purdy-touche-les-5-infos-nfl-du-jeudi/",
-      "publishedAt": "2026-11-26T09:02:23+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Gemini Notebook veut vous faire réviser comme un pro et ses nouvelles fiches ont de quoi séduire",
-      "url": "https://www.clubic.com/actualite-641095-gemini-notebook-veut-vous-faire-reviser-comme-un-pro-et-ses-nouvelles-fiches-ont-de-quoi-seduire.html",
-      "publishedAt": "2026-11-26T09:02:00+00:00"
     },
     {
       "source": "boulet",
