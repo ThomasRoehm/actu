@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:50:37.053979+00:00",
+  "generatedAt": "2026-11-28T10:01:04.234571+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:50:37.053979+00:00"
+      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday Cdiscount : voici 12 offres de FOLIE à saisir ce week-end, jusqu'à -50%",
+      "url": "https://www.clubic.com/bons-plans-641254-black-friday-cdiscount-brade-tout-son-site-avec-des-ventes-flash-jusqu-a-moins-50.html",
+      "publishedAt": "2026-11-28T09:59:00+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Rob Dillingham mis au sol par un coup de poing en G-League",
@@ -154,10 +160,22 @@
       "publishedAt": "2026-11-28T09:34:07+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Black Friday Amazon : le vidéoprojecteur portable Anker Nebula Mars 3 Air s'affiche à prix cassé",
+      "url": "https://www.generation-nt.com/actualites/amazon-black-friday-videoprojecteur-portable-anker-nebula-mars-3-air-full-hd-netflix-google-tv-pas-cher-2085201",
+      "publishedAt": "2026-11-28T09:30:01+00:00"
+    },
+    {
       "source": "clubic",
       "title": "La HAS et la CNIL listent les obligations des cabinets médicaux équipés d'IA",
       "url": "https://www.clubic.com/actualite-641584-ia-en-soins-la-has-et-la-cnil-publient-un-guide-essentiel-pour-encadrer-les-pratiques-medicales.html",
       "publishedAt": "2026-11-28T09:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
+      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
+      "publishedAt": "2026-11-28T09:21:11+00:00"
     },
     {
       "source": "clubic",
@@ -262,12 +280,6 @@
       "publishedAt": "2026-11-28T08:30:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
-      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
-      "publishedAt": "2026-11-28T08:21:11+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Black Friday : CyberGhost VPN casse son prix à 1,59 €/mois (-87 %) avec 4 mois offerts",
       "url": "https://www.mac4ever.com/securite/199360-black-friday-cyberghost-vpn-casse-son-prix-a-1-59-mois-87-avec-4-mois-offerts",
@@ -332,6 +344,12 @@
       "title": "Le display de 36 boosters Pokémon Équilibre Parfait passe en promo pour le Black Friday",
       "url": "https://www.numerama.com/pop-culture/2387021-le-display-de-36-boosters-pokemon-equilibre-parfait-passe-en-promo-pour-le-black-friday.html",
       "publishedAt": "2026-11-28T07:42:38+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
+      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
+      "publishedAt": "2026-11-28T07:42:09+00:00"
     },
     {
       "source": "jdg",
@@ -430,12 +448,6 @@
       "publishedAt": "2026-11-28T06:47:31+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
-      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
-      "publishedAt": "2026-11-28T06:42:09+00:00"
-    },
-    {
       "source": "macg",
       "title": "Bon plan : le MacBook Air M5 de 13 pouces passe à 1 149 € chez Amazon",
       "url": "https://www.macg.co/mac/2026/11/bon-plan-le-macbook-air-m5-de-13-pouces-passe-1-149-eu-chez-amazon-312733",
@@ -452,6 +464,12 @@
       "title": "Les Celtics se sabordent face aux Hawks…",
       "url": "https://www.basketusa.com/news/964905/les-celtics-se-sabordent-face-aux-hawks/",
       "publishedAt": "2026-11-28T06:23:22+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
+      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
+      "publishedAt": "2026-11-28T06:05:46+00:00"
     },
     {
       "source": "basketusa",
@@ -476,12 +494,6 @@
       "title": "Avec un immense Giannis, le Heat sort les Knicks de la NBA Cup",
       "url": "https://www.basketusa.com/news/964873/avec-un-monstrueux-giannis-le-heat-elimine-les-knicks-de-la-nba-cup/",
       "publishedAt": "2026-11-28T05:28:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
-      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
-      "publishedAt": "2026-11-28T05:05:46+00:00"
     },
     {
       "source": "tda",
@@ -688,6 +700,12 @@
       "publishedAt": "2026-11-27T17:25:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Course au MVP | Victor Wembanyama et Luka Doncic, déjà loin devant ?",
+      "url": "https://www.basketusa.com/news/964742/course-au-mvp-victor-wembanyama-et-luka-doncic-deja-loin-devant/",
+      "publishedAt": "2026-11-27T17:11:45+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Windows 11 : avis de dépréciation pour une fonctionnalité Bluetooth",
       "url": "https://www.generation-nt.com/actualites/windows-11-depreciation-bluetooth-family-safety-2085180",
@@ -800,12 +818,6 @@
       "title": "Oups, faute de permis, Google suspend son gigantesque chantier de data center en Belgique",
       "url": "https://www.generation-nt.com/actualites/google-datacenter-construction-belgique-defaut-permis-2085189",
       "publishedAt": "2026-11-27T16:15:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Course au MVP | Victor Wembanyama et Luka Doncic, déjà loin devant ?",
-      "url": "https://www.basketusa.com/news/964742/course-au-mvp-victor-wembanyama-et-luka-doncic-deja-loin-devant/",
-      "publishedAt": "2026-11-27T16:11:45+00:00"
     },
     {
       "source": "numerama",
@@ -2060,12 +2072,6 @@
       "title": "Connexions suspectes à pCloud Pass, mails rejetés : que se passe-t-il chez pCloud ?",
       "url": "https://www.clubic.com/actualite-641377-connexions-suspectes-a-pcloud-pass-mails-rejetes-que-se-passe-t-il-chez-pcloud.html",
       "publishedAt": "2026-11-27T09:08:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Cdiscount brade tout son site avec des ventes flash jusqu'à moins 50 %",
-      "url": "https://www.clubic.com/bons-plans-641254-black-friday-cdiscount-brade-tout-son-site-avec-des-ventes-flash-jusqu-a-moins-50.html",
-      "publishedAt": "2026-11-27T09:06:00+00:00"
     },
     {
       "source": "jdg",
@@ -3686,42 +3692,6 @@
       "title": "Google Messages va enfin régler le problème des conversations de groupe en désordre",
       "url": "https://www.clubic.com/actualite-641098-google-messages-va-enfin-regler-le-probleme-des-conversations-de-groupe-en-desordre.html",
       "publishedAt": "2026-11-26T10:03:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Est-ce qu’on aura un Avatar 4 ? Disney vient de décider du sort du film de James Cameron",
-      "url": "https://www.journaldugeek.com/2026/11/26/est-ce-quon-aura-un-avatar-4-disney-vient-de-decider-du-sort-du-film-de-james-cameron/",
-      "publishedAt": "2026-11-26T10:00:38+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Le cauchemar des scientifiques se matérialise : Reflect Orbital donne un aperçu des satellites-miroirs qui recouvriront le ciel",
-      "url": "https://www.presse-citron.net/le-cauchemar-des-scientifiques-se-materialise-reflect-orbital-donne-un-apercu-des-satellites-miroirs-qui-recouvriront-le-ciel/",
-      "publishedAt": "2026-11-26T09:58:54+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Après 15 ans de développement, l’éditeur vectoriel Skala est enfin disponible",
-      "url": "https://www.macg.co/logiciels/2026/11/apres-15-ans-de-developpement-lediteur-vectoriel-skala-est-enfin-disponible-312679",
-      "publishedAt": "2026-11-26T09:57:30+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup | Qui rejoindra les Mavericks en quarts de finale ?",
-      "url": "https://www.basketusa.com/news/964370/nba-cup-qui-rejoindra-les-mavericks-en-quarts-de-finale/",
-      "publishedAt": "2026-11-26T09:54:29+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday : les meilleures offres sur les écrans externes pour Mac",
-      "url": "https://www.macg.co/materiel/2026/11/black-friday-les-meilleures-offres-sur-les-ecrans-externes-pour-mac-312677",
-      "publishedAt": "2026-11-26T09:53:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Le Sony WH-1000XM4C, version remise au goût du jour, est à prix fou au Black Friday",
-      "url": "https://www.iphon.fr/post/sony-wh-1000xm4c-version-remisegout-jour-prix-fou-black-friday",
-      "publishedAt": "2026-11-26T09:52:00+00:00"
     },
     {
       "source": "boulet",
