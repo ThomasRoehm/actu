@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T08:50:38.533873+00:00",
+  "generatedAt": "2026-11-28T09:01:03.948552+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:50:38.533873+00:00"
+      "lastSuccessAt": "2026-11-28T09:01:03.948552+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "« La singularité a déjà commencé » : l’IA écrit des preuves plus vite que les mathématiciens ne peuvent les lire, et selon le cofondateur d’Anthropic ce n’est que le début",
+      "url": "https://www.numerama.com/tech/2387031-la-singularite-a-deja-commence-lia-ecrit-des-preuves-plus-vite-que-les-mathematiciens-ne-peuvent-les-lire-et-selon-le-cofondateur-danthropic-ce-nest-que-le-debut.html",
+      "publishedAt": "2026-11-28T08:53:03+00:00"
+    },
     {
       "source": "clubic",
       "title": "Le Black Friday est passé et la PS5 n'a toujours pas baissé, mais ses accessoires restent en promo ce week-end",
@@ -1036,12 +1042,6 @@
       "publishedAt": "2026-11-27T14:30:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "San Antonio Spurs – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
-      "url": "https://www.basketusa.com/news/964571/san-antonio-spurs-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
-      "publishedAt": "2026-11-27T14:28:25+00:00"
-    },
-    {
       "source": "clubic",
       "title": "YouTube permet enfin de changer l’icône de son appli, mais sous conditions",
       "url": "https://www.clubic.com/actualite-641500-youtube-permet-enfin-de-changer-l-icone-de-son-appli-mais-seulement-pour-les-abonnes-premium.html",
@@ -1208,6 +1208,12 @@
       "title": "Black Friday 2026 : les 35 bons plans les plus populaires sur AliExpress (Nintendo Switch 2, Ryzen 7, DJI...)",
       "url": "https://www.generation-nt.com/actualites/honor-magic8-pro-station-electrique-oukitel-realme-16-pro-dji-osmo-action-6-redmi-note-17-pro-max-aliexpress-black-friday-2085185",
       "publishedAt": "2026-11-27T13:30:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "San Antonio Spurs – Los Angeles Lakers : paris joueurs, état des blessures et pronostic | NBA",
+      "url": "https://www.basketusa.com/news/964571/san-antonio-spurs-los-angeles-lakers-paris-joueurs-etat-des-blessures-et-pronostic-nba/",
+      "publishedAt": "2026-11-27T13:28:25+00:00"
     },
     {
       "source": "clubic",
@@ -3812,48 +3818,6 @@
       "title": "Gemini Notebook veut vous faire réviser comme un pro et ses nouvelles fiches ont de quoi séduire",
       "url": "https://www.clubic.com/actualite-641095-gemini-notebook-veut-vous-faire-reviser-comme-un-pro-et-ses-nouvelles-fiches-ont-de-quoi-seduire.html",
       "publishedAt": "2026-11-26T09:02:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "L’implant d’Elon Musk pour contrôler un écran par la pensée va être testé sur des patients atteints de la maladie de Charcot",
-      "url": "https://www.presse-citron.net/limplant-delon-musk-pour-controler-un-ecran-par-la-pensee-va-etre-teste-sur-des-patients-atteints-de-la-maladie-de-charcot/",
-      "publishedAt": "2026-11-26T09:00:13+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday : notre podium du jour (enceinte Harman Kardon, casque Sony WH-1000XM6 et TV 4K Hisense)",
-      "url": "https://www.generation-nt.com/actualites/enceinte-harman-kardon-aura-studio-5-casque-bluetooth-sony-wh-1000xm6-tv-4k-hisense-50a6s-black-friday-promos-pas-cher-2085118",
-      "publishedAt": "2026-11-26T09:00:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Black Friday : LEFANT casse les prix de ses robots aspirateurs-laveurs, dès 189 € !",
-      "url": "https://www.mac4ever.com/domotique/199206-black-friday-lefant-casse-les-prix-de-ses-robots-aspirateurs-laveurs-des-189",
-      "publishedAt": "2026-11-26T09:00:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Ils voulaient juste faire le plein : les comptes bancaires de ces automobilistes ont été vidés à distance",
-      "url": "https://www.presse-citron.net/ils-voulaient-juste-faire-le-plein-les-comptes-bancaires-de-ces-automobilistes-ont-ete-vides-a-distance/",
-      "publishedAt": "2026-11-26T08:54:25+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Uber, Lucid et Nuro vont retirer les opérateurs derrière leurs taxis autonomes",
-      "url": "https://www.mac4ever.com/auto/199309-uber-lucid-et-nuro-vont-retirer-les-operateurs-derriere-leurs-taxis-autonomes",
-      "publishedAt": "2026-11-26T08:52:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le Roborock Saros 10R bradé à 499€ : une des meilleures promos du Black Friday !",
-      "url": "https://www.mac4ever.com/domotique/199311-le-roborock-saros-10r-brade-a-499-une-des-meilleures-promos-du-black-friday",
-      "publishedAt": "2026-11-26T08:51:45+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« Construire un futur plus excitant » : SpaceX va offrir des parts de son entreprise à tous les enfants américains",
-      "url": "https://www.numerama.com/tech/2385141-construire-un-futur-plus-excitant-spacex-va-offrir-des-parts-de-son-entreprise-a-tous-les-enfants-americains.html",
-      "publishedAt": "2026-11-26T08:50:42+00:00"
     },
     {
       "source": "boulet",
