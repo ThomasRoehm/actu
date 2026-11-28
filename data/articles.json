@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:50:37.292989+00:00",
+  "generatedAt": "2026-11-28T08:01:04.538237+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T07:50:37.292989+00:00"
+      "lastSuccessAt": "2026-11-28T08:01:04.538237+00:00"
     }
   ],
   "articles": [
@@ -274,6 +274,12 @@
       "publishedAt": "2026-11-28T05:58:48+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Sixers écrasent les Pacers pour se qualifier",
+      "url": "https://www.basketusa.com/news/964882/les-sixers-se-qualifient-en-ecrasant-les-pacers/",
+      "publishedAt": "2026-11-28T05:37:48+00:00"
+    },
+    {
       "source": "macg",
       "title": "50 ans d’Apple : dernière chance pour commander notre livre avant les fêtes, avec deux nouveaux packs",
       "url": "https://www.macg.co/macgeneration/2026/11/50-ans-dapple-derniere-chance-pour-commander-notre-livre-avant-les-fetes-avec-deux-nouveaux-packs-312681",
@@ -284,12 +290,6 @@
       "title": "Avec un immense Giannis, le Heat sort les Knicks de la NBA Cup",
       "url": "https://www.basketusa.com/news/964873/avec-un-monstrueux-giannis-le-heat-elimine-les-knicks-de-la-nba-cup/",
       "publishedAt": "2026-11-28T05:28:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Sixers écrasent les Pacers pour se qualifier",
-      "url": "https://www.basketusa.com/news/964882/les-sixers-se-qualifient-en-ecrasant-les-pacers/",
-      "publishedAt": "2026-11-28T04:37:48+00:00"
     },
     {
       "source": "tda",
@@ -365,7 +365,7 @@
     },
     {
       "source": "clubic",
-      "title": "La PS5 grande absente du Black Friday ? Amazon se rattrape sur les accessoires Playstation 5",
+      "title": "Le Black Friday est passé et la PS5 n'a toujours pas baissé, mais ses accessoires restent en promo ce week-end",
       "url": "https://www.clubic.com/bons-plans-641566-la-ps5-grande-absente-du-black-friday-amazon-se-rattrape-sur-les-accessoires-playstation-5.html",
       "publishedAt": "2026-11-27T19:18:00+00:00"
     },
@@ -3896,36 +3896,6 @@
       "title": "La carte bancaire détrône les espèces dans la zone euro",
       "url": "https://www.journaldugeek.com/2026/11/26/la-carte-bancaire-detrone-les-especes-dans-la-zone-euro/",
       "publishedAt": "2026-11-26T08:03:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "SpaceX obtient le feu vert pour le projet le plus fou de son histoire : 1 million de satellites pour faire les calculs de l’IA dans l’espace",
-      "url": "https://www.presse-citron.net/spacex-feu-vert-million-de-satellites-ia/",
-      "publishedAt": "2026-11-26T07:56:35+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Ce que disent les paramètres graphiques de GTA 6 sur PS5 et Xbox",
-      "url": "https://www.numerama.com/pop-culture/2385115-ce-que-disent-les-parametres-graphiques-de-gta-6-sur-ps5-et-xbox.html",
-      "publishedAt": "2026-11-26T07:55:56+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Jaden McDaniels en pleine confiance",
-      "url": "https://www.basketusa.com/news/964285/le-mvp-de-la-nuit-jaden-mcdaniels-en-pleine-confiance/",
-      "publishedAt": "2026-11-26T07:55:43+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "iPad : Apple teste un changement historique en secret",
-      "url": "https://www.iphon.fr/post/ipad-apple-teste-macos-tablette",
-      "publishedAt": "2026-11-26T07:53:40+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Donald Trump s’attaque (encore) aux pays qui fabriquent les iPhone : que faut-il attendre ?",
-      "url": "https://www.mac4ever.com/divers/199305-donald-trump-s-attaque-encore-aux-pays-qui-fabriquent-les-iphone-que-faut-il-attendre",
-      "publishedAt": "2026-11-26T07:51:00+00:00"
     },
     {
       "source": "boulet",
