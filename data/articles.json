@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T15:10:40.751883+00:00",
+  "generatedAt": "2026-11-28T15:20:40.472383+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,34 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
+      "lastSuccessAt": "2026-11-28T15:20:40.472383+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday, c’est aussi chez AliExpress : TOP 10 des offres tech à ne pas rater aujourd'hui !",
+      "url": "https://www.clubic.com/bons-plans-641362-black-friday-aliexpress-voici-11-offres-tech-de-dingues-jusqu-a--48-avec-nos-codes.html",
+      "publishedAt": "2026-11-28T15:17:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday Samsung : quelques heures après, voici les meilleures offres encore disponibles",
+      "url": "https://www.clubic.com/bons-plans-641638-black-friday-samsung-le-galaxy-s26-ultra-passe-sous-les-1-000-les-buds4-pro-a--44-et-3-autres-offres-du-week-end.html",
+      "publishedAt": "2026-11-28T15:15:00+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "GTA 6 sur PC, Superintelligence et hypothèse de Riemann – le récap tech de la semaine",
+      "url": "https://www.numerama.com/tech/2386809-gta-6-sur-pc-superintelligence-et-hypothese-de-riemann-le-recap-tech-de-la-semaine.html",
+      "publishedAt": "2026-11-28T15:13:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Jamal Murray veut aussi être « clutch » en défense",
+      "url": "https://www.basketusa.com/news/965090/jamal-murray-veut-aussi-etre-clutch-en-defense/",
+      "publishedAt": "2026-11-28T15:11:51+00:00"
+    },
     {
       "source": "iphon",
       "title": "AirTag : Apple déconseille ces deux usages, pourtant très pratiques",
@@ -454,12 +478,6 @@
       "publishedAt": "2026-11-28T10:45:54+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Mike Brown avertit les Knicks : à force de jouer avec le feu…",
-      "url": "https://www.basketusa.com/news/964985/mike-brown-avertit-les-knicks-a-force-de-jouer-avec-le-feu/",
-      "publishedAt": "2026-11-28T10:32:24+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Fini les téléphones et voitures qui flanchent l’hiver ! Ces nouvelles batteries lithium-ion tiennent jusqu’à -50°C",
       "url": "https://www.clubic.com/actualite-641593-fini-les-telephones-et-voitures-qui-flanchent-l-hiver-ces-nouvelles-batteries-lithium-ion-tiennent-jusqu-a--50-c.html",
@@ -512,6 +530,12 @@
       "title": "Paris veut faire payer le stationnement aux voitures électriques, et augmenter le tarif pour les visiteurs",
       "url": "https://www.numerama.com/vroom/2387081-paris-veut-faire-payer-le-stationnement-aux-voitures-electriques-et-augmenter-le-tarif-pour-les-visiteurs.html",
       "publishedAt": "2026-11-28T09:34:07+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Mike Brown avertit les Knicks : à force de jouer avec le feu…",
+      "url": "https://www.basketusa.com/news/964985/mike-brown-avertit-les-knicks-a-force-de-jouer-avec-le-feu/",
+      "publishedAt": "2026-11-28T09:32:24+00:00"
     },
     {
       "source": "gnt",
@@ -1912,12 +1936,6 @@
       "publishedAt": "2026-11-27T11:46:01+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Le Black Friday, c’est aussi chez AliExpress : TOP 10 des offres tech à ne pas rater aujourd'hui !",
-      "url": "https://www.clubic.com/bons-plans-641362-black-friday-aliexpress-voici-11-offres-tech-de-dingues-jusqu-a--48-avec-nos-codes.html",
-      "publishedAt": "2026-11-27T11:43:00+00:00"
-    },
-    {
       "source": "presse",
       "title": "Sans rien demander, Amazon retire -650€ à ce PC Gaming Alienware 15″ (Intel Core 7, RTX 506) 💣",
       "url": "https://www.presse-citron.net/sans-rien-demander-amazon-retire-650e-a-ce-pc-gaming-alienware-15-intel-core-7-rtx-506/",
@@ -3290,36 +3308,6 @@
       "title": "FC 27 ressuscite un commentateur de foot décédé grâce à l’IA : sa voix est de retour",
       "url": "https://www.numerama.com/pop-culture/2385441-fc-27-ressuscite-un-commentateur-de-foot-decede-grace-a-lia-sa-voix-est-de-retour.html",
       "publishedAt": "2026-11-26T15:23:47+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Anthropic a tendu 1 700 pièges à Claude pour voir s'il s'échappe",
-      "url": "https://www.clubic.com/actualite-641260-anthropic-a-tendu-1-700-pieges-a-claude-pour-voir-s-il-s-echappe.html",
-      "publishedAt": "2026-11-26T15:20:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "IPTV : votre match de foot va être coupé en direct, l’arme ultime contre le piratage arrive",
-      "url": "https://www.presse-citron.net/iptv-votre-match-de-foot-va-etre-coupe-en-direct-larme-ultime-contre-le-piratage-arrive/",
-      "publishedAt": "2026-11-26T15:19:28+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Avengers Doomsday : pourquoi la communication de Marvel tourne au fiasco à quelques semaines de la sortie",
-      "url": "https://www.numerama.com/pop-culture/2385567-avengers-doomsday-pourquoi-la-communication-de-marvel-tourne-au-fiasco-a-quelques-semaines-de-la-sortie.html",
-      "publishedAt": "2026-11-26T15:16:15+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "2026 est partie pour être la pire année de l'histoire du marché du smartphone !",
-      "url": "https://www.clubic.com/actualite-641230-est-parti-pour-etre-la-pire-annee-de-l-histoire-du-marche-du-smartphone.html",
-      "publishedAt": "2026-11-26T15:15:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Il s’appelle AEON, mesure 1,65 m et pèse 60 kg : Volvo invite des robots humanoïdes dans son usine en Belgique",
-      "url": "https://www.presse-citron.net/il-sappelle-aeon-mesure-165-m-et-pese-60-kg-volvo-invite-les-robots-humanoides-dans-son-usine-en-belgique/",
-      "publishedAt": "2026-11-26T15:10:58+00:00"
     },
     {
       "source": "boulet",
