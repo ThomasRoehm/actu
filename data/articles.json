@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:10:37.038620+00:00",
+  "generatedAt": "2026-11-28T09:20:40.391345+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:10:37.038620+00:00"
+      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday : 600€ en moins sur ce pack Pixel 11 Pro XL, avec une enceinte B&O dans la boîte !",
+      "url": "https://www.clubic.com/bons-plans-641590-black-friday-600-en-moins-sur-ce-pack-pixel-11-pro-xl-avec-une-enceinte-b-o-dans-la-boite.html",
+      "publishedAt": "2026-11-28T09:17:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday en direct : les meilleures offres encore valables ce week-end, jusqu'au Cyber Monday",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-28T09:16:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Tineco brade ses aspirateurs laveurs pour le Black Friday : jusqu’à -37 %, plus que quelques jours",
+      "url": "https://www.clubic.com/actualite-640006-black-friday-tineco-5-aspirateurs-et-nettoyeurs-a-prix-reduit-jusqu-au-30-novembre.html",
+      "publishedAt": "2026-11-28T09:15:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : MacBook Air M5, Dell XPS 13, PC gamer RTX… Amazon garde 17 PC portables en promo jusqu'au Cyber Monday",
@@ -212,12 +230,6 @@
       "title": "Si vous aviez raté le MacBook Neo avant la hausse de juin, Amazon vous offre une seconde chance pour le Black Friday",
       "url": "https://www.numerama.com/tech/2386701-si-vous-aviez-rate-le-macbook-neo-avant-la-hausse-de-juin-amazon-vous-offre-une-seconde-chance-pour-le-black-friday.html",
       "publishedAt": "2026-11-28T08:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday en direct : les meilleures offres encore valables ce week-end, jusqu'au Cyber Monday",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-28T08:20:00+00:00"
     },
     {
       "source": "mac4ever",
@@ -814,12 +826,6 @@
       "publishedAt": "2026-11-27T16:00:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Nikola Topic peut compter sur sa « famille » serbe en NBA",
-      "url": "https://www.basketusa.com/news/964726/nikola-topic-peut-compter-sur-sa-famille-serbe-en-nba/",
-      "publishedAt": "2026-11-27T15:53:18+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Un mode Lockdown en préparation pour Microsoft Edge",
       "url": "https://www.generation-nt.com/actualites/microsoft-edge-mode-lockdown-securite-2085181",
@@ -980,6 +986,12 @@
       "title": "Adieu Netflix : ce site propose 649 films gratuits disponibles dès aujourd’hui",
       "url": "https://www.presse-citron.net/adieu-netflix-ce-site-propose-649-films-gratuits-disponibles-des-aujourdhui/",
       "publishedAt": "2026-11-27T14:55:12+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Nikola Topic peut compter sur sa « famille » serbe en NBA",
+      "url": "https://www.basketusa.com/news/964726/nikola-topic-peut-compter-sur-sa-famille-serbe-en-nba/",
+      "publishedAt": "2026-11-27T14:53:18+00:00"
     },
     {
       "source": "clubic",
@@ -2354,12 +2366,6 @@
       "title": "La France est parmi les pays touchés par cette fuite massive de 2 milliards d’identifiants (dont des comptes Google, Facebook, Netflix, PayPal, etc.)",
       "url": "https://www.presse-citron.net/la-france-est-parmi-les-pays-touches-par-cette-fuite-massive-de-2-milliards-didentifiants-dont-des-comptes-google-facebook-netflix-paypal-etc/",
       "publishedAt": "2026-11-27T07:00:55+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Tineco : 5 aspirateurs et nettoyeurs à prix réduit jusqu'au 30 novembre",
-      "url": "https://www.clubic.com/actualite-640006-black-friday-tineco-5-aspirateurs-et-nettoyeurs-a-prix-reduit-jusqu-au-30-novembre.html",
-      "publishedAt": "2026-11-27T07:00:00+00:00"
     },
     {
       "source": "jdg",
@@ -3794,24 +3800,6 @@
       "title": "Un compte GitHub a suffi : le gestionnaire de mots de passe 1Password s’est fait pirater, voici ce que vous devez savoir",
       "url": "https://www.numerama.com/cyberguerre/2385179-un-compte-github-a-suffi-le-gestionnaire-de-mots-de-passe-1password-sest-fait-pirater-voici-ce-que-vous-devez-savoir.html",
       "publishedAt": "2026-11-26T09:24:15+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "« Civilisation de Kardachev de type II » : en autorisant le million de satellites de SpaceX, la FCC vise toute la puissance du Soleil",
-      "url": "https://www.numerama.com/sciences/2385165-civilisation-de-kardachev-de-type-ii-en-autorisant-le-million-de-satellites-de-spacex-la-fcc-vise-toute-la-puissance-du-soleil.html",
-      "publishedAt": "2026-11-26T09:18:09+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Vous pouvez enfin planifier un message dans WhatsApp : voici comment faire",
-      "url": "https://www.numerama.com/tech/2385187-vous-pouvez-enfin-planifier-un-message-dans-whatsapp-voici-comment-faire.html",
-      "publishedAt": "2026-11-26T09:11:33+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "🔴 Neige et verglas, -8°C : une vague de froid va déferler sur la France dès ce vendredi",
-      "url": "https://www.presse-citron.net/%f0%9f%94%b4-neige-et-verglas-8c-une-vague-de-froid-va-deferler-sur-la-france-des-ce-vendredi/",
-      "publishedAt": "2026-11-26T09:11:30+00:00"
     },
     {
       "source": "boulet",
