@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:20:40.391345+00:00",
+  "generatedAt": "2026-11-28T09:30:51.334546+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T09:20:40.391345+00:00"
+      "lastSuccessAt": "2026-11-28T09:30:51.334546+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "La HAS et la CNIL listent les obligations des cabinets médicaux équipés d'IA",
+      "url": "https://www.clubic.com/actualite-641584-ia-en-soins-la-has-et-la-cnil-publient-un-guide-essentiel-pour-encadrer-les-pratiques-medicales.html",
+      "publishedAt": "2026-11-28T09:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
+      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
+      "publishedAt": "2026-11-28T09:21:11+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : 600€ en moins sur ce pack Pixel 11 Pro XL, avec une enceinte B&O dans la boîte !",
@@ -154,8 +166,14 @@
       "publishedAt": "2026-11-28T09:15:00+00:00"
     },
     {
+      "source": "gnt",
+      "title": "Les crises cardiaques atteignent leur pic pendant les fêtes et progressent avant 50 ans",
+      "url": "https://www.generation-nt.com/actualites/crises-cardiaques-pic-fetes-jeunes-2084955",
+      "publishedAt": "2026-11-28T09:10:01+00:00"
+    },
+    {
       "source": "clubic",
-      "title": "Black Friday : MacBook Air M5, Dell XPS 13, PC gamer RTX… Amazon garde 17 PC portables en promo jusqu'au Cyber Monday",
+      "title": "Black Friday prolongé : voici 15 PC portables à moins de 500€ à prix DINGUES, jusqu'à -50%",
       "url": "https://www.clubic.com/bons-plans-641353-black-friday-voici-15-pc-portables-a-moins-de-500-a-prix-dingues-jusqu-a--50.html",
       "publishedAt": "2026-11-28T09:05:00+00:00"
     },
@@ -298,12 +316,6 @@
       "publishedAt": "2026-11-28T07:42:38+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
-      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
-      "publishedAt": "2026-11-28T07:42:09+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Gandalf, Anneau Unique et Theo : les tops et les flops des Anneaux de pouvoir saison 3",
       "url": "https://www.journaldugeek.com/dossier/gandalf-lanneau-unique-et-theo-les-tops-et-les-flops-des-anneaux-de-pouvoir-saison-3/",
@@ -389,15 +401,15 @@
     },
     {
       "source": "basketusa",
-      "title": "Stats & Highlights | Dallas et Detroit passent, Denver et Toronto à la trappe",
-      "url": "https://www.basketusa.com/news/964938/stats-highlights-dallas-et-detroit-passent-denver-et-toronto-a-la-trappe/",
-      "publishedAt": "2026-11-28T06:56:30+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Pour prendre le quart, les Blazers assomment les Warriors d’entrée",
       "url": "https://www.basketusa.com/news/964947/pour-prendre-le-quart-les-blazers-assomment-les-warriors-dentree/",
       "publishedAt": "2026-11-28T06:47:31+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
+      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
+      "publishedAt": "2026-11-28T06:42:09+00:00"
     },
     {
       "source": "macg",
@@ -428,6 +440,12 @@
       "title": "Les Grizzlies font craquer les Wolves et filent en quarts de finale",
       "url": "https://www.basketusa.com/news/964918/les-grizzlies-font-craquer-les-wolves-et-filent-en-quarts-de-finale/",
       "publishedAt": "2026-11-28T05:58:48+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Stats & Highlights | Dallas et Detroit passent, Denver et Toronto à la trappe",
+      "url": "https://www.basketusa.com/news/964938/stats-highlights-dallas-et-detroit-passent-denver-et-toronto-a-la-trappe/",
+      "publishedAt": "2026-11-28T05:56:30+00:00"
     },
     {
       "source": "basketusa",
@@ -652,12 +670,6 @@
       "publishedAt": "2026-11-27T17:25:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Course au MVP | Victor Wembanyama et Luka Doncic, déjà loin devant ?",
-      "url": "https://www.basketusa.com/news/964742/course-au-mvp-victor-wembanyama-et-luka-doncic-deja-loin-devant/",
-      "publishedAt": "2026-11-27T17:11:45+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Windows 11 : avis de dépréciation pour une fonctionnalité Bluetooth",
       "url": "https://www.generation-nt.com/actualites/windows-11-depreciation-bluetooth-family-safety-2085180",
@@ -772,6 +784,12 @@
       "publishedAt": "2026-11-27T16:15:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Course au MVP | Victor Wembanyama et Luka Doncic, déjà loin devant ?",
+      "url": "https://www.basketusa.com/news/964742/course-au-mvp-victor-wembanyama-et-luka-doncic-deja-loin-devant/",
+      "publishedAt": "2026-11-27T16:11:45+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Un essaim de drones qui attaque Ariane 6 ? Le Centre spatial guyanais « n’est pas du tout paré », mais ne voit pas l’urgence de passer aux lasers",
       "url": "https://www.numerama.com/tech/2386469-un-essaim-de-drones-qui-attaque-ariane-6-le-centre-spatial-guyanais-nest-pas-du-tout-pare-mais-ne-voit-pas-lurgence-de-passer-aux-lasers.html",
@@ -824,6 +842,12 @@
       "title": "Black Friday : deux robots laveurs à rouleau Lefant, à 180 € et 350 €",
       "url": "https://www.macg.co/services/2026/11/black-friday-deux-robots-laveurs-rouleau-lefant-180-eu-et-350-eu-312457",
       "publishedAt": "2026-11-27T16:00:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Nikola Topic peut compter sur sa « famille » serbe en NBA",
+      "url": "https://www.basketusa.com/news/964726/nikola-topic-peut-compter-sur-sa-famille-serbe-en-nba/",
+      "publishedAt": "2026-11-27T15:53:18+00:00"
     },
     {
       "source": "gnt",
@@ -986,12 +1010,6 @@
       "title": "Adieu Netflix : ce site propose 649 films gratuits disponibles dès aujourd’hui",
       "url": "https://www.presse-citron.net/adieu-netflix-ce-site-propose-649-films-gratuits-disponibles-des-aujourdhui/",
       "publishedAt": "2026-11-27T14:55:12+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Nikola Topic peut compter sur sa « famille » serbe en NBA",
-      "url": "https://www.basketusa.com/news/964726/nikola-topic-peut-compter-sur-sa-famille-serbe-en-nba/",
-      "publishedAt": "2026-11-27T14:53:18+00:00"
     },
     {
       "source": "clubic",
@@ -3758,48 +3776,6 @@
       "title": "La TNT a coupé trois émetteurs le 24 novembre, voici ce que ça change pour les téléspectateurs",
       "url": "https://www.clubic.com/actualite-641119-la-tnt-a-coupe-trois-emetteurs-le-24-novembre-voici-ce-que-ca-change-pour-les-telespectateurs.html",
       "publishedAt": "2026-11-26T09:31:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Le Black Friday est le moment des promos mais aussi des arnaques ! Comment bien se protéger",
-      "url": "https://www.generation-nt.com/actualites/black-friday-arnaque-sms-fausse-promotion-solution-bitdefender-total-security-2085043",
-      "publishedAt": "2026-11-26T09:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : cette caméra de surveillance Ring 2K passe sous la barre des 35€ chez Amazon",
-      "url": "https://www.clubic.com/bons-plans-641101-black-friday-cette-camera-de-surveillance-ring-2k-passe-sous-la-barre-des-35-chez-amazon.html",
-      "publishedAt": "2026-11-26T09:30:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Norse Atlantic suspend tous ses vols. La compagnie cherche un financement d’urgence et prévoit de déposer le bilan sinon",
-      "url": "https://www.presse-citron.net/norse-atlantic-suspend-tous-ses-vols-la-compagnie-cherche-un-financement-durgence-et-prevoit-de-deposer-le-bilan-sinon/",
-      "publishedAt": "2026-11-26T09:28:13+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "MacBook Air : nouveau design et écran OLED ! Oui mais...",
-      "url": "https://www.mac4ever.com/mac/199306-macbook-air-nouveau-design-et-ecran-oled-oui-mais",
-      "publishedAt": "2026-11-26T09:27:00+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Le célèbre gestionnaire de mots de passe 1Passord a été piraté : voici les données concernées et le risque pour les utilisateurs",
-      "url": "https://www.presse-citron.net/gestionnaire-de-mot-de-passe-pirate/",
-      "publishedAt": "2026-11-26T09:26:42+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Google Gemini crée des voix sur mesure et passe désormais vos appels professionnels",
-      "url": "https://www.generation-nt.com/actualites/google-gemini-voix-appels-professionnels-2085088",
-      "publishedAt": "2026-11-26T09:25:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Un compte GitHub a suffi : le gestionnaire de mots de passe 1Password s’est fait pirater, voici ce que vous devez savoir",
-      "url": "https://www.numerama.com/cyberguerre/2385179-un-compte-github-a-suffi-le-gestionnaire-de-mots-de-passe-1password-sest-fait-pirater-voici-ce-que-vous-devez-savoir.html",
-      "publishedAt": "2026-11-26T09:24:15+00:00"
     },
     {
       "source": "boulet",
