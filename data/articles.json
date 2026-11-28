@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:30:57.520865+00:00",
+  "generatedAt": "2026-11-28T11:40:39.454689+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:30:57.520865+00:00"
+      "lastSuccessAt": "2026-11-28T11:40:39.454689+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "tda",
+      "title": "[podcast] Vive le Football Libre : road trip NFL et Thanksgiving",
+      "url": "https://touchdownactu.com/362032/podcast-vive-le-football-libre-road-trip-nfl-et-thanksgiving/",
+      "publishedAt": "2026-11-28T11:38:18+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "BYD fait renaître le monospace en version électrique, avec plus de 900 km d'autonomie",
+      "url": "https://www.clubic.com/actualite-641608-byd-fait-renaitre-le-monospace-en-version-electrique-avec-presque-900-km-d-autonomie.html",
+      "publishedAt": "2026-11-28T11:33:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Razer Audio Utility userait les SSD : jusqu’à 3,2 Go d’écritures inutiles en quelques heures",
@@ -172,6 +184,12 @@
       "publishedAt": "2026-11-28T11:03:20+00:00"
     },
     {
+      "source": "tda",
+      "title": "[80’s Mania] Bill Walsh : Le père de la West Coast",
+      "url": "https://touchdownactu.com/361037/80s-mania-bill-walsh-le-pere-de-la-west-coast/",
+      "publishedAt": "2026-11-28T11:00:37+00:00"
+    },
+    {
       "source": "iphon",
       "title": "WhatsApp veut vous vendre des cartes eSIM pour vos voyages",
       "url": "https://www.iphon.fr/post/whatsapp-cartes-esim",
@@ -206,12 +224,6 @@
       "title": "Les 3 bonnes nouvelles de la semaine",
       "url": "https://www.presse-citron.net/les-3-bonnes-nouvelles-de-la-semaine-138/",
       "publishedAt": "2026-11-28T10:45:54+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Mike Brown avertit les Knicks : à force de jouer avec le feu…",
-      "url": "https://www.basketusa.com/news/964985/mike-brown-avertit-les-knicks-a-force-de-jouer-avec-le-feu/",
-      "publishedAt": "2026-11-28T10:32:24+00:00"
     },
     {
       "source": "clubic",
@@ -274,6 +286,12 @@
       "publishedAt": "2026-11-28T09:34:07+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Mike Brown avertit les Knicks : à force de jouer avec le feu…",
+      "url": "https://www.basketusa.com/news/964985/mike-brown-avertit-les-knicks-a-force-de-jouer-avec-le-feu/",
+      "publishedAt": "2026-11-28T09:32:24+00:00"
+    },
+    {
       "source": "gnt",
       "title": "Black Friday Amazon : le vidéoprojecteur portable Anker Nebula Mars 3 Air s'affiche à prix cassé",
       "url": "https://www.generation-nt.com/actualites/amazon-black-friday-videoprojecteur-portable-anker-nebula-mars-3-air-full-hd-netflix-google-tv-pas-cher-2085201",
@@ -284,6 +302,12 @@
       "title": "La HAS et la CNIL listent les obligations des cabinets médicaux équipés d'IA",
       "url": "https://www.clubic.com/actualite-641584-ia-en-soins-la-has-et-la-cnil-publient-un-guide-essentiel-pour-encadrer-les-pratiques-medicales.html",
       "publishedAt": "2026-11-28T09:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
+      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
+      "publishedAt": "2026-11-28T09:21:11+00:00"
     },
     {
       "source": "clubic",
@@ -380,12 +404,6 @@
       "title": "Si vous aviez raté le MacBook Neo avant la hausse de juin, Amazon vous offre une seconde chance pour le Black Friday",
       "url": "https://www.numerama.com/tech/2386701-si-vous-aviez-rate-le-macbook-neo-avant-la-hausse-de-juin-amazon-vous-offre-une-seconde-chance-pour-le-black-friday.html",
       "publishedAt": "2026-11-28T08:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
-      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
-      "publishedAt": "2026-11-28T08:21:11+00:00"
     },
     {
       "source": "mac4ever",
@@ -569,6 +587,12 @@
     },
     {
       "source": "basketusa",
+      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
+      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
+      "publishedAt": "2026-11-28T06:05:46+00:00"
+    },
+    {
+      "source": "basketusa",
       "title": "Les Grizzlies font craquer les Wolves et filent en quarts de finale",
       "url": "https://www.basketusa.com/news/964918/les-grizzlies-font-craquer-les-wolves-et-filent-en-quarts-de-finale/",
       "publishedAt": "2026-11-28T05:58:48+00:00"
@@ -590,12 +614,6 @@
       "title": "Avec un immense Giannis, le Heat sort les Knicks de la NBA Cup",
       "url": "https://www.basketusa.com/news/964873/avec-un-monstrueux-giannis-le-heat-elimine-les-knicks-de-la-nba-cup/",
       "publishedAt": "2026-11-28T05:28:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
-      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
-      "publishedAt": "2026-11-28T05:05:46+00:00"
     },
     {
       "source": "tda",
@@ -3548,18 +3566,6 @@
       "title": "CarPlay Ultra : pourquoi aucune voiture vendue en France ne l'affiche ?",
       "url": "https://www.mac4ever.com/auto/199318-carplay-ultra-pourquoi-aucune-voiture-vendue-en-france-ne-l-affiche",
       "publishedAt": "2026-11-26T11:46:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday Boulanger : -20 € dès 250 € d'achat sur son / TV / électroménager aujourd'hui seulement",
-      "url": "https://www.generation-nt.com/actualites/boulanger-black-friday-promos-pas-cher-enceinte-jbl-partybox-sonos-era-100-sl-aspirateur-tineco-dyson-tv-mini-led-oled-qled-2085125",
-      "publishedAt": "2026-11-26T11:40:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Zelda Ocarina of Time sur Switch 2 : vous êtes bloqué au ranch Lon Lon ? Nintendo vient de régler le problème avec une mise à jour",
-      "url": "https://www.journaldugeek.com/2026/11/26/zelda-ocarina-of-time-sur-switch-2-vous-etes-bloque-au-ranch-lon-lon-nintendo-vient-de-regler-le-probleme-avec-une-mise-a-jour/",
-      "publishedAt": "2026-11-26T11:37:45+00:00"
     },
     {
       "source": "boulet",
