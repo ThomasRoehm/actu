@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T15:01:04.349362+00:00",
+  "generatedAt": "2026-11-28T15:10:40.751883+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T15:01:04.349362+00:00"
+      "lastSuccessAt": "2026-11-28T15:10:40.751883+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "AirTag : Apple déconseille ces deux usages, pourtant très pratiques",
+      "url": "https://www.iphon.fr/post/airtags-2-usages-deconseilles-mais-pratiques",
+      "publishedAt": "2026-11-28T15:05:37+00:00"
+    },
     {
       "source": "gnt",
       "title": "Des physiciens envoient un message impossible à bloquer à travers un mur grâce à la gravité",
@@ -146,6 +152,12 @@
       "title": "Pourquoi des créateurs de contenu s'opposent aux règles de l'Arcom",
       "url": "https://www.clubic.com/actualite-641644-presidentielle-2027-pourquoi-les-createurs-de-contenu-refusent-les-nouvelles-regles-de-l-arcom-sur-les-candidats-politiques.html",
       "publishedAt": "2026-11-28T15:00:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Sur iPhone, Firefox et Chrome veulent changer de moteur, mais Apple leur complique la vie",
+      "url": "https://www.journaldugeek.com/2026/11/28/sur-iphone-firefox-et-chrome-veulent-changer-de-moteur-mais-apple-leur-complique-la-vie/",
+      "publishedAt": "2026-11-28T14:59:29+00:00"
     },
     {
       "source": "clubic",
@@ -3308,24 +3320,6 @@
       "title": "Il s’appelle AEON, mesure 1,65 m et pèse 60 kg : Volvo invite des robots humanoïdes dans son usine en Belgique",
       "url": "https://www.presse-citron.net/il-sappelle-aeon-mesure-165-m-et-pese-60-kg-volvo-invite-les-robots-humanoides-dans-son-usine-en-belgique/",
       "publishedAt": "2026-11-26T15:10:58+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Mémoire en Chine : CXMT et YMTC cartonnent mais bloquent sur la HBM",
-      "url": "https://www.generation-nt.com/actualites/memoire-chine-cxmt-ymtc-bloques-hbm-2085077",
-      "publishedAt": "2026-11-26T15:10:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "RAM : Samsung aurait déjà réservé presque toute sa production jusqu'en... 2029",
-      "url": "https://www.mac4ever.com/societe/199324-ram-samsung-aurait-deja-reserve-presque-toute-sa-production-jusqu-en-2029",
-      "publishedAt": "2026-11-26T15:09:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "De nombreux français utilisent déjà l'IA en pensant que c'est une bonne chose pour leur épargne",
-      "url": "https://www.clubic.com/actualite-641224-de-nombreux-francais-utilisent-deja-l-ia-en-pensant-que-c-est-une-bonne-chose-pour-leur-epargne.html",
-      "publishedAt": "2026-11-26T15:02:00+00:00"
     },
     {
       "source": "boulet",
