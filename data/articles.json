@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T10:01:04.234571+00:00",
+  "generatedAt": "2026-11-28T10:10:38.427064+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:01:04.234571+00:00"
+      "lastSuccessAt": "2026-11-28T10:10:38.427064+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "pCloud ne plaisante pas au Black Friday et vous fait faire de grosses économies sur ses offres à vie",
+      "url": "https://www.iphon.fr/post/pcloud-plaisante-pas-black-friday-economies-offres-vie",
+      "publishedAt": "2026-11-28T10:04:03+00:00"
+    },
+    {
+      "source": "numerama",
+      "title": "Après la hausse de Samsung, le Galaxy S26 Ultra tombe à un prix inespéré pour le Black Friday",
+      "url": "https://www.numerama.com/tech/2387125-apres-la-hausse-de-samsung-le-galaxy-s26-ultra-tombe-a-un-prix-inespere-pour-le-black-friday.html",
+      "publishedAt": "2026-11-28T10:01:58+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Abonnés ChatGPT : à partir de décembre, Codex va se servir dans votre abonnement",
+      "url": "https://www.journaldugeek.com/2026/11/28/abonnes-chatgpt-a-partir-de-decembre-codex-va-se-servir-dans-votre-abonnement/",
+      "publishedAt": "2026-11-28T10:00:50+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday Cdiscount : voici 12 offres de FOLIE à saisir ce week-end, jusqu'à -50%",
@@ -3668,30 +3686,6 @@
       "title": "Apple TV : la série française Carême sacrée aux International Emmy Awards !",
       "url": "https://www.mac4ever.com/tv/199312-apple-tv-la-serie-francaise-careme-sacree-aux-international-emmy-awards",
       "publishedAt": "2026-11-26T10:11:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : Amazon n'attend même pas demain et aspire 40% du prix du Dyson V8 Origin !",
-      "url": "https://www.clubic.com/bons-plans-640771-le-black-friday-allege-la-facture-du-dyson-v8-origin-chez-amazon-l-aspirateur-sans-fil-passe-a-229.html",
-      "publishedAt": "2026-11-26T10:09:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Ce chargeur 140W est bradé à 60€ pour le Black Friday : un seul chargeur pour tous vos appareils !",
-      "url": "https://www.mac4ever.com/iphone/199315-ce-chargeur-140w-est-brade-a-60-pour-le-black-friday-un-seul-chargeur-pour-tous-vos-appareils",
-      "publishedAt": "2026-11-26T10:07:29+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La Radeon RX 9060 XT établit un record mondial de fréquence GPU à 4,837 GHz",
-      "url": "https://www.generation-nt.com/actualites/radeon-9060-xt-record-gpu-2085081",
-      "publishedAt": "2026-11-26T10:05:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Google Messages va enfin régler le problème des conversations de groupe en désordre",
-      "url": "https://www.clubic.com/actualite-641098-google-messages-va-enfin-regler-le-probleme-des-conversations-de-groupe-en-desordre.html",
-      "publishedAt": "2026-11-26T10:03:00+00:00"
     },
     {
       "source": "boulet",
