@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T17:10:41.158826+00:00",
+  "generatedAt": "2026-11-28T17:20:39.161300+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:10:41.158826+00:00"
+      "lastSuccessAt": "2026-11-28T17:20:39.161300+00:00"
     },
     {
       "id": "boulet",
@@ -136,10 +136,22 @@
   ],
   "articles": [
     {
+      "source": "clubic",
+      "title": "On lui doit les bases du CD : James Russell est mort à 95 ans",
+      "url": "https://www.clubic.com/actualite-641671-on-lui-doit-les-bases-du-cd-james-russell-est-mort-a-95-ans.html",
+      "publishedAt": "2026-11-28T17:15:00+00:00"
+    },
+    {
       "source": "basketusa",
       "title": "Mitchell Robinson rattrapé par le Covid",
       "url": "https://www.basketusa.com/news/965140/mitchell-robinson-rattrape-par-le-covid/",
       "publishedAt": "2026-11-28T17:04:58+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Cyberattaques à répétition : ce que les députés veulent imposer à plus de 18 000 entreprises et organismes publics",
+      "url": "https://www.journaldugeek.com/2026/11/28/cyberattaques-a-repetition-ce-que-les-deputes-veulent-imposer-a-plus-de-18-000-entreprises-et-organismes-publics/",
+      "publishedAt": "2026-11-28T17:01:18+00:00"
     },
     {
       "source": "clubic",
@@ -442,12 +454,6 @@
       "publishedAt": "2026-11-28T12:44:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Portland affiche des signes intérieurs de richesse",
-      "url": "https://www.basketusa.com/news/965048/portland-affiche-des-signes-interieurs-de-richesse/",
-      "publishedAt": "2026-11-28T12:30:33+00:00"
-    },
-    {
       "source": "clubic",
       "title": "Danger de piratage : Pavel Durov presse ses utilisateurs sur iPhone de mettre à jour iOS",
       "url": "https://www.clubic.com/actualite-641620-pavel-durov-presse-ses-utilisateurs-sur-iphone-de-mettre-a-jour-ios.html",
@@ -518,6 +524,12 @@
       "title": "BYD fait renaître le monospace en version électrique, avec plus de 900 km d'autonomie",
       "url": "https://www.clubic.com/actualite-641608-byd-fait-renaitre-le-monospace-en-version-electrique-avec-presque-900-km-d-autonomie.html",
       "publishedAt": "2026-11-28T11:33:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Portland affiche des signes intérieurs de richesse",
+      "url": "https://www.basketusa.com/news/965048/portland-affiche-des-signes-interieurs-de-richesse/",
+      "publishedAt": "2026-11-28T11:30:33+00:00"
     },
     {
       "source": "clubic",
@@ -3182,24 +3194,6 @@
       "title": "Les enceintes Sonos Era 100 et 300 au meilleur prix pour le Black Friday : jusqu'à -34% !",
       "url": "https://www.mac4ever.com/audio/199329-les-enceintes-sonos-era-100-et-300-au-meilleur-prix-pour-le-black-friday-jusqu-a-34",
       "publishedAt": "2026-11-26T17:22:30+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "La FIFA touchée par une cyberattaque avec vol de données",
-      "url": "https://www.generation-nt.com/actualites/fifa-cyberattaque-vol-donnees-infantino-2085142",
-      "publishedAt": "2026-11-26T17:20:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Black Friday : voici 5 jeux de société incontournables à prix cassés sur Amazon",
-      "url": "https://www.numerama.com/pop-culture/2385651-black-friday-voici-5-jeux-de-societe-incontournables-a-prix-casses-sur-amazon.html",
-      "publishedAt": "2026-11-26T17:16:34+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Suzuki Ignis : une petite électrique pour défier la Twingo",
-      "url": "https://www.mac4ever.com/auto/199328-suzuki-ignis-une-petite-electrique-pour-defier-la-twingo",
-      "publishedAt": "2026-11-26T17:15:00+00:00"
     },
     {
       "source": "boulet",
