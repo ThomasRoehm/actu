@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T08:30:53.631672+00:00",
+  "generatedAt": "2026-11-28T08:40:42.539575+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:30:53.631672+00:00"
+      "lastSuccessAt": "2026-11-28T08:40:42.539575+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Le Black Friday continue : OLED, Mini LED, QLED… voici nos 10 TV préférées à prix choc",
+      "url": "https://www.clubic.com/bons-plans-641350-black-friday-tv-4k-les-10-meilleures-offres-oled-et-mini-led-chez-samsung-sony-tcl-philips-et-hisense.html",
+      "publishedAt": "2026-11-28T08:38:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Le Black Friday est terminé, mais Amazon maintient ses prix sur Kindle, Fire TV et Echo jusqu'à -67 %",
+      "url": "https://www.clubic.com/bons-plans-641125-black-friday-a-la-veille-du-jour-j-amazon-fait-chuter-le-prix-de-10-de-ses-appareils-des-23-99.html",
+      "publishedAt": "2026-11-28T08:32:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "L’attaque des Celtics toujours bien grippée",
+      "url": "https://www.basketusa.com/news/964939/lattaque-des-celtics-bien-grippee/",
+      "publishedAt": "2026-11-28T08:30:57+00:00"
+    },
     {
       "source": "clubic",
       "title": "Thales veut racheter le spécialiste breton des lasers Lumibird",
@@ -209,7 +227,7 @@
     },
     {
       "source": "korben",
-      "title": "usb-rea - Pour faire du reverse engineering d'appareil USB en quelques clics",
+      "title": "usb-rea - Pour faire du reverse engineering d'appareils USB en quelques clics",
       "url": "https://korben.info/usb-rea-pilote-linux-gadget-usb.html",
       "publishedAt": "2026-11-28T07:59:21+00:00"
     },
@@ -1064,12 +1082,6 @@
       "title": "Black Friday : le MacBook Neo 256 Go retrouve son prix de lancement de 699 €",
       "url": "https://www.macg.co/mac/2026/11/black-friday-le-macbook-neo-256-go-retrouve-son-prix-de-lancement-de-699-eu-312711",
       "publishedAt": "2026-11-27T14:12:07+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : c'est le jour J, Amazon fait chuter le prix de 10 de ses appareils, dès 23,99€",
-      "url": "https://www.clubic.com/bons-plans-641125-black-friday-a-la-veille-du-jour-j-amazon-fait-chuter-le-prix-de-10-de-ses-appareils-des-23-99.html",
-      "publishedAt": "2026-11-27T14:12:00+00:00"
     },
     {
       "source": "gnt",
@@ -2024,12 +2036,6 @@
       "title": "Cachous, Valda, Pulmoll… les pastilles contre la toux disparaissent des pharmacies, voici pourquoi",
       "url": "https://www.presse-citron.net/cachous-valda-pulmoll-les-pastilles-contre-la-toux-disparaissent-des-pharmacies-voici-pourquoi/",
       "publishedAt": "2026-11-27T08:50:58+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : voici le TOP 10 des TV OLED et Mini LED à prix choc jusqu'à minuit",
-      "url": "https://www.clubic.com/bons-plans-641350-black-friday-tv-4k-les-10-meilleures-offres-oled-et-mini-led-chez-samsung-sony-tcl-philips-et-hisense.html",
-      "publishedAt": "2026-11-27T08:46:00+00:00"
     },
     {
       "source": "clubic",
@@ -3878,36 +3884,6 @@
       "title": "L’app Carte Vitale arrive sur FranceConnect : 1 500 services en ligne sont accessibles plus facilement",
       "url": "https://www.iphon.fr/post/app-carte-vitale-arrive-franceconnect-1-500-services-en-ligne-accessibles-plus-facilement",
       "publishedAt": "2026-11-26T08:41:46+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Antidote fête ses 30 ans avec un nouvel assistant de rédaction dopé à l’IA",
-      "url": "https://www.macg.co/logiciels/2026/11/antidote-fete-ses-30-ans-avec-un-nouvel-assistant-de-redaction-dope-lia-312675",
-      "publishedAt": "2026-11-26T08:40:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Hollow Knight Silksong : le DLC Sea of Sorrow devrait enfin avoir une date de sortie ce vendredi",
-      "url": "https://www.journaldugeek.com/2026/11/26/hollow-knight-silksong-le-dlc-sea-of-sorrow-devrait-enfin-avoir-une-date-de-sortie-ce-vendredi/",
-      "publishedAt": "2026-11-26T08:36:13+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : RED by SFR double les Go sans augmenter le prix, son forfait 250 Go 5G Voyage tombe à 12,99 €/mois !",
-      "url": "https://www.clubic.com/actualite-641104-black-friday-red-by-sfr-double-les-gigas-sans-augmenter-le-prix-son-forfait-250-go-5g-voyage-tombe-a-12-99-mois.html",
-      "publishedAt": "2026-11-26T08:35:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Black Friday : 69 % de réduction sur VideoProc pour restaurer vos anciennes vidéos/photos avec l'IA",
-      "url": "https://www.mac4ever.com/mac/199302-black-friday-69-de-reduction-sur-videoproc-pour-restaurer-vos-anciennes-videos-photos-avec-l-ia",
-      "publishedAt": "2026-11-26T08:35:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Windows 11 : trop gourmandes en RAM, trois applications imposées par Microsoft vont disparaître",
-      "url": "https://www.clubic.com/actualite-641113-windows-11-trop-gourmandes-en-ram-trois-applications-imposees-par-microsoft-vont-disparaitre.html",
-      "publishedAt": "2026-11-26T08:32:00+00:00"
     },
     {
       "source": "boulet",
