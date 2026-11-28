@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T14:10:37.926732+00:00",
+  "generatedAt": "2026-11-28T14:20:40.417493+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T14:10:37.926732+00:00"
+      "lastSuccessAt": "2026-11-28T14:20:40.417493+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "Netflix : les meilleures séries comiques de la plateforme pour vous redonner le sourire",
+      "url": "https://www.numerama.com/pop-culture/2383695-netflix-les-meilleures-series-comiques-de-la-plateforme-pour-vous-redonner-le-sourire.html",
+      "publishedAt": "2026-11-28T14:20:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : le MacBook Neo retrouve son prix de lancement, et 10 autres produits Apple sont en promo ce week-end",
+      "url": "https://www.clubic.com/bons-plans-641245-black-friday-apple-les-11-meilleures-offres-amazon-des-airpods-pro-3-au-macbook-air.html",
+      "publishedAt": "2026-11-28T14:13:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday en direct : les meilleures offres encore valables ce week-end, jusqu'au Cyber Monday",
@@ -146,6 +158,12 @@
       "title": "Tesla tue le Cybertruck, et les prix d’occasion s’envolent",
       "url": "https://www.clubic.com/actualite-641626-tesla-tue-le-cybertruck-et-les-prix-d-occasion-s-envolent.html",
       "publishedAt": "2026-11-28T14:03:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Tous les Honor 700 ont un écran au dos et une énorme batterie",
+      "url": "https://www.journaldugeek.com/2026/11/28/tous-les-honor-700-ont-un-ecran-au-dos-et-une-enorme-batterie/",
+      "publishedAt": "2026-11-28T14:02:30+00:00"
     },
     {
       "source": "basketusa",
@@ -418,6 +436,12 @@
       "publishedAt": "2026-11-28T09:59:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Rob Dillingham mis au sol par un coup de poing en G-League",
+      "url": "https://www.basketusa.com/news/964871/rob-dillingham-mis-au-sol-par-un-coup-de-poing-en-g-league/",
+      "publishedAt": "2026-11-28T09:43:51+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Le Black Friday continue chez Boulanger : casques, TV OLED, PC… nos 15 offres préférées ce weekend",
       "url": "https://www.clubic.com/bons-plans-641257-black-friday-boulanger-top-15-des-offres-qui-valent-vraiment-le-detour-et-qui-disparaissent-ce-soir.html",
@@ -506,12 +530,6 @@
       "title": "Le Black Friday est passé et la PS5 n'a toujours pas baissé, mais ses accessoires restent en promo ce week-end",
       "url": "https://www.clubic.com/bons-plans-641566-la-ps5-grande-absente-du-black-friday-amazon-se-rattrape-sur-les-accessoires-playstation-5.html",
       "publishedAt": "2026-11-28T08:45:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Rob Dillingham mis au sol par un coup de poing en G-League",
-      "url": "https://www.basketusa.com/news/964871/rob-dillingham-mis-au-sol-par-un-coup-de-poing-en-g-league/",
-      "publishedAt": "2026-11-28T08:43:51+00:00"
     },
     {
       "source": "jdg",
@@ -706,6 +724,12 @@
       "publishedAt": "2026-11-28T06:56:30+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Pour prendre le quart, les Blazers assomment les Warriors d’entrée",
+      "url": "https://www.basketusa.com/news/964947/pour-prendre-le-quart-les-blazers-assomment-les-warriors-dentree/",
+      "publishedAt": "2026-11-28T06:47:31+00:00"
+    },
+    {
       "source": "macg",
       "title": "Bon plan : le MacBook Air M5 de 13 pouces passe à 1 149 € chez Amazon",
       "url": "https://www.macg.co/mac/2026/11/bon-plan-le-macbook-air-m5-de-13-pouces-passe-1-149-eu-chez-amazon-312733",
@@ -734,12 +758,6 @@
       "title": "Les Grizzlies font craquer les Wolves et filent en quarts de finale",
       "url": "https://www.basketusa.com/news/964918/les-grizzlies-font-craquer-les-wolves-et-filent-en-quarts-de-finale/",
       "publishedAt": "2026-11-28T05:58:48+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Pour prendre le quart, les Blazers assomment les Warriors d’entrée",
-      "url": "https://www.basketusa.com/news/964947/pour-prendre-le-quart-les-blazers-assomment-les-warriors-dentree/",
-      "publishedAt": "2026-11-28T05:47:31+00:00"
     },
     {
       "source": "basketusa",
@@ -2530,12 +2548,6 @@
       "publishedAt": "2026-11-27T08:00:04+00:00"
     },
     {
-      "source": "clubic",
-      "title": "Black Friday Apple : les 11 meilleures offres Amazon, des AirPods Pro 3 au Macbook Air",
-      "url": "https://www.clubic.com/bons-plans-641245-black-friday-apple-les-11-meilleures-offres-amazon-des-airpods-pro-3-au-macbook-air.html",
-      "publishedAt": "2026-11-27T08:00:00+00:00"
-    },
-    {
       "source": "numerama",
       "title": "Victime d’une cyberattaque, l’Agence France-Presse ferme brutalement l’accès à une de ses plateformes : voici ce que l’on sait",
       "url": "https://www.numerama.com/cyberguerre/2385847-victime-dune-cyberattaque-lagence-france-presse-ferme-brutalement-lacces-a-une-de-ses-plateformes-voici-ce-que-lon-sait.html",
@@ -3380,42 +3392,6 @@
       "title": "WhatsApp : ça y est, vous allez pouvoir programmer des messages !",
       "url": "https://www.clubic.com/actualite-641215-whatsapp-ca-y-est-vous-allez-pouvoir-programmer-des-messages.html",
       "publishedAt": "2026-11-26T14:23:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Effondrement de jetée, routes inondées : comment El Niño fait déborder la Californie sans tempête",
-      "url": "https://www.numerama.com/sciences/2385439-effondrement-de-jetee-routes-inondees-comment-el-nino-fait-deborder-la-californie-sans-tempete.html",
-      "publishedAt": "2026-11-26T14:20:15+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "2 milliards d’identifiants compromis : cette base de données expose un nombre record d’individus sur Internet",
-      "url": "https://www.iphon.fr/post/2-milliards-identifiants-compromis-base-donnees-expose-nombre-record-individus-internet",
-      "publishedAt": "2026-11-26T14:17:07+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday : la Fnac sort le grand jeu sur les TV Samsung (OLED, The Frame, Micro RGB)",
-      "url": "https://www.generation-nt.com/actualites/fnac-tv-4k-pas-cher-samsung-the-frame-qled-oled-micro-rgb-black-mini-led-neo-qled-friday-promos-2085120",
-      "publishedAt": "2026-11-26T14:15:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Toujours sans identité, les Cavaliers commencent à manquer de temps",
-      "url": "https://www.basketusa.com/news/964424/toujours-sans-identite-les-cavaliers-commencent-a-manquer-de-temps/",
-      "publishedAt": "2026-11-26T14:12:29+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Le Bitcoin a perdu la moitié de sa valeur depuis octobre 2025, Nvidia n'y change rien",
-      "url": "https://www.mac4ever.com/divers/199322-le-bitcoin-a-perdu-la-moitie-de-sa-valeur-depuis-octobre-2025-nvidia-n-y-change-rien",
-      "publishedAt": "2026-11-26T14:12:00+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Infantino peut souffler : des hackers ont piraté la Fifa mais épargné son projet le plus sensible",
-      "url": "https://www.numerama.com/cyberguerre/2385419-infantino-peut-souffler-des-hackers-ont-pirate-la-fifa-mais-epargne-son-projet-le-plus-sensible.html",
-      "publishedAt": "2026-11-26T14:11:54+00:00"
     },
     {
       "source": "boulet",
