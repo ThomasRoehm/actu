@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T08:10:43.666310+00:00",
+  "generatedAt": "2026-11-28T08:20:40.314908+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     },
     {
       "id": "boulet",
@@ -131,15 +131,27 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T08:10:43.666310+00:00"
+      "lastSuccessAt": "2026-11-28T08:20:40.314908+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday en direct : dernière ligne droite, les meilleures offres à saisir avant minuit",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-28T08:14:00+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Black Friday : CyberGhost VPN casse son prix à 1,59 €/mois (-87 %) avec 4 mois offerts",
       "url": "https://www.mac4ever.com/securite/199360-black-friday-cyberghost-vpn-casse-son-prix-a-1-59-mois-87-avec-4-mois-offerts",
       "publishedAt": "2026-11-28T08:07:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "À San Antonio, la drôle d’altercation de Luka Doncic avec un spectateur",
+      "url": "https://www.basketusa.com/news/964986/a-san-antonio-la-drole-daltercation-de-luka-doncic-avec-un-spectateur/",
+      "publishedAt": "2026-11-28T08:05:49+00:00"
     },
     {
       "source": "iphon",
@@ -178,16 +190,16 @@
       "publishedAt": "2026-11-28T08:00:00+00:00"
     },
     {
+      "source": "korben",
+      "title": "usb-rea - Pour faire du reverse engineering d'appareil USB en quelques clics",
+      "url": "https://korben.info/usb-rea-pilote-linux-gadget-usb.html",
+      "publishedAt": "2026-11-28T07:59:21+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Le display de 36 boosters Pokémon Équilibre Parfait passe en promo pour le Black Friday",
       "url": "https://www.numerama.com/pop-culture/2387021-le-display-de-36-boosters-pokemon-equilibre-parfait-passe-en-promo-pour-le-black-friday.html",
       "publishedAt": "2026-11-28T07:42:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
-      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
-      "publishedAt": "2026-11-28T07:42:09+00:00"
     },
     {
       "source": "jdg",
@@ -286,6 +298,12 @@
       "publishedAt": "2026-11-28T06:47:31+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
+      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
+      "publishedAt": "2026-11-28T06:42:09+00:00"
+    },
+    {
       "source": "macg",
       "title": "Bon plan : le MacBook Air M5 de 13 pouces passe à 1 149 € chez Amazon",
       "url": "https://www.macg.co/mac/2026/11/bon-plan-le-macbook-air-m5-de-13-pouces-passe-1-149-eu-chez-amazon-312733",
@@ -302,12 +320,6 @@
       "title": "Les Celtics se sabordent face aux Hawks…",
       "url": "https://www.basketusa.com/news/964905/les-celtics-se-sabordent-face-aux-hawks/",
       "publishedAt": "2026-11-28T06:23:22+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
-      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
-      "publishedAt": "2026-11-28T06:05:46+00:00"
     },
     {
       "source": "basketusa",
@@ -332,6 +344,12 @@
       "title": "Avec un immense Giannis, le Heat sort les Knicks de la NBA Cup",
       "url": "https://www.basketusa.com/news/964873/avec-un-monstrueux-giannis-le-heat-elimine-les-knicks-de-la-nba-cup/",
       "publishedAt": "2026-11-28T05:28:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
+      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
+      "publishedAt": "2026-11-28T05:05:46+00:00"
     },
     {
       "source": "tda",
@@ -398,12 +416,6 @@
       "title": "L'iPad A16 11 pouces profite d'une belle baisse de prix à 479,99 € chez la Fnac",
       "url": "https://www.generation-nt.com/actualites/fnac-promo-black-friday-apple-ipad-a16-11-pouces-wifi-5g-pas-cher-2085202",
       "publishedAt": "2026-11-27T19:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday en direct : dernière ligne droite, les meilleures offres à saisir avant minuit",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-27T19:20:00+00:00"
     },
     {
       "source": "clubic",
@@ -550,12 +562,6 @@
       "publishedAt": "2026-11-27T17:25:01+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Course au MVP | Victor Wembanyama et Luka Doncic, déjà loin devant ?",
-      "url": "https://www.basketusa.com/news/964742/course-au-mvp-victor-wembanyama-et-luka-doncic-deja-loin-devant/",
-      "publishedAt": "2026-11-27T17:11:45+00:00"
-    },
-    {
       "source": "gnt",
       "title": "Windows 11 : avis de dépréciation pour une fonctionnalité Bluetooth",
       "url": "https://www.generation-nt.com/actualites/windows-11-depreciation-bluetooth-family-safety-2085180",
@@ -668,6 +674,12 @@
       "title": "Oups, faute de permis, Google suspend son gigantesque chantier de data center en Belgique",
       "url": "https://www.generation-nt.com/actualites/google-datacenter-construction-belgique-defaut-permis-2085189",
       "publishedAt": "2026-11-27T16:15:01+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Course au MVP | Victor Wembanyama et Luka Doncic, déjà loin devant ?",
+      "url": "https://www.basketusa.com/news/964742/course-au-mvp-victor-wembanyama-et-luka-doncic-deja-loin-devant/",
+      "publishedAt": "2026-11-27T16:11:45+00:00"
     },
     {
       "source": "numerama",
@@ -3896,30 +3908,6 @@
       "title": "Plus d’un milliard d’euros : à quoi va servir la forge géante de Framatome au Creusot ?",
       "url": "https://www.numerama.com/tech/2385139-plus-dun-milliard-deuros-a-quoi-va-servir-la-forge-geante-de-framatome-au-creusot.html",
       "publishedAt": "2026-11-26T08:21:52+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Portland n’a pas lâché son plan anti-Wemby",
-      "url": "https://www.basketusa.com/news/964328/portland-na-pas-lache-son-plan-anti-wemby/",
-      "publishedAt": "2026-11-26T08:20:23+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Nova Lake : le futur processeur Intel Core Ultra 9 4970K BFC peut-il terrasser les puces AMD X3D ?",
-      "url": "https://www.generation-nt.com/actualites/intel-core-ultra-4000-processeur-pc-bureau-caracteristiques-fuite-2085101",
-      "publishedAt": "2026-11-26T08:20:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Tesla FSD en France : le vote européen repoussé au 15 décembre",
-      "url": "https://www.mac4ever.com/auto/199308-tesla-fsd-en-france-le-vote-europeen-repousse-au-15-decembre",
-      "publishedAt": "2026-11-26T08:17:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Séisme : NVIDIA suspend ses livraisons de serveurs IA vers l'Asie du Sud-Est, la Chine en ligne de mire",
-      "url": "https://www.clubic.com/actualite-641092-nvidia-suspend-ses-livraisons-de-puces-vers-l-asie-du-sud-est.html",
-      "publishedAt": "2026-11-26T08:16:00+00:00"
     },
     {
       "source": "boulet",
