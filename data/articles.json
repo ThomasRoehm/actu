@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T17:30:52.780660+00:00",
+  "generatedAt": "2026-11-28T17:40:40.728904+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T17:30:52.780660+00:00"
+      "lastSuccessAt": "2026-11-28T17:40:40.728904+00:00"
     },
     {
       "id": "boulet",
@@ -135,6 +135,12 @@
     }
   ],
   "articles": [
+    {
+      "source": "iphon",
+      "title": "Black Week : sélection des meilleures offres (iPhone, iPad, Mac, accessoires, etc.)",
+      "url": "https://www.iphon.fr/post/black-friday-2026-meilleures-offres",
+      "publishedAt": "2026-11-28T17:34:07+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday : les AirPods Pro 3 tombent à 188€ chez Amazon, leur prix le plus bas jamais vu",
@@ -460,6 +466,12 @@
       "publishedAt": "2026-11-28T12:44:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Portland affiche des signes intérieurs de richesse",
+      "url": "https://www.basketusa.com/news/965048/portland-affiche-des-signes-interieurs-de-richesse/",
+      "publishedAt": "2026-11-28T12:30:33+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Danger de piratage : Pavel Durov presse ses utilisateurs sur iPhone de mettre à jour iOS",
       "url": "https://www.clubic.com/actualite-641620-pavel-durov-presse-ses-utilisateurs-sur-iphone-de-mettre-a-jour-ios.html",
@@ -530,12 +542,6 @@
       "title": "BYD fait renaître le monospace en version électrique, avec plus de 900 km d'autonomie",
       "url": "https://www.clubic.com/actualite-641608-byd-fait-renaitre-le-monospace-en-version-electrique-avec-presque-900-km-d-autonomie.html",
       "publishedAt": "2026-11-28T11:33:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Portland affiche des signes intérieurs de richesse",
-      "url": "https://www.basketusa.com/news/965048/portland-affiche-des-signes-interieurs-de-richesse/",
-      "publishedAt": "2026-11-28T11:30:33+00:00"
     },
     {
       "source": "clubic",
@@ -1190,12 +1196,6 @@
       "title": "Orange et Ligue 1+ font entrer le Dolby Atmos dans le championnat, mais sur un seul décodeur !",
       "url": "https://www.clubic.com/actualite-641491-orange-et-ligue-1-font-entrer-le-dolby-atmos-dans-le-championnat-mais-sur-un-seul-decodeur.html",
       "publishedAt": "2026-11-27T17:35:00+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "Black Week : sélection des meilleures offres (iPhone, iPad, Mac, accessoires, etc.)",
-      "url": "https://www.iphon.fr/post/black-friday-2026-meilleures-offres",
-      "publishedAt": "2026-11-27T17:33:04+00:00"
     },
     {
       "source": "clubic",
@@ -3170,24 +3170,6 @@
       "title": "Ligue nationale de basket piratée : 40 000 comptes exposés, et un chantage contre les supporters",
       "url": "https://www.clubic.com/actualite-641293-ligue-nationale-de-basket-piratee-40-000-comptes-exposes-et-un-chantage-contre-les-supporters.html",
       "publishedAt": "2026-11-26T17:57:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Sony décroche un partenariat marketing pour The Witcher 4",
-      "url": "https://www.generation-nt.com/actualites/partenariat-marketing-sony-witcher-4-2085075",
-      "publishedAt": "2026-11-26T17:40:01+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Parc Dragon Ball : le maire de Cergy pose ses conditions, mais sans Goku",
-      "url": "https://www.journaldugeek.com/2026/11/26/parc-dragon-ball-le-maire-de-cergy-pose-ses-conditions-mais-sans-goku/",
-      "publishedAt": "2026-11-26T17:32:34+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "macOS peut capturer images et vidéos en HDR",
-      "url": "https://www.macg.co/macos/2026/11/macos-peut-capturer-images-et-videos-en-hdr-312689",
-      "publishedAt": "2026-11-26T17:31:00+00:00"
     },
     {
       "source": "boulet",
