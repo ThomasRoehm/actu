@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T16:50:46.439262+00:00",
+  "generatedAt": "2026-11-28T17:01:06.912791+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
+      "lastSuccessAt": "2026-11-28T17:01:06.912791+00:00"
     },
     {
       "id": "boulet",
@@ -136,10 +136,28 @@
   ],
   "articles": [
     {
+      "source": "clubic",
+      "title": "Les puces Nvidia les plus puissantes découvertes en Chine sur un site lié à Alice Huang",
+      "url": "https://www.clubic.com/actualite-641674-les-puces-nvidia-les-plus-puissantes-decouvertes-en-chine-sur-un-site-lie-a-alice-huang.html",
+      "publishedAt": "2026-11-28T16:59:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday en direct : les meilleures offres encore valables ce week-end, jusqu'au Cyber Monday",
+      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
+      "publishedAt": "2026-11-28T16:53:00+00:00"
+    },
+    {
       "source": "numerama",
       "title": "Essai McLaren Artura : l’électrique en fait une meilleure supercar, mais la marque ne veut pas aller plus loin",
       "url": "https://www.numerama.com/vroom/2384895-essai-mclaren-artura-lelectrique-en-fait-une-meilleure-supercar-mais-la-marque-ne-veut-pas-aller-plus-loin.html",
       "publishedAt": "2026-11-28T16:47:11+00:00"
+    },
+    {
+      "source": "presse",
+      "title": "Adieu les SUV : les jeunes générations abandonnent ces véhicules et se tournent vers des voitures très particulières",
+      "url": "https://www.presse-citron.net/adieu-les-suv-les-jeunes-generations-abandonnent-ces-vehicules-et-se-tournent-vers-des-voitures-tres-particulieres/",
+      "publishedAt": "2026-11-28T16:45:44+00:00"
     },
     {
       "source": "clubic",
@@ -160,6 +178,12 @@
       "publishedAt": "2026-11-28T16:31:09+00:00"
     },
     {
+      "source": "gnt",
+      "title": "La France bascule officiellement en récession économique",
+      "url": "https://www.generation-nt.com/actualites/france-economie-recession-recul-pib-2085203",
+      "publishedAt": "2026-11-28T16:30:01+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Plus que quelques jours pour profiter de Deezer Premium à 1 € par mois pendant 4 mois",
       "url": "https://www.clubic.com/bons-plans-639943-plus-que-quelques-jours-pour-profiter-de-deezer-premium-a-1-par-mois-pendant-4-mois.html",
@@ -172,16 +196,16 @@
       "publishedAt": "2026-11-28T16:23:00+00:00"
     },
     {
+      "source": "korben",
+      "title": "Petite histoire du Cambodge",
+      "url": "https://korben.info/cambodge-histoire-protectorat-khmers-rouges.html",
+      "publishedAt": "2026-11-28T16:17:40+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Une famille ligotée chez elle pour un code crypto et sept suspects arrêtés",
       "url": "https://www.clubic.com/actualite-641662-une-famille-ligotee-chez-elle-pour-un-code-crypto-et-sept-suspects-arretes.html",
       "publishedAt": "2026-11-28T16:15:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday en direct : les meilleures offres encore valables ce week-end, jusqu'au Cyber Monday",
-      "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-28T16:10:00+00:00"
     },
     {
       "source": "clubic",
@@ -304,12 +328,6 @@
       "publishedAt": "2026-11-28T14:45:50+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Les Suns concèdent leur « pire défaite de la saison »",
-      "url": "https://www.basketusa.com/news/965028/les-suns-concedent-leur-pire-defaite-de-la-saison/",
-      "publishedAt": "2026-11-28T14:27:12+00:00"
-    },
-    {
       "source": "clubic",
       "title": "ChatGPT bientôt capable d'appeler et d'envoyer des SMS pour vous sur Android",
       "url": "https://www.clubic.com/actualite-641632-chatgpt-bientot-capable-d-appeler-et-d-envoyer-des-sms-pour-vous-sur-android.html",
@@ -356,6 +374,12 @@
       "title": "Le Black Friday est passé, mais la Nintendo Switch 2 est de retour à son meilleur prix",
       "url": "https://www.clubic.com/bons-plans-641209-le-black-friday-sourit-aux-gamers-la-nintendo-switch-2-avec-batterie-remplacable-descend-a-429-chez-amazon.html",
       "publishedAt": "2026-11-28T13:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Suns concèdent leur « pire défaite de la saison »",
+      "url": "https://www.basketusa.com/news/965028/les-suns-concedent-leur-pire-defaite-de-la-saison/",
+      "publishedAt": "2026-11-28T13:27:12+00:00"
     },
     {
       "source": "clubic",
@@ -410,12 +434,6 @@
       "title": "One UI 9.5 : cette fonction de Samsung affiche des pubs après une simple chute du téléphone",
       "url": "https://www.clubic.com/actualite-641617-one-ui-9-5-cette-fonction-de-samsung-affiche-des-pubs-apres-une-simple-chute-du-telephone.html",
       "publishedAt": "2026-11-28T12:44:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Portland affiche des signes intérieurs de richesse",
-      "url": "https://www.basketusa.com/news/965048/portland-affiche-des-signes-interieurs-de-richesse/",
-      "publishedAt": "2026-11-28T12:30:33+00:00"
     },
     {
       "source": "clubic",
@@ -482,6 +500,12 @@
       "title": "BYD fait renaître le monospace en version électrique, avec plus de 900 km d'autonomie",
       "url": "https://www.clubic.com/actualite-641608-byd-fait-renaitre-le-monospace-en-version-electrique-avec-presque-900-km-d-autonomie.html",
       "publishedAt": "2026-11-28T11:33:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Portland affiche des signes intérieurs de richesse",
+      "url": "https://www.basketusa.com/news/965048/portland-affiche-des-signes-interieurs-de-richesse/",
+      "publishedAt": "2026-11-28T11:30:33+00:00"
     },
     {
       "source": "clubic",
@@ -3188,24 +3212,6 @@
       "title": "Apple vante l’autonomie exceptionnelle de l’iPhone 18 Pro Max",
       "url": "https://www.iphon.fr/post/apple-autonomie-iphone-18-pro-max-publicite",
       "publishedAt": "2026-11-26T17:01:17+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Google Maps teste un mode moto dédié sur Android Auto",
-      "url": "https://www.generation-nt.com/actualites/google-maps-mode-moto-android-auto-2085076",
-      "publishedAt": "2026-11-26T17:00:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Dons d’argent aux enfants : de très gros changements sont prévus en 2027",
-      "url": "https://www.presse-citron.net/dons-dargent-aux-enfants-de-tres-gros-changements-sont-prevus-en-2027/",
-      "publishedAt": "2026-11-26T16:53:43+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
-      "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
-      "publishedAt": "2026-11-26T16:51:17+00:00"
     },
     {
       "source": "boulet",
