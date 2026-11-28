@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T16:01:07.678199+00:00",
+  "generatedAt": "2026-11-28T16:10:41.680279+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:01:07.678199+00:00"
+      "lastSuccessAt": "2026-11-28T16:10:41.680279+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Black Friday prolongé : iPhone Air, Galaxy S26 Ultra, Pixel 11… les offres smartphones encore valables ce week-end",
+      "url": "https://www.clubic.com/bons-plans-641509-black-friday-smartphones-pixel-11-galaxy-s26-ultra-iphone-air-les-7-meilleures-offres-qui-disparaitront-ce-soir.html",
+      "publishedAt": "2026-11-28T16:06:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Black Friday : ce Galaxy S25 compact noté 9/10 chute à 549€ chez Boulanger",
+      "url": "https://www.clubic.com/bons-plans-641653-black-friday-ce-galaxy-s25-compact-note-9-10-chute-a-549-chez-boulanger.html",
+      "publishedAt": "2026-11-28T16:04:00+00:00"
+    },
+    {
+      "source": "jdg",
+      "title": "Tidal va virer des millions de morceaux générés par IA",
+      "url": "https://www.journaldugeek.com/2026/11/28/tidal-va-virer-des-millions-de-morceaux-generes-par-ia/",
+      "publishedAt": "2026-11-28T16:00:39+00:00"
+    },
     {
       "source": "clubic",
       "title": "Black Friday en direct : les meilleures offres encore valables ce week-end, jusqu'au Cyber Monday",
@@ -376,6 +394,12 @@
       "publishedAt": "2026-11-28T12:10:01+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Comparé à Shaq, Victor Wembanyama ne manque pas de répartie",
+      "url": "https://www.basketusa.com/news/965087/compare-a-shaq-victor-wembanyama-ne-manque-pas-de-repartie/",
+      "publishedAt": "2026-11-28T12:08:28+00:00"
+    },
+    {
       "source": "numerama",
       "title": "On a (enfin) fini GTA 6 et, oui, il est extraordinaire",
       "url": "https://www.numerama.com/pop-culture/2386719-on-a-enfin-fini-gta-6-et-oui-il-est-extraordinaire.html",
@@ -434,12 +458,6 @@
       "title": "CrowdStrike rachète Zscaler pour 44 milliards de dollars",
       "url": "https://www.generation-nt.com/actualites/crowdsrike-rachat-zscaler-44-milliards-dollars-cybersecurite-2084989",
       "publishedAt": "2026-11-28T11:10:01+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Comparé à Shaq, Victor Wembanyama ne manque pas de répartie",
-      "url": "https://www.basketusa.com/news/965087/compare-a-shaq-victor-wembanyama-ne-manque-pas-de-repartie/",
-      "publishedAt": "2026-11-28T11:08:28+00:00"
     },
     {
       "source": "clubic",
@@ -574,6 +592,12 @@
       "publishedAt": "2026-11-28T09:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
+      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
+      "publishedAt": "2026-11-28T09:21:11+00:00"
+    },
+    {
       "source": "clubic",
       "title": "Black Friday : 600€ en moins sur ce pack Pixel 11 Pro XL, avec une enceinte B&O dans la boîte !",
       "url": "https://www.clubic.com/bons-plans-641590-black-friday-600-en-moins-sur-ce-pack-pixel-11-pro-xl-avec-une-enceinte-b-o-dans-la-boite.html",
@@ -676,12 +700,6 @@
       "publishedAt": "2026-11-28T08:30:00+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
-      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
-      "publishedAt": "2026-11-28T08:21:11+00:00"
-    },
-    {
       "source": "mac4ever",
       "title": "Black Friday : CyberGhost VPN casse son prix à 1,59 €/mois (-87 %) avec 4 mois offerts",
       "url": "https://www.mac4ever.com/securite/199360-black-friday-cyberghost-vpn-casse-son-prix-a-1-59-mois-87-avec-4-mois-offerts",
@@ -746,12 +764,6 @@
       "title": "Le display de 36 boosters Pokémon Équilibre Parfait passe en promo pour le Black Friday",
       "url": "https://www.numerama.com/pop-culture/2387021-le-display-de-36-boosters-pokemon-equilibre-parfait-passe-en-promo-pour-le-black-friday.html",
       "publishedAt": "2026-11-28T07:42:38+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "NBA Cup | Un duel Flagg – Wemby dès les quarts de finale !",
-      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
-      "publishedAt": "2026-11-28T07:42:09+00:00"
     },
     {
       "source": "jdg",
@@ -844,6 +856,12 @@
       "publishedAt": "2026-11-28T06:47:31+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Cup | Un duel Flagg – Wemby dès les quarts de finale !",
+      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
+      "publishedAt": "2026-11-28T06:42:09+00:00"
+    },
+    {
       "source": "macg",
       "title": "Bon plan : le MacBook Air M5 de 13 pouces passe à 1 149 € chez Amazon",
       "url": "https://www.macg.co/mac/2026/11/bon-plan-le-macbook-air-m5-de-13-pouces-passe-1-149-eu-chez-amazon-312733",
@@ -860,6 +878,12 @@
       "title": "Les Celtics se sabordent face aux Hawks…",
       "url": "https://www.basketusa.com/news/964905/les-celtics-se-sabordent-face-aux-hawks/",
       "publishedAt": "2026-11-28T06:23:22+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
+      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
+      "publishedAt": "2026-11-28T06:05:46+00:00"
     },
     {
       "source": "basketusa",
@@ -884,12 +908,6 @@
       "title": "Avec un immense Giannis, le Heat sort les Knicks de la NBA Cup",
       "url": "https://www.basketusa.com/news/964873/avec-un-monstrueux-giannis-le-heat-elimine-les-knicks-de-la-nba-cup/",
       "publishedAt": "2026-11-28T05:28:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
-      "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
-      "publishedAt": "2026-11-28T05:05:46+00:00"
     },
     {
       "source": "tda",
@@ -1292,12 +1310,6 @@
       "title": "Un dangereux malware découvert sur 220 000 smartphones Android : il peut manipuler l’appareil d’un utilisateur",
       "url": "https://www.iphon.fr/post/dangereux-malware-decouvert220-000-smartphones-android-il-peut-manipuler-appareil-utilisateur",
       "publishedAt": "2026-11-27T15:47:23+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday smartphones : Pixel 11, Galaxy S26 Ultra, iPhone Air… les 7 meilleures offres qui disparaitront ce soir",
-      "url": "https://www.clubic.com/bons-plans-641509-black-friday-smartphones-pixel-11-galaxy-s26-ultra-iphone-air-les-7-meilleures-offres-qui-disparaitront-ce-soir.html",
-      "publishedAt": "2026-11-27T15:45:00+00:00"
     },
     {
       "source": "gnt",
@@ -3206,42 +3218,6 @@
       "title": "Alertes sur les sites GenAI : l'extension de Next disponible pour Safari",
       "url": "https://www.macg.co/logiciels/2026/11/alertes-sur-les-sites-genai-lextension-de-next-disponible-pour-safari-312687",
       "publishedAt": "2026-11-26T16:15:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "ChatGPT : la fusion Chat, Work et Codex pénalise les gros utilisateurs",
-      "url": "https://www.generation-nt.com/actualites/chatgpt-openai-fusion-chat-work-codex-quota-2085112",
-      "publishedAt": "2026-11-26T16:10:01+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Comment naissent les étoiles ? La NASA nous offre une réponse incroyable en sons et en images !",
-      "url": "https://www.mac4ever.com/divers/199320-comment-naissent-les-etoiles-la-nasa-nous-offre-une-reponse-incroyable-en-sons-et-en-images",
-      "publishedAt": "2026-11-26T16:06:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Erik Spoelstra cherche encore l’ADN défensif du Heat",
-      "url": "https://www.basketusa.com/news/964519/erik-spoelstra-cherche-encore-ladn-defensif-du-heat/",
-      "publishedAt": "2026-11-26T16:04:08+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Après avoir photographié Didymos, la sonde Hera a capturé les premières images de son compagnon Dimorphos. Percuté par la sonde DART de la NASA, il arbore désormais un cratère de la taille d’un stade de football",
-      "url": "https://www.journaldugeek.com/2026/11/26/apres-avoir-photographie-didymos-sonde-hera-capture-premieres-images-compagnon-dimorphos-percute-sonde-dart-nasa-arbore-cratere-taille-stade-football/",
-      "publishedAt": "2026-11-26T16:02:37+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le chiffrement de bout en bout suffit-il à protéger vos mots de passe quand votre gestionnaire se fait pirater ?",
-      "url": "https://www.clubic.com/dossier-641251-le-chiffrement-de-bout-en-bout-suffit-il-a-proteger-vos-mots-de-passe-quand-votre-gestionnaire-se-fait-pirater.html",
-      "publishedAt": "2026-11-26T16:02:00+00:00"
-    },
-    {
-      "source": "tda",
-      "title": "[shopping] Le Black Friday est lancé sur le NFL Shop !",
-      "url": "https://touchdownactu.com/361953/shopping-le-black-friday-est-lance-sur-le-nfl-shop/",
-      "publishedAt": "2026-11-26T16:01:18+00:00"
     },
     {
       "source": "boulet",
