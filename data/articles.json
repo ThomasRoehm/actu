@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:20:39.076607+00:00",
+  "generatedAt": "2026-11-28T13:31:01.316814+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:20:39.076607+00:00"
+      "lastSuccessAt": "2026-11-28T13:31:01.316814+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "YouTube change encore sa page d’accueil sur smartphone et ajoute une option surprenante",
+      "url": "https://www.clubic.com/actualite-641623-youtube-change-encore-sa-page-d-accueil-sur-smartphone-et-ajoute-une-option-surprenante.html",
+      "publishedAt": "2026-11-28T13:24:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Amazon prolonge le Black Friday et brade le Google Pixel 11 à son meilleur prix",
+      "url": "https://www.clubic.com/bons-plans-641635-amazon-prolonge-le-black-friday-et-brade-le-google-pixel-11-a-son-meilleur-prix.html",
+      "publishedAt": "2026-11-28T13:23:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Record battu : un quasar observé juste après le Big Bang",
+      "url": "https://www.generation-nt.com/actualites/euclid-quasar-record-dun-aonghasa-2085039",
+      "publishedAt": "2026-11-28T13:10:01+00:00"
+    },
     {
       "source": "mac4ever",
       "title": "Lutte contre les feux de voitures électriques : notre enquete auprès des sapeurs-pompiers",
@@ -521,7 +539,7 @@
     },
     {
       "source": "basketusa",
-      "title": "La drôle d’altercation de Luka Doncic avec un fan des Spurs",
+      "title": "La drôle d’altercation entre Luka Doncic et un fan des Spurs",
       "url": "https://www.basketusa.com/news/964986/a-san-antonio-la-drole-daltercation-de-luka-doncic-avec-un-spectateur/",
       "publishedAt": "2026-11-28T08:05:49+00:00"
     },
@@ -581,7 +599,7 @@
     },
     {
       "source": "basketusa",
-      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
+      "title": "NBA Cup | Un duel Flagg – Wemby dès les quarts de finale !",
       "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
       "publishedAt": "2026-11-28T07:42:09+00:00"
     },
@@ -689,12 +707,6 @@
     },
     {
       "source": "basketusa",
-      "title": "Les Celtics se sabordent face aux Hawks…",
-      "url": "https://www.basketusa.com/news/964905/les-celtics-se-sabordent-face-aux-hawks/",
-      "publishedAt": "2026-11-28T06:23:22+00:00"
-    },
-    {
-      "source": "basketusa",
       "title": "Menés de 20 points, Victor Wembanyama et les Spurs renversent les Lakers !",
       "url": "https://www.basketusa.com/news/964840/au-bout-du-suspense-victor-wembanyama-et-les-spurs-font-tomber-les-lakers/",
       "publishedAt": "2026-11-28T06:05:46+00:00"
@@ -722,6 +734,12 @@
       "title": "Avec un immense Giannis, le Heat sort les Knicks de la NBA Cup",
       "url": "https://www.basketusa.com/news/964873/avec-un-monstrueux-giannis-le-heat-elimine-les-knicks-de-la-nba-cup/",
       "publishedAt": "2026-11-28T05:28:02+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Celtics se sabordent face aux Hawks…",
+      "url": "https://www.basketusa.com/news/964905/les-celtics-se-sabordent-face-aux-hawks/",
+      "publishedAt": "2026-11-28T05:23:22+00:00"
     },
     {
       "source": "tda",
@@ -3458,30 +3476,6 @@
       "title": "Puces IA : voici comment Huawei compte conquérir les terres historiques de NVIDIA",
       "url": "https://www.clubic.com/actualite-641176-puces-ia-voici-comment-huawei-compte-conquerir-les-terres-historiques-de-nvidia.html",
       "publishedAt": "2026-11-26T13:32:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Amazon et Meta négocient l'accès de l'agent IA Muse",
-      "url": "https://www.generation-nt.com/actualites/muse-agent-blocage-amazon-meta-2085113",
-      "publishedAt": "2026-11-26T13:30:01+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Vous trouvez la conduite de GTA 6 particulièrement pointue ? C’est normal",
-      "url": "https://www.numerama.com/pop-culture/2385185-vous-trouvez-la-conduite-de-gta-6-particulierement-pointue-cest-normal.html",
-      "publishedAt": "2026-11-26T13:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Darius Acuff Jr. à l’épreuve des prises à deux",
-      "url": "https://www.basketusa.com/news/964423/darius-acuff-jr-a-lepreuve-des-prises-a-deux/",
-      "publishedAt": "2026-11-26T13:28:59+00:00"
-    },
-    {
-      "source": "numerama",
-      "title": "Avengers: Doomsday affole déjà les compteurs",
-      "url": "https://www.numerama.com/pop-culture/2385397-avengers-doomsday-affole-deja-les-compteurs.html",
-      "publishedAt": "2026-11-26T13:26:29+00:00"
     },
     {
       "source": "boulet",
