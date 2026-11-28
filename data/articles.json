@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T16:40:41.996870+00:00",
+  "generatedAt": "2026-11-28T16:50:46.439262+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T16:40:41.996870+00:00"
+      "lastSuccessAt": "2026-11-28T16:50:46.439262+00:00"
     },
     {
       "id": "boulet",
@@ -136,10 +136,22 @@
   ],
   "articles": [
     {
+      "source": "numerama",
+      "title": "Essai McLaren Artura : l’électrique en fait une meilleure supercar, mais la marque ne veut pas aller plus loin",
+      "url": "https://www.numerama.com/vroom/2384895-essai-mclaren-artura-lelectrique-en-fait-une-meilleure-supercar-mais-la-marque-ne-veut-pas-aller-plus-loin.html",
+      "publishedAt": "2026-11-28T16:47:11+00:00"
+    },
+    {
       "source": "clubic",
       "title": "BYD présente en détail son projet d'implantation à Hambach",
       "url": "https://www.clubic.com/actualite-641665-byd-a-presente-en-detail-son-projet-implantation-hambach.html",
       "publishedAt": "2026-11-28T16:37:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le 28 novembre 1992, Reggie Miller passait 57 points aux Hornets",
+      "url": "https://www.basketusa.com/news/610568/28-novembre-1992-reggie-miller-inscrivait-57-points-pour-battre-les-hornets/",
+      "publishedAt": "2026-11-28T16:36:57+00:00"
     },
     {
       "source": "macg",
@@ -292,6 +304,12 @@
       "publishedAt": "2026-11-28T14:45:50+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Les Suns concèdent leur « pire défaite de la saison »",
+      "url": "https://www.basketusa.com/news/965028/les-suns-concedent-leur-pire-defaite-de-la-saison/",
+      "publishedAt": "2026-11-28T14:27:12+00:00"
+    },
+    {
       "source": "clubic",
       "title": "ChatGPT bientôt capable d'appeler et d'envoyer des SMS pour vous sur Android",
       "url": "https://www.clubic.com/actualite-641632-chatgpt-bientot-capable-d-appeler-et-d-envoyer-des-sms-pour-vous-sur-android.html",
@@ -338,12 +356,6 @@
       "title": "Le Black Friday est passé, mais la Nintendo Switch 2 est de retour à son meilleur prix",
       "url": "https://www.clubic.com/bons-plans-641209-le-black-friday-sourit-aux-gamers-la-nintendo-switch-2-avec-batterie-remplacable-descend-a-429-chez-amazon.html",
       "publishedAt": "2026-11-28T13:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Suns concèdent leur « pire défaite de la saison »",
-      "url": "https://www.basketusa.com/news/965028/les-suns-concedent-leur-pire-defaite-de-la-saison/",
-      "publishedAt": "2026-11-28T13:27:12+00:00"
     },
     {
       "source": "clubic",
@@ -3194,24 +3206,6 @@
       "title": "NBA Cup : un mal pour un bien en cas d’élimination des Knicks ?",
       "url": "https://www.basketusa.com/news/964486/nba-cup-un-mal-pour-un-bien-en-cas-delimination-des-knicks/",
       "publishedAt": "2026-11-26T16:51:17+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday : Cdiscount lance officiellement ses offres jusqu'à -60 % (avec codes promo en prime) !",
-      "url": "https://www.generation-nt.com/actualites/airpods-5-redmi-note-17-google-pixel-9a-casque-jbl-tune-530bt-airfryer-ninja-camera-dji-cdiscount-promos-pas-cher-black-friday-2085135",
-      "publishedAt": "2026-11-26T16:45:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday : 17 PC portables jusqu'à -47% chez Amazon, du modèle étudiant à 449€ au PC gamer RTX 5070",
-      "url": "https://www.clubic.com/bons-plans-641161-black-friday-macbook-air-m5-dell-xps-13-pc-gamer-rtx-amazon-fait-plonger-17-pc-portables-des-449.html",
-      "publishedAt": "2026-11-26T16:42:00+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "iPhone 18e : Apple s'accrocherait encore à l'écran 60 Hz en 2027",
-      "url": "https://www.mac4ever.com/iphone/199327-iphone-18e-apple-s-accrocherait-encore-a-l-ecran-60-hz-en-2027",
-      "publishedAt": "2026-11-26T16:41:00+00:00"
     },
     {
       "source": "boulet",
