@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T10:20:38.863878+00:00",
+  "generatedAt": "2026-11-28T10:30:54.882694+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     },
     {
       "id": "boulet",
@@ -131,21 +131,33 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T10:20:38.863878+00:00"
+      "lastSuccessAt": "2026-11-28T10:30:54.882694+00:00"
     }
   ],
   "articles": [
     {
       "source": "clubic",
+      "title": "Fini les téléphones et voitures qui flanchent l’hiver ! Ces nouvelles batteries lithium-ion tiennent jusqu’à -50°C",
+      "url": "https://www.clubic.com/actualite-641593-fini-les-telephones-et-voitures-qui-flanchent-l-hiver-ces-nouvelles-batteries-lithium-ion-tiennent-jusqu-a--50-c.html",
+      "publishedAt": "2026-11-28T10:23:00+00:00"
+    },
+    {
+      "source": "clubic",
       "title": "Black Friday en direct : les meilleures offres encore valables ce week-end, jusqu'au Cyber Monday",
       "url": "https://www.clubic.com/actualite-639082-black-friday-2026-en-direct-les-meilleures-offres-tech-mises-a-jour-en-continu.html",
-      "publishedAt": "2026-11-28T10:17:00+00:00"
+      "publishedAt": "2026-11-28T10:22:00+00:00"
     },
     {
       "source": "clubic",
       "title": "Black Friday Amazon : voici 100 offres de FOLIE à saisir ce week-end, jusqu'à -67% !",
       "url": "https://www.clubic.com/bons-plans-641278-black-friday-2026-amazon-degaine-son-top-100-des-offres-tech-jusqu-a--67-aujourd-hui.html",
       "publishedAt": "2026-11-28T10:14:00+00:00"
+    },
+    {
+      "source": "gnt",
+      "title": "Un laser à rayons X bat un record mondial et filme enfin le mouvement des électrons",
+      "url": "https://www.generation-nt.com/actualites/laser-rayons-x-record-electrons-2084956",
+      "publishedAt": "2026-11-28T10:05:01+00:00"
     },
     {
       "source": "iphon",
@@ -200,12 +212,6 @@
       "title": "La HAS et la CNIL listent les obligations des cabinets médicaux équipés d'IA",
       "url": "https://www.clubic.com/actualite-641584-ia-en-soins-la-has-et-la-cnil-publient-un-guide-essentiel-pour-encadrer-les-pratiques-medicales.html",
       "publishedAt": "2026-11-28T09:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
-      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
-      "publishedAt": "2026-11-28T09:21:11+00:00"
     },
     {
       "source": "clubic",
@@ -304,6 +310,12 @@
       "publishedAt": "2026-11-28T08:30:00+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "Victor Wembanyama et Stephon Castle, les deux visages de la révolte des Spurs",
+      "url": "https://www.basketusa.com/news/964968/victor-wembanyama-et-stephon-castle-les-deux-visages-de-la-revolte-des-spurs/",
+      "publishedAt": "2026-11-28T08:21:11+00:00"
+    },
+    {
       "source": "mac4ever",
       "title": "Black Friday : CyberGhost VPN casse son prix à 1,59 €/mois (-87 %) avec 4 mois offerts",
       "url": "https://www.mac4ever.com/securite/199360-black-friday-cyberghost-vpn-casse-son-prix-a-1-59-mois-87-avec-4-mois-offerts",
@@ -370,12 +382,6 @@
       "publishedAt": "2026-11-28T07:42:38+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
-      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
-      "publishedAt": "2026-11-28T07:42:09+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Gandalf, Anneau Unique et Theo : les tops et les flops des Anneaux de pouvoir saison 3",
       "url": "https://www.journaldugeek.com/dossier/gandalf-lanneau-unique-et-theo-les-tops-et-les-flops-des-anneaux-de-pouvoir-saison-3/",
@@ -404,12 +410,6 @@
       "title": "Black Friday : les meilleures offres du week-end, avant le Cyber Monday (EN DIRECT)",
       "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
       "publishedAt": "2026-11-28T07:15:11+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le MVP de la nuit | Cooper Flagg, un récital à un contre du « five-by-five »",
-      "url": "https://www.basketusa.com/news/964926/le-mvp-de-la-nuit-cooper-flagg-un-recital-a-un-contre-du-five-by-five/",
-      "publishedAt": "2026-11-28T07:14:16+00:00"
     },
     {
       "source": "gnt",
@@ -466,6 +466,12 @@
       "publishedAt": "2026-11-28T06:47:31+00:00"
     },
     {
+      "source": "basketusa",
+      "title": "NBA Cup | Un duel Cooper Flagg – Victor Wembanyama dès les quarts de finale !",
+      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
+      "publishedAt": "2026-11-28T06:42:09+00:00"
+    },
+    {
       "source": "macg",
       "title": "Bon plan : le MacBook Air M5 de 13 pouces passe à 1 149 € chez Amazon",
       "url": "https://www.macg.co/mac/2026/11/bon-plan-le-macbook-air-m5-de-13-pouces-passe-1-149-eu-chez-amazon-312733",
@@ -482,6 +488,12 @@
       "title": "Les Celtics se sabordent face aux Hawks…",
       "url": "https://www.basketusa.com/news/964905/les-celtics-se-sabordent-face-aux-hawks/",
       "publishedAt": "2026-11-28T06:23:22+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Le MVP de la nuit | Cooper Flagg, un récital à un contre du « five-by-five »",
+      "url": "https://www.basketusa.com/news/964926/le-mvp-de-la-nuit-cooper-flagg-un-recital-a-un-contre-du-five-by-five/",
+      "publishedAt": "2026-11-28T06:14:16+00:00"
     },
     {
       "source": "basketusa",
@@ -3644,30 +3656,6 @@
       "title": "GTA 6 : les joueurs ont trouvé un moyen de déshabiller Lucia avec cette méthode",
       "url": "https://www.journaldugeek.com/2026/11/26/gta-6-les-joueurs-ont-trouve-un-moyen-de-deshabiller-lucia-avec-cette-methode/",
       "publishedAt": "2026-11-26T10:32:26+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "“Le marché du travail est gelé” : LinkedIn révèle l’astuce qui permet aux jeunes diplômés de trouver un emploi plus vite",
-      "url": "https://www.presse-citron.net/marche-travail-gele-linkedin-astuce-jeunes-diplomes/",
-      "publishedAt": "2026-11-26T10:30:28+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Black Friday NRJ Mobile : 2 mois offerts sur le forfait 5G 100 Go !",
-      "url": "https://www.generation-nt.com/actualites/forfait-nrj-mobile-100-go-5g-pas-cher-black-friday-sans-engagement-bouygues-telecom-2085071",
-      "publishedAt": "2026-11-26T10:30:02+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Brandon Williams, le « Bip Bip » des Warriors",
-      "url": "https://www.basketusa.com/news/964366/brandon-williams-le-bip-bip-des-warriors/",
-      "publishedAt": "2026-11-26T10:23:01+00:00"
-    },
-    {
-      "source": "iphon",
-      "title": "MacBook Air : Apple prépare une refonte majeure pour 2027",
-      "url": "https://www.iphon.fr/post/macbook-air-refonte-majeure-2027",
-      "publishedAt": "2026-11-26T10:21:36+00:00"
     },
     {
       "source": "boulet",
