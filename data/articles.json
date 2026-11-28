@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:50:39.336307+00:00",
+  "generatedAt": "2026-11-28T12:01:05.715190+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,28 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T11:50:39.336307+00:00"
+      "lastSuccessAt": "2026-11-28T12:01:05.715190+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Des moddeurs font tourner GTA 6 sur Mac grâce à l’IA, mais il y a encore un gros hic",
+      "url": "https://www.clubic.com/actualite-641611-des-moddeurs-font-tourner-gta-6-sur-mac-grace-a-l-ia-mais-il-y-a-encore-un-gros-hic.html",
+      "publishedAt": "2026-11-28T11:59:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Il recycle sa machine de minage de crypto pour y faire tourner GTA 6",
+      "url": "https://www.clubic.com/actualite-641614-il-recycle-sa-machine-de-minage-de-crypto-pour-y-faire-tourner-gta-6.html",
+      "publishedAt": "2026-11-28T11:55:00+00:00"
+    },
+    {
+      "source": "clubic",
+      "title": "Elon Musk l'affirme, Google veut louer encore plus de puissance de calcul à SpaceX !",
+      "url": "https://www.clubic.com/actualite-641605-elon-musk-l-affirme-google-veut-louer-encore-plus-de-puissance-de-calcul-a-spacex.html",
+      "publishedAt": "2026-11-28T11:52:00+00:00"
+    },
     {
       "source": "tda",
       "title": "[podcast] Vive le Football Libre : road trip NFL et Thanksgiving",
@@ -3536,30 +3554,6 @@
       "title": "Aaron Nesmith, un temps mort pour sortir du tunnel",
       "url": "https://www.basketusa.com/news/964218/aaron-nesmith-un-temps-mort-pour-sortir-du-tunnel/",
       "publishedAt": "2026-11-26T12:05:06+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Intermarché va intégrer Claude : comment cette IA s’invite dans la grande distribution ?",
-      "url": "https://www.presse-citron.net/intermarche-va-integrer-claude-comment-cette-ia-sinvite-dans-la-grande-distribution/",
-      "publishedAt": "2026-11-26T12:00:34+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Google Wallet : cette nouveauté facilite grandement le paiement par carte bancaire",
-      "url": "https://www.journaldugeek.com/2026/11/26/google-wallet-nouveaute-facilite-grandement-paiement-carte-bancaire-cryptogramme/",
-      "publishedAt": "2026-11-26T12:00:29+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Google Messages prépare des réponses groupées à la manière d'iMessage",
-      "url": "https://www.generation-nt.com/actualites/google-messages-reponses-groupees-imessage-2085090",
-      "publishedAt": "2026-11-26T12:00:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Le Black Friday voit grand : cette TV QLED Xiaomi de 190 cm de diagonale passe à 499€ sur Amazon",
-      "url": "https://www.clubic.com/bons-plans-641146-le-black-friday-voit-grand-cette-tv-qled-xiaomi-de-190-cm-de-diagonale-passe-a-499-sur-amazon.html",
-      "publishedAt": "2026-11-26T11:56:00+00:00"
     },
     {
       "source": "boulet",
