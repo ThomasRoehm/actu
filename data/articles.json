@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T12:50:37.690203+00:00",
+  "generatedAt": "2026-11-28T13:01:03.424496+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,16 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T12:50:37.690203+00:00"
+      "lastSuccessAt": "2026-11-28T13:01:03.424496+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "numerama",
+      "title": "GTA VI utilise son retour haptique dans tout le jeu, et la manette DualSense tombe à 48,99 € pour le Black Friday",
+      "url": "https://www.numerama.com/tech/2386881-gta-vi-utilise-son-retour-haptique-dans-tout-le-jeu-et-la-manette-dualsense-tombe-a-4899-e-pour-le-black-friday.html",
+      "publishedAt": "2026-11-28T13:00:00+00:00"
+    },
     {
       "source": "clubic",
       "title": "One UI 9.5 : cette fonction de Samsung affiche des pubs après une simple chute du téléphone",
@@ -188,12 +194,6 @@
       "title": "Des moddeurs font tourner GTA 6 sur Mac grâce à l'IA, mais il y a encore un gros hic",
       "url": "https://www.clubic.com/actualite-641611-des-moddeurs-font-tourner-gta-6-sur-mac-grace-a-l-ia-mais-il-y-a-encore-un-gros-hic.html",
       "publishedAt": "2026-11-28T11:59:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Luka Doncic avait personnellement réclamé Walker Kessler",
-      "url": "https://www.basketusa.com/news/964875/luka-doncic-avait-personnellement-reclame-walker-kessler/",
-      "publishedAt": "2026-11-28T11:56:50+00:00"
     },
     {
       "source": "clubic",
@@ -266,6 +266,12 @@
       "title": "WhatsApp veut vous vendre des cartes eSIM pour vos voyages",
       "url": "https://www.iphon.fr/post/whatsapp-cartes-esim",
       "publishedAt": "2026-11-28T10:59:38+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Luka Doncic avait personnellement réclamé Walker Kessler",
+      "url": "https://www.basketusa.com/news/964875/luka-doncic-avait-personnellement-reclame-walker-kessler/",
+      "publishedAt": "2026-11-28T10:56:50+00:00"
     },
     {
       "source": "clubic",
@@ -3488,36 +3494,6 @@
       "title": "Palo Alto corrige une faille Linux exploitée par des pirates pour prendre le contrôle de ses pare-feu",
       "url": "https://www.clubic.com/actualite-641143-palo-alto-corrige-une-faille-linux-exploitee-par-des-pirates-pour-prendre-le-controle-de-ses-pare-feu.html",
       "publishedAt": "2026-11-26T13:02:00+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "XPeng prépare son robot IRON au prix d'une berline électrique pour 2027",
-      "url": "https://www.generation-nt.com/actualites/xpeng-iron-robot-humanoide-production-masse-prix-suv-2085126",
-      "publishedAt": "2026-11-26T13:00:01+00:00"
-    },
-    {
-      "source": "presse",
-      "title": "Argent : un plafond de paiement en espèces arrive en France très bientôt, voici ce qui se prépare",
-      "url": "https://www.presse-citron.net/argent-un-plafond-de-paiement-en-especes-arrive-en-france-tres-bientot-voici-ce-qui-se-prepare/",
-      "publishedAt": "2026-11-26T12:59:49+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Gemini devient enfin l’assistant dont on a toujours rêvé, à condition de vivre dans l’un de ces 6 pays",
-      "url": "https://www.journaldugeek.com/2026/11/26/gemini-devient-enfin-lassistant-dont-on-a-toujours-reve-a-condition-de-vivre-dans-lun-de-ces-6-pays/",
-      "publishedAt": "2026-11-26T12:56:44+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Le Top 100 des plus beaux dunks de Shawn Kemp",
-      "url": "https://www.basketusa.com/news/258367/happy-birthday-le-top-100-des-dunks-de-shawn-kemp/",
-      "publishedAt": "2026-11-26T12:56:44+00:00"
-    },
-    {
-      "source": "korben",
-      "title": "Voilà comment jouer à GTA 6 sans PS5 ni Xbox (ou l'offrir), pour pas trop cher !",
-      "url": "https://korben.info/voila-comment-jouer-a-gta-6-sans-ps5-ni-xbox-ou-loffrir-pour-pas-trop-cher.html",
-      "publishedAt": "2026-11-26T12:52:23+00:00"
     },
     {
       "source": "boulet",
