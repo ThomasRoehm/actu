@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T06:20:43.642648+00:00",
+  "generatedAt": "2026-11-28T06:30:53.753614+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     },
     {
       "id": "boulet",
@@ -131,10 +131,22 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T06:20:43.642648+00:00"
+      "lastSuccessAt": "2026-11-28T06:30:53.753614+00:00"
     }
   ],
   "articles": [
+    {
+      "source": "clubic",
+      "title": "Dernières heures pour profiter de l'offre spécial Black Friday pour ce logiciel de nettoyage Mac",
+      "url": "https://www.clubic.com/bons-plans-640534-dernieres-heures-pour-profiter-de-l-offre-special-black-friday-pour-ce-logiciel-de-nettoyage-mac.html",
+      "publishedAt": "2026-11-28T06:30:00+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "Les Celtics se sabordent face aux Hawks…",
+      "url": "https://www.basketusa.com/news/964905/les-celtics-se-sabordent-face-aux-hawks/",
+      "publishedAt": "2026-11-28T06:23:22+00:00"
+    },
     {
       "source": "basketusa",
       "title": "Au bout du suspense, Victor Wembanyama et les Spurs font tomber les Lakers",
@@ -151,13 +163,19 @@
       "source": "basketusa",
       "title": "Les Sixers écrasent les Pacers pour se qualifier",
       "url": "https://www.basketusa.com/news/964882/les-sixers-se-qualifient-en-ecrasant-les-pacers/",
-      "publishedAt": "2026-11-28T04:37:48+00:00"
+      "publishedAt": "2026-11-28T05:37:48+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "50 ans d’Apple : dernière chance pour commander notre livre avant les fêtes, avec deux nouveaux packs",
+      "url": "https://www.macg.co/macgeneration/2026/11/50-ans-dapple-derniere-chance-pour-commander-notre-livre-avant-les-fetes-avec-deux-nouveaux-packs-312681",
+      "publishedAt": "2026-11-28T05:30:00+00:00"
     },
     {
       "source": "basketusa",
       "title": "Avec un immense Giannis, le Heat sort les Knicks de la NBA Cup",
       "url": "https://www.basketusa.com/news/964873/avec-un-monstrueux-giannis-le-heat-elimine-les-knicks-de-la-nba-cup/",
-      "publishedAt": "2026-11-28T04:28:02+00:00"
+      "publishedAt": "2026-11-28T05:28:02+00:00"
     },
     {
       "source": "tda",
@@ -170,6 +188,18 @@
       "title": "Steelers – Broncos (27-5) : Sans Rodgers, la vie redevient belle pour Pittsburgh",
       "url": "https://touchdownactu.com/362016/steelers-broncos-27-5-sans-rodgers-la-vie-redevient-belle-pour-pittsburgh/",
       "publishedAt": "2026-11-27T23:03:18+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday 2026 - jour J : le récap des meilleures offres (MacBook Neo, AirPods, domotique…)",
+      "url": "https://www.macg.co/materiel/2026/11/black-friday-2026-notre-recap-des-meilleures-offres-airpods-chargeurs-apple-watch-312645",
+      "publishedAt": "2026-11-27T22:59:00+00:00"
+    },
+    {
+      "source": "macg",
+      "title": "Black Friday 2026 : quelques-unes de nos offres préférées",
+      "url": "https://www.macg.co/materiel/2026/11/black-friday-2026-quelques-unes-de-nos-offres-preferees-312727",
+      "publishedAt": "2026-11-27T22:55:00+00:00"
     },
     {
       "source": "tda",
@@ -280,12 +310,6 @@
       "publishedAt": "2026-11-27T18:30:03+00:00"
     },
     {
-      "source": "macg",
-      "title": "50 ans d’Apple : dernière chance pour commander notre livre avant les fêtes, avec deux nouveaux packs",
-      "url": "https://www.macg.co/macgeneration/2026/11/50-ans-dapple-derniere-chance-pour-commander-notre-livre-avant-les-fetes-avec-deux-nouveaux-packs-312681",
-      "publishedAt": "2026-11-27T18:30:00+00:00"
-    },
-    {
       "source": "clubic",
       "title": "iPhone : des prix qui vont flamber à cause des nouveaux droits de douane de Trump contre la Chine ?",
       "url": "https://www.clubic.com/actualite-641560-iphone-des-prix-qui-vont-flamber-a-cause-des-nouveaux-droits-de-douane-de-trump-contre-la-chine.html",
@@ -308,12 +332,6 @@
       "title": "Les anneaux de pouvoir mérite-t-elle toutes les critiques ? On en parle.",
       "url": "https://www.journaldugeek.com/2026/11/27/les-anneaux-de-pouvoir-merite-t-elle-toutes-les-critiques-on-en-parle/",
       "publishedAt": "2026-11-27T18:17:16+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday 2026 : quelques-unes de nos offres préférées",
-      "url": "https://www.macg.co/materiel/2026/11/black-friday-2026-quelques-unes-de-nos-offres-preferees-312727",
-      "publishedAt": "2026-11-27T18:08:00+00:00"
     },
     {
       "source": "gnt",
@@ -728,12 +746,6 @@
       "title": "iPad en promo pour le Black Friday : Amazon frappe fort avec jusqu'à 120€ de remise !",
       "url": "https://www.clubic.com/bons-plans-641518-black-friday-amazon-l-ipad-air-m4-chute-a-709-et-ce-n-est-pas-le-seul-ipad-en-promo.html",
       "publishedAt": "2026-11-27T14:52:00+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "Black Friday 2026 - jour J : le récap des meilleures offres (MacBook Neo, AirPods, domotique…)",
-      "url": "https://www.macg.co/materiel/2026/11/black-friday-2026-notre-recap-des-meilleures-offres-airpods-chargeurs-apple-watch-312645",
-      "publishedAt": "2026-11-27T14:51:32+00:00"
     },
     {
       "source": "mac4ever",
@@ -3938,48 +3950,6 @@
       "title": "Et si l’IA voyait venir les crises avant nous ? Voici comment Epochal veut permettre à celle-ci de prédire l’avenir",
       "url": "https://www.presse-citron.net/et-si-lia-voyait-venir-les-crises-avant-nous-voici-comment-epochal-veut-permettre-a-celle-ci-de-predire-lavenir/",
       "publishedAt": "2026-11-26T06:33:16+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "Tuto : comment recharger son Pass Navigo mensuel directement dans Google Wallet ?",
-      "url": "https://www.journaldugeek.com/2026/11/26/tuto-comment-recharger-son-pass-navigo-mensuel-directement-dans-google-wallet/",
-      "publishedAt": "2026-11-26T06:30:43+00:00"
-    },
-    {
-      "source": "macg",
-      "title": "1Password piraté : le code source et des données clients dans la nature, mais les coffres restent inviolés",
-      "url": "https://www.macg.co/logiciels/2026/11/1password-pirate-le-code-source-et-des-donnees-clients-dans-la-nature-mais-les-coffres-restent-invioles-312669",
-      "publishedAt": "2026-11-26T06:30:09+00:00"
-    },
-    {
-      "source": "gnt",
-      "title": "Des puces Nvidia grand public guident les armes autonomes russes en Ukraine",
-      "url": "https://www.generation-nt.com/actualites/nvidia-jetson-orin-puce-ia-integration-drone-russe-2085078",
-      "publishedAt": "2026-11-26T06:30:01+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "Black Friday Samduo : 400 € de remise sur les batteries solaires de la gamme Nex E (et des iPhone Duo et 18 Pro à gagner)",
-      "url": "https://www.clubic.com/bons-plans-638038-black-friday-samduo-400-de-remise-sur-les-batteries-solaires-de-la-gamme-nex-e-et-des-iphone-duo-et-18-pro-a-gagner.html",
-      "publishedAt": "2026-11-26T06:30:00+00:00"
-    },
-    {
-      "source": "clubic",
-      "title": "L’ANSM alerte sur les conseils de l’IA pour doser les médicaments",
-      "url": "https://www.clubic.com/actualite-641089-l-ansm-alerte-sur-les-conseils-de-l-ia-pour-doser-les-medicaments.html",
-      "publishedAt": "2026-11-26T06:30:00+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Avec un épatant Sidy Cissoko, les Blazers résistent au show Wembanyama",
-      "url": "https://www.basketusa.com/news/964277/avec-un-epatant-sidy-cissoko-les-blazers-resistent-au-show-wembanyama/",
-      "publishedAt": "2026-11-26T06:29:20+00:00"
-    },
-    {
-      "source": "basketusa",
-      "title": "Les Cavaliers renversés par les remplaçants des Knicks",
-      "url": "https://www.basketusa.com/news/964245/les-remplacants-des-knicks-renversent-les-cavaliers/",
-      "publishedAt": "2026-11-26T06:23:45+00:00"
     },
     {
       "source": "boulet",
