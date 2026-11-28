@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:40:39.565680+00:00",
+  "generatedAt": "2026-11-28T13:50:45.080674+00:00",
   "sources": [
     {
       "id": "gnt",
@@ -10,7 +10,7 @@
       "icon": "icons/gnt.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "clubic",
@@ -21,7 +21,7 @@
       "icon": "icons/clubic.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "numerama",
@@ -32,7 +32,7 @@
       "icon": "icons/numerama.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "jdg",
@@ -43,7 +43,7 @@
       "icon": "icons/jdg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "presse",
@@ -54,7 +54,7 @@
       "icon": "icons/presse.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "iphon",
@@ -65,7 +65,7 @@
       "icon": "icons/iphon.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "macg",
@@ -76,7 +76,7 @@
       "icon": "icons/macg.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "mac4ever",
@@ -87,7 +87,7 @@
       "icon": "icons/mac4ever.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "korben",
@@ -98,7 +98,7 @@
       "icon": "icons/korben.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "basketusa",
@@ -109,7 +109,7 @@
       "icon": "icons/basketusa.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "tda",
@@ -120,7 +120,7 @@
       "icon": "icons/tda.png",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     },
     {
       "id": "boulet",
@@ -131,7 +131,7 @@
       "icon": "icons/boulet.jpg",
       "ok": true,
       "error": null,
-      "lastSuccessAt": "2026-11-28T13:40:39.565680+00:00"
+      "lastSuccessAt": "2026-11-28T13:50:45.080674+00:00"
     }
   ],
   "articles": [
@@ -604,12 +604,6 @@
       "publishedAt": "2026-11-28T07:42:38+00:00"
     },
     {
-      "source": "basketusa",
-      "title": "NBA Cup | Un duel Flagg – Wemby dès les quarts de finale !",
-      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
-      "publishedAt": "2026-11-28T07:42:09+00:00"
-    },
-    {
       "source": "jdg",
       "title": "Gandalf, Anneau Unique et Theo : les tops et les flops des Anneaux de pouvoir saison 3",
       "url": "https://www.journaldugeek.com/dossier/gandalf-lanneau-unique-et-theo-les-tops-et-les-flops-des-anneaux-de-pouvoir-saison-3/",
@@ -698,6 +692,12 @@
       "title": "Pour prendre le quart, les Blazers assomment les Warriors d’entrée",
       "url": "https://www.basketusa.com/news/964947/pour-prendre-le-quart-les-blazers-assomment-les-warriors-dentree/",
       "publishedAt": "2026-11-28T06:47:31+00:00"
+    },
+    {
+      "source": "basketusa",
+      "title": "NBA Cup | Un duel Flagg – Wemby dès les quarts de finale !",
+      "url": "https://www.basketusa.com/news/964975/nba-cup-un-duel-cooper-flagg-victor-wembanyama-des-les-quarts-de-finale/",
+      "publishedAt": "2026-11-28T06:42:09+00:00"
     },
     {
       "source": "macg",
@@ -3446,18 +3446,6 @@
       "title": "Après Riemann, ce chercheur de renom est « quasiment certain » que l’IA a trouvé autre chose, et ça concerne vos données",
       "url": "https://www.numerama.com/tech/2385329-apres-riemann-ce-chercheur-de-renom-est-quasiment-certain-que-lia-a-trouve-autre-chose-et-ca-concerne-vos-donnees.html",
       "publishedAt": "2026-11-26T13:52:00+00:00"
-    },
-    {
-      "source": "jdg",
-      "title": "GTA 6 : toutes les fins possibles et comment les débloquer",
-      "url": "https://www.journaldugeek.com/2026/11/26/gta-6-toutes-les-fins-possibles-et-comment-les-debloquer/",
-      "publishedAt": "2026-11-26T13:45:35+00:00"
-    },
-    {
-      "source": "mac4ever",
-      "title": "Un cratère de la taille d’un stade après le choc d’une sonde de la NASA",
-      "url": "https://www.mac4ever.com/divers/199321-un-cratere-de-la-taille-d-un-stade-apres-le-choc-d-une-sonde-de-la-nasa",
-      "publishedAt": "2026-11-26T13:41:00+00:00"
     },
     {
       "source": "boulet",
